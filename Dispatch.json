@@ -1,0 +1,1106 @@
+{
+	"Sinner Dispatch": [
+		{
+			"Rarity Purple": [
+				{
+					"Dispatch": [
+						{
+							"Title": "Technical Support",
+							"Required Sinners": "Summer",
+							"Dispatch Text": "The parent organization's research institute has recently encountered several technical difficulties. Considering the extent of professional knowledge required, there seems to be only one suitable candidate."
+						},
+						{
+							"Title": "Ornamental Snake At Large",
+							"Required Sinners": "Serpent",
+							"Dispatch Text": "An ornamental snake in an Eastside zoo has escaped and caused injuries, sparking public panic. To capture it as soon as possible, the Public Security Bureau is in urgent need of assistance from professionals versed in snake behaviors."
+						},
+						{
+							"Title": "Supervise Work",
+							"Required Sinners": "Langley",
+							"Dispatch Text": "The Bureau needs to evaluate recent dispatch work and draft an outlook for future missions. One of your superiors is the right person to assist you."
+						},
+						{
+							"Title": "Bewildering Chase",
+							"Required Sinners": "Demon",
+							"Dispatch Text": "The villain in the classified file has reappeared. We have pinpointed the event route."
+						},
+						{
+							"Title": "Supreme Dance",
+							"Required Sinners": "Hamel",
+							"Dispatch Text": "The Corruptors of DisSea have become extremely active recently. The district has opened up unpopulated control zones for special commissioners to use."
+						},
+						{
+							"Title": "DisSea Surveillance",
+							"Required Sinners": "Nox",
+							"Dispatch Text": "Recently, the contamination level of DisSea underwent wild fluctuations. The District of DisSea has requested our support."
+						},
+						{
+							"Title": "Important Decision",
+							"Required Sinners": "Eirene",
+							"Dispatch Text": "While remote control is possible, these industries still require the presence of decision makers in person when a major incident occurs."
+						},
+						{
+							"Title": "Fatal Weapon",
+							"Required Sinners": "Zoya",
+							"Dispatch Text": "A new type of weapon has recently become popular in Syndicate. The overlord of Syndicate and the leader of the Legion decided to personally investigate."
+						},
+						{
+							"Title": "Art Counselor",
+							"Required Sinners": "Enfer",
+							"Dispatch Text": "A new sculpture museum is being prepared in the Eastside. The person in charge contacted the Bureau, wanting to hire a professional as an art consultant."
+						},
+						{
+							"Title": "Board Game Chaos",
+							"Required Sinners": "Etti",
+							"Dispatch Text": "The Public Security Bureau reports that some outlaws have been disguising as board game players. The Bureau sends someone versed in this kind of activity to assist in the arrest."
+						},
+						{
+							"Title": "Mystery Copycat",
+							"Required Sinners": "Adela",
+							"Dispatch Text": "There have been a number of recent crimes mimicking the Foggy Night Mystery, and a Sinner with knowledge of this urban legend is needed to go to the rescue."
+						},
+						{
+							"Title": "",
+							"Required Sinners": "OwO",
+							"Dispatch Text": "An MBCC staffer who is opening a shop in their hometown invites a certain Sinner to perform a lion dance at the grand opening."
+						},
+						{
+							"Title": "",
+							"Required Sinners": "Raven",
+							"Dispatch Text": "A well-known school in Eastside is holding an open academic event that welcomes people from all walks of life to participate. An aspiring teacher in the Bureau is requesting to go there for an inspection."
+						},
+						{
+							"Title": "Joint Exercise",
+							"Required Sinners": "Rahu",
+							"Dispatch Text": "The FAC has organized a joint exercise competition and requests an experienced former FAC officer to participate."
+						},
+						{
+							"Title": "Cinematic Masterclass",
+							"Required Sinners": "Derin",
+							"Dispatch Text": "A film academy based in Eastside is organizing a lecture on filmmaking for its students. The administration contacts the MBCC to invite a certain master filmmaker to give the lecture."
+						},
+						{
+							"Title": "Moonbathing Spot",
+							"Required Sinners": "Coquelic",
+							"Dispatch Text": "A suspected Mania incident occurred at an open-air bath in Eastside. Because the bath has a unique nighttime theme, a Sinner passionate about bathing has made strong requests to go and investigate."
+						},
+						{
+							"Title": "Super Speed",
+							"Required Sinners": "Bai Yi",
+							"Dispatch Text": "A super-high-speed motorcycle developed by Turbine Tech has been stolen by the Biker Party. After switching hands many times, the task of locating the bike landed with Whitestone Industries."
+						},
+						{
+							"Title": "Tasting Invitation",
+							"Required Sinners": "Cabernet",
+							"Dispatch Text": "The owner of a highly anticipated restaurant in Eastside is inviting a famous gourmet to try the food on the day of the opening ceremony."
+						},
+						{
+							"Title": "Corruptor Attack",
+							"Required Sinners": "Oak Casket",
+							"Dispatch Text": "Corruptors from an unknown source have attacked a certain location. By request, the Bureau sends professionals to help."
+						},
+						{
+							"Title": "Confession Tree Hole",
+							"Required Sinners": "Dreya",
+							"Dispatch Text": "The Bureau needs a keen listener for others to confide in, and designates a room designed to look like the starry cosmos as a place to vent."
+						},
+						{
+							"Title": "Tide of Ashes",
+							"Required Sinners": "Stargazer",
+							"Dispatch Text": "Abnormal fluctuations have appeared in this cycle's Tide of Ashes. The Secret Society Matrix wants to discover the reason behind this phenomenon."
+						},
+						{
+							"Title": "Yagyu Anomaly",
+							"Required Sinners": "Crache",
+							"Dispatch Text": "There has been a huge inflow of funds into Yagyu's accounts. According to relevant intelligence, they are trying to launch a new \"hunt\" and must be stopped."
+						},
+						{
+							"Title": "Eccentric Music Meetup",
+							"Required Sinners": "Shalom",
+							"Dispatch Text": "An Eastside socialite sent an invitation for an eccentric underground music meetup. A Sinner with broad taste in music claimed the invitation and plans to record the music event with her Schorl."
+						},
+						{
+							"Title": "Zoo Theft",
+							"Required Sinners": "Mantis",
+							"Dispatch Text": "A batch of crocodiles has gone missing from an Eastside zoo. The Public Security Bureau has caught the culprit, but the crocodiles are nowhere to be found. They urgently need a Sinner who is a wildlife expert to assist in the search."
+						},
+						{
+							"Title": "Gaze of the Toys",
+							"Required Sinners": "Eve",
+							"Dispatch Text": "Recently, many citizens have reported feeling watched by their daughter's dolls, suspecting that a peeping gang has put their modified toys into the market. A Sinner who is proficient in toy design and manufacturing is urgently needed to assist with the investigation."
+						},
+						{
+							"Title": "",
+							"Required Sinners": "Eleven",
+							"Dispatch Text": "Recently the number of insomnia patients received by Eastside Hospital has climbed sharply, most of which are allegedly induced by the fear of the scary urban legend, and are in urgent need of hypnosis ASMR programs to assist in their treatment."
+						},
+						{
+							"Title": "History of Rustfire",
+							"Required Sinners": "Donald",
+							"Dispatch Text": "The Bureau plans to compile a comprehensive history document of the rise and development of Rustfire. They need those in the know to assist them."
+						}
+					]
+				}
+			],
+			"Rarity Blue": [
+				{
+					"Dispatch": [
+						{
+							"Title": "Secret Exchange",
+							"Required Sinners": "Cinnabar, Ignis",
+							"Dispatch Text": "A secret deal will take place at a drag ball, requiring the right person to sneak in and stop it."
+						},
+						{
+							"Title": "Old Paradeisos House",
+							"Required Sinners": "Cinnabar, Victoria",
+							"Dispatch Text": "A dusty old house in Paradeisos has recently been burglarized. The Bureau will send relevant personnel to sneak in secretly and investigate."
+						},
+						{
+							"Title": "Ominous Playground",
+							"Required Sinners": "Hecate, Pacassi",
+							"Dispatch Text": "Abnormal levels of radiation have been detected near an amusement park. Experts are required to deal with it."
+						},
+						{
+							"Title": "Toy Puppet",
+							"Required Sinners": "Oliver, Iron",
+							"Dispatch Text": "Rumor has it that toy puppets have come to life and are roaming along the Rust. The Bureau needs to determine the veracity of these rumors."
+						},
+						{
+							"Title": "Murder Mystery",
+							"Required Sinners": "Sumire, Tetra",
+							"Dispatch Text": "After an informant planted in a secret organization died in an incident, the organization also disappeared from DisCity. To uncover the truth behind this, the Bureau needs two key personnel."
+						},
+						{
+							"Title": "Sandworm Frenzy",
+							"Required Sinners": "Chameleon, Wolverine",
+							"Dispatch Text": "The sandworms of WhiteSands are in a frenzy. We need an experienced hunter to deal with them. It will be even better if we can figure out the reason behind the commotion."
+						},
+						{
+							"Title": "Missing Pets",
+							"Required Sinners": "Wolverine, Chelsea",
+							"Dispatch Text": "There has been a number of missing pet cases in Eastside. The search for missing pets and the search for fugitives shall be carried out simultaneously."
+						},
+						{
+							"Title": "Phantom Thief Debut",
+							"Required Sinners": "Priscilla, Tetra",
+							"Dispatch Text": "A copycat has appeared among an infamous band of robbers! For some, this is completely intolerable."
+						},
+						{
+							"Title": "Pharmaceutical Research",
+							"Required Sinners": "Anne, Victoria",
+							"Dispatch Text": "The cooperation with Banyan Medical College and SALVA is advancing in an orderly manner. Relevant technical data must be strictly protected."
+						},
+						{
+							"Title": "Limited Edition",
+							"Required Sinners": "Mess, Oliver",
+							"Dispatch Text": "A popular toy shop is launching a limited edition new product. People are already queuing outside the shop overnight to purchase it."
+						},
+						{
+							"Title": "Entertainment News",
+							"Required Sinners": "Ignis, Luvia Ray",
+							"Dispatch Text": "The paparazzi have made up some tabloid news about the Sinner idols. This must be stopped."
+						},
+						{
+							"Title": "Crazed",
+							"Required Sinners": "Wendy, Roulecca",
+							"Dispatch Text": "Swarms of Corruptors have appeared on the edge of DisSea. We need a team crazy enough to destroy them."
+						},
+						{
+							"Title": "Spencer Family",
+							"Required Sinners": "Ariel, Hecate",
+							"Dispatch Text": "Regarding the recent scandal of this family, the Bureau suggests that relevant personnel be dispatched to deal with the matter. To ensure the success of the operation, another strong individual should provide support."
+						},
+						{
+							"Title": "Wealth & Power",
+							"Required Sinners": "Countess Chelsea, Ninety-Nine",
+							"Dispatch Text": "In a place like the Underground Arena, money and strong fists will make you invincible."
+						},
+						{
+							"Title": "Book Purchase",
+							"Required Sinners": "Pacassi, Anne",
+							"Dispatch Text": "The Bureau's book procurement work has officially started. The total book list is 19 pages long. It is not easy to find suitable candidates."
+						},
+						{
+							"Title": "Psychotherapy",
+							"Required Sinners": "Luvia Ray, Chameleon",
+							"Dispatch Text": "There is news that a psychiatric treatment center is imprisoning its patients. We will dispatch the most elite team to investigate."
+						},
+						{
+							"Title": "Extravaganza",
+							"Required Sinners": "Roulecca, Priscilla",
+							"Dispatch Text": "The Bureau set up an intelligence base disguised as a carnival booth, providing magic shows, games and other services."
+						},
+						{
+							"Title": "The Rust Injunction",
+							"Required Sinners": "Mr Fox, Dolly",
+							"Dispatch Text": "The recent surge in stowaways along the Rust has prompted the Eastside Public Security Bureau to find out who's behind the phenomenon."
+						},
+						{
+							"Title": "Forging Group",
+							"Required Sinners": "Cinnabar, McQueen",
+							"Dispatch Text": "A series of thefts of works on display by a master artist, followed by a large number of well-made forgeries on the local black market, are suspected to be the work of a professional group and need to be investigated thoroughly."
+						},
+						{
+							"Title": "Rust Anomaly",
+							"Required Sinners": "Ninety-Nine, Wendy",
+							"Dispatch Text": "Some anomalies have occurred along the Rust. Professionals are required to deal with them."
+						},
+						{
+							"Title": "Upper Class",
+							"Required Sinners": "Sumire, Ariel",
+							"Dispatch Text": "The Bureau needs to monitor an upper class banquet. All the participants are either rich or aristocratic, so be extra careful."
+						},
+						{
+							"Title": "Physical & Mental Health",
+							"Required Sinners": "Iron, Oliver",
+							"Dispatch Text": "Thou Voodoos seem to be researching how to manipulate dead bodies. The Bureau must take preemptive actions for the physical & mental health of DisCity residents."
+						},
+						{
+							"Title": "Formal Cooperation",
+							"Required Sinners": "Dolly, Mr Fox",
+							"Dispatch Text": "Dis-Mart is preparing to formally sign a cooperation agreement with the Bureau, but the Bureau has some different opinions on the sharing ratio in the contract."
+						},
+						{
+							"Title": "Undercover Investigation",
+							"Required Sinners": "Dudu, Luvia Ray",
+							"Dispatch Text": "An Outlander busker group seems very suspicious. The Bureau decides to immediately send staff on an undercover investigation."
+						},
+						{
+							"Title": "A Photography Tour of the North",
+							"Required Sinners": "Lynn, Pacassi",
+							"Dispatch Text": "A Sinner who is passionate about photography has been yearning to travel to the north and capture its spectacular scenery. It just so happens that another Sinner is being sent on a mission to the north, so the shutterbug sends in a request, asking Chief for permission to tag along."
+						},
+						{
+							"Title": "Fraud Gang",
+							"Required Sinners": "Levy, Mr. Fox",
+							"Dispatch Text": "A slippery fraud gang has recently become a headache for the Public Security Bureau. The Bureau thus sends a resourceful and eloquent Sinner for support."
+						},
+						{
+							"Title": "Master of Adventure",
+							"Required Sinners": "Letta, Pepper",
+							"Dispatch Text": "New adventure lore has taken the city by storm, and two enthusiasts are eager to explore it."
+						},
+						{
+							"Title": "Faux Nobility",
+							"Required Sinners": "Cassia, Garafano",
+							"Dispatch Text": "The Eastside Public Security Bureau needs to disguise police officers as noble ladies for an undercover investigation, and wants the help of a Sinner who is a fashion and perfume connoisseur."
+						},
+						{
+							"Title": "Illegal Slaughterhouse",
+							"Required Sinners": "Corso, Wolverine",
+							"Dispatch Text": "The Public Security Bureau has received a tip-off about an illegal slaughterhouse with unsanitary conditions that reportedly caused many animals to become seriously infected. They are asking the Bureau to send someone familiar with animals to help."
+						},
+						{
+							"Title": "Illegal Slaughterhouse",
+							"Required Sinners": "Corso, Wolverine",
+							"Dispatch Text": "The Public Security Bureau has received a tip-off about an illegal slaughterhouse with unsanitary conditions that reportedly caused many animals to become seriously infected. They are asking the Bureau to send someone familiar with animals to help."
+						},
+						{
+							"Title": "WhiteSands Search",
+							"Required Sinners": "Horo, Kawa-Kawa",
+							"Dispatch Text": "A sudden sandstorm has caused Nirvana Logistics to lose several sand ships. We wish to find them and bring them back safely."
+						},
+						{
+							"Title": "Study Group",
+							"Required Sinners": "Horo, Kawa-Kawa",
+							"Dispatch Text": "In the Bureau's special training sessions, Sinners form one-on-one study groups and help each other in their areas of strength."
+						},
+						{
+							"Title": "Crime Scene",
+							"Required Sinners": "Uni, Iron",
+							"Dispatch Text": "The Bureau receives a request to help restore some physical evidence damaged at the crime scene."
+						},
+						{
+							"Title": "Assist Investigation",
+							"Required Sinners": "Lamia, Luvia Ray",
+							"Dispatch Text": "The MBCC receives a request from the Public Security Bureau to send in two Sinners, who are capable of disguising their personalities, to assist in the investigation of the mysterious disappearance of Eastsiders."
+						},
+						{
+							"Title": "",
+							"Required Sinners": "Christine, Mess",
+							"Dispatch Text": "The Public Security Bureau suspects an illicit manufacturer of dangerous goods is operating under the guise of selling stage props. They need the Bureau to dispatch someone skilled in identifying contraband for investigation."
+						},
+						{
+							"Title": "Gardens of Doubt",
+							"Required Sinners": "Garafano, Sumire",
+							"Dispatch Text": "A number of cases suspected to be modeled after the \"Garden\" have been reported in a certain area. The Public Security Bureau applies to the MBCC for dispatching Garden-related personnel to assist in the investigation."
+						},
+						{
+							"Title": "",
+							"Required Sinners": "Nino, Mess",
+							"Dispatch Text": "A late-night variety show in Eastside has seen its ratings fall, and is desperate to hire a critic who can do the whole job to star in the show and comment on hot social and current events."
+						},
+						{
+							"Title": "Major Cleanup",
+							"Required Sinners": "Matilda, Labyrinth",
+							"Dispatch Text": "The Bureau has been busy with official duties recently and doesn't have enough time for housekeeping. Two Sinners have decided to work together to complete a major cleanup."
+						},
+						{
+							"Title": "Sonic Weapon",
+							"Required Sinners": "Eureka, Echo",
+							"Dispatch Text": "The Public Security Bureau is vigorously developing sonic weapons and urgently hiring Sinners capable of using sonic attacks and skilled in invention and creation to participate in the project."
+						}
+					]
+				}
+			],
+			"Rarity Green": [
+				{
+					"Dispatch": [
+						{
+							"Title": "Field Rescue",
+							"Required Sinners": "Iron",
+							"Dispatch Text": "A large number of Corruptors have appeared in DisSea, and medical staff are buckling under the pressure. The District of DisSea has issued a rescue order to the whole city."
+						},
+						{
+							"Title": "Boom Boom Boom",
+							"Required Sinners": "Roulecca",
+							"Dispatch Text": "A series of suicide bombings have hit Syndicate. An explosives expert is required to investigate the incident."
+						},
+						{
+							"Title": "Professional Nursing",
+							"Required Sinners": "Anne",
+							"Dispatch Text": "DisCity is always overflowing with injuries, which ensures that the medical team will always get the highest dispatch subsidy."
+						},
+						{
+							"Title": "Crackdown on Counterfeiting",
+							"Required Sinners": "Mess",
+							"Dispatch Text": "A novice Eastside blacksmith claims to be the apprentice of the city's top weaponsmith, luring in numerous clients with that title. This greatly vexes the top weaponsmith of Eastside who's never taken any apprentices."
+						},
+						{
+							"Title": "Judgment Mystery",
+							"Required Sinners": "Mr. Fox",
+							"Dispatch Text": "The Eastside Court has recently been flooded by complaints. Some have even threatened to make the lawyers and judges pay the price in blood for unjust rulings. The Ministry of Internal Affairs is very interested in this information."
+						},
+						{
+							"Title": "Undertaker",
+							"Required Sinners": "Wendy",
+							"Dispatch Text": "Someone in Syndicate is using the Undertaker's name to do evil things, igniting the Undertaker's wrath."
+						},
+						{
+							"Title": "Fixed Route?",
+							"Required Sinners": "Ariel",
+							"Dispatch Text": "At the invitation of the Eastside Public Security Bureau, specially-dispatched Sinners have been assigned to carry out routine security patrol, considering that it is a fixed route..."
+						},
+						{
+							"Title": "No Defaulting",
+							"Required Sinners": "Ninety-Nine",
+							"Dispatch Text": "The sponsor of the Big Belly eating competition has yet to issue the reward. After investigating, it appears to be related to an abnormal cash flow transaction."
+						},
+						{
+							"Title": "Hospital Woes",
+							"Required Sinners": "Victoria",
+							"Dispatch Text": "The depot at Banyan Medical College has been ransacked, and a large number of medicines and blood samples have been stolen. It is necessary to trace the clues immediately."
+						},
+						{
+							"Title": "Natural Spy",
+							"Required Sinners": "Priscilla",
+							"Dispatch Text": "Some highly classified surveillance missions have very high technical requirements for disguise."
+						},
+						{
+							"Title": "Book Management",
+							"Required Sinners": "Pacassi",
+							"Dispatch Text": "Some old books in the library had been lost. The Bureau suspects this is not a simple management error, but the key to another mystery."
+						},
+						{
+							"Title": "Haunted Film Crew",
+							"Required Sinners": "Luvia Ray",
+							"Dispatch Text": "There are rumors circulating about a haunted film crew. Upon reviewing the footage, we are going to control the relevant information."
+						},
+						{
+							"Title": "Old Hunter",
+							"Required Sinners": "Wolverine",
+							"Dispatch Text": "Recently, there have been sightings of a new species along the Rust. To determine whether or not they are Corruptors or some other mutated monsters, qualified professionals need to go to investigate."
+						},
+						{
+							"Title": "Ikebana Exchange",
+							"Required Sinners": "Sumire",
+							"Dispatch Text": "The most elite ikebana conference in Eastside has invited a Sinner to attend - after all, she is the most popular ikebana master in Eastside."
+						},
+						{
+							"Title": "City Shadows",
+							"Required Sinners": "Tetra",
+							"Dispatch Text": "DisCity has many dark corners, especially in Paradeisos. Be extra vigilant and ensure that everyone working there has appropriate identities."
+						},
+						{
+							"Title": "Culture Exchange Event",
+							"Required Sinners": "McQueen",
+							"Dispatch Text": "The Eastside Library will be hosting a classical art and literature conference recently, and a certain enthusiast submitted an early application to participate."
+						},
+						{
+							"Title": "Dream Interpretation",
+							"Required Sinners": "Hecate",
+							"Dispatch Text": "Residents in some areas of Eastside often suffer from nightmares. It is necessary to find out why."
+						},
+						{
+							"Title": "Funding Allocation",
+							"Required Sinners": "Countess Chelsea",
+							"Dispatch Text": "Recently, the Eastside Zoo received a mysterious donation, but the funds ended up in a private account. The anonymous donor is furious about the situation and wants to investigate it personally."
+						},
+						{
+							"Title": "Interrogation Invitation",
+							"Required Sinners": "Chameleon",
+							"Dispatch Text": "When encountering prisoners who are difficult to interrogate, the Eastside Public Security Bureau always sends a request of assistance to the Bureau."
+						},
+						{
+							"Title": "Ad Invitation",
+							"Required Sinners": "Dolly",
+							"Dispatch Text": "Dis-Mart wants to dabble in the sports equipment business. They have sent the Bureau an ad shoot proposal, along with a huge sum of money."
+						},
+						{
+							"Title": "Curiosity",
+							"Required Sinners": "Oliver",
+							"Dispatch Text": "A series of fraud cases has taken Eastside by storm. Rumor has it that the cases are linked to orphans at an Eastside orphanage. A certain someone is very interested in these rumors."
+						},
+						{
+							"Title": "Security Training",
+							"Required Sinners": "Cinnabar",
+							"Dispatch Text": "The rest of the FAC wants the former security head of Serpent Eye to give them some security training."
+						},
+						{
+							"Title": "Musician Recruitment",
+							"Required Sinners": "Dudu",
+							"Dispatch Text": "A well-known orchestra is recruiting new musicians and organizing a mass audition. Someone is tempted to try out after learning about the news."
+						},
+						{
+							"Title": "Teaching Materials on Photography",
+							"Required Sinners": "Lynn",
+							"Dispatch Text": "The MBCC has recently acquired some teaching materials on photography and photobooks by distinguished artists. The news brings endless joy to a certain shutterbug, who wastes no time in sending in a request."
+						},
+						{
+							"Title": "Emergency Rescue",
+							"Required Sinners": "Garafano",
+							"Dispatch Text": "A fashion studio in Eastside is facing a burst of orders on the eve of a fashion show, and is short of manpower, urgently needing the assistance of a professional tailor."
+						},
+						{
+							"Title": "Ocean Art Exhibition",
+							"Required Sinners": "Lamia",
+							"Dispatch Text": "An up-and-coming artist in Eastside is organizing a solo exhibition on the theme of \"The Ocean\", and he has contacted the Bureau in the hope that he can get some material and inspiration from a certain Sinner."
+						},
+						{
+							"Title": "Sci-fi Film Festival",
+							"Required Sinners": "Eureka",
+							"Dispatch Text": "Eastside is hosting a low-budget niche sci-fi film festival. A certain Sinner who yearns to gain inventive inspiration from films is eager to participate."
+						},
+						{
+							"Title": "Literacy Courses",
+							"Required Sinners": "Horo",
+							"Dispatch Text": "For better mission results, the Bureau has instituted some basic literacy courses for certain Sinners."
+						},
+						{
+							"Title": "Emergency Rescue",
+							"Required Sinners": "Letta",
+							"Dispatch Text": "A building collapse has left many people buried under the rubble, and a Sinner who can ignore physical obstacles is urgently needed to rescue them."
+						},
+						{
+							"Title": "",
+							"Required Sinners": "Ignis",
+							"Dispatch Text": "A food factory has launched a number of new products, but sales have been poor. They need advice from a more professional food critic."
+						},
+						{
+							"Title": "Snack Sampling",
+							"Required Sinners": "Nino",
+							"Dispatch Text": "A fun snack site has just started up and wants to make a name for itself quickly. Therefore it needs an streamer to live-stream the sampling of weird snacks."
+						},
+						{
+							"Title": "Plastic Surgery Fiasco",
+							"Required Sinners": "Uni",
+							"Dispatch Text": "A celebrity nose insured for 300 million has been broken. Conflict ensues as the insurance company cannot afford to pay. A seasoned cosmetic surgeon is needed to intervene."
+						},
+						{
+							"Title": "Guiding Beacon",
+							"Required Sinners": "Kawa-Kawa",
+							"Dispatch Text": "Nirvana Logistics hopes to improve the beacon network in WhiteSands and provide the most accurate navigation guidance to the ships there. To this end, they have carried out in-depth cooperation with the Bureau."
+						},
+						{
+							"Title": "Mystery Deduction",
+							"Required Sinners": "Christine",
+							"Dispatch Text": "A mysterious case occurred somewhere in Eastside. The Public Security Bureau is urgently requesting a professional with deductive skills from the Bureau to assist in solving the case."
+						},
+						{
+							"Title": "Home Advantage",
+							"Required Sinners": "Levy",
+							"Dispatch Text": "According to credible sources, a suspect has been frequenting the dodgy entertainment facilities in Eastside. You need someone who's familiar with the environment to carry out research and collect evidence."
+						},
+						{
+							"Title": "Home Advantage",
+							"Required Sinners": "Corso",
+							"Dispatch Text": "Violent elements are reportedly hiding among brawling civilians. However, due to the target location's complicated situation, it is necessary to send experienced personnel to investigate."
+						},
+						{
+							"Title": "Firearm Trial",
+							"Required Sinners": "Matilda",
+							"Dispatch Text": "A research institute has developed a new model of pistol and urgently needs a firearm expert for testing and evaluation."
+						},
+						{
+							"Title": "Perfume Auction",
+							"Required Sinners": "Cassia",
+							"Dispatch Text": "Someone claims to be able to concoct the legendary Immortal Fragrance, and is using it as a selling point to hold an auction and make a profit. A Sinner who is a perfume connoisseur is volunteering to go, and will either admire a masterpiece or expose a fraud."
+						}
+					]
+				}
+			],
+			"Rarity Grey": [
+				{
+					"Dispatch": [
+						{
+							"Title": "Scavenger",
+							"Required Sinners": "Demolia",
+							"Dispatch Text": "There has been a recent murder case involving a group of scavengers by the Rust. Someone familiar with the environment there is required to investigate."
+						},
+						{
+							"Title": "Emergency Squad",
+							"Required Sinners": "Joan",
+							"Dispatch Text": "The guitarist of a well-known band in Eastside is going to miss a concert due to a broken arm. The organizers hope to find a qualified substitute."
+						},
+						{
+							"Title": "Mechanical Dance",
+							"Required Sinners": "Labyrinth",
+							"Dispatch Text": "Someone declared they want to assassinate a performer on the dance tour. To protect her, we're going to use a body double."
+						},
+						{
+							"Title": "Legendary Recipe",
+							"Required Sinners": "Kelvin",
+							"Dispatch Text": "Molecular cuisine has long been an urban legend among the epicureans of DisCity. This legend occasionally reappears."
+						},
+						{
+							"Title": "Training Exchange",
+							"Required Sinners": "Flora",
+							"Dispatch Text": "The FAC headquarters issued a notice to the Bureau requesting an educational exchange, to which many Sinners scoffed and sneered."
+						},
+						{
+							"Title": "Resource Source",
+							"Required Sinners": "EMP",
+							"Dispatch Text": "A studio under Quinn Media wants to create an anime based on the Sinners. A certain braggart volunteered to help."
+						},
+						{
+							"Title": "Counterfeit Scandal",
+							"Required Sinners": "Lisa",
+							"Dispatch Text": "All the items of a large auction house have been replaced with fakes. The case details need to be investigated by special personnel."
+						},
+						{
+							"Title": "Ban Open Flames",
+							"Required Sinners": "Flora",
+							"Dispatch Text": "Multiple fires have broken out across Syndicate, each quite distant from the others. The Bureau wants to know if there is a connection between the incidents."
+						},
+						{
+							"Title": "Not A Weed",
+							"Required Sinners": "Pepper",
+							"Dispatch Text": "An edible desert plant is growing successfully in the Bureau's green belt. Try planting in the experimental field in WhiteSands."
+						},
+						{
+							"Title": "Maid Café",
+							"Required Sinners": "Labyrinth",
+							"Dispatch Text": "Of all the disguised venues used by the Bureau, the maid cafe is without a doubt the strangest of them all."
+						},
+						{
+							"Title": "Spy",
+							"Required Sinners": "Macchiato",
+							"Dispatch Text": "A Bureau informant stationed within a certain company has mysteriously disappeared. Perhaps you can send a spy to conduct an undercover investigation."
+						},
+						{
+							"Title": "No Man's Land",
+							"Required Sinners": "Hella",
+							"Dispatch Text": "The Syndicate thugs have been a bit restless recently. Maybe someone can infiltrate them to find out why."
+						},
+						{
+							"Title": "Real vs. Fake Whitestone",
+							"Required Sinners": "Che",
+							"Dispatch Text": "A new Whitestone company has appeared in Syndicate, and its business is booming. This has enraged the real Whitestone boss."
+						},
+						{
+							"Title": "Underground Rock",
+							"Required Sinners": "Joan",
+							"Dispatch Text": "Some people borrowed an underground rock venue to sell prohibited items. An well-oiled industrial chain has been formed, and it is urgent for someone to investigate."
+						},
+						{
+							"Title": "\"Hidden\" Masses",
+							"Required Sinners": "Demolia",
+							"Dispatch Text": "This mission requires someone to integrate into Syndicate with the calmest attitude, and to always be alert for the slightest of disturbances. This kind of daily surveillance is best-suited for Syndicate locals."
+						},
+						{
+							"Title": "Product Endorsement",
+							"Required Sinners": "Kelvin",
+							"Dispatch Text": "A new concept kitchenware manufacturer hopes to find a famous chef to endorse its products."
+						},
+						{
+							"Title": "Ye Olde Whitestone",
+							"Required Sinners": "K.K",
+							"Dispatch Text": "An old customer placed an order at Whitestone. To uphold Whitestone's reputation, the order must be completed!"
+						},
+						{
+							"Title": "Security Test",
+							"Required Sinners": "Gekkabijin",
+							"Dispatch Text": "A family in Paradeisos wants to test their recently updated security system. They have contacted the Bureau through personal connections."
+						},
+						{
+							"Title": "Guest Judge",
+							"Required Sinners": "Peggy",
+							"Dispatch Text": "Syndicate rappers are preparing an epic rap battle, for which the Public Security Bureau has specially invited a professional judge."
+						},
+						{
+							"Title": "Special Commentary",
+							"Required Sinners": "Lisa",
+							"Dispatch Text": "A renowned art magazine invites a famous critic to write a special piece and pays handsomely."
+						},
+						{
+							"Title": "Efficiency Increase",
+							"Required Sinners": "Pepper",
+							"Dispatch Text": "In order to improve the efficiency of agriculture in Hess Village, as well as in a number of neighboring satellite towns, they need more professional equipment and talents."
+						},
+						{
+							"Title": "Efficiency Increase",
+							"Required Sinners": "Pepper",
+							"Dispatch Text": "In order to improve the efficiency of agriculture in Hess Village, as well as in a number of neighboring satellite towns, they need more professional equipment and talents."
+						}
+					]
+				}
+			],
+			"Unknown Rarity": [
+				{
+					"Dispatch": [
+
+						{
+							"Title": "",
+							"Required Sinners": "Christine?",
+							"Dispatch Text": "A detective culture club in Eastside organized a fun detective prop design competition, urgently requiring a judge with profound knowledge of fun prop invention and detective prop design to participate in the reviewing process."
+						},
+						{
+							"Title": "",
+							"Required Sinners": "Echo?",
+							"Dispatch Text": "An association in Eastside has organized a busking contest which audience can watch for free and cast their votes. Hearing about this, a certain Sinner is eager to participate in it, confident that the champion title shall go to no one else."
+						},
+						{
+							"Title": "Audition Judge",
+							"Required Sinners": "Pearl?",
+							"Dispatch Text": "An entertainment company has launched a new talent show, this time with the theme of finding future musical stars. They are urgently recruiting audience judges to participate in the filming. A certain Sinner volunteers to go and uncover the hidden talents."
+						}
+					]
+				}
+			]
+		}
+	],
+	"Area Dispatch": [
+		{
+			"Syndicate": [
+				{
+					"Salva Hospital": [
+						{
+							"Rep Rank": "0",
+							"Rarity": "Grey",
+							"Title": "Medical Investigation",
+							"Reward": "Arsenopyrite",
+							"Text": "SALVA has begun to research treatment options for the infected. The Bureau must keep an eye on their progress."
+						},
+						{
+							"Rep Rank": "1000",
+							"Rarity": "Green",
+							"Title": "Building Intel Network",
+							"Reward": "Arsenopyrite",
+							"Text": "SALVA is an organization built spontaneously upon peaceful ideals, which is uncommon in Syndicate.\nWe need more accurate intelligence on SALVA."
+						},
+						{
+							"Rep Rank": "3000",
+							"Rarity": "Blue",
+							"Title": "Material Exchange",
+							"Reward": "Arsenopyrite",
+							"Text": "As a medical organization specializing in transformation, SALVA has its own supply chain of Mythrite. High-quality Mythrite can be obtained through the intelligence network."
+						},
+						{
+							"Rep Rank": "6000",
+							"Rarity": "Purple",
+							"Title": "Communication Platform",
+							"Reward": "Arsenopyrite",
+							"Text": "Thanks to some of our own people at SALVA, the Bureau's medical technology has made great progress.\nOn the basis of friendly exchanges, we can build an open communication platform for both parties to exchange information."
+						},
+						{
+							"Rep Rank": "10,000",
+							"Rarity": "Gold",
+							"Title": "Headhunter",
+							"Reward": "Arsenopyrite",
+							"Text": "The MBCC can never have enough good doctors.\nRecruiting doctors from SALVA not only improves the Bureau's medical capacity, but also helps with Syndicate's development."
+						}
+					],
+					"Keylan Square": [
+						{
+							"Rep Rank": "0",
+							"Rarity": "Grey",
+							"Title": "Gang Investigation",
+							"Reward": "Ice Stone",
+							"Text": "Many small and medium-sized gangs are gathered around Keylan Square. They need to be investigated and their statistics need to be collected."
+						},
+						{
+							"Rep Rank": "1000",
+							"Rarity": "Green",
+							"Title": "Building Intel Network",
+							"Reward": "Ice Stone",
+							"Text": "It's time to build our own intelligence network. It's easier to find the right informant at a teeming hodgepodge like Keylan Square."
+						},
+						{
+							"Rep Rank": "3000",
+							"Rarity": "Blue",
+							"Title": "Secret Exchange",
+							"Reward": "Ice Stone",
+							"Text": "Our preliminary intelligence network has been established. We can now reap some \"rewards\" from these informants, preferably secrets that no one else knows."
+						},
+						{
+							"Rep Rank": "6000",
+							"Rarity": "Purple",
+							"Title": "New Gang",
+							"Reward": "Ice Stone",
+							"Text": "The gang ecology of Keylan Square is quite complex. Whenever an old gang disappears, a new one would pop up to take its place.\nInstead of cultivating informants, it might be better to form a new \"gang\"."
+						},
+						{
+							"Rep Rank": "10000",
+							"Rarity": "Gold",
+							"Title": "Legend of the Statue",
+							"Reward": "Ice Stone",
+							"Text": "Many Syndicans still remember the legends about the Statue of Keylan. What secrets are hidden inside those broken stones and weathered remains?\nPerhaps only by collecting all the fragments can the original legend be pieced back together."
+						}
+					],
+					"Underground Arena": [
+						{
+							"Rep Rank": "0",
+							"Rarity": "Grey",
+							"Title": "Investigation of Match-Rigging",
+							"Reward": "Tentacle",
+							"Text": "The most famous fighting arena in Syndicate has been plagued by frequent scandals recently. Match-rigging affairs have become the trigger for unrest.\nThe Bureau needs to conduct an in-depth investigation to avoid a deadly crisis."
+						},
+						{
+							"Rep Rank": "1000",
+							"Rarity": "Green",
+							"Title": "Building Intel Network",
+							"Reward": "Tentacle",
+							"Text": "Each gang arranges its own representatives to fight in the match. Rigged matches are ultimately rooted in gang conflict.\nOnly by finding the conflict's real target can there be a possible resolution."
+						},
+						{
+							"Rep Rank": "3000",
+							"Rarity": "Blue",
+							"Title": "Intelligence Exchange",
+							"Reward": "Tentacle",
+							"Text": "The organizer of the fight matches is a gang-controlled company with its own intelligence network.\nJoining this intelligence network will make it easier to keep track of gang movements throughout Syndicate."
+						},
+						{
+							"Rep Rank": "6000",
+							"Rarity": "Purple",
+							"Title": "Fighting Match",
+							"Reward": "Tentacle",
+							"Text": "The rigged match scandal has come to an end. The Bureau has also sent its own team to participate in the competition... in a bit of disguise, of course.\nAcquiring honor is not the only purpose. It is more important to learn and grow from the match."
+						},
+						{
+							"Rep Rank": "10000",
+							"Rarity": "Gold",
+							"Title": "Annual Champion",
+							"Reward": "Tentacle",
+							"Text": "The annual championship match is about to start. Who shall become the true king of Syndicate?"
+						}
+					],
+					"Syndicate Public Safety Bureau": [
+						{
+							"Rep Rank": "0",
+							"Rarity": "Grey",
+							"Title": "Assist Investigation",
+							"Reward": "Horn",
+							"Text": "The Syndicate Public Security Bureau is seriously understaffed. The Bureau can assist them in conducting police investigations around Syndicate."
+						},
+						{
+							"Rep Rank": "1000",
+							"Rarity": "Green",
+							"Title": "Informant Training",
+							"Reward": "Horn",
+							"Text": "In its heyday, the Syndicate Public Security Bureau trained many informants to assist investigations, but that was many years ago.\nWe can choose to reactivate these old informants or cultivate new ones."
+						},
+						{
+							"Rep Rank": "3000",
+							"Rarity": "Blue",
+							"Title": "Intelligence Exchange",
+							"Reward": "Horn",
+							"Text": "The Public Security Bureau's duty is to maintain Syndicate's stability, yet in practice this is difficult to achieve. It is our mission to gather more intelligence and nip risks and crises in the bud."
+						},
+						{
+							"Rep Rank": "6000",
+							"Rarity": "Purple",
+							"Title": "Personnel Exchange",
+							"Reward": "Horn",
+							"Text": "Many Syndican sheriffs are experienced and skilled veterans. Strengthening personnel exchanges will help improve the quality of the Bureau's operations, and maybe even weed out some idle workers."
+						},
+						{
+							"Rep Rank": "10000",
+							"Rarity": "Gold",
+							"Title": "Restoring the Glory",
+							"Reward": "Horn",
+							"Text": "How can the Syndicate Public Security Bureau regain its former glory and make Syndicate a safe place again?"
+						}
+					],
+					"Glimmer Signal Tower": [
+						{
+							"Rep Rank": "0",
+							"Rarity": "Grey",
+							"Title": "Weapons Investigation",
+							"Reward": "Red Stone",
+							"Text": "According to rumors circulating the marketplace, weapons traded on the black market have been laced with polluting mineral elements. Many have fallen victim to them."
+						},
+						{
+							"Rep Rank": "1000",
+							"Rarity": "Green",
+							"Title": "Building Intel Network",
+							"Reward": "Red Stone",
+							"Text": "There seems to be a force hidden in the Glimmer Signal Tower that should have disappeared. We need to establish the Bureau's own intelligence network to infiltrate this force."
+						},
+						{
+							"Rep Rank": "3000",
+							"Rarity": "Blue",
+							"Title": "Intelligence Exchange",
+							"Reward": "Red Stone",
+							"Text": "Remnants of the Black Water Mutual Aid Society lurk in the shadows of the Signal Tower. They communicate through a single line, so it is difficult to determine who is the mastermind. Obtaining intelligence on the organization's current leader is the top priority for the current investigation."
+						},
+						{
+							"Rep Rank": "6000",
+							"Rarity": "Purple",
+							"Title": "Channel Takeover",
+							"Reward": "Red Stone",
+							"Text": "The mining channels upstream and the market transactions downstream should all come under legal supervision and become legal industries.\nPerhaps the Bureau should consider intervening and recruit them to be our informants and helpers."
+						},
+						{
+							"Rep Rank": "10000",
+							"Rarity": "Gold",
+							"Title": "Weeding Out Remnants",
+							"Reward": "Red Stone",
+							"Text": "Now that we have a clue board full of info on these remnants, it's time to weed them out, one by one, top to bottom."
+						}
+					]
+				}
+			],
+			"Eastside": [
+				{
+					"Quinn Plaza": [
+						{
+							"Rep Rank": "0",
+							"Rarity": "Grey",
+							"Title": "Funding Investigation",
+							"Reward": "Cyst",
+							"Text": "There has been a huge amount of capital flow at Quinn recently. As one of the pillars of the Eastside economy, this level of capital flow poses enormous risks. The cause must be clearly investigated."
+						},
+						{
+							"Rep Rank": "1000",
+							"Rarity": "Geen",
+							"Title": "Building Intel Network",
+							"Reward": "Cyst",
+							"Text": "A burgeoning entertainment industry can be a powerful ideological weapon. We must ensure that Quinn does not misuse it."
+						},
+						{
+							"Rep Rank": "3000",
+							"Rarity": "Blue",
+							"Title": "Secret Exchange",
+							"Reward": "Cyst",
+							"Text": "As a giant in the entertainment industry, Quinn enforces draconian confidentiality regulations far exceeding that of ordinary companies.\nObviously, the deeper a secret is buried, the more precious it is to mine."
+						},
+						{
+							"Rep Rank": "6000",
+							"Rarity": "Purple",
+							"Title": "Invitation",
+							"Reward": "Cyst",
+							"Text": "Quinn has sent a proposal to the Bureau. They are willing to create a complete entertainment ecosystem for the Sinners, including films, variety shows, and even idol groups.\nYet behind this seemingly sincere proposal, they may be hiding ulterior motives."
+						},
+						{
+							"Rep Rank": "10000",
+							"Rarity": "Gold",
+							"Title": "Intervention",
+							"Reward": "Cyst",
+							"Text": "Faced with the end of times, humans will become willing slaves to entertainment so as to momentarily escape despair.\nWhether to support or sabotage, join or oppose, everyone must make their own choice in the face of Quinn's entertainment works."
+						}
+					],
+					"Eastside Public Security Bureau": [
+						{
+							"Rep Rank": "0",
+							"Rarity": "Grey",
+							"Title": "Assist Investigation",
+							"Reward": "Elytra",
+							"Text": "Although the Eastside Public Security Bureau does not lack sheriffs, the Bureau can still play a useful role in terms of combat prowess."
+						},
+						{
+							"Rep Rank": "1000",
+							"Rarity": "Geen",
+							"Title": "Surveillance Settings",
+							"Reward": "Elytra",
+							"Text": "The Eastside Public Security Bureau has a lot of high-tech surveillance equipment, and does not rely on traditional informants for intelligence acquisition. They trust infallible machines over fickle human nature."
+						},
+						{
+							"Rep Rank": "3000",
+							"Rarity": "Blue",
+							"Title": "Equipment Supply",
+							"Reward": "Elytra",
+							"Text": "Due to the sound financial situation, equipment at the Eastside Public Security Bureau gets updated once a year. Whether it be outdated gear or new gadgets waiting to be installed, any equipment will supplement and benefit the Bureau."
+						},
+						{
+							"Rep Rank": "6000",
+							"Rarity": "Purple",
+							"Title": "Assist Operation",
+							"Reward": "Elytra",
+							"Text": "The two sides have established good mutual trust in recent operations, and the Eastside Public Security Bureau has invited us to assist in more core public security operations."
+						},
+						{
+							"Rep Rank": "10000",
+							"Rarity": "Gold",
+							"Title": "Special Instructor",
+							"Reward": "Elytra",
+							"Text": "Many sheriffs rate our Sinners highly, so the Eastside Public Security Bureau created temporary positions for them as specially-appointed trainers."
+						}
+						],
+					"Nirvana Industrial Park": [
+						{
+							"Rep Rank": "0",
+							"Rarity": "Grey",
+							"Title": "Hypercube Investigation",
+							"Reward": "Twilight",
+							"Text": "The fluctuations in Hypercube production could potentially unleash a crisis. The Bureau needs to investigate in advance."
+						},
+						{
+							"Rep Rank": "1000",
+							"Rarity": "Geen",
+							"Title": "Building Intel Network",
+							"Reward": "Twilight",
+							"Text": "Nirvana's internal factions are intricate and complex. Without a clear intelligence network, any investigation could go wrong."
+						},
+						{
+							"Rep Rank": "3000",
+							"Rarity": "Blue",
+							"Title": "Technology Exchange",
+							"Reward": "Twilight",
+							"Text": "Hypercubes are strategic resources subject to strict regulations, hence we cannot obtain Hypercubes through our intelligence network. As a major consumer of Hypercubes, however, we are qualified to learn more about technologies that use Hypercubes."
+						},
+						{
+							"Rep Rank": "6000",
+							"Rarity": "Purple",
+							"Title": "Experience Data",
+							"Reward": "Twilight",
+							"Text": "From the most primitive Syndicate mines to the plethora of high-precision production lines in Eastside, Nirvana has always been carrying out industrial upgrades.\nMaybe not all Sinners can provide technical support, but in terms of experience, everyone has their own unique worth."
+						},
+						{
+							"Rep Rank": "10000",
+							"Rarity": "Gold",
+							"Title": "Agent",
+							"Reward": "Twilight",
+							"Text": "Hypercubes are the most important strategic resource in DisCity, so the status of Nirvana is also very unique. The government, conglomerates, secret organizations and other forces have all planted their own agents in Nirvana. The Bureau needs to do the same."
+						}
+					]
+				}
+			],
+			"Inner Bay": [
+				{
+					"Oblivion Pit": [
+						{
+							"Rep Rank": "0",
+							"Rarity": "Purple",
+							"Title": "Anomaly Investigation",
+							"Reward": "Bronze",
+							"Text": "The cause of the mutation needs to be thoroughly investigated. The Bureau will work with the Ring Research Institute to investigate the Oblivion Pit's abnormal phenomenon."
+						},
+						{
+							"Rep Rank": "1000",
+							"Rarity": "Purple",
+							"Title": "Research Data Acquisition",
+							"Reward": "Bronze",
+							"Text": "The Oblivion Pit is a zone with high instances of mutation. Observational and experimental data from there is highly valuable to research. The Ring Research Institute requests assistance from the Bureau in acquiring data from the Oblivion Pit."
+						},
+						{
+							"Rep Rank": "3000",
+							"Rarity": "Purple",
+							"Title": "Equipment Supply",
+							"Reward": "Bronze",
+							"Text": "The Ring Research Institute will provide more advanced anti-Mania devices and equipment to minimize the casualties of Bureau data extractors."
+						},
+						{
+							"Rep Rank": "6000",
+							"Rarity": "Purple",
+							"Title": "Causal Analysis",
+							"Reward": "Bronze",
+							"Text": "The Ring Research Institute has produced several analysis reports about the Oblivion Pit that include a large amount of experimental data. Unfortunately, the results are inconclusive and its origins remain unclear. There is still a long way for humans to fully understand Mania."
+						},
+						{
+							"Rep Rank": "10,000",
+							"Rarity": "Gold",
+							"Title": "Technology Sharing",
+							"Reward": "Bronze",
+							"Text": "The Ring Research Institute will provide the Bureau with the latest anti-Mania tech acquired during research on the Oblivion Pit to use for future anti-Mania operations."
+						}
+					],
+					"Inner Bay Industrial Zone": [
+						{
+							"Rep Rank": "0",
+							"Rarity": "Purple",
+							"Title": "Hypercube Investigation",
+							"Reward": "Tear",
+							"Text": "Someone has broken into the abandoned mine to secretly extract Hypercubes. This has the risk of triggering a Mania crisis. The Bureau must investigate it as soon as possible."
+						},
+						{
+							"Rep Rank": "1000",
+							"Rarity": "Purple",
+							"Title": "Surveillance Footage Acquisition",
+							"Reward": "Tear",
+							"Text": "The surveillance equipment that Nirvana left behind in the mine is still operational. If they can be reactivated, the Bureau will be able to obtain more info about the Hypercube mining industry."
+						},
+						{
+							"Rep Rank": "3000",
+							"Rarity": "Purple",
+							"Title": "Secret Exchange",
+							"Reward": "Tear",
+							"Text": "Evidently, someone is using resources from the abandoned mine for secret transactions. This may have something to do with Nirvana's recent developments, and must be followed closely."
+						},
+						{
+							"Rep Rank": "6000",
+							"Rarity": "Purple",
+							"Title": "Proxy Actions",
+							"Reward": "Tear",
+							"Text": "Nirvana denies carrying out any secret Hypercube transactions, and asks the Bureau to settle the matter on its behalf. However, Nirvana's involvement cannot be completely ruled out."
+						},
+						{
+							"Rep Rank": "10000",
+							"Rarity": "Purple",
+							"Title": "",
+							"Reward": "Tear",
+							"Text": "Though it belongs to Nirvana, if we can gain full access to the mine, the Bureau will be able to investigate the source of the secret Hypercube trade in depth."
+						}
+					],
+					"Drifter Camp": [
+						{
+							"Rep Rank": "0",
+							"Rarity": "Purple",
+							"Title": "Regional Investigations",
+							"Reward": "Bone",
+							"Text": "The drifter camp is well-hidden, and its demographic makeup is complex. Regular inspections might uncover clues about runaway Sinners."
+						},
+						{
+							"Rep Rank": "1000",
+							"Rarity": "Purple",
+							"Title": "Building Intel Network",
+							"Reward": "Bone",
+							"Text": "The drifter camp has a certain level of counterespionage capabilities, so it is difficult to infiltrate with disguises alone. We need to rely on long-time residents to collect intelligence."
+						},
+						{
+							"Rep Rank": "3000",
+							"Rarity": "Purple",
+							"Title": "Intelligence Exchange",
+							"Reward": "Bone",
+							"Text": "Rustfire has its own intelligence network in the drifter camp. Their informants are ordinary Syndican civilians who can be found everywhere. It's good to exchange intelligence with them on an equal and mutually beneficial basis."
+						},
+						{
+							"Rep Rank": "6000",
+							"Rarity": "Purple",
+							"Title": "Cooperative Actions",
+							"Reward": "Bone",
+							"Text": "Cooperate with Rustfire to purge the drifter camp of gangsters and Mania, so that the camp may continue to provide shelter for ordinary Syndicans."
+						},
+						{
+							"Rep Rank": "10000",
+							"Rarity": "Purple",
+							"Title": "Personnel Exchange",
+							"Reward": "Bone",
+							"Text": "The Bureau and the drifter camp have established trusting and win-win relations. If we can go one step further and carry out personnel exchanges, the Bureau will gain more helpers and intelligence."
+						}
+					]
+				}
+			]
+		}
+	]
+}
+	
