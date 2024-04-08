@@ -3021,7 +3021,7 @@
 			},
 			"Mutation Assessment": {
 				"Ability Summary": "The discordant noise and melodies the subject plays with a musical instrument can cause a certain degree of mental contamination in others. The subject can use any musical instrument to cast her special power, but she's quite stubborn about using the saxophone as her medium.",
-				"Awakening Signs": "During her days on the streets, the subject accidentally came into contact with Mania contamination. On the brink of death, she heard saxophone music coming from a theater. This caused a strong emotional impact on her which led to her awakening..",
+				"Awakening Signs": "During her days on the streets, the subject accidentally came into contact with Mania contamination. On the brink of death, she heard saxophone music coming from a theater. This caused a strong emotional impact on her which led to her awakening.",
 				"Corruption State": "The subject suffers a mild degree of corruption with no visible abnormalities on her body. But affected by Mania and her own physiological defects, she often tends to be overly excited."
 			},
 			"Arrest Records": {
@@ -3081,6 +3081,89 @@
 			"Exclusive Crimebrand": {
 				"Title": "A Curtain Call",
 				"Text": "\"Thank you all for coming to Fortuna!\"\n\"May there always be happiness here. May tonight never end!\""
+			}
+		}
+	],
+	"thistle": [
+		{
+			"Num": "MBCC-S-629",
+			"Basic Information": {
+				"Name": "Thistle",
+				"Gender": "Female",
+				"Birthplace": "Eastside",
+				"DOB": "October 21",
+				"Height": "155cm",
+				"Tendency": "Umbra",
+				"Alignment": "LOVE",
+				"Ability": "Blazesaber",
+				"Case": "\"Garden\" Assassinations Case"
+			},
+			"Criminal Record": {
+				"Text 1": "Trained by the Garden, she was tasked with assassinating the president of the Future Charity Foundation during an operation targeting Paradeisos officials. After being captured and incarcerated by the Eastside Public Security Bureau, she collaborated and executed escape attempts with other Sinners, causing social unrest with a detrimental impact. Immediate detention and interrogation is recommended.",
+				"Text 2": "Interrogation and testimonies from other Sinners reveal that after losing both parents, the subject joined the Garden seeking a chance for vengeance. She was briefly trained and participated in only a few missions. Most of her aggressive actions are a response to her protective urge. Since her detention, she's been comforted by the stable living environment, companions, and Chief's promise. Her mind has gradually stabilized, and she has rediscovered her passion for life.",
+				"Threat Assessment": "A"
+			},
+			"Mutation Assessment": {
+				"Ability Summary": "The subject can form a flame blade in her palm or line the weapon she's holding with fire and extend the blade. The flames possess all the characteristics of ordinary fire and can continue burning with blood as fuel upon contact with wounds.",
+				"Awakening Signs": "While searching for her mother, she accidentally uncovered a conspiracy by the mastermind. She followed the suspect to the Rust and witnessed another victim become part of the broken wall. As the subject was infected by the Rust's highly concentrated Mania and under extreme anger, panic, and grief, her special power awakened.",
+				"Corruption State": "With a lighter degree of corruption, her body shows no physical signs of mutation. Though mostly sane, she's impulsive and exceedingly stubborn in nature. It's believed that she is still under the influence of Mania."
+			},
+			"Arrest Records": {
+				"Text 1": "She was suspected to be hiding in Syndicate with the remnants of the Garden and her Mentor, but the Bureau did not detect her presence during the arrest of the Garden's remnants. A few days after the detention, she planned and executed an assassination attempt on Chief alone, which failed and resulted in her capture by the Bureau.",
+				"Text 2": "The subject's father was a member of the FAC, and her mother worked at a publishing house before marriage. After her father died on a mission in N.F. 103, her mother gave up all her benefits and moved to the outskirts of Eastside to raise the subject alone. Despite their impoverished life, the subject continued to receive a normal education and engage in social activities.",
+				"Text 3": "After failing to file for her mother's disappearance in N.F. 111, the subject attempted to investigate on her own and accidentally discovered that her mother was killed for persistently seeking the truth about her father's death. Her power awakened by the shock, she vowed to seek vengeance and disappeared at the end of N.F. 111. The subject admits to have joined the Garden to prepare herself for her revenge.",
+				"Text 4": "After completing her revenge, she saw protecting the Garden as her new purpose and helped the severely injured Garden's Mentor and the group's remnants relocate to their hideout in Syndicate. She continued to sharpen her skills at the same time, gradually becoming independent. However, she remains deeply concerned about her Mentor's health and constantly worries about lacking the strength to protect her family."
+			},
+			"Performance in Serving Term": {
+				"Text 1": "The subject has always kept her journaling habit inherited from her mother. Whenever possible, she spends over an hour writing and drawing in her journal daily. She also uses ginkgo leaves to make handicrafts like roses. Since the materials and easy to obtain and the products are delightful, many Sinners have asked her for lessons.",
+				"Text 2": "",
+				"Text 3": "After losing her parents, she's been consumed by vengeance, often disguising herself with an aggressive façade and believing herself unpopular. However, following incidents like giving up a limited edition doll to Mess and helping design decorative laces for Lynn's helmet, her sincerity and kindness have become an open secret among Sinners of her age.",
+				"Text 4": "She gifted Chief a thick limited edition journal and suggested Chief too should jot down three happy moments each day for memories and mood regulation. She even lent some of her own journals to Chief for inspiration."
+			},
+			"Exclusive Crimebrand": {
+				"Title": "Haven's Rest",
+				"Text": "\"Another companion was retrieved today...\"\n\n\"Mom, I have been protecting the people I love!\""
+			}
+		}
+	],
+	"vanilla": [
+		{
+			"Num": "MBCC-S-025",
+			"Basic Information": {
+				"Name": "Vanilla",
+				"Gender": "Female",
+				"Birthplace": "Country: ▉▉",
+				"DOB": "January 5",
+				"Height": "175cm",
+				"Tendency": "Endura",
+				"Alignment": "IMMORTAL",
+				"Ability": "Machine Manipulation"
+			},
+			"Criminal Record": {
+				"Text 1": "The subject was once part of the Black Ring Expedition, mainly responsible for logistical equipment maintenance. Due to her exceptional machine operation skills, she also participated in several important battles.\nFor ten years, she had been working alone at the DisSea Observation Outpost established right after Nightfall, where she monitored and kept records of DisSea. She later joined the expedition.",
+				"Text 2": "Currently detained by the MBCC. No significant abnormalities or harmful incidents have been observed to date. The subject remains within the control of the MBCC.",
+				"Threat Assessment": "S"
+			},
+			"Mutation Assessment": {
+				"Ability Summary": "The subject uses a contaminated mechanical exoskeleton for combat. With its beyond-science transformation capabilities and extreme strength, it brings destruction in battle with its mass alone and is almost insusceptible to attacks.",
+				"Awakening Signs": "The subject appeared on the day of the full Illusory Moon and was personally detained by the Chief of the MBCC. Her body was severely corrupted by contamination, turning her mind completely into that of a Corruptor.",
+				"Corruption State": "In a state of total corruption. Entire body covered in crystalline contamination and almost completely devoid of humanity and rationality. Extremely dangerous."
+			},
+			"Arrest Records": {
+				"Text 1": "Vanilla. Female. Height: Approximately 175cm in her infected state. Her body has endured years of contamination and is covered in an extremely tough exoskeleton, under which her clothes from before her mutation are still visible. The Chief of the MBCC has awakened her remaining consciousness with the shackles. She is currently detained in a solitary cell, awaiting psychic diving.",
+				"Text 2": "After completing the psychic diving, the subject will continue to be observed in solitary confinement. According to observation logs, the subject shows some response to external stimuli but lacks further interest. However, she exhibits strong emotional fluctuations and mental agitation when Chief presents to her a certain pocket watch.",
+				"Text 3": "Due to the subject's habit of logging her observations, while she's being closely observed and documented, the subject also observes and studies Chief at a close distance. Her research materials have now been compiled into a volume.",
+				"Text 4": "The subject is highly experienced in vehicle operation. She once evaded arrests and fled the Bureau with Chief and later returned voluntarily on the same day. The subject offered no explanation for this, but according to Chief, she simply turned back after observing the Black Ring for a brief moment. No casualties resulted from this incident, but Chief has since refused to ride in any vehicle driven by the subject."
+			},
+			"Performance in Serving Term": {
+				"Text 1": "After being detained during the Illusory Moon operation in DisSea, the subject has been placed in solitary confinement for observation and treatment. Since all current communication methods have proven futile, the MBCC has received the order for Chief to personally conduct dream dives with the subject.",
+				"Text 2": "Before her mutation, the subject was a staff member at the DisSea Observation Outpost. Her parents were scientists who worked at the outpost at the dawn of Nightfall and disappeared around N.F. 11.",
+				"Text 3": "In the last ten years of the outpost's operation, the subject was left alone in the station. Nonetheless, she continued to perform daily maintenance duties on her own, ensuring the basic functions of the outpost.",
+				"Text 4": "The subject crafted a military-grade trekking mecha alone to break through the temporal storms of DisSea. During the creation of the mech, her mind was exposed to chaotic time for an extended period and was eventually obliterated by it. The <i>Vanilla</i> observed now is believed to be her lingering thoughts attached to her mech."
+			},
+			"Exclusive Crimebrand": {
+				"Title": "Endpoint",
+				"Text": "\"Leave... It's dangerous...\"\n\n\"Don't get any closer...\""
 			}
 		}
 	]

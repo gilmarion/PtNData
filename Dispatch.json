@@ -138,6 +138,16 @@
 							"Title": "History of Rustfire",
 							"Required Sinners": "Donald",
 							"Dispatch Text": "The Bureau plans to compile a comprehensive history document of the rise and development of Rustfire. They need those in the know to assist them."
+						},
+						{
+							"Title": "Audition Judge",
+							"Required Sinners": "Pearl",
+							"Dispatch Text": "An entertainment company has launched a new talent show, this time with the theme of finding future musical stars. They are urgently recruiting audience judges to participate in the filming. A certain Sinner volunteers to go and uncover the hidden talents."
+						},
+						{
+							"Title": "",
+							"Required Sinners": "Vanilla",
+							"Dispatch Text": "The MBCC received a request from the Public Security Bureau. Explosives have been planted into a giant clock in an Eastside landmark. The device's mechanism is complex and dangerous, so they require urgent assistance from a Sinner with extensive knowledge of mechanical structures."
 						}
 					]
 				}
@@ -339,6 +349,11 @@
 							"Title": "Sonic Weapon",
 							"Required Sinners": "Eureka, Echo",
 							"Dispatch Text": "The Public Security Bureau is vigorously developing sonic weapons and urgently hiring Sinners capable of using sonic attacks and skilled in invention and creation to participate in the project."
+						},
+						{
+							"Title": "High School Girl Kidnapping Case",
+							"Required Sinners": "Thistle, Unknown",
+							"Dispatch Text": "A mass kidnapping incident has taken place at an all-girls high school in Eastside. At the request of the Public Security Bureau, the MBCC urgently sends two Sinners to infiltrate the school disguised as students and secretly execute a hostage rescue plan."
 						}
 					]
 				}
@@ -535,6 +550,16 @@
 							"Title": "Perfume Auction",
 							"Required Sinners": "Cassia",
 							"Dispatch Text": "Someone claims to be able to concoct the legendary Immortal Fragrance, and is using it as a selling point to hold an auction and make a profit. A Sinner who is a perfume connoisseur is volunteering to go, and will either admire a masterpiece or expose a fraud."
+						},
+						{
+							"Title": "",
+							"Required Sinners": "Echo",
+							"Dispatch Text": "An association in Eastside has organized a busking contest which audience can watch for free and cast their votes. Hearing about this, a certain Sinner is eager to participate in it, confident that the champion title shall go to no one else."
+						},
+						{
+							"Title": "Journal Market",
+							"Required Sinners": "Thistle",
+							"Dispatch Text": "A journal market event is being held in Eastside. A certain Sinner insists that immense unknown danger lurks within and volunteers to go and eliminate the threats."
 						}
 					]
 				}
@@ -663,17 +688,7 @@
 							"Title": "",
 							"Required Sinners": "Christine?",
 							"Dispatch Text": "A detective culture club in Eastside organized a fun detective prop design competition, urgently requiring a judge with profound knowledge of fun prop invention and detective prop design to participate in the reviewing process."
-						},
-						{
-							"Title": "",
-							"Required Sinners": "Echo?",
-							"Dispatch Text": "An association in Eastside has organized a busking contest which audience can watch for free and cast their votes. Hearing about this, a certain Sinner is eager to participate in it, confident that the champion title shall go to no one else."
-						},
-						{
-							"Title": "Audition Judge",
-							"Required Sinners": "Pearl?",
-							"Dispatch Text": "An entertainment company has launched a new talent show, this time with the theme of finding future musical stars. They are urgently recruiting audience judges to participate in the filming. A certain Sinner volunteers to go and uncover the hidden talents."
-						}
+						}						
 					]
 				}
 			]
