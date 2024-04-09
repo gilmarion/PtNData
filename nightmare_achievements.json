@@ -1,0 +1,380 @@
+[
+  {
+    "ID": 28000,
+    "AchievementName": "Shade",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Lux",
+    "AchievementDescription": "Light up a node of the Nightmare Realm Stele - Reversed",
+    "Hide": false,
+    "Order": 1
+  },
+  {
+    "ID": 28001,
+    "AchievementName": "Safe Word",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Omnis",
+    "AchievementDescription": "Light up all the nodes of the Nightmare Realm Stele",
+    "Hide": false,
+    "Order": 2
+  },
+  {
+    "ID": 28002,
+    "AchievementName": "Spaghetti",
+    "Icon": "atlas/secretland/achievement/icon_achievement_002",
+    "IconSubName": "Chaos",
+    "AchievementDescription": "Clear any Confront Nightmare level with a Chaos Level of 8 or above",
+    "Hide": false,
+    "Order": 3
+  },
+  {
+    "ID": 28003,
+    "AchievementName": "Overheated",
+    "Icon": "atlas/secretland/achievement/icon_achievement_002",
+    "IconSubName": "Calor",
+    "AchievementDescription": "Clear any Confront Nightmare level with a Chaos Level of 16 or above",
+    "Hide": false,
+    "Order": 4
+  },
+  {
+    "ID": 28004,
+    "AchievementName": "Chaotic Vortex",
+    "Icon": "atlas/secretland/achievement/icon_achievement_002",
+    "IconSubName": "Flam",
+    "AchievementDescription": "Clear any Confront Nightmare level with a Chaos Level of 24 or above",
+    "Hide": false,
+    "Order": 5
+  },
+  {
+    "ID": 28005,
+    "AchievementName": "Dine Alone",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Uni",
+    "AchievementDescription": "Clear Exploration Mode with no more than one Sinner",
+    "Hide": false,
+    "Order": 6
+  },
+  {
+    "ID": 28006,
+    "AchievementName": "Tycoon",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Aura",
+    "AchievementDescription": "Exceed 2,000 Illusory Moon Coins in a single game",
+    "Hide": false,
+    "Order": 7
+  },
+  {
+    "ID": 28007,
+    "AchievementName": "Hurry, Hurry, Hurry",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Celer",
+    "AchievementDescription": "Clear level within 60 moves",
+    "Hide": false,
+    "Order": 8
+  },
+  {
+    "ID": 28008,
+    "AchievementName": "Boom! Boom! Boom!",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Vis",
+    "AchievementDescription": "Deal maximum damage equal to or greater than 300000 in a single hit",
+    "Hide": false,
+    "Order": 9
+  },
+  {
+    "ID": 28009,
+    "AchievementName": "Du-du-du",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Ira",
+    "AchievementDescription": "Use Dudu to kill an enemy",
+    "Hide": false,
+    "Order": 10
+  },
+  {
+    "ID": 28014,
+    "AchievementName": "Challenger",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Solus",
+    "AchievementDescription": "Win a battle with only one Sinner on your team",
+    "Hide": false,
+    "Order": 11
+  },
+  {
+    "ID": 28016,
+    "AchievementName": "Boxer",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Robur",
+    "AchievementDescription": "Clear level once with the King of Combat team",
+    "Hide": false,
+    "Order": 12
+  },
+  {
+    "ID": 28017,
+    "AchievementName": "Special Agent",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Longe",
+    "AchievementDescription": "Clear level once with the Bullseye team",
+    "Hide": false,
+    "Order": 13
+  },
+  {
+    "ID": 28018,
+    "AchievementName": "Deep Dive",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Lateo",
+    "AchievementDescription": "Clear level once with the Umbra CRIT team",
+    "Hide": false,
+    "Order": 14
+  },
+  {
+    "ID": 28019,
+    "AchievementName": "Kaleidoscope",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Vigor",
+    "AchievementDescription": "Clear level once with the Arcane Explosion team",
+    "Hide": false,
+    "Order": 15
+  },
+  {
+    "ID": 28020,
+    "AchievementName": "Primordial Ocean",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Lcl",
+    "AchievementDescription": "Clear level once with the Life Loss team",
+    "Hide": false,
+    "Order": 16
+  },
+  {
+    "ID": 28021,
+    "AchievementName": "Cleaner",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Mille",
+    "AchievementDescription": "Kill a total of 500 enemies",
+    "Hide": false,
+    "Order": 18
+  },
+  {
+    "ID": 28022,
+    "AchievementName": "Pipefitter",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Quin",
+    "AchievementDescription": "Defeat 1,000 enemies",
+    "Hide": false,
+    "Order": 19
+  },
+  {
+    "ID": 28023,
+    "AchievementName": "Cleanup Expert",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Decem",
+    "AchievementDescription": "Defeat 5,000 enemies",
+    "Hide": false,
+    "Order": 20
+  },
+  {
+    "ID": 28024,
+    "AchievementName": "Explorer",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Cyc",
+    "AchievementDescription": "Successfully complete Exploration Mode 10 times",
+    "Hide": false,
+    "Order": 21
+  },
+  {
+    "ID": 28028,
+    "AchievementName": "Engineer",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Lapis",
+    "AchievementDescription": "Own at least 10 Imprints during exploration",
+    "Hide": false,
+    "Order": 22
+  },
+  {
+    "ID": 28029,
+    "AchievementName": "Financial Expert",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Luna",
+    "AchievementDescription": "Have 0 [Illusory Moon Coins] during exploration",
+    "Hide": false,
+    "Order": 23
+  },
+  {
+    "ID": 28030,
+    "AchievementName": "High and Mighty",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Altus",
+    "AchievementDescription": "Clear Exploration Mode without any A-Class or B-Class Sinners in the team.",
+    "Hide": false,
+    "Order": 24
+  },
+  {
+    "ID": 28032,
+    "AchievementName": "Gardener",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Aedes",
+    "AchievementDescription": "Activate at least 2 nurture points at the same time",
+    "Hide": false,
+    "Order": 25
+  },
+  {
+    "ID": 28033,
+    "AchievementName": "Ascension",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Grad",
+    "AchievementDescription": "Reach 2,400 Nightmare points in a single game",
+    "Hide": false,
+    "Order": 26
+  },
+  {
+    "ID": 28034,
+    "AchievementName": "Sculptor",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Sig",
+    "AchievementDescription": "One Sinner has at least 3 Engraved states",
+    "Hide": false,
+    "Order": 27
+  },
+  {
+    "ID": 28037,
+    "AchievementName": "High Walls",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Murus",
+    "AchievementDescription": "Clear level once with the Infinite Protection team",
+    "Hide": false,
+    "Order": 17
+  },
+  {
+    "ID": 28038,
+    "AchievementName": "Reflection",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Homo",
+    "AchievementDescription": "Use Vanilla to defeat the final boss in [Heart of Eternity]",
+    "Hide": false,
+    "Order": 28
+  },
+  {
+    "ID": 28039,
+    "AchievementName": "Anomalies",
+    "Icon": "atlas/secretland/achievement/icon_achievement_003",
+    "IconSubName": "Sol",
+    "AchievementDescription": "Finish exploring the [Misty Depths] area",
+    "Hide": true,
+    "Order": 42
+  },
+  {
+    "ID": 28040,
+    "AchievementName": "Old Friend",
+    "Icon": "atlas/secretland/achievement/icon_achievement_004",
+    "IconSubName": "Relic",
+    "AchievementDescription": "Obtain all available Relics from the first batch of [Heart of Eternity]",
+    "Hide": false,
+    "Order": 29
+  },
+  {
+    "ID": 28041,
+    "AchievementName": "Signs of Calamity",
+    "Icon": "atlas/secretland/achievement/icon_achievement_004",
+    "IconSubName": "Terra",
+    "AchievementDescription": "Obtain all available Imprints from the first batch of [Heart of Eternity]",
+    "Hide": false,
+    "Order": 30
+  },
+  {
+    "ID": 28042,
+    "AchievementName": "Link",
+    "Icon": "atlas/secretland/achievement/icon_achievement_004",
+    "IconSubName": "Cust",
+    "AchievementDescription": "Obtain all available Sinners from the first batch of [Heart of Eternity]",
+    "Hide": false,
+    "Order": 31
+  },
+  {
+    "ID": 28043,
+    "AchievementName": "Morning Star",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Omen",
+    "AchievementDescription": "Complete 10 premonition goals in battle",
+    "Hide": false,
+    "Order": 32
+  },
+  {
+    "ID": 28044,
+    "AchievementName": "Observer",
+    "Icon": "atlas/secretland/achievement/icon_achievement_001",
+    "IconSubName": "Fab",
+    "AchievementDescription": "Read the whole story of Eternal Nightmare [Heart of Eternity]",
+    "Hide": false,
+    "Order": 33
+  },
+  {
+    "ID": 28045,
+    "AchievementName": "Collector",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Vetus",
+    "AchievementDescription": "Own at least 30 Relics during exploration",
+    "Hide": false,
+    "Order": 34
+  },
+  {
+    "ID": 28046,
+    "AchievementName": "Dominion",
+    "Icon": "atlas/secretland/achievement/icon_achievement_005",
+    "IconSubName": "Dom",
+    "AchievementDescription": "Own at least 15 [Emperor] Relics during exploration",
+    "Hide": false,
+    "Order": 35
+  },
+  {
+    "ID": 28047,
+    "AchievementName": "The Weak",
+    "Icon": "atlas/secretland/achievement/icon_achievement_003",
+    "IconSubName": "Puer",
+    "AchievementDescription": "Complete the [Mine Factory] event and obtain an Elite Firebather Imprint",
+    "Hide": true,
+    "Order": 36
+  },
+  {
+    "ID": 28048,
+    "AchievementName": "Plumber",
+    "Icon": "atlas/secretland/achievement/icon_achievement_003",
+    "IconSubName": "Duc",
+    "AchievementDescription": "Complete the [Pipeline Journey] event with Lynn's help",
+    "Hide": true,
+    "Order": 37
+  },
+  {
+    "ID": 28049,
+    "AchievementName": "Quotation",
+    "Icon": "atlas/secretland/achievement/icon_achievement_003",
+    "IconSubName": "Ling",
+    "AchievementDescription": "Make a deal with the Nightmare Tribe in the [Nightmare Blessing] event",
+    "Hide": true,
+    "Order": 38
+  },
+  {
+    "ID": 28050,
+    "AchievementName": "Knock Knock",
+    "Icon": "atlas/secretland/achievement/icon_achievement_003",
+    "IconSubName": "Porta",
+    "AchievementDescription": "Get a rare reward in the [Sealed Door] event",
+    "Hide": true,
+    "Order": 39
+  },
+  {
+    "ID": 28051,
+    "AchievementName": "Mohs Hardness 10",
+    "Icon": "atlas/secretland/achievement/icon_achievement_003",
+    "IconSubName": "Res",
+    "AchievementDescription": "Complete the [Nightmare Merchant] event and receive the Diamond-level reward",
+    "Hide": true,
+    "Order": 40
+  },
+  {
+    "ID": 28052,
+    "AchievementName": "Prohibited",
+    "Icon": "atlas/secretland/achievement/icon_achievement_003",
+    "IconSubName": "Mirum",
+    "AchievementDescription": "Win a grand prize in the [Realm Stele] event lottery",
+    "Hide": true,
+    "Order": 41
+  }
+]
