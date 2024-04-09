@@ -354,6 +354,11 @@
 							"Title": "High School Girl Kidnapping Case",
 							"Required Sinners": "Thistle, Unknown",
 							"Dispatch Text": "A mass kidnapping incident has taken place at an all-girls high school in Eastside. At the request of the Public Security Bureau, the MBCC urgently sends two Sinners to infiltrate the school disguised as students and secretly execute a hostage rescue plan."
+						},
+						{
+							"Title": "Contest Judge",
+							"Required Sinners": "Eureka, Christine",
+							"Dispatch Text": "A detective culture club in Eastside organized a fun detective prop design competition, urgently requiring a judge with profound knowledge of fun prop invention and detective prop design to participate in the reviewing process."
 						}
 					]
 				}
@@ -677,18 +682,6 @@
 							"Required Sinners": "Pepper",
 							"Dispatch Text": "In order to improve the efficiency of agriculture in Hess Village, as well as in a number of neighboring satellite towns, they need more professional equipment and talents."
 						}
-					]
-				}
-			],
-			"Unknown Rarity": [
-				{
-					"Dispatch": [
-
-						{
-							"Title": "",
-							"Required Sinners": "Christine?",
-							"Dispatch Text": "A detective culture club in Eastside organized a fun detective prop design competition, urgently requiring a judge with profound knowledge of fun prop invention and detective prop design to participate in the reviewing process."
-						}						
 					]
 				}
 			]
