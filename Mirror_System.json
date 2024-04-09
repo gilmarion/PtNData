@@ -148,6 +148,18 @@
             ],
             "Section 7": [
                 {
+                    "Sec_Title": "N.F. 106",
+                    "Ref_Code": "N.F.106",
+                    "Content": [
+                        {
+                            "Content_Header": "",
+                            "Content_Text": "" 
+                        }
+                    ]
+                }
+            ],
+            "Section 8": [
+                {
                     "Sec_Title": "N.F. 112",
                     "Ref_Code": "N.F.112",
                     "Content": [
@@ -166,7 +178,7 @@
                     ]
                 }
             ],
-            "Section 8": [
+            "Section 9": [
                 {
                     "Sec_Title": "N.F. 113-114",
                     "Ref_Code": "N.F.113-114",
