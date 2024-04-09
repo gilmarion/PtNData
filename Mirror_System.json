@@ -168,8 +168,8 @@
             ],
             "Section 8": [
                 {
-                    "Sec_Title": "N.F. 113",
-                    "Ref_Code": "N.F.113",
+                    "Sec_Title": "N.F. 113-114",
+                    "Ref_Code": "N.F.113-114",
                     "Content": [
                         {
                             "Content_Header": "BR-002 Recurrence",
@@ -588,7 +588,7 @@
                                 },
                                 {
                                     "Content_Header": "Carnival",
-                                    "Content_Text": "Once the most popular amusement park in Eastside, it was named after its famous grand parade. Now, the name refers to the first Black Ring in DisCity which has lasted for 23 years, BR-001, which is also one of the Rust's sources of contamination." 
+                                    "Content_Text": "The most popular amusement park in Eastside, famous for and named after its grand parade of the same name. It was the epicenter of Mania contamination after the BR-001 appeared." 
                                 }
                             ]
                         }
@@ -736,6 +736,46 @@
                                 {
                                     "Content_Header": "Hess Village",
                                     "Content_Text": "DisCity's satellite village. Hess Village is a farming village that provides DisCity with produce in exchange for Hypercube and other resources.\nIn recent years, a large number of villagers have left the village, and its population has aged markedly, due to a mass exodus of young villagers. And to add insult to injury, the proximity of Hess Village to WhiteSands makes it an easy target for the desert bandits." 
+                                }
+                            ]
+                        }
+                    ],
+                    "Subsection 5": [
+                        {
+                            "Sec_Title": "",
+                            "Ref_Code": "Dis-O-005",
+                            "Content": [
+                                {
+                                    "Content_Header": "",
+                                    "Content_Text": "" 
+                                },
+                                {
+                                    "Content_Header": "",
+                                    "Content_Text": "" 
+                                },
+                                {
+                                    "Content_Header": "",
+                                    "Content_Text": "" 
+                                }
+                            ]
+                        }
+                    ],
+                    "Subsection 6": [
+                        {
+                            "Sec_Title": "",
+                            "Ref_Code": "Dis-O-006",
+                            "Content": [
+                                {
+                                    "Content_Header": "",
+                                    "Content_Text": "" 
+                                },
+                                {
+                                    "Content_Header": "",
+                                    "Content_Text": "" 
+                                },
+                                {
+                                    "Content_Header": "",
+                                    "Content_Text": "" 
                                 }
                             ]
                         }
@@ -1258,7 +1298,33 @@
                         }
                     ]
                 }
+            ],
+            "Section 13": [
+                {
+                    "Sec_Title": "Apostle of Ashes",
+                    "Ref_Code": "Mania-006",
+                    "Subtitle": "",
+                    "Content": [
+                        {
+                            "Content_Header": "",
+                            "Content_Text": "" 
+                        },
+                        {
+                             "Content_Header": "",
+                              "Content_Text": "" 
+                        },
+                        {
+                            "Content_Header": "",
+                            "Content_Text": "" 
+                        },
+                        {
+                            "Content_Header": "",
+                            "Content_Text": "" 
+                        }
+                    ]
+                }
             ]
+        }
         }
     ]
 }
