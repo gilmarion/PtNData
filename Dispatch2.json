@@ -1,0 +1,812 @@
+{
+    "0": {
+        "Id": "1001001",
+        "Quality": "1",
+        "DispatchTitle": "Ye Olde Whitestone",
+        "DispatchDescription": "An old customer placed an order at Whitestone. To uphold Whitestone's reputation, the order must be completed!"
+    },
+    "1": {
+        "Id": "1001002",
+        "Quality": "2",
+        "DispatchTitle": "Security Training",
+        "DispatchDescription": "The rest of the FAC wants the former security head of Serpent Eye to give them some security training."
+    },
+    "2": {
+        "Id": "1001003",
+        "Quality": "3",
+        "DispatchTitle": "Secret Exchange",
+        "DispatchDescription": "A secret deal will take place at a drag ball, requiring the right person to sneak in and stop it."
+    },
+    "3": {
+        "Id": "1001004",
+        "Quality": "4",
+        "DispatchTitle": "Bewildering Chase",
+        "DispatchDescription": "The villain in the classified file has reappeared. We have pinpointed the event route."
+    },
+    "4": {
+        "Id": "1002001",
+        "Quality": "1",
+        "DispatchTitle": "No Man's Land",
+        "DispatchDescription": "The Syndicate thugs have been a bit restless recently. Maybe someone can infiltrate them to find out why."
+    },
+    "5": {
+        "Id": "1002002",
+        "Quality": "2",
+        "DispatchTitle": "No Defaulting",
+        "DispatchDescription": "The sponsor of the Big Belly eating competition has yet to issue the reward. After investigating, it appears to be related to an abnormal cash flow transaction."
+    },
+    "6": {
+        "Id": "1002003",
+        "Quality": "3",
+        "DispatchTitle": "Rust Anomaly",
+        "DispatchDescription": "Some anomalies have occurred along the Rust. Professionals are required to deal with them."
+    },
+    "7": {
+        "Id": "1002004",
+        "Quality": "4",
+        "DispatchTitle": "Fatal Weapon",
+        "DispatchDescription": "A new type of weapon has recently become popular in Syndicate. The overlord of Syndicate and the leader of the Legion decided to personally investigate."
+    },
+    "8": {
+        "Id": "1003001",
+        "Quality": "1",
+        "DispatchTitle": "Resource Source",
+        "DispatchDescription": "A studio under Quinn Media wants to create an anime based on the Sinners. A certain braggart volunteered to help."
+    },
+    "9": {
+        "Id": "1003002",
+        "Quality": "2",
+        "DispatchTitle": "Boom Boom Boom",
+        "DispatchDescription": "A series of suicide bombings have hit Syndicate. An explosives expert is required to investigate the incident."
+    },
+    "10": {
+        "Id": "1003003",
+        "Quality": "3",
+        "DispatchTitle": "Extravaganza",
+        "DispatchDescription": "The Bureau set up an intelligence base disguised as a carnival booth, providing magic shows, games and other services."
+    },
+    "11": {
+        "Id": "1003004",
+        "Quality": "4",
+        "DispatchTitle": "DisSea Surveillance",
+        "DispatchDescription": "Recently, the contamination level of DisSea underwent wild fluctuations. The District of DisSea has requested our support."
+    },
+    "12": {
+        "Id": "1004001",
+        "Quality": "1",
+        "DispatchTitle": "Mechanical Dance",
+        "DispatchDescription": "Someone declared they want to assassinate a performer on the dance tour. To protect her, we're going to use a body double."
+    },
+    "13": {
+        "Id": "1004002",
+        "Quality": "2",
+        "DispatchTitle": "City Shadows",
+        "DispatchDescription": "DisCity has many dark corners, especially in Paradeisos. Be extra vigilant and ensure that everyone working there has appropriate identities."
+    },
+    "14": {
+        "Id": "1004003",
+        "Quality": "3",
+        "DispatchTitle": "Murder Mystery",
+        "DispatchDescription": "After an informant planted in a secret organization died in an incident, the organization also disappeared from DisCity. To uncover the truth behind this, the Bureau needs two key personnel."
+    },
+    "15": {
+        "Id": "1004004",
+        "Quality": "4",
+        "DispatchTitle": "Super Speed",
+        "DispatchDescription": "A super-high-speed motorcycle developed by Turbine Tech has been stolen by the Biker Party. After switching hands many times, the task of locating the bike landed with Whitestone Industries."
+    },
+    "16": {
+        "Id": "1005001",
+        "Quality": "1",
+        "DispatchTitle": "Ban Open Flames",
+        "DispatchDescription": "Multiple fires have broken out across Syndicate, each quite distant from the others. The Bureau wants to know if there is a connection between the incidents."
+    },
+    "17": {
+        "Id": "1005002",
+        "Quality": "2",
+        "DispatchTitle": "Fixed Route?",
+        "DispatchDescription": "At the invitation of the Eastside Public Security Bureau, specially-dispatched Sinners have been assigned to carry out routine security patrol, considering that it is a fixed route..."
+    },
+    "18": {
+        "Id": "1005003",
+        "Quality": "3",
+        "DispatchTitle": "Spencer Family",
+        "DispatchDescription": "Regarding the recent scandal of this family, the Bureau suggests that relevant personnel be dispatched to deal with the matter. To ensure the success of the operation, another strong individual should provide support."
+    },
+    "19": {
+        "Id": "1005004",
+        "Quality": "4",
+        "DispatchTitle": "Technical Support",
+        "DispatchDescription": "The parent organization's research institute has recently encountered several technical difficulties. Considering the extent of professional knowledge required, there seems to be only one suitable candidate."
+    },
+    "20": {
+        "Id": "1006001",
+        "Quality": "1",
+        "DispatchTitle": "Scavenger",
+        "DispatchDescription": "There has been a recent murder case involving a group of scavengers by the Rust. Someone familiar with the environment there is required to investigate."
+    },
+    "21": {
+        "Id": "1006002",
+        "Quality": "2",
+        "DispatchTitle": "Book Management",
+        "DispatchDescription": "Some old books in the library had been lost. The Bureau suspects this is not a simple management error, but the key to another mystery."
+    },
+    "22": {
+        "Id": "1006003",
+        "Quality": "3",
+        "DispatchTitle": "Book Purchase",
+        "DispatchDescription": "The Bureau's book procurement work has officially started. The total book list is 19 pages long. It is not easy to find suitable candidates."
+    },
+    "23": {
+        "Id": "1006004",
+        "Quality": "4",
+        "DispatchTitle": "Supervise Work",
+        "DispatchDescription": "The Bureau needs to evaluate recent dispatch work and draft an outlook for future missions. One of your superiors is the right person to assist you."
+    },
+    "24": {
+        "Id": "1007001",
+        "Quality": "1",
+        "DispatchTitle": "Special Commentary",
+        "DispatchDescription": "A renowned art magazine invites a famous critic to write a special piece and pays handsomely."
+    },
+    "25": {
+        "Id": "1007002",
+        "Quality": "2",
+        "DispatchTitle": "Food Tasting",
+        "DispatchDescription": "A food factory has launched a number of new products, but sales have been poor. They need advice from a more professional food critic."
+    },
+    "26": {
+        "Id": "1007003",
+        "Quality": "3",
+        "DispatchTitle": "Entertainment News",
+        "DispatchDescription": "The paparazzi have made up some tabloid news about the Sinner idols. This must be stopped."
+    },
+    "27": {
+        "Id": "1007004",
+        "Quality": "4",
+        "DispatchTitle": "Important Decision",
+        "DispatchDescription": "While remote control is possible, these industries still require the presence of decision makers in person when a major incident occurs."
+    },
+    "28": {
+        "Id": "1008001",
+        "Quality": "1",
+        "DispatchTitle": "Efficiency Increase",
+        "DispatchDescription": "In order to improve the efficiency of agriculture in Hess Village, as well as in a number of neighboring satellite towns, they need more professional equipment and talents."
+    },
+    "29": {
+        "Id": "1008002",
+        "Quality": "2",
+        "DispatchTitle": "Interrogation Invitation",
+        "DispatchDescription": "When encountering prisoners who are difficult to interrogate, the Eastside Public Security Bureau always sends a request of assistance to the Bureau."
+    },
+    "30": {
+        "Id": "1008003",
+        "Quality": "3",
+        "DispatchTitle": "Sandworm Frenzy",
+        "DispatchDescription": "The sandworms of WhiteSands are in a frenzy. We need an experienced hunter to deal with them. It will be even better if we can figure out the reason behind the commotion."
+    },
+    "31": {
+        "Id": "1008004",
+        "Quality": "4",
+        "DispatchTitle": "Supreme Dance",
+        "DispatchDescription": "The Corruptors of DisSea have become extremely active recently. The district has opened up unpopulated control zones for special commissioners to use."
+    },
+    "32": {
+        "Id": "1009001",
+        "Quality": "1",
+        "DispatchTitle": "Legendary Recipe",
+        "DispatchDescription": "Molecular cuisine has long been an urban legend among the epicureans of DisCity. This legend occasionally reappears."
+    },
+    "33": {
+        "Id": "1009002",
+        "Quality": "2",
+        "DispatchTitle": "Hospital Woes",
+        "DispatchDescription": "The depot at Banyan Medical College has been ransacked, and a large number of medicines and blood samples have been stolen. It is necessary to trace the clues immediately."
+    },
+    "34": {
+        "Id": "1009003",
+        "Quality": "3",
+        "DispatchTitle": "Old Paradeisos House",
+        "DispatchDescription": "A dusty old house in Paradeisos has recently been burglarized. The Bureau will send relevant personnel to sneak in secretly and investigate."
+    },
+    "35": {
+        "Id": "1010001",
+        "Quality": "1",
+        "DispatchTitle": "Emergency Squad",
+        "DispatchDescription": "The guitarist of a well-known band in Eastside is going to miss a concert due to a broken arm. The organizers hope to find a qualified substitute."
+    },
+    "36": {
+        "Id": "1010002",
+        "Quality": "2",
+        "DispatchTitle": "Funding Allocation",
+        "DispatchDescription": "Recently, the Eastside Zoo received a mysterious donation, but the funds ended up in a private account. The anonymous donor is furious about the situation and wants to investigate it personally."
+    },
+    "37": {
+        "Id": "1010003",
+        "Quality": "3",
+        "DispatchTitle": "Wealth & Power",
+        "DispatchDescription": "In a place like the Underground Arena, money and strong fists will make you invincible."
+    },
+    "38": {
+        "Id": "1011001",
+        "Quality": "1",
+        "DispatchTitle": "Underground Rock",
+        "DispatchDescription": "Some people borrowed an underground rock venue to sell prohibited items. An well-oiled industrial chain has been formed, and it is urgent for someone to investigate."
+    },
+    "39": {
+        "Id": "1011002",
+        "Quality": "2",
+        "DispatchTitle": "Undertaker",
+        "DispatchDescription": "Someone in Syndicate is using the Undertaker's name to do evil things, igniting the Undertaker's wrath."
+    },
+    "40": {
+        "Id": "1011003",
+        "Quality": "3",
+        "DispatchTitle": "Crazed",
+        "DispatchDescription": "Swarms of Corruptors have appeared on the edge of DisSea. We need a team crazy enough to destroy them."
+    },
+    "41": {
+        "Id": "1012001",
+        "Quality": "1",
+        "DispatchTitle": "Product Endorsement",
+        "DispatchDescription": "A new concept kitchenware manufacturer hopes to find a famous chef to endorse its products."
+    },
+    "42": {
+        "Id": "1012002",
+        "Quality": "2",
+        "DispatchTitle": "Natural Spy",
+        "DispatchDescription": "Some highly classified surveillance missions have very high technical requirements for disguise."
+    },
+    "43": {
+        "Id": "1012003",
+        "Quality": "3",
+        "DispatchTitle": "Phantom Thief Debut",
+        "DispatchDescription": "A copycat has appeared among an infamous band of robbers! For some, this is completely intolerable."
+    },
+    "44": {
+        "Id": "1013001",
+        "Quality": "1",
+        "DispatchTitle": "Not A Weed",
+        "DispatchDescription": "An edible desert plant is growing successfully in the Bureau's green belt. Try planting in the experimental field in WhiteSands."
+    },
+    "45": {
+        "Id": "1013002",
+        "Quality": "2",
+        "DispatchTitle": "Ikebana Exchange",
+        "DispatchDescription": "The most elite ikebana conference in Eastside has invited a Sinner to attend - after all, she is the most popular ikebana master in Eastside."
+    },
+    "46": {
+        "Id": "1013003",
+        "Quality": "3",
+        "DispatchTitle": "Upper Class",
+        "DispatchDescription": "The Bureau needs to monitor an upper class banquet. All the participants are either rich or aristocratic, so be extra careful."
+    },
+    "47": {
+        "Id": "1014001",
+        "Quality": "1",
+        "DispatchTitle": "Counterfeit Scandal",
+        "DispatchDescription": "All the items of a large auction house have been replaced with fakes. The case details need to be investigated by special personnel."
+    },
+    "48": {
+        "Id": "1014002",
+        "Quality": "2",
+        "DispatchTitle": "Dream Interpretation",
+        "DispatchDescription": "Residents in some areas of Eastside often suffer from nightmares. It is necessary to find out why."
+    },
+    "49": {
+        "Id": "1014003",
+        "Quality": "3",
+        "DispatchTitle": "Ominous Playground",
+        "DispatchDescription": "Abnormal levels of radiation have been detected near an amusement park. Experts are required to deal with it."
+    },
+    "50": {
+        "Id": "1015001",
+        "Quality": "1",
+        "DispatchTitle": "\\\"Hidden\\\" Masses",
+        "DispatchDescription": "This mission requires someone to integrate into Syndicate with the calmest attitude, and to always be alert for the slightest of disturbances. This kind of daily surveillance is best-suited for Syndicate locals."
+    },
+    "51": {
+        "Id": "1015002",
+        "Quality": "2",
+        "DispatchTitle": "Old Hunter",
+        "DispatchDescription": "Recently, there have been sightings of a new species along the Rust. To determine whether or not they are Corruptors or some other mutated monsters, qualified professionals need to go to investigate."
+    },
+    "52": {
+        "Id": "1015003",
+        "Quality": "3",
+        "DispatchTitle": "Missing Pets",
+        "DispatchDescription": "There has been a number of missing pet cases in Eastside. The search for missing pets and the search for fugitives shall be carried out simultaneously."
+    },
+    "53": {
+        "Id": "1016001",
+        "Quality": "1",
+        "DispatchTitle": "Training Exchange",
+        "DispatchDescription": "The FAC headquarters issued a notice to the Bureau requesting an educational exchange, to which many Sinners scoffed and sneered."
+    },
+    "54": {
+        "Id": "1016002",
+        "Quality": "2",
+        "DispatchTitle": "Haunted Film Crew",
+        "DispatchDescription": "There are rumors circulating about a haunted film crew. Upon reviewing the footage, we are going to control the relevant information."
+    },
+    "55": {
+        "Id": "1016003",
+        "Quality": "3",
+        "DispatchTitle": "Psychotherapy",
+        "DispatchDescription": "There is news that a psychiatric treatment center is imprisoning its patients. We will dispatch the most elite team to investigate."
+    },
+    "56": {
+        "Id": "1017001",
+        "Quality": "1",
+        "DispatchTitle": "Maid Caf\\xc3\\xa9",
+        "DispatchDescription": "Of all the disguised venues used by the Bureau, the maid cafe is without a doubt the strangest of them all."
+    },
+    "57": {
+        "Id": "1017002",
+        "Quality": "2",
+        "DispatchTitle": "Professional Nursing",
+        "DispatchDescription": "DisCity is always overflowing with injuries, which ensures that the medical team will always get the highest dispatch subsidy."
+    },
+    "58": {
+        "Id": "1017003",
+        "Quality": "3",
+        "DispatchTitle": "Pharmaceutical Research",
+        "DispatchDescription": "The cooperation with Banyan Medical College and SALVA is advancing in an orderly manner. Relevant technical data must be strictly protected."
+    },
+    "59": {
+        "Id": "1018001",
+        "Quality": "1",
+        "DispatchTitle": "Guest Judge",
+        "DispatchDescription": "Syndicate rappers are preparing an epic rap battle, for which the Public Security Bureau has specially invited a professional judge."
+    },
+    "60": {
+        "Id": "1018002",
+        "Quality": "2",
+        "DispatchTitle": "Judgment Mystery",
+        "DispatchDescription": "The Eastside Court has recently been flooded by complaints. Some have even threatened to make the lawyers and judges pay the price in blood for unjust rulings. The Ministry of Internal Affairs is very interested in this information."
+    },
+    "61": {
+        "Id": "1018003",
+        "Quality": "3",
+        "DispatchTitle": "The Rust Injunction",
+        "DispatchDescription": "The recent surge in stowaways along the Rust has prompted the Eastside Public Security Bureau to find out who's behind the phenomenon."
+    },
+    "62": {
+        "Id": "1018004",
+        "Quality": "4",
+        "DispatchTitle": "Yagyu Anomaly",
+        "DispatchDescription": "There has been a huge inflow of funds into Yagyu's accounts. According to relevant intelligence, they are trying to launch a new \\\"hunt\\\" and must be stopped."
+    },
+    "63": {
+        "Id": "1019001",
+        "Quality": "1",
+        "DispatchTitle": "Real vs. Fake Whitestone",
+        "DispatchDescription": "A new Whitestone company has appeared in Syndicate, and its business is booming. This has enraged the real Whitestone boss."
+    },
+    "64": {
+        "Id": "1019002",
+        "Quality": "2",
+        "DispatchTitle": "Ad Invitation",
+        "DispatchDescription": "Dis-Mart wants to dabble in the sports equipment business. They have sent the Bureau an ad shoot proposal, along with a huge sum of money."
+    },
+    "65": {
+        "Id": "1019003",
+        "Quality": "3",
+        "DispatchTitle": "Formal Cooperation",
+        "DispatchDescription": "Dis-Mart is preparing to formally sign a cooperation agreement with the Bureau, but the Bureau has some different opinions on the sharing ratio in the contract."
+    },
+    "66": {
+        "Id": "1019004",
+        "Quality": "4",
+        "DispatchTitle": "Tide of Ashes",
+        "DispatchDescription": "Abnormal fluctuations have appeared in this cycle's Tide of Ashes. The Secret Society Matrix wants to discover the reason behind this phenomenon."
+    },
+    "67": {
+        "Id": "1020001",
+        "Quality": "1",
+        "DispatchTitle": "Security Test",
+        "DispatchDescription": "A family in Paradeisos wants to test their recently updated security system. They have contacted the Bureau through personal connections."
+    },
+    "68": {
+        "Id": "1020002",
+        "Quality": "2",
+        "DispatchTitle": "Field Rescue",
+        "DispatchDescription": "A large number of Corruptors have appeared in DisSea, and medical staff are buckling under the pressure. The District of DisSea has issued a rescue order to the whole city."
+    },
+    "69": {
+        "Id": "1020003",
+        "Quality": "3",
+        "DispatchTitle": "Physical & Mental Health",
+        "DispatchDescription": "Thou Voodoos seem to be researching how to manipulate dead bodies. The Bureau must take preemptive actions for the physical & mental health of DisCity residents."
+    },
+    "70": {
+        "Id": "1021001",
+        "Quality": "1",
+        "DispatchTitle": "Spy",
+        "DispatchDescription": "A Bureau informant stationed within a certain company has mysteriously disappeared. Perhaps you can send a spy to conduct an undercover investigation."
+    },
+    "71": {
+        "Id": "1021002",
+        "Quality": "2",
+        "DispatchTitle": "Curiosity",
+        "DispatchDescription": "A series of fraud cases has taken Eastside by storm. Rumor has it that the cases are linked to orphans at an Eastside orphanage. A certain someone is very interested in these rumors."
+    },
+    "72": {
+        "Id": "1021003",
+        "Quality": "3",
+        "DispatchTitle": "Toy Puppet",
+        "DispatchDescription": "Rumor has it that toy puppets have come to life and are roaming along the Rust. The Bureau needs to determine the veracity of these rumors."
+    },
+    "73": {
+        "Id": "1022001",
+        "Quality": "1",
+        "DispatchTitle": "Literacy Courses",
+        "DispatchDescription": "For better mission results, the Bureau has instituted some basic literacy courses for certain Sinners."
+    },
+    "74": {
+        "Id": "1022002",
+        "Quality": "2",
+        "DispatchTitle": "Study Group",
+        "DispatchDescription": "In the Bureau's special training sessions, Sinners form one-on-one study groups and help each other in their areas of strength."
+    },
+    "75": {
+        "Id": "1023001",
+        "Quality": "1",
+        "DispatchTitle": "Guiding Beacon",
+        "DispatchDescription": "Nirvana Logistics hopes to improve the beacon network in WhiteSands and provide the most accurate navigation guidance to the ships there. To this end, they have carried out in-depth cooperation with the Bureau."
+    },
+    "76": {
+        "Id": "1023002",
+        "Quality": "2",
+        "DispatchTitle": "WhiteSands Search",
+        "DispatchDescription": "A sudden sandstorm has caused Nirvana Logistics to lose several sand ships. We wish to find them and bring them back safely."
+    },
+    "77": {
+        "Id": "1024001",
+        "Quality": "4",
+        "DispatchTitle": "Ornamental Snake At Large",
+        "DispatchDescription": "An ornamental snake in an Eastside zoo has escaped and caused injuries, sparking public panic. To capture it as soon as possible, the Public Security Bureau is in urgent need of assistance from professionals versed in snake behaviors."
+    },
+    "78": {
+        "Id": "1024002",
+        "Quality": "2",
+        "DispatchTitle": "Crackdown on Counterfeiting",
+        "DispatchDescription": "A novice Eastside blacksmith claims to be the apprentice of the city's top weaponsmith, luring in numerous clients with that title. This greatly vexes the top weaponsmith of Eastside who's never taken any apprentices."
+    },
+    "79": {
+        "Id": "1024003",
+        "Quality": "3",
+        "DispatchTitle": "Limited Edition",
+        "DispatchDescription": "A popular toy shop is launching a limited edition new product. People are already queuing outside the shop overnight to purchase it."
+    },
+    "80": {
+        "Id": "1025001",
+        "Quality": "4",
+        "DispatchTitle": "Art Counselor",
+        "DispatchDescription": "A new sculpture museum is being prepared in the Eastside. The person in charge contacted the Bureau, wanting to hire a professional as an art consultant."
+    },
+    "81": {
+        "Id": "1025002",
+        "Quality": "2",
+        "DispatchTitle": "Culture Exchange Event",
+        "DispatchDescription": "The Eastside Library will be hosting a classical art and literature conference recently, and a certain enthusiast submitted an early application to participate."
+    },
+    "82": {
+        "Id": "1025003",
+        "Quality": "3",
+        "DispatchTitle": "Forging Group",
+        "DispatchDescription": "A series of thefts of works on display by a master artist, followed by a large number of well-made forgeries on the local black market, are suspected to be the work of a professional group and need to be investigated thoroughly."
+    },
+    "83": {
+        "Id": "1026001",
+        "Quality": "4",
+        "DispatchTitle": "Corruptor Attack",
+        "DispatchDescription": "Corruptors from an unknown source have attacked a certain location. By request, the Bureau sends professionals to help."
+    },
+    "84": {
+        "Id": "1026002",
+        "Quality": "2",
+        "DispatchTitle": "Musician Recruitment",
+        "DispatchDescription": "A well-known orchestra is recruiting new musicians and organizing a mass audition. Someone is tempted to try out after learning about the news."
+    },
+    "85": {
+        "Id": "1026003",
+        "Quality": "3",
+        "DispatchTitle": "Undercover Investigation",
+        "DispatchDescription": "An Outlander busker group seems very suspicious. The Bureau decides to immediately send staff on an undercover investigation."
+    },
+    "86": {
+        "Id": "1027001",
+        "Quality": "4",
+        "DispatchTitle": "Cinematic Masterclass",
+        "DispatchDescription": "A film academy based in Eastside is organizing a lecture on filmmaking for its students. The administration contacts the MBCC to invite a certain master filmmaker to give the lecture."
+    },
+    "87": {
+        "Id": "1027002",
+        "Quality": "2",
+        "DispatchTitle": "Teaching Materials on Photography",
+        "DispatchDescription": "The MBCC has recently acquired some teaching materials on photography and photobooks by distinguished artists. The news brings endless joy to a certain shutterbug, who wastes no time in sending in a request."
+    },
+    "88": {
+        "Id": "1027003",
+        "Quality": "3",
+        "DispatchTitle": "A Photography Tour of the North",
+        "DispatchDescription": "A Sinner who is passionate about photography has been yearning to travel to the north and capture its spectacular scenery. It just so happens that another Sinner is being sent on a mission to the north, so the shutterbug sends in a request, asking Chief for permission to tag along."
+    },
+    "89": {
+        "Id": "1027004",
+        "Quality": "4",
+        "DispatchTitle": "Grand Opening",
+        "DispatchDescription": "An MBCC staffer who is opening a shop in their hometown invites a certain Sinner to perform a lion dance at the grand opening."
+    },
+    "90": {
+        "Id": "1028001",
+        "Quality": "4",
+        "DispatchTitle": "Board Game Chaos",
+        "DispatchDescription": "The Public Security Bureau reports that some outlaws have been disguising as board game players. The Bureau sends someone versed in this kind of activity to assist in the arrest."
+    },
+    "91": {
+        "Id": "1028002",
+        "Quality": "2",
+        "DispatchTitle": "Home Advantage",
+        "DispatchDescription": "According to credible sources, a suspect has been frequenting the dodgy entertainment facilities in Eastside. You need someone who's familiar with the environment to carry out research and collect evidence."
+    },
+    "92": {
+        "Id": "1028003",
+        "Quality": "3",
+        "DispatchTitle": "Fraud Gang",
+        "DispatchDescription": "A slippery fraud gang has recently become a headache for the Public Security Bureau. The Bureau thus sends a resourceful and eloquent Sinner for support."
+    },
+    "93": {
+        "Id": "1029001",
+        "Quality": "4",
+        "DispatchTitle": "Field Investigation",
+        "DispatchDescription": "A well-known school in Eastside is holding an open academic event that welcomes people from all walks of life to participate. An aspiring teacher in the Bureau is requesting to go there for an inspection."
+    },
+    "94": {
+        "Id": "1029002",
+        "Quality": "2",
+        "DispatchTitle": "Unofficial Fights",
+        "DispatchDescription": "Violent elements are reportedly hiding among brawling civilians. However, due to the target location's complicated situation, it is necessary to send experienced personnel to investigate."
+    },
+    "95": {
+        "Id": "1029003",
+        "Quality": "3",
+        "DispatchTitle": "Illegal Slaughterhouse",
+        "DispatchDescription": "The Public Security Bureau has received a tip-off about an illegal slaughterhouse with unsanitary conditions that reportedly caused many animals to become seriously infected. They are asking the Bureau to send someone familiar with animals to help."
+    },
+    "96": {
+        "Id": "1030001",
+        "Quality": "4",
+        "DispatchTitle": "Confession Tree Hole",
+        "DispatchDescription": "The Bureau needs a keen listener for others to confide in, and designates a room designed to look like the starry cosmos as a place to vent."
+    },
+    "97": {
+        "Id": "1030002",
+        "Quality": "2",
+        "DispatchTitle": "Plastic surgery fiasco",
+        "DispatchDescription": "A celebrity nose insured for 300 million has been broken. Conflict ensues as the insurance company cannot afford to pay. A seasoned cosmetic surgeon is needed to intervene."
+    },
+    "98": {
+        "Id": "1030003",
+        "Quality": "3",
+        "DispatchTitle": "Crime Scene",
+        "DispatchDescription": "The Bureau receives a request to help restore some physical evidence damaged at the crime scene."
+    },
+    "99": {
+        "Id": "1031001",
+        "Quality": "4",
+        "DispatchTitle": "Mystery Copycat",
+        "DispatchDescription": "There have been a number of recent crimes mimicking the Foggy Night Mystery, and a Sinner with knowledge of this urban legend is needed to go to the rescue."
+    },
+    "100": {
+        "Id": "1031002",
+        "Quality": "2",
+        "DispatchTitle": "Emergency Rescue",
+        "DispatchDescription": "A building collapse has left many people buried under the rubble, and a Sinner who can ignore physical obstacles is urgently needed to rescue them."
+    },
+    "101": {
+        "Id": "1031003",
+        "Quality": "3",
+        "DispatchTitle": "Master of Adventure",
+        "DispatchDescription": "New adventure lore has taken the city by storm, and two enthusiasts are eager to explore it."
+    },
+    "102": {
+        "Id": "1032001",
+        "Quality": "4",
+        "DispatchTitle": "Tasting Invitation",
+        "DispatchDescription": "The owner of a highly anticipated restaurant in Eastside is inviting a famous gourmet to try the food on the day of the opening ceremony."
+    },
+    "103": {
+        "Id": "1032002",
+        "Quality": "2",
+        "DispatchTitle": "Ocean Art Exhibition",
+        "DispatchDescription": "An up-and-coming artist in Eastside is organizing a solo exhibition on the theme of \\\"The Ocean\\\", and he has contacted the Bureau in the hope that he can get some material and inspiration from a certain Sinner."
+    },
+    "104": {
+        "Id": "1032003",
+        "Quality": "3",
+        "DispatchTitle": "Assist Investigation",
+        "DispatchDescription": "The MBCC receives a request from the Public Security Bureau to send in two Sinners, who are capable of disguising their personalities, to assist in the investigation of the mysterious disappearance of Eastsiders."
+    },
+    "105": {
+        "Id": "1033001",
+        "Quality": "4",
+        "DispatchTitle": "Joint Exercise",
+        "DispatchDescription": "The FAC has organized a joint exercise competition and requests an experienced former FAC officer to participate."
+    },
+    "106": {
+        "Id": "1033002",
+        "Quality": "2",
+        "DispatchTitle": "Showroom Rescue",
+        "DispatchDescription": "A fashion studio in Eastside is facing a burst of orders on the eve of a fashion show, and is short of manpower, urgently needing the assistance of a professional tailor."
+    },
+    "107": {
+        "Id": "1033003",
+        "Quality": "3",
+        "DispatchTitle": "Gardens of Doubt",
+        "DispatchDescription": "A number of cases suspected to be modeled after the \\\"Garden\\\" have been reported in a certain area. The Public Security Bureau applies to the MBCC for dispatching Garden-related personnel to assist in the investigation."
+    },
+    "108": {
+        "Id": "1034001",
+        "Quality": "4",
+        "DispatchTitle": "Eccentric Music Meetup",
+        "DispatchDescription": "An Eastside socialite sent an invitation for an eccentric underground music meetup. A Sinner with broad taste in music claimed the invitation and plans to record the music event with her Schorl."
+    },
+    "109": {
+        "Id": "1034002",
+        "Quality": "2",
+        "DispatchTitle": "Mystery Deduction",
+        "DispatchDescription": "A mysterious case occurred somewhere in Eastside. The Public Security Bureau is urgently requesting a professional with deductive skills from the Bureau to assist in solving the case."
+    },
+    "110": {
+        "Id": "1034003",
+        "Quality": "3",
+        "DispatchTitle": "Item Scouting",
+        "DispatchDescription": "The Public Security Bureau suspects an illicit manufacturer of dangerous goods is operating under the guise of selling stage props. They need the Bureau to dispatch someone skilled in identifying contraband for investigation."
+    },
+    "111": {
+        "Id": "1034004",
+        "Quality": "4",
+        "DispatchTitle": "Moonbathing Spot",
+        "DispatchDescription": "A suspected Mania incident occurred at an open-air bath in Eastside. Because the bath has a unique nighttime theme, a Sinner passionate about bathing has made strong requests to go and investigate."
+    },
+    "112": {
+        "Id": "1035001",
+        "Quality": "4",
+        "DispatchTitle": "Zoo Theft",
+        "DispatchDescription": "A batch of crocodiles has gone missing from an Eastside zoo. The Public Security Bureau has caught the culprit, but the crocodiles are nowhere to be found. They urgently need a Sinner who is a wildlife expert to assist in the search."
+    },
+    "113": {
+        "Id": "1035002",
+        "Quality": "2",
+        "DispatchTitle": "Perfume Auction",
+        "DispatchDescription": "Someone claims to be able to concoct the legendary Immortal Fragrance, and is using it as a selling point to hold an auction and make a profit. A Sinner who is a perfume connoisseur is volunteering to go, and will either admire a masterpiece or expose a fraud."
+    },
+    "114": {
+        "Id": "1035003",
+        "Quality": "3",
+        "DispatchTitle": "Faux Nobility",
+        "DispatchDescription": "The Eastside Public Security Bureau needs to disguise police officers as noble ladies for an undercover investigation, and wants the help of a Sinner who is a fashion and perfume connoisseur."
+    },
+    "115": {
+        "Id": "1036001",
+        "Quality": "4",
+        "DispatchTitle": "Who Caused It, Who Solves It",
+        "DispatchDescription": "Recently the number of insomnia patients received by Eastside Hospital has climbed sharply, most of which are allegedly induced by the fear of the scary urban legend, and are in urgent need of hypnosis ASMR programs to assist in their treatment."
+    },
+    "116": {
+        "Id": "1036002",
+        "Quality": "2",
+        "DispatchTitle": "Snack Sampling",
+        "DispatchDescription": "A fun snack site has just started up and wants to make a name for itself quickly. Therefore it needs an streamer to live-stream the sampling of weird snacks."
+    },
+    "117": {
+        "Id": "1036003",
+        "Quality": "3",
+        "DispatchTitle": "Sharp Commentary",
+        "DispatchDescription": "A late-night variety show in Eastside has seen its ratings fall, and is desperate to hire a critic who can do the whole job to star in the show and comment on hot social and current events."
+    },
+    "118": {
+        "Id": "1037001",
+        "Quality": "4",
+        "DispatchTitle": "Gaze of the Toys",
+        "DispatchDescription": "Recently, many citizens have reported feeling watched by their daughter's dolls, suspecting that a peeping gang has put their modified toys into the market. A Sinner who is proficient in toy design and manufacturing is urgently needed to assist with the investigation."
+    },
+    "119": {
+        "Id": "1037002",
+        "Quality": "2",
+        "DispatchTitle": "Sci-fi Film Festival",
+        "DispatchDescription": "Eastside is hosting a low-budget niche sci-fi film festival. A certain Sinner who yearns to gain inventive inspiration from films is eager to participate."
+    },
+    "120": {
+        "Id": "1037003",
+        "Quality": "3",
+        "DispatchTitle": "Contest Judge",
+        "DispatchDescription": "A detective culture club in Eastside organized a fun detective prop design competition, urgently requiring a judge with profound knowledge of fun prop invention and detective prop design to participate in the reviewing process."
+    },
+    "121": {
+        "Id": "1038001",
+        "Quality": "4",
+        "DispatchTitle": "History of Rustfire",
+        "DispatchDescription": "The Bureau plans to compile a comprehensive history document of the rise and development of Rustfire. They need those in the know to assist them."
+    },
+    "122": {
+        "Id": "1038002",
+        "Quality": "2",
+        "DispatchTitle": "Firearm Trial",
+        "DispatchDescription": "A research institute has developed a new model of pistol and urgently needs a firearm expert for testing and evaluation."
+    },
+    "123": {
+        "Id": "1038003",
+        "Quality": "3",
+        "DispatchTitle": "Major Cleanup",
+        "DispatchDescription": "The Bureau has been busy with official duties recently and doesn't have enough time for housekeeping. Two Sinners have decided to work together to complete a major cleanup."
+    },
+    "124": {
+        "Id": "1039001",
+        "Quality": "4",
+        "DispatchTitle": "Audition Judge",
+        "DispatchDescription": "An entertainment company has launched a new talent show, this time with the theme of finding future musical stars. They are urgently recruiting audience judges to participate in the filming. A certain Sinner volunteers to go and uncover the hidden talents."
+    },
+    "125": {
+        "Id": "1039002",
+        "Quality": "2",
+        "DispatchTitle": "Popularity Contest",
+        "DispatchDescription": "An association in Eastside has organized a busking contest which audience can watch for free and cast their votes. Hearing about this, a certain Sinner is eager to participate in it, confident that the champion title shall go to no one else."
+    },
+    "126": {
+        "Id": "1039003",
+        "Quality": "3",
+        "DispatchTitle": "Sonic Weapon",
+        "DispatchDescription": "The Public Security Bureau is vigorously developing sonic weapons and urgently hiring Sinners capable of using sonic attacks and skilled in invention and creation to participate in the project."
+    },
+    "127": {
+        "Id": "1040001",
+        "Quality": "4",
+        "DispatchTitle": "Bomb Alert",
+        "DispatchDescription": "The MBCC received a request from the Public Security Bureau. Explosives have been planted into a giant clock in an Eastside landmark. The device's mechanism is complex and dangerous, so they require urgent assistance from a Sinner with extensive knowledge of mechanical structures."
+    },
+    "128": {
+        "Id": "1040002",
+        "Quality": "2",
+        "DispatchTitle": "Journal Market",
+        "DispatchDescription": "A journal market event is being held in Eastside. A certain Sinner insists that immense unknown danger lurks within and volunteers to go and eliminate the threats."
+    },
+    "129": {
+        "Id": "1040003",
+        "Quality": "3",
+        "DispatchTitle": "High School Girl Kidnapping Case",
+        "DispatchDescription": "A mass kidnapping incident has taken place at an all-girls high school in Eastside. At the request of the Public Security Bureau, the MBCC urgently sends two Sinners to infiltrate the school disguised as students and secretly execute a hostage rescue plan."
+    },
+    "130": {
+        "Id": "1041001",
+        "Quality": "4",
+        "DispatchTitle": "Ancient Book Identification",
+        "DispatchDescription": "A collection of valuable original copies of Outland books has recently been stolen from the Eastside Library. Assistance from a relevant scholar is urgently required to retrieve and authenticate them."
+    },
+    "131": {
+        "Id": "1041002",
+        "Quality": "2",
+        "DispatchTitle": "Culinary Festival",
+        "DispatchDescription": "The Eastside Culinary Festival is about to commence, and the organizer has extended a friendly invitation to the Bureau. Having seen the invitation, a certain Sinner volunteers to honor it."
+    },
+    "132": {
+        "Id": "1041003",
+        "Quality": "3",
+        "DispatchTitle": "Child Model Disappearance Case",
+        "DispatchDescription": "Recently, several models of an Eastside luxury children's clothing brand have gone missing after photo shoots. Send two Sinners to go undercover in disguise and uncover the truth."
+    },
+    "133": {
+        "Id": "1041004",
+        "Quality": "4",
+        "DispatchTitle": "Seminar Investigation",
+        "DispatchDescription": "The Public Security Bureau has recently received complaints about a suspicious self-claimed master holding seminars titled <i>Communication with the Sun</i> everywhere. Send a Sinner to investigate."
+    },
+    "134": {
+        "Id": "1099001",
+        "Quality": "2",
+        "DispatchTitle": "Dream Interpretation",
+        "DispatchDescription": "Residents in some areas of Eastside often suffer from nightmares. It is necessary to find out why."
+    }
+}
