@@ -18,12 +18,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 1,
-                "EN": "K.K.",
-                "JP": "K.K.",
-                "KO": "K.K.",
-                "CN": "蔻蔻",
-                "TW": "K.K."
+                "EN": "K.K."
             }
         }
     },
@@ -46,12 +41,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 2,
-                "EN": "Cinnabar",
-                "JP": "辰砂",
-                "KO": "시나바",
-                "CN": "辰砂",
-                "TW": "辰砂"
+                "EN": "Cinnabar"
             }
         }
     },
@@ -73,21 +63,8 @@
             "TW": "一樁秘密交易將在變裝舞會上進行，需要身份相符的人潛入阻止。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 3,
-                "EN": "Cinnabar",
-                "JP": "辰砂",
-                "KO": "시나바",
-                "CN": "辰砂",
-                "TW": "辰砂"
-            },
-            "sinner 2": {
-                "ID": 4,
-                "EN": "Ignis",
-                "JP": "イグニ",
-                "KO": "이그니스",
-                "CN": "伊格尼",
-                "TW": "伊格尼"
+            "sinner": {
+                "EN": "Ignis"
             }
         }
     },
@@ -110,12 +87,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 5,
-                "EN": "Demon",
-                "JP": "デーモン",
-                "KO": "데이먼",
-                "CN": "迪蒙",
-                "TW": "迪蒙"
+                "EN": "Demon"
             }
         }
     },
@@ -138,12 +110,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 6,
-                "EN": "Hella",
-                "JP": "ヘラ",
-                "KO": "엘라",
-                "CN": "海拉",
-                "TW": "海拉"
+                "EN": "Hella"
             }
         }
     },
@@ -166,12 +133,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 7,
-                "EN": "Ninety-Nine",
-                "JP": "ナインティナイン",
-                "KO": "나인티나인",
-                "CN": "九十九",
-                "TW": "九十九"
+                "EN": "Ninety-Nine"
             }
         }
     },
@@ -193,21 +155,8 @@
             "TW": "鏽河地帶出現了一些異常現象，需要專業人士前去處理。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 8,
-                "EN": "Ninety-Nine",
-                "JP": "ナインティナイン",
-                "KO": "나인티나인",
-                "CN": "九十九",
-                "TW": "九十九"
-            },
-            "sinner 2": {
-                "ID": 9,
-                "EN": "Wendy",
-                "JP": "ウェンディ",
-                "KO": "웬디",
-                "CN": "温蒂",
-                "TW": "溫蒂"
+            "sinner": {
+                "EN": "Wendy"
             }
         }
     },
@@ -230,12 +179,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 10,
-                "EN": "Zoya",
-                "JP": "ゾーヤ",
-                "KO": "조야",
-                "CN": "卓娅",
-                "TW": "卓婭"
+                "EN": "Zoya"
             }
         }
     },
@@ -258,12 +202,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 11,
-                "EN": "EMP",
-                "JP": "EMP",
-                "KO": "EMP",
-                "CN": "艾米潘",
-                "TW": "EMP"
+                "EN": "EMP"
             }
         }
     },
@@ -286,12 +225,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 12,
-                "EN": "Roulecca",
-                "JP": "ルリエカ",
-                "KO": "로레카",
-                "CN": "露莉艾卡",
-                "TW": "露莉艾卡"
+                "EN": "Roulecca"
             }
         }
     },
@@ -313,21 +247,8 @@
             "TW": "管理局申請了一個嘉年華攤位作為情報據點，提供魔術表演、娛樂遊戲等多項服務。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 13,
-                "EN": "Roulecca",
-                "JP": "ルリエカ",
-                "KO": "로레카",
-                "CN": "露莉艾卡",
-                "TW": "露莉艾卡"
-            },
-            "sinner 2": {
-                "ID": 14,
-                "EN": "Pricilla",
-                "JP": "プリシラ",
-                "KO": "프리실라",
-                "CN": "普希拉",
-                "TW": "普希拉"
+            "sinner": {
+                "EN": "Pricilla"
             }
         }
     },
@@ -350,12 +271,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 15,
-                "EN": "NOX",
-                "JP": "NOX",
-                "KO": "NOX",
-                "CN": "诺克斯",
-                "TW": "NOX"
+                "EN": "NOX"
             }
         }
     },
@@ -378,12 +294,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 16,
-                "EN": "Labyrinth",
-                "JP": "ラビリンス",
-                "KO": "레버린스",
-                "CN": "雷比尼斯",
-                "TW": "雷比尼斯"
+                "EN": "Labyrinth"
             }
         }
     },
@@ -406,12 +317,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 17,
-                "EN": "Tetra",
-                "JP": "テトラ",
-                "KO": "테트라",
-                "CN": "泰特拉",
-                "TW": "泰特拉"
+                "EN": "Tetra"
             }
         }
     },
@@ -433,21 +339,8 @@
             "TW": "安插在某秘密組織的線人意外被害，該組織也從狄斯城消失，為了查清這背後的真相，管理局需要兩個關鍵人員。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 18,
-                "EN": "Tetra",
-                "JP": "テトラ",
-                "KO": "테트라",
-                "CN": "泰特拉",
-                "TW": "泰特拉"
-            },
-            "sinner 2": {
-                "ID": 19,
-                "EN": "Sumire",
-                "JP": "菫",
-                "KO": "진",
-                "CN": "堇",
-                "TW": "堇"
+            "sinner": {
+                "EN": "Sumire"
             }
         }
     },
@@ -470,12 +363,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 20,
-                "EN": "Bai Yi",
-                "JP": "ハクイツ",
-                "KO": "백",
-                "CN": "白逸",
-                "TW": "白逸"
+                "EN": "Bai Yi"
             }
         }
     },
@@ -498,12 +386,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 21,
-                "EN": "Flora",
-                "JP": "フローラ",
-                "KO": "플로라",
-                "CN": "芙洛拉",
-                "TW": "芙洛拉"
+                "EN": "Flora"
             }
         }
     },
@@ -526,12 +409,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 22,
-                "EN": "Ariel",
-                "JP": "アリエル",
-                "KO": "아리엘",
-                "CN": "艾瑞尔",
-                "TW": "艾瑞爾"
+                "EN": "Ariel"
             }
         }
     },
@@ -553,21 +431,8 @@
             "TW": "關於該家族的近期醜聞，管理局建議派出相關人員處理，且為保證執行效果，另需有力人士提供支持。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 23,
-                "EN": "Ariel",
-                "JP": "アリエル",
-                "KO": "아리엘",
-                "CN": "艾瑞尔",
-                "TW": "艾瑞爾"
-            },
-            "sinner 2": {
-                "ID": 24,
-                "EN": "Hecate",
-                "JP": "ヘカテー",
-                "KO": "헤카테",
-                "CN": "赫卡蒂",
-                "TW": "赫卡蒂"
+            "sinner": {
+                "EN": "Hecate"
             }
         }
     },
@@ -590,12 +455,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 25,
-                "EN": "Summer",
-                "JP": "夏音",
-                "KO": "여름",
-                "CN": "夏音",
-                "TW": "夏音"
+                "EN": "Summer"
             }
         }
     },
@@ -618,12 +478,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 26,
-                "EN": "Demolia",
-                "JP": "デモーリー",
-                "KO": "데몰리아",
-                "CN": "德莫莉",
-                "TW": "德莫莉"
+                "EN": "Demolia"
             }
         }
     },
@@ -646,12 +501,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 27,
-                "EN": "Pacassi",
-                "JP": "ペガシ",
-                "KO": "파카시",
-                "CN": "帕加茜",
-                "TW": "帕加茜"
+                "EN": "Pacassi"
             }
         }
     },
@@ -673,21 +523,8 @@
             "TW": "管理局的書籍採購工作正式開始，總書單長達十九頁，找到合適的人選並不容易。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 28,
-                "EN": "Pacassi",
-                "JP": "ペガシ",
-                "KO": "파카시",
-                "CN": "帕加茜",
-                "TW": "帕加茜"
-            },
-            "sinner 2": {
-                "ID": 29,
-                "EN": "Anne",
-                "JP": "アン",
-                "KO": "앤",
-                "CN": "安",
-                "TW": "安"
+            "sinner": {
+                "EN": "Anne"
             }
         }
     },
@@ -710,12 +547,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 30,
-                "EN": "Langley",
-                "JP": "ラングリー",
-                "KO": "랭글리",
-                "CN": "兰利",
-                "TW": "蘭利"
+                "EN": "Langley"
             }
         }
     },
@@ -738,12 +570,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 31,
-                "EN": "Lisa",
-                "JP": "リザー",
-                "KO": "리사",
-                "CN": "丽莎",
-                "TW": "麗莎"
+                "EN": "Lisa"
             }
         }
     },
@@ -766,12 +593,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 32,
-                "EN": "Ignis",
-                "JP": "イグニ",
-                "KO": "이그니스",
-                "CN": "伊格尼",
-                "TW": "伊格尼"
+                "EN": "Ignis"
             }
         }
     },
@@ -793,21 +615,8 @@
             "TW": "狗仔編造了一些禁閉者偶像的娛樂新聞，這種行為必須得到制止。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 33,
-                "EN": "Ignis",
-                "JP": "イグニ",
-                "KO": "이그니스",
-                "CN": "伊格尼",
-                "TW": "伊格尼"
-            },
-            "sinner 2": {
-                "ID": 34,
-                "EN": "Luvia Ray",
-                "JP": "ルヴィア・レイ",
-                "KO": "루비아.레이",
-                "CN": "露薇娅·蕾",
-                "TW": "露薇婭·蕾"
+            "sinner": {
+                "EN": "Luvia Ray"
             }
         }
     },
@@ -830,12 +639,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 35,
-                "EN": "Eirene",
-                "JP": "エイレーネー",
-                "KO": "이리나",
-                "CN": "伊琳娜",
-                "TW": "伊琳娜"
+                "EN": "Eirene"
             }
         }
     },
@@ -858,12 +662,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 36,
-                "EN": "Pepper",
-                "JP": "ペッパー",
-                "KO": "후추",
-                "CN": "胡椒",
-                "TW": "胡椒"
+                "EN": "Pepper"
             }
         }
     },
@@ -886,12 +685,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 37,
-                "EN": "Chameleon",
-                "JP": "カメリアン",
-                "KO": "카멜리안",
-                "CN": "卡米利安",
-                "TW": "卡米利安"
+                "EN": "Chameleon"
             }
         }
     },
@@ -913,21 +707,8 @@
             "TW": "白砂之海的沙蟲群出現了暴動，我們需要一個老練的獵人來處理，如果能弄清楚這些蟲子的暴動原因就更好了。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 38,
-                "EN": "Chameleon",
-                "JP": "カメリアン",
-                "KO": "카멜리안",
-                "CN": "卡米利安",
-                "TW": "卡米利安"
-            },
-            "sinner 2": {
-                "ID": 36,
-                "EN": "Wolverine",
-                "JP": "クズリ",
-                "KO": "울버린",
-                "CN": "狼獾",
-                "TW": "狼獾"
+            "sinner": {
+                "EN": "Wolverine"
             }
         }
     },
@@ -950,12 +731,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 39,
-                "EN": "Hamel",
-                "JP": "ハーメル",
-                "KO": "하멜",
-                "CN": "哈梅尔",
-                "TW": "哈梅爾"
+                "EN": "Hamel"
             }
         }
     },
@@ -978,12 +754,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 40,
-                "EN": "Kelvin",
-                "JP": "ケルビン",
-                "KO": "켈빈",
-                "CN": "开尔文",
-                "TW": "開爾文"
+                "EN": "Kelvin"
             }
         }
     },
@@ -1006,12 +777,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 33,
-                "EN": "Victoria",
-                "JP": "ビクトリア",
-                "KO": "빅토리아",
-                "CN": "维多利亚",
-                "TW": "維多利亞"
+                "EN": "Victoria"
             }
         }
     },
@@ -1033,21 +799,8 @@
             "TW": "上庭一處塵封的舊宅近日遭到盜竊，管理局將派出相關人員秘密潛入，了解具體情況。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 41,
-                "EN": "Victoria",
-                "JP": "ビクトリア",
-                "KO": "빅토리아",
-                "CN": "维多利亚",
-                "TW": "維多利亞"
-            },
-            "sinner 2": {
-                "ID": 42,
-                "EN": "Cinnabar",
-                "JP": "辰砂",
-                "KO": "시나바",
-                "CN": "辰砂",
-                "TW": "辰砂"
+            "sinner": {
+                "EN": "Cinnabar"
             }
         }
     },
@@ -1070,12 +823,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 29,
-                "EN": "Joan",
-                "JP": "ジョーン",
-                "KO": "조안",
-                "CN": "琼",
-                "TW": "瓊"
+                "EN": "Joan"
             }
         }
     },
@@ -1098,12 +846,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 43,
-                "EN": "Countess Chelsea",
-                "JP": "チェルシー伯爵",
-                "KO": "첼시 백작",
-                "CN": "切尔西伯爵",
-                "TW": "切爾西伯爵"
+                "EN": "Countess Chelsea"
             }
         }
     },
@@ -1125,21 +868,8 @@
             "TW": "在地下競技場這種地方，有錢有拳頭就能所向無敵。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 44,
-                "EN": "Countess Chelsea",
-                "JP": "チェルシー伯爵",
-                "KO": "첼시 백작",
-                "CN": "切尔西伯爵",
-                "TW": "切爾西伯爵"
-            },
-            "sinner 2": {
-                "ID": 25,
-                "EN": "Ninety-Nine",
-                "JP": "ナインティナイン",
-                "KO": "나인티나인",
-                "CN": "九十九",
-                "TW": "九十九"
+            "sinner": {
+                "EN": "Ninety-Nine"
             }
         }
     },
@@ -1162,12 +892,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 45,
-                "EN": "Wendy",
-                "JP": "ウェンディ",
-                "KO": "웬디",
-                "CN": "温蒂",
-                "TW": "溫蒂"
+                "EN": "Joan"
             }
         }
     },
@@ -1190,12 +915,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 46,
-                "EN": "Wendy",
-                "JP": "ウェンディ",
-                "KO": "웬디",
-                "CN": "温蒂",
-                "TW": "溫蒂"
+                "EN": "Wendy"
             }
         }
     },
@@ -1217,21 +937,8 @@
             "TW": "內海邊緣出現了大規模的死役群，這需要一些足夠瘋狂的組合來壓制消滅。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 21,
-                "EN": "Roulecca",
-                "JP": "ルリエカ",
-                "KO": "로레카",
-                "CN": "露莉艾卡",
-                "TW": "露莉艾卡"
-            },
-            "sinner 2": {
-                "ID": 47,
-                "EN": "Pricilla",
-                "JP": "プリシラ",
-                "KO": "프리실라",
-                "CN": "普希拉",
-                "TW": "普希拉"
+            "sinner": {
+                "EN": "Roulecca"
             }
         }
     },
@@ -1254,12 +961,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 48,
-                "EN": "Pricilla",
-                "JP": "プリシラ",
-                "KO": "프리실라",
-                "CN": "普希拉",
-                "TW": "普希拉"
+                "EN": "Kelvin"
             }
         }
     },
@@ -1282,12 +984,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 17,
-                "EN": "Tetra",
-                "JP": "テトラ",
-                "KO": "테트라",
-                "CN": "泰特拉",
-                "TW": "泰特拉"
+                "EN": "Pricilla"
             }
         }
     },
@@ -1309,21 +1006,8 @@
             "TW": "某知名俠盜團體出現了模仿犯！對於某些人來說，這種情況完全無法容忍。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 49,
-                "EN": "Sumire",
-                "JP": "菫",
-                "KO": "진",
-                "CN": "堇",
-                "TW": "堇"
-            },
-            "sinner 2": {
-                "ID": 50,
-                "EN": "Sumire",
-                "JP": "菫",
-                "KO": "진",
-                "CN": "堇",
-                "TW": "堇"
+            "sinner": {
+                "EN": "Tetra"
             }
         }
     },
@@ -1346,12 +1030,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 13,
-                "EN": "Ariel",
-                "JP": "アリエル",
-                "KO": "아리엘",
-                "CN": "艾瑞尔",
-                "TW": "艾瑞爾"
+                "EN": "Pepper"
             }
         }
     },
@@ -1374,12 +1053,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 51,
-                "EN": "Hecate",
-                "JP": "ヘカテー",
-                "KO": "헤카테",
-                "CN": "赫卡蒂",
-                "TW": "赫卡蒂"
+                "EN": "Sumire"
             }
         }
     },
@@ -1401,21 +1075,8 @@
             "TW": "管理局需要監控一場上流宴會，參與者非富即貴，必須倍加小心。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 52,
-                "EN": "Hecate",
-                "JP": "ヘカテー",
-                "KO": "헤카테",
-                "CN": "赫卡蒂",
-                "TW": "赫卡蒂"
-            },
-            "sinner 2": {
-                "ID": 53,
-                "EN": "Pacassi",
-                "JP": "ペガシ",
-                "KO": "파카시",
-                "CN": "帕加茜",
-                "TW": "帕加茜"
+            "sinner": {
+                "EN": "Ariel"
             }
         }
     },
@@ -1438,12 +1099,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 54,
-                "EN": "Wolverine",
-                "JP": "クズリ",
-                "KO": "울버린",
-                "CN": "狼獾",
-                "TW": "狼獾"
+                "EN": "Lisa"
             }
         }
     },
@@ -1466,12 +1122,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 55,
-                "EN": "Wolverine",
-                "JP": "クズリ",
-                "KO": "울버린",
-                "CN": "狼獾",
-                "TW": "狼獾"
+                "EN": "Hecate"
             }
         }
     },
@@ -1493,21 +1144,8 @@
             "TW": "某遊樂場附近監測到異常輻射，需要專業人士前去處理。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 56,
-                "EN": "Countess Chelsea",
-                "JP": "チェルシー伯爵",
-                "KO": "첼시 백작",
-                "CN": "切尔西伯爵",
-                "TW": "切爾西伯爵"
-            },
-            "sinner 2": {
-                "ID": 57,
-                "EN": "Luvia Ray",
-                "JP": "ルヴィア・レイ",
-                "KO": "루비아.레이",
-                "CN": "露薇娅·蕾",
-                "TW": "露薇婭·蕾"
+            "sinner": {
+                "EN": "Pacassi"
             }
         }
     },
@@ -1530,12 +1168,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 58,
-                "EN": "Luvia Ray",
-                "JP": "ルヴィア・レイ",
-                "KO": "루비아.레이",
-                "CN": "露薇娅·蕾",
-                "TW": "露薇婭·蕾"
+                "EN": "Demolia"
             }
         }
     },
@@ -1558,12 +1191,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 59,
-                "EN": "Chameleon",
-                "JP": "カメリアン",
-                "KO": "카멜리안",
-                "CN": "卡米利安",
-                "TW": "卡米利安"
+                "EN": "Wolverine"
             }
         }
     },
@@ -1585,21 +1213,8 @@
             "TW": "新城出現了多項寵物失蹤案，尋找寵物和尋找犯人將同時進行。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 60,
-                "EN": "Anne",
-                "JP": "アン",
-                "KO": "앤",
-                "CN": "安",
-                "TW": "安"
-            },
-            "sinner 2": {
-                "ID": 61,
-                "EN": "Anne",
-                "JP": "アン",
-                "KO": "앤",
-                "CN": "安",
-                "TW": "安"
+            "sinner": {
+                "EN": "Countess Chelsea"
             }
         }
     },
@@ -1622,12 +1237,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 62,
-                "EN": "Victoria",
-                "JP": "ビクトリア",
-                "KO": "빅토리아",
-                "CN": "维多利亚",
-                "TW": "維多利亞"
+                "EN": "Flora"
             }
         }
     },
@@ -1650,12 +1260,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 63,
-                "EN": "Peggy",
-                "JP": "ペギー",
-                "KO": "페기",
-                "CN": "佩姬",
-                "TW": "佩姬"
+                "EN": "Luvia Ray"
             }
         }
     },
@@ -1677,21 +1282,8 @@
             "TW": "某心理治療室據稱有囚禁病人的情況，我們將派出最精銳的隊伍前往調查。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 64,
-                "EN": "Mr. Fox",
-                "JP": "Mr.Fox",
-                "KO": "Mr.Fox",
-                "CN": "福克斯先生",
-                "TW": "Mr.Fox"
-            },
-            "sinner 2": {
-                "ID": 65,
-                "EN": "Mr. Fox",
-                "JP": "Mr.Fox",
-                "KO": "Mr.Fox",
-                "CN": "福克斯先生",
-                "TW": "Mr.Fox"
+            "sinner": {
+                "EN": "Chameleon"
             }
         }
     },
@@ -1714,12 +1306,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 66,
-                "EN": "Dolly",
-                "JP": "ドリー",
-                "KO": "돌리",
-                "CN": "多莉",
-                "TW": "多莉"
+                "EN": "Labyrinth"
             }
         }
     },
@@ -1742,12 +1329,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 67,
-                "EN": "Crache",
-                "JP": "コージ",
-                "KO": "코히",
-                "CN": "科希",
-                "TW": "科希"
+                "EN": "Anne"
             }
         }
     },
@@ -1769,21 +1351,8 @@
             "TW": "與班彥醫學院及彼岸的合作有序推進，相關技術資料必須要得到嚴密保護。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 68,
-                "EN": "Che",
-                "JP": "澈",
-                "KO": "치이",
-                "CN": "澈",
-                "TW": "澈"
-            },
-            "sinner 2": {
-                "ID": 69,
-                "EN": "Dolly",
-                "JP": "ドリー",
-                "KO": "돌리",
-                "CN": "多莉",
-                "TW": "多莉"
+            "sinner": {
+                "EN": "Victoria"
             }
         }
     },
@@ -1806,12 +1375,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 70,
-                "EN": "Dolly",
-                "JP": "ドリー",
-                "KO": "돌리",
-                "CN": "多莉",
-                "TW": "多莉"
+                "EN": "Peggy"
             }
         }
     },
@@ -1834,12 +1398,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 71,
-                "EN": "Mr. Fox",
-                "JP": "Mr.Fox",
-                "KO": "Mr.Fox",
-                "CN": "福克斯先生",
-                "TW": "Mr.Fox"
+                "EN": "Mr. Fox"
             }
         }
     },
@@ -1861,21 +1420,8 @@
             "TW": "近期鏽河裡的偷渡客數量激增，新城治安局想要找出背後運作此事的組織。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 72,
-                "EN": "Stargazer",
-                "JP": "スターゲイザー",
-                "KO": "점성가",
-                "CN": "观星者",
-                "TW": "觀星者"
-            },
-            "sinner 2": {
-                "ID": 73,
-                "EN": "Gekkabijin",
-                "JP": "ゲツライコウ",
-                "KO": "월하미인",
-                "CN": "昙",
-                "TW": "曇"
+            "sinner": {
+                "EN": "Dolly"
             }
         }
     },
@@ -1898,12 +1444,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 74,
-                "EN": "Iron",
-                "JP": "アイン",
-                "KO": "아이언",
-                "CN": "艾恩",
-                "TW": "艾恩"
+                "EN": "Crache"
             }
         }
     },
@@ -1926,12 +1467,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 75,
-                "EN": "Iron",
-                "JP": "アイン",
-                "KO": "아이언",
-                "CN": "艾恩",
-                "TW": "艾恩"
+                "EN": "Che"
             }
         }
     },
@@ -1954,12 +1490,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 76,
-                "EN": "Oliver",
-                "JP": "オリバー",
-                "KO": "올리버",
-                "CN": "奥利弗",
-                "TW": "奧利弗"
+                "EN": "Dolly"
             }
         }
     },
@@ -1981,21 +1512,8 @@
             "TW": "狄斯優品公司準備和管理局正式簽訂合作條約，但對於條約裡的分成比例，管理局有些不同意見。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 77,
-                "EN": "Macchiato",
-                "JP": "マキアート",
-                "KO": "마키아토",
-                "CN": "玛奇朵",
-                "TW": "瑪奇朵"
-            },
-            "sinner 2": {
-                "ID": 78,
-                "EN": "Oliver",
-                "JP": "オリバー",
-                "KO": "올리버",
-                "CN": "奥利弗",
-                "TW": "奧利弗"
+            "sinner": {
+                "EN": "Mr. Fox"
             }
         }
     },
@@ -2018,12 +1536,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 79,
-                "EN": "Oliver",
-                "JP": "オリバー",
-                "KO": "올리버",
-                "CN": "奥利弗",
-                "TW": "奧利弗"
+                "EN": "Stargazer"
             }
         }
     },
@@ -2046,12 +1559,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 80,
-                "EN": "Iron",
-                "JP": "アイン",
-                "KO": "아이언",
-                "CN": "艾恩",
-                "TW": "艾恩"
+                "EN": "Gekkabijin"
             }
         }
     },
@@ -2074,12 +1582,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 81,
-                "EN": "Horo",
-                "JP": "ホロ",
-                "KO": "히로",
-                "CN": "赫罗",
-                "TW": "赫羅"
+                "EN": "Iron"
             }
         }
     },
@@ -2101,21 +1604,8 @@
             "TW": "萬靈會似乎在研究如何操縱屍體，為了狄斯人的身心健康，管理局必須提前行動。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 82,
-                "EN": "Horo",
-                "JP": "ホロ",
-                "KO": "히로",
-                "CN": "赫罗",
-                "TW": "赫羅"
-            },
-            "sinner 2": {
-                "ID": 83,
-                "EN": "Kawa-kawa",
-                "JP": "カワカワ",
-                "KO": "카와카와",
-                "CN": "卡瓦卡瓦",
-                "TW": "卡瓦卡瓦"
+            "sinner": {
+                "EN": "Oliver"
             }
         }
     },
@@ -2138,12 +1628,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 84,
-                "EN": "Kawa-kawa",
-                "JP": "カワカワ",
-                "KO": "카와카와",
-                "CN": "卡瓦卡瓦",
-                "TW": "卡瓦卡瓦"
+                "EN": "Macchiato"
             }
         }
     },
@@ -2166,12 +1651,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 85,
-                "EN": "Kawa-kawa",
-                "JP": "カワカワ",
-                "KO": "카와카와",
-                "CN": "卡瓦卡瓦",
-                "TW": "卡瓦卡瓦"
+                "EN": "Oliver"
             }
         }
     },
@@ -2193,21 +1673,8 @@
             "TW": "傳說鏽河地帶出現了一些有生命的玩具傀儡，管理局需要確定這一情報的真實性。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 86,
-                "EN": "Horo",
-                "JP": "ホロ",
-                "KO": "히로",
-                "CN": "赫罗",
-                "TW": "赫羅"
-            },
-            "sinner 2": {
-                "ID": 87,
-                "EN": "Serpent",
-                "JP": "ナチャ",
-                "KO": "나챠",
-                "CN": "娜恰",
-                "TW": "娜恰"
+            "sinner": {
+                "EN": "Iron"
             }
         }
     },
@@ -2230,12 +1697,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 88,
-                "EN": "Mess",
-                "JP": "メイス",
-                "KO": "메스",
-                "CN": "莓丝",
-                "TW": "莓絲"
+                "EN": "Horo"
             }
         }
     },
@@ -2258,12 +1720,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 89,
-                "EN": "Mess",
-                "JP": "メイス",
-                "KO": "메스",
-                "CN": "莓丝",
-                "TW": "莓絲"
+                "EN": "Kawa-kawa"
             }
         }
     },
@@ -2286,12 +1743,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 90,
-                "EN": "Oliver",
-                "JP": "オリバー",
-                "KO": "올리버",
-                "CN": "奥利弗",
-                "TW": "奧利弗"
+                "EN": "Kawa-kawa"
             }
         }
     },
@@ -2314,12 +1766,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 91,
-                "EN": "Enfer",
-                "JP": "エンフェル",
-                "KO": "엔퍼",
-                "CN": "恩菲尔",
-                "TW": "恩菲爾"
+                "EN": "Horo"
             }
         }
     },
@@ -2342,12 +1789,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 92,
-                "EN": "McQueen",
-                "JP": "マックイーン",
-                "KO": "맥퀸",
-                "CN": "麦昆",
-                "TW": "麥昆"
+                "EN": "Serpent"
             }
         }
     },
@@ -2370,12 +1812,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 93,
-                "EN": "McQueen",
-                "JP": "マックイーン",
-                "KO": "맥퀸",
-                "CN": "麦昆",
-                "TW": "麥昆"
+                "EN": "Mess"
             }
         }
     },
@@ -2397,21 +1834,8 @@
             "TW": "高人氣玩具店推出限量新品，已經出現有人凌晨通宵排隊購買的情況。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 94,
-                "EN": "Cinnabar",
-                "JP": "辰砂",
-                "KO": "시나바",
-                "CN": "辰砂",
-                "TW": "辰砂"
-            },
-            "sinner 2": {
-                "ID": 95,
-                "EN": "Oak Casket",
-                "JP": "コフィン",
-                "KO": "캐스켓",
-                "CN": "橡木匣",
-                "TW": "橡木匣"
+            "sinner": {
+                "EN": "Oliver"
             }
         }
     },
@@ -2434,12 +1858,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 96,
-                "EN": "Dudu",
-                "JP": "トト",
-                "KO": "토토",
-                "CN": "嘟嘟",
-                "TW": "嘟嘟"
+                "EN": "Enfer"
             }
         }
     },
@@ -2462,12 +1881,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 97,
-                "EN": "Dudu",
-                "JP": "トト",
-                "KO": "토토",
-                "CN": "嘟嘟",
-                "TW": "嘟嘟"
+                "EN": "McQueen"
             }
         }
     },
@@ -2489,21 +1903,8 @@
             "TW": "某藝術大師的展出作品接連失竊，接著當地黑市流出大量製作精良的贗品，疑似專業集團作案，急需徹查。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 98,
-                "EN": "Luvia Ray",
-                "JP": "ルヴィア・レイ",
-                "KO": "루비아.레이",
-                "CN": "露薇娅·蕾",
-                "TW": "露薇婭·蕾"
-            },
-            "sinner 2": {
-                "ID": 99,
-                "EN": "Deren",
-                "JP": "デイリン",
-                "KO": "데렌",
-                "CN": "黛伦",
-                "TW": "黛倫"
+            "sinner": {
+                "EN": "Cinnabar"
             }
         }
     },
@@ -2526,12 +1927,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 100,
-                "EN": "Lynn",
-                "JP": "リン",
-                "KO": "린",
-                "CN": "琳",
-                "TW": "琳"
+                "EN": "Oak Casket"
             }
         }
     },
@@ -2554,12 +1950,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 101,
-                "EN": "Lynn",
-                "JP": "リン",
-                "KO": "린",
-                "CN": "琳",
-                "TW": "琳"
+                "EN": "Dudu"
             }
         }
     },
@@ -2581,21 +1972,8 @@
             "TW": "一個來自外邦的街頭賣藝者團體行跡十分可疑，管理局決定立即派人進行臥底調查。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 102,
-                "EN": "Pacassi",
-                "JP": "ペガシ",
-                "KO": "파카시",
-                "CN": "帕加茜",
-                "TW": "帕加茜"
-            },
-            "sinner 2": {
-                "ID": 103,
-                "EN": "OwO",
-                "JP": "ガオ",
-                "KO": "어흥",
-                "CN": "嗷呜",
-                "TW": "嗷嗚"
+            "sinner": {
+                "EN": "Luvia Ray"
             }
         }
     },
@@ -2618,12 +1996,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 104,
-                "EN": "Etti",
-                "JP": "アイティ",
-                "KO": "에티",
-                "CN": "爱缇",
-                "TW": "愛緹"
+                "EN": "Deren"
             }
         }
     },
@@ -2646,12 +2019,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 105,
-                "EN": "Levy",
-                "JP": "レヴィ",
-                "KO": "레비",
-                "CN": "李维",
-                "TW": "李維"
+                "EN": "Lynn"
             }
         }
     },
@@ -2673,21 +2041,8 @@
             "TW": "某位擅長攝影的禁閉者想要前往北方拍攝不一樣的風景，於是趁著另一位禁閉者即將北上出任務時向局長提出了同去的申請。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 106,
-                "EN": "Levy",
-                "JP": "レヴィ",
-                "KO": "레비",
-                "CN": "李维",
-                "TW": "李維"
-            },
-            "sinner 2": {
-                "ID": 107,
-                "EN": "Mr. Fox",
-                "JP": "Mr.Fox",
-                "KO": "Mr.Fox",
-                "CN": "福克斯先生",
-                "TW": "Mr.Fox"
+            "sinner": {
+                "EN": "Pacassi"
             }
         }
     },
@@ -2710,12 +2065,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 108,
-                "EN": "Raven",
-                "JP": "クロウ",
-                "KO": "크로우",
-                "CN": "渡鸦",
-                "TW": "渡鴉"
+                "EN": "OwO"
             }
         }
     },
@@ -2738,12 +2088,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 109,
-                "EN": "Corso",
-                "JP": "カスロ",
-                "KO": "캐슬로",
-                "CN": "卡斯洛",
-                "TW": "卡斯洛"
+                "EN": "Etti"
             }
         }
     },
@@ -2766,12 +2111,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 110,
-                "EN": "Corso",
-                "JP": "カスロ",
-                "KO": "캐슬로",
-                "CN": "卡斯洛",
-                "TW": "卡斯洛"
+                "EN": "Levy"
             }
         }
     },
@@ -2793,21 +2133,8 @@
             "TW": "近期一個狡猾刁鑽的詐騙集團令治安局十分頭痛，管理局為此特地派出了思維靈活且能言善辯的禁閉者前往支援。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 111,
-                "EN": "Wolverine",
-                "JP": "クズリ",
-                "KO": "울버린",
-                "CN": "狼獾",
-                "TW": "狼獾"
-            },
-            "sinner 2": {
-                "ID": 112,
-                "EN": "Dreya",
-                "JP": "デレーヤ",
-                "KO": "드레아",
-                "CN": "德雷雅",
-                "TW": "德雷雅"
+            "sinner": {
+                "EN": "Mr. Fox"
             }
         }
     },
@@ -2830,12 +2157,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 113,
-                "EN": "Uni",
-                "JP": "ユーニ",
-                "KO": "유니",
-                "CN": "尤尼",
-                "TW": "尤尼"
+                "EN": "Raven"
             }
         }
     },
@@ -2858,12 +2180,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 114,
-                "EN": "Uni",
-                "JP": "ユーニ",
-                "KO": "유니",
-                "CN": "尤尼",
-                "TW": "尤尼"
+                "EN": "Corso"
             }
         }
     },
@@ -2885,21 +2202,8 @@
             "TW": "治安局收到一則線報，某非法屠宰場環境惡劣，受害動物感染嚴重，遂向管理局申請熟悉動物習性的人士協助。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 115,
-                "EN": "Iron",
-                "JP": "アイン",
-                "KO": "아이언",
-                "CN": "艾恩",
-                "TW": "艾恩"
-            },
-            "sinner 2": {
-                "ID": 116,
-                "EN": "Adela",
-                "JP": "アデラ",
-                "KO": "아델라",
-                "CN": "阿黛拉",
-                "TW": "阿黛拉"
+            "sinner": {
+                "EN": "Wolverine"
             }
         }
     },
@@ -2922,12 +2226,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 117,
-                "EN": "Letta",
-                "JP": "レタ",
-                "KO": "레타",
-                "CN": "莱塔",
-                "TW": "萊塔"
+                "EN": "Dreya"
             }
         }
     },
@@ -2950,12 +2249,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 118,
-                "EN": "Letta",
-                "JP": "レタ",
-                "KO": "레타",
-                "CN": "莱塔",
-                "TW": "萊塔"
+                "EN": "Uni"
             }
         }
     },
@@ -2977,21 +2271,8 @@
             "TW": "管理局收到治安協助請求，需要還原一個在案發現場被破壞的人體物證。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 119,
-                "EN": "Pepper",
-                "JP": "ペッパー",
-                "KO": "후추",
-                "CN": "胡椒",
-                "TW": "胡椒"
-            },
-            "sinner 2": {
-                "ID": 120,
-                "EN": "Cabernet",
-                "JP": "カベルネ",
-                "KO": "카베르네",
-                "CN": "卡门奈特",
-                "TW": "卡門奈特"
+            "sinner": {
+                "EN": "Iron"
             }
         }
     },
@@ -3014,12 +2295,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 121,
-                "EN": "Lamia",
-                "JP": "ラミア",
-                "KO": "라미아",
-                "CN": "拉弥亚",
-                "TW": "拉彌亞"
+                "EN": "Adela"
             }
         }
     },
@@ -3042,12 +2318,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 122,
-                "EN": "Lamia",
-                "JP": "ラミア",
-                "KO": "라미아",
-                "CN": "拉弥亚",
-                "TW": "拉彌亞"
+                "EN": "Letta"
             }
         }
     },
@@ -3069,21 +2340,8 @@
             "TW": "新的冒險傳說風靡新城，兩位愛好者蠢蠢欲動，準備前去一探究竟。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 123,
-                "EN": "Luvia Ray",
-                "JP": "ルヴィア・レイ",
-                "KO": "루비아.레이",
-                "CN": "露薇娅·蕾",
-                "TW": "露薇婭·蕾"
-            },
-            "sinner 2": {
-                "ID": 124,
-                "EN": "Rahu",
-                "JP": "ラーフ",
-                "KO": "라후",
-                "CN": "罗睺",
-                "TW": "羅睺"
+            "sinner": {
+                "EN": "Pepper"
             }
         }
     },
@@ -3106,12 +2364,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 125,
-                "EN": "Garofano",
-                "JP": "ガロファノ",
-                "KO": "가로파노",
-                "CN": "加洛法诺",
-                "TW": "加洛法諾"
+                "EN": "Cabernet"
             }
         }
     },
@@ -3134,12 +2387,7 @@
         },
         "DispatchSinners": {
             "sinner": {
-                "ID": 126,
-                "EN": "Garofano",
-                "JP": "ガロファノ",
-                "KO": "가로파노",
-                "CN": "加洛法诺",
-                "TW": "加洛法諾"
+                "EN": "Lamia"
             }
         }
     },
@@ -3161,21 +2409,698 @@
             "TW": "MBCC接到治安局求助，需緊急調派兩位善於偽裝性格的禁閉者前往協助新城市民神秘失蹤案的調查。"
         },
         "DispatchSinners": {
-            "sinner 1": {
-                "ID": 127,
-                "EN": "Sumire",
-                "JP": "菫",
-                "KO": "진",
-                "CN": "堇",
-                "TW": "堇"
-            },
-            "sinner 2": {
-                "ID": 45,
-                "EN": "Shalom",
-                "JP": "シャローム",
-                "KO": "샬롬",
-                "CN": "瑟琳",
-                "TW": "瑟琳"
+            "sinner": {
+                "EN": "Luvia Ray"
+            }
+        }
+    },
+    "105": {
+        "Id": 1033001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Joint Exercise",
+            "JP": "共同演習",
+            "KO": "연합 훈련",
+            "CN": "联合演练",
+            "TW": "聯合演練"
+        },
+        "DispatchDescription": {
+            "EN": "The FAC has organized a joint exercise competition and requests an experienced former FAC officer to participate.",
+            "JP": "FACは共同演習を開催した。過去に経験のある元FACメンバーを向かわせる必要がある。",
+            "KO": "FAC가 연합 훈련을 개최하여 경험 있는 전 FAC 소속자를 보내 참석시켜야 한다.",
+            "CN": "FAC举办了一场联合演练大赛，需要派出一名有过往经验的前FAC人员前往参加。",
+            "TW": "FAC舉辦了一場聯合演練大賽，需要派出一名有過往經驗的前FAC人員前往參加。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Rahu"
+            }
+        }
+    },
+    "106": {
+        "Id": 1033002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Showroom Rescue",
+            "JP": "急場しのぎ",
+            "KO": "패션쇼 인력 지원",
+            "CN": "秀场救急",
+            "TW": "秀場救急"
+        },
+        "DispatchDescription": {
+            "EN": "A fashion studio in Eastside is facing a burst of orders on the eve of a fashion show, and is short of manpower, urgently needing the assistance of a professional tailor.",
+            "JP": "ファッションショーが迫っているため、あるニューシティのファッションスタジオが人手不足で悩んでいる。至急プロの仕立屋が必要だ。",
+            "KO": "신성의 어느 의상 작업실에서 패션쇼 전날 밤 주문이 폭주했는데 인력이 부족한 탓에 급하게 전문 재단사 한 명의 지원이 필요하다.",
+            "CN": "新城某时装工作室在时装秀前夕面临爆单，人力不足，急需一名专业裁缝协助。",
+            "TW": "新城某時裝工作室在時裝秀前夕接到爆量訂單，人力不足，急需一名專業裁縫師協助。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Garofano"
+            }
+        }
+    },
+    "107": {
+        "Id": 1033003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Gardens of Doubt",
+            "JP": "花庭園暗殺疑惑",
+            "KO": "화원의 수법",
+            "CN": "花园疑云",
+            "TW": "花園疑雲"
+        },
+        "DispatchDescription": {
+            "EN": "A number of cases suspected to be modeled after the \\\\\"Garden\\\\\" have been reported in a certain area. The Public Security Bureau applies to the MBCC for dispatching Garden-related personnel to assist in the investigation.",
+            "JP": "あるところで暗殺事件が多発しており、「花庭園」の模倣犯による可能性が高いと推測されている。花庭園の関係者を調査に向かわせるよう、治安局からの協力要請が届いた。",
+            "KO": "모 지역에서 \\'화원\\'의 수법을 모방한 것으로 의심되는 사건이 여럿 발생했다. 치안국은 즉시 관리국에 화원 관련 인력의 조사 협조를 요청했다.",
+            "CN": "某地出现了多起疑似效仿“花园”手法的案件，治安局遂向管理局申请派遣花园相关人员协助调查。",
+            "TW": "某地出現了多起疑似效仿「花園」手法的案件，治安局遂向管理局申請派遣花園相關人員協助調查。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Sumire"
+            }
+        }
+    },
+    "108": {
+        "Id": 1034001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Eccentric Music Meetup",
+            "JP": "猟奇音楽交流会",
+            "KO": "엽기 음악 교류회",
+            "CN": "猎奇音乐交流会",
+            "TW": "獵奇音樂交流會"
+        },
+        "DispatchDescription": {
+            "EN": "An Eastside socialite sent an invitation for an eccentric underground music meetup. A Sinner with broad taste in music claimed the invitation and plans to record the music event with her Schorl.",
+            "JP": "ニューシティのあるセレブから、猟奇音楽交流会の招待状が届いた。ある音楽好きのコンビクトはその招待状を受け取り、自分の黒石英で音楽会を記録しようとした。",
+            "KO": "한 신성 유명 인사가 언더그라운드 엽기 음악 교류회의 초대장을 보내왔다. 다양한 음악 취향을 가진 한 수감자가 초대장에 응했고 자신의 흑석영을 이용해 이 음악 교류회를 기록하고자 했다.",
+            "CN": "某新城名流送来了一场地下猎奇音乐交流会的请柬，某位音乐品味极为广泛的禁闭者认领了请柬，并打算用自己的黑石英将音乐会记录下来。",
+            "TW": "某新城名流送來了一場地下獵奇音樂交流會的請柬，某位音樂品味極為廣泛的禁閉者認領了請柬，並打算用自己的黑石英將音樂會記錄下來。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Shalom"
+            }
+        }
+    },
+    "109": {
+        "Id": 1034002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Mystery Deduction",
+            "JP": "不審な事件の推理",
+            "KO": "미스터리 사건 추리",
+            "CN": "疑案推理",
+            "TW": "疑案推理"
+        },
+        "DispatchDescription": {
+            "EN": "A mysterious case occurred somewhere in Eastside. The Public Security Bureau is urgently requesting a professional with deductive skills from the Bureau to assist in solving the case.",
+            "JP": "ニューシティ某所で不審な事件が起こった。治安局は至急、推理能力のあるプロに解決の協力を求めた。",
+            "KO": "신성 모처에 미스터리한 사건이 일어났다. 치안국은 사건 해결을 위해 추리 능력을 갖춘 전문가를 지원해달라고 관리국에 급히 요청했다.",
+            "CN": "新城某地发生了一起疑案，治安局紧急向管理局申请一名具有推理能力的专业人士协助破案。",
+            "TW": "新城某地發生了一起疑案，治安局緊急向管理局申請一名具有推理能力的專業人士協助破案。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Christina"
+            }
+        }
+    },
+    "110": {
+        "Id": 1034003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Item Scouting",
+            "JP": "道具の調査",
+            "KO": "도구 수색",
+            "CN": "道具侦查",
+            "TW": "道具偵查"
+        },
+        "DispatchDescription": {
+            "EN": "The Public Security Bureau suspects an illicit manufacturer of dangerous goods is operating under the guise of selling stage props. They need the Bureau to dispatch someone skilled in identifying contraband for investigation.",
+            "JP": "治安局は、あるメーカーが舞台道具を販売する名目で危険物を密造し取引していた疑いがあるとして、管理局から禁制物の見分けが得意な人員を派遣して調査する必要がある。",
+            "KO": "치안국은 한 공장이 무대 소품 판매를 명목으로 위험 물품을 불법 생산하고 판매하고 있는 것으로 의심하고 있다. 관리국에서 불법 물품을 구분하는 능력이 뛰어난 인력을 파견해 조사해야 한다.",
+            "CN": "治安局怀疑某厂家以贩售舞台道具的名义私自生产交易危险物品，需要管理局派出擅长辨别违禁品的人员进行侦查。",
+            "TW": "治安局懷疑某廠家以販售舞台道具的名義私自生產交易危險物品，需要管理局派出擅長辨別違禁品的人員進行偵查。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Mess"
+            }
+        }
+    },
+    "111": {
+        "Id": 1034004,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Moonbathing Spot",
+            "JP": "月光風呂",
+            "KO": "달빛 노천탕",
+            "CN": "月光浴场",
+            "TW": "月光浴場"
+        },
+        "DispatchDescription": {
+            "EN": "A suspected Mania incident occurred at an open-air bath in Eastside. Because the bath has a unique nighttime theme, a Sinner passionate about bathing has made strong requests to go and investigate.",
+            "JP": "ニューシティのある露天風呂で狂瞳事件が発生したらしい。当該露天風呂は夜間営業しているという特色があるため、入浴に熱心なコンビクトが調査に向かうことを要求されている。",
+            "KO": "신성의 한 노천탕에서 변이 사건이 발생한 것으로 추정된다. 해당 노천탕에 야간 오픈 테마 행사가 있다는 소식을 듣자 목욕을 즐기는 한 수감자가 조사에 참여하는 것을 강력하게 요구했다.",
+            "CN": "新城某露天浴场疑似发生了狂厄事件，由于该浴场有特色夜间开放主题，某热衷于享受沐浴的禁闭者强烈要求前往调查。",
+            "TW": "新城某露天浴場疑似發生了狂厄事件，由於該浴場有特色夜間開放主題，某熱衷於享受沐浴的禁閉者強烈要求前往調查。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Coquelic"
+            }
+        }
+    },
+    "112": {
+        "Id": 1035001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Zoo Theft",
+            "JP": "動物園窃盗事件",
+            "KO": "동물원 도난 사건",
+            "CN": "动物园失窃",
+            "TW": "動物園失竊"
+        },
+        "DispatchDescription": {
+            "EN": "A batch of crocodiles has gone missing from an Eastside zoo. The Public Security Bureau has caught the culprit, but the crocodiles are nowhere to be found. They urgently need a Sinner who is a wildlife expert to assist in the search.",
+            "JP": "ニューシティのある動物園で数匹のワニが盗まれた。治安局は犯人を見つけたが、肝心のワニはどこにもいない。動物の生態に詳しいコンビクトを現場に向かわせて、調査に協力してほしい。",
+            "KO": "신성의 어느 동물원에 있던 악어들이 감쪽같이 사라졌다. 치안국에서 범인을 찾았지만 악어의 행방은 여전히 알 수 없었다. 동물의 생태계를 잘 아는 수감자의 협조가 시급히 필요하다.",
+            "CN": "新城某动物园丢失了一批鳄鱼，治安局找到了犯人，鳄鱼却无影无踪，急需一名精通动物生态的禁闭者前往协助搜寻。",
+            "TW": "新城某動物園遺失了一批鱷魚，治安局找到了犯人，鱷魚卻消失無蹤，急需一名精通動物生態的禁閉者前往協助搜尋。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Mantis"
+            }
+        }
+    },
+    "113": {
+        "Id": 1035002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Perfume Auction",
+            "JP": "香水オークション",
+            "KO": "향수 경매",
+            "CN": "香水拍卖",
+            "TW": "香水拍賣"
+        },
+        "DispatchDescription": {
+            "EN": "Someone claims to be able to concoct the legendary Immortal Fragrance, and is using it as a selling point to hold an auction and make a profit. A Sinner who is a perfume connoisseur is volunteering to go, and will either admire a masterpiece or expose a fraud.",
+            "JP": "伝説の「永遠の香り」を完成させたと吹聴する者がいて、それをセールスポイントに香水のオークションを開いた。香水に強い執着があるコンビクトが是非見たいとオークションに参加申請を出した。その香水が偽物であればその場で暴くつもりのようだ。",
+            "KO": "누군가 전설 속 영원의 향을 만들 수 있다고 주장하며 이를 셀링 포인트로 경매를 열어 돈을 긁어모으고 있다. 향수를 사랑하는 어느 수감자는 영원의 향을 보러 가거나 아니면 가품을 판별하기 위해서 자원해 나섰다.",
+            "CN": "有人自称能调制出传说中的永恒之香，并以其为卖点召开拍卖会敛财，某挚爱香水的禁闭者自愿前往瞻仰，或者打假。",
+            "TW": "有人自稱能調製出傳說中的永恆之香，並以其為賣點召開拍賣會斂財，某摯愛香水的禁閉者自願前往瞻仰，或者揭穿騙局。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Cassia"
+            }
+        }
+    },
+    "114": {
+        "Id": 1035003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Faux Nobility",
+            "JP": "偽装貴族",
+            "KO": "위장 귀족",
+            "CN": "伪装贵族",
+            "TW": "偽裝貴族"
+        },
+        "DispatchDescription": {
+            "EN": "The Eastside Public Security Bureau needs to disguise police officers as noble ladies for an undercover investigation, and wants the help of a Sinner who is a fashion and perfume connoisseur.",
+            "JP": "貴族の令嬢に偽装して潜入捜査をしてほしいとニューシティ治安局から協力要請が届いた。服のコーデと香水に詳しいコンビクトが必要だ。",
+            "KO": "신성 치안국은 사정상 귀족 아가씨로 위장한 대원을 잠입 수사에 파견하고자 한다. 의상 스타일링과 향수에 대해 잘 아는 수감자의 지원이 필요하다.",
+            "CN": "新城治安局因故需派出警员装扮成贵族小姐进行潜入搜查，需要精通服装搭配和香氛鉴赏的禁闭者提供支持。",
+            "TW": "新城治安局因故需派出警員裝扮成貴族小姐進行潛入搜查，需要精通服裝搭配和香氛鑒賞的禁閉者支援。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Garofano"
+            }
+        }
+    },
+    "115": {
+        "Id": 1036001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Who Caused It, Who Solves It",
+            "JP": "蒔いた種は自分で刈る",
+            "KO": "결자해지",
+            "CN": "解铃还须系铃人",
+            "TW": "解鈴還需繫鈴人"
+        },
+        "DispatchDescription": {
+            "EN": "Recently the number of insomnia patients received by Eastside Hospital has climbed sharply, most of which are allegedly induced by the fear of the scary urban legend, and are in urgent need of hypnosis ASMR programs to assist in their treatment.",
+            "JP": "最近、ニューシティの病院で不眠症患者の受け入れが急増している。その多くは怪談話への恐怖が原因と言われており、催眠ASMR番組による治療が急務となっている。",
+            "KO": "최근 괴담에 대한 공포심으로 인해 신성 병원을 찾는 불면증 환자가 급증하고 있다고 한다. 수면에 도움을 줄 ASMR 프로그램 보조 치료 지원이 시급하다.",
+            "CN": "近日新城医院接待的失眠患者人数急剧攀升，据称多由对怪谈的恐惧诱发，急需催眠ASMR节目辅助治疗。",
+            "TW": "近日新城醫院接待的失眠患者人數急劇攀升，據稱多由對怪談的恐懼誘發，急需催眠ASMR節目輔助治療。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Eleven"
+            }
+        }
+    },
+    "116": {
+        "Id": 1036002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Snack Sampling",
+            "JP": "スナックの試食",
+            "KO": "간식 시식",
+            "CN": "零食试吃",
+            "TW": "零食試吃"
+        },
+        "DispatchDescription": {
+            "EN": "A fun snack site has just started up and wants to make a name for itself quickly. Therefore it needs an streamer to live-stream the sampling of weird snacks.",
+            "JP": "ある面白スナックのウェブサイトが、立ち上げたばかりのため人気の急増を求めている。スナックを食べながら宣伝してくれるライブ配信者が必要だ。",
+            "KO": "아이디어 간식을 판매하는 업체가 사업을 시작했다. 하루빨리 유명해지기 위해, 방송에서 괴상한 간식을 맛보며 구매를 유도해 줄 스트리머가 필요하다.",
+            "CN": "某趣味零食网站刚刚创业，希望快速打出名气，需要一名主播直播试吃奇葩零食并带货。",
+            "TW": "某趣味零食網站剛剛創業，希望快速打出名氣，需要一名主播直播試吃奇葩零食並帶貨。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Nino"
+            }
+        }
+    },
+    "117": {
+        "Id": 1036003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Sharp Commentary",
+            "JP": "毒舌コメント",
+            "KO": "예리한 평가",
+            "CN": "毒舌评论",
+            "TW": "毒舌評論"
+        },
+        "DispatchDescription": {
+            "EN": "A late-night variety show in Eastside has seen its ratings fall, and is desperate to hire a critic who can do the whole job to star in the show and comment on hot social and current events.",
+            "JP": "ニューシティの深夜バラエティ番組の視聴率が低下している。話題の社会問題について番組でコメントしてくれる有能なコメンテーターの起用が急務だ。",
+            "KO": "신성의 한 심야 패러디 예능의 시청률이 떨어져, 급히 실력 있고 예능감이 좋은 평론가를 채용해 사회적인 이슈를 평가해야 한다.",
+            "CN": "新城某深夜恶搞综艺收视率下跌，急聘会整活的评论家出演节目，评论社会热点时事。",
+            "TW": "新城某深夜惡搞綜藝收視率下跌，急聘會惡搞的評論家出演節目，評論社會熱門時事。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Mess"
+            }
+        }
+    },
+    "118": {
+        "Id": 1037001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Gaze of the Toys",
+            "JP": "おもちゃの視線",
+            "KO": "장난감의 시선",
+            "CN": "玩具的凝视",
+            "TW": "玩具的凝視"
+        },
+        "DispatchDescription": {
+            "EN": "Recently, many citizens have reported feeling watched by their daughter\\'s dolls, suspecting that a peeping gang has put their modified toys into the market. A Sinner who is proficient in toy design and manufacturing is urgently needed to assist with the investigation.",
+            "JP": "最近、複数の一般市民から「娘の人形に睨まれているような気がする」という通報が相次いでいる。盗撮組織がおもちゃを改造して市場に流通させた疑いがあるため、おもちゃの設計や製造に精通したコンビクトの捜査協力が急ぎ必要だ。",
+            "KO": "최근 여러 시민이 딸애의 인형이 자신을 쳐다보는 것 같다는 신고를 했다. 불법 촬영 조직이 장난감을 개조하여 시장에 유통시킨 것으로 의심되어 장난감 설계 제작에 능숙한 수감자의 협조가 시급하다.",
+            "CN": "近日多名市民报案称感觉被女儿的洋娃娃盯着看，疑似偷拍团伙改造玩具后使其流入市场，急需一名精通玩具设计制造的禁闭者协助调查。",
+            "TW": "近日多名市民報案稱感覺被女兒的洋娃娃盯著看，疑似偷拍集團改造玩具後使其流入市場，急需一名精通玩具設計製造的禁閉者協助調查。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Eve"
+            }
+        }
+    },
+    "119": {
+        "Id": 1037002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Sci-fi Film Festival",
+            "JP": "SF映画祭",
+            "KO": "SF 영화제",
+            "CN": "科幻电影节",
+            "TW": "科幻電影節"
+        },
+        "DispatchDescription": {
+            "EN": "Eastside is hosting a low-budget niche sci-fi film festival. A certain Sinner who yearns to gain inventive inspiration from films is eager to participate.",
+            "JP": "ニューシティでは低予算のアングラSF映画祭がもうすぐ開催される。映画から発明のインスピレーションを得たいと思っているコンビクトが積極的に参加を希望した。",
+            "KO": "신성에서 적은 자본으로 SF 영화제를 개최하자 영화를 통해 영감을 얻고 싶어 하는 수감자가 적극적으로 참가 요청을 보냈다.",
+            "CN": "新城将举办低成本小众科幻电影节，某渴望从电影中获取发明灵感的禁闭者积极要求参加。",
+            "TW": "新城將舉辦低成本小眾科幻電影節，某渴望從電影中獲得發明靈感的禁閉者積極要求參加。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Eureka"
+            }
+        }
+    },
+    "120": {
+        "Id": 1037003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Contest Judge",
+            "JP": "コンテスト審査員",
+            "KO": "대회 평가 위원",
+            "CN": "大赛评委",
+            "TW": "大賽評委"
+        },
+        "DispatchDescription": {
+            "EN": "A detective culture club in Eastside organized a fun detective prop design competition, urgently requiring a judge with profound knowledge of fun prop invention and detective prop design to participate in the reviewing process.",
+            "JP": "ニューシティの探偵文化クラブが、おもしろ探偵小道具のデザインコンテスト開催を予定している。そこで、おもしろ小道具の発明、製作や、探偵アイテムに造詣が深い審査員を集めることが急務となっている。",
+            "KO": "신성의 어느 탐정 클럽에서 탐정 아이템 설계 대회를 개최했다. 재미있는 아이템 발명 제작과 탐정 아이템에 대해 잘 아는 평가 위원의 참여가 시급하다.",
+            "CN": "新城某侦探文化俱乐部组织举办了趣味侦探道具设计大赛，急需对趣味道具发明制作和侦探道具有深厚造诣的评委参与评审。",
+            "TW": "新城某偵探文化俱樂部組織舉辦了趣味偵探道具設計大賽，急需對趣味道具發明製作和偵探道具有深厚造詣的評委參與評審。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Christina"
+            }
+        }
+    },
+    "121": {
+        "Id": 1038001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "History of Rustfire",
+            "JP": "錆火の歴史",
+            "KO": "러스트 스파크 역사",
+            "CN": "锈火历史",
+            "TW": "鏽火歷史"
+        },
+        "DispatchDescription": {
+            "EN": "The Bureau plans to compile a comprehensive history document of the rise and development of Rustfire. They need those in the know to assist them.",
+            "JP": "管理局は、「錆火」組織の発足と発展に関する詳細な歴史を編纂する計画を立てている。そのためには情報を持っている人の協力が必要だ。",
+            "KO": "관리국은 \\'러스트 스파크\\' 조직의 부흥과 발전에 대한 상세한 역사적 자료를 정리하려고 한다. 이를 위해 내부자의 도움을 받아야 한다.",
+            "CN": "管理局计划梳理一份有关“锈火”组织兴起与发展的详尽历史材料，需要知情者协助完成。",
+            "TW": "管理局計畫梳理一份有關「鏽火」組織興起與發展的詳盡歷史資料，需要知情者協助完成。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Donald"
+            }
+        }
+    },
+    "122": {
+        "Id": 1038002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Firearm Trial",
+            "JP": "銃器の試用",
+            "KO": "총기 테스트",
+            "CN": "枪械试用",
+            "TW": "槍械試用"
+        },
+        "DispatchDescription": {
+            "EN": "A research institute has developed a new model of pistol and urgently needs a firearm expert for testing and evaluation.",
+            "JP": "ある研究院が最新モデルの銃を開発したため、試用と評価をしてくれる銃器の専門家を緊急に求めている。",
+            "KO": "모 연구소에서 최신형 권총을 개발하여 총기에 정통한 사람의 시험평가가 시급하다.",
+            "CN": "某研究院研制出了最新型号的手枪，急需精通枪械者试用评估。",
+            "TW": "某研究院研製出了最新型號的手槍，急需精通槍械者試用評估。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Matilda"
+            }
+        }
+    },
+    "123": {
+        "Id": 1038003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Major Cleanup",
+            "JP": "大掃除",
+            "KO": "대청소",
+            "CN": "清洁大扫除",
+            "TW": "清潔大掃除"
+        },
+        "DispatchDescription": {
+            "EN": "The Bureau has been busy with official duties recently and doesn\\'t have enough time for housekeeping. Two Sinners have decided to work together to complete a major cleanup.",
+            "JP": "最近、管理局は公務に追われて清掃がおろそかになっているため、コンビクト2名が協力して大掃除をすることにした。",
+            "KO": "관리국은 최근 공무로 바빠 집 안 청소에 소홀하여 두 명의 수감자가 함께 대청소에 나섰다.",
+            "CN": "管理局近来公务繁忙，疏于家务清洁，某二位禁闭者决定共同完成一次大扫除。",
+            "TW": "管理局近來公務繁忙，疏於家務清潔，某兩位禁閉者決定共同完成一次大掃除。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Labyrinth"
+            }
+        }
+    },
+    "124": {
+        "Id": 1039001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Audition Judge",
+            "JP": "オーディション番組の審査員",
+            "KO": "오디션 심사위원",
+            "CN": "选秀评委",
+            "TW": "選秀評委"
+        },
+        "DispatchDescription": {
+            "EN": "An entertainment company has launched a new talent show, this time with the theme of finding future musical stars. They are urgently recruiting audience judges to participate in the filming. A certain Sinner volunteers to go and uncover the hidden talents.",
+            "JP": "あるエンタメ企業が、未来のミュージカルスターを選ぶというテーマで新たなオーディション番組を企画した。収録に参加してもらう一般審査員を急募していたところ、あるコンビクトが粉塵の中から真珠を発掘するために自ら申し込んだ。",
+            "KO": "한 엔터테인먼트에서 새로운 오디션 프로그램을 기획했다. 이번 프로그램의 주제는 뮤지컬 유망주를 발굴하는 것이며, 녹화를 위해 급히 대중 심사 위원을 섭외했다. 한 수감자가 자신이 직접 아직 다듬어지지 않은 보석을 발굴하고 싶다며 나섰다.",
+            "CN": "某娱乐推出了新一档选秀节目，这次以选出音乐剧的未来之星为主题，现急招大众评委参与录制，某禁闭者主动要求前往参与并挖掘蒙尘明珠。",
+            "TW": "某娛樂公司推出了新一檔選秀節目，這次以選出音樂劇的未來之星為主題，現急徵大眾評委參與錄製，某禁閉者主動要求前往參與並挖掘蒙塵明珠。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Lady Pearl"
+            }
+        }
+    },
+    "125": {
+        "Id": 1039002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Popularity Contest",
+            "JP": "人気コンテスト",
+            "KO": "인기 대회",
+            "CN": "人气大赛",
+            "TW": "人氣大賽"
+        },
+        "DispatchDescription": {
+            "EN": "An association in Eastside has organized a busking contest which audience can watch for free and cast their votes. Hearing about this, a certain Sinner is eager to participate in it, confident that the champion title shall go to no one else.",
+            "JP": "ある協会がニューシティで路上パフォーマンスコンテストを開催する。市民は誰でも無料で観覧でき、投票も可能だ。その話を聞いたあるコンビクトは、絶対優勝すると言って参加を志願した。",
+            "KO": "한 협회가 신성에서 길거리 예술가 대회를 개최했고 모든 사람이 무료로 관람하고 투표를 할 수 있다. 이 소식을 들은 한 수감자가 용감히 참가를 신청하며 본인이 반드시 우승할 수 있다고 주장했다.",
+            "CN": "某协会在新城组织了一场街头艺人大赛，所有民众均可免费观看并投出自己的一票，某禁闭者听说后自告奋勇想要参加，并称自己一定会拿到冠军。",
+            "TW": "某協會在新城組織了一場街頭藝人大賽，所有民眾均可免費觀看並投出自己的一票，某禁閉者聽說後自告奮勇想要參加，並稱自己一定會拿到冠軍。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Echo"
+            }
+        }
+    },
+    "126": {
+        "Id": 1039003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Sonic Weapon",
+            "JP": "音波武器",
+            "KO": "음파 무기",
+            "CN": "声波武器",
+            "TW": "聲波武器"
+        },
+        "DispatchDescription": {
+            "EN": "The Public Security Bureau is vigorously developing sonic weapons and urgently hiring Sinners capable of using sonic attacks and skilled in invention and creation to participate in the project.",
+            "JP": "治安局は現在、音波武器の研究開発に力を入れている。そのため音波を使った攻撃ができ、発明に長けたコンビクトの参加が急務となっている。",
+            "KO": "치안국은 현재 음파 무기를 대대적으로 연구하고 있다. 음파를 이용해 공격을 할 수 있고 발명에 능한 수감자의 연구 참여가 시급하다.",
+            "CN": "治安局目前正在大力研发声波武器，急需能够使用声波进行攻击以及善于发明创造的禁闭者参与研制。",
+            "TW": "治安局目前正在大力研發聲波武器，急需能夠使用聲波進行攻擊以及善於發明創造的禁閉者參與研製。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Eureka"
+            }
+        }
+    },
+    "127": {
+        "Id": 1040001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Bomb Alert",
+            "JP": "爆弾予告",
+            "KO": "폭탄 예고",
+            "CN": "炸弹预告",
+            "TW": "炸彈預告"
+        },
+        "DispatchDescription": {
+            "EN": "The MBCC received a request from the Public Security Bureau. Explosives have been planted into a giant clock in an Eastside landmark. The device\\'s mechanism is complex and dangerous, so they require urgent assistance from a Sinner with extensive knowledge of mechanical structures.",
+            "JP": "MBCCは治安局から協力を求められた。ニューシティのランドマークにある巨大な時計に爆発物が仕込まれたらしい。内部の構造は複雑で危険であり、機械構造に詳しいコンビクトを直ちに現場に派遣する必要がある。",
+            "KO": "MBCC는 치안국의 지원 요청을 받아 신성의 한 랜드마크에 있는 거대한 시계탑에 설치된 폭탄을 제거하려 한다. 시계탑의 내부 구조는 복잡하고 위험해서 기계 구조에 대해 잘 알고 있는 수감자를 파견해야 한다.",
+            "CN": "MBCC接到治安局求助，新城某地标的巨型时钟被装入了炸药，内部构造复杂且危险，需要立即指派一名非常了解机械构造的禁闭者前来协助。",
+            "TW": "MBCC接到治安局求助，新城某地標的巨型時鐘被裝入了炸藥，內部構造複雜且危險，需要立即指派一名非常瞭解機械構造的禁閉者前來協助。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Vanilla"
+            }
+        }
+    },
+    "128": {
+        "Id": 1040002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Journal Market",
+            "JP": "手帳マルシェ",
+            "KO": "다이어리 시장",
+            "CN": "手账集市",
+            "TW": "手帳市集"
+        },
+        "DispatchDescription": {
+            "EN": "A journal market event is being held in Eastside. A certain Sinner insists that immense unknown danger lurks within and volunteers to go and eliminate the threats.",
+            "JP": "ニューシティで手帳マルシェが開催される。しかし、あるコンビクトがそこに未知の危険が多く潜んでいると主張し、その脅威を排除しに行きたいと積極的に申し出た。",
+            "KO": "신성에서 다이어리 시장 이벤트를 진행했는데 어느 수감자가 그 안에 알 수 없는 위험이 숨겨져 있다며 적극적으로 위협을 제거할 것을 신청했다.",
+            "CN": "新城举行了手账集市活动，某禁闭者坚称其中潜藏着大量不明危险，积极主动地申请前往排除威胁。",
+            "TW": "新城舉行了手帳市集活動，某禁閉者堅稱其中潛藏著大量不明危險，積極主動地申請前往排除威脅。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Thistle"
+            }
+        }
+    },
+    "129": {
+        "Id": 1040003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "High School Girl Kidnapping Case",
+            "JP": "女子高誘拐事件",
+            "KO": "여고 납치사건",
+            "CN": "女高绑架案",
+            "TW": "女高綁架案"
+        },
+        "DispatchDescription": {
+            "EN": "A mass kidnapping incident has taken place at an all-girls high school in Eastside. At the request of the Public Security Bureau, the MBCC urgently sends two Sinners to infiltrate the school disguised as students and secretly execute a hostage rescue plan.",
+            "JP": "ニューシティの女子高で集団誘拐事件が発生した。MBCCは治安局の要請を受け、コンビクト2名を緊急派遣し、女子高生に変装させて紛れ込ませ、人質救出計画を実行することにした。",
+            "KO": "신성의 한 여고에서 집단 납치사건이 발생했다. 치안국의 요청으로 MBCC는 긴급으로 여고생으로 변장할 수감자 2명을 파견해 인질을 구출하려고 한다.",
+            "CN": "新城某女高发生了集体绑架事件，应治安局要求，MBCC紧急派遣两名禁闭者伪装成在校女高混入其中，实行秘密解救人质的计划。",
+            "TW": "新城某女高發生了集體綁架事件，應治安局要求，MBCC緊急派遣兩名禁閉者偽裝成女高在校生混入其中，實行秘密解救人質的計畫。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Lynn"
+            }
+        }
+    },
+    "130": {
+        "Id": 1041001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Ancient Book Identification",
+            "JP": "古書の識別",
+            "KO": "고서 감정",
+            "CN": "古籍辨认",
+            "TW": "古籍辨認"
+        },
+        "DispatchDescription": {
+            "EN": "A collection of valuable original copies of Outland books has recently been stolen from the Eastside Library. Assistance from a relevant scholar is urgently required to retrieve and authenticate them.",
+            "JP": "ニューシティの図書館で最近、異邦からの貴重な書籍の原書が盗まれた。それを取り戻し鑑定するため、至急この分野に明るい学者の支援が必要だ。",
+            "KO": "최근 신성 도서관에서 이방 도시에서 얻은 진귀한 서적이 도난당했다. 서적의 회수와 감정을 도와줄 학자가 급히 필요하다.",
+            "CN": "新城图书馆近期失窃了一批来自异邦的珍贵书籍原件，急需有关学者协助追回和甄辨。",
+            "TW": "新城圖書館近期失竊了一批來自異邦的珍貴書籍原件，急需有關學者協助追回和辨識。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Du Ruo"
+            }
+        }
+    },
+    "131": {
+        "Id": 1041002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Culinary Festival",
+            "JP": "料理大会",
+            "KO": "요리 대회",
+            "CN": "料理盛会",
+            "TW": "料理盛會"
+        },
+        "DispatchDescription": {
+            "EN": "The Eastside Culinary Festival is about to commence, and the organizer has extended a friendly invitation to the Bureau. Having seen the invitation, a certain Sinner volunteers to honor it.",
+            "JP": "ニューシティの料理大会の開催を目前に控え、主催者は管理局に招待状を送った。その招待状を見て、あるコンビクトが自ら行きたいと申し出た。",
+            "KO": "신성 요리 대회의 개막을 앞두고 주최 측에서 관리국에 초대장을 보냈다. 초대장을 본 한 수감자가 자발적으로 참가를 요청했다.",
+            "CN": "新城料理大会开幕在即，主办方向管理局发出友情邀请，某禁闭者在看到请帖后主动要求前去赴约。",
+            "TW": "新城料理大會開幕在即，主辦方向管理局發出友情邀請，某禁閉者在看到請帖後主動要求前去赴約。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Yanyan"
+            }
+        }
+    },
+    "132": {
+        "Id": 1041003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Child Model Disappearance Case",
+            "JP": "子供服モデルの失踪事件",
+            "KO": "아동복 모델 실종 사건",
+            "CN": "童装模特失踪案",
+            "TW": "童裝模特兒失蹤案"
+        },
+        "DispatchDescription": {
+            "EN": "Recently, several models of an Eastside luxury children\\'s clothing brand have gone missing after photo shoots. Send two Sinners to go undercover in disguise and uncover the truth.",
+            "JP": "最近、ニューシティにある有名な高級子供服ブランドのモデル数名が写真撮影の後に失踪した。コンビクト2名を変装させて潜入させ、真実を突き止める必要がある。",
+            "KO": "최근 신성의 어느 명품 아동복 브랜드에서 촬영을 마친 모델들이 다수 실종되었다. 진상을 밝히기 위해 두 명의 수감자가 변장해서 잠입해야 한다.",
+            "CN": "近日，新城某知名贵价童装品牌有多名模特在拍摄后失踪，需派出两名禁闭者变装潜入，查明真相。",
+            "TW": "近日，新城某知名貴價童裝品牌有多名模特兒在拍攝後失蹤，需派出兩名禁閉者變裝潛入，查明真相。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Oliver"
+            }
+        }
+    },
+    "133": {
+        "Id": 1041004,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Seminar Investigation",
+            "JP": "講座調査",
+            "KO": "강좌 조사",
+            "CN": "讲座探查",
+            "TW": "講座探查"
+        },
+        "DispatchDescription": {
+            "EN": "The Public Security Bureau has recently received complaints about a suspicious self-claimed master holding seminars titled <i>Communication with the Sun<\/i> everywhere. Send a Sinner to investigate.",
+            "JP": "最近、マスターを名乗る不審な人物が様々な場所で「太陽との交信」講座を行っていると治安局にクレームが寄せられたため、コンビクト1名を調査に派遣する必要がある。",
+            "KO": "치안국은 최근 자칭 마스터라는 수상한 인물이 \\'태양과의 소통\\' 관련 강좌를 열고 있다는 신고를 받았다. 이를 조사할 수감자 한 명을 파견해야 한다.",
+            "CN": "治安局近期接到投诉，一名自称大师的可疑人士在四处开设“沟通太阳”相关讲座，需派出一名禁闭者前往探查。",
+            "TW": "治安局近期接到投訴，一名自稱大師的可疑人士在四處開設「溝通太陽」相關講座，需派出一名禁閉者前往探查。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Yao"
+            }
+        }
+    },
+    "134": {
+        "Id": 1099001,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Dream Interpretation",
+            "JP": "夢の解析",
+            "KO": "꿈의 해석",
+            "CN": "梦的解析",
+            "TW": "夢的解析"
+        },
+        "DispatchDescription": {
+            "EN": "Residents in some areas of Eastside often suffer from nightmares. It is necessary to find out why.",
+            "JP": "ニューシティの一部エリアの住民がよくナイトメアにうなされている。具体的な原因を調査しなければならない。",
+            "KO": "신성 일부 지역 주민들은 악몽을 자주꾼다. 구체적인 원인을 철저히 조사해야 한다.",
+            "CN": "新城一些区域的居民经常做噩梦，需要查清具体原因。",
+            "TW": "新城一些區域的居民經常做惡夢，需要查明具體原因。"
+        },
+        "DispatchSinners": {
+            "sinner": {
+                "EN": "Hecate"
             }
         }
     }
