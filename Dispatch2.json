@@ -1,7 +1,7 @@
 {
     "0": {
-        "Id": "1001001",
-        "Rarity": "Grey",
+        "Id": 1001001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Ye Olde Whitestone",
             "JP": "信頼の白記",
@@ -10,16 +10,25 @@
             "TW": "白記老字號"
         },
         "DispatchDescription": {
-            "EN": "An old customer placed an order at Whitestone. To uphold Whitestone's reputation, the order must be completed!",
+            "EN": "An old customer placed an order at Whitestone. To uphold Whitestone\\'s reputation, the order must be completed!",
             "JP": "ある常連客が白記に注文をした。白記の看板を守るため、この注文に必ず応えてみせる！",
             "KO": "어느 한 단골손님이 백기에 의뢰를 넣었다. 백기의 명예를 위해서는 반드시 이 의뢰를 끝까지 책임져야 한다!",
             "CN": "一位老主顾在白记下了单，为了保住白记这块招牌，必须把这个单给结了！",
             "TW": "一位老客戶在白記下了單，為了保住白記這塊招牌，必須把這個單盡快完成！"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "K.K.",
+                "JP": "K.K.",
+                "KO": "K.K.",
+                "CN": "蔻蔻",
+                "TW": "K.K."
+            }
         }
     },
     "1": {
-        "Id": "1001002",
-        "Rarity": "Green",
+        "Id": 1001002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Security Training",
             "JP": "警備訓練",
@@ -30,14 +39,23 @@
         "DispatchDescription": {
             "EN": "The rest of the FAC wants the former security head of Serpent Eye to give them some security training.",
             "JP": "FACの他の部門は、元「スネークアイ」のセキュリティ責任者によってセキュリティ分野の訓練が行われることを望んでいる。",
-            "KO": "FAC 다른 부서에서 전 '스네이크 아이즈' 보안 팀장이 이들에게 보안 분야의 교육을 진행할 수 있기를 희망했다.",
+            "KO": "FAC 다른 부서에서 전 \\'스네이크 아이즈\\' 보안 팀장이 이들에게 보안 분야의 교육을 진행할 수 있기를 희망했다.",
             "CN": "FAC其他部门希望前“蛇眼”安保主管能够对他们进行一些安保领域的培训。",
             "TW": "FAC其他部門希望前「蛇眼」安保主管能夠對他們進行一些安保領域的培訓。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Cinnabar",
+                "JP": "辰砂",
+                "KO": "시나바",
+                "CN": "辰砂",
+                "TW": "辰砂"
+            }
         }
     },
     "2": {
-        "Id": "1001003",
-        "Rarity": "Blue",
+        "Id": 1001003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Secret Exchange",
             "JP": "秘密取引",
@@ -51,11 +69,27 @@
             "KO": "변장 무도회에서 비밀 거래가 이뤄지고 있다. 신분에 맞는 사람이 잠입하여 거래를 막아야 한다.",
             "CN": "一桩秘密交易将在变装舞会上进行，需要身份相符的人潜入阻止。",
             "TW": "一樁秘密交易將在變裝舞會上進行，需要身份相符的人潛入阻止。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Cinnabar",
+                "JP": "辰砂",
+                "KO": "시나바",
+                "CN": "辰砂",
+                "TW": "辰砂"
+            },
+            "Sinner 2": {
+                "EN": "Ignis",
+                "JP": "イグニ",
+                "KO": "이그니스",
+                "CN": "伊格尼",
+                "TW": "伊格尼"
+            }
         }
     },
     "3": {
-        "Id": "1001004",
-        "Rarity": "Purple",
+        "Id": 1001004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Bewildering Chase",
             "JP": "窮地までの追跡",
@@ -69,13 +103,22 @@
             "KO": "기밀문서에 기록된 악당이 다시 나타났다. 우리는 이미 그의 활동 경로를 확보했다.",
             "CN": "记录在机密档案中的恶徒再度出现，我们已经锁定了活动路径。",
             "TW": "記錄在機密檔案中的惡徒再度出現，我們已經鎖定了活動路徑。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Demon",
+                "JP": "デーモン",
+                "KO": "데이먼",
+                "CN": "迪蒙",
+                "TW": "迪蒙"
+            }
         }
     },
     "4": {
-        "Id": "1002001",
-        "Rarity": "Grey",
+        "Id": 1002001,
+        "Quality": "Grey",
         "DispatchTitle": {
-            "EN": "No Man's Land",
+            "EN": "No Man\\'s Land",
             "JP": "主なき場所",
             "KO": "무인 지대",
             "CN": "无主之地",
@@ -87,11 +130,20 @@
             "KO": "요즘 신디케이트 건달들이 불안정하다. 누군가가 아무도 몰래 잠입해 원인을 찾아볼 수 있을지도 모른다.",
             "CN": "辛迪加的混混们最近有些不安分，或许有些人可以混进去找找原因。",
             "TW": "辛迪加的混混們最近有些不安分，或許有些人可以混進去找找原因。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Hella",
+                "JP": "ヘラ",
+                "KO": "엘라",
+                "CN": "海拉",
+                "TW": "海拉"
+            }
         }
     },
     "5": {
-        "Id": "1002002",
-        "Rarity": "Green",
+        "Id": 1002002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "No Defaulting",
             "JP": "延滞禁止",
@@ -105,11 +157,20 @@
             "KO": "대식가 경기의 스폰서는 보상을 연체하고 있다. 조사를 통해 확인한 결과 비정상적인 현금 흐름과 관련이 있다.",
             "CN": "大胃王比赛的赞助商拖欠了奖励，经过调查发现这和一笔异常的现金流有关。",
             "TW": "大胃王比賽的贊助商拖欠了獎勵，經過調查發現這和一筆異常的現金流有關。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Ninety-Nine",
+                "JP": "ナインティナイン",
+                "KO": "나인티나인",
+                "CN": "九十九",
+                "TW": "九十九"
+            }
         }
     },
     "6": {
-        "Id": "1002003",
-        "Rarity": "Blue",
+        "Id": 1002003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Rust Anomaly",
             "JP": "錆の川の異常",
@@ -123,11 +184,27 @@
             "KO": "러스트 리버 지대에 이상 현상이 나타났다. 전문가가 가서 처리해야 한다.",
             "CN": "锈河地带出现了一些异常现象，需要专业人士前去处理。",
             "TW": "鏽河地帶出現了一些異常現象，需要專業人士前去處理。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Ninety-Nine",
+                "JP": "ナインティナイン",
+                "KO": "나인티나인",
+                "CN": "九十九",
+                "TW": "九十九"
+            },
+            "Sinner 2": {
+                "EN": "Wendy",
+                "JP": "ウェンディ",
+                "KO": "웬디",
+                "CN": "温蒂",
+                "TW": "溫蒂"
+            }
         }
     },
     "7": {
-        "Id": "1002004",
-        "Rarity": "Purple",
+        "Id": 1002004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Fatal Weapon",
             "JP": "とどめの武器",
@@ -141,11 +218,20 @@
             "KO": "최근 신디케이트는 신형 무기가 유행하고 있다. 이에 신디케이트의 패자, 군단 수장이 직접 탐사에 나서기로 했다.",
             "CN": "辛迪加最近流行了一种新式武器，对此辛迪加的霸主、军团的首领决定亲自前往探查。",
             "TW": "辛迪加最近流行了一種新式武器，對此辛迪加的霸主、軍團的首領決定親自前往調查。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Zoya",
+                "JP": "ゾーヤ",
+                "KO": "조야",
+                "CN": "卓娅",
+                "TW": "卓婭"
+            }
         }
     },
     "8": {
-        "Id": "1003001",
-        "Rarity": "Grey",
+        "Id": 1003001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Resource Source",
             "JP": "資料の出所",
@@ -159,11 +245,20 @@
             "KO": "퀸 미디어의 스튜디오에서 수감자를 모티브로 애니메이션을 제작하려 하자 한 허풍쟁이가 자진하여 협조에 나섰다.",
             "CN": "奎恩传媒一家工作室想要以禁闭者为原型创作一部动漫，某吹牛大王自愿前去协助。",
             "TW": "奎恩傳媒一家工作室想要以禁閉者為原型創作一部動漫，某吹牛大王自願前去協助。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "EMP",
+                "JP": "EMP",
+                "KO": "EMP",
+                "CN": "艾米潘",
+                "TW": "EMP"
+            }
         }
     },
     "9": {
-        "Id": "1003002",
-        "Rarity": "Green",
+        "Id": 1003002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Boom Boom Boom",
             "JP": "ドカンドカンドカン",
@@ -177,11 +272,20 @@
             "KO": "신디케이트에서 여러 목숨을 가져간 연쇄 폭파 사건이 발생했다. 폭발물 전문가의 조사가 필요하다.",
             "CN": "辛迪加发生了连环殉爆事件，需要一位爆炸物专家来调查这次事件。",
             "TW": "辛迪加發生了連環爆炸事件，需要一位元爆炸物專家來調查這次事件。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Roulecca",
+                "JP": "ルリエカ",
+                "KO": "로레카",
+                "CN": "露莉艾卡",
+                "TW": "露莉艾卡"
+            }
         }
     },
     "10": {
-        "Id": "1003003",
-        "Rarity": "Blue",
+        "Id": 1003003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Extravaganza",
             "JP": "盛大なパフォーマンス",
@@ -195,11 +299,27 @@
             "KO": "관리국에서 카니발 부스를 정보 거점으로 사용 신청을 했다. 마술쇼, 오락게임 등 다양한 서비스를 제공하고 있다.",
             "CN": "管理局申请了一个嘉年华摊位作为情报据点，提供魔术表演、娱乐游戏等多项服务。",
             "TW": "管理局申請了一個嘉年華攤位作為情報據點，提供魔術表演、娛樂遊戲等多項服務。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Roulecca",
+                "JP": "ルリエカ",
+                "KO": "로레카",
+                "CN": "露莉艾卡",
+                "TW": "露莉艾卡"
+            },
+            "Sinner 2": {
+                "EN": "Pricilla",
+                "JP": "プリシラ",
+                "KO": "프리실라",
+                "CN": "普希拉",
+                "TW": "普希拉"
+            }
         }
     },
     "11": {
-        "Id": "1003004",
-        "Rarity": "Purple",
+        "Id": 1003004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "DisSea Surveillance",
             "JP": "内海測定",
@@ -213,11 +333,20 @@
             "KO": "최근 디스씨 오염도가 크게 올랐다. 디스씨특별자치구는 우리에게 지원을 요청했다.",
             "CN": "近期内海污染程度大幅波动，内海特区向我们申请支援。",
             "TW": "近期內海汙染程度大幅波動，內海特區向我們申請支援。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "NOX",
+                "JP": "NOX",
+                "KO": "NOX",
+                "CN": "诺克斯",
+                "TW": "NOX"
+            }
         }
     },
     "12": {
-        "Id": "1004001",
-        "Rarity": "Grey",
+        "Id": 1004001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Mechanical Dance",
             "JP": "ロボットダンス",
@@ -226,16 +355,25 @@
             "TW": "機械舞"
         },
         "DispatchDescription": {
-            "EN": "Someone declared they want to assassinate a performer on the dance tour. To protect her, we're going to use a body double.",
+            "EN": "Someone declared they want to assassinate a performer on the dance tour. To protect her, we\\'re going to use a body double.",
             "JP": "ある人物にダンス公演での暗殺予告が行われた。彼女を守るために、我々は身代わり作戦を使うつもりだ。",
             "KO": "누군가가 댄스 투어의 공연자를 암살하겠다고 선언했다. 이들을 보호하기 위해 우리는 대역 전술을 준비할 것이다.",
             "CN": "有人宣称要在舞蹈巡演中刺杀表演者，为了保护她，我们准备使用替身战术。",
             "TW": "有人宣稱要在舞蹈巡演中刺殺表演者，為了保護她，我們準備使用替身戰術。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Labyrinth",
+                "JP": "ラビリンス",
+                "KO": "레버린스",
+                "CN": "雷比尼斯",
+                "TW": "雷比尼斯"
+            }
         }
     },
     "13": {
-        "Id": "1004002",
-        "Rarity": "Green",
+        "Id": 1004002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "City Shadows",
             "JP": "都市の影",
@@ -249,11 +387,20 @@
             "KO": "디스시티에는 어두운 구석이 많다. 특히 낙원 같은 곳의 근무자들은 정당한 신분이 필요하다는 점에 유의해야 한다.",
             "CN": "狄斯城有很多黑暗的角落，尤其是在上庭。特别注意，在该地开展工作的人员需要正当身份。",
             "TW": "狄斯城有很多黑暗的角落，尤其是在上庭。特別注意，在該地開展工作的人員需要正當身份。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Tetra",
+                "JP": "テトラ",
+                "KO": "테트라",
+                "CN": "泰特拉",
+                "TW": "泰特拉"
+            }
         }
     },
     "14": {
-        "Id": "1004003",
-        "Rarity": "Blue",
+        "Id": 1004003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Murder Mystery",
             "JP": "殺人の謎",
@@ -267,11 +414,27 @@
             "KO": "디스시티의 비밀 조직에 몸담았던 첩보가 뜻밖에 살해되었다. 사건 배후 세력을 밝히기 위해서 관리국의 핵심 요원 두 명이 필요하다.",
             "CN": "安插在某秘密组织的线人意外被害，该组织也从狄斯城消失，为了查清这背后的真相，管理局需要两个关键人员。",
             "TW": "安插在某秘密組織的線人意外被害，該組織也從狄斯城消失，為了查清這背後的真相，管理局需要兩個關鍵人員。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Tetra",
+                "JP": "テトラ",
+                "KO": "테트라",
+                "CN": "泰特拉",
+                "TW": "泰特拉"
+            },
+            "Sinner 2": {
+                "EN": "Sumire",
+                "JP": "菫",
+                "KO": "진",
+                "CN": "堇",
+                "TW": "堇"
+            }
         }
     },
     "15": {
-        "Id": "1004004",
-        "Rarity": "Purple",
+        "Id": 1004004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Super Speed",
             "JP": "最速の走り屋",
@@ -285,11 +448,20 @@
             "KO": "터빈 테크놀로지에서 개발한 초고속 오토바이가 폭주족에게 도둑맞았다. 겹겹이 하청 끝에 백기실업이 의뢰받았다.",
             "CN": "涡轮科技研发的一辆超高速摩托被飞车党偷走，经过层层转包，这份寻物委托最后到了白记实业头上。",
             "TW": "渦輪科技研發的一輛超高速摩托被飛車黨偷走，經過層層轉手，這份尋物委託最後到了白記實業頭上。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Bai Yi",
+                "JP": "ハクイツ",
+                "KO": "백",
+                "CN": "白逸",
+                "TW": "白逸"
+            }
         }
     },
     "16": {
-        "Id": "1005001",
-        "Rarity": "Grey",
+        "Id": 1005001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Ban Open Flames",
             "JP": "火気厳禁",
@@ -303,11 +475,20 @@
             "KO": "신디케이트에서 여러 건의 방화 사고가 발생했다. 사고 발생 장소가 서로 멀리 떨어져 있어 관리국에서 연관성이 있는지 확인하고자 한다.",
             "CN": "辛迪加发生多起失火事故，事故地点相隔较远，管理局想要知道这其中是否有所联系。",
             "TW": "辛迪加發生多起火災事故，事故地點相隔較遠，管理局想要知道這其中是否有所關聯。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Flora",
+                "JP": "フローラ",
+                "KO": "플로라",
+                "CN": "芙洛拉",
+                "TW": "芙洛拉"
+            }
         }
     },
     "17": {
-        "Id": "1005002",
-        "Rarity": "Green",
+        "Id": 1005002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Fixed Route?",
             "JP": "固定ルート？",
@@ -321,11 +502,20 @@
             "KO": "신성 치안국의 요청으로 수감자를 특별 파견하여 일상 치안순찰 임무를 수행하려고 한다. 고정된 경로를 고려하여…",
             "CN": "接新城治安局邀请，特派禁闭者执行常规治安巡逻任务，考虑到是固定路线……",
             "TW": "接新城治安局邀請，特派禁閉者執行常規治安巡邏任務，考慮到是固定路線……"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Ariel",
+                "JP": "アリエル",
+                "KO": "아리엘",
+                "CN": "艾瑞尔",
+                "TW": "艾瑞爾"
+            }
         }
     },
     "18": {
-        "Id": "1005003",
-        "Rarity": "Blue",
+        "Id": 1005003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Spencer Family",
             "JP": "スペンサー家",
@@ -339,11 +529,27 @@
             "KO": "최근 해당 가문에 대한 스캔들은 관리국에서 관계자를 파견하여 처리할 것을 건의한다. 집행의 효과를 고려하여 유력 인사의 지원이 필요하다.",
             "CN": "关于该家族的近期丑闻，管理局建议派出相关人员处理，且为保证执行效果，另需有力人士提供支持。",
             "TW": "關於該家族的近期醜聞，管理局建議派出相關人員處理，且為保證執行效果，另需有力人士提供支持。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Ariel",
+                "JP": "アリエル",
+                "KO": "아리엘",
+                "CN": "艾瑞尔",
+                "TW": "艾瑞爾"
+            },
+            "Sinner 2": {
+                "EN": "Hecate",
+                "JP": "ヘカテー",
+                "KO": "헤카테",
+                "CN": "赫卡蒂",
+                "TW": "赫卡蒂"
+            }
         }
     },
     "19": {
-        "Id": "1005004",
-        "Rarity": "Purple",
+        "Id": 1005004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Technical Support",
             "JP": "技術サポート",
@@ -352,16 +558,25 @@
             "TW": "技術支援"
         },
         "DispatchDescription": {
-            "EN": "The parent organization's research institute has recently encountered several technical difficulties. Considering the extent of professional knowledge required, there seems to be only one suitable candidate.",
+            "EN": "The parent organization\\'s research institute has recently encountered several technical difficulties. Considering the extent of professional knowledge required, there seems to be only one suitable candidate.",
             "JP": "上級機関の研究所は最近幾つかの技術的難問に直面した。専門的業務の難度を考えると、適任者は一人しかいないようだ。",
             "KO": "최근 상급기관의 연구소에서 몇 가지 곤란한 기술적 문제에 부닥쳤다. 전문성의 난이도를 고려하면 적임자는 한 명밖에 없는 것 같다.",
             "CN": "上级机构的研究院最近遇到了几处技术难题。考虑到其专业难度，合适的人选似乎只有一个了。",
             "TW": "上級機構的研究院最近遇到了一些技術難題。考慮到其專業難度，合適的人選似乎只有一個了。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Summer",
+                "JP": "夏音",
+                "KO": "여름",
+                "CN": "夏音",
+                "TW": "夏音"
+            }
         }
     },
     "20": {
-        "Id": "1006001",
-        "Rarity": "Grey",
+        "Id": 1006001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Scavenger",
             "JP": "ウェストピッカー",
@@ -375,11 +590,20 @@
             "KO": "최근 러스트 리버 주변의 넝마주이 조직에서 살인 사건이 발생했다. 그곳의 환경을 잘 아는 사람이 조사하러 가야 한다.",
             "CN": "近期锈河边的拾荒者组织出现了谋杀案件，需要一个熟悉那里环境的人前去调查。",
             "TW": "近期鏽河邊的拾荒者組織出現了謀殺案件，需要一個熟悉那裡環境的人前去調查。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Demolia",
+                "JP": "デモーリー",
+                "KO": "데몰리아",
+                "CN": "德莫莉",
+                "TW": "德莫莉"
+            }
         }
     },
     "21": {
-        "Id": "1006002",
-        "Rarity": "Green",
+        "Id": 1006002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Book Management",
             "JP": "図書管理",
@@ -393,11 +617,20 @@
             "KO": "도서관에 일부 오래된 책이 분실되었다. 관리국은 단순한 관리 실수가 아니라, 다른 절묘한 계책이 숨겨져 있다고 의심했다.",
             "CN": "图书馆的一些旧书丢失，管理局怀疑这并非单纯的管理失误，而是另有玄机。",
             "TW": "圖書館的一些舊書丟失，管理局懷疑這並非單純的管理失誤，而是另有玄機。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Pacassi",
+                "JP": "ペガシ",
+                "KO": "파카시",
+                "CN": "帕加茜",
+                "TW": "帕加茜"
+            }
         }
     },
     "22": {
-        "Id": "1006003",
-        "Rarity": "Blue",
+        "Id": 1006003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Book Purchase",
             "JP": "書籍購入",
@@ -406,16 +639,32 @@
             "TW": "書籍採購"
         },
         "DispatchDescription": {
-            "EN": "The Bureau's book procurement work has officially started. The total book list is 19 pages long. It is not easy to find suitable candidates.",
+            "EN": "The Bureau\\'s book procurement work has officially started. The total book list is 19 pages long. It is not easy to find suitable candidates.",
             "JP": "管理局の図書調達の仕事が本格的に始まった。図書リストは19ページに及ぶため、適任者を見つけるのは簡単ではない。",
             "KO": "관리국의 서적 구매 업무가 정식으로 시작되었다. 명세서가 19페이지에 달하여, 적임자를 찾기가 쉽지 않았다.",
             "CN": "管理局的书籍采购工作正式开始，总书单长达十九页，找到合适的人选并不容易。",
             "TW": "管理局的書籍採購工作正式開始，總書單長達十九頁，找到合適的人選並不容易。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Pacassi",
+                "JP": "ペガシ",
+                "KO": "파카시",
+                "CN": "帕加茜",
+                "TW": "帕加茜"
+            },
+            "Sinner 2": {
+                "EN": "Anne",
+                "JP": "アン",
+                "KO": "앤",
+                "CN": "安",
+                "TW": "安"
+            }
         }
     },
     "23": {
-        "Id": "1006004",
-        "Rarity": "Purple",
+        "Id": 1006004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Supervise Work",
             "JP": "仕事指導",
@@ -429,11 +678,20 @@
             "KO": "관리국은 최근의 파견 업무를 정리하고 미래의 업무를 전망할 필요가 있다. 어떤 상급자는 당신을 협조하는 데 제일 적합한 인원이다.",
             "CN": "管理局需要对近期的派遣工作进行一次梳理总结，并对未来的工作作出展望，你的某位上级正是协助你的不二人选。",
             "TW": "管理局需要對近期的派遣工作進行一次彙整總結，並對未來的工作有何目標，你的某位上級正是協助你的不二人選。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Langley",
+                "JP": "ラングリー",
+                "KO": "랭글리",
+                "CN": "兰利",
+                "TW": "蘭利"
+            }
         }
     },
     "24": {
-        "Id": "1007001",
-        "Rarity": "Grey",
+        "Id": 1007001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Special Commentary",
             "JP": "特約評論",
@@ -447,11 +705,20 @@
             "KO": "어느 한 예술품 잡지에서 상당한 보수로 유명한 평론가를 초대한다. 그들을 위해 특약 원고 제공을 진행했으면 한다.",
             "CN": "某艺术品杂志邀请知名批评家为他们写一篇特约供稿，报酬丰厚。",
             "TW": "某藝術品雜誌邀請知名評論家為他們寫一篇特約專欄，報酬豐厚。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Lisa",
+                "JP": "リザー",
+                "KO": "리사",
+                "CN": "丽莎",
+                "TW": "麗莎"
+            }
         }
     },
     "25": {
-        "Id": "1007002",
-        "Rarity": "Green",
+        "Id": 1007002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Food Tasting",
             "JP": "グルメ品評",
@@ -465,11 +732,20 @@
             "KO": "어느 한 식품공장에서 여러 종류의 신제품을 내놓았지만, 매출은 계속 좋지 않다. 그들은 더욱 전문적인 미식 평가자의 조언이 필요하다.",
             "CN": "某食品工厂推出了多款新品，但一直销量不佳。他们需要更加专业的美食评鉴者给予意见。",
             "TW": "某食品工廠推出了多款新品，但一直銷量不佳。他們需要更加專業的美食評鑑者給予意見。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Ignis",
+                "JP": "イグニ",
+                "KO": "이그니스",
+                "CN": "伊格尼",
+                "TW": "伊格尼"
+            }
         }
     },
     "26": {
-        "Id": "1007003",
-        "Rarity": "Blue",
+        "Id": 1007003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Entertainment News",
             "JP": "エンタメニュース",
@@ -483,11 +759,27 @@
             "KO": "수감자 아이돌에 관한 연예 뉴스를 조작하는 파파라치의 행위는 반드시 제지를 받아야 한다.",
             "CN": "狗仔编造了一些禁闭者偶像的娱乐新闻，这种行为必须得到制止。",
             "TW": "狗仔編造了一些禁閉者偶像的娛樂新聞，這種行為必須得到制止。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Ignis",
+                "JP": "イグニ",
+                "KO": "이그니스",
+                "CN": "伊格尼",
+                "TW": "伊格尼"
+            },
+            "Sinner 2": {
+                "EN": "Luvia Ray",
+                "JP": "ルヴィア・レイ",
+                "KO": "루비아.레이",
+                "CN": "露薇娅·蕾",
+                "TW": "露薇婭·蕾"
+            }
         }
     },
     "27": {
-        "Id": "1007004",
-        "Rarity": "Purple",
+        "Id": 1007004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Important Decision",
             "JP": "重大な決定",
@@ -501,11 +793,20 @@
             "KO": "원격으로 조정이 가능하지만 중대한 사건이 발생했을 때 결정자가 직접 나서야 하는 산업들이 있다.",
             "CN": "虽然可以远程控制，但在出现重大事件时，这些产业仍然需要决策者亲自到场。",
             "TW": "雖然可以遠端控制，但在出現重大事件時，這些產業仍然需要決策者親自到場。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Eirene",
+                "JP": "エイレーネー",
+                "KO": "이리나",
+                "CN": "伊琳娜",
+                "TW": "伊琳娜"
+            }
         }
     },
     "28": {
-        "Id": "1008001",
-        "Rarity": "Grey",
+        "Id": 1008001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Efficiency Increase",
             "JP": "効率改善",
@@ -519,11 +820,20 @@
             "KO": "헤스 마을과 주변 위성도시의 농업 채굴 효율을 증가시키기 위해서 더 전문적인 장비와 인재가 필요하다.",
             "CN": "为提升赫斯村，以及一众周边卫星城的农业开采效率，他们需要更专业的设备与人才",
             "TW": "為提升赫斯村，以及諸多周圍衛星城市的農業開採效率，他們需要更專業的設備與人才。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Pepper",
+                "JP": "ペッパー",
+                "KO": "후추",
+                "CN": "胡椒",
+                "TW": "胡椒"
+            }
         }
     },
     "29": {
-        "Id": "1008002",
-        "Rarity": "Green",
+        "Id": 1008002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Interrogation Invitation",
             "JP": "審査の招待",
@@ -537,11 +847,20 @@
             "KO": "심문이 어려운 범인을 맞닥뜨렸을 때, 신성 치안국은 항상 관리국에 협조 요청을 보낸다.",
             "CN": "在遇到难审的犯人时，新城治安局总会向管理局发来协查通告。",
             "TW": "在遇到難審的犯人時，新城治安局總會向管理局發來協查通告。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Chameleon",
+                "JP": "カメリアン",
+                "KO": "카멜리안",
+                "CN": "卡米利安",
+                "TW": "卡米利安"
+            }
         }
     },
     "30": {
-        "Id": "1008003",
-        "Rarity": "Blue",
+        "Id": 1008003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Sandworm Frenzy",
             "JP": "虫群の暴動",
@@ -555,11 +874,27 @@
             "KO": "화이트 샌드의 벌레 떼가 폭동을 일으켰다. 노련한 사냥꾼이 수습해야 하며 폭동이 발생한 원인을 알아낼 수 있으면 더욱 좋을 것 같다.",
             "CN": "白沙之海的沙虫群出现了暴动，我们需要一个老练的猎人来处理，如果能弄清楚这些虫子的暴动原因就更好了。",
             "TW": "白砂之海的沙蟲群出現了暴動，我們需要一個老練的獵人來處理，如果能弄清楚這些蟲子的暴動原因就更好了。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Chameleon",
+                "JP": "カメリアン",
+                "KO": "카멜리안",
+                "CN": "卡米利安",
+                "TW": "卡米利安"
+            },
+            "Sinner 2": {
+                "EN": "Wolverine",
+                "JP": "クズリ",
+                "KO": "울버린",
+                "CN": "狼獾",
+                "TW": "狼獾"
+            }
         }
     },
     "31": {
-        "Id": "1008004",
-        "Rarity": "Purple",
+        "Id": 1008004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Supreme Dance",
             "JP": "極上の舞い",
@@ -573,11 +908,20 @@
             "KO": "최근 디스씨의 괴변체들이 활발해졌다. 특파원들이 이용할 수 있도록 특별자치구에 사람이 없는 통제구역을 개설했다.",
             "CN": "近期内海的死役变得极为活跃，特区已开辟无人的管制区域供特派专员使用。",
             "TW": "近期內海的死役變得極為活躍，特區已開闢無人的管制區域供特派專員使用。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Hamel",
+                "JP": "ハーメル",
+                "KO": "하멜",
+                "CN": "哈梅尔",
+                "TW": "哈梅爾"
+            }
         }
     },
     "32": {
-        "Id": "1009001",
-        "Rarity": "Grey",
+        "Id": 1009001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Legendary Recipe",
             "JP": "伝説の料理",
@@ -591,11 +935,20 @@
             "KO": "분자요리는 이미 디스시티의 대식가들 사이에서 전설이 된지 오래지만, 이 전설은 가끔 재현되기도 한다.",
             "CN": "分子料理早已成为了狄斯城老饕间的都市传说，不过这个传说，偶尔还会再现。",
             "TW": "分子料理早已成為了狄斯城老饕間的都市傳說，不過這個傳說，偶爾還會再現。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Kelvin",
+                "JP": "ケルビン",
+                "KO": "켈빈",
+                "CN": "开尔文",
+                "TW": "開爾文"
+            }
         }
     },
     "33": {
-        "Id": "1009002",
-        "Rarity": "Green",
+        "Id": 1009002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Hospital Woes",
             "JP": "病院の謎",
@@ -609,11 +962,20 @@
             "KO": "벵엔 의과대학 창고가 파괴되고 대량의 약품과 혈액 샘플이 도난당해 즉시 추적이 필요하다.",
             "CN": "班彦医学院的仓库遭人破坏，大量药品及血样被窃，需要立刻追踪线索。",
             "TW": "班彥醫學院的倉庫遭人破壞，大量藥品及血樣被竊，需要立刻追蹤線索。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Victoria",
+                "JP": "ビクトリア",
+                "KO": "빅토리아",
+                "CN": "维多利亚",
+                "TW": "維多利亞"
+            }
         }
     },
     "34": {
-        "Id": "1009003",
-        "Rarity": "Blue",
+        "Id": 1009003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Old Paradeisos House",
             "JP": "上庭旧宅",
@@ -627,11 +989,27 @@
             "KO": "최근 낙원에 먼지로 뒤덮인 낡은 집이 절도를 당했다. 관리국은 관계자를 비밀리 잠입시켜 구체적인 상황을 파악할 것이다.",
             "CN": "上庭一处尘封的旧宅近日受到盗窃，管理局将派出相关人员秘密潜入，了解具体情况。",
             "TW": "上庭一處塵封的舊宅近日遭到盜竊，管理局將派出相關人員秘密潛入，了解具體情況。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Victoria",
+                "JP": "ビクトリア",
+                "KO": "빅토리아",
+                "CN": "维多利亚",
+                "TW": "維多利亞"
+            },
+            "Sinner 2": {
+                "EN": "Cinnabar",
+                "JP": "辰砂",
+                "KO": "시나바",
+                "CN": "辰砂",
+                "TW": "辰砂"
+            }
         }
     },
     "35": {
-        "Id": "1010001",
-        "Rarity": "Grey",
+        "Id": 1010001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Emergency Squad",
             "JP": "緊急チーム",
@@ -645,11 +1023,20 @@
             "KO": "신성의 유명 밴드 기타리스트가 팔뚝 골절로 콘서트에 불참할 수밖에 없는 상황에 부닥쳤다. 주최 측은 마땅한 대역을 원했다.",
             "CN": "新城某知名乐队吉他手因手臂骨折而不得不缺席演唱会，主办方希望能找到一位够格的替补。",
             "TW": "新城某知名樂隊吉他手因手臂骨折而不得不缺席演唱會，主辦方希望能找到一位勝任的替補。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Joan",
+                "JP": "ジョーン",
+                "KO": "조안",
+                "CN": "琼",
+                "TW": "瓊"
+            }
         }
     },
     "36": {
-        "Id": "1010002",
-        "Rarity": "Green",
+        "Id": 1010002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Funding Allocation",
             "JP": "資金の行方",
@@ -663,11 +1050,20 @@
             "KO": "최근 신성 동물원에 알 수 없는 기부금이 접수됐지만, 이 돈은 개인 계좌로 빠져나갔다. 이런 상황에 화가 난 익명의 기부자는 직접 조사하기를 원했다.",
             "CN": "近期新城动物园收到一笔神秘捐赠，但最后该笔资金却落入私人账户。对于这种情况，匿名捐赠者非常生气，希望能亲自调查。",
             "TW": "近期新城動物園收到一筆神秘捐贈，但最後該筆資金卻落入私人帳戶。對於這種情況，匿名捐贈者非常生氣，希望能親自調查。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Countess Chelsea",
+                "JP": "チェルシー伯爵",
+                "KO": "첼시 백작",
+                "CN": "切尔西伯爵",
+                "TW": "切爾西伯爵"
+            }
         }
     },
     "37": {
-        "Id": "1010003",
-        "Rarity": "Blue",
+        "Id": 1010003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Wealth & Power",
             "JP": "富と力",
@@ -681,11 +1077,27 @@
             "KO": "지하 아레나 같은 곳은 돈이 많거나 주먹이 세면 무적이다.",
             "CN": "在地下竞技场这种地方，有钱有拳头就能所向无敌。",
             "TW": "在地下競技場這種地方，有錢有拳頭就能所向無敵。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Countess Chelsea",
+                "JP": "チェルシー伯爵",
+                "KO": "첼시 백작",
+                "CN": "切尔西伯爵",
+                "TW": "切爾西伯爵"
+            },
+            "Sinner 2": {
+                "EN": "Ninety-Nine",
+                "JP": "ナインティナイン",
+                "KO": "나인티나인",
+                "CN": "九十九",
+                "TW": "九十九"
+            }
         }
     },
     "38": {
-        "Id": "1011001",
-        "Rarity": "Grey",
+        "Id": 1011001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Underground Rock",
             "JP": "アングラ・ロック",
@@ -699,11 +1111,20 @@
             "KO": "누군가가 언더그라운드 밴드의 장소를 빌려 금지 물품을 판매하고 있다. 이미 완전한 산업 라인이 형성되어 조사가 시급하다.",
             "CN": "有人借用地下摇滚的场子售卖违禁物品，几乎已经形成了完整产业链，亟需有人前去调查。",
             "TW": "有人借用地下搖滾的場子販售違禁物品，幾乎已經形成了完整產業鏈，亟需有人前去調查。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Joan",
+                "JP": "ジョーン",
+                "KO": "조안",
+                "CN": "琼",
+                "TW": "瓊"
+            }
         }
     },
     "39": {
-        "Id": "1011002",
-        "Rarity": "Green",
+        "Id": 1011002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Undertaker",
             "JP": "葬儀屋",
@@ -712,16 +1133,25 @@
             "TW": "送葬人"
         },
         "DispatchDescription": {
-            "EN": "Someone in Syndicate is using the Undertaker's name to do evil things, igniting the Undertaker's wrath.",
+            "EN": "Someone in Syndicate is using the Undertaker\\'s name to do evil things, igniting the Undertaker\\'s wrath.",
             "JP": "シンジケートには葬儀屋の名を借りて悪事を働く者がおり、ある葬儀屋の怒りは頂点に達した。",
             "KO": "신디케이트에서 누군가가 장의사의 명의로 온갖 나쁜 짓을 저지르고 있다. 이것은 어느 한 장의사의 분노를 제대로 자극했다.",
             "CN": "辛迪加有人借用送葬人的名义为非作歹，这已经点燃了某位送葬人的怒火。",
             "TW": "辛迪加有人借用送葬人的名義為非作歹，這已經點燃了某位送葬人的怒火。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Wendy",
+                "JP": "ウェンディ",
+                "KO": "웬디",
+                "CN": "温蒂",
+                "TW": "溫蒂"
+            }
         }
     },
     "40": {
-        "Id": "1011003",
-        "Rarity": "Blue",
+        "Id": 1011003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Crazed",
             "JP": "狂気",
@@ -735,11 +1165,27 @@
             "KO": "디스씨 주변에 대규모 괴변군이 나타났다. 어느 정도 광기를 가진 조합의 제압이 필요하다.",
             "CN": "内海边缘出现了大规模的死役群，这需要一些足够疯狂的组合来压制消灭。",
             "TW": "內海邊緣出現了大規模的死役群，這需要一些足夠瘋狂的組合來壓制消滅。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Wendy",
+                "JP": "ウェンディ",
+                "KO": "웬디",
+                "CN": "温蒂",
+                "TW": "溫蒂"
+            },
+            "Sinner 2": {
+                "EN": "Roulecca",
+                "JP": "ルリエカ",
+                "KO": "로레카",
+                "CN": "露莉艾卡",
+                "TW": "露莉艾卡"
+            }
         }
     },
     "41": {
-        "Id": "1012001",
-        "Rarity": "Grey",
+        "Id": 1012001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Product Endorsement",
             "JP": "イメージキャラクター",
@@ -753,11 +1199,20 @@
             "KO": "한 신개념 주방기구 제조업체는 광고 모델로 유명한 셰프를 찾고 싶어 한다.",
             "CN": "某新概念厨具厂商希望找到一位足够出名的大厨来代言自己的产品。",
             "TW": "某新概念廚具廠商希望找到一位足夠出名的大廚來代言自己的產品。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Kelvin",
+                "JP": "ケルビン",
+                "KO": "켈빈",
+                "CN": "开尔文",
+                "TW": "開爾文"
+            }
         }
     },
     "42": {
-        "Id": "1012002",
-        "Rarity": "Green",
+        "Id": 1012002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Natural Spy",
             "JP": "天性のスパイ",
@@ -771,11 +1226,20 @@
             "KO": "어떤 기밀 등급이 높은 감시 업무는 변장에 관한 기술 요구가 매우 높다.",
             "CN": "某些密级较高的监视任务对变装易容的技术要求非常高。",
             "TW": "某些機密較高的監視任務對變裝易容的技術要求非常高。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Pricilla",
+                "JP": "プリシラ",
+                "KO": "프리실라",
+                "CN": "普希拉",
+                "TW": "普希拉"
+            }
         }
     },
     "43": {
-        "Id": "1012003",
-        "Rarity": "Blue",
+        "Id": 1012003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Phantom Thief Debut",
             "JP": "義賊登場！",
@@ -789,11 +1253,27 @@
             "KO": "어떤 유명 괴도 단체를 모방하는 모방범이 나타났다. 이것은 누군가에게는 도저히 용납할 수 없는 일이다.",
             "CN": "某知名侠盗团体出现了模仿犯！对于某些人来说，这种情况完全无法容忍。",
             "TW": "某知名俠盜團體出現了模仿犯！對於某些人來說，這種情況完全無法容忍。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Pricilla",
+                "JP": "プリシラ",
+                "KO": "프리실라",
+                "CN": "普希拉",
+                "TW": "普希拉"
+            },
+            "Sinner 2": {
+                "EN": "Tetra",
+                "JP": "テトラ",
+                "KO": "테트라",
+                "CN": "泰特拉",
+                "TW": "泰特拉"
+            }
         }
     },
     "44": {
-        "Id": "1013001",
-        "Rarity": "Grey",
+        "Id": 1013001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Not A Weed",
             "JP": "野草ならぬ",
@@ -802,16 +1282,25 @@
             "TW": "並非野草"
         },
         "DispatchDescription": {
-            "EN": "An edible desert plant is growing successfully in the Bureau's green belt. Try planting in the experimental field in WhiteSands.",
+            "EN": "An edible desert plant is growing successfully in the Bureau\\'s green belt. Try planting in the experimental field in WhiteSands.",
             "JP": "管理局の緑地で、食用可能な砂漠植物が育てられている。砂の海の実験畑に植えてみてはどうだろうか。",
             "KO": "관리국의 녹지에는 먹을 수 있는 사막 식물이 한 그루 심어져 있는데, 아마도 화이트 샌드의 실험용 밭에 심어 볼 수 있을 것 같다.",
             "CN": "管理局的绿地里种出了一棵可食用的沙漠植物，或许可以在砂海上的实验田里试种一下。",
             "TW": "管理局的綠地裡種出了一棵可食用的沙漠植物，或許可以在砂海上的實驗田裡試種一下。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Pepper",
+                "JP": "ペッパー",
+                "KO": "후추",
+                "CN": "胡椒",
+                "TW": "胡椒"
+            }
         }
     },
     "45": {
-        "Id": "1013002",
-        "Rarity": "Green",
+        "Id": 1013002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Ikebana Exchange",
             "JP": "華道交流",
@@ -825,11 +1314,20 @@
             "KO": "신성 최고 수준의 화도 교류회에서 한 수감자에게 출석 초대를 보냈다. 그는 신성의 가장 인기 있는 화도 전문가이기 때문이다.",
             "CN": "新城最高水平的花道交流会邀请了一位禁闭者出席——毕竟她也是新城最炙手可热的花道大家。",
             "TW": "新城最高水準的花道交流會邀請了一位禁閉者出席——畢竟她也是新城最炙手可熱的花道大家。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Sumire",
+                "JP": "菫",
+                "KO": "진",
+                "CN": "堇",
+                "TW": "堇"
+            }
         }
     },
     "46": {
-        "Id": "1013003",
-        "Rarity": "Blue",
+        "Id": 1013003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Upper Class",
             "JP": "上流",
@@ -843,11 +1341,27 @@
             "KO": "관리국은 상류 연회를 감시해야 한다. 모든 참여자가 부귀의 상징이기 때문에 더욱 조심해야 한다.",
             "CN": "管理局需要监控一场上流宴会，参与者非富即贵，必须倍加小心。",
             "TW": "管理局需要監控一場上流宴會，參與者非富即貴，必須倍加小心。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Sumire",
+                "JP": "菫",
+                "KO": "진",
+                "CN": "堇",
+                "TW": "堇"
+            },
+            "Sinner 2": {
+                "EN": "Ariel",
+                "JP": "アリエル",
+                "KO": "아리엘",
+                "CN": "艾瑞尔",
+                "TW": "艾瑞爾"
+            }
         }
     },
     "47": {
-        "Id": "1014001",
-        "Rarity": "Grey",
+        "Id": 1014001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Counterfeit Scandal",
             "JP": "贋作の謎",
@@ -861,11 +1375,20 @@
             "KO": "어느 한 대형 경매사의 경매 물건이 모두 위조품으로 교체됐다. 관련 세부 사항은 전담자의 조사가 필요하다.",
             "CN": "一家大型拍卖公司的拍品全部被替换成了赝品，相关细节还需要专人调查。",
             "TW": "一家大型拍賣公司的拍賣品全部被替換成了贗品，相關細節還需要專人調查。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Lisa",
+                "JP": "リザー",
+                "KO": "리사",
+                "CN": "丽莎",
+                "TW": "麗莎"
+            }
         }
     },
     "48": {
-        "Id": "1014002",
-        "Rarity": "Green",
+        "Id": 1014002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Dream Interpretation",
             "JP": "夢の解析",
@@ -879,11 +1402,20 @@
             "KO": "신성 일부 지역 주민들은 악몽을 자주꾼다. 구체적인 원인을 철저히 조사해야 한다.",
             "CN": "新城一些区域的居民经常做噩梦，需要查清具体原因。",
             "TW": "新城一些區域的居民經常做惡夢，需要查明具體原因。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Hecate",
+                "JP": "ヘカテー",
+                "KO": "헤카테",
+                "CN": "赫卡蒂",
+                "TW": "赫卡蒂"
+            }
         }
     },
     "49": {
-        "Id": "1014003",
-        "Rarity": "Blue",
+        "Id": 1014003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Ominous Playground",
             "JP": "曇りの遊園地",
@@ -897,15 +1429,31 @@
             "KO": "어느 한 놀이동산 근처에서 심상치 않은 방사선이 감지되었다. 전문가를 파견하여 처리해야 한다.",
             "CN": "某游乐场附近监测到异常辐射，需要专业人士前去处理。",
             "TW": "某遊樂場附近監測到異常輻射，需要專業人士前去處理。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Hecate",
+                "JP": "ヘカテー",
+                "KO": "헤카테",
+                "CN": "赫卡蒂",
+                "TW": "赫卡蒂"
+            },
+            "Sinner 2": {
+                "EN": "Pacassi",
+                "JP": "ペガシ",
+                "KO": "파카시",
+                "CN": "帕加茜",
+                "TW": "帕加茜"
+            }
         }
     },
     "50": {
-        "Id": "1015001",
-        "Rarity": "Grey",
+        "Id": 1015001,
+        "Quality": "Grey",
         "DispatchTitle": {
-            "EN": "\\\"Hidden\\\" Masses",
+            "EN": "\\\\\"Hidden\\\\\" Masses",
             "JP": "「潜伏」民衆",
-            "KO": "'잠복' 군중",
+            "KO": "\\'잠복\\' 군중",
             "CN": "“潜伏”群众",
             "TW": "「潛伏」群眾"
         },
@@ -915,11 +1463,20 @@
             "KO": "가장 검소한 태도로 신디케이트에 잠입한 후, 주변의 일거일동을 감시한다. 이런 일상적인 임무는 역시 신디케이트 현지인에게 적합하다.",
             "CN": "以最朴实的态度融入到辛迪加，时刻警惕周围的风吹草动，这种日常监视很适合辛迪加的本地人。",
             "TW": "以最樸實的態度融入到辛迪加，時刻警惕周圍的風吹草動，這種日常監視很適合辛迪加的本地人。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Demolia",
+                "JP": "デモーリー",
+                "KO": "데몰리아",
+                "CN": "德莫莉",
+                "TW": "德莫莉"
+            }
         }
     },
     "51": {
-        "Id": "1015002",
-        "Rarity": "Green",
+        "Id": 1015002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Old Hunter",
             "JP": "ベテランハンター",
@@ -933,11 +1490,20 @@
             "KO": "최근 러스트 리버에 새로운 품종의 야생생물이 목격됐다는 제보가 있다. 괴변이나 다른 변이 괴물이 아닌 것을 확인하기 위해 전문가가 가서 출처를 확인해야 한다.",
             "CN": "最近锈河出现了一些新品种野生生物的目击报告，为了确定并非死役或是其他异变怪物，需要专业人士前去确定来源。",
             "TW": "最近鏽河出現了一些新品種野生生物的目擊報告，為了確定並非死役或是其他異變怪物，需要專業人士前去確定來源。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Wolverine",
+                "JP": "クズリ",
+                "KO": "울버린",
+                "CN": "狼獾",
+                "TW": "狼獾"
+            }
         }
     },
     "52": {
-        "Id": "1015003",
-        "Rarity": "Blue",
+        "Id": 1015003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Missing Pets",
             "JP": "ペット失踪事件",
@@ -951,11 +1517,27 @@
             "KO": "신성에서 다수의 반려동물 실종 사건이 발생했다. 반려동물 찾기와 범인 찾기를 동시에 진행해야 한다.",
             "CN": "新城出现了多项宠物失踪案，寻找宠物和寻找犯人将同时进行。",
             "TW": "新城出現了多項寵物失蹤案，尋找寵物和尋找犯人將同時進行。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Wolverine",
+                "JP": "クズリ",
+                "KO": "울버린",
+                "CN": "狼獾",
+                "TW": "狼獾"
+            },
+            "Sinner 2": {
+                "EN": "Countess Chelsea",
+                "JP": "チェルシー伯爵",
+                "KO": "첼시 백작",
+                "CN": "切尔西伯爵",
+                "TW": "切爾西伯爵"
+            }
         }
     },
     "53": {
-        "Id": "1016001",
-        "Rarity": "Grey",
+        "Id": 1016001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Training Exchange",
             "JP": "訓練交流",
@@ -969,11 +1551,20 @@
             "KO": "FAC 본부는 관리국에 교류 학습 통지를 알렸다. 여러 수감자는 이에 대해 코웃음을 쳤다.",
             "CN": "FAC总部向管理局发布了交流学习的通知，许多禁闭者都对此嗤之以鼻。",
             "TW": "FAC總部向管理局發佈了交流學習的通知，許多禁閉者都對此嗤之以鼻。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Flora",
+                "JP": "フローラ",
+                "KO": "플로라",
+                "CN": "芙洛拉",
+                "TW": "芙洛拉"
+            }
         }
     },
     "54": {
-        "Id": "1016002",
-        "Rarity": "Green",
+        "Id": 1016002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Haunted Film Crew",
             "JP": "幽霊劇団",
@@ -987,11 +1578,20 @@
             "KO": "제작 현장에 귀신이 나타난다는 소문이 떠돌고 있다. 우리는 비디오에 담긴 내용에 따라 관련 정보를 통제해야 한다.",
             "CN": "一家剧组流传着闹鬼的传说，根据获得的录像，我们将对相关信息进行管制。",
             "TW": "一家劇組流傳著鬧鬼的傳說，根據獲得的影像，我們將對相關資訊進行管制。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Luvia Ray",
+                "JP": "ルヴィア・レイ",
+                "KO": "루비아.레이",
+                "CN": "露薇娅·蕾",
+                "TW": "露薇婭·蕾"
+            }
         }
     },
     "55": {
-        "Id": "1016003",
-        "Rarity": "Blue",
+        "Id": 1016003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Psychotherapy",
             "JP": "心理治療",
@@ -1005,11 +1605,27 @@
             "KO": "어느 한 심리치료실에서 환자를 구금하는 경우가 있다고 한다. 엘리트 팀을 보내 조사를 진행해야 한다.",
             "CN": "某心理治疗室据称有囚禁病人的情况，我们将派出最精锐的队伍前往调查。",
             "TW": "某心理治療室據稱有囚禁病人的情況，我們將派出最精銳的隊伍前往調查。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Luvia Ray",
+                "JP": "ルヴィア・レイ",
+                "KO": "루비아.레이",
+                "CN": "露薇娅·蕾",
+                "TW": "露薇婭·蕾"
+            },
+            "Sinner 2": {
+                "EN": "Chameleon",
+                "JP": "カメリアン",
+                "KO": "카멜리안",
+                "CN": "卡米利安",
+                "TW": "卡米利安"
+            }
         }
     },
     "56": {
-        "Id": "1017001",
-        "Rarity": "Grey",
+        "Id": 1017001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Maid Café",
             "JP": "メイド喫茶",
@@ -1023,11 +1639,20 @@
             "KO": "관리국의 많은 위장용 산업 중 가장 이해하기 어려운 것은 틀림없이 메이드 카페이다.",
             "CN": "在管理局用作伪装的大量产业中，女仆咖啡厅毫无疑问是其中最奇怪的。",
             "TW": "在管理局用作偽裝的大量產業中，女僕咖啡廳毫無疑問是其中最奇怪的。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Labyrinth",
+                "JP": "ラビリンス",
+                "KO": "레버린스",
+                "CN": "雷比尼斯",
+                "TW": "雷比尼斯"
+            }
         }
     },
     "57": {
-        "Id": "1017002",
-        "Rarity": "Green",
+        "Id": 1017002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Professional Nursing",
             "JP": "看護のプロ",
@@ -1041,11 +1666,20 @@
             "KO": "디스시티는 부상자가 수없이 많다. 이는 의료진이 항상 최고의 파견 수당을 받을 수 있는 보장이다.",
             "CN": "狄斯城永远不缺伤员，这也保证了医护组总能拿到最高的派遣补贴。",
             "TW": "狄斯城永遠不缺傷患，這也保證了醫護組總能拿到最高的派遣補貼。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Anne",
+                "JP": "アン",
+                "KO": "앤",
+                "CN": "安",
+                "TW": "安"
+            }
         }
     },
     "58": {
-        "Id": "1017003",
-        "Rarity": "Blue",
+        "Id": 1017003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Pharmaceutical Research",
             "JP": "新薬開発",
@@ -1059,11 +1693,27 @@
             "KO": "벵엔 의과대학과 구원 병원의 협업이 질서 있게 추진되고 있다. 관련 기술 자료가 반드시 철저한 보호를 받아야 한다.",
             "CN": "与班彦医学院及彼岸的合作有序推进，相关技术资料必须要得到严密保护。",
             "TW": "與班彥醫學院及彼岸的合作有序推進，相關技術資料必須要得到嚴密保護。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Anne",
+                "JP": "アン",
+                "KO": "앤",
+                "CN": "安",
+                "TW": "安"
+            },
+            "Sinner 2": {
+                "EN": "Victoria",
+                "JP": "ビクトリア",
+                "KO": "빅토리아",
+                "CN": "维多利亚",
+                "TW": "維多利亞"
+            }
         }
     },
     "59": {
-        "Id": "1018001",
-        "Rarity": "Grey",
+        "Id": 1018001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Guest Judge",
             "JP": "ゲスト審査員",
@@ -1077,11 +1727,20 @@
             "KO": "예정된 신디케이트 래퍼들의 대결을 위해 치안국에서는 전문 평가위원을 특별히 초청했다.",
             "CN": "辛迪加的说唱歌手们要展开一场盛大的对决，为此治安局特别邀请了一名专业评委。",
             "TW": "辛迪加的說唱歌手們要展開一場盛大的對決，為此治安局特別邀請了一名專業評委。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Peggy",
+                "JP": "ペギー",
+                "KO": "페기",
+                "CN": "佩姬",
+                "TW": "佩姬"
+            }
         }
     },
     "60": {
-        "Id": "1018002",
-        "Rarity": "Green",
+        "Id": 1018002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Judgment Mystery",
             "JP": "裁判の謎",
@@ -1095,11 +1754,20 @@
             "KO": "최근 신성 법원을 고소하는 사례가 잇따르며 변호사와 판사들이 억울한 사건에 대해 피의 대가를 치르도록 해야 한다는 주장까지 제기되기도 했다. 내무부는 해당 정보에 흥미를 느꼈다.",
             "CN": "新城法院近期遭到了许多投诉，甚至有人宣称要让那些律师和法官为冤案付出血的代价，内务部对这个信息很感兴趣。",
             "TW": "新城法院近期遭到了許多投訴，甚至有人宣稱要讓那些律師和法官為冤案付出血的代價，內務部對這個資訊很感興趣。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Mr. Fox",
+                "JP": "Mr.Fox",
+                "KO": "Mr.Fox",
+                "CN": "福克斯先生",
+                "TW": "Mr.Fox"
+            }
         }
     },
     "61": {
-        "Id": "1018003",
-        "Rarity": "Blue",
+        "Id": 1018003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "The Rust Injunction",
             "JP": "錆の川禁令",
@@ -1108,16 +1776,32 @@
             "TW": "鏽河禁令"
         },
         "DispatchDescription": {
-            "EN": "The recent surge in stowaways along the Rust has prompted the Eastside Public Security Bureau to find out who's behind the phenomenon.",
+            "EN": "The recent surge in stowaways along the Rust has prompted the Eastside Public Security Bureau to find out who\\'s behind the phenomenon.",
             "JP": "最近、錆の川からの密入者が急増しており、ニューシティ治安局はその背後にいる組織を見つけようとしている。",
             "KO": "최근 밀입국자가 급증하자 러스트 리버는 배후의 조직을 찾아내려고 한다.",
             "CN": "近期锈河里的偷渡客数量激增，新城治安局想要找出背后运作此事的组织。",
             "TW": "近期鏽河裡的偷渡客數量激增，新城治安局想要找出背後運作此事的組織。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Mr. Fox",
+                "JP": "Mr.Fox",
+                "KO": "Mr.Fox",
+                "CN": "福克斯先生",
+                "TW": "Mr.Fox"
+            },
+            "Sinner 2": {
+                "EN": "Dolly",
+                "JP": "ドリー",
+                "KO": "돌리",
+                "CN": "多莉",
+                "TW": "多莉"
+            }
         }
     },
     "62": {
-        "Id": "1018004",
-        "Rarity": "Purple",
+        "Id": 1018004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Yagyu Anomaly",
             "JP": "柳生の異常行動",
@@ -1126,16 +1810,25 @@
             "TW": "柳生異動"
         },
         "DispatchDescription": {
-            "EN": "There has been a huge inflow of funds into Yagyu's accounts. According to relevant intelligence, they are trying to launch a new \\\"hunt\\\" and must be stopped.",
+            "EN": "There has been a huge inflow of funds into Yagyu\\'s accounts. According to relevant intelligence, they are trying to launch a new \\\\\"hunt\\\\\" and must be stopped.",
             "JP": "柳生株式会社の口座に巨額の資金が流入している。情報によると、彼らは新たな「狩猟」を展開しようとしているそうだ。あいつらの行動を止めなければならない。",
-            "KO": "야나기 그룹의 장부에 거액의 자금이 유입되고 있다는 첩보에 따라 새로운 '사냥'을 시도하고 있다. 반드시 막아야 한다.",
+            "KO": "야나기 그룹의 장부에 거액의 자금이 유입되고 있다는 첩보에 따라 새로운 \\'사냥\\'을 시도하고 있다. 반드시 막아야 한다.",
             "CN": "柳生会社账面上出现了巨额资金流入，根据相关情报，他们正试图展开一场新的“狩猎”，这种行为必须被阻止。",
             "TW": "柳生會社帳面上出現了巨額資金流入，根據相關情報，他們正試圖展開一場新的「狩獵」，這種行為必須被阻止。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Crache",
+                "JP": "コージ",
+                "KO": "코히",
+                "CN": "科希",
+                "TW": "科希"
+            }
         }
     },
     "63": {
-        "Id": "1019001",
-        "Rarity": "Grey",
+        "Id": 1019001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Real vs. Fake Whitestone",
             "JP": "白記の真偽",
@@ -1149,11 +1842,20 @@
             "KO": "신디케이트에 새로 생긴 백기 그룹의 위탁 업무가 성행하고 있다. 이에 한 정품 브랜드의 백 사장이 크게 분개했다.",
             "CN": "辛迪加出现了一家新的白记公司，委托业务开展得红红火火，这让某位正牌的白老板大为气愤。",
             "TW": "辛迪加出現了一家新的白記公司，委託業務開展得如火如荼，這讓某位正牌的白老闆大為氣憤。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Che",
+                "JP": "澈",
+                "KO": "치이",
+                "CN": "澈",
+                "TW": "澈"
+            }
         }
     },
     "64": {
-        "Id": "1019002",
-        "Rarity": "Green",
+        "Id": 1019002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Ad Invitation",
             "JP": "広告招待",
@@ -1167,11 +1869,20 @@
             "KO": "디스 프로덕트는 스포츠 기자재 산업에 뛰어들고자 관리국에 광고 촬영 의향서를 보내며 거액의 계약금을 주었다.",
             "CN": "狄斯优品公司想要进军体育器材行业，他们给管理局发了一份广告拍摄的意向书，并附赠了一大笔意向金。",
             "TW": "狄斯優品公司想要進軍體育器材行業，他們給管理局發了一份廣告拍攝的意向書，並附贈了一大筆意向金。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Dolly",
+                "JP": "ドリー",
+                "KO": "돌리",
+                "CN": "多莉",
+                "TW": "多莉"
+            }
         }
     },
     "65": {
-        "Id": "1019003",
-        "Rarity": "Blue",
+        "Id": 1019003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Formal Cooperation",
             "JP": "正式連携",
@@ -1185,11 +1896,27 @@
             "KO": "디스 프로덕트는 관리국과 정식 협력 조약을 체결할 준비를 했지만, 조약 내 배분 비율에 대해 관리국은 다른 의견을 가지고 있었다.",
             "CN": "狄斯优品公司准备和管理局正式签订合作条约，但对于条约里的分成比例，管理局有些不同意见。",
             "TW": "狄斯優品公司準備和管理局正式簽訂合作條約，但對於條約裡的分成比例，管理局有些不同意見。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Dolly",
+                "JP": "ドリー",
+                "KO": "돌리",
+                "CN": "多莉",
+                "TW": "多莉"
+            },
+            "Sinner 2": {
+                "EN": "Mr. Fox",
+                "JP": "Mr.Fox",
+                "KO": "Mr.Fox",
+                "CN": "福克斯先生",
+                "TW": "Mr.Fox"
+            }
         }
     },
     "66": {
-        "Id": "1019004",
-        "Rarity": "Purple",
+        "Id": 1019004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Tide of Ashes",
             "JP": "灰の潮",
@@ -1198,16 +1925,25 @@
             "TW": "灰燼之潮"
         },
         "DispatchDescription": {
-            "EN": "Abnormal fluctuations have appeared in this cycle's Tide of Ashes. The Secret Society Matrix wants to discover the reason behind this phenomenon.",
+            "EN": "Abnormal fluctuations have appeared in this cycle\\'s Tide of Ashes. The Secret Society Matrix wants to discover the reason behind this phenomenon.",
             "JP": "今期の灰の潮に異常が現れ、秘盟マトリックスは原因を明らかにしようとしている。",
             "KO": "이번 주기의 잿더미의 파도가 이상 파동을 보이자 매트릭스는 배후의 원인을 규명하고자 했다.",
             "CN": "本周期的灰烬之潮出现了一些异常波动，秘盟矩阵想要查明背后的原因。",
             "TW": "本週期的灰燼之潮出現了一些異常波動，秘盟矩陣想要查明背後的原因。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Stargazer",
+                "JP": "スターゲイザー",
+                "KO": "점성가",
+                "CN": "观星者",
+                "TW": "觀星者"
+            }
         }
     },
     "67": {
-        "Id": "1020001",
-        "Rarity": "Grey",
+        "Id": 1020001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Security Test",
             "JP": "セキュリティテスト",
@@ -1221,11 +1957,20 @@
             "KO": "최근 갱신된 보안 시스템을 테스트하고 싶었던 낙원의 어느 가문은 사적으로 관리국을 찾았다.",
             "CN": "上庭里某家族想要测试他们最近更新的安保系统，通过私人关系找到了管理局。",
             "TW": "上庭裡某家族想要測試他們最近更新的保全系統，透過私人關係找到了管理局。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Gekkabijin",
+                "JP": "ゲツライコウ",
+                "KO": "월하미인",
+                "CN": "昙",
+                "TW": "曇"
+            }
         }
     },
     "68": {
-        "Id": "1020002",
-        "Rarity": "Green",
+        "Id": 1020002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Field Rescue",
             "JP": "戦場救援",
@@ -1239,11 +1984,20 @@
             "KO": "디스씨에서 많은 괴변이 발생함에 따라 의료진의 스트레스가 극한에 달하자, 디스씨특별자치구는 도시 전체에 구조 명령을 내렸다.",
             "CN": "内海出现了大批死役，医护人员的压力濒临极限，内海特区为此向全城发布了救援令。",
             "TW": "內海出現了大批死役，醫護人員的壓力瀕臨極限，內海特區為此向全城發佈了救援令。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Iron",
+                "JP": "アイン",
+                "KO": "아이언",
+                "CN": "艾恩",
+                "TW": "艾恩"
+            }
         }
     },
     "69": {
-        "Id": "1020003",
-        "Rarity": "Blue",
+        "Id": 1020003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Physical & Mental Health",
             "JP": "心身の健康",
@@ -1257,11 +2011,27 @@
             "KO": "만령회가 시체를 어떻게 조종할 것인가를 연구하고 있는 것 같다. 디스인들의 심신건강을 위해 관리국이 미리 움직여야 한다.",
             "CN": "万灵会似乎在研究如何操纵尸体，为了狄斯人的身心健康，管理局必须提前行动。",
             "TW": "萬靈會似乎在研究如何操縱屍體，為了狄斯人的身心健康，管理局必須提前行動。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Iron",
+                "JP": "アイン",
+                "KO": "아이언",
+                "CN": "艾恩",
+                "TW": "艾恩"
+            },
+            "Sinner 2": {
+                "EN": "Oliver",
+                "JP": "オリバー",
+                "KO": "올리버",
+                "CN": "奥利弗",
+                "TW": "奧利弗"
+            }
         }
     },
     "70": {
-        "Id": "1021001",
-        "Rarity": "Grey",
+        "Id": 1021001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Spy",
             "JP": "スパイ",
@@ -1275,11 +2045,20 @@
             "KO": "관리국에서 모 기업에 잠복시킨 스파이가 의문스럽게 실종되었다. 은밀한 조사를 위해 첩보 요원을 파견할 수도 있을 것이다.",
             "CN": "管理局潜伏在某商业公司的线人神秘失踪，或许可以派出一名伪装者来进行暗中调查。",
             "TW": "管理局潛伏在某商業公司的線人神秘失蹤，或許可以派出一名偽裝者來進行暗中調查。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Macchiato",
+                "JP": "マキアート",
+                "KO": "마키아토",
+                "CN": "玛奇朵",
+                "TW": "瑪奇朵"
+            }
         }
     },
     "71": {
-        "Id": "1021002",
-        "Rarity": "Green",
+        "Id": 1021002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Curiosity",
             "JP": "好奇心",
@@ -1293,11 +2072,20 @@
             "KO": "신성에 일련의 사기 사건이 발생했다. 신성 복지재단의 고아들과 관련이 있다고 알려져 누군가의 관심을 끌었다.",
             "CN": "新城出现了一连串的诈骗案，据传和新城福利院里的孤儿有关，有人对这个传闻很感兴趣。",
             "TW": "新城出現了一連串的詐騙案，據傳和新城育幼院裡的孤兒有關，有人對這個傳聞很感興趣。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Oliver",
+                "JP": "オリバー",
+                "KO": "올리버",
+                "CN": "奥利弗",
+                "TW": "奧利弗"
+            }
         }
     },
     "72": {
-        "Id": "1021003",
-        "Rarity": "Blue",
+        "Id": 1021003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Toy Puppet",
             "JP": "傀儡人形",
@@ -1311,11 +2099,27 @@
             "KO": "러스트 리버 지대에 생명이 있는 꼭두각시 장난감이 나타났다는 소문이 돌고 있다. 관리국은 해당 정보의 진위를 확인해야 한다.",
             "CN": "传说锈河地带出现了一些有生命的玩具傀儡，管理局需要确定这一情报的真实性。",
             "TW": "傳說鏽河地帶出現了一些有生命的玩具傀儡，管理局需要確定這一情報的真實性。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Oliver",
+                "JP": "オリバー",
+                "KO": "올리버",
+                "CN": "奥利弗",
+                "TW": "奧利弗"
+            },
+            "Sinner 2": {
+                "EN": "Iron",
+                "JP": "アイン",
+                "KO": "아이언",
+                "CN": "艾恩",
+                "TW": "艾恩"
+            }
         }
     },
     "73": {
-        "Id": "1022001",
-        "Rarity": "Grey",
+        "Id": 1022001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Literacy Courses",
             "JP": "教養授業",
@@ -1329,11 +2133,20 @@
             "KO": "관리국은 원활한 임무 수행을 위해 일부 수감자들을 위한 기초 교양 수업을 특별히 개설했다.",
             "CN": "为了更好地执行各类任务，管理局为某些禁闭者特别开设了基础的文化课。",
             "TW": "為了更有餘裕地執行各類任務，管理局為某些禁閉者特別開設了基礎的文化課程。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Horo",
+                "JP": "ホロ",
+                "KO": "히로",
+                "CN": "赫罗",
+                "TW": "赫羅"
+            }
         }
     },
     "74": {
-        "Id": "1022002",
-        "Rarity": "Green",
+        "Id": 1022002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Study Group",
             "JP": "学習グループ",
@@ -1342,16 +2155,25 @@
             "TW": "學習小組"
         },
         "DispatchDescription": {
-            "EN": "In the Bureau's special training sessions, Sinners form one-on-one study groups and help each other in their areas of strength.",
+            "EN": "In the Bureau\\'s special training sessions, Sinners form one-on-one study groups and help each other in their areas of strength.",
             "JP": "管理局の特別訓練では、コンビクトたちが1対1の学習グループを作り、それぞれの得意分野で助け合う。",
             "KO": "관리국의 특별 교육에 따라 수감자들은 각자의 특기를 사용해 서로를 돕는 1대1 스터디 그룹을 형성할 것이다.",
             "CN": "在管理局的特别培训中，禁闭者们会组成一对一的学习小组，在各自的优势领域互相帮助。",
             "TW": "在管理局的特別培訓中，禁閉者們會組成一對一的學習小組，在各自的優勢領域互相幫助。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Kawa-kawa",
+                "JP": "カワカワ",
+                "KO": "카와카와",
+                "CN": "卡瓦卡瓦",
+                "TW": "卡瓦卡瓦"
+            }
         }
     },
     "75": {
-        "Id": "1023001",
-        "Rarity": "Grey",
+        "Id": 1023001,
+        "Quality": "Grey",
         "DispatchTitle": {
             "EN": "Guiding Beacon",
             "JP": "ビーコン",
@@ -1365,11 +2187,20 @@
             "KO": "니르바나 운수는 화이트 샌드의 비콘 네트워크를 완비하고 선박에 정확한 안내를 제공하기 위해 관리국과 심도 깊게 협력하고 있다.",
             "CN": "涅槃运输希望完善砂海内的信标网络，为砂海航船提供最精确的引导，为此与管理局进行了深度合作。",
             "TW": "涅槃運輸希望完善砂海內的信標網路，為砂海航船提供最精確的引導，為此與管理局進行了深度合作。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Kawa-kawa",
+                "JP": "カワカワ",
+                "KO": "카와카와",
+                "CN": "卡瓦卡瓦",
+                "TW": "卡瓦卡瓦"
+            }
         }
     },
     "76": {
-        "Id": "1023002",
-        "Rarity": "Green",
+        "Id": 1023002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "WhiteSands Search",
             "JP": "砂の海の追跡",
@@ -1383,11 +2214,20 @@
             "KO": "갑작스러운 모래 폭풍으로 니르바나 운수의 배 여러 척이 실종되었다. 그들을 찾아 안전하게 데려올 수 있기를 희망하고 있다.",
             "CN": "一场突如其来的沙尘暴致使涅槃运输多艘砂船失踪，我们希望能找到他们，并将其安全带回。",
             "TW": "一場突如其來的沙塵暴致使涅槃運輸多艘砂船失蹤，我們希望能找到他們，並將其安全帶回。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Horo",
+                "JP": "ホロ",
+                "KO": "히로",
+                "CN": "赫罗",
+                "TW": "赫羅"
+            }
         }
     },
     "77": {
-        "Id": "1024001",
-        "Rarity": "Purple",
+        "Id": 1024001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Ornamental Snake At Large",
             "JP": "観賞用ヘビ脱走事件",
@@ -1401,11 +2241,20 @@
             "KO": "신성의 어느 동물원에서 사육하던 관상용 뱀이 탈출해 사람을 해쳐 시민들이 공포에 떨고 있다. 최대한 빨리 뱀을 포획하기 위해 치안국은 뱀의 습성을 잘 아는 전문가의 협조가 절실한 상황이다.",
             "CN": "新城一动物园内饲养的观赏蛇逃逸伤人，造成了市民恐慌。为了尽快将其抓捕，治安局急需熟悉蛇类习性的专业人士进行协助。",
             "TW": "新城一動物園內飼養的觀賞蛇逃逸傷人，造成了市民恐慌。為了盡快將其抓捕，治安局急需熟悉蛇類習性的專業人士進行協助。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Serpent",
+                "JP": "ナチャ",
+                "KO": "나챠",
+                "CN": "娜恰",
+                "TW": "娜恰"
+            }
         }
     },
     "78": {
-        "Id": "1024002",
-        "Rarity": "Green",
+        "Id": 1024002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Crackdown on Counterfeiting",
             "JP": "偽物撲滅",
@@ -1414,16 +2263,25 @@
             "TW": "打假"
         },
         "DispatchDescription": {
-            "EN": "A novice Eastside blacksmith claims to be the apprentice of the city's top weaponsmith, luring in numerous clients with that title. This greatly vexes the top weaponsmith of Eastside who's never taken any apprentices.",
+            "EN": "A novice Eastside blacksmith claims to be the apprentice of the city\\'s top weaponsmith, luring in numerous clients with that title. This greatly vexes the top weaponsmith of Eastside who\\'s never taken any apprentices.",
             "JP": "自称「ニューシティ最高の武器職人の弟子」であるニューシティの新人鍛冶屋が、多くの客を引きつけている。そのことに対し、これまで一度も弟子をとったことのないニューシティ最高の武器職人本人が、ひどく怒っている。",
             "KO": "신성의 신인 단조사가 자신이 신성 제일 단조사를 스승으로 모셨다고 주장하여 많은 사람이 그 소문을 듣고 신인을 찾으러 갔다. 그러나 한 번도 제자를 둔 적 없었던 신성 제일 단조사는 화가 잔뜩 났다.",
             "CN": "一名新城的新人锻造师自称师承新城第一武器工匠，引得不少人慕名而去，此事让从未收过徒的新城第一武器工匠本人气得不轻。",
             "TW": "一名新城的新人鍛造師自稱師承新城第一武器工匠，引得不少人慕名而去，此事讓從未收過徒的新城第一武器工匠本人氣得不輕。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Mess",
+                "JP": "メイス",
+                "KO": "메스",
+                "CN": "莓丝",
+                "TW": "莓絲"
+            }
         }
     },
     "79": {
-        "Id": "1024003",
-        "Rarity": "Blue",
+        "Id": 1024003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Limited Edition",
             "JP": "限定発売",
@@ -1437,11 +2295,27 @@
             "KO": "인기 장난감 가게에서 한정판 상품을 출시했다. 이를 구매하기 위해 새벽부터 밤새 줄을 서는 사람이 나타나고 있다.",
             "CN": "高人气玩具店推出限量新品，已经出现有人凌晨通宵排队购买的情况。",
             "TW": "高人氣玩具店推出限量新品，已經出現有人凌晨通宵排隊購買的情況。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Mess",
+                "JP": "メイス",
+                "KO": "메스",
+                "CN": "莓丝",
+                "TW": "莓絲"
+            },
+            "Sinner 2": {
+                "EN": "Oliver",
+                "JP": "オリバー",
+                "KO": "올리버",
+                "CN": "奥利弗",
+                "TW": "奧利弗"
+            }
         }
     },
     "80": {
-        "Id": "1025001",
-        "Rarity": "Purple",
+        "Id": 1025001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Art Counselor",
             "JP": "芸術顧問",
@@ -1455,11 +2329,20 @@
             "KO": "새로운 조각 박물관을 건설 중인 신성 관계자는 전문 인력을 예술 고문으로 초빙하기 위해 관리국에 연락했다.",
             "CN": "新城正在筹建一座全新的雕塑博物馆，相关负责人联系管理局，想要聘请一位专业人士作为艺术顾问。",
             "TW": "新城正在籌建一座全新的雕塑博物館，相關負責人聯繫管理局，想要聘請一位專業人士作為藝術顧問。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Enfer",
+                "JP": "エンフェル",
+                "KO": "엔퍼",
+                "CN": "恩菲尔",
+                "TW": "恩菲爾"
+            }
         }
     },
     "81": {
-        "Id": "1025002",
-        "Rarity": "Green",
+        "Id": 1025002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Culture Exchange Event",
             "JP": "文化交流会",
@@ -1473,11 +2356,20 @@
             "KO": "신성 도서관은 곧 고전주의 예술과 문학 교류회를 열 예정이다. 어떤 애호가는 일찌감치 참가를 신청했다.",
             "CN": "新城图书馆近期将要举办一场古典主义艺术与文学交流会，某位爱好者早早提交了参与申请。",
             "TW": "新城圖書館近期將要舉辦一場古典主義藝術與文學交流會，某位愛好者早早提交了參與申請。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "McQueen",
+                "JP": "マックイーン",
+                "KO": "맥퀸",
+                "CN": "麦昆",
+                "TW": "麥昆"
+            }
         }
     },
     "82": {
-        "Id": "1025003",
-        "Rarity": "Blue",
+        "Id": 1025003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Forging Group",
             "JP": "贋作集団",
@@ -1491,11 +2383,27 @@
             "KO": "한 예술 대가의 전시 작품이 연이어 도난당하고 난 뒤, 현지의 암시장에서 정교한 위조품이 대량 유출됐다. 전문 조직의 범행으로 보여 긴급한 조사가 필요하다.",
             "CN": "某艺术大师的展出作品接连失窃，而后当地黑市流出大量制作精良的赝品，疑似专业团伙作案，急需彻查。",
             "TW": "某藝術大師的展出作品接連失竊，接著當地黑市流出大量製作精良的贗品，疑似專業集團作案，急需徹查。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "McQueen",
+                "JP": "マックイーン",
+                "KO": "맥퀸",
+                "CN": "麦昆",
+                "TW": "麥昆"
+            },
+            "Sinner 2": {
+                "EN": "Cinnabar",
+                "JP": "辰砂",
+                "KO": "시나바",
+                "CN": "辰砂",
+                "TW": "辰砂"
+            }
         }
     },
     "83": {
-        "Id": "1026001",
-        "Rarity": "Purple",
+        "Id": 1026001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Corruptor Attack",
             "JP": "死瞳襲来",
@@ -1509,11 +2417,20 @@
             "KO": "모처에서 신원불명의 괴변체에게 습격을 당했고, 관리국은 전문 인력을 파견해 지원해달라는 부탁을 받았다.",
             "CN": "某地遭到不明来源的死役袭击，管理局受托派出专业人士前往支援。",
             "TW": "某地遭到不明來源的死役襲擊，管理局受託派出專業人士前往支援。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Oak Casket",
+                "JP": "コフィン",
+                "KO": "캐스켓",
+                "CN": "橡木匣",
+                "TW": "橡木匣"
+            }
         }
     },
     "84": {
-        "Id": "1026002",
-        "Rarity": "Green",
+        "Id": 1026002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Musician Recruitment",
             "JP": "音楽家募集",
@@ -1527,11 +2444,20 @@
             "KO": "어느 유명 교향악단이 신입 연주자를 모집하는 오디션을 준비한다는 소식을 듣고 참가하고 싶어 안달이 난 사람이 있다.",
             "CN": "某知名交响乐团招募新乐手，正在组织海选，有人听闻消息后跃跃欲试。",
             "TW": "某知名交響樂團招募新樂手，正在進行海選，有人聽聞消息後躍躍欲試。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Dudu",
+                "JP": "トト",
+                "KO": "토토",
+                "CN": "嘟嘟",
+                "TW": "嘟嘟"
+            }
         }
     },
     "85": {
-        "Id": "1026003",
-        "Rarity": "Blue",
+        "Id": 1026003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Undercover Investigation",
             "JP": "潜入捜査",
@@ -1545,11 +2471,27 @@
             "KO": "외부에서 온 길거리 공연 단체의 행적이 매우 수상해 관리국은 인력을 파견해 잠복 조사를 하기로 결정했다.",
             "CN": "一个来自外邦的街头卖艺者团体行迹十分可疑，管理局决定立即派人进行卧底调查。",
             "TW": "一個來自外邦的街頭賣藝者團體行跡十分可疑，管理局決定立即派人進行臥底調查。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Dudu",
+                "JP": "トト",
+                "KO": "토토",
+                "CN": "嘟嘟",
+                "TW": "嘟嘟"
+            },
+            "Sinner 2": {
+                "EN": "Luvia Ray",
+                "JP": "ルヴィア・レイ",
+                "KO": "루비아.레이",
+                "CN": "露薇娅·蕾",
+                "TW": "露薇婭·蕾"
+            }
         }
     },
     "86": {
-        "Id": "1027001",
-        "Rarity": "Purple",
+        "Id": 1027001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Cinematic Masterclass",
             "JP": "巨匠の映画教室",
@@ -1563,11 +2505,20 @@
             "KO": "신성의 한 영화학원은 관리국에 연락해 영화 거장에게 촬영 기법에 관련된 강좌의 강사를 맡게 해달라고 요청했다.",
             "CN": "新城某电影学院将为在校学生组织一场关于电影拍摄技法的讲座，校方联系到管理局，希望邀请某位电影大师前去担任讲师。",
             "TW": "新城某電影學院將為在校學生組織一場關於電影拍攝技法的講座，校方聯繫到管理局，希望邀請某位電影大師前去擔任講師。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Deren",
+                "JP": "デイリン",
+                "KO": "데렌",
+                "CN": "黛伦",
+                "TW": "黛倫"
+            }
         }
     },
     "87": {
-        "Id": "1027002",
-        "Rarity": "Green",
+        "Id": 1027002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Teaching Materials on Photography",
             "JP": "撮影の教科書",
@@ -1581,11 +2532,20 @@
             "KO": "관리국 안에 새로운 촬영 교재와 거장의 작품집을 들여놨다는 소식에 그 누군가는 아주 기뻐하며 즉시 차독 신청서를 냈다.",
             "CN": "管理局内新添置了一批摄影教材和大师作品集，某人听到消息后非常高兴，第一时间提交了借阅申请。",
             "TW": "管理局內新添置了一批攝影教材和大師作品集，某人聽到消息後非常高興，第一時間提交了借閱申請。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Lynn",
+                "JP": "リン",
+                "KO": "린",
+                "CN": "琳",
+                "TW": "琳"
+            }
         }
     },
     "88": {
-        "Id": "1027003",
-        "Rarity": "Blue",
+        "Id": 1027003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "A Photography Tour of the North",
             "JP": "北地での撮影",
@@ -1599,11 +2559,27 @@
             "KO": "한 촬영을 잘 하는 수감자가 북쪽으로 가 다른 풍경을 찍고 싶어서 다른 수감자가 북쪽으로 임무를 나가려 할 때 국장에게 따라가고 싶다고 요청했다.",
             "CN": "某位擅长摄影的禁闭者想要前往北方拍摄不一样的风景，于是趁着另一位禁闭者即将北上出任务时向局长提出了同去的申请。",
             "TW": "某位擅長攝影的禁閉者想要前往北方拍攝不一樣的風景，於是趁著另一位禁閉者即將北上出任務時向局長提出了同去的申請。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Lynn",
+                "JP": "リン",
+                "KO": "린",
+                "CN": "琳",
+                "TW": "琳"
+            },
+            "Sinner 2": {
+                "EN": "Pacassi",
+                "JP": "ペガシ",
+                "KO": "파카시",
+                "CN": "帕加茜",
+                "TW": "帕加茜"
+            }
         }
     },
     "89": {
-        "Id": "1027004",
-        "Rarity": "Purple",
+        "Id": 1027004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Grand Opening",
             "JP": "開業祝い",
@@ -1617,11 +2593,20 @@
             "KO": "한 MBCC 직원의 고향에서 새로운 가게가 오픈되어 사자춤을 잘 추는 한 수감자를 초대해 같이 가서 개업 기념 축하를 하고 싶어 했다.",
             "CN": "一位MBCC工作人员在老家的店铺开张了，想邀请某位擅长舞狮纳福的禁闭者一同前往庆祝。",
             "TW": "一位MBCC工作人員在老家的店舖開張了，想邀請某位擅長舞獅納福的禁閉者一同前往慶祝。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "OwO",
+                "JP": "ガオ",
+                "KO": "어흥",
+                "CN": "嗷呜",
+                "TW": "嗷嗚"
+            }
         }
     },
     "90": {
-        "Id": "1028001",
-        "Rarity": "Purple",
+        "Id": 1028001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Board Game Chaos",
             "JP": "ボードゲーム騒ぎ",
@@ -1635,11 +2620,20 @@
             "KO": "치안국은 불법 종사자가 보드게임 플레이어들 사이에 숨어있다는 소식을 전했다. 이에 관리국은 체포를 위해 해당 이벤트에 익숙한 전문 담당자를 파견하였다.",
             "CN": "治安局传来消息，有不法分子隐藏在桌游玩家之中混淆视听，于是管理局派出了一名熟悉此项活动的人员前去协助抓捕。",
             "TW": "治安局傳來消息，有不法分子隱藏在桌遊玩家之中混淆視聽，於是管理局派出了一名熟悉此項活動的人員前去協助抓捕。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Etti",
+                "JP": "アイティ",
+                "KO": "에티",
+                "CN": "爱缇",
+                "TW": "愛緹"
+            }
         }
     },
     "91": {
-        "Id": "1028002",
-        "Rarity": "Green",
+        "Id": 1028002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Home Advantage",
             "JP": "ホームグラウンド優勢",
@@ -1648,16 +2642,25 @@
             "TW": "主場優勢"
         },
         "DispatchDescription": {
-            "EN": "According to credible sources, a suspect has been frequenting the dodgy entertainment facilities in Eastside. You need someone who's familiar with the environment to carry out research and collect evidence.",
+            "EN": "According to credible sources, a suspect has been frequenting the dodgy entertainment facilities in Eastside. You need someone who\\'s familiar with the environment to carry out research and collect evidence.",
             "JP": "報告によると、ある容疑者が最近よくニューシティの様々な人が出入りする娯楽施設に出没している。この環境に詳しい人物が調査及び証拠収集を行う必要がある。",
             "KO": "최근 한 용의자가 신성 내 각종 오락 장소에 자주 출몰하고 있다는 믿을만한 정보를 받았다. 이런 환경에 익숙한 사람이 수사 및 증거 수집을 담당해야 한다.",
             "CN": "据可靠线报，一名嫌疑犯最近常出没于新城各鱼龙混杂的娱乐场所，需要熟悉环境者进行调查和证据搜集工作。",
             "TW": "據可靠線報，一名嫌疑犯最近常出沒於新城各魚龍混雜的娛樂場所，需要熟悉環境者進行調查和證據搜集工作。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Levy",
+                "JP": "レヴィ",
+                "KO": "레비",
+                "CN": "李维",
+                "TW": "李維"
+            }
         }
     },
     "92": {
-        "Id": "1028003",
-        "Rarity": "Blue",
+        "Id": 1028003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Fraud Gang",
             "JP": "詐欺集団",
@@ -1671,11 +2674,27 @@
             "KO": "최근 한 교활한 사기단이 치안국의 골칫거리가 되었다. 이에 대처하기 위해 관리국은 융통성이 있고 말재주가 좋은 수감자를 투입하여 지원하도록 했다.",
             "CN": "近期一个狡猾刁钻的诈骗团伙令治安局十分头疼，管理局为此特地派出了思维灵活且能言善辩的禁闭者前往支援。",
             "TW": "近期一個狡猾刁鑽的詐騙集團令治安局十分頭痛，管理局為此特地派出了思維靈活且能言善辯的禁閉者前往支援。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Levy",
+                "JP": "レヴィ",
+                "KO": "레비",
+                "CN": "李维",
+                "TW": "李維"
+            },
+            "Sinner 2": {
+                "EN": "Mr. Fox",
+                "JP": "Mr.Fox",
+                "KO": "Mr.Fox",
+                "CN": "福克斯先生",
+                "TW": "Mr.Fox"
+            }
         }
     },
     "93": {
-        "Id": "1029001",
-        "Rarity": "Purple",
+        "Id": 1029001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Field Investigation",
             "JP": "教学考察",
@@ -1689,11 +2708,20 @@
             "KO": "신성의 한 유명 아카데미에서 수업 공개 행사를 진행해 각계 인사가 참관하고 교류할 수 있게 되었다. 관리국 내에 학급을 개설해 수업을 진행하려는 포부를 가진 인원이 조사를 신청했다.",
             "CN": "新城某知名学校将要举行教学公开活动，欢迎各界人士参观交流。某立志在管理局内开班授课的人员申请前往考察。",
             "TW": "新城某知名學校將要舉行公開教學活動，歡迎各界人士參觀交流。某立志在管理局內開班授課的人員申請前往考察。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Raven",
+                "JP": "クロウ",
+                "KO": "크로우",
+                "CN": "渡鸦",
+                "TW": "渡鴉"
+            }
         }
     },
     "94": {
-        "Id": "1029002",
-        "Rarity": "Green",
+        "Id": 1029002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Unofficial Fights",
             "JP": "民間の格闘試合",
@@ -1702,16 +2730,25 @@
             "TW": "民間私鬥"
         },
         "DispatchDescription": {
-            "EN": "Violent elements are reportedly hiding among brawling civilians. However, due to the target location's complicated situation, it is necessary to send experienced personnel to investigate.",
+            "EN": "Violent elements are reportedly hiding among brawling civilians. However, due to the target location\\'s complicated situation, it is necessary to send experienced personnel to investigate.",
             "JP": "数人のならず者がよく民間の格闘試合に紛れ込んで事件を起こすらしい。目標地点の情勢が少し複雑なため、その辺りに詳しい者を向かわせる必要がある。",
             "KO": "일부 폭력배들이 자주 민간 분쟁에 잠복한다고 한다. 해당 장소는 상황이 복잡하므로 경험이 많은 인원을 파견해 조사해야 한다.",
             "CN": "据传一群暴力分子常混迹潜伏于民间私斗，但由于目标场所形势复杂，需派出经验丰富的人员前往调查。",
             "TW": "據傳一群暴力分子常混跡潛伏於民間私鬥，但由於目標場所形勢複雜，需派出經驗豐富的人員前往調查。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Corso",
+                "JP": "カスロ",
+                "KO": "캐슬로",
+                "CN": "卡斯洛",
+                "TW": "卡斯洛"
+            }
         }
     },
     "95": {
-        "Id": "1029003",
-        "Rarity": "Blue",
+        "Id": 1029003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Illegal Slaughterhouse",
             "JP": "違法屠畜場",
@@ -1725,11 +2762,27 @@
             "KO": "치안국은 어느 불법 도축장의 열악한 환경으로 인해 피해 동물의 감염이 심각하다는 정보를 입수해 관리국에 동물의 습성을 잘 아는 사람의 도움을 요청했다.",
             "CN": "治安局收到一则线报，某非法屠宰场环境恶劣，受害动物感染严重，遂向管理局申请熟悉动物习性的人士协助。",
             "TW": "治安局收到一則線報，某非法屠宰場環境惡劣，受害動物感染嚴重，遂向管理局申請熟悉動物習性的人士協助。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Corso",
+                "JP": "カスロ",
+                "KO": "캐슬로",
+                "CN": "卡斯洛",
+                "TW": "卡斯洛"
+            },
+            "Sinner 2": {
+                "EN": "Wolverine",
+                "JP": "クズリ",
+                "KO": "울버린",
+                "CN": "狼獾",
+                "TW": "狼獾"
+            }
         }
     },
     "96": {
-        "Id": "1030001",
-        "Rarity": "Purple",
+        "Id": 1030001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Confession Tree Hole",
             "JP": "相談部屋",
@@ -1740,14 +2793,23 @@
         "DispatchDescription": {
             "EN": "The Bureau needs a keen listener for others to confide in, and designates a room designed to look like the starry cosmos as a place to vent.",
             "JP": "みんなの悩みを解消するために「聞き上手」の者を一人選んで、相談役にする必要がある。悩み相談の場所として、宇宙の星空をモチーフにした相談部屋が設置された。",
-            "KO": "관리국은 대나무 숲처럼 '다른 사람의 고민을 들어줄 사람'이 필요해, 우주 공간처럼 꾸민 방을 준비해 고민을 털어놓는 장소로 만들었다.",
+            "KO": "관리국은 대나무 숲처럼 \\'다른 사람의 고민을 들어줄 사람\\'이 필요해, 우주 공간처럼 꾸민 방을 준비해 고민을 털어놓는 장소로 만들었다.",
             "CN": "管理局内需要一名能够作为树洞的“烦恼倾听者”，并装饰了一间类似宇宙星空的房间作为倾吐地点。",
             "TW": "管理局內需要一名能夠作為樹洞的「煩惱傾聽者」，並裝飾了一間類似宇宙星空的房間作為傾吐地點。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Dreya",
+                "JP": "デレーヤ",
+                "KO": "드레아",
+                "CN": "德雷雅",
+                "TW": "德雷雅"
+            }
         }
     },
     "97": {
-        "Id": "1030002",
-        "Rarity": "Green",
+        "Id": 1030002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Plastic surgery fiasco",
             "JP": "整形騒ぎ",
@@ -1761,11 +2823,20 @@
             "KO": "3억 디스코인의 코 보험을 든 스타의 코가 골절되었는데, 보험 회사가 보험금을 지급하지 못해 분쟁에 휘말려, 성형 전문가의 분쟁 조정이 필요해졌다.",
             "CN": "一位为自己的鼻子保险三个亿的明星因为鼻梁断裂，保险公司无法赔偿，遂起了争执，需要一名极擅长整容的人员进行现场协调。",
             "TW": "一位為自己的鼻子保險了三億的明星因為鼻樑斷裂，保險公司無法賠償，遂起了爭執，需要一名極擅長整容的人員進行現場協調。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Uni",
+                "JP": "ユーニ",
+                "KO": "유니",
+                "CN": "尤尼",
+                "TW": "尤尼"
+            }
         }
     },
     "98": {
-        "Id": "1030003",
-        "Rarity": "Blue",
+        "Id": 1030003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Crime Scene",
             "JP": "事件現場",
@@ -1779,11 +2850,27 @@
             "KO": "치안국의 협조 요청을 받은 관리국은 물증으로 사건 현장의 훼손된 인체 조각을 복구해야 한다.",
             "CN": "管理局收到治安协助请求，需要还原一个在案发现场被破坏的人体物证。",
             "TW": "管理局收到治安協助請求，需要還原一個在案發現場被破壞的人體物證。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Uni",
+                "JP": "ユーニ",
+                "KO": "유니",
+                "CN": "尤尼",
+                "TW": "尤尼"
+            },
+            "Sinner 2": {
+                "EN": "Iron",
+                "JP": "アイン",
+                "KO": "아이언",
+                "CN": "艾恩",
+                "TW": "艾恩"
+            }
         }
     },
     "99": {
-        "Id": "1031001",
-        "Rarity": "Purple",
+        "Id": 1031001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Mystery Copycat",
             "JP": "怪奇譚模倣犯",
@@ -1797,11 +2884,20 @@
             "KO": "최근 안개 낀 밤 괴담의 모방 범죄 사건이 늘어나 해당 도시 전설을 잘 아는 수감자의 지원이 필요하다.",
             "CN": "近期有许多模仿雾夜怪谈的犯罪案件，需要一位了解该都市传说的禁闭者前去支援。",
             "TW": "近期有許多模仿霧夜怪談的犯罪案件，需要一位瞭解該都市傳說的禁閉者前去支援。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Adela",
+                "JP": "アデラ",
+                "KO": "아델라",
+                "CN": "阿黛拉",
+                "TW": "阿黛拉"
+            }
         }
     },
     "100": {
-        "Id": "1031002",
-        "Rarity": "Green",
+        "Id": 1031002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Emergency Rescue",
             "JP": "緊急救援",
@@ -1815,11 +2911,20 @@
             "KO": "한 건물이 무너져 수많은 사람이 폐허에 매몰됐다. 물리적 장애에 영향받지 않는 수감자의 지원이 긴급하게 필요하다.",
             "CN": "某处建筑倒塌导致多人被埋在废墟之下，急需一位能够无视物理障碍的禁闭者前往救援。",
             "TW": "某處建築倒塌導致多人被埋在廢墟之下，急需一位能夠無視物理障礙的禁閉者前往救援。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Letta",
+                "JP": "レタ",
+                "KO": "레타",
+                "CN": "莱塔",
+                "TW": "萊塔"
+            }
         }
     },
     "101": {
-        "Id": "1031003",
-        "Rarity": "Blue",
+        "Id": 1031003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Master of Adventure",
             "JP": "冒険マスター",
@@ -1833,11 +2938,27 @@
             "KO": "새로운 모험 전설이 신성을 휩쓸자 두 마니아가 들뜬 채, 본격적인 탐험에 나서기 위해 준비하고 있다.",
             "CN": "新的冒险传说风靡新城，两位爱好者蠢蠢欲动，准备前去一探究竟。",
             "TW": "新的冒險傳說風靡新城，兩位愛好者蠢蠢欲動，準備前去一探究竟。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Letta",
+                "JP": "レタ",
+                "KO": "레타",
+                "CN": "莱塔",
+                "TW": "萊塔"
+            },
+            "Sinner 2": {
+                "EN": "Pepper",
+                "JP": "ペッパー",
+                "KO": "후추",
+                "CN": "胡椒",
+                "TW": "胡椒"
+            }
         }
     },
     "102": {
-        "Id": "1032001",
-        "Rarity": "Purple",
+        "Id": 1032001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Tasting Invitation",
             "JP": "試食会への招待",
@@ -1851,11 +2972,20 @@
             "KO": "신성에서 주목받는 최고급 레스토랑이 사흘 후 정식으로 오픈한다. 레스토랑 사장은 유명한 미식가를 개업 기념일의 시식회에 초대했다.",
             "CN": "新城备受瞩目的顶级餐馆将于三天后正式开业，餐馆老板盛情邀请某位知名美食家在开业庆典当日前去试吃。",
             "TW": "新城備受矚目的頂級餐廳將於三天後正式開業，餐廳老闆盛情邀請某位知名美食家在開業慶典當日前去試吃。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Cabernet",
+                "JP": "カベルネ",
+                "KO": "카베르네",
+                "CN": "卡门奈特",
+                "TW": "卡門奈特"
+            }
         }
     },
     "103": {
-        "Id": "1032002",
-        "Rarity": "Green",
+        "Id": 1032002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Ocean Art Exhibition",
             "JP": "海の美術展",
@@ -1864,16 +2994,25 @@
             "TW": "海洋藝術展"
         },
         "DispatchDescription": {
-            "EN": "An up-and-coming artist in Eastside is organizing a solo exhibition on the theme of \\\"The Ocean\\\", and he has contacted the Bureau in the hope that he can get some material and inspiration from a certain Sinner.",
+            "EN": "An up-and-coming artist in Eastside is organizing a solo exhibition on the theme of \\\\\"The Ocean\\\\\", and he has contacted the Bureau in the hope that he can get some material and inspiration from a certain Sinner.",
             "JP": "ニューシティのとある新進気鋭のアーティストは「海洋」をテーマに個展を開こうとしている。彼は管理局に連絡し、あるコンビクトからインスピレーションを得たいという。",
-            "KO": "신성의 한 신예 예술가가 '바다'를 주제로 한 개인 아트 전시회를 기획하고 있었다. 그는 관리국에 연락해서 어느 수감자로부터 소재와 영감 얻기를 희망한다고 전했다.",
+            "KO": "신성의 한 신예 예술가가 \\'바다\\'를 주제로 한 개인 아트 전시회를 기획하고 있었다. 그는 관리국에 연락해서 어느 수감자로부터 소재와 영감 얻기를 희망한다고 전했다.",
             "CN": "新城某新锐艺术家正在筹办以“海洋”为主题的个人艺术展，他联系到管理局，希望可以从某位禁闭者身上获取一些素材和灵感。",
             "TW": "新城某新銳藝術家正在籌辦以「海洋」為主題的個人藝術展，他聯繫到管理局，希望可以從某位禁閉者身上獲得一些素材和靈感。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Lamia",
+                "JP": "ラミア",
+                "KO": "라미아",
+                "CN": "拉弥亚",
+                "TW": "拉彌亞"
+            }
         }
     },
     "104": {
-        "Id": "1032003",
-        "Rarity": "Blue",
+        "Id": 1032003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Assist Investigation",
             "JP": "調査協力",
@@ -1887,11 +3026,27 @@
             "KO": "MBCC는 치안국의 지원 요청을 받아 성격상 위장이 가능한 수감자 두 명을 신성 시민 비밀 실종 사건 수사 협조에 긴급 파견하려 한다.",
             "CN": "MBCC接到治安局求助，需紧急调派两位能够从性格上做出伪装的禁闭者前往协助新城市民神秘失踪案的调查。",
             "TW": "MBCC接到治安局求助，需緊急調派兩位善於偽裝性格的禁閉者前往協助新城市民神秘失蹤案的調查。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Lamia",
+                "JP": "ラミア",
+                "KO": "라미아",
+                "CN": "拉弥亚",
+                "TW": "拉彌亞"
+            },
+            "Sinner 2": {
+                "EN": "Luvia Ray",
+                "JP": "ルヴィア・レイ",
+                "KO": "루비아.레이",
+                "CN": "露薇娅·蕾",
+                "TW": "露薇婭·蕾"
+            }
         }
     },
     "105": {
-        "Id": "1033001",
-        "Rarity": "Purple",
+        "Id": 1033001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Joint Exercise",
             "JP": "共同演習",
@@ -1905,11 +3060,20 @@
             "KO": "FAC가 연합 훈련을 개최하여 경험 있는 전 FAC 소속자를 보내 참석시켜야 한다.",
             "CN": "FAC举办了一场联合演练大赛，需要派出一名有过往经验的前FAC人员前往参加。",
             "TW": "FAC舉辦了一場聯合演練大賽，需要派出一名有過往經驗的前FAC人員前往參加。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Rahu",
+                "JP": "ラーフ",
+                "KO": "라후",
+                "CN": "罗睺",
+                "TW": "羅睺"
+            }
         }
     },
     "106": {
-        "Id": "1033002",
-        "Rarity": "Green",
+        "Id": 1033002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Showroom Rescue",
             "JP": "急場しのぎ",
@@ -1923,11 +3087,20 @@
             "KO": "신성의 어느 의상 작업실에서 패션쇼 전날 밤 주문이 폭주했는데 인력이 부족한 탓에 급하게 전문 재단사 한 명의 지원이 필요하다.",
             "CN": "新城某时装工作室在时装秀前夕面临爆单，人力不足，急需一名专业裁缝协助。",
             "TW": "新城某時裝工作室在時裝秀前夕接到爆量訂單，人力不足，急需一名專業裁縫師協助。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Garofano",
+                "JP": "ガロファノ",
+                "KO": "가로파노",
+                "CN": "加洛法诺",
+                "TW": "加洛法諾"
+            }
         }
     },
     "107": {
-        "Id": "1033003",
-        "Rarity": "Blue",
+        "Id": 1033003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Gardens of Doubt",
             "JP": "花庭園暗殺疑惑",
@@ -1936,16 +3109,32 @@
             "TW": "花園疑雲"
         },
         "DispatchDescription": {
-            "EN": "A number of cases suspected to be modeled after the \\\"Garden\\\" have been reported in a certain area. The Public Security Bureau applies to the MBCC for dispatching Garden-related personnel to assist in the investigation.",
+            "EN": "A number of cases suspected to be modeled after the \\\\\"Garden\\\\\" have been reported in a certain area. The Public Security Bureau applies to the MBCC for dispatching Garden-related personnel to assist in the investigation.",
             "JP": "あるところで暗殺事件が多発しており、「花庭園」の模倣犯による可能性が高いと推測されている。花庭園の関係者を調査に向かわせるよう、治安局からの協力要請が届いた。",
-            "KO": "모 지역에서 '화원'의 수법을 모방한 것으로 의심되는 사건이 여럿 발생했다. 치안국은 즉시 관리국에 화원 관련 인력의 조사 협조를 요청했다.",
+            "KO": "모 지역에서 \\'화원\\'의 수법을 모방한 것으로 의심되는 사건이 여럿 발생했다. 치안국은 즉시 관리국에 화원 관련 인력의 조사 협조를 요청했다.",
             "CN": "某地出现了多起疑似效仿“花园”手法的案件，治安局遂向管理局申请派遣花园相关人员协助调查。",
             "TW": "某地出現了多起疑似效仿「花園」手法的案件，治安局遂向管理局申請派遣花園相關人員協助調查。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Garofano",
+                "JP": "ガロファノ",
+                "KO": "가로파노",
+                "CN": "加洛法诺",
+                "TW": "加洛法諾"
+            },
+            "Sinner 2": {
+                "EN": "Sumire",
+                "JP": "菫",
+                "KO": "진",
+                "CN": "堇",
+                "TW": "堇"
+            }
         }
     },
     "108": {
-        "Id": "1034001",
-        "Rarity": "Purple",
+        "Id": 1034001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Eccentric Music Meetup",
             "JP": "猟奇音楽交流会",
@@ -1959,11 +3148,20 @@
             "KO": "한 신성 유명 인사가 언더그라운드 엽기 음악 교류회의 초대장을 보내왔다. 다양한 음악 취향을 가진 한 수감자가 초대장에 응했고 자신의 흑석영을 이용해 이 음악 교류회를 기록하고자 했다.",
             "CN": "某新城名流送来了一场地下猎奇音乐交流会的请柬，某位音乐品味极为广泛的禁闭者认领了请柬，并打算用自己的黑石英将音乐会记录下来。",
             "TW": "某新城名流送來了一場地下獵奇音樂交流會的請柬，某位音樂品味極為廣泛的禁閉者認領了請柬，並打算用自己的黑石英將音樂會記錄下來。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Shalom",
+                "JP": "シャローム",
+                "KO": "샬롬",
+                "CN": "瑟琳",
+                "TW": "瑟琳"
+            }
         }
     },
     "109": {
-        "Id": "1034002",
-        "Rarity": "Green",
+        "Id": 1034002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Mystery Deduction",
             "JP": "不審な事件の推理",
@@ -1977,11 +3175,20 @@
             "KO": "신성 모처에 미스터리한 사건이 일어났다. 치안국은 사건 해결을 위해 추리 능력을 갖춘 전문가를 지원해달라고 관리국에 급히 요청했다.",
             "CN": "新城某地发生了一起疑案，治安局紧急向管理局申请一名具有推理能力的专业人士协助破案。",
             "TW": "新城某地發生了一起疑案，治安局緊急向管理局申請一名具有推理能力的專業人士協助破案。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Christina",
+                "JP": "クリスティナ",
+                "KO": "크리스티나",
+                "CN": "克里斯蒂娜",
+                "TW": "克里斯蒂娜"
+            }
         }
     },
     "110": {
-        "Id": "1034003",
-        "Rarity": "Blue",
+        "Id": 1034003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Item Scouting",
             "JP": "道具の調査",
@@ -1995,11 +3202,27 @@
             "KO": "치안국은 한 공장이 무대 소품 판매를 명목으로 위험 물품을 불법 생산하고 판매하고 있는 것으로 의심하고 있다. 관리국에서 불법 물품을 구분하는 능력이 뛰어난 인력을 파견해 조사해야 한다.",
             "CN": "治安局怀疑某厂家以贩售舞台道具的名义私自生产交易危险物品，需要管理局派出擅长辨别违禁品的人员进行侦查。",
             "TW": "治安局懷疑某廠家以販售舞台道具的名義私自生產交易危險物品，需要管理局派出擅長辨別違禁品的人員進行偵查。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Christina",
+                "JP": "クリスティナ",
+                "KO": "크리스티나",
+                "CN": "克里斯蒂娜",
+                "TW": "克里斯蒂娜"
+            },
+            "Sinner 2": {
+                "EN": "Mess",
+                "JP": "メイス",
+                "KO": "메스",
+                "CN": "莓丝",
+                "TW": "莓絲"
+            }
         }
     },
     "111": {
-        "Id": "1034004",
-        "Rarity": "Purple",
+        "Id": 1034004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Moonbathing Spot",
             "JP": "月光風呂",
@@ -2013,11 +3236,20 @@
             "KO": "신성의 한 노천탕에서 변이 사건이 발생한 것으로 추정된다. 해당 노천탕에 야간 오픈 테마 행사가 있다는 소식을 듣자 목욕을 즐기는 한 수감자가 조사에 참여하는 것을 강력하게 요구했다.",
             "CN": "新城某露天浴场疑似发生了狂厄事件，由于该浴场有特色夜间开放主题，某热衷于享受沐浴的禁闭者强烈要求前往调查。",
             "TW": "新城某露天浴場疑似發生了狂厄事件，由於該浴場有特色夜間開放主題，某熱衷於享受沐浴的禁閉者強烈要求前往調查。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Coquelic",
+                "JP": "コクリコ",
+                "KO": "코쿠리코",
+                "CN": "可可莉克",
+                "TW": "可可莉克"
+            }
         }
     },
     "112": {
-        "Id": "1035001",
-        "Rarity": "Purple",
+        "Id": 1035001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Zoo Theft",
             "JP": "動物園窃盗事件",
@@ -2031,11 +3263,20 @@
             "KO": "신성의 어느 동물원에 있던 악어들이 감쪽같이 사라졌다. 치안국에서 범인을 찾았지만 악어의 행방은 여전히 알 수 없었다. 동물의 생태계를 잘 아는 수감자의 협조가 시급히 필요하다.",
             "CN": "新城某动物园丢失了一批鳄鱼，治安局找到了犯人，鳄鱼却无影无踪，急需一名精通动物生态的禁闭者前往协助搜寻。",
             "TW": "新城某動物園遺失了一批鱷魚，治安局找到了犯人，鱷魚卻消失無蹤，急需一名精通動物生態的禁閉者前往協助搜尋。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Mantis",
+                "JP": "マンティス",
+                "KO": "맨티스",
+                "CN": "曼缇斯",
+                "TW": "曼緹斯"
+            }
         }
     },
     "113": {
-        "Id": "1035002",
-        "Rarity": "Green",
+        "Id": 1035002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Perfume Auction",
             "JP": "香水オークション",
@@ -2049,11 +3290,20 @@
             "KO": "누군가 전설 속 영원의 향을 만들 수 있다고 주장하며 이를 셀링 포인트로 경매를 열어 돈을 긁어모으고 있다. 향수를 사랑하는 어느 수감자는 영원의 향을 보러 가거나 아니면 가품을 판별하기 위해서 자원해 나섰다.",
             "CN": "有人自称能调制出传说中的永恒之香，并以其为卖点召开拍卖会敛财，某挚爱香水的禁闭者自愿前往瞻仰，或者打假。",
             "TW": "有人自稱能調製出傳說中的永恆之香，並以其為賣點召開拍賣會斂財，某摯愛香水的禁閉者自願前往瞻仰，或者揭穿騙局。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Cassia",
+                "JP": "カシア",
+                "KO": "카시아",
+                "CN": "卡西娅",
+                "TW": "卡西婭"
+            }
         }
     },
     "114": {
-        "Id": "1035003",
-        "Rarity": "Blue",
+        "Id": 1035003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Faux Nobility",
             "JP": "偽装貴族",
@@ -2067,11 +3317,27 @@
             "KO": "신성 치안국은 사정상 귀족 아가씨로 위장한 대원을 잠입 수사에 파견하고자 한다. 의상 스타일링과 향수에 대해 잘 아는 수감자의 지원이 필요하다.",
             "CN": "新城治安局因故需派出警员装扮成贵族小姐进行潜入搜查，需要精通服装搭配和香氛鉴赏的禁闭者提供支持。",
             "TW": "新城治安局因故需派出警員裝扮成貴族小姐進行潛入搜查，需要精通服裝搭配和香氛鑒賞的禁閉者支援。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Cassia",
+                "JP": "カシア",
+                "KO": "카시아",
+                "CN": "卡西娅",
+                "TW": "卡西婭"
+            },
+            "Sinner 2": {
+                "EN": "Garofano",
+                "JP": "ガロファノ",
+                "KO": "가로파노",
+                "CN": "加洛法诺",
+                "TW": "加洛法諾"
+            }
         }
     },
     "115": {
-        "Id": "1036001",
-        "Rarity": "Purple",
+        "Id": 1036001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Who Caused It, Who Solves It",
             "JP": "蒔いた種は自分で刈る",
@@ -2085,11 +3351,20 @@
             "KO": "최근 괴담에 대한 공포심으로 인해 신성 병원을 찾는 불면증 환자가 급증하고 있다고 한다. 수면에 도움을 줄 ASMR 프로그램 보조 치료 지원이 시급하다.",
             "CN": "近日新城医院接待的失眠患者人数急剧攀升，据称多由对怪谈的恐惧诱发，急需催眠ASMR节目辅助治疗。",
             "TW": "近日新城醫院接待的失眠患者人數急劇攀升，據稱多由對怪談的恐懼誘發，急需催眠ASMR節目輔助治療。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Eleven",
+                "JP": "エブン",
+                "KO": "일레븐",
+                "CN": "雷温",
+                "TW": "雷溫"
+            }
         }
     },
     "116": {
-        "Id": "1036002",
-        "Rarity": "Green",
+        "Id": 1036002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Snack Sampling",
             "JP": "スナックの試食",
@@ -2103,11 +3378,20 @@
             "KO": "아이디어 간식을 판매하는 업체가 사업을 시작했다. 하루빨리 유명해지기 위해, 방송에서 괴상한 간식을 맛보며 구매를 유도해 줄 스트리머가 필요하다.",
             "CN": "某趣味零食网站刚刚创业，希望快速打出名气，需要一名主播直播试吃奇葩零食并带货。",
             "TW": "某趣味零食網站剛剛創業，希望快速打出名氣，需要一名主播直播試吃奇葩零食並帶貨。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Nino",
+                "JP": "ニノ",
+                "KO": "니노",
+                "CN": "妮诺",
+                "TW": "妮諾"
+            }
         }
     },
     "117": {
-        "Id": "1036003",
-        "Rarity": "Blue",
+        "Id": 1036003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Sharp Commentary",
             "JP": "毒舌コメント",
@@ -2121,11 +3405,27 @@
             "KO": "신성의 한 심야 패러디 예능의 시청률이 떨어져, 급히 실력 있고 예능감이 좋은 평론가를 채용해 사회적인 이슈를 평가해야 한다.",
             "CN": "新城某深夜恶搞综艺收视率下跌，急聘会整活的评论家出演节目，评论社会热点时事。",
             "TW": "新城某深夜惡搞綜藝收視率下跌，急聘會惡搞的評論家出演節目，評論社會熱門時事。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Nino",
+                "JP": "ニノ",
+                "KO": "니노",
+                "CN": "妮诺",
+                "TW": "妮諾"
+            },
+            "Sinner 2": {
+                "EN": "Mess",
+                "JP": "メイス",
+                "KO": "메스",
+                "CN": "莓丝",
+                "TW": "莓絲"
+            }
         }
     },
     "118": {
-        "Id": "1037001",
-        "Rarity": "Purple",
+        "Id": 1037001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Gaze of the Toys",
             "JP": "おもちゃの視線",
@@ -2134,16 +3434,25 @@
             "TW": "玩具的凝視"
         },
         "DispatchDescription": {
-            "EN": "Recently, many citizens have reported feeling watched by their daughter's dolls, suspecting that a peeping gang has put their modified toys into the market. A Sinner who is proficient in toy design and manufacturing is urgently needed to assist with the investigation.",
+            "EN": "Recently, many citizens have reported feeling watched by their daughter\\'s dolls, suspecting that a peeping gang has put their modified toys into the market. A Sinner who is proficient in toy design and manufacturing is urgently needed to assist with the investigation.",
             "JP": "最近、複数の一般市民から「娘の人形に睨まれているような気がする」という通報が相次いでいる。盗撮組織がおもちゃを改造して市場に流通させた疑いがあるため、おもちゃの設計や製造に精通したコンビクトの捜査協力が急ぎ必要だ。",
             "KO": "최근 여러 시민이 딸애의 인형이 자신을 쳐다보는 것 같다는 신고를 했다. 불법 촬영 조직이 장난감을 개조하여 시장에 유통시킨 것으로 의심되어 장난감 설계 제작에 능숙한 수감자의 협조가 시급하다.",
             "CN": "近日多名市民报案称感觉被女儿的洋娃娃盯着看，疑似偷拍团伙改造玩具后使其流入市场，急需一名精通玩具设计制造的禁闭者协助调查。",
             "TW": "近日多名市民報案稱感覺被女兒的洋娃娃盯著看，疑似偷拍集團改造玩具後使其流入市場，急需一名精通玩具設計製造的禁閉者協助調查。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Eve",
+                "JP": "イヴ",
+                "KO": "이브",
+                "CN": "伊芙",
+                "TW": "伊芙"
+            }
         }
     },
     "119": {
-        "Id": "1037002",
-        "Rarity": "Green",
+        "Id": 1037002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Sci-fi Film Festival",
             "JP": "SF映画祭",
@@ -2157,11 +3466,20 @@
             "KO": "신성에서 적은 자본으로 SF 영화제를 개최하자 영화를 통해 영감을 얻고 싶어 하는 수감자가 적극적으로 참가 요청을 보냈다.",
             "CN": "新城将举办低成本小众科幻电影节，某渴望从电影中获取发明灵感的禁闭者积极要求参加。",
             "TW": "新城將舉辦低成本小眾科幻電影節，某渴望從電影中獲得發明靈感的禁閉者積極要求參加。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Eureka",
+                "JP": "エウレカ",
+                "KO": "유레카",
+                "CN": "优利卡",
+                "TW": "優利卡"
+            }
         }
     },
     "120": {
-        "Id": "1037003",
-        "Rarity": "Blue",
+        "Id": 1037003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Contest Judge",
             "JP": "コンテスト審査員",
@@ -2175,11 +3493,27 @@
             "KO": "신성의 어느 탐정 클럽에서 탐정 아이템 설계 대회를 개최했다. 재미있는 아이템 발명 제작과 탐정 아이템에 대해 잘 아는 평가 위원의 참여가 시급하다.",
             "CN": "新城某侦探文化俱乐部组织举办了趣味侦探道具设计大赛，急需对趣味道具发明制作和侦探道具有深厚造诣的评委参与评审。",
             "TW": "新城某偵探文化俱樂部組織舉辦了趣味偵探道具設計大賽，急需對趣味道具發明製作和偵探道具有深厚造詣的評委參與評審。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Eureka",
+                "JP": "エウレカ",
+                "KO": "유레카",
+                "CN": "优利卡",
+                "TW": "優利卡"
+            },
+            "Sinner 2": {
+                "EN": "Christina",
+                "JP": "クリスティナ",
+                "KO": "크리스티나",
+                "CN": "克里斯蒂娜",
+                "TW": "克里斯蒂娜"
+            }
         }
     },
     "121": {
-        "Id": "1038001",
-        "Rarity": "Purple",
+        "Id": 1038001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "History of Rustfire",
             "JP": "錆火の歴史",
@@ -2190,14 +3524,23 @@
         "DispatchDescription": {
             "EN": "The Bureau plans to compile a comprehensive history document of the rise and development of Rustfire. They need those in the know to assist them.",
             "JP": "管理局は、「錆火」組織の発足と発展に関する詳細な歴史を編纂する計画を立てている。そのためには情報を持っている人の協力が必要だ。",
-            "KO": "관리국은 '러스트 스파크' 조직의 부흥과 발전에 대한 상세한 역사적 자료를 정리하려고 한다. 이를 위해 내부자의 도움을 받아야 한다.",
+            "KO": "관리국은 \\'러스트 스파크\\' 조직의 부흥과 발전에 대한 상세한 역사적 자료를 정리하려고 한다. 이를 위해 내부자의 도움을 받아야 한다.",
             "CN": "管理局计划梳理一份有关“锈火”组织兴起与发展的详尽历史材料，需要知情者协助完成。",
             "TW": "管理局計畫梳理一份有關「鏽火」組織興起與發展的詳盡歷史資料，需要知情者協助完成。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Donald",
+                "JP": "ドナルド",
+                "KO": "돈",
+                "CN": "唐",
+                "TW": "唐"
+            }
         }
     },
     "122": {
-        "Id": "1038002",
-        "Rarity": "Green",
+        "Id": 1038002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Firearm Trial",
             "JP": "銃器の試用",
@@ -2211,11 +3554,20 @@
             "KO": "모 연구소에서 최신형 권총을 개발하여 총기에 정통한 사람의 시험평가가 시급하다.",
             "CN": "某研究院研制出了最新型号的手枪，急需精通枪械者试用评估。",
             "TW": "某研究院研製出了最新型號的手槍，急需精通槍械者試用評估。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Matilda",
+                "JP": "マチルダ",
+                "KO": "마틸다",
+                "CN": "玛蒂尔达",
+                "TW": "瑪蒂爾達"
+            }
         }
     },
     "123": {
-        "Id": "1038003",
-        "Rarity": "Blue",
+        "Id": 1038003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Major Cleanup",
             "JP": "大掃除",
@@ -2224,16 +3576,32 @@
             "TW": "清潔大掃除"
         },
         "DispatchDescription": {
-            "EN": "The Bureau has been busy with official duties recently and doesn't have enough time for housekeeping. Two Sinners have decided to work together to complete a major cleanup.",
+            "EN": "The Bureau has been busy with official duties recently and doesn\\'t have enough time for housekeeping. Two Sinners have decided to work together to complete a major cleanup.",
             "JP": "最近、管理局は公務に追われて清掃がおろそかになっているため、コンビクト2名が協力して大掃除をすることにした。",
             "KO": "관리국은 최근 공무로 바빠 집 안 청소에 소홀하여 두 명의 수감자가 함께 대청소에 나섰다.",
             "CN": "管理局近来公务繁忙，疏于家务清洁，某二位禁闭者决定共同完成一次大扫除。",
             "TW": "管理局近來公務繁忙，疏於家務清潔，某兩位禁閉者決定共同完成一次大掃除。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Matilda",
+                "JP": "マチルダ",
+                "KO": "마틸다",
+                "CN": "玛蒂尔达",
+                "TW": "瑪蒂爾達"
+            },
+            "Sinner 2": {
+                "EN": "Labyrinth",
+                "JP": "ラビリンス",
+                "KO": "레버린스",
+                "CN": "雷比尼斯",
+                "TW": "雷比尼斯"
+            }
         }
     },
     "124": {
-        "Id": "1039001",
-        "Rarity": "Purple",
+        "Id": 1039001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Audition Judge",
             "JP": "オーディション番組の審査員",
@@ -2247,11 +3615,20 @@
             "KO": "한 엔터테인먼트에서 새로운 오디션 프로그램을 기획했다. 이번 프로그램의 주제는 뮤지컬 유망주를 발굴하는 것이며, 녹화를 위해 급히 대중 심사 위원을 섭외했다. 한 수감자가 자신이 직접 아직 다듬어지지 않은 보석을 발굴하고 싶다며 나섰다.",
             "CN": "某娱乐推出了新一档选秀节目，这次以选出音乐剧的未来之星为主题，现急招大众评委参与录制，某禁闭者主动要求前往参与并挖掘蒙尘明珠。",
             "TW": "某娛樂公司推出了新一檔選秀節目，這次以選出音樂劇的未來之星為主題，現急徵大眾評委參與錄製，某禁閉者主動要求前往參與並挖掘蒙塵明珠。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Lady Pearl",
+                "JP": "パール夫人",
+                "KO": "레이디 펄",
+                "CN": "珀尔夫人",
+                "TW": "珀爾夫人"
+            }
         }
     },
     "125": {
-        "Id": "1039002",
-        "Rarity": "Green",
+        "Id": 1039002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Popularity Contest",
             "JP": "人気コンテスト",
@@ -2265,11 +3642,20 @@
             "KO": "한 협회가 신성에서 길거리 예술가 대회를 개최했고 모든 사람이 무료로 관람하고 투표를 할 수 있다. 이 소식을 들은 한 수감자가 용감히 참가를 신청하며 본인이 반드시 우승할 수 있다고 주장했다.",
             "CN": "某协会在新城组织了一场街头艺人大赛，所有民众均可免费观看并投出自己的一票，某禁闭者听说后自告奋勇想要参加，并称自己一定会拿到冠军。",
             "TW": "某協會在新城組織了一場街頭藝人大賽，所有民眾均可免費觀看並投出自己的一票，某禁閉者聽說後自告奮勇想要參加，並稱自己一定會拿到冠軍。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Echo",
+                "JP": "アイカ",
+                "KO": "에코",
+                "CN": "艾可",
+                "TW": "艾可"
+            }
         }
     },
     "126": {
-        "Id": "1039003",
-        "Rarity": "Blue",
+        "Id": 1039003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Sonic Weapon",
             "JP": "音波武器",
@@ -2283,11 +3669,27 @@
             "KO": "치안국은 현재 음파 무기를 대대적으로 연구하고 있다. 음파를 이용해 공격을 할 수 있고 발명에 능한 수감자의 연구 참여가 시급하다.",
             "CN": "治安局目前正在大力研发声波武器，急需能够使用声波进行攻击以及善于发明创造的禁闭者参与研制。",
             "TW": "治安局目前正在大力研發聲波武器，急需能夠使用聲波進行攻擊以及善於發明創造的禁閉者參與研製。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Echo",
+                "JP": "アイカ",
+                "KO": "에코",
+                "CN": "艾可",
+                "TW": "艾可"
+            },
+            "Sinner 2": {
+                "EN": "Eureka",
+                "JP": "エウレカ",
+                "KO": "유레카",
+                "CN": "优利卡",
+                "TW": "優利卡"
+            }
         }
     },
     "127": {
-        "Id": "1040001",
-        "Rarity": "Purple",
+        "Id": 1040001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Bomb Alert",
             "JP": "爆弾予告",
@@ -2296,16 +3698,25 @@
             "TW": "炸彈預告"
         },
         "DispatchDescription": {
-            "EN": "The MBCC received a request from the Public Security Bureau. Explosives have been planted into a giant clock in an Eastside landmark. The device's mechanism is complex and dangerous, so they require urgent assistance from a Sinner with extensive knowledge of mechanical structures.",
+            "EN": "The MBCC received a request from the Public Security Bureau. Explosives have been planted into a giant clock in an Eastside landmark. The device\\'s mechanism is complex and dangerous, so they require urgent assistance from a Sinner with extensive knowledge of mechanical structures.",
             "JP": "MBCCは治安局から協力を求められた。ニューシティのランドマークにある巨大な時計に爆発物が仕込まれたらしい。内部の構造は複雑で危険であり、機械構造に詳しいコンビクトを直ちに現場に派遣する必要がある。",
             "KO": "MBCC는 치안국의 지원 요청을 받아 신성의 한 랜드마크에 있는 거대한 시계탑에 설치된 폭탄을 제거하려 한다. 시계탑의 내부 구조는 복잡하고 위험해서 기계 구조에 대해 잘 알고 있는 수감자를 파견해야 한다.",
             "CN": "MBCC接到治安局求助，新城某地标的巨型时钟被装入了炸药，内部构造复杂且危险，需要立即指派一名非常了解机械构造的禁闭者前来协助。",
             "TW": "MBCC接到治安局求助，新城某地標的巨型時鐘被裝入了炸藥，內部構造複雜且危險，需要立即指派一名非常瞭解機械構造的禁閉者前來協助。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Vanilla",
+                "JP": "ヴァニラ",
+                "KO": "바닐라",
+                "CN": "瓦尼菈",
+                "TW": "瓦尼菈"
+            }
         }
     },
     "128": {
-        "Id": "1040002",
-        "Rarity": "Green",
+        "Id": 1040002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Journal Market",
             "JP": "手帳マルシェ",
@@ -2319,11 +3730,20 @@
             "KO": "신성에서 다이어리 시장 이벤트를 진행했는데 어느 수감자가 그 안에 알 수 없는 위험이 숨겨져 있다며 적극적으로 위협을 제거할 것을 신청했다.",
             "CN": "新城举行了手账集市活动，某禁闭者坚称其中潜藏着大量不明危险，积极主动地申请前往排除威胁。",
             "TW": "新城舉行了手帳市集活動，某禁閉者堅稱其中潛藏著大量不明危險，積極主動地申請前往排除威脅。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Thistle",
+                "JP": "アザミ",
+                "KO": "시슬",
+                "CN": "蓟",
+                "TW": "薊"
+            }
         }
     },
     "129": {
-        "Id": "1040003",
-        "Rarity": "Blue",
+        "Id": 1040003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "High School Girl Kidnapping Case",
             "JP": "女子高誘拐事件",
@@ -2337,11 +3757,27 @@
             "KO": "신성의 한 여고에서 집단 납치사건이 발생했다. 치안국의 요청으로 MBCC는 긴급으로 여고생으로 변장할 수감자 2명을 파견해 인질을 구출하려고 한다.",
             "CN": "新城某女高发生了集体绑架事件，应治安局要求，MBCC紧急派遣两名禁闭者伪装成在校女高混入其中，实行秘密解救人质的计划。",
             "TW": "新城某女高發生了集體綁架事件，應治安局要求，MBCC緊急派遣兩名禁閉者偽裝成女高在校生混入其中，實行秘密解救人質的計畫。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Thistle",
+                "JP": "アザミ",
+                "KO": "시슬",
+                "CN": "蓟",
+                "TW": "薊"
+            },
+            "Sinner 2": {
+                "EN": "Lynn",
+                "JP": "リン",
+                "KO": "린",
+                "CN": "琳",
+                "TW": "琳"
+            }
         }
     },
     "130": {
-        "Id": "1041001",
-        "Rarity": "Purple",
+        "Id": 1041001,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Ancient Book Identification",
             "JP": "古書の識別",
@@ -2355,11 +3791,20 @@
             "KO": "최근 신성 도서관에서 이방 도시에서 얻은 진귀한 서적이 도난당했다. 서적의 회수와 감정을 도와줄 학자가 급히 필요하다.",
             "CN": "新城图书馆近期失窃了一批来自异邦的珍贵书籍原件，急需有关学者协助追回和甄辨。",
             "TW": "新城圖書館近期失竊了一批來自異邦的珍貴書籍原件，急需有關學者協助追回和辨識。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Du Ruo",
+                "JP": "杜若",
+                "KO": "두약",
+                "CN": "杜若",
+                "TW": "杜若"
+            }
         }
     },
     "131": {
-        "Id": "1041002",
-        "Rarity": "Green",
+        "Id": 1041002,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Culinary Festival",
             "JP": "料理大会",
@@ -2373,11 +3818,20 @@
             "KO": "신성 요리 대회의 개막을 앞두고 주최 측에서 관리국에 초대장을 보냈다. 초대장을 본 한 수감자가 자발적으로 참가를 요청했다.",
             "CN": "新城料理大会开幕在即，主办方向管理局发出友情邀请，某禁闭者在看到请帖后主动要求前去赴约。",
             "TW": "新城料理大會開幕在即，主辦方向管理局發出友情邀請，某禁閉者在看到請帖後主動要求前去赴約。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Yanyan",
+                "JP": "煙煙",
+                "KO": "옌옌",
+                "CN": "烟烟",
+                "TW": "煙煙"
+            }
         }
     },
     "132": {
-        "Id": "1041003",
-        "Rarity": "Blue",
+        "Id": 1041003,
+        "Quality": "Blue",
         "DispatchTitle": {
             "EN": "Child Model Disappearance Case",
             "JP": "子供服モデルの失踪事件",
@@ -2386,16 +3840,32 @@
             "TW": "童裝模特兒失蹤案"
         },
         "DispatchDescription": {
-            "EN": "Recently, several models of an Eastside luxury children's clothing brand have gone missing after photo shoots. Send two Sinners to go undercover in disguise and uncover the truth.",
+            "EN": "Recently, several models of an Eastside luxury children\\'s clothing brand have gone missing after photo shoots. Send two Sinners to go undercover in disguise and uncover the truth.",
             "JP": "最近、ニューシティにある有名な高級子供服ブランドのモデル数名が写真撮影の後に失踪した。コンビクト2名を変装させて潜入させ、真実を突き止める必要がある。",
             "KO": "최근 신성의 어느 명품 아동복 브랜드에서 촬영을 마친 모델들이 다수 실종되었다. 진상을 밝히기 위해 두 명의 수감자가 변장해서 잠입해야 한다.",
             "CN": "近日，新城某知名贵价童装品牌有多名模特在拍摄后失踪，需派出两名禁闭者变装潜入，查明真相。",
             "TW": "近日，新城某知名貴價童裝品牌有多名模特兒在拍攝後失蹤，需派出兩名禁閉者變裝潛入，查明真相。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Yanyan",
+                "JP": "煙煙",
+                "KO": "옌옌",
+                "CN": "烟烟",
+                "TW": "煙煙"
+            },
+            "Sinner 2": {
+                "EN": "Oliver",
+                "JP": "オリバー",
+                "KO": "올리버",
+                "CN": "奥利弗",
+                "TW": "奧利弗"
+            }
         }
     },
     "133": {
-        "Id": "1041004",
-        "Rarity": "Purple",
+        "Id": 1041004,
+        "Quality": "Purple",
         "DispatchTitle": {
             "EN": "Seminar Investigation",
             "JP": "講座調査",
@@ -2406,14 +3876,23 @@
         "DispatchDescription": {
             "EN": "The Public Security Bureau has recently received complaints about a suspicious self-claimed master holding seminars titled <i>Communication with the Sun<\/i> everywhere. Send a Sinner to investigate.",
             "JP": "最近、マスターを名乗る不審な人物が様々な場所で「太陽との交信」講座を行っていると治安局にクレームが寄せられたため、コンビクト1名を調査に派遣する必要がある。",
-            "KO": "치안국은 최근 자칭 마스터라는 수상한 인물이 '태양과의 소통' 관련 강좌를 열고 있다는 신고를 받았다. 이를 조사할 수감자 한 명을 파견해야 한다.",
+            "KO": "치안국은 최근 자칭 마스터라는 수상한 인물이 \\'태양과의 소통\\' 관련 강좌를 열고 있다는 신고를 받았다. 이를 조사할 수감자 한 명을 파견해야 한다.",
             "CN": "治安局近期接到投诉，一名自称大师的可疑人士在四处开设“沟通太阳”相关讲座，需派出一名禁闭者前往探查。",
             "TW": "治安局近期接到投訴，一名自稱大師的可疑人士在四處開設「溝通太陽」相關講座，需派出一名禁閉者前往探查。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Yao",
+                "JP": "曜",
+                "KO": "야오",
+                "CN": "曜",
+                "TW": "曜"
+            }
         }
     },
     "134": {
-        "Id": "1099001",
-        "Rarity": "Green",
+        "Id": 1099001,
+        "Quality": "Green",
         "DispatchTitle": {
             "EN": "Dream Interpretation",
             "JP": "夢の解析",
@@ -2427,6 +3906,15 @@
             "KO": "신성 일부 지역 주민들은 악몽을 자주꾼다. 구체적인 원인을 철저히 조사해야 한다.",
             "CN": "新城一些区域的居民经常做噩梦，需要查清具体原因。",
             "TW": "新城一些區域的居民經常做惡夢，需要查明具體原因。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Hecate",
+                "JP": "ヘカテー",
+                "KO": "헤카테",
+                "CN": "赫卡蒂",
+                "TW": "赫卡蒂"
+            }
         }
     }
 }
