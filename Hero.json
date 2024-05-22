@@ -1,0 +1,1025 @@
+{
+    "0": {
+        "Id": 110001,
+        "Hero_Name": {
+            "EN": "Chief",
+            "JP": "局長",
+            "KO": "국장",
+            "CN": "局长",
+            "TW": "局長"
+        },
+        "Internal_Name": "male"
+    },
+    "1": {
+        "Id": 110011,
+        "Hero_Name": {
+            "EN": "Chief",
+            "JP": "局長",
+            "KO": "국장",
+            "CN": "局长",
+            "TW": "局長"
+        },
+        "Internal_Name": "female"
+    },
+    "2": {
+        "Id": 110101,
+        "Hero_Name": {
+            "EN": "Demon",
+            "JP": "デーモン",
+            "KO": "데이먼",
+            "CN": "迪蒙",
+            "TW": "迪蒙"
+        },
+        "Internal_Name": "dimeng"
+    },
+    "3": {
+        "Id": 110102,
+        "Hero_Name": {
+            "EN": "OwO",
+            "JP": "ガオ",
+            "KO": "어흥",
+            "CN": "嗷呜",
+            "TW": "嗷嗚"
+        },
+        "Internal_Name": "owo"
+    },
+    "4": {
+        "Id": 110103,
+        "Hero_Name": {
+            "EN": "Rahu",
+            "JP": "ラーフ",
+            "KO": "라후",
+            "CN": "罗睺",
+            "TW": "羅睺"
+        },
+        "Internal_Name": "rahu"
+    },
+    "5": {
+        "Id": 110104,
+        "Hero_Name": {
+            "EN": "Vanilla",
+            "JP": "ヴァニラ",
+            "KO": "바닐라",
+            "CN": "瓦尼菈",
+            "TW": "瓦尼菈"
+        },
+        "Internal_Name": "vanilla"
+    },
+    "6": {
+        "Id": 110201,
+        "Hero_Name": {
+            "EN": "Zoya",
+            "JP": "ゾーヤ",
+            "KO": "조야",
+            "CN": "卓娅",
+            "TW": "卓婭"
+        },
+        "Internal_Name": "zoya"
+    },
+    "7": {
+        "Id": 110202,
+        "Hero_Name": {
+            "EN": "NOX",
+            "JP": "NOX",
+            "KO": "NOX",
+            "CN": "诺克斯",
+            "TW": "NOX"
+        },
+        "Internal_Name": "nuokesi"
+    },
+    "8": {
+        "Id": 110203,
+        "Hero_Name": {
+            "EN": "Deren",
+            "JP": "デイリン",
+            "KO": "데렌",
+            "CN": "黛伦",
+            "TW": "黛倫"
+        },
+        "Internal_Name": "deren"
+    },
+    "9": {
+        "Id": 110204,
+        "Hero_Name": {
+            "EN": "Donald",
+            "JP": "ドナルド",
+            "KO": "돈",
+            "CN": "唐",
+            "TW": "唐"
+        },
+        "Internal_Name": "don"
+    },
+    "10": {
+        "Id": 110205,
+        "Hero_Name": {
+            "EN": "Yao",
+            "JP": "曜",
+            "KO": "야오",
+            "CN": "曜",
+            "TW": "曜"
+        },
+        "Internal_Name": "yao"
+    },
+    "11": {
+        "Id": 110301,
+        "Hero_Name": {
+            "EN": "Bai Yi",
+            "JP": "ハクイツ",
+            "KO": "백",
+            "CN": "白逸",
+            "TW": "白逸"
+        },
+        "Internal_Name": "linglan"
+    },
+    "12": {
+        "Id": 110302,
+        "Hero_Name": {
+            "EN": "Crache",
+            "JP": "コージ",
+            "KO": "코히",
+            "CN": "科希",
+            "TW": "科希"
+        },
+        "Internal_Name": "crache"
+    },
+    "13": {
+        "Id": 110303,
+        "Hero_Name": {
+            "EN": "Serpent",
+            "JP": "ナチャ",
+            "KO": "나챠",
+            "CN": "娜恰",
+            "TW": "娜恰"
+        },
+        "Internal_Name": "snake"
+    },
+    "14": {
+        "Id": 110304,
+        "Hero_Name": {
+            "EN": "Adela",
+            "JP": "アデラ",
+            "KO": "아델라",
+            "CN": "阿黛拉",
+            "TW": "阿黛拉"
+        },
+        "Internal_Name": "adela"
+    },
+    "15": {
+        "Id": 110305,
+        "Hero_Name": {
+            "EN": "Mantis",
+            "JP": "マンティス",
+            "KO": "맨티스",
+            "CN": "曼缇斯",
+            "TW": "曼緹斯"
+        },
+        "Internal_Name": "mantis"
+    },
+    "16": {
+        "Id": 110401,
+        "Hero_Name": {
+            "EN": "Summer",
+            "JP": "夏音",
+            "KO": "여름",
+            "CN": "夏音",
+            "TW": "夏音"
+        },
+        "Internal_Name": "xiayin"
+    },
+    "17": {
+        "Id": 110402,
+        "Hero_Name": {
+            "EN": "Langley",
+            "JP": "ラングリー",
+            "KO": "랭글리",
+            "CN": "兰利",
+            "TW": "蘭利"
+        },
+        "Internal_Name": "lanli"
+    },
+    "18": {
+        "Id": 110403,
+        "Hero_Name": {
+            "EN": "Oak Casket",
+            "JP": "コフィン",
+            "KO": "캐스켓",
+            "CN": "橡木匣",
+            "TW": "橡木匣"
+        },
+        "Internal_Name": "oak"
+    },
+    "19": {
+        "Id": 110404,
+        "Hero_Name": {
+            "EN": "Dreya",
+            "JP": "デレーヤ",
+            "KO": "드레아",
+            "CN": "德雷雅",
+            "TW": "德雷雅"
+        },
+        "Internal_Name": "Dreya"
+    },
+    "20": {
+        "Id": 110405,
+        "Hero_Name": {
+            "EN": "Shalom",
+            "JP": "シャローム",
+            "KO": "샬롬",
+            "CN": "瑟琳",
+            "TW": "瑟琳"
+        },
+        "Internal_Name": "shalom"
+    },
+    "21": {
+        "Id": 110406,
+        "Hero_Name": {
+            "EN": "Lady Pearl",
+            "JP": "パール夫人",
+            "KO": "레이디 펄",
+            "CN": "珀尔夫人",
+            "TW": "珀爾夫人"
+        },
+        "Internal_Name": "pearl"
+    },
+    "22": {
+        "Id": 110501,
+        "Hero_Name": {
+            "EN": "Eirene",
+            "JP": "エイレーネー",
+            "KO": "이리나",
+            "CN": "伊琳娜",
+            "TW": "伊琳娜"
+        },
+        "Internal_Name": "heli"
+    },
+    "23": {
+        "Id": 110502,
+        "Hero_Name": {
+            "EN": "Nightingale",
+            "JP": "ナイチンゲール",
+            "KO": "나이팅게일",
+            "CN": "夜莺",
+            "TW": "夜鶯"
+        },
+        "Internal_Name": "yeying"
+    },
+    "24": {
+        "Id": 110503,
+        "Hero_Name": {
+            "EN": "Stargazer",
+            "JP": "スターゲイザー",
+            "KO": "점성가",
+            "CN": "观星者",
+            "TW": "觀星者"
+        },
+        "Internal_Name": "anarkia"
+    },
+    "25": {
+        "Id": 110504,
+        "Hero_Name": {
+            "EN": "Etti",
+            "JP": "アイティ",
+            "KO": "에티",
+            "CN": "爱缇",
+            "TW": "愛緹"
+        },
+        "Internal_Name": "etti"
+    },
+    "26": {
+        "Id": 110505,
+        "Hero_Name": {
+            "EN": "Raven",
+            "JP": "クロウ",
+            "KO": "크로우",
+            "CN": "渡鸦",
+            "TW": "渡鴉"
+        },
+        "Internal_Name": "Raven"
+    },
+    "27": {
+        "Id": 110506,
+        "Hero_Name": {
+            "EN": "Eleven",
+            "JP": "エブン",
+            "KO": "일레븐",
+            "CN": "雷温",
+            "TW": "雷溫"
+        },
+        "Internal_Name": "eleven"
+    },
+    "28": {
+        "Id": 110601,
+        "Hero_Name": {
+            "EN": "Hamel",
+            "JP": "ハーメル",
+            "KO": "하멜",
+            "CN": "哈梅尔",
+            "TW": "哈梅爾"
+        },
+        "Internal_Name": "hameier"
+    },
+    "29": {
+        "Id": 110602,
+        "Hero_Name": {
+            "EN": "Enfer",
+            "JP": "エンフェル",
+            "KO": "엔퍼",
+            "CN": "恩菲尔",
+            "TW": "恩菲爾"
+        },
+        "Internal_Name": "enfer"
+    },
+    "30": {
+        "Id": 110603,
+        "Hero_Name": {
+            "EN": "Cabernet",
+            "JP": "カベルネ",
+            "KO": "카베르네",
+            "CN": "卡门奈特",
+            "TW": "卡門奈特"
+        },
+        "Internal_Name": "cab"
+    },
+    "31": {
+        "Id": 110604,
+        "Hero_Name": {
+            "EN": "Coquelic",
+            "JP": "コクリコ",
+            "KO": "코쿠리코",
+            "CN": "可可莉克",
+            "TW": "可可莉克"
+        },
+        "Internal_Name": "coquelicot"
+    },
+    "32": {
+        "Id": 110605,
+        "Hero_Name": {
+            "EN": "Eve",
+            "JP": "イヴ",
+            "KO": "이브",
+            "CN": "伊芙",
+            "TW": "伊芙"
+        },
+        "Internal_Name": "eve"
+    },
+    "33": {
+        "Id": 110606,
+        "Hero_Name": {
+            "EN": "Du Ruo",
+            "JP": "杜若",
+            "KO": "두약",
+            "CN": "杜若",
+            "TW": "杜若"
+        },
+        "Internal_Name": "duruo"
+    },
+    "34": {
+        "Id": 111101,
+        "Hero_Name": {
+            "EN": "Countess Chelsea",
+            "JP": "チェルシー伯爵",
+            "KO": "첼시 백작",
+            "CN": "切尔西伯爵",
+            "TW": "切爾西伯爵"
+        },
+        "Internal_Name": "fupo"
+    },
+    "35": {
+        "Id": 111102,
+        "Hero_Name": {
+            "EN": "Cinnabar",
+            "JP": "辰砂",
+            "KO": "시나바",
+            "CN": "辰砂",
+            "TW": "辰砂"
+        },
+        "Internal_Name": "beisefenni"
+    },
+    "36": {
+        "Id": 111103,
+        "Hero_Name": {
+            "EN": "Kawa-kawa",
+            "JP": "カワカワ",
+            "KO": "카와카와",
+            "CN": "卡瓦卡瓦",
+            "TW": "卡瓦卡瓦"
+        },
+        "Internal_Name": "kavakava"
+    },
+    "37": {
+        "Id": 111104,
+        "Hero_Name": {
+            "EN": "Levy",
+            "JP": "レヴィ",
+            "KO": "레비",
+            "CN": "李维",
+            "TW": "李維"
+        },
+        "Internal_Name": "Levy"
+    },
+    "38": {
+        "Id": 111105,
+        "Hero_Name": {
+            "EN": "Uni",
+            "JP": "ユーニ",
+            "KO": "유니",
+            "CN": "尤尼",
+            "TW": "尤尼"
+        },
+        "Internal_Name": "Uni"
+    },
+    "39": {
+        "Id": 111106,
+        "Hero_Name": {
+            "EN": "Nino",
+            "JP": "ニノ",
+            "KO": "니노",
+            "CN": "妮诺",
+            "TW": "妮諾"
+        },
+        "Internal_Name": "nino"
+    },
+    "40": {
+        "Id": 111201,
+        "Hero_Name": {
+            "EN": "Ninety-Nine",
+            "JP": "ナインティナイン",
+            "KO": "나인티나인",
+            "CN": "九十九",
+            "TW": "九十九"
+        },
+        "Internal_Name": "jiushijiu"
+    },
+    "41": {
+        "Id": 111202,
+        "Hero_Name": {
+            "EN": "Wendy",
+            "JP": "ウェンディ",
+            "KO": "웬디",
+            "CN": "温蒂",
+            "TW": "溫蒂"
+        },
+        "Internal_Name": "wendy"
+    },
+    "42": {
+        "Id": 111203,
+        "Hero_Name": {
+            "EN": "Pacassi",
+            "JP": "ペガシ",
+            "KO": "파카시",
+            "CN": "帕加茜",
+            "TW": "帕加茜"
+        },
+        "Internal_Name": "pajiaxi"
+    },
+    "43": {
+        "Id": 111204,
+        "Hero_Name": {
+            "EN": "Dolly",
+            "JP": "ドリー",
+            "KO": "돌리",
+            "CN": "多莉",
+            "TW": "多莉"
+        },
+        "Internal_Name": "duoli"
+    },
+    "44": {
+        "Id": 111205,
+        "Hero_Name": {
+            "EN": "Horo",
+            "JP": "ホロ",
+            "KO": "히로",
+            "CN": "赫罗",
+            "TW": "赫羅"
+        },
+        "Internal_Name": "mojila"
+    },
+    "45": {
+        "Id": 111206,
+        "Hero_Name": {
+            "EN": "Mess",
+            "JP": "メイス",
+            "KO": "메스",
+            "CN": "莓丝",
+            "TW": "莓絲"
+        },
+        "Internal_Name": "mess"
+    },
+    "46": {
+        "Id": 111207,
+        "Hero_Name": {
+            "EN": "Corso",
+            "JP": "カスロ",
+            "KO": "캐슬로",
+            "CN": "卡斯洛",
+            "TW": "卡斯洛"
+        },
+        "Internal_Name": "corso"
+    },
+    "47": {
+        "Id": 111208,
+        "Hero_Name": {
+            "EN": "Christina",
+            "JP": "クリスティナ",
+            "KO": "크리스티나",
+            "CN": "克里斯蒂娜",
+            "TW": "克里斯蒂娜"
+        },
+        "Internal_Name": "christina"
+    },
+    "48": {
+        "Id": 111301,
+        "Hero_Name": {
+            "EN": "Iron",
+            "JP": "アイン",
+            "KO": "아이언",
+            "CN": "艾恩",
+            "TW": "艾恩"
+        },
+        "Internal_Name": "xinxiya"
+    },
+    "49": {
+        "Id": 111302,
+        "Hero_Name": {
+            "EN": "Tetra",
+            "JP": "テトラ",
+            "KO": "테트라",
+            "CN": "泰特拉",
+            "TW": "泰特拉"
+        },
+        "Internal_Name": "tetra"
+    },
+    "50": {
+        "Id": 111303,
+        "Hero_Name": {
+            "EN": "Sumire",
+            "JP": "菫",
+            "KO": "진",
+            "CN": "堇",
+            "TW": "堇"
+        },
+        "Internal_Name": "jin"
+    },
+    "51": {
+        "Id": 111304,
+        "Hero_Name": {
+            "EN": "Anura",
+            "JP": "アンロー",
+            "KO": "아누라",
+            "CN": "安罗",
+            "TW": "安羅"
+        },
+        "Internal_Name": "anluo"
+    },
+    "52": {
+        "Id": 111305,
+        "Hero_Name": {
+            "EN": "McQueen",
+            "JP": "マックイーン",
+            "KO": "맥퀸",
+            "CN": "麦昆",
+            "TW": "麥昆"
+        },
+        "Internal_Name": "mcqueen"
+    },
+    "53": {
+        "Id": 111306,
+        "Hero_Name": {
+            "EN": "Lynn",
+            "JP": "リン",
+            "KO": "린",
+            "CN": "琳",
+            "TW": "琳"
+        },
+        "Internal_Name": "lynn"
+    },
+    "54": {
+        "Id": 111307,
+        "Hero_Name": {
+            "EN": "Garofano",
+            "JP": "ガロファノ",
+            "KO": "가로파노",
+            "CN": "加洛法诺",
+            "TW": "加洛法諾"
+        },
+        "Internal_Name": "garofano"
+    },
+    "55": {
+        "Id": 111308,
+        "Hero_Name": {
+            "EN": "Eureka",
+            "JP": "エウレカ",
+            "KO": "유레카",
+            "CN": "优利卡",
+            "TW": "優利卡"
+        },
+        "Internal_Name": "eureka"
+    },
+    "56": {
+        "Id": 111309,
+        "Hero_Name": {
+            "EN": "Thistle",
+            "JP": "アザミ",
+            "KO": "시슬",
+            "CN": "蓟",
+            "TW": "薊"
+        },
+        "Internal_Name": "thistle"
+    },
+    "57": {
+        "Id": 111401,
+        "Hero_Name": {
+            "EN": "Pricilla",
+            "JP": "プリシラ",
+            "KO": "프리실라",
+            "CN": "普希拉",
+            "TW": "普希拉"
+        },
+        "Internal_Name": "peggi"
+    },
+    "58": {
+        "Id": 111402,
+        "Hero_Name": {
+            "EN": "Roulecca",
+            "JP": "ルリエカ",
+            "KO": "로레카",
+            "CN": "露莉艾卡",
+            "TW": "露莉艾卡"
+        },
+        "Internal_Name": "kuangdu"
+    },
+    "59": {
+        "Id": 111403,
+        "Hero_Name": {
+            "EN": "Wolverine",
+            "JP": "クズリ",
+            "KO": "울버린",
+            "CN": "狼獾",
+            "TW": "狼獾"
+        },
+        "Internal_Name": "langhuan"
+    },
+    "60": {
+        "Id": 111404,
+        "Hero_Name": {
+            "EN": "Matilda",
+            "JP": "マチルダ",
+            "KO": "마틸다",
+            "CN": "玛蒂尔达",
+            "TW": "瑪蒂爾達"
+        },
+        "Internal_Name": "matilda"
+    },
+    "61": {
+        "Id": 111405,
+        "Hero_Name": {
+            "EN": "Yanyan",
+            "JP": "煙煙",
+            "KO": "옌옌",
+            "CN": "烟烟",
+            "TW": "煙煙"
+        },
+        "Internal_Name": "yanyan"
+    },
+    "62": {
+        "Id": 111501,
+        "Hero_Name": {
+            "EN": "Victoria",
+            "JP": "ビクトリア",
+            "KO": "빅토리아",
+            "CN": "维多利亚",
+            "TW": "維多利亞"
+        },
+        "Internal_Name": "bai"
+    },
+    "63": {
+        "Id": 111502,
+        "Hero_Name": {
+            "EN": "Ignis",
+            "JP": "イグニ",
+            "KO": "이그니스",
+            "CN": "伊格尼",
+            "TW": "伊格尼"
+        },
+        "Internal_Name": "eagle"
+    },
+    "64": {
+        "Id": 111503,
+        "Hero_Name": {
+            "EN": "Luvia Ray",
+            "JP": "ルヴィア・レイ",
+            "KO": "루비아.레이",
+            "CN": "露薇娅·蕾",
+            "TW": "露薇婭·蕾"
+        },
+        "Internal_Name": "luweiyalei"
+    },
+    "65": {
+        "Id": 111504,
+        "Hero_Name": {
+            "EN": "Hecate",
+            "JP": "ヘカテー",
+            "KO": "헤카테",
+            "CN": "赫卡蒂",
+            "TW": "赫卡蒂"
+        },
+        "Internal_Name": "hekadi"
+    },
+    "66": {
+        "Id": 111505,
+        "Hero_Name": {
+            "EN": "Oliver",
+            "JP": "オリバー",
+            "KO": "올리버",
+            "CN": "奥利弗",
+            "TW": "奧利弗"
+        },
+        "Internal_Name": "olivier"
+    },
+    "67": {
+        "Id": 111506,
+        "Hero_Name": {
+            "EN": "Lamia",
+            "JP": "ラミア",
+            "KO": "라미아",
+            "CN": "拉弥亚",
+            "TW": "拉彌亞"
+        },
+        "Internal_Name": "lamia"
+    },
+    "68": {
+        "Id": 111507,
+        "Hero_Name": {
+            "EN": "Echo",
+            "JP": "アイカ",
+            "KO": "에코",
+            "CN": "艾可",
+            "TW": "艾可"
+        },
+        "Internal_Name": "echo"
+    },
+    "69": {
+        "Id": 111601,
+        "Hero_Name": {
+            "EN": "Ariel",
+            "JP": "アリエル",
+            "KO": "아리엘",
+            "CN": "艾瑞尔",
+            "TW": "艾瑞爾"
+        },
+        "Internal_Name": "airuier"
+    },
+    "70": {
+        "Id": 111602,
+        "Hero_Name": {
+            "EN": "Chameleon",
+            "JP": "カメリアン",
+            "KO": "카멜리안",
+            "CN": "卡米利安",
+            "TW": "卡米利安"
+        },
+        "Internal_Name": "chameleon"
+    },
+    "71": {
+        "Id": 111603,
+        "Hero_Name": {
+            "EN": "Anne",
+            "JP": "アン",
+            "KO": "앤",
+            "CN": "安",
+            "TW": "安"
+        },
+        "Internal_Name": "tuoqier"
+    },
+    "72": {
+        "Id": 111604,
+        "Hero_Name": {
+            "EN": "Mr. Fox",
+            "JP": "Mr.Fox",
+            "KO": "Mr.Fox",
+            "CN": "福克斯先生",
+            "TW": "Mr.Fox"
+        },
+        "Internal_Name": "kaier"
+    },
+    "73": {
+        "Id": 111605,
+        "Hero_Name": {
+            "EN": "Dudu",
+            "JP": "トト",
+            "KO": "토토",
+            "CN": "嘟嘟",
+            "TW": "嘟嘟"
+        },
+        "Internal_Name": "dudu"
+    },
+    "74": {
+        "Id": 111606,
+        "Hero_Name": {
+            "EN": "Letta",
+            "JP": "レタ",
+            "KO": "레타",
+            "CN": "莱塔",
+            "TW": "萊塔"
+        },
+        "Internal_Name": "letta"
+    },
+    "75": {
+        "Id": 111607,
+        "Hero_Name": {
+            "EN": "Cassia",
+            "JP": "カシア",
+            "KO": "카시아",
+            "CN": "卡西娅",
+            "TW": "卡西婭"
+        },
+        "Internal_Name": "cassia"
+    },
+    "76": {
+        "Id": 112101,
+        "Hero_Name": {
+            "EN": "K.K.",
+            "JP": "K.K.",
+            "KO": "K.K.",
+            "CN": "蔻蔻",
+            "TW": "K.K."
+        },
+        "Internal_Name": "kk"
+    },
+    "77": {
+        "Id": 112102,
+        "Hero_Name": {
+            "EN": "Demolia",
+            "JP": "デモーリー",
+            "KO": "데몰리아",
+            "CN": "德莫莉",
+            "TW": "德莫莉"
+        },
+        "Internal_Name": "atlant"
+    },
+    "78": {
+        "Id": 112103,
+        "Hero_Name": {
+            "EN": "Linus",
+            "JP": "ライナス",
+            "KO": "라이너스",
+            "CN": "莱纳斯",
+            "TW": "萊納斯"
+        },
+        "Internal_Name": "lainasi"
+    },
+    "79": {
+        "Id": 112104,
+        "Hero_Name": {
+            "EN": "Peggy",
+            "JP": "ペギー",
+            "KO": "페기",
+            "CN": "佩姬",
+            "TW": "佩姬"
+        },
+        "Internal_Name": "qiao"
+    },
+    "80": {
+        "Id": 112201,
+        "Hero_Name": {
+            "EN": "Hella",
+            "JP": "ヘラ",
+            "KO": "엘라",
+            "CN": "海拉",
+            "TW": "海拉"
+        },
+        "Internal_Name": "hella"
+    },
+    "81": {
+        "Id": 112202,
+        "Hero_Name": {
+            "EN": "Che",
+            "JP": "澈",
+            "KO": "치이",
+            "CN": "澈",
+            "TW": "澈"
+        },
+        "Internal_Name": "che"
+    },
+    "82": {
+        "Id": 112203,
+        "Hero_Name": {
+            "EN": "Pepper",
+            "JP": "ペッパー",
+            "KO": "후추",
+            "CN": "胡椒",
+            "TW": "胡椒"
+        },
+        "Internal_Name": "jiekuilin"
+    },
+    "83": {
+        "Id": 112301,
+        "Hero_Name": {
+            "EN": "Labyrinth",
+            "JP": "ラビリンス",
+            "KO": "레버린스",
+            "CN": "雷比尼斯",
+            "TW": "雷比尼斯"
+        },
+        "Internal_Name": "renou"
+    },
+    "84": {
+        "Id": 112302,
+        "Hero_Name": {
+            "EN": "Gekkabijin",
+            "JP": "ゲツライコウ",
+            "KO": "월하미인",
+            "CN": "昙",
+            "TW": "曇"
+        },
+        "Internal_Name": "zuoyi"
+    },
+    "85": {
+        "Id": 112400,
+        "Hero_Name": {
+            "EN": "Nightingale",
+            "JP": "ナイチンゲール",
+            "KO": "나이팅게일",
+            "CN": "夜莺",
+            "TW": "夜鶯"
+        },
+        "Internal_Name": "yeyingzs"
+    },
+    "86": {
+        "Id": 112401,
+        "Hero_Name": {
+            "EN": "EMP",
+            "JP": "EMP",
+            "KO": "EMP",
+            "CN": "艾米潘",
+            "TW": "EMP"
+        },
+        "Internal_Name": "aimiliya"
+    },
+    "87": {
+        "Id": 112402,
+        "Hero_Name": {
+            "EN": "Flora",
+            "JP": "フローラ",
+            "KO": "플로라",
+            "CN": "芙洛拉",
+            "TW": "芙洛拉"
+        },
+        "Internal_Name": "fuluola"
+    },
+    "88": {
+        "Id": 112403,
+        "Hero_Name": {
+            "EN": "Jaguar",
+            "JP": "ジャグウォー",
+            "KO": "예거",
+            "CN": "贾格瓦",
+            "TW": "賈格瓦"
+        },
+        "Internal_Name": "jiagewa"
+    },
+    "89": {
+        "Id": 112501,
+        "Hero_Name": {
+            "EN": "Kelvin",
+            "JP": "ケルビン",
+            "KO": "켈빈",
+            "CN": "开尔文",
+            "TW": "開爾文"
+        },
+        "Internal_Name": "dina"
+    },
+    "90": {
+        "Id": 112502,
+        "Hero_Name": {
+            "EN": "Joan",
+            "JP": "ジョーン",
+            "KO": "조안",
+            "CN": "琼",
+            "TW": "瓊"
+        },
+        "Internal_Name": "geji"
+    },
+    "91": {
+        "Id": 112601,
+        "Hero_Name": {
+            "EN": "Macchiato",
+            "JP": "マキアート",
+            "KO": "마키아토",
+            "CN": "玛奇朵",
+            "TW": "瑪奇朵"
+        },
+        "Internal_Name": "aida"
+    },
+    "92": {
+        "Id": 112602,
+        "Hero_Name": {
+            "EN": "Lisa",
+            "JP": "リザー",
+            "KO": "리사",
+            "CN": "丽莎",
+            "TW": "麗莎"
+        },
+        "Internal_Name": "monalisa"
+    }
+}
