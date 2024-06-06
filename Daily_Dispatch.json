@@ -798,11 +798,11 @@
         },
         "DispatchSinners": {
             "Sinner": {
-                "EN": "Flora",
-                "JP": "フローラ",
-                "KO": "플로라",
-                "CN": "芙洛拉",
-                "TW": "芙洛拉"
+                "EN": null,
+                "JP": null,
+                "KO": null,
+                "CN": null,
+                "TW": null
             }
         },
         "BaseAward": {
@@ -2614,11 +2614,11 @@
         },
         "DispatchSinners": {
             "Sinner": {
-                "EN": "Flora",
-                "JP": "フローラ",
-                "KO": "플로라",
-                "CN": "芙洛拉",
-                "TW": "芙洛拉"
+                "EN": null,
+                "JP": null,
+                "KO": null,
+                "CN": null,
+                "TW": null
             }
         },
         "BaseAward": {
@@ -6571,6 +6571,302 @@
         }
     },
     "134": {
+        "Id": 1042001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Space-Out Champion",
+            "JP": "ぼんやりチャンピオン",
+            "KO": "멍때리기 챔피언",
+            "CN": "发呆冠军",
+            "TW": "發呆冠軍"
+        },
+        "DispatchDescription": {
+            "EN": "Eastside\\'s Idle People Society has recently organized a space-out contest with a huge cash prize for the winner, attracting many strong contestants capable of spacing out for over ten hours. This seems to have unusually piqued the interest of a certain Sinner.",
+            "JP": "近々、ニューシティの暇人協会がぼんやりコンテストを開催する。優勝者には莫大な賞金が与えられるということで、10時間以上ぼんやりできる強者たちが大勢参加するという。あるコンビクトは、これを知って珍しく興味を示した。",
+            "KO": "최근 신성의 심심 인간 협회에서 멍때리기 대회를 열었다. 최종 우승자는 거액의 상금을 받게 된다. 10시간은 족히 멍때릴 수 있는 강자들이 하나둘 참여했고, 이 소식을 들은 한 수감자도 보기 드물게 관심을 보였다.",
+            "CN": "近日新城无聊人协会组织了一场发呆大赛，最终胜者可获巨额奖金，许多能发呆10小时以上的强者纷纷参与，某禁闭者得知后也难得表示了兴趣。",
+            "TW": "近日新城無聊人協會組織了一場發呆大賽，最終勝者可獲巨額獎金，許多能發呆10小時以上的強者紛紛參與，某禁閉者得知後也難得表示了興趣。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Angell",
+                "JP": "エンジェル",
+                "KO": "엔젤",
+                "CN": "安吉尔",
+                "TW": "安吉爾"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Arsenopyrite Crystal",
+                "JP": "毒砂結晶",
+                "KO": "독모래 결정",
+                "CN": "毒砂晶",
+                "TW": "毒砂晶"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Arsenopyrite Concentrate",
+                "JP": "毒砂の精鉱",
+                "KO": "정교한 독모래 광석",
+                "CN": "毒砂精矿",
+                "TW": "毒砂精礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "135": {
+        "Id": 1042002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Brawl Tutorial",
+            "JP": "乱闘講座",
+            "KO": "난투 수업",
+            "CN": "混战教学",
+            "TW": "混戰教學"
+        },
+        "DispatchDescription": {
+            "EN": "Feeling a lack of combat strength in complex environments like narrow alleys, the Eastside Public Security Bureau is urgently seeking a fighting coach seasoned in street brawls to boost their training quality.",
+            "JP": "市外戦のような複雑な環境での戦闘能力不足を痛感したため、ニューシティ治安局は訓練の質を更に高める目的で、街頭での乱闘経験が豊富な戦闘教官を緊急募集している。",
+            "KO": "시가전과 같은 복잡한 환경에서 전투력이 부족하다는 것을 절실히 느낀 신성 치안국은 길거리 난투 경험이 풍부한 격투 교관을 급히 초청해 훈련의 퀄리티를 높이려고 한다.",
+            "CN": "由于痛感在巷战等复杂环境下的战斗力不足，新城治安局急聘有丰富街头混战经验的搏击教官一名，以进一步强化训练质量。",
+            "TW": "由於痛感在巷戰等複雜環境下的戰鬥力不足，新城治安局急聘有豐富街頭混戰經驗的搏擊教官一名，以進一步強化訓練品質。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Golan",
+                "JP": "ギャラン",
+                "KO": "콜란",
+                "CN": "戈蓝",
+                "TW": "戈藍"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Arsenopyrite Concentrate",
+                "JP": "毒砂の精鉱",
+                "KO": "정교한 독모래 광석",
+                "CN": "毒砂精矿",
+                "TW": "毒砂精礦"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Arsenopyrite Raw Ore",
+                "JP": "毒砂の原鉱",
+                "KO": "거친 독모래 광석",
+                "CN": "毒砂粗矿",
+                "TW": "毒砂粗礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "136": {
+        "Id": 1042003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Lovely Temptation",
+            "JP": "可愛い誘惑",
+            "KO": "귀여운 유혹",
+            "CN": "可爱诱惑",
+            "TW": "可愛誘惑"
+        },
+        "DispatchDescription": {
+            "EN": "A well-known gift shop chain is expanding into Syndicate and launching a limited edition toy for the region. Upon learning that, several Sinners eagerly volunteer for missions in that area.",
+            "JP": "ある有名なブティックチェーン店がシンジケートに参入し、地域限定のぬいぐるみを発売すると決めた。それを聞きつけた数人のコンビクトが、積極的にそのエリアへの任務を要請した。",
+            "KO": "한 유명 부티크 체인 브랜드가 신디케이트에 진출해 지역 한정판 인형을 출시하기로 결정했다. 이 소식을 들은 몇몇 수감자는 해당 지역의 임무 수행에 나서겠다고 적극적으로 요구했다.",
+            "CN": "某知名精品店连锁品牌决定进军辛迪加并推出地区限定版玩偶，某几位禁闭者听说后积极要求前往该地区执行任务。",
+            "TW": "某知名精品店連鎖品牌決定進軍辛迪加並推出地區限定版玩偶，某幾位禁閉者聽說後積極要求前往該地區執行任務。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Golan",
+                "JP": "ギャラン",
+                "KO": "콜란",
+                "CN": "戈蓝",
+                "TW": "戈藍"
+            },
+            "Sinner 2": {
+                "EN": "Thistle",
+                "JP": "アザミ",
+                "KO": "시슬",
+                "CN": "蓟",
+                "TW": "薊"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Arsenopyrite Concentrate",
+                "JP": "毒砂の精鉱",
+                "KO": "정교한 독모래 광석",
+                "CN": "毒砂精矿",
+                "TW": "毒砂精礦"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Arsenopyrite Concentrate",
+                "JP": "毒砂の精鉱",
+                "KO": "정교한 독모래 광석",
+                "CN": "毒砂精矿",
+                "TW": "毒砂精礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "137": {
+        "Id": 1043001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Juice Tasting",
+            "JP": "###",
+            "KO": "###",
+            "CN": "果汁品鉴",
+            "TW": "果汁品鑒"
+        },
+        "DispatchDescription": {
+            "EN": "A renowned apple juice manufacturer in Eastside has launched a new tasting event for juices of various concentrations. A certain Sinner immediately submits thirty reports to apply to join the event.",
+            "JP": "###",
+            "KO": "###",
+            "CN": "某新城知名苹果汁酿造厂商推出了各种果汁浓度的新品品鉴活动，一名禁闭者听说后立刻连打三十份报告要求前往参与。",
+            "TW": "某新城知名蘋果汁釀造廠商推出了各種果汁濃度的新品品鑒活動，一名禁閉者聽說後立刻連打三十份報告要求前往參與。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Bianca",
+                "JP": "ビアンカ",
+                "KO": "비앙카",
+                "CN": "毕安卡",
+                "TW": "畢安卡"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Ice Crystal",
+                "JP": "氷晶",
+                "KO": "얼음 결정",
+                "CN": "冰晶",
+                "TW": "冰晶"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Ice Stone Concentrate",
+                "JP": "氷の精鉱",
+                "KO": "정교한 얼음석 광석",
+                "CN": "冰石精矿",
+                "TW": "冰石精礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "138": {
+        "Id": 1043002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Anti-Fraud Recordings",
+            "JP": "###",
+            "KO": "###",
+            "CN": "反诈语音",
+            "TW": "反詐語音"
+        },
+        "DispatchDescription": {
+            "EN": "In light of the recent surge in online dating scams, the Eastside Public Security Bureau is urgently seeking a Sinner with a charming voice who knows how to appeal to young netizens for their anti-fraud audio recordings.",
+            "JP": "###",
+            "KO": "###",
+            "CN": "近期以网恋形式展开的诈骗案件频发，新城治安局急招一名了解年轻网民喜好且声线迷人的禁闭者，录制反诈宣传语音。",
+            "TW": "近期以網戀形式展開的詐騙案件頻發，新城治安局急需一名瞭解年輕線民喜好且聲線迷人的禁閉者，錄製反詐騙宣傳語音。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Shawn",
+                "JP": "ショーン",
+                "KO": "숀",
+                "CN": "肖恩",
+                "TW": "肖恩"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Ice Stone Concentrate",
+                "JP": "氷の精鉱",
+                "KO": "정교한 얼음석 광석",
+                "CN": "冰石精矿",
+                "TW": "冰石精礦"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Ice Stone Raw Ore",
+                "JP": "氷の原鉱",
+                "KO": "거친 얼음석 광석",
+                "CN": "冰石粗矿",
+                "TW": "冰石粗礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "139": {
+        "Id": 1043003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Crush Course",
+            "JP": "###",
+            "KO": "###",
+            "CN": "心动进修",
+            "TW": "心動進修"
+        },
+        "DispatchDescription": {
+            "EN": "A new masked dating show by an Eastside entertainment company with the catchphrase <i>Win your heart with one sentence<\/i> has become an instant hit. Two Sinners particularly confident in sweet talk volunteer for the next audition.",
+            "JP": "###",
+            "KO": "###",
+            "CN": "新城某娱乐公司最新推出的蒙面恋综以“一句话，让你心动”为卖点，红极一时，某两名自恃擅长花言巧语的禁闭者主动提出欲参加新一轮海选。",
+            "TW": "新城某娛樂公司最新推出的蒙面戀綜以「一句話，讓你心動」為賣點，紅極一時，某兩名自恃擅長花言巧語的禁閉者主動提出欲參加新一輪海選。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Shawn",
+                "JP": "ショーン",
+                "KO": "숀",
+                "CN": "肖恩",
+                "TW": "肖恩"
+            },
+            "Sinner 2": {
+                "EN": "McQueen",
+                "JP": "マックイーン",
+                "KO": "맥퀸",
+                "CN": "麦昆",
+                "TW": "麥昆"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Ice Stone Concentrate",
+                "JP": "氷の精鉱",
+                "KO": "정교한 얼음석 광석",
+                "CN": "冰石精矿",
+                "TW": "冰石精礦"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Ice Stone Concentrate",
+                "JP": "氷の精鉱",
+                "KO": "정교한 얼음석 광석",
+                "CN": "冰石精矿",
+                "TW": "冰石精礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "140": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": {
