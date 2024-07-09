@@ -798,11 +798,11 @@
         },
         "DispatchSinners": {
             "Sinner": {
-                "EN": null,
-                "JP": null,
-                "KO": null,
-                "CN": null,
-                "TW": null
+                "EN": "Flora",
+                "JP": "フローラ",
+                "KO": "플로라",
+                "CN": "芙洛拉",
+                "TW": "芙洛拉"
             }
         },
         "BaseAward": {
@@ -2614,11 +2614,11 @@
         },
         "DispatchSinners": {
             "Sinner": {
-                "EN": null,
-                "JP": null,
-                "KO": null,
-                "CN": null,
-                "TW": null
+                "EN": "Flora",
+                "JP": "フローラ",
+                "KO": "플로라",
+                "CN": "芙洛拉",
+                "TW": "芙洛拉"
             }
         },
         "BaseAward": {
@@ -3300,11 +3300,11 @@
         },
         "DispatchSinners": {
             "Sinner": {
-                "EN": "Gekkabijin",
-                "JP": "ゲツライコウ",
-                "KO": "월하미인",
-                "CN": "昙",
-                "TW": "曇"
+                "EN": null,
+                "JP": null,
+                "KO": null,
+                "CN": null,
+                "TW": null
             }
         },
         "BaseAward": {
@@ -4563,7 +4563,7 @@
             "TW": "考察教學"
         },
         "DispatchDescription": {
-            "EN": "A well-known school in Eastside is holding an open academic event that welcomes people from all walks of life to participate. An aspiring teacher in the Bureau is requesting to go there for an inspection.",
+            "EN": "A well-known school in Eastside is holding an open academic event that welcomes people from all walks of life to participate. An aspiring teacher in the Bureau is requesting to go there for a tour.",
             "JP": "ニューシティの有名な学校が特別公開授業を行うとし、各界からの参観を歓迎している。管理局内のとある教鞭をとることを目指している者が見学を申し込んだ。",
             "KO": "신성의 한 유명 아카데미에서 수업 공개 행사를 진행해 각계 인사가 참관하고 교류할 수 있게 되었다. 관리국 내에 학급을 개설해 수업을 진행하려는 포부를 가진 인원이 조사를 신청했다.",
             "CN": "新城某知名学校将要举行教学公开活动，欢迎各界人士参观交流。某立志在管理局内开班授课的人员申请前往考察。",
@@ -4610,7 +4610,7 @@
             "TW": "民間私鬥"
         },
         "DispatchDescription": {
-            "EN": "Violent elements are reportedly hiding among brawling civilians. However, due to the target location\\'s complicated situation, it is necessary to send experienced personnel to investigate.",
+            "EN": "A group of violent individuals are reportedly hiding among brawling civilians. However, due to the target location\\'s complicated situation, it is necessary to send experienced personnel to investigate.",
             "JP": "数人のならず者がよく民間の格闘試合に紛れ込んで事件を起こすらしい。目標地点の情勢が少し複雑なため、その辺りに詳しい者を向かわせる必要がある。",
             "KO": "일부 폭력배들이 자주 민간 분쟁에 잠복한다고 한다. 해당 장소는 상황이 복잡하므로 경험이 많은 인원을 파견해 조사해야 한다.",
             "CN": "据传一群暴力分子常混迹潜伏于民间私斗，但由于目标场所形势复杂，需派出经验丰富的人员前往调查。",
@@ -6714,6 +6714,154 @@
                 "KO": "정교한 독모래 광석",
                 "CN": "毒砂精矿",
                 "TW": "毒砂精礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "137": {
+        "Id": 1043001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Juice Tasting",
+            "JP": "ジュースの試飲",
+            "KO": "주스 시음",
+            "CN": "果汁品鉴",
+            "TW": "果汁品鑒"
+        },
+        "DispatchDescription": {
+            "EN": "A renowned apple juice manufacturer in Eastside has launched a new tasting event for juices of various concentrations. A certain Sinner immediately submits thirty reports to apply to join the event.",
+            "JP": "ニューシティのある有名なリンゴジュースメーカーが、果汁の濃さが異なるジュースの新商品試飲イベントを開催した。それを聞いたあるコンビクトは、すぐに30件もの参加希望書を提出した。",
+            "KO": "신성의 한 유명 사과주스 제조업체가 다양한 농도의 신제품 시음 행사를 시작했다. 이 소식을 들은 한 수감자는 그 즉시 행사에 참여하고 싶다는 내용의 보고서를 30건이나 제출했다.",
+            "CN": "某新城知名苹果汁酿造厂商推出了各种果汁浓度的新品品鉴活动，一名禁闭者听说后立刻连打三十份报告要求前往参与。",
+            "TW": "某新城知名蘋果汁釀造廠商推出了各種果汁濃度的新品品鑒活動，一名禁閉者聽說後立刻連打三十份報告要求前往參與。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Bianca",
+                "JP": "ビアンカ",
+                "KO": "비앙카",
+                "CN": "毕安卡",
+                "TW": "畢安卡"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Ice Crystal",
+                "JP": "氷晶",
+                "KO": "얼음 결정",
+                "CN": "冰晶",
+                "TW": "冰晶"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Ice Stone Concentrate",
+                "JP": "氷の精鉱",
+                "KO": "정교한 얼음석 광석",
+                "CN": "冰石精矿",
+                "TW": "冰石精礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "138": {
+        "Id": 1043002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Anti-Fraud Recordings",
+            "JP": "詐欺防止ボイス",
+            "KO": "사기 방지 음성",
+            "CN": "反诈语音",
+            "TW": "反詐語音"
+        },
+        "DispatchDescription": {
+            "EN": "In light of the recent surge in online dating scams, the Eastside Public Security Bureau is urgently seeking a Sinner with a charming voice who knows how to appeal to young netizens for their anti-fraud audio recordings.",
+            "JP": "最近、インターネット上の出会いを利用した詐欺事件が多発している。そのため、ニューシティ治安局は若いネットユーザーの好みを把握し、詐欺防止のPRボイスを収録するため、魅力的な声を持つコンビクトを緊急募集した。",
+            "KO": "최근 랜선 연애를 빙자한 사기 사건이 잇달아 발생하자, 신성 치안국은 사기 방지 홍보용 음성을 녹음하기 위해 젊은 네티즌의 취향을 잘 아는 매력적인 목소리를 가진 수감자를 급히 모집했다.",
+            "CN": "近期以网恋形式展开的诈骗案件频发，新城治安局急招一名了解年轻网民喜好且声线迷人的禁闭者，录制反诈宣传语音。",
+            "TW": "近期以網戀形式展開的詐騙案件頻發，新城治安局急需一名瞭解年輕線民喜好且聲線迷人的禁閉者，錄製反詐騙宣傳語音。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Shawn",
+                "JP": "ショーン",
+                "KO": "숀",
+                "CN": "肖恩",
+                "TW": "肖恩"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Ice Stone Concentrate",
+                "JP": "氷の精鉱",
+                "KO": "정교한 얼음석 광석",
+                "CN": "冰石精矿",
+                "TW": "冰石精礦"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Ice Stone Raw Ore",
+                "JP": "氷の原鉱",
+                "KO": "거친 얼음석 광석",
+                "CN": "冰石粗矿",
+                "TW": "冰石粗礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "139": {
+        "Id": 1043003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Crush Course",
+            "JP": "ときめき研修",
+            "KO": "심쿵 연수",
+            "CN": "心动进修",
+            "TW": "心動進修"
+        },
+        "DispatchDescription": {
+            "EN": "A new masked dating show by an Eastside entertainment company with the catchphrase <i>Win your heart with one sentence<\/i> has become an instant hit. Two Sinners particularly confident in sweet talk volunteer for the next audition.",
+            "JP": "ニューシティのある新興エンタメ会社が、「一言でときめかせる」をキャッチコピーとした覆面恋愛リアリティーショーを制作し、一時期話題となった。そして、口説くのが得意だと自負するコンビクト2名が、次のオーディションに参加したいと申し出た。",
+            "KO": "신성의 한 엔터테인먼트 회사에서 \\'한마디로 심쿵\\'이라는 테마로 새로운 복면 연애 프로그램을 론칭해 인기를 끌었다. 그러자 사람을 홀리는 말을 잘하는 수감자 두 명이 자발적으로 차기 오디션에 참가 신청을 했다.",
+            "CN": "新城某娱乐公司最新推出的蒙面恋综以“一句话，让你心动”为卖点，红极一时，某两名自恃擅长花言巧语的禁闭者主动提出欲参加新一轮海选。",
+            "TW": "新城某娛樂公司最新推出的蒙面戀綜以「一句話，讓你心動」為賣點，紅極一時，某兩名自恃擅長花言巧語的禁閉者主動提出欲參加新一輪海選。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Shawn",
+                "JP": "ショーン",
+                "KO": "숀",
+                "CN": "肖恩",
+                "TW": "肖恩"
+            },
+            "Sinner 2": {
+                "EN": "McQueen",
+                "JP": "マックイーン",
+                "KO": "맥퀸",
+                "CN": "麦昆",
+                "TW": "麥昆"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Ice Stone Concentrate",
+                "JP": "氷の精鉱",
+                "KO": "정교한 얼음석 광석",
+                "CN": "冰石精矿",
+                "TW": "冰石精礦"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Ice Stone Concentrate",
+                "JP": "氷の精鉱",
+                "KO": "정교한 얼음석 광석",
+                "CN": "冰石精矿",
+                "TW": "冰石精礦"
             },
             "Reward Qty": "1.0"
         }
