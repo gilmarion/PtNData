@@ -10,7 +10,7 @@
             "TW": "白記老字號"
         },
         "DispatchDescription": {
-            "EN": "An old customer placed an order at Whitestone. To uphold Whitestone\\'s reputation, the order must be completed!",
+            "EN": "An old customer placed an order at Whitestone. To uphold Whitestone's reputation, the order must be completed!",
             "JP": "ある常連客が白記に注文をした。白記の看板を守るため、この注文に必ず応えてみせる！",
             "KO": "어느 한 단골손님이 백기에 의뢰를 넣었다. 백기의 명예를 위해서는 반드시 이 의뢰를 끝까지 책임져야 한다!",
             "CN": "一位老主顾在白记下了单，为了保住白记这块招牌，必须把这个单给结了！",
@@ -59,7 +59,7 @@
         "DispatchDescription": {
             "EN": "The rest of the FAC wants the former security head of Serpent Eye to give them some security training.",
             "JP": "FACの他の部門は、元「スネークアイ」のセキュリティ責任者によってセキュリティ分野の訓練が行われることを望んでいる。",
-            "KO": "FAC 다른 부서에서 전 \\'스네이크 아이즈\\' 보안 팀장이 이들에게 보안 분야의 교육을 진행할 수 있기를 희망했다.",
+            "KO": "FAC 다른 부서에서 전 '스네이크 아이즈' 보안 팀장이 이들에게 보안 분야의 교육을 진행할 수 있기를 희망했다.",
             "CN": "FAC其他部门希望前“蛇眼”安保主管能够对他们进行一些安保领域的培训。",
             "TW": "FAC其他部門希望前「蛇眼」安保主管能夠對他們進行一些安保領域的培訓。"
         },
@@ -198,7 +198,7 @@
         "Id": 1002001,
         "Quality": "Grey",
         "DispatchTitle": {
-            "EN": "No Man\\'s Land",
+            "EN": "No Man's Land",
             "JP": "主なき場所",
             "KO": "무인 지대",
             "CN": "无主之地",
@@ -595,7 +595,7 @@
             "TW": "機械舞"
         },
         "DispatchDescription": {
-            "EN": "Someone declared they want to assassinate a performer on the dance tour. To protect her, we\\'re going to use a body double.",
+            "EN": "Someone declared they want to assassinate a performer on the dance tour. To protect her, we're going to use a body double.",
             "JP": "ある人物にダンス公演での暗殺予告が行われた。彼女を守るために、我々は身代わり作戦を使うつもりだ。",
             "KO": "누군가가 댄스 투어의 공연자를 암살하겠다고 선언했다. 이들을 보호하기 위해 우리는 대역 전술을 준비할 것이다.",
             "CN": "有人宣称要在舞蹈巡演中刺杀表演者，为了保护她，我们准备使用替身战术。",
@@ -938,7 +938,7 @@
             "TW": "技術支援"
         },
         "DispatchDescription": {
-            "EN": "The parent organization\\'s research institute has recently encountered several technical difficulties. Considering the extent of professional knowledge required, there seems to be only one suitable candidate.",
+            "EN": "The parent organization's research institute has recently encountered several technical difficulties. Considering the extent of professional knowledge required, there seems to be only one suitable candidate.",
             "JP": "上級機関の研究所は最近幾つかの技術的難問に直面した。専門的業務の難度を考えると、適任者は一人しかいないようだ。",
             "KO": "최근 상급기관의 연구소에서 몇 가지 곤란한 기술적 문제에 부닥쳤다. 전문성의 난이도를 고려하면 적임자는 한 명밖에 없는 것 같다.",
             "CN": "上级机构的研究院最近遇到了几处技术难题。考虑到其专业难度，合适的人选似乎只有一个了。",
@@ -1079,7 +1079,7 @@
             "TW": "書籍採購"
         },
         "DispatchDescription": {
-            "EN": "The Bureau\\'s book procurement work has officially started. The total book list is 19 pages long. It is not easy to find suitable candidates.",
+            "EN": "The Bureau's book procurement work has officially started. The total book list is 19 pages long. It is not easy to find suitable candidates.",
             "JP": "管理局の図書調達の仕事が本格的に始まった。図書リストは19ページに及ぶため、適任者を見つけるのは簡単ではない。",
             "KO": "관리국의 서적 구매 업무가 정식으로 시작되었다. 명세서가 19페이지에 달하여, 적임자를 찾기가 쉽지 않았다.",
             "CN": "管理局的书籍采购工作正式开始，总书单长达十九页，找到合适的人选并不容易。",
@@ -1913,7 +1913,7 @@
             "TW": "送葬人"
         },
         "DispatchDescription": {
-            "EN": "Someone in Syndicate is using the Undertaker\\'s name to do evil things, igniting the Undertaker\\'s wrath.",
+            "EN": "Someone in Syndicate is using the Undertaker's name to do evil things, igniting the Undertaker's wrath.",
             "JP": "シンジケートには葬儀屋の名を借りて悪事を働く者がおり、ある葬儀屋の怒りは頂点に達した。",
             "KO": "신디케이트에서 누군가가 장의사의 명의로 온갖 나쁜 짓을 저지르고 있다. 이것은 어느 한 장의사의 분노를 제대로 자극했다.",
             "CN": "辛迪加有人借用送葬人的名义为非作歹，这已经点燃了某位送葬人的怒火。",
@@ -2162,7 +2162,7 @@
             "TW": "並非野草"
         },
         "DispatchDescription": {
-            "EN": "An edible desert plant is growing successfully in the Bureau\\'s green belt. Try planting in the experimental field in WhiteSands.",
+            "EN": "An edible desert plant is growing successfully in the Bureau's green belt. Try planting in the experimental field in WhiteSands.",
             "JP": "管理局の緑地で、食用可能な砂漠植物が育てられている。砂の海の実験畑に植えてみてはどうだろうか。",
             "KO": "관리국의 녹지에는 먹을 수 있는 사막 식물이 한 그루 심어져 있는데, 아마도 화이트 샌드의 실험용 밭에 심어 볼 수 있을 것 같다.",
             "CN": "管理局的绿地里种出了一棵可食用的沙漠植物，或许可以在砂海上的实验田里试种一下。",
@@ -2453,7 +2453,7 @@
         "DispatchTitle": {
             "EN": "\\\\\"Hidden\\\\\" Masses",
             "JP": "「潜伏」民衆",
-            "KO": "\\'잠복\\' 군중",
+            "KO": "'잠복' 군중",
             "CN": "“潜伏”群众",
             "TW": "「潛伏」群眾"
         },
@@ -2996,7 +2996,7 @@
             "TW": "鏽河禁令"
         },
         "DispatchDescription": {
-            "EN": "The recent surge in stowaways along the Rust has prompted the Eastside Public Security Bureau to find out who\\'s behind the phenomenon.",
+            "EN": "The recent surge in stowaways along the Rust has prompted the Eastside Public Security Bureau to find out who's behind the phenomenon.",
             "JP": "最近、錆の川からの密入者が急増しており、ニューシティ治安局はその背後にいる組織を見つけようとしている。",
             "KO": "최근 밀입국자가 급증하자 러스트 리버는 배후의 조직을 찾아내려고 한다.",
             "CN": "近期锈河里的偷渡客数量激增，新城治安局想要找出背后运作此事的组织。",
@@ -3050,9 +3050,9 @@
             "TW": "柳生異動"
         },
         "DispatchDescription": {
-            "EN": "There has been a huge inflow of funds into Yagyu\\'s accounts. According to relevant intelligence, they are trying to launch a new \\\\\"hunt\\\\\" and must be stopped.",
+            "EN": "There has been a huge inflow of funds into Yagyu's accounts. According to relevant intelligence, they are trying to launch a new \\\\\"hunt\\\\\" and must be stopped.",
             "JP": "柳生株式会社の口座に巨額の資金が流入している。情報によると、彼らは新たな「狩猟」を展開しようとしているそうだ。あいつらの行動を止めなければならない。",
-            "KO": "야나기 그룹의 장부에 거액의 자금이 유입되고 있다는 첩보에 따라 새로운 \\'사냥\\'을 시도하고 있다. 반드시 막아야 한다.",
+            "KO": "야나기 그룹의 장부에 거액의 자금이 유입되고 있다는 첩보에 따라 새로운 '사냥'을 시도하고 있다. 반드시 막아야 한다.",
             "CN": "柳生会社账面上出现了巨额资金流入，根据相关情报，他们正试图展开一场新的“狩猎”，这种行为必须被阻止。",
             "TW": "柳生會社帳面上出現了巨額資金流入，根據相關情報，他們正試圖展開一場新的「狩獵」，這種行為必須被阻止。"
         },
@@ -3245,7 +3245,7 @@
             "TW": "灰燼之潮"
         },
         "DispatchDescription": {
-            "EN": "Abnormal fluctuations have appeared in this cycle\\'s Tide of Ashes. The Secret Society Matrix wants to discover the reason behind this phenomenon.",
+            "EN": "Abnormal fluctuations have appeared in this cycle's Tide of Ashes. The Secret Society Matrix wants to discover the reason behind this phenomenon.",
             "JP": "今期の灰の潮に異常が現れ、秘盟マトリックスは原因を明らかにしようとしている。",
             "KO": "이번 주기의 잿더미의 파도가 이상 파동을 보이자 매트릭스는 배후의 원인을 규명하고자 했다.",
             "CN": "本周期的灰烬之潮出现了一些异常波动，秘盟矩阵想要查明背后的原因。",
@@ -3635,7 +3635,7 @@
             "TW": "學習小組"
         },
         "DispatchDescription": {
-            "EN": "In the Bureau\\'s special training sessions, Sinners form one-on-one study groups and help each other in their areas of strength.",
+            "EN": "In the Bureau's special training sessions, Sinners form one-on-one study groups and help each other in their areas of strength.",
             "JP": "管理局の特別訓練では、コンビクトたちが1対1の学習グループを作り、それぞれの得意分野で助け合う。",
             "KO": "관리국의 특별 교육에 따라 수감자들은 각자의 특기를 사용해 서로를 돕는 1대1 스터디 그룹을 형성할 것이다.",
             "CN": "在管理局的特别培训中，禁闭者们会组成一对一的学习小组，在各自的优势领域互相帮助。",
@@ -3823,7 +3823,7 @@
             "TW": "打假"
         },
         "DispatchDescription": {
-            "EN": "A novice Eastside blacksmith claims to be the apprentice of the city\\'s top weaponsmith, luring in numerous clients with that title. This greatly vexes the top weaponsmith of Eastside who\\'s never taken any apprentices.",
+            "EN": "A novice Eastside blacksmith claims to be the apprentice of the city's top weaponsmith, luring in numerous clients with that title. This greatly vexes the top weaponsmith of Eastside who's never taken any apprentices.",
             "JP": "自称「ニューシティ最高の武器職人の弟子」であるニューシティの新人鍛冶屋が、多くの客を引きつけている。そのことに対し、これまで一度も弟子をとったことのないニューシティ最高の武器職人本人が、ひどく怒っている。",
             "KO": "신성의 신인 단조사가 자신이 신성 제일 단조사를 스승으로 모셨다고 주장하여 많은 사람이 그 소문을 듣고 신인을 찾으러 갔다. 그러나 한 번도 제자를 둔 적 없었던 신성 제일 단조사는 화가 잔뜩 났다.",
             "CN": "一名新城的新人锻造师自称师承新城第一武器工匠，引得不少人慕名而去，此事让从未收过徒的新城第一武器工匠本人气得不轻。",
@@ -4462,7 +4462,7 @@
             "TW": "主場優勢"
         },
         "DispatchDescription": {
-            "EN": "According to credible sources, a suspect has been frequenting the dodgy entertainment facilities in Eastside. You need someone who\\'s familiar with the environment to carry out research and collect evidence.",
+            "EN": "According to credible sources, a suspect has been frequenting the dodgy entertainment facilities in Eastside. You need someone who's familiar with the environment to carry out research and collect evidence.",
             "JP": "報告によると、ある容疑者が最近よくニューシティの様々な人が出入りする娯楽施設に出没している。この環境に詳しい人物が調査及び証拠収集を行う必要がある。",
             "KO": "최근 한 용의자가 신성 내 각종 오락 장소에 자주 출몰하고 있다는 믿을만한 정보를 받았다. 이런 환경에 익숙한 사람이 수사 및 증거 수집을 담당해야 한다.",
             "CN": "据可靠线报，一名嫌疑犯最近常出没于新城各鱼龙混杂的娱乐场所，需要熟悉环境者进行调查和证据搜集工作。",
@@ -4610,7 +4610,7 @@
             "TW": "民間私鬥"
         },
         "DispatchDescription": {
-            "EN": "A group of violent individuals are reportedly hiding among brawling civilians. However, due to the target location\\'s complicated situation, it is necessary to send experienced personnel to investigate.",
+            "EN": "A group of violent individuals are reportedly hiding among brawling civilians. However, due to the target location's complicated situation, it is necessary to send experienced personnel to investigate.",
             "JP": "数人のならず者がよく民間の格闘試合に紛れ込んで事件を起こすらしい。目標地点の情勢が少し複雑なため、その辺りに詳しい者を向かわせる必要がある。",
             "KO": "일부 폭력배들이 자주 민간 분쟁에 잠복한다고 한다. 해당 장소는 상황이 복잡하므로 경험이 많은 인원을 파견해 조사해야 한다.",
             "CN": "据传一群暴力分子常混迹潜伏于民间私斗，但由于目标场所形势复杂，需派出经验丰富的人员前往调查。",
@@ -4713,7 +4713,7 @@
         "DispatchDescription": {
             "EN": "The Bureau needs a keen listener for others to confide in, and designates a room designed to look like the starry cosmos as a place to vent.",
             "JP": "みんなの悩みを解消するために「聞き上手」の者を一人選んで、相談役にする必要がある。悩み相談の場所として、宇宙の星空をモチーフにした相談部屋が設置された。",
-            "KO": "관리국은 대나무 숲처럼 \\'다른 사람의 고민을 들어줄 사람\\'이 필요해, 우주 공간처럼 꾸민 방을 준비해 고민을 털어놓는 장소로 만들었다.",
+            "KO": "관리국은 대나무 숲처럼 '다른 사람의 고민을 들어줄 사람'이 필요해, 우주 공간처럼 꾸민 방을 준비해 고민을 털어놓는 장소로 만들었다.",
             "CN": "管理局内需要一名能够作为树洞的“烦恼倾听者”，并装饰了一间类似宇宙星空的房间作为倾吐地点。",
             "TW": "管理局內需要一名能夠作為樹洞的「煩惱傾聽者」，並裝飾了一間類似宇宙星空的房間作為傾吐地點。"
         },
@@ -5056,7 +5056,7 @@
         "DispatchDescription": {
             "EN": "An up-and-coming artist in Eastside is organizing a solo exhibition on the theme of \\\\\"The Ocean\\\\\", and he has contacted the Bureau in the hope that he can get some material and inspiration from a certain Sinner.",
             "JP": "ニューシティのとある新進気鋭のアーティストは「海洋」をテーマに個展を開こうとしている。彼は管理局に連絡し、あるコンビクトからインスピレーションを得たいという。",
-            "KO": "신성의 한 신예 예술가가 \\'바다\\'를 주제로 한 개인 아트 전시회를 기획하고 있었다. 그는 관리국에 연락해서 어느 수감자로부터 소재와 영감 얻기를 희망한다고 전했다.",
+            "KO": "신성의 한 신예 예술가가 '바다'를 주제로 한 개인 아트 전시회를 기획하고 있었다. 그는 관리국에 연락해서 어느 수감자로부터 소재와 영감 얻기를 희망한다고 전했다.",
             "CN": "新城某新锐艺术家正在筹办以“海洋”为主题的个人艺术展，他联系到管理局，希望可以从某位禁闭者身上获取一些素材和灵感。",
             "TW": "新城某新銳藝術家正在籌辦以「海洋」為主題的個人藝術展，他聯繫到管理局，希望可以從某位禁閉者身上獲得一些素材和靈感。"
         },
@@ -5251,7 +5251,7 @@
         "DispatchDescription": {
             "EN": "A number of cases suspected to be modeled after the \\\\\"Garden\\\\\" have been reported in a certain area. The Public Security Bureau applies to the MBCC for dispatching Garden-related personnel to assist in the investigation.",
             "JP": "あるところで暗殺事件が多発しており、「花庭園」の模倣犯による可能性が高いと推測されている。花庭園の関係者を調査に向かわせるよう、治安局からの協力要請が届いた。",
-            "KO": "모 지역에서 \\'화원\\'의 수법을 모방한 것으로 의심되는 사건이 여럿 발생했다. 치안국은 즉시 관리국에 화원 관련 인력의 조사 협조를 요청했다.",
+            "KO": "모 지역에서 '화원'의 수법을 모방한 것으로 의심되는 사건이 여럿 발생했다. 치안국은 즉시 관리국에 화원 관련 인력의 조사 협조를 요청했다.",
             "CN": "某地出现了多起疑似效仿“花园”手法的案件，治安局遂向管理局申请派遣花园相关人员协助调查。",
             "TW": "某地出現了多起疑似效仿「花園」手法的案件，治安局遂向管理局申請派遣花園相關人員協助調查。"
         },
@@ -5794,7 +5794,7 @@
             "TW": "玩具的凝視"
         },
         "DispatchDescription": {
-            "EN": "Recently, many citizens have reported feeling watched by their daughter\\'s dolls, suspecting that a peeping gang has put their modified toys into the market. A Sinner who is proficient in toy design and manufacturing is urgently needed to assist with the investigation.",
+            "EN": "Recently, many citizens have reported feeling watched by their daughter's dolls, suspecting that a peeping gang has put their modified toys into the market. A Sinner who is proficient in toy design and manufacturing is urgently needed to assist with the investigation.",
             "JP": "最近、複数の一般市民から「娘の人形に睨まれているような気がする」という通報が相次いでいる。盗撮組織がおもちゃを改造して市場に流通させた疑いがあるため、おもちゃの設計や製造に精通したコンビクトの捜査協力が急ぎ必要だ。",
             "KO": "최근 여러 시민이 딸애의 인형이 자신을 쳐다보는 것 같다는 신고를 했다. 불법 촬영 조직이 장난감을 개조하여 시장에 유통시킨 것으로 의심되어 장난감 설계 제작에 능숙한 수감자의 협조가 시급하다.",
             "CN": "近日多名市民报案称感觉被女儿的洋娃娃盯着看，疑似偷拍团伙改造玩具后使其流入市场，急需一名精通玩具设计制造的禁闭者协助调查。",
@@ -5944,7 +5944,7 @@
         "DispatchDescription": {
             "EN": "The Bureau plans to compile a comprehensive history document of the rise and development of Rustfire. They need those in the know to assist them.",
             "JP": "管理局は、「錆火」組織の発足と発展に関する詳細な歴史を編纂する計画を立てている。そのためには情報を持っている人の協力が必要だ。",
-            "KO": "관리국은 \\'러스트 스파크\\' 조직의 부흥과 발전에 대한 상세한 역사적 자료를 정리하려고 한다. 이를 위해 내부자의 도움을 받아야 한다.",
+            "KO": "관리국은 '러스트 스파크' 조직의 부흥과 발전에 대한 상세한 역사적 자료를 정리하려고 한다. 이를 위해 내부자의 도움을 받아야 한다.",
             "CN": "管理局计划梳理一份有关“锈火”组织兴起与发展的详尽历史材料，需要知情者协助完成。",
             "TW": "管理局計畫梳理一份有關「鏽火」組織興起與發展的詳盡歷史資料，需要知情者協助完成。"
         },
@@ -6036,7 +6036,7 @@
             "TW": "清潔大掃除"
         },
         "DispatchDescription": {
-            "EN": "The Bureau has been busy with official duties recently and doesn\\'t have enough time for housekeeping. Two Sinners have decided to work together to complete a major cleanup.",
+            "EN": "The Bureau has been busy with official duties recently and doesn't have enough time for housekeeping. Two Sinners have decided to work together to complete a major cleanup.",
             "JP": "最近、管理局は公務に追われて清掃がおろそかになっているため、コンビクト2名が協力して大掃除をすることにした。",
             "KO": "관리국은 최근 공무로 바빠 집 안 청소에 소홀하여 두 명의 수감자가 함께 대청소에 나섰다.",
             "CN": "管理局近来公务繁忙，疏于家务清洁，某二位禁闭者决定共同完成一次大扫除。",
@@ -6238,7 +6238,7 @@
             "TW": "炸彈預告"
         },
         "DispatchDescription": {
-            "EN": "The MBCC received a request from the Public Security Bureau. Explosives have been planted into a giant clock in an Eastside landmark. The device\\'s mechanism is complex and dangerous, so they require urgent assistance from a Sinner with extensive knowledge of mechanical structures.",
+            "EN": "The MBCC received a request from the Public Security Bureau. Explosives have been planted into a giant clock in an Eastside landmark. The device's mechanism is complex and dangerous, so they require urgent assistance from a Sinner with extensive knowledge of mechanical structures.",
             "JP": "MBCCは治安局から協力を求められた。ニューシティのランドマークにある巨大な時計に爆発物が仕込まれたらしい。内部の構造は複雑で危険であり、機械構造に詳しいコンビクトを直ちに現場に派遣する必要がある。",
             "KO": "MBCC는 치안국의 지원 요청을 받아 신성의 한 랜드마크에 있는 거대한 시계탑에 설치된 폭탄을 제거하려 한다. 시계탑의 내부 구조는 복잡하고 위험해서 기계 구조에 대해 잘 알고 있는 수감자를 파견해야 한다.",
             "CN": "MBCC接到治安局求助，新城某地标的巨型时钟被装入了炸药，内部构造复杂且危险，需要立即指派一名非常了解机械构造的禁闭者前来协助。",
@@ -6480,7 +6480,7 @@
             "TW": "童裝模特兒失蹤案"
         },
         "DispatchDescription": {
-            "EN": "Recently, several models of an Eastside luxury children\\'s clothing brand have gone missing after photo shoots. Send two Sinners to go undercover in disguise and uncover the truth.",
+            "EN": "Recently, several models of an Eastside luxury children's clothing brand have gone missing after photo shoots. Send two Sinners to go undercover in disguise and uncover the truth.",
             "JP": "最近、ニューシティにある有名な高級子供服ブランドのモデル数名が写真撮影の後に失踪した。コンビクト2名を変装させて潜入させ、真実を突き止める必要がある。",
             "KO": "최근 신성의 어느 명품 아동복 브랜드에서 촬영을 마친 모델들이 다수 실종되었다. 진상을 밝히기 위해 두 명의 수감자가 변장해서 잠입해야 한다.",
             "CN": "近日，新城某知名贵价童装品牌有多名模特在拍摄后失踪，需派出两名禁闭者变装潜入，查明真相。",
@@ -6534,9 +6534,9 @@
             "TW": "講座探查"
         },
         "DispatchDescription": {
-            "EN": "The Public Security Bureau has recently received complaints about a suspicious self-claimed master holding seminars titled <i>Communication with the Sun<\/i> everywhere. Send a Sinner to investigate.",
+            "EN": "The Public Security Bureau has recently received complaints about a suspicious self-claimed master holding seminars titled <i>Communication with the Sun</i> everywhere. Send a Sinner to investigate.",
             "JP": "最近、マスターを名乗る不審な人物が様々な場所で「太陽との交信」講座を行っていると治安局にクレームが寄せられたため、コンビクト1名を調査に派遣する必要がある。",
-            "KO": "치안국은 최근 자칭 마스터라는 수상한 인물이 \\'태양과의 소통\\' 관련 강좌를 열고 있다는 신고를 받았다. 이를 조사할 수감자 한 명을 파견해야 한다.",
+            "KO": "치안국은 최근 자칭 마스터라는 수상한 인물이 '태양과의 소통' 관련 강좌를 열고 있다는 신고를 받았다. 이를 조사할 수감자 한 명을 파견해야 한다.",
             "CN": "治安局近期接到投诉，一名自称大师的可疑人士在四处开设“沟通太阳”相关讲座，需派出一名禁闭者前往探查。",
             "TW": "治安局近期接到投訴，一名自稱大師的可疑人士在四處開設「溝通太陽」相關講座，需派出一名禁閉者前往探查。"
         },
@@ -6581,7 +6581,7 @@
             "TW": "發呆冠軍"
         },
         "DispatchDescription": {
-            "EN": "Eastside\\'s Idle People Society has recently organized a space-out contest with a huge cash prize for the winner, attracting many strong contestants capable of spacing out for over ten hours. This seems to have unusually piqued the interest of a certain Sinner.",
+            "EN": "Eastside's Idle People Society has recently organized a space-out contest with a huge cash prize for the winner, attracting many strong contestants capable of spacing out for over ten hours. This seems to have unusually piqued the interest of a certain Sinner.",
             "JP": "近々、ニューシティの暇人協会がぼんやりコンテストを開催する。優勝者には莫大な賞金が与えられるということで、10時間以上ぼんやりできる強者たちが大勢参加するという。あるコンビクトは、これを知って珍しく興味を示した。",
             "KO": "최근 신성의 심심 인간 협회에서 멍때리기 대회를 열었다. 최종 우승자는 거액의 상금을 받게 된다. 10시간은 족히 멍때릴 수 있는 강자들이 하나둘 참여했고, 이 소식을 들은 한 수감자도 보기 드물게 관심을 보였다.",
             "CN": "近日新城无聊人协会组织了一场发呆大赛，最终胜者可获巨额奖金，许多能发呆10小时以上的强者纷纷参与，某禁闭者得知后也难得表示了兴趣。",
@@ -6823,9 +6823,9 @@
             "TW": "心動進修"
         },
         "DispatchDescription": {
-            "EN": "A new masked dating show by an Eastside entertainment company with the catchphrase <i>Win your heart with one sentence<\/i> has become an instant hit. Two Sinners particularly confident in sweet talk volunteer for the next audition.",
+            "EN": "A new masked dating show by an Eastside entertainment company with the catchphrase <i>Win your heart with one sentence</i> has become an instant hit. Two Sinners particularly confident in sweet talk volunteer for the next audition.",
             "JP": "ニューシティのある新興エンタメ会社が、「一言でときめかせる」をキャッチコピーとした覆面恋愛リアリティーショーを制作し、一時期話題となった。そして、口説くのが得意だと自負するコンビクト2名が、次のオーディションに参加したいと申し出た。",
-            "KO": "신성의 한 엔터테인먼트 회사에서 \\'한마디로 심쿵\\'이라는 테마로 새로운 복면 연애 프로그램을 론칭해 인기를 끌었다. 그러자 사람을 홀리는 말을 잘하는 수감자 두 명이 자발적으로 차기 오디션에 참가 신청을 했다.",
+            "KO": "신성의 한 엔터테인먼트 회사에서 '한마디로 심쿵'이라는 테마로 새로운 복면 연애 프로그램을 론칭해 인기를 끌었다. 그러자 사람을 홀리는 말을 잘하는 수감자 두 명이 자발적으로 차기 오디션에 참가 신청을 했다.",
             "CN": "新城某娱乐公司最新推出的蒙面恋综以“一句话，让你心动”为卖点，红极一时，某两名自恃擅长花言巧语的禁闭者主动提出欲参加新一轮海选。",
             "TW": "新城某娛樂公司最新推出的蒙面戀綜以「一句話，讓你心動」為賣點，紅極一時，某兩名自恃擅長花言巧語的禁閉者主動提出欲參加新一輪海選。"
         },
