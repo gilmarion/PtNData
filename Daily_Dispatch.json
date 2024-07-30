@@ -2451,7 +2451,7 @@
         "Id": 1015001,
         "Quality": "Grey",
         "DispatchTitle": {
-            "EN": "\\\\\"Hidden\\\\\" Masses",
+            "EN": "\"Hidden\" Masses",
             "JP": "「潜伏」民衆",
             "KO": "'잠복' 군중",
             "CN": "“潜伏”群众",
@@ -3050,7 +3050,7 @@
             "TW": "柳生異動"
         },
         "DispatchDescription": {
-            "EN": "There has been a huge inflow of funds into Yagyu's accounts. According to relevant intelligence, they are trying to launch a new \\\\\"hunt\\\\\" and must be stopped.",
+            "EN": "There has been a huge inflow of funds into Yagyu's accounts. According to relevant intelligence, they are trying to launch a new \"hunt\" and must be stopped.",
             "JP": "柳生株式会社の口座に巨額の資金が流入している。情報によると、彼らは新たな「狩猟」を展開しようとしているそうだ。あいつらの行動を止めなければならない。",
             "KO": "야나기 그룹의 장부에 거액의 자금이 유입되고 있다는 첩보에 따라 새로운 '사냥'을 시도하고 있다. 반드시 막아야 한다.",
             "CN": "柳生会社账面上出现了巨额资金流入，根据相关情报，他们正试图展开一场新的“狩猎”，这种行为必须被阻止。",
@@ -3300,11 +3300,11 @@
         },
         "DispatchSinners": {
             "Sinner": {
-                "EN": null,
-                "JP": null,
-                "KO": null,
-                "CN": null,
-                "TW": null
+                "EN": "Gekkabijin",
+                "JP": "ゲツライコウ",
+                "KO": "월하미인",
+                "CN": "昙",
+                "TW": "曇"
             }
         },
         "BaseAward": {
@@ -5054,7 +5054,7 @@
             "TW": "海洋藝術展"
         },
         "DispatchDescription": {
-            "EN": "An up-and-coming artist in Eastside is organizing a solo exhibition on the theme of \\\\\"The Ocean\\\\\", and he has contacted the Bureau in the hope that he can get some material and inspiration from a certain Sinner.",
+            "EN": "An up-and-coming artist in Eastside is organizing a solo exhibition on the theme of \"The Ocean\", and he has contacted the Bureau in the hope that he can get some material and inspiration from a certain Sinner.",
             "JP": "ニューシティのとある新進気鋭のアーティストは「海洋」をテーマに個展を開こうとしている。彼は管理局に連絡し、あるコンビクトからインスピレーションを得たいという。",
             "KO": "신성의 한 신예 예술가가 '바다'를 주제로 한 개인 아트 전시회를 기획하고 있었다. 그는 관리국에 연락해서 어느 수감자로부터 소재와 영감 얻기를 희망한다고 전했다.",
             "CN": "新城某新锐艺术家正在筹办以“海洋”为主题的个人艺术展，他联系到管理局，希望可以从某位禁闭者身上获取一些素材和灵感。",
@@ -5249,7 +5249,7 @@
             "TW": "花園疑雲"
         },
         "DispatchDescription": {
-            "EN": "A number of cases suspected to be modeled after the \\\\\"Garden\\\\\" have been reported in a certain area. The Public Security Bureau applies to the MBCC for dispatching Garden-related personnel to assist in the investigation.",
+            "EN": "A number of cases suspected to be modeled after the \"Garden\" have been reported in a certain area. The Public Security Bureau applies to the MBCC for dispatching Garden-related personnel to assist in the investigation.",
             "JP": "あるところで暗殺事件が多発しており、「花庭園」の模倣犯による可能性が高いと推測されている。花庭園の関係者を調査に向かわせるよう、治安局からの協力要請が届いた。",
             "KO": "모 지역에서 '화원'의 수법을 모방한 것으로 의심되는 사건이 여럿 발생했다. 치안국은 즉시 관리국에 화원 관련 인력의 조사 협조를 요청했다.",
             "CN": "某地出现了多起疑似效仿“花园”手法的案件，治安局遂向管理局申请派遣花园相关人员协助调查。",
@@ -6534,7 +6534,7 @@
             "TW": "講座探查"
         },
         "DispatchDescription": {
-            "EN": "The Public Security Bureau has recently received complaints about a suspicious self-claimed master holding seminars titled <i>Communication with the Sun</i> everywhere. Send a Sinner to investigate.",
+            "EN": "The Public Security Bureau has recently received complaints about a suspicious self-claimed master holding seminars titled <i>Communication with the Sun<\/i> everywhere. Send a Sinner to investigate.",
             "JP": "最近、マスターを名乗る不審な人物が様々な場所で「太陽との交信」講座を行っていると治安局にクレームが寄せられたため、コンビクト1名を調査に派遣する必要がある。",
             "KO": "치안국은 최근 자칭 마스터라는 수상한 인물이 '태양과의 소통' 관련 강좌를 열고 있다는 신고를 받았다. 이를 조사할 수감자 한 명을 파견해야 한다.",
             "CN": "治安局近期接到投诉，一名自称大师的可疑人士在四处开设“沟通太阳”相关讲座，需派出一名禁闭者前往探查。",
@@ -6823,7 +6823,7 @@
             "TW": "心動進修"
         },
         "DispatchDescription": {
-            "EN": "A new masked dating show by an Eastside entertainment company with the catchphrase <i>Win your heart with one sentence</i> has become an instant hit. Two Sinners particularly confident in sweet talk volunteer for the next audition.",
+            "EN": "A new masked dating show by an Eastside entertainment company with the catchphrase <i>Win your heart with one sentence<\/i> has become an instant hit. Two Sinners particularly confident in sweet talk volunteer for the next audition.",
             "JP": "ニューシティのある新興エンタメ会社が、「一言でときめかせる」をキャッチコピーとした覆面恋愛リアリティーショーを制作し、一時期話題となった。そして、口説くのが得意だと自負するコンビクト2名が、次のオーディションに参加したいと申し出た。",
             "KO": "신성의 한 엔터테인먼트 회사에서 '한마디로 심쿵'이라는 테마로 새로운 복면 연애 프로그램을 론칭해 인기를 끌었다. 그러자 사람을 홀리는 말을 잘하는 수감자 두 명이 자발적으로 차기 오디션에 참가 신청을 했다.",
             "CN": "新城某娱乐公司最新推出的蒙面恋综以“一句话，让你心动”为卖点，红极一时，某两名自恃擅长花言巧语的禁闭者主动提出欲参加新一轮海选。",
