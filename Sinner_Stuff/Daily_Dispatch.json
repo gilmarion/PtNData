@@ -6867,6 +6867,302 @@
         }
     },
     "140": {
+        "Id": 1044001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Relocation Negotiator",
+            "JP": "引っ越しの説得",
+            "KO": "이주 권유",
+            "CN": "劝导移居",
+            "TW": "勸導移居"
+        },
+        "DispatchDescription": {
+            "EN": "While patrolling around DisSea, a patrol discovers a temporary shelter built by an elderly man. Due to his superstitious beliefs, the team has difficulty communicating with him. Assistance from someone familiar with local religious customs is urgently required to persuade him to move.",
+            "JP": "最近、関係部門に属するパトロール隊が内海付近を巡回中、ある老人が仮住まいを建てているのを偶然発見した。この老人は迷信を信じており、隊員では意思疎通を図れなかったため、現地の祭祀文化に詳しい人物の協力を得て、引っ越しさせる必要がある。",
+            "KO": "최근 관련 부문 소속 순찰대가 디스씨 주변을 순찰하던 중 우연히 한 노인이 세운 임시 거처를 발견했다. 하지만 노인은 미신을 굳게 믿어 정상적인 의사소통이 불가능했다. 노인이 이주하게끔 설득하기 위해서는 현지 제사 문화를 잘 아는 사람이 급히 필요하다.",
+            "CN": "近日，有关部门下属巡逻队于内海周边巡查时，意外发现一名老人在此搭建了临时居所。因其思想迷信，队员难以沟通，急需一名熟悉当地祭祀文化者协助劝说其移居。",
+            "TW": "近日，有關部門下屬巡邏隊於內海周邊巡查時，意外發現一名老人在此搭建了臨時居所。因其思想迷信，隊員難以溝通，急需一名熟悉當地祭祀文化者協助勸說其移居。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Hestia",
+                "JP": "ヘスティア",
+                "KO": "헤스티아",
+                "CN": "赫斯提亚",
+                "TW": "赫斯提亞"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Twilight Crystal",
+                "JP": "暮輝結晶",
+                "KO": "노을 결정",
+                "CN": "暮辉晶",
+                "TW": "暮輝晶"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Twilight Stone Concentrate",
+                "JP": "暮輝石の精鉱",
+                "KO": "정교한 노을석 광석",
+                "CN": "暮辉石精矿",
+                "TW": "暮輝石精礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "141": {
+        "Id": 1044002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Disc Identification",
+            "JP": "ビデオディスクの選別",
+            "KO": "비디오디스크 판별",
+            "CN": "影碟甄别",
+            "TW": "DVD甄別"
+        },
+        "DispatchDescription": {
+            "EN": "The Public Security Bureau receives a tip-off that a criminal group is circulating illegal content in the form of vintage discs. Assistance from an enthusiast with extensive knowledge is required to help identify them.",
+            "JP": "治安局は、ある犯罪組織が大量の違法コンテンツをレトロなビデオディスクに偽装して市場に流通させているとの密告を受けた。それらを特定するため、豊富な知識を持つ愛好家を派遣する必要がある。",
+            "KO": "치안국은 한 범죄 집단이 대량의 불법 콘텐츠를 중고 비디오디스크로 포장해 시중에 유통했다는 정보를 입수했다. 관련 분야에 대해 광범위한 이해가 있는 애호가를 파견해 판별을 도와야 한다.",
+            "CN": "治安局接到线报，某犯罪集团将大量违法内容伪装成复古影碟于市面流通，需派出一名涉猎广泛的相关爱好者协助辨别。",
+            "TW": "治安局接到線報，某犯罪集團將大量違法內容偽裝成復古DVD於市面流通，需派出一名涉獵廣泛的相關愛好者協助辨別。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Jane",
+                "JP": "ジェイン",
+                "KO": "제인",
+                "CN": "简",
+                "TW": "簡"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Twilight Stone Concentrate",
+                "JP": "暮輝石の精鉱",
+                "KO": "정교한 노을석 광석",
+                "CN": "暮辉石精矿",
+                "TW": "暮輝石精礦"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Twilight Stone Raw Ore",
+                "JP": "暮輝石の原鉱",
+                "KO": "거친 노을석 광석",
+                "CN": "暮辉石粗矿",
+                "TW": "暮輝石粗礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "142": {
+        "Id": 1044003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Bank Heist",
+            "JP": "大規模銀行強盗事件",
+            "KO": "은행 강도 사건",
+            "CN": "银行大劫案",
+            "TW": "銀行大劫案"
+        },
+        "DispatchDescription": {
+            "EN": "A major robbery happened at an Eastside bank. The suspect's M.O. highly resembles that of a serial robber once notorious in the city. A copycat crime is suspected. Assistance from a suitable operative is required to solve the case.",
+            "JP": "最近、ニューシティ銀行で大規模な強盗事件が発生した。容疑者の犯行パターンは過去に注目を集めた連続強盗事件と酷似しており、模倣犯の疑いがあるため、関係者を派遣して捜査協力する必要がある。",
+            "KO": "최근 신성 은행에서 대형 강도 사건이 발생했다. 용의자의 범행 수법이 과거 화제 되었던 연쇄 강도 사건과 매우 유사했다. 모방범죄로 의심되기 때문에 관련 인원을 파견해 수사를 진행해야 한다.",
+            "CN": "新城银行近期出现特大抢劫案件，嫌疑人作案风格与昔日备受关注的连环劫匪高度相似，疑为模仿犯罪，需要派出相关人员协助侦破。",
+            "TW": "新城銀行近期出現特大搶劫案件，嫌疑人犯案風格與昔日備受關注的連環劫匪高度相似，疑為模仿犯罪，需要派出相關人員協助偵破。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Jane",
+                "JP": "ジェイン",
+                "KO": "제인",
+                "CN": "简",
+                "TW": "簡"
+            },
+            "Sinner 2": {
+                "EN": "Christina",
+                "JP": "クリスティナ",
+                "KO": "크리스티나",
+                "CN": "克里斯蒂娜",
+                "TW": "克里斯蒂娜"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Twilight Stone Concentrate",
+                "JP": "暮輝石の精鉱",
+                "KO": "정교한 노을석 광석",
+                "CN": "暮辉石精矿",
+                "TW": "暮輝石精礦"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Twilight Stone Concentrate",
+                "JP": "暮輝石の精鉱",
+                "KO": "정교한 노을석 광석",
+                "CN": "暮辉石精矿",
+                "TW": "暮輝石精礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "143": {
+        "Id": 1045001,
+        "Quality": "Purple",
+        "DispatchTitle": {
+            "EN": "Forum Management",
+            "JP": "掲示板管理",
+            "KO": "게시판 관리",
+            "CN": "论坛管理",
+            "TW": "論壇管理"
+        },
+        "DispatchDescription": {
+            "EN": "The Public Security Bureau is planning to reactivate its internal forum. The forum is currently in disarray and rampant with false information due to the long lack of management. A Sinner familiar with this type of management task is needed to aid its organization.",
+            "JP": "近い将来、治安局はローカルネットワークの掲示板を再開する予定だが、長い間管理されてこなかったため、現在投稿が乱立しており、真実と虚偽の情報が入り乱れている。管理局は関連する管理業務に精通したコンビクトを派遣して、その対処を支援する必要がある。",
+            "KO": "최근 치안국에서는 내부 네트워크의 게시판을 재적용할 예정이다. 해당 게시판은 장기적으로 관리가 부족해 데이터의 진위가 확실하지 않으니, 관리국에서 게시판 관리 업무에 익숙한 수감자를 파견해서 정리하려고 한다.",
+            "CN": "近期，治安局计划重新启用内网论坛，当前论坛因长期欠缺管理而发帖混乱，信息真伪混杂，需要管理局派出一名熟悉相关管理工作的禁闭者帮助打理。",
+            "TW": "近期，治安局計畫重新啟用內網論壇，目前論壇因長期欠缺管理而發文混亂，資訊真偽混雜，需要管理局派出一名熟悉相關管理工作的禁閉者幫助打理。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "L.L.",
+                "JP": "L.L.",
+                "KO": "L.L.",
+                "CN": "L.L.",
+                "TW": "L.L."
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Red Crystal",
+                "JP": "赤の結晶",
+                "KO": "붉은 결정",
+                "CN": "赤晶",
+                "TW": "赤晶"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Red Stone Concentrate",
+                "JP": "赤石の精鉱",
+                "KO": "정교한 레드 스톤 광석",
+                "CN": "红石精矿",
+                "TW": "紅石精礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "144": {
+        "Id": 1045002,
+        "Quality": "Green",
+        "DispatchTitle": {
+            "EN": "Data Decryption",
+            "JP": "情報解読",
+            "KO": "데이터 판독",
+            "CN": "信息破译",
+            "TW": "資訊破譯"
+        },
+        "DispatchDescription": {
+            "EN": "The Public Security Bureau has intercepted some transactional data sent by a criminal gang, but it is scattered with dark web jargon and encrypted links that are hard to decode quickly. They urgently need someone with relevant knowledge to assist in cracking it.",
+            "JP": "治安局はとある犯罪組織が送信した取引メッセージを傍受したが、ダークウェブの隠語や暗号化されたリンクが大量にあり、短時間での解読は難しい。関連する内容に詳しい者の協力が急ぎ必要だ。",
+            "KO": "치안국에서 모 범죄 조직이 발송한 거래 데이터를 취득하였지만, 그 안에는 다크웹에서 사용하는 대량의 은어와 암호화된 링크가 포함되어 있어 단기간 내에 판독할 수 없었다. 관련 내용에 대해 잘 알고 있는 사람의 판독이 급히 필요하다.",
+            "CN": "治安局截获某犯罪团伙发送的交易信息，但其中存在大量暗网黑话和加密链接，难以短时间破译，急需熟悉相关内容者协助破解。",
+            "TW": "治安局截獲某犯罪集團發送的交易資訊，但其中存在大量暗網黑話和加密連結，難以短時間破譯，急需熟悉相關內容者協助破解。"
+        },
+        "DispatchSinners": {
+            "Sinner": {
+                "EN": "Shrooma",
+                "JP": "シュルマ",
+                "KO": "슈르마",
+                "CN": "舒鲁玛",
+                "TW": "舒魯瑪"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Red Stone Concentrate",
+                "JP": "赤石の精鉱",
+                "KO": "정교한 레드 스톤 광석",
+                "CN": "红石精矿",
+                "TW": "紅石精礦"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Red Stone Raw Ore",
+                "JP": "赤石の原鉱",
+                "KO": "거친 레드 스톤 광석",
+                "CN": "红石粗矿",
+                "TW": "紅石粗礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "145": {
+        "Id": 1045003,
+        "Quality": "Blue",
+        "DispatchTitle": {
+            "EN": "Children Removal",
+            "JP": "子供を帰らせる",
+            "KO": "어린이 대피",
+            "CN": "孩童疏散",
+            "TW": "孩童疏散"
+        },
+        "DispatchDescription": {
+            "EN": "A group of children often gathers to play in a dangerous area where the patrol works. They have repeatedly ignored warnings and have now become a disturbance. The Bureau needs to send two Sinners who can quickly earn the children's respect to help remove them.",
+            "JP": "パトロール隊が活動する危険エリアによく集まって遊ぶ子供たちがおり、注意しても遊び続けるため、公務に支障をきたしている。管理局は現在、子供を帰らせるため、子供たちの間ですぐにリーダーシップを取れるコンビクト2名の派遣を求められている。",
+            "KO": "어린이들이 순찰대가 근무하는 위험 지역에 자주 모여서 논다. 여러 차례 경고했지만 계속 모이며 공무를 집행하는 데 방해가 되고 있다. 관리국에서 아이들의 신뢰를 얻을 수 있는 수감자를 지금 바로 파견하여 모여있는 아이들을 분산시켜야 한다.",
+            "CN": "有一群小孩常在巡逻队工作的危险区域聚集玩闹，经提醒仍屡教不改，对公务执行造成了干扰。现需管理局派出两名能够快速在孩童间获取威信的禁闭者协助疏散。",
+            "TW": "有一群小孩常在巡邏隊工作的危險區域聚集玩鬧，經提醒仍屢教不改，對公務執行造成了干擾。現需管理局派出兩名能夠快速在孩童間獲得威信的禁閉者協助疏散。"
+        },
+        "DispatchSinners": {
+            "Sinner 1": {
+                "EN": "Shrooma",
+                "JP": "シュルマ",
+                "KO": "슈르마",
+                "CN": "舒鲁玛",
+                "TW": "舒魯瑪"
+            },
+            "Sinner 2": {
+                "EN": "Anne",
+                "JP": "アン",
+                "KO": "앤",
+                "CN": "安",
+                "TW": "安"
+            }
+        },
+        "BaseAward": {
+            "Reward Item": {
+                "EN": "Red Stone Concentrate",
+                "JP": "赤石の精鉱",
+                "KO": "정교한 레드 스톤 광석",
+                "CN": "红石精矿",
+                "TW": "紅石精礦"
+            },
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": {
+                "EN": "Red Stone Concentrate",
+                "JP": "赤石の精鉱",
+                "KO": "정교한 레드 스톤 광석",
+                "CN": "红石精矿",
+                "TW": "紅石精礦"
+            },
+            "Reward Qty": "1.0"
+        }
+    },
+    "150": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": {
