@@ -337,7 +337,7 @@
             "Open": "[Angell is watching an easy-to-follow tutorial on how to put on a duvet cover; the video has been sent to everyone's terminal.]",
             "Angell Question": "Easy to follow? I don't think so. It's much easier to just buy a new one.",
             "Chief Question 1": "There are only four steps. Isn't that easy enough?",
-            "Angell Response 1": "It has four steps only if you count \\\\\"Find top two corners of the duvet\\\\\" and \\\\\"Grab top two corners of the cover\\\\\" as one step. My method only has three steps: Order a duvet that doesn't need a cover, wait for the delivery, and sign for the delivery.",
+            "Angell Response 1": "It has four steps only if you count \"Find top two corners of the duvet\" and \"Grab top two corners of the cover\" as one step. My method only has three steps: Order a duvet that doesn't need a cover, wait for the delivery, and sign for the delivery.",
             "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
             "Chief Question 2": "Agreed. The best kind of duvet is one that doesn't need a cover.",
             "Angell Response 2": "You agree with me? That's rare.",
@@ -456,10 +456,10 @@
         "Emotion Check 2": {
             "Open": "[Shalom is rummaging through her record collection]",
             "Shalom Question": "What should I watch today...",
-            "Chief Question 1": "\\\\\"The Video\\\\\"? What's this one about?",
+            "Chief Question 1": "\"The Video\"? What's this one about?",
             "Shalom Response 1": "A horror movie in the form of a pseudo-documentary. It's kinda fun, want to see it together?",
             "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
-            "Chief Question 2": "\\\\\"Street Food Warriors\\\\\"? You collect food documentaries?",
+            "Chief Question 2": "\"Street Food Warriors\"? You collect food documentaries?",
             "Shalom Response 2": "Is it weird? It's nice to kill some time with when you have nothing else to do.",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
         }
@@ -476,7 +476,7 @@
                 "atlas/monthsign/sprite_dailysign_face_4.png"
             ],
             "Chief Question 2": "How about this matte carmine red? The classic flamboyance fits you perfectly.",
-            "Lady Pearl Response 2": "Heh, you say \\\\\"classic\\\\\" instead of \\\\\"common,\\\\\" very much your style. Your suggestion is really good. For those of us who are always immersed in drama, doing minimal makeup occasionally should be quite nice.",
+            "Lady Pearl Response 2": "Heh, you say \"classic\" instead of \"common,\" very much your style. Your suggestion is really good. For those of us who are always immersed in drama, doing minimal makeup occasionally should be quite nice.",
             "Emoji 2": [
                 "atlas/monthsign/sprite_dailysign_face_8.png",
                 "atlas/monthsign/sprite_dailysign_face_8.png",
@@ -485,7 +485,7 @@
         },
         "Emotion Check 2": {
             "Open": "[Lady Pearl looks over the Bureau's spring concert program list.]",
-            "Lady Pearl Question": "\\\\\"Lion Dance,\\\\\" \\\\\"Rock Solo,\\\\\" \\\\\"Acrobatics\\\\\"... Oh my, they all look so interesting! Chief, how about you sign up for something too? Don't you worry about anything. With me around, you'll be the most dazzling star at the concert!",
+            "Lady Pearl Question": "\"Lion Dance,\" \"Rock Solo,\" \"Acrobatics\"... Oh my, they all look so interesting! Chief, how about you sign up for something too? Don't you worry about anything. With me around, you'll be the most dazzling star at the concert!",
             "Chief Question 1": "I'm sorry, I sing out of tune.",
             "Lady Pearl Response 1": "I can teach you if you want, but a raw, unpolished performance has its own unique flavor too. Who's to say an uncontrolled melody isn't another captivating performance?",
             "Emoji 1": [
@@ -531,8 +531,8 @@
                 "atlas/monthsign/sprite_dailysign_face_4.png",
                 "atlas/monthsign/sprite_dailysign_face_4.png"
             ],
-            "Chief Question 2": "But you still ended up sleeping until the afternoon because of a \\\\\"hangover\\\\\"...",
-            "Bianca Response 2": "That has nothing to do with the apple juice. I've been pulling all-nighters for a big scoop these past few days! So it wasn't a \\\\\"hangover\\\\\", I was catching up on sleep!",
+            "Chief Question 2": "But you still ended up sleeping until the afternoon because of a \"hangover\"...",
+            "Bianca Response 2": "That has nothing to do with the apple juice. I've been pulling all-nighters for a big scoop these past few days! So it wasn't a \"hangover\", I was catching up on sleep!",
             "Emoji 2": [
                 "atlas/monthsign/sprite_dailysign_face_8.png",
                 "atlas/monthsign/sprite_dailysign_face_8.png",
@@ -640,7 +640,7 @@
             "Eleven Response 1": "But my heart is with those who need someone to confide in at night...",
             "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
             "Chief Question 2": "Try wearing earplugs while you sleep?",
-            "Eleven Response 2": "I heard that the earplugs Miss Faye purchased can \\\\\"block out all noises,\\\\\" yet the radio is capable of \\\\\"penetrating anything\\\\\"... Heh, that sounds like a slogan my program sponsor would come up with.",
+            "Eleven Response 2": "I heard that the earplugs Miss Faye purchased can \"block out all noises,\" yet the radio is capable of \"penetrating anything\"... Heh, that sounds like a slogan my program sponsor would come up with.",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
         },
         "Emotion Check 2": {
@@ -724,8 +724,8 @@
         "Emotion Check 2": {
             "Open": "[Enfer's works have spooked many people due to how realistic they are.]",
             "Enfer Question": "Is there something wrong?",
-            "Chief Question 1": "How about making the statue more \\\\\"impressionistic\\\\\"?",
-            "Enfer Response 1": "Oh? That's not the style of \\\\\"Witch of the Night\\\\\"...",
+            "Chief Question 1": "How about making the statue more \"impressionistic\"?",
+            "Enfer Response 1": "Oh? That's not the style of \"Witch of the Night\"...",
             "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
             "Chief Question 2": "I cleared out a storage room for you to use to store your works.",
             "Enfer Response 2": "Alas... Well, it's better to be collecting dust than not to be understood.",
@@ -829,15 +829,15 @@
     "L.L.": {
         "Emotion Check 1": {
             "Open": "[L.L. has duplicated your image data to create a digital desktop pet.]",
-            "L.L. Question": "Look at \\\\\"you\\\\\"—so cute! Even Manty can't stop swimming happily around \\\\\"you\\\\\"!",
+            "L.L. Question": "Look at \"you\"—so cute! Even Manty can't stop swimming happily around \"you\"!",
             "Chief Question 1": "It's adorable.",
-            "L.L. Response 1": "Right?! This way, \\\\\"you\\\\\" can stay here with me forever...",
+            "L.L. Response 1": "Right?! This way, \"you\" can stay here with me forever...",
             "Emoji 1": [
                 "atlas/monthsign/sprite_dailysign_face_7.png",
                 "atlas/monthsign/sprite_dailysign_face_7.png",
                 "atlas/monthsign/sprite_dailysign_face_7.png"
             ],
-            "Chief Question 2": "Do you want to treat me as a \\\\\"pet\\\\\"?",
+            "Chief Question 2": "Do you want to treat me as a \"pet\"?",
             "L.L. Response 2": "Yeah. Well, how about trying to call me Master?",
             "Emoji 2": [
                 "atlas/monthsign/sprite_dailysign_face_4.png",
@@ -854,7 +854,7 @@
                 "atlas/monthsign/sprite_dailysign_face_4.png",
                 "atlas/monthsign/sprite_dailysign_face_7.png"
             ],
-            "Chief Question 2": "It didn't seem to be purely \\\\\"accidental.\\\\\"",
+            "Chief Question 2": "It didn't seem to be purely \"accidental.\"",
             "L.L. Response 2": "You're not wrong. I did it to catch your eye, so that we can be closer. Isn't that nice?",
             "Emoji 2": [
                 "atlas/monthsign/sprite_dailysign_face_3.png",
@@ -877,7 +877,7 @@
         "Emotion Check 2": {
             "Open": "[Chelsea looks at Sitri, thinking.]",
             "Countess Chelsea Question": "Why can't we raise cats here?",
-            "Chief Question 1": "You already have a \\\\\"cat.\\\\\"",
+            "Chief Question 1": "You already have a \"cat.\"",
             "Countess Chelsea Response 1": "Tsk. Cats and Sitri are different, you know?",
             "Emoji 1": [
                 "atlas/monthsign/sprite_dailysign_face_1.png",
@@ -1117,7 +1117,7 @@
         "Emotion Check 2": {
             "Open": "[You plan to check on Pacassi.]",
             "Pacassi Question": "Stay... stay away. I bring misfortune.",
-            "Chief Question 1": "Indeed. \\\\\"Nuclear power\\\\\" can be dangerous if we are not careful.",
+            "Chief Question 1": "Indeed. \"Nuclear power\" can be dangerous if we are not careful.",
             "Pacassi Response 1": "...",
             "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
             "Chief Question 2": "I have my protective suit ready.",
@@ -1350,7 +1350,7 @@
                 "atlas/monthsign/sprite_dailysign_face_1.png"
             ],
             "Chief Question 2": "Ahem, I'll help you this time. But it's just this once.",
-            "McQueen Response 2": "Oh, do you want me to say thank you? Or do you want me to give you a little extra \\\\\"thank you\\\\\"...?",
+            "McQueen Response 2": "Oh, do you want me to say thank you? Or do you want me to give you a little extra \"thank you\"...?",
             "Emoji 2": [
                 "atlas/monthsign/sprite_dailysign_face_8.png",
                 "atlas/monthsign/sprite_dailysign_face_4.png"
@@ -1471,7 +1471,7 @@
                 "atlas/monthsign/sprite_dailysign_face_7.png",
                 "atlas/monthsign/sprite_dailysign_face_7.png"
             ],
-            "Chief Question 2": "Are you referring to this \\\\\"essay\\\\\" that topped the forum's list at 4 a.m.?",
+            "Chief Question 2": "Are you referring to this \"essay\" that topped the forum's list at 4 a.m.?",
             "Shrooma Response 2": "I didn't... you're really an annoying adult! Okay, okay, I'll go to bed earlier from now on. Just don't cut off my internet!",
             "Emoji 2": [
                 "atlas/monthsign/sprite_dailysign_face_6.png",
@@ -1697,7 +1697,7 @@
                 "atlas/monthsign/sprite_dailysign_face_6.png"
             ],
             "Chief Question 2": "Stay still. I'll apply some medicine to you.",
-            "Victoria Response 2": "Is this... your \\\\\"love\\\\\", Chief?",
+            "Victoria Response 2": "Is this... your \"love\", Chief?",
             "Emoji 2": [
                 "atlas/monthsign/sprite_dailysign_face_4.png",
                 "atlas/monthsign/sprite_dailysign_face_4.png",
@@ -1818,7 +1818,7 @@
             "Open": "[Oliver lies in the bedroom, covered in wounds.]",
             "Oliver Question": "Chief... it hurts... it hurts so bad...",
             "Chief Question 1": "What dangerous action did you do this time?",
-            "Oliver Response 1": "Wh-what do you mean by \\\\\"dangerous\\\\\"? I don't understand.",
+            "Oliver Response 1": "Wh-what do you mean by \"dangerous\"? I don't understand.",
             "Emoji 1": [
                 "atlas/monthsign/sprite_dailysign_face_6.png",
                 "atlas/monthsign/sprite_dailysign_face_6.png",
@@ -2061,7 +2061,7 @@
                 "atlas/monthsign/sprite_dailysign_face_8.png",
                 "atlas/monthsign/sprite_dailysign_face_8.png"
             ],
-            "Chief Question 2": "After your way too close \\\\\"assessment\\\\\" on every contestant last time, they still want you back?",
+            "Chief Question 2": "After your way too close \"assessment\" on every contestant last time, they still want you back?",
             "Cassia Response 2": "That's because the organizers know very well that the scores I give are the most convincing...",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
         }
@@ -2069,11 +2069,11 @@
     "Shawn": {
         "Emotion Check 1": {
             "Open": "[Shawn starts to frequently check her phone again, quickly replying to each message as it arrives.]",
-            "Shawn Question": "\\\\\"That's not true, sweetie. They just have poor tastes, that's why they don't cherish you.\\\\\" ...Phew, she's finally feeling better. I didn't expect there to be so many people longing for love inside the Bureau.",
+            "Shawn Question": "\"That's not true, sweetie. They just have poor tastes, that's why they don't cherish you.\" ...Phew, she's finally feeling better. I didn't expect there to be so many people longing for love inside the Bureau.",
             "Chief Question 1": "You're both in the Bureau. Do you really have to talk online?",
             "Shawn Response 1": "The love that travels through the internet and screens is unique. It's purer, less constrained... Would you like to try?",
             "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
-            "Chief Question 2": "You're both in the Bureau. What if she finds out about your \\\\\"habit\\\\\" and comes beat you up?",
+            "Chief Question 2": "You're both in the Bureau. What if she finds out about your \"habit\" and comes beat you up?",
             "Shawn Response 2": "This won't happen in a relationship nurtured by sincere love. And if it makes the other person happy... I'm more than willing to offer myself.",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
         },
@@ -2425,7 +2425,7 @@
         "Emotion Check 1": {
             "Open": "[Macchiato looks happy and joyful.]",
             "Macchiato Question": "Some enemies seem to be enjoying this.",
-            "Chief Question 1": "Your \\\\\"hobby\\\\\" seems to be doing us a huge favor.",
+            "Chief Question 1": "Your \"hobby\" seems to be doing us a huge favor.",
             "Macchiato Response 1": "Hehe. Their reaction is what drives me forward.",
             "Emoji 1": [
                 "atlas/monthsign/sprite_dailysign_face_4.png",
@@ -2454,7 +2454,7 @@
             "Lisa Response 1": "Yeah. That would be perfect.",
             "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
             "Chief Question 2": "I think they will all face your criticism one way or another.",
-            "Lisa Response 2": "Of course. Unless they can replicate \\\\\"Rebecca\\\\\".",
+            "Lisa Response 2": "Of course. Unless they can replicate \"Rebecca\".",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
         },
         "Emotion Check 2": {

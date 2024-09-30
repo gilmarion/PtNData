@@ -1,0 +1,2544 @@
+{
+    "0": {
+        "Id": 1001001,
+        "Quality": "Grey",
+        "DispatchTitle": "白记老字号",
+        "DispatchDescription": "一位老主顾在白记下了单，为了保住白记这块招牌，必须把这个单给结了！",
+        "DispatchSinners": {
+            "Sinner": "蔻蔻"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石粗矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "1": {
+        "Id": 1001002,
+        "Quality": "Green",
+        "DispatchTitle": "安保培训",
+        "DispatchDescription": "FAC其他部门希望前“蛇眼”安保主管能够对他们进行一些安保领域的培训。",
+        "DispatchSinners": {
+            "Sinner": "辰砂"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "2": {
+        "Id": 1001003,
+        "Quality": "Blue",
+        "DispatchTitle": "秘密交易",
+        "DispatchDescription": "一桩秘密交易将在变装舞会上进行，需要身份相符的人潜入阻止。",
+        "DispatchSinners": {
+            "Sinner 1": "辰砂",
+            "Sinner 2": "伊格尼"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "3": {
+        "Id": 1001004,
+        "Quality": "Purple",
+        "DispatchTitle": "绝地追踪",
+        "DispatchDescription": "记录在机密档案中的恶徒再度出现，我们已经锁定了活动路径。",
+        "DispatchSinners": {
+            "Sinner": "迪蒙"
+        },
+        "BaseAward": {
+            "Reward Item": "冰晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "4": {
+        "Id": 1002001,
+        "Quality": "Grey",
+        "DispatchTitle": "无主之地",
+        "DispatchDescription": "辛迪加的混混们最近有些不安分，或许有些人可以混进去找找原因。",
+        "DispatchSinners": {
+            "Sinner": "海拉"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉石粗矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "5": {
+        "Id": 1002002,
+        "Quality": "Green",
+        "DispatchTitle": "禁止拖欠",
+        "DispatchDescription": "大胃王比赛的赞助商拖欠了奖励，经过调查发现这和一笔异常的现金流有关。",
+        "DispatchSinners": {
+            "Sinner": "九十九"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "6": {
+        "Id": 1002003,
+        "Quality": "Blue",
+        "DispatchTitle": "锈河异常",
+        "DispatchDescription": "锈河地带出现了一些异常现象，需要专业人士前去处理。",
+        "DispatchSinners": {
+            "Sinner 1": "九十九",
+            "Sinner 2": "温蒂"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "7": {
+        "Id": 1002004,
+        "Quality": "Purple",
+        "DispatchTitle": "致命武器",
+        "DispatchDescription": "辛迪加最近流行了一种新式武器，对此辛迪加的霸主、军团的首领决定亲自前往探查。",
+        "DispatchSinners": {
+            "Sinner": "卓娅"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "8": {
+        "Id": 1003001,
+        "Quality": "Grey",
+        "DispatchTitle": "资料来源",
+        "DispatchDescription": "奎恩传媒一家工作室想要以禁闭者为原型创作一部动漫，某吹牛大王自愿前去协助。",
+        "DispatchSinners": {
+            "Sinner": "艾米潘"
+        },
+        "BaseAward": {
+            "Reward Item": "红石粗矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "9": {
+        "Id": 1003002,
+        "Quality": "Green",
+        "DispatchTitle": "轰轰轰",
+        "DispatchDescription": "辛迪加发生了连环殉爆事件，需要一位爆炸物专家来调查这次事件。",
+        "DispatchSinners": {
+            "Sinner": "露莉艾卡"
+        },
+        "BaseAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "10": {
+        "Id": 1003003,
+        "Quality": "Blue",
+        "DispatchTitle": "盛大表演",
+        "DispatchDescription": "管理局申请了一个嘉年华摊位作为情报据点，提供魔术表演、娱乐游戏等多项服务。",
+        "DispatchSinners": {
+            "Sinner 1": "露莉艾卡",
+            "Sinner 2": "普希拉"
+        },
+        "BaseAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "11": {
+        "Id": 1003004,
+        "Quality": "Purple",
+        "DispatchTitle": "内海监测",
+        "DispatchDescription": "近期内海污染程度大幅波动，内海特区向我们申请支援。",
+        "DispatchSinners": {
+            "Sinner": "诺克斯"
+        },
+        "BaseAward": {
+            "Reward Item": "赤晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "12": {
+        "Id": 1004001,
+        "Quality": "Grey",
+        "DispatchTitle": "机械舞",
+        "DispatchDescription": "有人宣称要在舞蹈巡演中刺杀表演者，为了保护她，我们准备使用替身战术。",
+        "DispatchSinners": {
+            "Sinner": "雷比尼斯"
+        },
+        "BaseAward": {
+            "Reward Item": "泪石粗矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "13": {
+        "Id": 1004002,
+        "Quality": "Green",
+        "DispatchTitle": "城市阴影",
+        "DispatchDescription": "狄斯城有很多黑暗的角落，尤其是在上庭。特别注意，在该地开展工作的人员需要正当身份。",
+        "DispatchSinners": {
+            "Sinner": "泰特拉"
+        },
+        "BaseAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "14": {
+        "Id": 1004003,
+        "Quality": "Blue",
+        "DispatchTitle": "谋杀之谜",
+        "DispatchDescription": "安插在某秘密组织的线人意外被害，该组织也从狄斯城消失，为了查清这背后的真相，管理局需要两个关键人员。",
+        "DispatchSinners": {
+            "Sinner 1": "泰特拉",
+            "Sinner 2": "堇"
+        },
+        "BaseAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "15": {
+        "Id": 1004004,
+        "Quality": "Purple",
+        "DispatchTitle": "极速飞车",
+        "DispatchDescription": "涡轮科技研发的一辆超高速摩托被飞车党偷走，经过层层转包，这份寻物委托最后到了白记实业头上。",
+        "DispatchSinners": {
+            "Sinner": "白逸"
+        },
+        "BaseAward": {
+            "Reward Item": "泪晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "16": {
+        "Id": 1005001,
+        "Quality": "Grey",
+        "DispatchTitle": "禁止明火",
+        "DispatchDescription": "辛迪加发生多起失火事故，事故地点相隔较远，管理局想要知道这其中是否有所联系。",
+        "DispatchSinners": {
+            "Sinner": "芙洛拉"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂粗矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "17": {
+        "Id": 1005002,
+        "Quality": "Green",
+        "DispatchTitle": "固定路线？",
+        "DispatchDescription": "接新城治安局邀请，特派禁闭者执行常规治安巡逻任务，考虑到是固定路线……",
+        "DispatchSinners": {
+            "Sinner": "艾瑞尔"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "18": {
+        "Id": 1005003,
+        "Quality": "Blue",
+        "DispatchTitle": "斯宾塞家族",
+        "DispatchDescription": "关于该家族的近期丑闻，管理局建议派出相关人员处理，且为保证执行效果，另需有力人士提供支持。",
+        "DispatchSinners": {
+            "Sinner 1": "艾瑞尔",
+            "Sinner 2": "赫卡蒂"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "19": {
+        "Id": 1005004,
+        "Quality": "Purple",
+        "DispatchTitle": "技术支持",
+        "DispatchDescription": "上级机构的研究院最近遇到了几处技术难题。考虑到其专业难度，合适的人选似乎只有一个了。",
+        "DispatchSinners": {
+            "Sinner": "夏音"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "20": {
+        "Id": 1006001,
+        "Quality": "Grey",
+        "DispatchTitle": "拾荒客",
+        "DispatchDescription": "近期锈河边的拾荒者组织出现了谋杀案件，需要一个熟悉那里环境的人前去调查。",
+        "DispatchSinners": {
+            "Sinner": "德莫莉"
+        },
+        "BaseAward": {
+            "Reward Item": "异方晶",
+            "Reward Qty": "5.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "异方晶",
+            "Reward Qty": "5.0"
+        }
+    },
+    "21": {
+        "Id": 1006002,
+        "Quality": "Green",
+        "DispatchTitle": "图书管理",
+        "DispatchDescription": "图书馆的一些旧书丢失，管理局怀疑这并非单纯的管理失误，而是另有玄机。",
+        "DispatchSinners": {
+            "Sinner": "帕加茜"
+        },
+        "BaseAward": {
+            "Reward Item": "异方晶",
+            "Reward Qty": "10.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "异方晶",
+            "Reward Qty": "5.0"
+        }
+    },
+    "22": {
+        "Id": 1006003,
+        "Quality": "Blue",
+        "DispatchTitle": "书籍采购",
+        "DispatchDescription": "管理局的书籍采购工作正式开始，总书单长达十九页，找到合适的人选并不容易。",
+        "DispatchSinners": {
+            "Sinner 1": "帕加茜",
+            "Sinner 2": "安"
+        },
+        "BaseAward": {
+            "Reward Item": "异方晶",
+            "Reward Qty": "15.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "异方晶",
+            "Reward Qty": "5.0"
+        }
+    },
+    "23": {
+        "Id": 1006004,
+        "Quality": "Purple",
+        "DispatchTitle": "指导工作",
+        "DispatchDescription": "管理局需要对近期的派遣工作进行一次梳理总结，并对未来的工作作出展望，你的某位上级正是协助你的不二人选。",
+        "DispatchSinners": {
+            "Sinner": "兰利"
+        },
+        "BaseAward": {
+            "Reward Item": "异方晶",
+            "Reward Qty": "30.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "异方晶",
+            "Reward Qty": "10.0"
+        }
+    },
+    "24": {
+        "Id": 1007001,
+        "Quality": "Grey",
+        "DispatchTitle": "特约评论",
+        "DispatchDescription": "某艺术品杂志邀请知名批评家为他们写一篇特约供稿，报酬丰厚。",
+        "DispatchSinners": {
+            "Sinner": "丽莎"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜粗矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "25": {
+        "Id": 1007002,
+        "Quality": "Green",
+        "DispatchTitle": "食物品鉴",
+        "DispatchDescription": "某食品工厂推出了多款新品，但一直销量不佳。他们需要更加专业的美食评鉴者给予意见。",
+        "DispatchSinners": {
+            "Sinner": "伊格尼"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "26": {
+        "Id": 1007003,
+        "Quality": "Blue",
+        "DispatchTitle": "娱乐新闻",
+        "DispatchDescription": "狗仔编造了一些禁闭者偶像的娱乐新闻，这种行为必须得到制止。",
+        "DispatchSinners": {
+            "Sinner 1": "伊格尼",
+            "Sinner 2": "露薇娅·蕾"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "27": {
+        "Id": 1007004,
+        "Quality": "Purple",
+        "DispatchTitle": "重大决策",
+        "DispatchDescription": "虽然可以远程控制，但在出现重大事件时，这些产业仍然需要决策者亲自到场。",
+        "DispatchSinners": {
+            "Sinner": "伊琳娜"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "28": {
+        "Id": 1008001,
+        "Quality": "Grey",
+        "DispatchTitle": "效率提升",
+        "DispatchDescription": "为提升赫斯村，以及一众周边卫星城的农业开采效率，他们需要更专业的设备与人才",
+        "DispatchSinners": {
+            "Sinner": "胡椒"
+        },
+        "BaseAward": {
+            "Reward Item": "枯萎腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "枯萎腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "29": {
+        "Id": 1008002,
+        "Quality": "Green",
+        "DispatchTitle": "审查邀请",
+        "DispatchDescription": "在遇到难审的犯人时，新城治安局总会向管理局发来协查通告。",
+        "DispatchSinners": {
+            "Sinner": "卡米利安"
+        },
+        "BaseAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "枯萎腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "30": {
+        "Id": 1008003,
+        "Quality": "Blue",
+        "DispatchTitle": "虫群暴动",
+        "DispatchDescription": "白沙之海的沙虫群出现了暴动，我们需要一个老练的猎人来处理，如果能弄清楚这些虫子的暴动原因就更好了。",
+        "DispatchSinners": {
+            "Sinner 1": "卡米利安",
+            "Sinner 2": "狼獾"
+        },
+        "BaseAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "31": {
+        "Id": 1008004,
+        "Quality": "Purple",
+        "DispatchTitle": "至上之舞",
+        "DispatchDescription": "近期内海的死役变得极为活跃，特区已开辟无人的管制区域供特派专员使用。",
+        "DispatchSinners": {
+            "Sinner": "哈梅尔"
+        },
+        "BaseAward": {
+            "Reward Item": "感染腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "32": {
+        "Id": 1009001,
+        "Quality": "Grey",
+        "DispatchTitle": "传说料理",
+        "DispatchDescription": "分子料理早已成为了狄斯城老饕间的都市传说，不过这个传说，偶尔还会再现。",
+        "DispatchSinners": {
+            "Sinner": "开尔文"
+        },
+        "BaseAward": {
+            "Reward Item": "破损骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破损骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "33": {
+        "Id": 1009002,
+        "Quality": "Green",
+        "DispatchTitle": "医院疑云",
+        "DispatchDescription": "班彦医学院的仓库遭人破坏，大量药品及血样被窃，需要立刻追踪线索。",
+        "DispatchSinners": {
+            "Sinner": "维多利亚"
+        },
+        "BaseAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破损骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "34": {
+        "Id": 1009003,
+        "Quality": "Blue",
+        "DispatchTitle": "上庭旧宅",
+        "DispatchDescription": "上庭一处尘封的旧宅近日受到盗窃，管理局将派出相关人员秘密潜入，了解具体情况。",
+        "DispatchSinners": {
+            "Sinner 1": "维多利亚",
+            "Sinner 2": "辰砂"
+        },
+        "BaseAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "35": {
+        "Id": 1010001,
+        "Quality": "Grey",
+        "DispatchTitle": "紧急组队",
+        "DispatchDescription": "新城某知名乐队吉他手因手臂骨折而不得不缺席演唱会，主办方希望能找到一位够格的替补。",
+        "DispatchSinners": {
+            "Sinner": "琼"
+        },
+        "BaseAward": {
+            "Reward Item": "断裂角质",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "断裂角质",
+            "Reward Qty": "1.0"
+        }
+    },
+    "36": {
+        "Id": 1010002,
+        "Quality": "Green",
+        "DispatchTitle": "资金去向",
+        "DispatchDescription": "近期新城动物园收到一笔神秘捐赠，但最后该笔资金却落入私人账户。对于这种情况，匿名捐赠者非常生气，希望能亲自调查。",
+        "DispatchSinners": {
+            "Sinner": "切尔西伯爵"
+        },
+        "BaseAward": {
+            "Reward Item": "原生角质",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "断裂角质",
+            "Reward Qty": "1.0"
+        }
+    },
+    "37": {
+        "Id": 1010003,
+        "Quality": "Blue",
+        "DispatchTitle": "财富与力量",
+        "DispatchDescription": "在地下竞技场这种地方，有钱有拳头就能所向无敌。",
+        "DispatchSinners": {
+            "Sinner 1": "切尔西伯爵",
+            "Sinner 2": "九十九"
+        },
+        "BaseAward": {
+            "Reward Item": "原生角质",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生角质",
+            "Reward Qty": "1.0"
+        }
+    },
+    "38": {
+        "Id": 1011001,
+        "Quality": "Grey",
+        "DispatchTitle": "地下摇滚",
+        "DispatchDescription": "有人借用地下摇滚的场子售卖违禁物品，几乎已经形成了完整产业链，亟需有人前去调查。",
+        "DispatchSinners": {
+            "Sinner": "琼"
+        },
+        "BaseAward": {
+            "Reward Item": "悬浊凝胶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "悬浊凝胶",
+            "Reward Qty": "1.0"
+        }
+    },
+    "39": {
+        "Id": 1011002,
+        "Quality": "Green",
+        "DispatchTitle": "送葬人",
+        "DispatchDescription": "辛迪加有人借用送葬人的名义为非作歹，这已经点燃了某位送葬人的怒火。",
+        "DispatchSinners": {
+            "Sinner": "温蒂"
+        },
+        "BaseAward": {
+            "Reward Item": "原生凝胶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "悬浊凝胶",
+            "Reward Qty": "1.0"
+        }
+    },
+    "40": {
+        "Id": 1011003,
+        "Quality": "Blue",
+        "DispatchTitle": "狂气",
+        "DispatchDescription": "内海边缘出现了大规模的死役群，这需要一些足够疯狂的组合来压制消灭。",
+        "DispatchSinners": {
+            "Sinner 1": "温蒂",
+            "Sinner 2": "露莉艾卡"
+        },
+        "BaseAward": {
+            "Reward Item": "原生凝胶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生凝胶",
+            "Reward Qty": "1.0"
+        }
+    },
+    "41": {
+        "Id": 1012001,
+        "Quality": "Grey",
+        "DispatchTitle": "产品代言",
+        "DispatchDescription": "某新概念厨具厂商希望找到一位足够出名的大厨来代言自己的产品。",
+        "DispatchSinners": {
+            "Sinner": "开尔文"
+        },
+        "BaseAward": {
+            "Reward Item": "鞘翅残片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "鞘翅残片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "42": {
+        "Id": 1012002,
+        "Quality": "Green",
+        "DispatchTitle": "天生特工",
+        "DispatchDescription": "某些密级较高的监视任务对变装易容的技术要求非常高。",
+        "DispatchSinners": {
+            "Sinner": "普希拉"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "鞘翅残片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "43": {
+        "Id": 1012003,
+        "Quality": "Blue",
+        "DispatchTitle": "侠盗出场！",
+        "DispatchDescription": "某知名侠盗团体出现了模仿犯！对于某些人来说，这种情况完全无法容忍。",
+        "DispatchSinners": {
+            "Sinner 1": "普希拉",
+            "Sinner 2": "泰特拉"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "44": {
+        "Id": 1013001,
+        "Quality": "Grey",
+        "DispatchTitle": "并非野草",
+        "DispatchDescription": "管理局的绿地里种出了一棵可食用的沙漠植物，或许可以在砂海上的实验田里试种一下。",
+        "DispatchSinners": {
+            "Sinner": "胡椒"
+        },
+        "BaseAward": {
+            "Reward Item": "破损囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破损囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "45": {
+        "Id": 1013002,
+        "Quality": "Green",
+        "DispatchTitle": "花道交流",
+        "DispatchDescription": "新城最高水平的花道交流会邀请了一位禁闭者出席——毕竟她也是新城最炙手可热的花道大家。",
+        "DispatchSinners": {
+            "Sinner": "堇"
+        },
+        "BaseAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破损囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "46": {
+        "Id": 1013003,
+        "Quality": "Blue",
+        "DispatchTitle": "上流",
+        "DispatchDescription": "管理局需要监控一场上流宴会，参与者非富即贵，必须倍加小心。",
+        "DispatchSinners": {
+            "Sinner 1": "堇",
+            "Sinner 2": "艾瑞尔"
+        },
+        "BaseAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "47": {
+        "Id": 1014001,
+        "Quality": "Grey",
+        "DispatchTitle": "赝品疑云",
+        "DispatchDescription": "一家大型拍卖公司的拍品全部被替换成了赝品，相关细节还需要专人调查。",
+        "DispatchSinners": {
+            "Sinner": "丽莎"
+        },
+        "BaseAward": {
+            "Reward Item": "狂乱精粹",
+            "Reward Qty": "900.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "狂乱精粹",
+            "Reward Qty": "300.0"
+        }
+    },
+    "48": {
+        "Id": 1014002,
+        "Quality": "Green",
+        "DispatchTitle": "梦的解析",
+        "DispatchDescription": "新城一些区域的居民经常做噩梦，需要查清具体原因。",
+        "DispatchSinners": {
+            "Sinner": "赫卡蒂"
+        },
+        "BaseAward": {
+            "Reward Item": "狂乱精粹",
+            "Reward Qty": "1800.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "狂乱精粹",
+            "Reward Qty": "600.0"
+        }
+    },
+    "49": {
+        "Id": 1014003,
+        "Quality": "Blue",
+        "DispatchTitle": "游乐场阴云",
+        "DispatchDescription": "某游乐场附近监测到异常辐射，需要专业人士前去处理。",
+        "DispatchSinners": {
+            "Sinner 1": "赫卡蒂",
+            "Sinner 2": "帕加茜"
+        },
+        "BaseAward": {
+            "Reward Item": "狂乱精粹",
+            "Reward Qty": "3000.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "狂乱精粹",
+            "Reward Qty": "1000.0"
+        }
+    },
+    "50": {
+        "Id": 1015001,
+        "Quality": "Grey",
+        "DispatchTitle": "“潜伏”群众",
+        "DispatchDescription": "以最朴实的态度融入到辛迪加，时刻警惕周围的风吹草动，这种日常监视很适合辛迪加的本地人。",
+        "DispatchSinners": {
+            "Sinner": "德莫莉"
+        },
+        "BaseAward": {
+            "Reward Item": "狄斯币",
+            "Reward Qty": "900.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "狄斯币",
+            "Reward Qty": "300.0"
+        }
+    },
+    "51": {
+        "Id": 1015002,
+        "Quality": "Green",
+        "DispatchTitle": "老猎人",
+        "DispatchDescription": "最近锈河出现了一些新品种野生生物的目击报告，为了确定并非死役或是其他异变怪物，需要专业人士前去确定来源。",
+        "DispatchSinners": {
+            "Sinner": "狼獾"
+        },
+        "BaseAward": {
+            "Reward Item": "狄斯币",
+            "Reward Qty": "1800.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "狄斯币",
+            "Reward Qty": "600.0"
+        }
+    },
+    "52": {
+        "Id": 1015003,
+        "Quality": "Blue",
+        "DispatchTitle": "宠物失踪案",
+        "DispatchDescription": "新城出现了多项宠物失踪案，寻找宠物和寻找犯人将同时进行。",
+        "DispatchSinners": {
+            "Sinner 1": "狼獾",
+            "Sinner 2": "切尔西伯爵"
+        },
+        "BaseAward": {
+            "Reward Item": "狄斯币",
+            "Reward Qty": "3000.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "狄斯币",
+            "Reward Qty": "1000.0"
+        }
+    },
+    "53": {
+        "Id": 1016001,
+        "Quality": "Grey",
+        "DispatchTitle": "培训交流",
+        "DispatchDescription": "FAC总部向管理局发布了交流学习的通知，许多禁闭者都对此嗤之以鼻。",
+        "DispatchSinners": {
+            "Sinner": "芙洛拉"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石粗矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "54": {
+        "Id": 1016002,
+        "Quality": "Green",
+        "DispatchTitle": "闹鬼剧组",
+        "DispatchDescription": "一家剧组流传着闹鬼的传说，根据获得的录像，我们将对相关信息进行管制。",
+        "DispatchSinners": {
+            "Sinner": "露薇娅·蕾"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "55": {
+        "Id": 1016003,
+        "Quality": "Blue",
+        "DispatchTitle": "心理治疗",
+        "DispatchDescription": "某心理治疗室据称有囚禁病人的情况，我们将派出最精锐的队伍前往调查。",
+        "DispatchSinners": {
+            "Sinner 1": "露薇娅·蕾",
+            "Sinner 2": "卡米利安"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "56": {
+        "Id": 1017001,
+        "Quality": "Grey",
+        "DispatchTitle": "女仆咖啡厅",
+        "DispatchDescription": "在管理局用作伪装的大量产业中，女仆咖啡厅毫无疑问是其中最奇怪的。",
+        "DispatchSinners": {
+            "Sinner": "雷比尼斯"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉石粗矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "57": {
+        "Id": 1017002,
+        "Quality": "Green",
+        "DispatchTitle": "专业护理",
+        "DispatchDescription": "狄斯城永远不缺伤员，这也保证了医护组总能拿到最高的派遣补贴。",
+        "DispatchSinners": {
+            "Sinner": "安"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "58": {
+        "Id": 1017003,
+        "Quality": "Blue",
+        "DispatchTitle": "新药研发",
+        "DispatchDescription": "与班彦医学院及彼岸的合作有序推进，相关技术资料必须要得到严密保护。",
+        "DispatchSinners": {
+            "Sinner 1": "安",
+            "Sinner 2": "维多利亚"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "59": {
+        "Id": 1018001,
+        "Quality": "Grey",
+        "DispatchTitle": "特邀评委",
+        "DispatchDescription": "辛迪加的说唱歌手们要展开一场盛大的对决，为此治安局特别邀请了一名专业评委。",
+        "DispatchSinners": {
+            "Sinner": "佩姬"
+        },
+        "BaseAward": {
+            "Reward Item": "破损骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破损骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "60": {
+        "Id": 1018002,
+        "Quality": "Green",
+        "DispatchTitle": "审判迷踪",
+        "DispatchDescription": "新城法院近期遭到了许多投诉，甚至有人宣称要让那些律师和法官为冤案付出血的代价，内务部对这个信息很感兴趣。",
+        "DispatchSinners": {
+            "Sinner": "福克斯先生"
+        },
+        "BaseAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破损骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "61": {
+        "Id": 1018003,
+        "Quality": "Blue",
+        "DispatchTitle": "锈河禁令",
+        "DispatchDescription": "近期锈河里的偷渡客数量激增，新城治安局想要找出背后运作此事的组织。",
+        "DispatchSinners": {
+            "Sinner 1": "福克斯先生",
+            "Sinner 2": "多莉"
+        },
+        "BaseAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "62": {
+        "Id": 1018004,
+        "Quality": "Purple",
+        "DispatchTitle": "柳生异动",
+        "DispatchDescription": "柳生会社账面上出现了巨额资金流入，根据相关情报，他们正试图展开一场新的“狩猎”，这种行为必须被阻止。",
+        "DispatchSinners": {
+            "Sinner": "科希"
+        },
+        "BaseAward": {
+            "Reward Item": "感染骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "63": {
+        "Id": 1019001,
+        "Quality": "Grey",
+        "DispatchTitle": "真假白记",
+        "DispatchDescription": "辛迪加出现了一家新的白记公司，委托业务开展得红红火火，这让某位正牌的白老板大为气愤。",
+        "DispatchSinners": {
+            "Sinner": "澈"
+        },
+        "BaseAward": {
+            "Reward Item": "断裂角质",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "断裂角质",
+            "Reward Qty": "1.0"
+        }
+    },
+    "64": {
+        "Id": 1019002,
+        "Quality": "Green",
+        "DispatchTitle": "广告邀请",
+        "DispatchDescription": "狄斯优品公司想要进军体育器材行业，他们给管理局发了一份广告拍摄的意向书，并附赠了一大笔意向金。",
+        "DispatchSinners": {
+            "Sinner": "多莉"
+        },
+        "BaseAward": {
+            "Reward Item": "原生角质",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "断裂角质",
+            "Reward Qty": "1.0"
+        }
+    },
+    "65": {
+        "Id": 1019003,
+        "Quality": "Blue",
+        "DispatchTitle": "正式合作",
+        "DispatchDescription": "狄斯优品公司准备和管理局正式签订合作条约，但对于条约里的分成比例，管理局有些不同意见。",
+        "DispatchSinners": {
+            "Sinner 1": "多莉",
+            "Sinner 2": "福克斯先生"
+        },
+        "BaseAward": {
+            "Reward Item": "原生角质",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生角质",
+            "Reward Qty": "1.0"
+        }
+    },
+    "66": {
+        "Id": 1019004,
+        "Quality": "Purple",
+        "DispatchTitle": "灰烬之潮",
+        "DispatchDescription": "本周期的灰烬之潮出现了一些异常波动，秘盟矩阵想要查明背后的原因。",
+        "DispatchSinners": {
+            "Sinner": "观星者"
+        },
+        "BaseAward": {
+            "Reward Item": "感染角质",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生角质",
+            "Reward Qty": "1.0"
+        }
+    },
+    "67": {
+        "Id": 1020001,
+        "Quality": "Grey",
+        "DispatchTitle": "安保测试",
+        "DispatchDescription": "上庭里某家族想要测试他们最近更新的安保系统，通过私人关系找到了管理局。",
+        "DispatchSinners": {
+            "Sinner": "昙"
+        },
+        "BaseAward": {
+            "Reward Item": "红石粗矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "68": {
+        "Id": 1020002,
+        "Quality": "Green",
+        "DispatchTitle": "战地救援",
+        "DispatchDescription": "内海出现了大批死役，医护人员的压力濒临极限，内海特区为此向全城发布了救援令。",
+        "DispatchSinners": {
+            "Sinner": "艾恩"
+        },
+        "BaseAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "69": {
+        "Id": 1020003,
+        "Quality": "Blue",
+        "DispatchTitle": "身心健康",
+        "DispatchDescription": "万灵会似乎在研究如何操纵尸体，为了狄斯人的身心健康，管理局必须提前行动。",
+        "DispatchSinners": {
+            "Sinner 1": "艾恩",
+            "Sinner 2": "奥利弗"
+        },
+        "BaseAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "70": {
+        "Id": 1021001,
+        "Quality": "Grey",
+        "DispatchTitle": "伪装者",
+        "DispatchDescription": "管理局潜伏在某商业公司的线人神秘失踪，或许可以派出一名伪装者来进行暗中调查。",
+        "DispatchSinners": {
+            "Sinner": "玛奇朵"
+        },
+        "BaseAward": {
+            "Reward Item": "泪石粗矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "71": {
+        "Id": 1021002,
+        "Quality": "Green",
+        "DispatchTitle": "好奇心",
+        "DispatchDescription": "新城出现了一连串的诈骗案，据传和新城福利院里的孤儿有关，有人对这个传闻很感兴趣。",
+        "DispatchSinners": {
+            "Sinner": "奥利弗"
+        },
+        "BaseAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "72": {
+        "Id": 1021003,
+        "Quality": "Blue",
+        "DispatchTitle": "玩具傀儡",
+        "DispatchDescription": "传说锈河地带出现了一些有生命的玩具傀儡，管理局需要确定这一情报的真实性。",
+        "DispatchSinners": {
+            "Sinner 1": "奥利弗",
+            "Sinner 2": "艾恩"
+        },
+        "BaseAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "73": {
+        "Id": 1022001,
+        "Quality": "Grey",
+        "DispatchTitle": "文化课",
+        "DispatchDescription": "为了更好地执行各类任务，管理局为某些禁闭者特别开设了基础的文化课。",
+        "DispatchSinners": {
+            "Sinner": "赫罗"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "74": {
+        "Id": 1022002,
+        "Quality": "Green",
+        "DispatchTitle": "学习小组",
+        "DispatchDescription": "在管理局的特别培训中，禁闭者们会组成一对一的学习小组，在各自的优势领域互相帮助。",
+        "DispatchSinners": {
+            "Sinner": "卡瓦卡瓦"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "75": {
+        "Id": 1023001,
+        "Quality": "Grey",
+        "DispatchTitle": "指引信标",
+        "DispatchDescription": "涅槃运输希望完善砂海内的信标网络，为砂海航船提供最精确的引导，为此与管理局进行了深度合作。",
+        "DispatchSinners": {
+            "Sinner": "卡瓦卡瓦"
+        },
+        "BaseAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破损囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "76": {
+        "Id": 1023002,
+        "Quality": "Green",
+        "DispatchTitle": "砂海寻踪",
+        "DispatchDescription": "一场突如其来的沙尘暴致使涅槃运输多艘砂船失踪，我们希望能找到他们，并将其安全带回。",
+        "DispatchSinners": {
+            "Sinner": "赫罗"
+        },
+        "BaseAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "77": {
+        "Id": 1024001,
+        "Quality": "Purple",
+        "DispatchTitle": "观赏蛇出逃事件",
+        "DispatchDescription": "新城一动物园内饲养的观赏蛇逃逸伤人，造成了市民恐慌。为了尽快将其抓捕，治安局急需熟悉蛇类习性的专业人士进行协助。",
+        "DispatchSinners": {
+            "Sinner": "娜恰"
+        },
+        "BaseAward": {
+            "Reward Item": "冰晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "78": {
+        "Id": 1024002,
+        "Quality": "Green",
+        "DispatchTitle": "打假",
+        "DispatchDescription": "一名新城的新人锻造师自称师承新城第一武器工匠，引得不少人慕名而去，此事让从未收过徒的新城第一武器工匠本人气得不轻。",
+        "DispatchSinners": {
+            "Sinner": "莓丝"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "79": {
+        "Id": 1024003,
+        "Quality": "Blue",
+        "DispatchTitle": "限量发售",
+        "DispatchDescription": "高人气玩具店推出限量新品，已经出现有人凌晨通宵排队购买的情况。",
+        "DispatchSinners": {
+            "Sinner 1": "莓丝",
+            "Sinner 2": "奥利弗"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "80": {
+        "Id": 1025001,
+        "Quality": "Purple",
+        "DispatchTitle": "艺术顾问",
+        "DispatchDescription": "新城正在筹建一座全新的雕塑博物馆，相关负责人联系管理局，想要聘请一位专业人士作为艺术顾问。",
+        "DispatchSinners": {
+            "Sinner": "恩菲尔"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "81": {
+        "Id": 1025002,
+        "Quality": "Green",
+        "DispatchTitle": "文化交流会",
+        "DispatchDescription": "新城图书馆近期将要举办一场古典主义艺术与文学交流会，某位爱好者早早提交了参与申请。",
+        "DispatchSinners": {
+            "Sinner": "麦昆"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "82": {
+        "Id": 1025003,
+        "Quality": "Blue",
+        "DispatchTitle": "作赝团伙",
+        "DispatchDescription": "某艺术大师的展出作品接连失窃，而后当地黑市流出大量制作精良的赝品，疑似专业团伙作案，急需彻查。",
+        "DispatchSinners": {
+            "Sinner 1": "麦昆",
+            "Sinner 2": "辰砂"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "83": {
+        "Id": 1026001,
+        "Quality": "Purple",
+        "DispatchTitle": "死役袭击",
+        "DispatchDescription": "某地遭到不明来源的死役袭击，管理局受托派出专业人士前往支援。",
+        "DispatchSinners": {
+            "Sinner": "橡木匣"
+        },
+        "BaseAward": {
+            "Reward Item": "赤晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "84": {
+        "Id": 1026002,
+        "Quality": "Green",
+        "DispatchTitle": "乐手招募",
+        "DispatchDescription": "某知名交响乐团招募新乐手，正在组织海选，有人听闻消息后跃跃欲试。",
+        "DispatchSinners": {
+            "Sinner": "嘟嘟"
+        },
+        "BaseAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "85": {
+        "Id": 1026003,
+        "Quality": "Blue",
+        "DispatchTitle": "卧底调查",
+        "DispatchDescription": "一个来自外邦的街头卖艺者团体行迹十分可疑，管理局决定立即派人进行卧底调查。",
+        "DispatchSinners": {
+            "Sinner 1": "嘟嘟",
+            "Sinner 2": "露薇娅·蕾"
+        },
+        "BaseAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "86": {
+        "Id": 1027001,
+        "Quality": "Purple",
+        "DispatchTitle": "电影大师班",
+        "DispatchDescription": "新城某电影学院将为在校学生组织一场关于电影拍摄技法的讲座，校方联系到管理局，希望邀请某位电影大师前去担任讲师。",
+        "DispatchSinners": {
+            "Sinner": "黛伦"
+        },
+        "BaseAward": {
+            "Reward Item": "泪晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "87": {
+        "Id": 1027002,
+        "Quality": "Green",
+        "DispatchTitle": "摄影教材",
+        "DispatchDescription": "管理局内新添置了一批摄影教材和大师作品集，某人听到消息后非常高兴，第一时间提交了借阅申请。",
+        "DispatchSinners": {
+            "Sinner": "琳"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "88": {
+        "Id": 1027003,
+        "Quality": "Blue",
+        "DispatchTitle": "北上采风",
+        "DispatchDescription": "某位擅长摄影的禁闭者想要前往北方拍摄不一样的风景，于是趁着另一位禁闭者即将北上出任务时向局长提出了同去的申请。",
+        "DispatchSinners": {
+            "Sinner 1": "琳",
+            "Sinner 2": "帕加茜"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "89": {
+        "Id": 1027004,
+        "Quality": "Purple",
+        "DispatchTitle": "开业大吉",
+        "DispatchDescription": "一位MBCC工作人员在老家的店铺开张了，想邀请某位擅长舞狮纳福的禁闭者一同前往庆祝。",
+        "DispatchSinners": {
+            "Sinner": "嗷呜"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "90": {
+        "Id": 1028001,
+        "Quality": "Purple",
+        "DispatchTitle": "桌游风波",
+        "DispatchDescription": "治安局传来消息，有不法分子隐藏在桌游玩家之中混淆视听，于是管理局派出了一名熟悉此项活动的人员前去协助抓捕。",
+        "DispatchSinners": {
+            "Sinner": "爱缇"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "91": {
+        "Id": 1028002,
+        "Quality": "Green",
+        "DispatchTitle": "主场优势",
+        "DispatchDescription": "据可靠线报，一名嫌疑犯最近常出没于新城各鱼龙混杂的娱乐场所，需要熟悉环境者进行调查和证据搜集工作。",
+        "DispatchSinners": {
+            "Sinner": "李维"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "92": {
+        "Id": 1028003,
+        "Quality": "Blue",
+        "DispatchTitle": "诈骗团伙",
+        "DispatchDescription": "近期一个狡猾刁钻的诈骗团伙令治安局十分头疼，管理局为此特地派出了思维灵活且能言善辩的禁闭者前往支援。",
+        "DispatchSinners": {
+            "Sinner 1": "李维",
+            "Sinner 2": "福克斯先生"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "93": {
+        "Id": 1029001,
+        "Quality": "Purple",
+        "DispatchTitle": "考察教学",
+        "DispatchDescription": "新城某知名学校将要举行教学公开活动，欢迎各界人士参观交流。某立志在管理局内开班授课的人员申请前往考察。",
+        "DispatchSinners": {
+            "Sinner": "渡鸦"
+        },
+        "BaseAward": {
+            "Reward Item": "感染凝胶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生凝胶",
+            "Reward Qty": "1.0"
+        }
+    },
+    "94": {
+        "Id": 1029002,
+        "Quality": "Green",
+        "DispatchTitle": "民间私斗",
+        "DispatchDescription": "据传一群暴力分子常混迹潜伏于民间私斗，但由于目标场所形势复杂，需派出经验丰富的人员前往调查。",
+        "DispatchSinners": {
+            "Sinner": "卡斯洛"
+        },
+        "BaseAward": {
+            "Reward Item": "原生凝胶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "悬浊凝胶",
+            "Reward Qty": "1.0"
+        }
+    },
+    "95": {
+        "Id": 1029003,
+        "Quality": "Blue",
+        "DispatchTitle": "非法屠宰场",
+        "DispatchDescription": "治安局收到一则线报，某非法屠宰场环境恶劣，受害动物感染严重，遂向管理局申请熟悉动物习性的人士协助。",
+        "DispatchSinners": {
+            "Sinner 1": "卡斯洛",
+            "Sinner 2": "狼獾"
+        },
+        "BaseAward": {
+            "Reward Item": "原生凝胶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生凝胶",
+            "Reward Qty": "1.0"
+        }
+    },
+    "96": {
+        "Id": 1030001,
+        "Quality": "Purple",
+        "DispatchTitle": "倾诉树洞",
+        "DispatchDescription": "管理局内需要一名能够作为树洞的“烦恼倾听者”，并装饰了一间类似宇宙星空的房间作为倾吐地点。",
+        "DispatchSinners": {
+            "Sinner": "德雷雅"
+        },
+        "BaseAward": {
+            "Reward Item": "感染鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "97": {
+        "Id": 1030002,
+        "Quality": "Green",
+        "DispatchTitle": "整容风波",
+        "DispatchDescription": "一位为自己的鼻子保险三个亿的明星因为鼻梁断裂，保险公司无法赔偿，遂起了争执，需要一名极擅长整容的人员进行现场协调。",
+        "DispatchSinners": {
+            "Sinner": "尤尼"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "鞘翅残片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "98": {
+        "Id": 1030003,
+        "Quality": "Blue",
+        "DispatchTitle": "案发现场",
+        "DispatchDescription": "管理局收到治安协助请求，需要还原一个在案发现场被破坏的人体物证。",
+        "DispatchSinners": {
+            "Sinner 1": "尤尼",
+            "Sinner 2": "艾恩"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "99": {
+        "Id": 1031001,
+        "Quality": "Purple",
+        "DispatchTitle": "怪谈模仿犯",
+        "DispatchDescription": "近期有许多模仿雾夜怪谈的犯罪案件，需要一位了解该都市传说的禁闭者前去支援。",
+        "DispatchSinners": {
+            "Sinner": "阿黛拉"
+        },
+        "BaseAward": {
+            "Reward Item": "感染囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "100": {
+        "Id": 1031002,
+        "Quality": "Green",
+        "DispatchTitle": "紧急救援",
+        "DispatchDescription": "某处建筑倒塌导致多人被埋在废墟之下，急需一位能够无视物理障碍的禁闭者前往救援。",
+        "DispatchSinners": {
+            "Sinner": "莱塔"
+        },
+        "BaseAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破损囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "101": {
+        "Id": 1031003,
+        "Quality": "Blue",
+        "DispatchTitle": "冒险大师",
+        "DispatchDescription": "新的冒险传说风靡新城，两位爱好者蠢蠢欲动，准备前去一探究竟。",
+        "DispatchSinners": {
+            "Sinner 1": "莱塔",
+            "Sinner 2": "胡椒"
+        },
+        "BaseAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "102": {
+        "Id": 1032001,
+        "Quality": "Purple",
+        "DispatchTitle": "试吃邀请",
+        "DispatchDescription": "新城备受瞩目的顶级餐馆将于三天后正式开业，餐馆老板盛情邀请某位知名美食家在开业庆典当日前去试吃。",
+        "DispatchSinners": {
+            "Sinner": "卡门奈特"
+        },
+        "BaseAward": {
+            "Reward Item": "感染腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "103": {
+        "Id": 1032002,
+        "Quality": "Green",
+        "DispatchTitle": "海洋艺术展",
+        "DispatchDescription": "新城某新锐艺术家正在筹办以“海洋”为主题的个人艺术展，他联系到管理局，希望可以从某位禁闭者身上获取一些素材和灵感。",
+        "DispatchSinners": {
+            "Sinner": "拉弥亚"
+        },
+        "BaseAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "枯萎腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "104": {
+        "Id": 1032003,
+        "Quality": "Blue",
+        "DispatchTitle": "协助调查",
+        "DispatchDescription": "MBCC接到治安局求助，需紧急调派两位能够从性格上做出伪装的禁闭者前往协助新城市民神秘失踪案的调查。",
+        "DispatchSinners": {
+            "Sinner 1": "拉弥亚",
+            "Sinner 2": "露薇娅·蕾"
+        },
+        "BaseAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "105": {
+        "Id": 1033001,
+        "Quality": "Purple",
+        "DispatchTitle": "联合演练",
+        "DispatchDescription": "FAC举办了一场联合演练大赛，需要派出一名有过往经验的前FAC人员前往参加。",
+        "DispatchSinners": {
+            "Sinner": "罗睺"
+        },
+        "BaseAward": {
+            "Reward Item": "感染凝胶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生凝胶",
+            "Reward Qty": "1.0"
+        }
+    },
+    "106": {
+        "Id": 1033002,
+        "Quality": "Green",
+        "DispatchTitle": "秀场救急",
+        "DispatchDescription": "新城某时装工作室在时装秀前夕面临爆单，人力不足，急需一名专业裁缝协助。",
+        "DispatchSinners": {
+            "Sinner": "加洛法诺"
+        },
+        "BaseAward": {
+            "Reward Item": "原生凝胶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "悬浊凝胶",
+            "Reward Qty": "1.0"
+        }
+    },
+    "107": {
+        "Id": 1033003,
+        "Quality": "Blue",
+        "DispatchTitle": "花园疑云",
+        "DispatchDescription": "某地出现了多起疑似效仿“花园”手法的案件，治安局遂向管理局申请派遣花园相关人员协助调查。",
+        "DispatchSinners": {
+            "Sinner 1": "加洛法诺",
+            "Sinner 2": "堇"
+        },
+        "BaseAward": {
+            "Reward Item": "原生凝胶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生凝胶",
+            "Reward Qty": "1.0"
+        }
+    },
+    "108": {
+        "Id": 1034001,
+        "Quality": "Purple",
+        "DispatchTitle": "猎奇音乐交流会",
+        "DispatchDescription": "某新城名流送来了一场地下猎奇音乐交流会的请柬，某位音乐品味极为广泛的禁闭者认领了请柬，并打算用自己的黑石英将音乐会记录下来。",
+        "DispatchSinners": {
+            "Sinner": "瑟琳"
+        },
+        "BaseAward": {
+            "Reward Item": "感染骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "109": {
+        "Id": 1034002,
+        "Quality": "Green",
+        "DispatchTitle": "疑案推理",
+        "DispatchDescription": "新城某地发生了一起疑案，治安局紧急向管理局申请一名具有推理能力的专业人士协助破案。",
+        "DispatchSinners": {
+            "Sinner": "克里斯蒂娜"
+        },
+        "BaseAward": {
+            "Reward Item": "原生角质",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "断裂角质",
+            "Reward Qty": "1.0"
+        }
+    },
+    "110": {
+        "Id": 1034003,
+        "Quality": "Blue",
+        "DispatchTitle": "道具侦查",
+        "DispatchDescription": "治安局怀疑某厂家以贩售舞台道具的名义私自生产交易危险物品，需要管理局派出擅长辨别违禁品的人员进行侦查。",
+        "DispatchSinners": {
+            "Sinner 1": "克里斯蒂娜",
+            "Sinner 2": "莓丝"
+        },
+        "BaseAward": {
+            "Reward Item": "原生角质",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生角质",
+            "Reward Qty": "1.0"
+        }
+    },
+    "111": {
+        "Id": 1034004,
+        "Quality": "Purple",
+        "DispatchTitle": "月光浴场",
+        "DispatchDescription": "新城某露天浴场疑似发生了狂厄事件，由于该浴场有特色夜间开放主题，某热衷于享受沐浴的禁闭者强烈要求前往调查。",
+        "DispatchSinners": {
+            "Sinner": "可可莉克"
+        },
+        "BaseAward": {
+            "Reward Item": "感染角质",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生角质",
+            "Reward Qty": "1.0"
+        }
+    },
+    "112": {
+        "Id": 1035001,
+        "Quality": "Purple",
+        "DispatchTitle": "动物园失窃",
+        "DispatchDescription": "新城某动物园丢失了一批鳄鱼，治安局找到了犯人，鳄鱼却无影无踪，急需一名精通动物生态的禁闭者前往协助搜寻。",
+        "DispatchSinners": {
+            "Sinner": "曼缇斯"
+        },
+        "BaseAward": {
+            "Reward Item": "感染鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "113": {
+        "Id": 1035002,
+        "Quality": "Green",
+        "DispatchTitle": "香水拍卖",
+        "DispatchDescription": "有人自称能调制出传说中的永恒之香，并以其为卖点召开拍卖会敛财，某挚爱香水的禁闭者自愿前往瞻仰，或者打假。",
+        "DispatchSinners": {
+            "Sinner": "卡西娅"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "鞘翅残片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "114": {
+        "Id": 1035003,
+        "Quality": "Blue",
+        "DispatchTitle": "伪装贵族",
+        "DispatchDescription": "新城治安局因故需派出警员装扮成贵族小姐进行潜入搜查，需要精通服装搭配和香氛鉴赏的禁闭者提供支持。",
+        "DispatchSinners": {
+            "Sinner 1": "卡西娅",
+            "Sinner 2": "加洛法诺"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "115": {
+        "Id": 1036001,
+        "Quality": "Purple",
+        "DispatchTitle": "解铃还须系铃人",
+        "DispatchDescription": "近日新城医院接待的失眠患者人数急剧攀升，据称多由对怪谈的恐惧诱发，急需催眠ASMR节目辅助治疗。",
+        "DispatchSinners": {
+            "Sinner": "雷温"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "116": {
+        "Id": 1036002,
+        "Quality": "Green",
+        "DispatchTitle": "零食试吃",
+        "DispatchDescription": "某趣味零食网站刚刚创业，希望快速打出名气，需要一名主播直播试吃奇葩零食并带货。",
+        "DispatchSinners": {
+            "Sinner": "妮诺"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "117": {
+        "Id": 1036003,
+        "Quality": "Blue",
+        "DispatchTitle": "毒舌评论",
+        "DispatchDescription": "新城某深夜恶搞综艺收视率下跌，急聘会整活的评论家出演节目，评论社会热点时事。",
+        "DispatchSinners": {
+            "Sinner 1": "妮诺",
+            "Sinner 2": "莓丝"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "118": {
+        "Id": 1037001,
+        "Quality": "Purple",
+        "DispatchTitle": "玩具的凝视",
+        "DispatchDescription": "近日多名市民报案称感觉被女儿的洋娃娃盯着看，疑似偷拍团伙改造玩具后使其流入市场，急需一名精通玩具设计制造的禁闭者协助调查。",
+        "DispatchSinners": {
+            "Sinner": "伊芙"
+        },
+        "BaseAward": {
+            "Reward Item": "感染囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "119": {
+        "Id": 1037002,
+        "Quality": "Green",
+        "DispatchTitle": "科幻电影节",
+        "DispatchDescription": "新城将举办低成本小众科幻电影节，某渴望从电影中获取发明灵感的禁闭者积极要求参加。",
+        "DispatchSinners": {
+            "Sinner": "优利卡"
+        },
+        "BaseAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破损囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "120": {
+        "Id": 1037003,
+        "Quality": "Blue",
+        "DispatchTitle": "大赛评委",
+        "DispatchDescription": "新城某侦探文化俱乐部组织举办了趣味侦探道具设计大赛，急需对趣味道具发明制作和侦探道具有深厚造诣的评委参与评审。",
+        "DispatchSinners": {
+            "Sinner 1": "优利卡",
+            "Sinner 2": "克里斯蒂娜"
+        },
+        "BaseAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "121": {
+        "Id": 1038001,
+        "Quality": "Purple",
+        "DispatchTitle": "锈火历史",
+        "DispatchDescription": "管理局计划梳理一份有关“锈火”组织兴起与发展的详尽历史材料，需要知情者协助完成。",
+        "DispatchSinners": {
+            "Sinner": "唐"
+        },
+        "BaseAward": {
+            "Reward Item": "感染骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "122": {
+        "Id": 1038002,
+        "Quality": "Green",
+        "DispatchTitle": "枪械试用",
+        "DispatchDescription": "某研究院研制出了最新型号的手枪，急需精通枪械者试用评估。",
+        "DispatchSinners": {
+            "Sinner": "玛蒂尔达"
+        },
+        "BaseAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破损骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "123": {
+        "Id": 1038003,
+        "Quality": "Blue",
+        "DispatchTitle": "清洁大扫除",
+        "DispatchDescription": "管理局近来公务繁忙，疏于家务清洁，某二位禁闭者决定共同完成一次大扫除。",
+        "DispatchSinners": {
+            "Sinner 1": "玛蒂尔达",
+            "Sinner 2": "雷比尼斯"
+        },
+        "BaseAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "124": {
+        "Id": 1039001,
+        "Quality": "Purple",
+        "DispatchTitle": "选秀评委",
+        "DispatchDescription": "某娱乐推出了新一档选秀节目，这次以选出音乐剧的未来之星为主题，现急招大众评委参与录制，某禁闭者主动要求前往参与并挖掘蒙尘明珠。",
+        "DispatchSinners": {
+            "Sinner": "珀尔夫人"
+        },
+        "BaseAward": {
+            "Reward Item": "泪晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "125": {
+        "Id": 1039002,
+        "Quality": "Green",
+        "DispatchTitle": "人气大赛",
+        "DispatchDescription": "某协会在新城组织了一场街头艺人大赛，所有民众均可免费观看并投出自己的一票，某禁闭者听说后自告奋勇想要参加，并称自己一定会拿到冠军。",
+        "DispatchSinners": {
+            "Sinner": "艾可"
+        },
+        "BaseAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "126": {
+        "Id": 1039003,
+        "Quality": "Blue",
+        "DispatchTitle": "声波武器",
+        "DispatchDescription": "治安局目前正在大力研发声波武器，急需能够使用声波进行攻击以及善于发明创造的禁闭者参与研制。",
+        "DispatchSinners": {
+            "Sinner 1": "艾可",
+            "Sinner 2": "优利卡"
+        },
+        "BaseAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "127": {
+        "Id": 1040001,
+        "Quality": "Purple",
+        "DispatchTitle": "炸弹预告",
+        "DispatchDescription": "MBCC接到治安局求助，新城某地标的巨型时钟被装入了炸药，内部构造复杂且危险，需要立即指派一名非常了解机械构造的禁闭者前来协助。",
+        "DispatchSinners": {
+            "Sinner": "瓦尼菈"
+        },
+        "BaseAward": {
+            "Reward Item": "感染腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "128": {
+        "Id": 1040002,
+        "Quality": "Green",
+        "DispatchTitle": "手账集市",
+        "DispatchDescription": "新城举行了手账集市活动，某禁闭者坚称其中潜藏着大量不明危险，积极主动地申请前往排除威胁。",
+        "DispatchSinners": {
+            "Sinner": "蓟"
+        },
+        "BaseAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "枯萎腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "129": {
+        "Id": 1040003,
+        "Quality": "Blue",
+        "DispatchTitle": "女高绑架案",
+        "DispatchDescription": "新城某女高发生了集体绑架事件，应治安局要求，MBCC紧急派遣两名禁闭者伪装成在校女高混入其中，实行秘密解救人质的计划。",
+        "DispatchSinners": {
+            "Sinner 1": "蓟",
+            "Sinner 2": "琳"
+        },
+        "BaseAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "130": {
+        "Id": 1041001,
+        "Quality": "Purple",
+        "DispatchTitle": "古籍辨认",
+        "DispatchDescription": "新城图书馆近期失窃了一批来自异邦的珍贵书籍原件，急需有关学者协助追回和甄辨。",
+        "DispatchSinners": {
+            "Sinner": "杜若"
+        },
+        "BaseAward": {
+            "Reward Item": "感染凝胶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生凝胶",
+            "Reward Qty": "1.0"
+        }
+    },
+    "131": {
+        "Id": 1041002,
+        "Quality": "Green",
+        "DispatchTitle": "料理盛会",
+        "DispatchDescription": "新城料理大会开幕在即，主办方向管理局发出友情邀请，某禁闭者在看到请帖后主动要求前去赴约。",
+        "DispatchSinners": {
+            "Sinner": "烟烟"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "鞘翅残片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "132": {
+        "Id": 1041003,
+        "Quality": "Blue",
+        "DispatchTitle": "童装模特失踪案",
+        "DispatchDescription": "近日，新城某知名贵价童装品牌有多名模特在拍摄后失踪，需派出两名禁闭者变装潜入，查明真相。",
+        "DispatchSinners": {
+            "Sinner 1": "烟烟",
+            "Sinner 2": "奥利弗"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "133": {
+        "Id": 1041004,
+        "Quality": "Purple",
+        "DispatchTitle": "讲座探查",
+        "DispatchDescription": "治安局近期接到投诉，一名自称大师的可疑人士在四处开设“沟通太阳”相关讲座，需派出一名禁闭者前往探查。",
+        "DispatchSinners": {
+            "Sinner": "曜"
+        },
+        "BaseAward": {
+            "Reward Item": "感染鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "134": {
+        "Id": 1042001,
+        "Quality": "Purple",
+        "DispatchTitle": "发呆冠军",
+        "DispatchDescription": "近日新城无聊人协会组织了一场发呆大赛，最终胜者可获巨额奖金，许多能发呆10小时以上的强者纷纷参与，某禁闭者得知后也难得表示了兴趣。",
+        "DispatchSinners": {
+            "Sinner": "安吉尔"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "135": {
+        "Id": 1042002,
+        "Quality": "Green",
+        "DispatchTitle": "混战教学",
+        "DispatchDescription": "由于痛感在巷战等复杂环境下的战斗力不足，新城治安局急聘有丰富街头混战经验的搏击教官一名，以进一步强化训练质量。",
+        "DispatchSinners": {
+            "Sinner": "戈蓝"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "136": {
+        "Id": 1042003,
+        "Quality": "Blue",
+        "DispatchTitle": "可爱诱惑",
+        "DispatchDescription": "某知名精品店连锁品牌决定进军辛迪加并推出地区限定版玩偶，某几位禁闭者听说后积极要求前往该地区执行任务。",
+        "DispatchSinners": {
+            "Sinner 1": "戈蓝",
+            "Sinner 2": "蓟"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "137": {
+        "Id": 1043001,
+        "Quality": "Purple",
+        "DispatchTitle": "果汁品鉴",
+        "DispatchDescription": "某新城知名苹果汁酿造厂商推出了各种果汁浓度的新品品鉴活动，一名禁闭者听说后立刻连打三十份报告要求前往参与。",
+        "DispatchSinners": {
+            "Sinner": "毕安卡"
+        },
+        "BaseAward": {
+            "Reward Item": "冰晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "138": {
+        "Id": 1043002,
+        "Quality": "Green",
+        "DispatchTitle": "反诈语音",
+        "DispatchDescription": "近期以网恋形式展开的诈骗案件频发，新城治安局急招一名了解年轻网民喜好且声线迷人的禁闭者，录制反诈宣传语音。",
+        "DispatchSinners": {
+            "Sinner": "肖恩"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "139": {
+        "Id": 1043003,
+        "Quality": "Blue",
+        "DispatchTitle": "心动进修",
+        "DispatchDescription": "新城某娱乐公司最新推出的蒙面恋综以“一句话，让你心动”为卖点，红极一时，某两名自恃擅长花言巧语的禁闭者主动提出欲参加新一轮海选。",
+        "DispatchSinners": {
+            "Sinner 1": "肖恩",
+            "Sinner 2": "麦昆"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "140": {
+        "Id": 1044001,
+        "Quality": "Purple",
+        "DispatchTitle": "劝导移居",
+        "DispatchDescription": "近日，有关部门下属巡逻队于内海周边巡查时，意外发现一名老人在此搭建了临时居所。因其思想迷信，队员难以沟通，急需一名熟悉当地祭祀文化者协助劝说其移居。",
+        "DispatchSinners": {
+            "Sinner": "赫斯提亚"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "141": {
+        "Id": 1044002,
+        "Quality": "Green",
+        "DispatchTitle": "影碟甄别",
+        "DispatchDescription": "治安局接到线报，某犯罪集团将大量违法内容伪装成复古影碟于市面流通，需派出一名涉猎广泛的相关爱好者协助辨别。",
+        "DispatchSinners": {
+            "Sinner": "简"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "142": {
+        "Id": 1044003,
+        "Quality": "Blue",
+        "DispatchTitle": "银行大劫案",
+        "DispatchDescription": "新城银行近期出现特大抢劫案件，嫌疑人作案风格与昔日备受关注的连环劫匪高度相似，疑为模仿犯罪，需要派出相关人员协助侦破。",
+        "DispatchSinners": {
+            "Sinner 1": "简",
+            "Sinner 2": "克里斯蒂娜"
+        },
+        "BaseAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮辉石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "143": {
+        "Id": 1045001,
+        "Quality": "Purple",
+        "DispatchTitle": "论坛管理",
+        "DispatchDescription": "近期，治安局计划重新启用内网论坛，当前论坛因长期欠缺管理而发帖混乱，信息真伪混杂，需要管理局派出一名熟悉相关管理工作的禁闭者帮助打理。",
+        "DispatchSinners": {
+            "Sinner": "L.L."
+        },
+        "BaseAward": {
+            "Reward Item": "赤晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "144": {
+        "Id": 1045002,
+        "Quality": "Green",
+        "DispatchTitle": "信息破译",
+        "DispatchDescription": "治安局截获某犯罪团伙发送的交易信息，但其中存在大量暗网黑话和加密链接，难以短时间破译，急需熟悉相关内容者协助破解。",
+        "DispatchSinners": {
+            "Sinner": "舒鲁玛"
+        },
+        "BaseAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "145": {
+        "Id": 1045003,
+        "Quality": "Blue",
+        "DispatchTitle": "孩童疏散",
+        "DispatchDescription": "有一群小孩常在巡逻队工作的危险区域聚集玩闹，经提醒仍屡教不改，对公务执行造成了干扰。现需管理局派出两名能够快速在孩童间获取威信的禁闭者协助疏散。",
+        "DispatchSinners": {
+            "Sinner 1": "舒鲁玛",
+            "Sinner 2": "安"
+        },
+        "BaseAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "红石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "150": {
+        "Id": 1099001,
+        "Quality": "Green",
+        "DispatchTitle": "梦的解析",
+        "DispatchDescription": "新城一些区域的居民经常做噩梦，需要查清具体原因。",
+        "DispatchSinners": {
+            "Sinner": "赫卡蒂"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂粗矿",
+            "Reward Qty": "1.0"
+        }
+    }
+}

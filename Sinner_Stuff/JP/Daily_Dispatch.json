@@ -1,0 +1,2544 @@
+{
+    "0": {
+        "Id": 1001001,
+        "Quality": "Grey",
+        "DispatchTitle": "信頼の白記",
+        "DispatchDescription": "ある常連客が白記に注文をした。白記の看板を守るため、この注文に必ず応えてみせる！",
+        "DispatchSinners": {
+            "Sinner": "K.K."
+        },
+        "BaseAward": {
+            "Reward Item": "氷の原鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "1": {
+        "Id": 1001002,
+        "Quality": "Green",
+        "DispatchTitle": "警備訓練",
+        "DispatchDescription": "FACの他の部門は、元「スネークアイ」のセキュリティ責任者によってセキュリティ分野の訓練が行われることを望んでいる。",
+        "DispatchSinners": {
+            "Sinner": "辰砂"
+        },
+        "BaseAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "2": {
+        "Id": 1001003,
+        "Quality": "Blue",
+        "DispatchTitle": "秘密取引",
+        "DispatchDescription": "秘密取引は変装舞踏会で行われている。相応しい身分の者が潜入して阻止する必要がある。",
+        "DispatchSinners": {
+            "Sinner 1": "辰砂",
+            "Sinner 2": "イグニ"
+        },
+        "BaseAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "3": {
+        "Id": 1001004,
+        "Quality": "Purple",
+        "DispatchTitle": "窮地までの追跡",
+        "DispatchDescription": "機密ファイルに記録されている悪党が再び現れた。我々はすでにその活動ルートを追っている。",
+        "DispatchSinners": {
+            "Sinner": "デーモン"
+        },
+        "BaseAward": {
+            "Reward Item": "氷晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "4": {
+        "Id": 1002001,
+        "Quality": "Grey",
+        "DispatchTitle": "主なき場所",
+        "DispatchDescription": "シンジケートのヤンキー達は最近どうも落ち着きがないようだ。何人かその中に混じり、原因を探る必要があるだろうか。",
+        "DispatchSinners": {
+            "Sinner": "ヘラ"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石の原鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "5": {
+        "Id": 1002002,
+        "Quality": "Green",
+        "DispatchTitle": "延滞禁止",
+        "DispatchDescription": "大食い試合のスポンサーによる報酬の支払いが滞っている。調査の結果、異常な金の流れと関係があることが分かった。",
+        "DispatchSinners": {
+            "Sinner": "ナインティナイン"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "6": {
+        "Id": 1002003,
+        "Quality": "Blue",
+        "DispatchTitle": "錆の川の異常",
+        "DispatchDescription": "錆の川エリアでいくつかの異常現象が発生している。専門家による対処が必要だ。",
+        "DispatchSinners": {
+            "Sinner 1": "ナインティナイン",
+            "Sinner 2": "ウェンディ"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "7": {
+        "Id": 1002004,
+        "Quality": "Purple",
+        "DispatchTitle": "とどめの武器",
+        "DispatchDescription": "シンジケートでは最近新型の武器が流行している。これに対して、シンジケートの元締めである軍団のリーダーは自ら調査することを決めた。",
+        "DispatchSinners": {
+            "Sinner": "ゾーヤ"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "8": {
+        "Id": 1003001,
+        "Quality": "Grey",
+        "DispatchTitle": "資料の出所",
+        "DispatchDescription": "クイーンメディアのとあるスタジオはコンビクトを元にアニメを作ろうとしており、ある詐欺師が自ら協力すると名乗り出た。",
+        "DispatchSinners": {
+            "Sinner": "EMP"
+        },
+        "BaseAward": {
+            "Reward Item": "赤石の原鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "9": {
+        "Id": 1003002,
+        "Quality": "Green",
+        "DispatchTitle": "ドカンドカンドカン",
+        "DispatchDescription": "シンジケートで連続爆発殉死事件が発生した。爆発物のプロが今回の事件を調査する必要がある。",
+        "DispatchSinners": {
+            "Sinner": "ルリエカ"
+        },
+        "BaseAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "10": {
+        "Id": 1003003,
+        "Quality": "Blue",
+        "DispatchTitle": "盛大なパフォーマンス",
+        "DispatchDescription": "管理局は情報の拠点となるカーニバルでの屋台を申請した。そこではマジックショー、娯楽ゲームなど多くのサービスを提供している。",
+        "DispatchSinners": {
+            "Sinner 1": "ルリエカ",
+            "Sinner 2": "プリシラ"
+        },
+        "BaseAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "11": {
+        "Id": 1003004,
+        "Quality": "Purple",
+        "DispatchTitle": "内海測定",
+        "DispatchDescription": "最近、内海の汚染度が大きく変動しているため、内海特別区域への支援を申し出た。",
+        "DispatchSinners": {
+            "Sinner": "NOX"
+        },
+        "BaseAward": {
+            "Reward Item": "赤の結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "12": {
+        "Id": 1004001,
+        "Quality": "Grey",
+        "DispatchTitle": "ロボットダンス",
+        "DispatchDescription": "ある人物にダンス公演での暗殺予告が行われた。彼女を守るために、我々は身代わり作戦を使うつもりだ。",
+        "DispatchSinners": {
+            "Sinner": "ラビリンス"
+        },
+        "BaseAward": {
+            "Reward Item": "涙石の原鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "13": {
+        "Id": 1004002,
+        "Quality": "Green",
+        "DispatchTitle": "都市の影",
+        "DispatchDescription": "ディスシティには闇路が多く存在しており、特に上庭ではそれが顕著だ。このエリアで仕事を行うには正式な身分が必要だ。特に注意しろ。",
+        "DispatchSinners": {
+            "Sinner": "テトラ"
+        },
+        "BaseAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "14": {
+        "Id": 1004003,
+        "Quality": "Blue",
+        "DispatchTitle": "殺人の謎",
+        "DispatchDescription": "ある秘密組織の情報提供者が予想外の被害に遭い、組織ごとディスシティから消えた。その背後にある真実を明らかにするため、管理局は事件解決の鍵となる二人の人員を必要としている。",
+        "DispatchSinners": {
+            "Sinner 1": "テトラ",
+            "Sinner 2": "菫"
+        },
+        "BaseAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "15": {
+        "Id": 1004004,
+        "Quality": "Purple",
+        "DispatchTitle": "最速の走り屋",
+        "DispatchDescription": "タービン科学技研が開発した高速バイクが走り屋集団に盗まれた。何度もたらい回しにされた末、この依頼は最終的に白記事務所に回ってきた。",
+        "DispatchSinners": {
+            "Sinner": "ハクイツ"
+        },
+        "BaseAward": {
+            "Reward Item": "涙晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "16": {
+        "Id": 1005001,
+        "Quality": "Grey",
+        "DispatchTitle": "火気厳禁",
+        "DispatchDescription": "シンジケートで多数の火災事故が発生したが、それぞれの事件現場は遠く離れている。管理局はこの中に関連しているものがあるかどうかを知りたがっている。",
+        "DispatchSinners": {
+            "Sinner": "フローラ"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂の原鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "17": {
+        "Id": 1005002,
+        "Quality": "Green",
+        "DispatchTitle": "固定ルート？",
+        "DispatchDescription": "ニューシティ治安局の依頼を受け、コンビクトはパトロール任務を行うこととなった。ルートを策定する必要がある……",
+        "DispatchSinners": {
+            "Sinner": "アリエル"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "18": {
+        "Id": 1005003,
+        "Quality": "Blue",
+        "DispatchTitle": "スペンサー家",
+        "DispatchDescription": "この一族の最近のスキャンダルについて、管理局は関系者を派遣して対応することにした。執行力を保つため、別の有力人物による支援の提供が必要だ。",
+        "DispatchSinners": {
+            "Sinner 1": "アリエル",
+            "Sinner 2": "ヘカテー"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "19": {
+        "Id": 1005004,
+        "Quality": "Purple",
+        "DispatchTitle": "技術サポート",
+        "DispatchDescription": "上級機関の研究所は最近幾つかの技術的難問に直面した。専門的業務の難度を考えると、適任者は一人しかいないようだ。",
+        "DispatchSinners": {
+            "Sinner": "夏音"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "20": {
+        "Id": 1006001,
+        "Quality": "Grey",
+        "DispatchTitle": "ウェストピッカー",
+        "DispatchDescription": "最近、錆の川近くのウェストピッカー組織で殺人事件が発生した。そこの環境に詳しい人が調査に行く必要がある。",
+        "DispatchSinners": {
+            "Sinner": "デモーリー"
+        },
+        "BaseAward": {
+            "Reward Item": "イレギュラーキューブ",
+            "Reward Qty": "5.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "イレギュラーキューブ",
+            "Reward Qty": "5.0"
+        }
+    },
+    "21": {
+        "Id": 1006002,
+        "Quality": "Green",
+        "DispatchTitle": "図書管理",
+        "DispatchDescription": "図書館の古い本の一部が失われた。管理局は単純な管理ミスではなく、別の理由があるのではないかと疑っている。",
+        "DispatchSinners": {
+            "Sinner": "ペガシ"
+        },
+        "BaseAward": {
+            "Reward Item": "イレギュラーキューブ",
+            "Reward Qty": "10.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "イレギュラーキューブ",
+            "Reward Qty": "5.0"
+        }
+    },
+    "22": {
+        "Id": 1006003,
+        "Quality": "Blue",
+        "DispatchTitle": "書籍購入",
+        "DispatchDescription": "管理局の図書調達の仕事が本格的に始まった。図書リストは19ページに及ぶため、適任者を見つけるのは簡単ではない。",
+        "DispatchSinners": {
+            "Sinner 1": "ペガシ",
+            "Sinner 2": "アン"
+        },
+        "BaseAward": {
+            "Reward Item": "イレギュラーキューブ",
+            "Reward Qty": "15.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "イレギュラーキューブ",
+            "Reward Qty": "5.0"
+        }
+    },
+    "23": {
+        "Id": 1006004,
+        "Quality": "Purple",
+        "DispatchTitle": "仕事指導",
+        "DispatchDescription": "管理局は今後の派遣業務の展望を知るために、最近の派遣業務についてまとめなければならない。ある二人の手助けが必要だ。",
+        "DispatchSinners": {
+            "Sinner": "ラングリー"
+        },
+        "BaseAward": {
+            "Reward Item": "イレギュラーキューブ",
+            "Reward Qty": "30.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "イレギュラーキューブ",
+            "Reward Qty": "10.0"
+        }
+    },
+    "24": {
+        "Id": 1007001,
+        "Quality": "Grey",
+        "DispatchTitle": "特約評論",
+        "DispatchDescription": "ある芸術雑誌は有名な批評家を招待し、多額の原稿料が支払われる特別な原稿を用意した。",
+        "DispatchSinners": {
+            "Sinner": "リザー"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅の原鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "25": {
+        "Id": 1007002,
+        "Quality": "Green",
+        "DispatchTitle": "グルメ品評",
+        "DispatchDescription": "ある食品工場では複数の新製品が発売されたが、売上は良くなかった。彼らにはより意識の高い美食家からの意見が必要だ。",
+        "DispatchSinners": {
+            "Sinner": "イグニ"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "26": {
+        "Id": 1007003,
+        "Quality": "Blue",
+        "DispatchTitle": "エンタメニュース",
+        "DispatchDescription": "パパラッチはコンビクトアイドルの娯楽ニュースを作成したが、このような行為は阻止しなければならない。",
+        "DispatchSinners": {
+            "Sinner 1": "イグニ",
+            "Sinner 2": "ルヴィア・レイ"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "27": {
+        "Id": 1007004,
+        "Quality": "Purple",
+        "DispatchTitle": "重大な決定",
+        "DispatchDescription": "リモートコントロールができるようになった現在でも、重大事件が発生した場合は決定権を持つ者が現場に赴くことが必要だ。",
+        "DispatchSinners": {
+            "Sinner": "エイレーネー"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "28": {
+        "Id": 1008001,
+        "Quality": "Grey",
+        "DispatchTitle": "効率改善",
+        "DispatchDescription": "ヒース村と周辺の農業衛星都市の採掘効率を向上させるためには、より専門的な設備と人材が必要だ。",
+        "DispatchSinners": {
+            "Sinner": "ペッパー"
+        },
+        "BaseAward": {
+            "Reward Item": "枯れた触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "枯れた触手",
+            "Reward Qty": "1.0"
+        }
+    },
+    "29": {
+        "Id": 1008002,
+        "Quality": "Green",
+        "DispatchTitle": "審査の招待",
+        "DispatchDescription": "取り調べの難しい犯人の際に、ニューシティ治安局はいつも管理局に協力調査の通告をする。",
+        "DispatchSinners": {
+            "Sinner": "カメリアン"
+        },
+        "BaseAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "枯れた触手",
+            "Reward Qty": "1.0"
+        }
+    },
+    "30": {
+        "Id": 1008003,
+        "Quality": "Blue",
+        "DispatchTitle": "虫群の暴動",
+        "DispatchDescription": "白砂の海でサンドワームの群れが暴れている。ベテランのハンターが対処して欲しい。できることなら奴らが暴れている原因を明らかにしてくれ。",
+        "DispatchSinners": {
+            "Sinner 1": "カメリアン",
+            "Sinner 2": "クズリ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        }
+    },
+    "31": {
+        "Id": 1008004,
+        "Quality": "Purple",
+        "DispatchTitle": "極上の舞い",
+        "DispatchDescription": "最近、内海の死瞳が活発になった。特区は特派員のために無人管理エリアを開放した。",
+        "DispatchSinners": {
+            "Sinner": "ハーメル"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        }
+    },
+    "32": {
+        "Id": 1009001,
+        "Quality": "Grey",
+        "DispatchTitle": "伝説の料理",
+        "DispatchDescription": "分子調理はすでにディスシティのグルメ愛好家の間に広まっている。だが、この伝説はまたいつか現れる。",
+        "DispatchSinners": {
+            "Sinner": "ケルビン"
+        },
+        "BaseAward": {
+            "Reward Item": "破損した骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破損した骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "33": {
+        "Id": 1009002,
+        "Quality": "Green",
+        "DispatchTitle": "病院の謎",
+        "DispatchDescription": "班彦医学院の倉庫が破壊された。大量の薬品や血液サンプルが盗まれたため、すぐに犯人を追跡する必要がある。",
+        "DispatchSinners": {
+            "Sinner": "ビクトリア"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破損した骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "34": {
+        "Id": 1009003,
+        "Quality": "Blue",
+        "DispatchTitle": "上庭旧宅",
+        "DispatchDescription": "上庭にある古い家が最近窃盗の被害を受けている。管理局は人員を派遣して秘密裏に潜入させ、状況を把握することにした。",
+        "DispatchSinners": {
+            "Sinner 1": "ビクトリア",
+            "Sinner 2": "辰砂"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "35": {
+        "Id": 1010001,
+        "Quality": "Grey",
+        "DispatchTitle": "緊急チーム",
+        "DispatchDescription": "ニューシティの有名バンドのギタリストが腕を骨折したためライブを欠席しなければならない。主催者は良い代役を見つけたいと思っている。",
+        "DispatchSinners": {
+            "Sinner": "ジョーン"
+        },
+        "BaseAward": {
+            "Reward Item": "折れた角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "折れた角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "36": {
+        "Id": 1010002,
+        "Quality": "Green",
+        "DispatchTitle": "資金の行方",
+        "DispatchDescription": "ニューシティ動物園に匿名の寄付が送られたが、資金は個人口座に入れられた。匿名の寄付者はこれに対して憤り、自ら調査しようと思っている。",
+        "DispatchSinners": {
+            "Sinner": "チェルシー伯爵"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "折れた角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "37": {
+        "Id": 1010003,
+        "Quality": "Blue",
+        "DispatchTitle": "富と力",
+        "DispatchDescription": "地下競技場のような場所では、金と拳が全てだ。",
+        "DispatchSinners": {
+            "Sinner 1": "チェルシー伯爵",
+            "Sinner 2": "ナインティナイン"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "38": {
+        "Id": 1011001,
+        "Quality": "Grey",
+        "DispatchTitle": "アングラ・ロック",
+        "DispatchDescription": "アンダーグラウンド・ロックの場を利用して違法品を販売する人がいる。すでにほぼ完全な流通経路を形成しており、早急に調査する必要がある。",
+        "DispatchSinners": {
+            "Sinner": "ジョーン"
+        },
+        "BaseAward": {
+            "Reward Item": "懸濁ゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "懸濁ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "39": {
+        "Id": 1011002,
+        "Quality": "Green",
+        "DispatchTitle": "葬儀屋",
+        "DispatchDescription": "シンジケートには葬儀屋の名を借りて悪事を働く者がおり、ある葬儀屋の怒りは頂点に達した。",
+        "DispatchSinners": {
+            "Sinner": "ウェンディ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "懸濁ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "40": {
+        "Id": 1011003,
+        "Quality": "Blue",
+        "DispatchTitle": "狂気",
+        "DispatchDescription": "内海の外れに大規模な死瞳の群れが現れた。抑え込むためにはこちらも相手に匹敵する狂気を持ち合わせていなければならない。",
+        "DispatchSinners": {
+            "Sinner 1": "ウェンディ",
+            "Sinner 2": "ルリエカ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "41": {
+        "Id": 1012001,
+        "Quality": "Grey",
+        "DispatchTitle": "イメージキャラクター",
+        "DispatchDescription": "ある新理念を生み出した調理器具メーカーは、自分の製品の良さを伝えることのできる有名なシェフを見つけたいと思っている。",
+        "DispatchSinners": {
+            "Sinner": "ケルビン"
+        },
+        "BaseAward": {
+            "Reward Item": "鞘翅の破片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "鞘翅の破片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "42": {
+        "Id": 1012002,
+        "Quality": "Green",
+        "DispatchTitle": "天性のスパイ",
+        "DispatchDescription": "機密性の高い監視任務には高い変装技術が要求される。",
+        "DispatchSinners": {
+            "Sinner": "プリシラ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "鞘翅の破片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "43": {
+        "Id": 1012003,
+        "Quality": "Blue",
+        "DispatchTitle": "義賊登場！",
+        "DispatchDescription": "ある有名な義賊団体に模仿犯が現れた！何人かにとっては、この状況は許されることではない。",
+        "DispatchSinners": {
+            "Sinner 1": "プリシラ",
+            "Sinner 2": "テトラ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "44": {
+        "Id": 1013001,
+        "Quality": "Grey",
+        "DispatchTitle": "野草ならぬ",
+        "DispatchDescription": "管理局の緑地で、食用可能な砂漠植物が育てられている。砂の海の実験畑に植えてみてはどうだろうか。",
+        "DispatchSinners": {
+            "Sinner": "ペッパー"
+        },
+        "BaseAward": {
+            "Reward Item": "破損した嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破損した嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "45": {
+        "Id": 1013002,
+        "Quality": "Green",
+        "DispatchTitle": "華道交流",
+        "DispatchDescription": "ニューシティの最高レベルの華道交流会にコンビクトが招待された——なにしろ彼女はニューシティで一番人気のある華道専門家でもある。",
+        "DispatchSinners": {
+            "Sinner": "菫"
+        },
+        "BaseAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破損した嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "46": {
+        "Id": 1013003,
+        "Quality": "Blue",
+        "DispatchTitle": "上流",
+        "DispatchDescription": "管理局は上流階級で催されるパーティーを監視しなければならない。参加者は上流階級の人物のため、細心の注意が必要だ。",
+        "DispatchSinners": {
+            "Sinner 1": "菫",
+            "Sinner 2": "アリエル"
+        },
+        "BaseAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "47": {
+        "Id": 1014001,
+        "Quality": "Grey",
+        "DispatchTitle": "贋作の謎",
+        "DispatchDescription": "ある大手オークション会社の競売品が全て偽物にすり替えられていた。詳しい調査が必要だ。",
+        "DispatchSinners": {
+            "Sinner": "リザー"
+        },
+        "BaseAward": {
+            "Reward Item": "ルナティックエッセンス",
+            "Reward Qty": "900.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "ルナティックエッセンス",
+            "Reward Qty": "300.0"
+        }
+    },
+    "48": {
+        "Id": 1014002,
+        "Quality": "Green",
+        "DispatchTitle": "夢の解析",
+        "DispatchDescription": "ニューシティの一部エリアの住民がよくナイトメアにうなされている。具体的な原因を調査しなければならない。",
+        "DispatchSinners": {
+            "Sinner": "ヘカテー"
+        },
+        "BaseAward": {
+            "Reward Item": "ルナティックエッセンス",
+            "Reward Qty": "1800.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "ルナティックエッセンス",
+            "Reward Qty": "600.0"
+        }
+    },
+    "49": {
+        "Id": 1014003,
+        "Quality": "Blue",
+        "DispatchTitle": "曇りの遊園地",
+        "DispatchDescription": "ある遊園地の近くで異常な放射線が観測された。専門家に対処を依頼する必要がある。",
+        "DispatchSinners": {
+            "Sinner 1": "ヘカテー",
+            "Sinner 2": "ペガシ"
+        },
+        "BaseAward": {
+            "Reward Item": "ルナティックエッセンス",
+            "Reward Qty": "3000.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "ルナティックエッセンス",
+            "Reward Qty": "1000.0"
+        }
+    },
+    "50": {
+        "Id": 1015001,
+        "Quality": "Grey",
+        "DispatchTitle": "「潜伏」民衆",
+        "DispatchDescription": "素朴な仕草でシンジケートに溶け込み、周囲の環境を窺い続ける。こうした日常監視にはシンジケートの地元の人間が最適だ。",
+        "DispatchSinners": {
+            "Sinner": "デモーリー"
+        },
+        "BaseAward": {
+            "Reward Item": "ディスコイン",
+            "Reward Qty": "900.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "ディスコイン",
+            "Reward Qty": "300.0"
+        }
+    },
+    "51": {
+        "Id": 1015002,
+        "Quality": "Green",
+        "DispatchTitle": "ベテランハンター",
+        "DispatchDescription": "錆の川では最近、新種の野生生物の目撃報告がある。死瞳や他の変異した怪物ではないことを確定するため、専門家が来源を確定する必要がある。",
+        "DispatchSinners": {
+            "Sinner": "クズリ"
+        },
+        "BaseAward": {
+            "Reward Item": "ディスコイン",
+            "Reward Qty": "1800.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "ディスコイン",
+            "Reward Qty": "600.0"
+        }
+    },
+    "52": {
+        "Id": 1015003,
+        "Quality": "Blue",
+        "DispatchTitle": "ペット失踪事件",
+        "DispatchDescription": "ニューシティで多くのペットが行方不明になっている。ペットと犯人の捜査を同時に行わなければならない。",
+        "DispatchSinners": {
+            "Sinner 1": "クズリ",
+            "Sinner 2": "チェルシー伯爵"
+        },
+        "BaseAward": {
+            "Reward Item": "ディスコイン",
+            "Reward Qty": "3000.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "ディスコイン",
+            "Reward Qty": "1000.0"
+        }
+    },
+    "53": {
+        "Id": 1016001,
+        "Quality": "Grey",
+        "DispatchTitle": "訓練交流",
+        "DispatchDescription": "FAC本部は交流学習のお知らせを管理局に通知した。多くのコンビクトはこれを嘲笑ったが。",
+        "DispatchSinners": {
+            "Sinner": "フローラ"
+        },
+        "BaseAward": {
+            "Reward Item": "氷の原鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "54": {
+        "Id": 1016002,
+        "Quality": "Green",
+        "DispatchTitle": "幽霊劇団",
+        "DispatchDescription": "ある劇団が幽霊の伝説を元に番組を制作した。我々は真相を探るべく、撮影されたビデオを再生した。",
+        "DispatchSinners": {
+            "Sinner": "ルヴィア・レイ"
+        },
+        "BaseAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "55": {
+        "Id": 1016003,
+        "Quality": "Blue",
+        "DispatchTitle": "心理治療",
+        "DispatchDescription": "ある心理治療室に患者が監禁されている。我々は最精鋭の部隊を派遣して調査することになった。",
+        "DispatchSinners": {
+            "Sinner 1": "ルヴィア・レイ",
+            "Sinner 2": "カメリアン"
+        },
+        "BaseAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "56": {
+        "Id": 1017001,
+        "Quality": "Grey",
+        "DispatchTitle": "メイド喫茶",
+        "DispatchDescription": "管理局が偽装に使った多くの産業の中でも、メイド喫茶店は紛れもなく最も奇異な存在だった。",
+        "DispatchSinners": {
+            "Sinner": "ラビリンス"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石の原鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "57": {
+        "Id": 1017002,
+        "Quality": "Green",
+        "DispatchTitle": "看護のプロ",
+        "DispatchDescription": "ディスシティでは負傷者が絶えることはない。医療チームには最高の派遣報酬が支払われることを保証した。",
+        "DispatchSinners": {
+            "Sinner": "アン"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "58": {
+        "Id": 1017003,
+        "Quality": "Blue",
+        "DispatchTitle": "新薬開発",
+        "DispatchDescription": "班彦医学院と彼岸との協力を推進するため、関連技術資料は厳密に保管されなければならない。",
+        "DispatchSinners": {
+            "Sinner 1": "アン",
+            "Sinner 2": "ビクトリア"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "59": {
+        "Id": 1018001,
+        "Quality": "Grey",
+        "DispatchTitle": "ゲスト審査員",
+        "DispatchDescription": "シンジケートのラッパーたちが盛大なラップバトルを繰り広げるため、治安局は特別にプロの審査員を招待した。",
+        "DispatchSinners": {
+            "Sinner": "ペギー"
+        },
+        "BaseAward": {
+            "Reward Item": "破損した骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破損した骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "60": {
+        "Id": 1018002,
+        "Quality": "Green",
+        "DispatchTitle": "裁判の謎",
+        "DispatchDescription": "ニューシティ裁判所には最近多くの苦情が寄せられている。中には「あの弁護士や裁判官に冤罪を血で償わせる」と言う者までもおり、内務部門がこの情報に関心を寄せている。",
+        "DispatchSinners": {
+            "Sinner": "Mr.Fox"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破損した骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "61": {
+        "Id": 1018003,
+        "Quality": "Blue",
+        "DispatchTitle": "錆の川禁令",
+        "DispatchDescription": "最近、錆の川からの密入者が急増しており、ニューシティ治安局はその背後にいる組織を見つけようとしている。",
+        "DispatchSinners": {
+            "Sinner 1": "Mr.Fox",
+            "Sinner 2": "ドリー"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "62": {
+        "Id": 1018004,
+        "Quality": "Purple",
+        "DispatchTitle": "柳生の異常行動",
+        "DispatchDescription": "柳生株式会社の口座に巨額の資金が流入している。情報によると、彼らは新たな「狩猟」を展開しようとしているそうだ。あいつらの行動を止めなければならない。",
+        "DispatchSinners": {
+            "Sinner": "コージ"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "63": {
+        "Id": 1019001,
+        "Quality": "Grey",
+        "DispatchTitle": "白記の真偽",
+        "DispatchDescription": "シンジケートにもう1軒の白記事務所が現れ、依頼業務が繁盛している。そのことに本物を運営しているハク社長は怒りを露わにした。",
+        "DispatchSinners": {
+            "Sinner": "澈"
+        },
+        "BaseAward": {
+            "Reward Item": "折れた角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "折れた角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "64": {
+        "Id": 1019002,
+        "Quality": "Green",
+        "DispatchTitle": "広告招待",
+        "DispatchDescription": "ディス優品会社はスポーツ器材業界に進出しようとしている。管理局に多額の依頼金と共に、広告撮影の依頼書を送付した。",
+        "DispatchSinners": {
+            "Sinner": "ドリー"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "折れた角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "65": {
+        "Id": 1019003,
+        "Quality": "Blue",
+        "DispatchTitle": "正式連携",
+        "DispatchDescription": "ディス優品会社は管理局と正式に提携契約を締結しようとしているが、利益分配については、管理局と少し意見が異なっている。",
+        "DispatchSinners": {
+            "Sinner 1": "ドリー",
+            "Sinner 2": "Mr.Fox"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "66": {
+        "Id": 1019004,
+        "Quality": "Purple",
+        "DispatchTitle": "灰の潮",
+        "DispatchDescription": "今期の灰の潮に異常が現れ、秘盟マトリックスは原因を明らかにしようとしている。",
+        "DispatchSinners": {
+            "Sinner": "スターゲイザー"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "67": {
+        "Id": 1020001,
+        "Quality": "Grey",
+        "DispatchTitle": "セキュリティテスト",
+        "DispatchDescription": "上庭のとある家族は、最近更新されたセキュリティシステムをテストするため、私的な関係を通じて管理局に連絡してきた。",
+        "DispatchSinners": {
+            "Sinner": "ゲツライコウ"
+        },
+        "BaseAward": {
+            "Reward Item": "赤石の原鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "68": {
+        "Id": 1020002,
+        "Quality": "Green",
+        "DispatchTitle": "戦場救援",
+        "DispatchDescription": "内海に大量の死瞳が現れ、医療スタッフが限界に近づいている。そのため、内海特別区域は街全体に救援要請を出した。",
+        "DispatchSinners": {
+            "Sinner": "アイン"
+        },
+        "BaseAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "69": {
+        "Id": 1020003,
+        "Quality": "Blue",
+        "DispatchTitle": "心身の健康",
+        "DispatchDescription": "万霊教団は死体を操る方法を研究しているようだ。ディス心身の安全のため、管理局は早めに行動を取らなければならない。",
+        "DispatchSinners": {
+            "Sinner 1": "アイン",
+            "Sinner 2": "オリバー"
+        },
+        "BaseAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "70": {
+        "Id": 1021001,
+        "Quality": "Grey",
+        "DispatchTitle": "スパイ",
+        "DispatchDescription": "とある商社に潜伏している管理局の情報員が行方不明になった。スパイを派遣して秘密調査を行ったほうがいいかもしれない。",
+        "DispatchSinners": {
+            "Sinner": "マキアート"
+        },
+        "BaseAward": {
+            "Reward Item": "涙石の原鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "71": {
+        "Id": 1021002,
+        "Quality": "Green",
+        "DispatchTitle": "好奇心",
+        "DispatchDescription": "ニューシティでは一連の詐欺事件が発生しており、ニューシティ孤児院の孤児と関係があるという噂がある。ある人はその噂に興味を持った。",
+        "DispatchSinners": {
+            "Sinner": "オリバー"
+        },
+        "BaseAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "72": {
+        "Id": 1021003,
+        "Quality": "Blue",
+        "DispatchTitle": "傀儡人形",
+        "DispatchDescription": "錆の川地域に生命を宿した傀儡人形が現れたという噂が広まる。管理局はこの情報を確認する必要がある。",
+        "DispatchSinners": {
+            "Sinner 1": "オリバー",
+            "Sinner 2": "アイン"
+        },
+        "BaseAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "73": {
+        "Id": 1022001,
+        "Quality": "Grey",
+        "DispatchTitle": "教養授業",
+        "DispatchDescription": "様々な任務をより効率よく遂行するために、管理局は特別に一部のコンビクトのために一般教養の授業を開催した。",
+        "DispatchSinners": {
+            "Sinner": "ホロ"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "74": {
+        "Id": 1022002,
+        "Quality": "Green",
+        "DispatchTitle": "学習グループ",
+        "DispatchDescription": "管理局の特別訓練では、コンビクトたちが1対1の学習グループを作り、それぞれの得意分野で助け合う。",
+        "DispatchSinners": {
+            "Sinner": "カワカワ"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "75": {
+        "Id": 1023001,
+        "Quality": "Grey",
+        "DispatchTitle": "ビーコン",
+        "DispatchDescription": "涅槃運輸は砂の海でのビーコンネットワークを改善し、砂の海の航船のために最も精確なガイドを提供することを望んでいる。そのために管理局に協力を要請した。",
+        "DispatchSinners": {
+            "Sinner": "カワカワ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破損した嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "76": {
+        "Id": 1023002,
+        "Quality": "Green",
+        "DispatchTitle": "砂の海の追跡",
+        "DispatchDescription": "突然の砂嵐で涅槃運輸の複数の航船が行方不明になっている。航船を見つけ出し、無事に連れ戻してほしい。",
+        "DispatchSinners": {
+            "Sinner": "ホロ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "77": {
+        "Id": 1024001,
+        "Quality": "Purple",
+        "DispatchTitle": "観賞用ヘビ脱走事件",
+        "DispatchDescription": "ニューシティのとある動物園で飼育されていた鑑賞用のヘビが脱走し、人を負傷させ、市民をパニックに陥れた。一刻も早く捕まえるため、治安局にはその習性を詳しく知るプロの協力が必要だ。",
+        "DispatchSinners": {
+            "Sinner": "ナチャ"
+        },
+        "BaseAward": {
+            "Reward Item": "氷晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "78": {
+        "Id": 1024002,
+        "Quality": "Green",
+        "DispatchTitle": "偽物撲滅",
+        "DispatchDescription": "自称「ニューシティ最高の武器職人の弟子」であるニューシティの新人鍛冶屋が、多くの客を引きつけている。そのことに対し、これまで一度も弟子をとったことのないニューシティ最高の武器職人本人が、ひどく怒っている。",
+        "DispatchSinners": {
+            "Sinner": "メイス"
+        },
+        "BaseAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "79": {
+        "Id": 1024003,
+        "Quality": "Blue",
+        "DispatchTitle": "限定発売",
+        "DispatchDescription": "大人気のトイショップで、限定商品が発売された。商品を買うために、徹夜して並んだ人もいたという。",
+        "DispatchSinners": {
+            "Sinner 1": "メイス",
+            "Sinner 2": "オリバー"
+        },
+        "BaseAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "80": {
+        "Id": 1025001,
+        "Quality": "Purple",
+        "DispatchTitle": "芸術顧問",
+        "DispatchDescription": "ニューシティは新たな彫刻博物館を建てようとしている。責任者が管理局に連絡してきて、専門家を芸術顧問として雇いたいと言っている。",
+        "DispatchSinners": {
+            "Sinner": "エンフェル"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "81": {
+        "Id": 1025002,
+        "Quality": "Green",
+        "DispatchTitle": "文化交流会",
+        "DispatchDescription": "近々、ニューシティ図書館が古典主義芸術と文学の交流会を開くらしい。ある愛好家が、既に参加申請を提出している。",
+        "DispatchSinners": {
+            "Sinner": "マックイーン"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "82": {
+        "Id": 1025003,
+        "Quality": "Blue",
+        "DispatchTitle": "贋作集団",
+        "DispatchDescription": "某芸術家の作品が次々と盗まれ、闇市にそれらの贋作が大量に現れた。専門集団の仕業と考えられるため、徹底的な調査が必要だ。",
+        "DispatchSinners": {
+            "Sinner 1": "マックイーン",
+            "Sinner 2": "辰砂"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "83": {
+        "Id": 1026001,
+        "Quality": "Purple",
+        "DispatchTitle": "死瞳襲来",
+        "DispatchDescription": "ある地域が突如現れた死瞳に襲われ、依頼を受けた管理局は救援のため専門家を派遣した。",
+        "DispatchSinners": {
+            "Sinner": "コフィン"
+        },
+        "BaseAward": {
+            "Reward Item": "赤の結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "84": {
+        "Id": 1026002,
+        "Quality": "Green",
+        "DispatchTitle": "音楽家募集",
+        "DispatchDescription": "とある有名な交響楽団が新しい音楽家を募集するためオーディションを開催した。その情報を聞いて自分の力を試そうとする人がいる。",
+        "DispatchSinners": {
+            "Sinner": "トト"
+        },
+        "BaseAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "85": {
+        "Id": 1026003,
+        "Quality": "Blue",
+        "DispatchTitle": "潜入捜査",
+        "DispatchDescription": "異邦から来たとある大道芸人グループが明らかに疑わしく、管理局はすぐにメンバーを派遣して潜入捜査をすることにした。",
+        "DispatchSinners": {
+            "Sinner 1": "トト",
+            "Sinner 2": "ルヴィア・レイ"
+        },
+        "BaseAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "86": {
+        "Id": 1027001,
+        "Quality": "Purple",
+        "DispatchTitle": "巨匠の映画教室",
+        "DispatchDescription": "ニューシティのある映画学院は生徒向けに映画撮影の技法に関する講座を開くため、管理局に連絡を取り、講師として映画の巨匠を招きたいとの意向を示している。",
+        "DispatchSinners": {
+            "Sinner": "デイリン"
+        },
+        "BaseAward": {
+            "Reward Item": "涙晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "87": {
+        "Id": 1027002,
+        "Quality": "Green",
+        "DispatchTitle": "撮影の教科書",
+        "DispatchDescription": "管理局に撮影関係の教科書や巨匠の作品集が追加されたと知ったあるコンビクトは、大喜びしてすぐに貸出の申請をした。",
+        "DispatchSinners": {
+            "Sinner": "リン"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "88": {
+        "Id": 1027003,
+        "Quality": "Blue",
+        "DispatchTitle": "北地での撮影",
+        "DispatchDescription": "北へ行って現地ならではの風景を撮ろうとした撮影好きのコンビクトは、任務のため北に向かおうとしているもう一人のコンビクトに同行したいと局長に申請した。",
+        "DispatchSinners": {
+            "Sinner 1": "リン",
+            "Sinner 2": "ペガシ"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "89": {
+        "Id": 1027004,
+        "Quality": "Purple",
+        "DispatchTitle": "開業祝い",
+        "DispatchDescription": "とあるMBCC局員が地元で店を開き、開業祝いに獅子舞を得意とするコンビクトを招待しようとしている。",
+        "DispatchSinners": {
+            "Sinner": "ガオ"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "90": {
+        "Id": 1028001,
+        "Quality": "Purple",
+        "DispatchTitle": "ボードゲーム騒ぎ",
+        "DispatchDescription": "治安局から、犯罪者がボードゲームのプレイヤーの中に混ざり潜伏しているという報告を受けた。管理局はそのゲームに詳しい人員を派遣した。",
+        "DispatchSinners": {
+            "Sinner": "アイティ"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "91": {
+        "Id": 1028002,
+        "Quality": "Green",
+        "DispatchTitle": "ホームグラウンド優勢",
+        "DispatchDescription": "報告によると、ある容疑者が最近よくニューシティの様々な人が出入りする娯楽施設に出没している。この環境に詳しい人物が調査及び証拠収集を行う必要がある。",
+        "DispatchSinners": {
+            "Sinner": "レヴィ"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "92": {
+        "Id": 1028003,
+        "Quality": "Blue",
+        "DispatchTitle": "詐欺集団",
+        "DispatchDescription": "最近、とある狡猾な詐欺集団が治安局を悩ませている。そのため、管理局は頭脳明晰で口上手なコンビクトを派遣し支援させた。",
+        "DispatchSinners": {
+            "Sinner 1": "レヴィ",
+            "Sinner 2": "Mr.Fox"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "93": {
+        "Id": 1029001,
+        "Quality": "Purple",
+        "DispatchTitle": "教学考察",
+        "DispatchDescription": "ニューシティの有名な学校が特別公開授業を行うとし、各界からの参観を歓迎している。管理局内のとある教鞭をとることを目指している者が見学を申し込んだ。",
+        "DispatchSinners": {
+            "Sinner": "クロウ"
+        },
+        "BaseAward": {
+            "Reward Item": "感染されたゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "94": {
+        "Id": 1029002,
+        "Quality": "Green",
+        "DispatchTitle": "民間の格闘試合",
+        "DispatchDescription": "数人のならず者がよく民間の格闘試合に紛れ込んで事件を起こすらしい。目標地点の情勢が少し複雑なため、その辺りに詳しい者を向かわせる必要がある。",
+        "DispatchSinners": {
+            "Sinner": "カスロ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "懸濁ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "95": {
+        "Id": 1029003,
+        "Quality": "Blue",
+        "DispatchTitle": "違法屠畜場",
+        "DispatchDescription": "ある違法屠畜場の環境が劣悪で、動物の感染状況が深刻だという情報が入った。治安局は管理局に、動物の習性に詳しい人を向かわせるように支援要請を出した。",
+        "DispatchSinners": {
+            "Sinner 1": "カスロ",
+            "Sinner 2": "クズリ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "96": {
+        "Id": 1030001,
+        "Quality": "Purple",
+        "DispatchTitle": "相談部屋",
+        "DispatchDescription": "みんなの悩みを解消するために「聞き上手」の者を一人選んで、相談役にする必要がある。悩み相談の場所として、宇宙の星空をモチーフにした相談部屋が設置された。",
+        "DispatchSinners": {
+            "Sinner": "デレーヤ"
+        },
+        "BaseAward": {
+            "Reward Item": "感染鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "97": {
+        "Id": 1030002,
+        "Quality": "Green",
+        "DispatchTitle": "整形騒ぎ",
+        "DispatchDescription": "自分の鼻に三億の保険をかけた芸能人の鼻骨が折れた。保険会社はそんな大金を支払えないと今揉めている。整形の腕に優れた人が現場に向かい、とりなす必要がある。",
+        "DispatchSinners": {
+            "Sinner": "ユーニ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "鞘翅の破片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "98": {
+        "Id": 1030003,
+        "Quality": "Blue",
+        "DispatchTitle": "事件現場",
+        "DispatchDescription": "証拠隠滅を目的として事件現場で毀損された人体物証を復元するよう、治安局は管理局に支援要請を出した。",
+        "DispatchSinners": {
+            "Sinner 1": "ユーニ",
+            "Sinner 2": "アイン"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "99": {
+        "Id": 1031001,
+        "Quality": "Purple",
+        "DispatchTitle": "怪奇譚模倣犯",
+        "DispatchDescription": "夜霧のシザーフリークの模倣犯が現れた。怪奇譚に詳しいコンビクトを支援に向かわせる必要がある。",
+        "DispatchSinners": {
+            "Sinner": "アデラ"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "100": {
+        "Id": 1031002,
+        "Quality": "Green",
+        "DispatchTitle": "緊急救援",
+        "DispatchDescription": "ある建物が崩れて、大勢の人が埋められてしまった。至急、障害物を無視できるコンビクトを救援に向かわせる必要がある。",
+        "DispatchSinners": {
+            "Sinner": "レタ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破損した嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "101": {
+        "Id": 1031003,
+        "Quality": "Blue",
+        "DispatchTitle": "冒険マスター",
+        "DispatchDescription": "ニューシティで新しい怪奇譚が流行っている。愛好家の二人は腕を鳴らした。",
+        "DispatchSinners": {
+            "Sinner 1": "レタ",
+            "Sinner 2": "ペッパー"
+        },
+        "BaseAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "102": {
+        "Id": 1032001,
+        "Quality": "Purple",
+        "DispatchTitle": "試食会への招待",
+        "DispatchDescription": "ニューシティで注目を集める高級レストランは三日後正式に営業を開始する予定だ。レストランのオーナーは、とある有名な美食家を当日の試食会に招待したがっている。",
+        "DispatchSinners": {
+            "Sinner": "カベルネ"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        }
+    },
+    "103": {
+        "Id": 1032002,
+        "Quality": "Green",
+        "DispatchTitle": "海の美術展",
+        "DispatchDescription": "ニューシティのとある新進気鋭のアーティストは「海洋」をテーマに個展を開こうとしている。彼は管理局に連絡し、あるコンビクトからインスピレーションを得たいという。",
+        "DispatchSinners": {
+            "Sinner": "ラミア"
+        },
+        "BaseAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "枯れた触手",
+            "Reward Qty": "1.0"
+        }
+    },
+    "104": {
+        "Id": 1032003,
+        "Quality": "Blue",
+        "DispatchTitle": "調査協力",
+        "DispatchDescription": "MBCCは治安局からの救援要請を受けた。自分の性格を偽装できるコンビクト二人に、ニューシティの市民失踪事件の調査に協力してほしいという。",
+        "DispatchSinners": {
+            "Sinner 1": "ラミア",
+            "Sinner 2": "ルヴィア・レイ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        }
+    },
+    "105": {
+        "Id": 1033001,
+        "Quality": "Purple",
+        "DispatchTitle": "共同演習",
+        "DispatchDescription": "FACは共同演習を開催した。過去に経験のある元FACメンバーを向かわせる必要がある。",
+        "DispatchSinners": {
+            "Sinner": "ラーフ"
+        },
+        "BaseAward": {
+            "Reward Item": "感染されたゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "106": {
+        "Id": 1033002,
+        "Quality": "Green",
+        "DispatchTitle": "急場しのぎ",
+        "DispatchDescription": "ファッションショーが迫っているため、あるニューシティのファッションスタジオが人手不足で悩んでいる。至急プロの仕立屋が必要だ。",
+        "DispatchSinners": {
+            "Sinner": "ガロファノ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "懸濁ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "107": {
+        "Id": 1033003,
+        "Quality": "Blue",
+        "DispatchTitle": "花庭園暗殺疑惑",
+        "DispatchDescription": "あるところで暗殺事件が多発しており、「花庭園」の模倣犯による可能性が高いと推測されている。花庭園の関係者を調査に向かわせるよう、治安局からの協力要請が届いた。",
+        "DispatchSinners": {
+            "Sinner 1": "ガロファノ",
+            "Sinner 2": "菫"
+        },
+        "BaseAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "108": {
+        "Id": 1034001,
+        "Quality": "Purple",
+        "DispatchTitle": "猟奇音楽交流会",
+        "DispatchDescription": "ニューシティのあるセレブから、猟奇音楽交流会の招待状が届いた。ある音楽好きのコンビクトはその招待状を受け取り、自分の黒石英で音楽会を記録しようとした。",
+        "DispatchSinners": {
+            "Sinner": "シャローム"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "109": {
+        "Id": 1034002,
+        "Quality": "Green",
+        "DispatchTitle": "不審な事件の推理",
+        "DispatchDescription": "ニューシティ某所で不審な事件が起こった。治安局は至急、推理能力のあるプロに解決の協力を求めた。",
+        "DispatchSinners": {
+            "Sinner": "クリスティナ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "折れた角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "110": {
+        "Id": 1034003,
+        "Quality": "Blue",
+        "DispatchTitle": "道具の調査",
+        "DispatchDescription": "治安局は、あるメーカーが舞台道具を販売する名目で危険物を密造し取引していた疑いがあるとして、管理局から禁制物の見分けが得意な人員を派遣して調査する必要がある。",
+        "DispatchSinners": {
+            "Sinner 1": "クリスティナ",
+            "Sinner 2": "メイス"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "111": {
+        "Id": 1034004,
+        "Quality": "Purple",
+        "DispatchTitle": "月光風呂",
+        "DispatchDescription": "ニューシティのある露天風呂で狂瞳事件が発生したらしい。当該露天風呂は夜間営業しているという特色があるため、入浴に熱心なコンビクトが調査に向かうことを要求されている。",
+        "DispatchSinners": {
+            "Sinner": "コクリコ"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "112": {
+        "Id": 1035001,
+        "Quality": "Purple",
+        "DispatchTitle": "動物園窃盗事件",
+        "DispatchDescription": "ニューシティのある動物園で数匹のワニが盗まれた。治安局は犯人を見つけたが、肝心のワニはどこにもいない。動物の生態に詳しいコンビクトを現場に向かわせて、調査に協力してほしい。",
+        "DispatchSinners": {
+            "Sinner": "マンティス"
+        },
+        "BaseAward": {
+            "Reward Item": "感染鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "113": {
+        "Id": 1035002,
+        "Quality": "Green",
+        "DispatchTitle": "香水オークション",
+        "DispatchDescription": "伝説の「永遠の香り」を完成させたと吹聴する者がいて、それをセールスポイントに香水のオークションを開いた。香水に強い執着があるコンビクトが是非見たいとオークションに参加申請を出した。その香水が偽物であればその場で暴くつもりのようだ。",
+        "DispatchSinners": {
+            "Sinner": "カシア"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "鞘翅の破片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "114": {
+        "Id": 1035003,
+        "Quality": "Blue",
+        "DispatchTitle": "偽装貴族",
+        "DispatchDescription": "貴族の令嬢に偽装して潜入捜査をしてほしいとニューシティ治安局から協力要請が届いた。服のコーデと香水に詳しいコンビクトが必要だ。",
+        "DispatchSinners": {
+            "Sinner 1": "カシア",
+            "Sinner 2": "ガロファノ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "115": {
+        "Id": 1036001,
+        "Quality": "Purple",
+        "DispatchTitle": "蒔いた種は自分で刈る",
+        "DispatchDescription": "最近、ニューシティの病院で不眠症患者の受け入れが急増している。その多くは怪談話への恐怖が原因と言われており、催眠ASMR番組による治療が急務となっている。",
+        "DispatchSinners": {
+            "Sinner": "エブン"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "116": {
+        "Id": 1036002,
+        "Quality": "Green",
+        "DispatchTitle": "スナックの試食",
+        "DispatchDescription": "ある面白スナックのウェブサイトが、立ち上げたばかりのため人気の急増を求めている。スナックを食べながら宣伝してくれるライブ配信者が必要だ。",
+        "DispatchSinners": {
+            "Sinner": "ニノ"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "117": {
+        "Id": 1036003,
+        "Quality": "Blue",
+        "DispatchTitle": "毒舌コメント",
+        "DispatchDescription": "ニューシティの深夜バラエティ番組の視聴率が低下している。話題の社会問題について番組でコメントしてくれる有能なコメンテーターの起用が急務だ。",
+        "DispatchSinners": {
+            "Sinner 1": "ニノ",
+            "Sinner 2": "メイス"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "118": {
+        "Id": 1037001,
+        "Quality": "Purple",
+        "DispatchTitle": "おもちゃの視線",
+        "DispatchDescription": "最近、複数の一般市民から「娘の人形に睨まれているような気がする」という通報が相次いでいる。盗撮組織がおもちゃを改造して市場に流通させた疑いがあるため、おもちゃの設計や製造に精通したコンビクトの捜査協力が急ぎ必要だ。",
+        "DispatchSinners": {
+            "Sinner": "イヴ"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "119": {
+        "Id": 1037002,
+        "Quality": "Green",
+        "DispatchTitle": "SF映画祭",
+        "DispatchDescription": "ニューシティでは低予算のアングラSF映画祭がもうすぐ開催される。映画から発明のインスピレーションを得たいと思っているコンビクトが積極的に参加を希望した。",
+        "DispatchSinners": {
+            "Sinner": "エウレカ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破損した嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "120": {
+        "Id": 1037003,
+        "Quality": "Blue",
+        "DispatchTitle": "コンテスト審査員",
+        "DispatchDescription": "ニューシティの探偵文化クラブが、おもしろ探偵小道具のデザインコンテスト開催を予定している。そこで、おもしろ小道具の発明、製作や、探偵アイテムに造詣が深い審査員を集めることが急務となっている。",
+        "DispatchSinners": {
+            "Sinner 1": "エウレカ",
+            "Sinner 2": "クリスティナ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "121": {
+        "Id": 1038001,
+        "Quality": "Purple",
+        "DispatchTitle": "錆火の歴史",
+        "DispatchDescription": "管理局は、「錆火」組織の発足と発展に関する詳細な歴史を編纂する計画を立てている。そのためには情報を持っている人の協力が必要だ。",
+        "DispatchSinners": {
+            "Sinner": "ドナルド"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "122": {
+        "Id": 1038002,
+        "Quality": "Green",
+        "DispatchTitle": "銃器の試用",
+        "DispatchDescription": "ある研究院が最新モデルの銃を開発したため、試用と評価をしてくれる銃器の専門家を緊急に求めている。",
+        "DispatchSinners": {
+            "Sinner": "マチルダ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破損した骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "123": {
+        "Id": 1038003,
+        "Quality": "Blue",
+        "DispatchTitle": "大掃除",
+        "DispatchDescription": "最近、管理局は公務に追われて清掃がおろそかになっているため、コンビクト2名が協力して大掃除をすることにした。",
+        "DispatchSinners": {
+            "Sinner 1": "マチルダ",
+            "Sinner 2": "ラビリンス"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "124": {
+        "Id": 1039001,
+        "Quality": "Purple",
+        "DispatchTitle": "オーディション番組の審査員",
+        "DispatchDescription": "あるエンタメ企業が、未来のミュージカルスターを選ぶというテーマで新たなオーディション番組を企画した。収録に参加してもらう一般審査員を急募していたところ、あるコンビクトが粉塵の中から真珠を発掘するために自ら申し込んだ。",
+        "DispatchSinners": {
+            "Sinner": "パール夫人"
+        },
+        "BaseAward": {
+            "Reward Item": "涙晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "125": {
+        "Id": 1039002,
+        "Quality": "Green",
+        "DispatchTitle": "人気コンテスト",
+        "DispatchDescription": "ある協会がニューシティで路上パフォーマンスコンテストを開催する。市民は誰でも無料で観覧でき、投票も可能だ。その話を聞いたあるコンビクトは、絶対優勝すると言って参加を志願した。",
+        "DispatchSinners": {
+            "Sinner": "アイカ"
+        },
+        "BaseAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "126": {
+        "Id": 1039003,
+        "Quality": "Blue",
+        "DispatchTitle": "音波武器",
+        "DispatchDescription": "治安局は現在、音波武器の研究開発に力を入れている。そのため音波を使った攻撃ができ、発明に長けたコンビクトの参加が急務となっている。",
+        "DispatchSinners": {
+            "Sinner 1": "アイカ",
+            "Sinner 2": "エウレカ"
+        },
+        "BaseAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "127": {
+        "Id": 1040001,
+        "Quality": "Purple",
+        "DispatchTitle": "爆弾予告",
+        "DispatchDescription": "MBCCは治安局から協力を求められた。ニューシティのランドマークにある巨大な時計に爆発物が仕込まれたらしい。内部の構造は複雑で危険であり、機械構造に詳しいコンビクトを直ちに現場に派遣する必要がある。",
+        "DispatchSinners": {
+            "Sinner": "ヴァニラ"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        }
+    },
+    "128": {
+        "Id": 1040002,
+        "Quality": "Green",
+        "DispatchTitle": "手帳マルシェ",
+        "DispatchDescription": "ニューシティで手帳マルシェが開催される。しかし、あるコンビクトがそこに未知の危険が多く潜んでいると主張し、その脅威を排除しに行きたいと積極的に申し出た。",
+        "DispatchSinners": {
+            "Sinner": "アザミ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "枯れた触手",
+            "Reward Qty": "1.0"
+        }
+    },
+    "129": {
+        "Id": 1040003,
+        "Quality": "Blue",
+        "DispatchTitle": "女子高誘拐事件",
+        "DispatchDescription": "ニューシティの女子高で集団誘拐事件が発生した。MBCCは治安局の要請を受け、コンビクト2名を緊急派遣し、女子高生に変装させて紛れ込ませ、人質救出計画を実行することにした。",
+        "DispatchSinners": {
+            "Sinner 1": "アザミ",
+            "Sinner 2": "リン"
+        },
+        "BaseAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        }
+    },
+    "130": {
+        "Id": 1041001,
+        "Quality": "Purple",
+        "DispatchTitle": "古書の識別",
+        "DispatchDescription": "ニューシティの図書館で最近、異邦からの貴重な書籍の原書が盗まれた。それを取り戻し鑑定するため、至急この分野に明るい学者の支援が必要だ。",
+        "DispatchSinners": {
+            "Sinner": "杜若"
+        },
+        "BaseAward": {
+            "Reward Item": "感染されたゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "131": {
+        "Id": 1041002,
+        "Quality": "Green",
+        "DispatchTitle": "料理大会",
+        "DispatchDescription": "ニューシティの料理大会の開催を目前に控え、主催者は管理局に招待状を送った。その招待状を見て、あるコンビクトが自ら行きたいと申し出た。",
+        "DispatchSinners": {
+            "Sinner": "煙煙"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "鞘翅の破片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "132": {
+        "Id": 1041003,
+        "Quality": "Blue",
+        "DispatchTitle": "子供服モデルの失踪事件",
+        "DispatchDescription": "最近、ニューシティにある有名な高級子供服ブランドのモデル数名が写真撮影の後に失踪した。コンビクト2名を変装させて潜入させ、真実を突き止める必要がある。",
+        "DispatchSinners": {
+            "Sinner 1": "煙煙",
+            "Sinner 2": "オリバー"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "133": {
+        "Id": 1041004,
+        "Quality": "Purple",
+        "DispatchTitle": "講座調査",
+        "DispatchDescription": "最近、マスターを名乗る不審な人物が様々な場所で「太陽との交信」講座を行っていると治安局にクレームが寄せられたため、コンビクト1名を調査に派遣する必要がある。",
+        "DispatchSinners": {
+            "Sinner": "曜"
+        },
+        "BaseAward": {
+            "Reward Item": "感染鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "134": {
+        "Id": 1042001,
+        "Quality": "Purple",
+        "DispatchTitle": "ぼんやりチャンピオン",
+        "DispatchDescription": "近々、ニューシティの暇人協会がぼんやりコンテストを開催する。優勝者には莫大な賞金が与えられるということで、10時間以上ぼんやりできる強者たちが大勢参加するという。あるコンビクトは、これを知って珍しく興味を示した。",
+        "DispatchSinners": {
+            "Sinner": "エンジェル"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "135": {
+        "Id": 1042002,
+        "Quality": "Green",
+        "DispatchTitle": "乱闘講座",
+        "DispatchDescription": "市外戦のような複雑な環境での戦闘能力不足を痛感したため、ニューシティ治安局は訓練の質を更に高める目的で、街頭での乱闘経験が豊富な戦闘教官を緊急募集している。",
+        "DispatchSinners": {
+            "Sinner": "ギャラン"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "136": {
+        "Id": 1042003,
+        "Quality": "Blue",
+        "DispatchTitle": "可愛い誘惑",
+        "DispatchDescription": "ある有名なブティックチェーン店がシンジケートに参入し、地域限定のぬいぐるみを発売すると決めた。それを聞きつけた数人のコンビクトが、積極的にそのエリアへの任務を要請した。",
+        "DispatchSinners": {
+            "Sinner 1": "ギャラン",
+            "Sinner 2": "アザミ"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "137": {
+        "Id": 1043001,
+        "Quality": "Purple",
+        "DispatchTitle": "ジュースの試飲",
+        "DispatchDescription": "ニューシティのある有名なリンゴジュースメーカーが、果汁の濃さが異なるジュースの新商品試飲イベントを開催した。それを聞いたあるコンビクトは、すぐに30件もの参加希望書を提出した。",
+        "DispatchSinners": {
+            "Sinner": "ビアンカ"
+        },
+        "BaseAward": {
+            "Reward Item": "氷晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "138": {
+        "Id": 1043002,
+        "Quality": "Green",
+        "DispatchTitle": "詐欺防止ボイス",
+        "DispatchDescription": "最近、インターネット上の出会いを利用した詐欺事件が多発している。そのため、ニューシティ治安局は若いネットユーザーの好みを把握し、詐欺防止のPRボイスを収録するため、魅力的な声を持つコンビクトを緊急募集した。",
+        "DispatchSinners": {
+            "Sinner": "ショーン"
+        },
+        "BaseAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "139": {
+        "Id": 1043003,
+        "Quality": "Blue",
+        "DispatchTitle": "ときめき研修",
+        "DispatchDescription": "ニューシティのある新興エンタメ会社が、「一言でときめかせる」をキャッチコピーとした覆面恋愛リアリティーショーを制作し、一時期話題となった。そして、口説くのが得意だと自負するコンビクト2名が、次のオーディションに参加したいと申し出た。",
+        "DispatchSinners": {
+            "Sinner 1": "ショーン",
+            "Sinner 2": "マックイーン"
+        },
+        "BaseAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "140": {
+        "Id": 1044001,
+        "Quality": "Purple",
+        "DispatchTitle": "引っ越しの説得",
+        "DispatchDescription": "最近、関係部門に属するパトロール隊が内海付近を巡回中、ある老人が仮住まいを建てているのを偶然発見した。この老人は迷信を信じており、隊員では意思疎通を図れなかったため、現地の祭祀文化に詳しい人物の協力を得て、引っ越しさせる必要がある。",
+        "DispatchSinners": {
+            "Sinner": "ヘスティア"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "141": {
+        "Id": 1044002,
+        "Quality": "Green",
+        "DispatchTitle": "ビデオディスクの選別",
+        "DispatchDescription": "治安局は、ある犯罪組織が大量の違法コンテンツをレトロなビデオディスクに偽装して市場に流通させているとの密告を受けた。それらを特定するため、豊富な知識を持つ愛好家を派遣する必要がある。",
+        "DispatchSinners": {
+            "Sinner": "ジェイン"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "142": {
+        "Id": 1044003,
+        "Quality": "Blue",
+        "DispatchTitle": "大規模銀行強盗事件",
+        "DispatchDescription": "最近、ニューシティ銀行で大規模な強盗事件が発生した。容疑者の犯行パターンは過去に注目を集めた連続強盗事件と酷似しており、模倣犯の疑いがあるため、関係者を派遣して捜査協力する必要がある。",
+        "DispatchSinners": {
+            "Sinner 1": "ジェイン",
+            "Sinner 2": "クリスティナ"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "143": {
+        "Id": 1045001,
+        "Quality": "Purple",
+        "DispatchTitle": "掲示板管理",
+        "DispatchDescription": "近い将来、治安局はローカルネットワークの掲示板を再開する予定だが、長い間管理されてこなかったため、現在投稿が乱立しており、真実と虚偽の情報が入り乱れている。管理局は関連する管理業務に精通したコンビクトを派遣して、その対処を支援する必要がある。",
+        "DispatchSinners": {
+            "Sinner": "L.L."
+        },
+        "BaseAward": {
+            "Reward Item": "赤の結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "144": {
+        "Id": 1045002,
+        "Quality": "Green",
+        "DispatchTitle": "情報解読",
+        "DispatchDescription": "治安局はとある犯罪組織が送信した取引メッセージを傍受したが、ダークウェブの隠語や暗号化されたリンクが大量にあり、短時間での解読は難しい。関連する内容に詳しい者の協力が急ぎ必要だ。",
+        "DispatchSinners": {
+            "Sinner": "シュルマ"
+        },
+        "BaseAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "145": {
+        "Id": 1045003,
+        "Quality": "Blue",
+        "DispatchTitle": "子供を帰らせる",
+        "DispatchDescription": "パトロール隊が活動する危険エリアによく集まって遊ぶ子供たちがおり、注意しても遊び続けるため、公務に支障をきたしている。管理局は現在、子供を帰らせるため、子供たちの間ですぐにリーダーシップを取れるコンビクト2名の派遣を求められている。",
+        "DispatchSinners": {
+            "Sinner 1": "シュルマ",
+            "Sinner 2": "アン"
+        },
+        "BaseAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "赤石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "150": {
+        "Id": 1099001,
+        "Quality": "Green",
+        "DispatchTitle": "夢の解析",
+        "DispatchDescription": "ニューシティの一部エリアの住民がよくナイトメアにうなされている。具体的な原因を調査しなければならない。",
+        "DispatchSinners": {
+            "Sinner": "ヘカテー"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の原鉱",
+            "Reward Qty": "1.0"
+        }
+    }
+}

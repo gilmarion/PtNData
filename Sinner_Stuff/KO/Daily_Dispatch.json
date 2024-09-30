@@ -1,0 +1,2544 @@
+{
+    "0": {
+        "Id": 1001001,
+        "Quality": "Grey",
+        "DispatchTitle": "백기 상호",
+        "DispatchDescription": "어느 한 단골손님이 백기에 의뢰를 넣었다. 백기의 명예를 위해서는 반드시 이 의뢰를 끝까지 책임져야 한다!",
+        "DispatchSinners": {
+            "Sinner": "K.K."
+        },
+        "BaseAward": {
+            "Reward Item": "거친 얼음석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "1": {
+        "Id": 1001002,
+        "Quality": "Green",
+        "DispatchTitle": "보안 교육",
+        "DispatchDescription": "FAC 다른 부서에서 전 '스네이크 아이즈' 보안 팀장이 이들에게 보안 분야의 교육을 진행할 수 있기를 희망했다.",
+        "DispatchSinners": {
+            "Sinner": "시나바"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "2": {
+        "Id": 1001003,
+        "Quality": "Blue",
+        "DispatchTitle": "비밀 거래",
+        "DispatchDescription": "변장 무도회에서 비밀 거래가 이뤄지고 있다. 신분에 맞는 사람이 잠입하여 거래를 막아야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "시나바",
+            "Sinner 2": "이그니스"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "3": {
+        "Id": 1001004,
+        "Quality": "Purple",
+        "DispatchTitle": "맹추격",
+        "DispatchDescription": "기밀문서에 기록된 악당이 다시 나타났다. 우리는 이미 그의 활동 경로를 확보했다.",
+        "DispatchSinners": {
+            "Sinner": "데이먼"
+        },
+        "BaseAward": {
+            "Reward Item": "얼음 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "4": {
+        "Id": 1002001,
+        "Quality": "Grey",
+        "DispatchTitle": "무인 지대",
+        "DispatchDescription": "요즘 신디케이트 건달들이 불안정하다. 누군가가 아무도 몰래 잠입해 원인을 찾아볼 수 있을지도 모른다.",
+        "DispatchSinners": {
+            "Sinner": "엘라"
+        },
+        "BaseAward": {
+            "Reward Item": "거친 노을석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "5": {
+        "Id": 1002002,
+        "Quality": "Green",
+        "DispatchTitle": "연체 금지",
+        "DispatchDescription": "대식가 경기의 스폰서는 보상을 연체하고 있다. 조사를 통해 확인한 결과 비정상적인 현금 흐름과 관련이 있다.",
+        "DispatchSinners": {
+            "Sinner": "나인티나인"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "6": {
+        "Id": 1002003,
+        "Quality": "Blue",
+        "DispatchTitle": "러스트 리버 이상",
+        "DispatchDescription": "러스트 리버 지대에 이상 현상이 나타났다. 전문가가 가서 처리해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "나인티나인",
+            "Sinner 2": "웬디"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "7": {
+        "Id": 1002004,
+        "Quality": "Purple",
+        "DispatchTitle": "치명 무기",
+        "DispatchDescription": "최근 신디케이트는 신형 무기가 유행하고 있다. 이에 신디케이트의 패자, 군단 수장이 직접 탐사에 나서기로 했다.",
+        "DispatchSinners": {
+            "Sinner": "조야"
+        },
+        "BaseAward": {
+            "Reward Item": "노을 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "8": {
+        "Id": 1003001,
+        "Quality": "Grey",
+        "DispatchTitle": "자료 출처",
+        "DispatchDescription": "퀸 미디어의 스튜디오에서 수감자를 모티브로 애니메이션을 제작하려 하자 한 허풍쟁이가 자진하여 협조에 나섰다.",
+        "DispatchSinners": {
+            "Sinner": "EMP"
+        },
+        "BaseAward": {
+            "Reward Item": "거친 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "9": {
+        "Id": 1003002,
+        "Quality": "Green",
+        "DispatchTitle": "쿵쿵쿵",
+        "DispatchDescription": "신디케이트에서 여러 목숨을 가져간 연쇄 폭파 사건이 발생했다. 폭발물 전문가의 조사가 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "로레카"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "10": {
+        "Id": 1003003,
+        "Quality": "Blue",
+        "DispatchTitle": "대규모 공연",
+        "DispatchDescription": "관리국에서 카니발 부스를 정보 거점으로 사용 신청을 했다. 마술쇼, 오락게임 등 다양한 서비스를 제공하고 있다.",
+        "DispatchSinners": {
+            "Sinner 1": "로레카",
+            "Sinner 2": "프리실라"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "11": {
+        "Id": 1003004,
+        "Quality": "Purple",
+        "DispatchTitle": "디스씨 감시",
+        "DispatchDescription": "최근 디스씨 오염도가 크게 올랐다. 디스씨특별자치구는 우리에게 지원을 요청했다.",
+        "DispatchSinners": {
+            "Sinner": "NOX"
+        },
+        "BaseAward": {
+            "Reward Item": "붉은 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "12": {
+        "Id": 1004001,
+        "Quality": "Grey",
+        "DispatchTitle": "팝핑 댄스",
+        "DispatchDescription": "누군가가 댄스 투어의 공연자를 암살하겠다고 선언했다. 이들을 보호하기 위해 우리는 대역 전술을 준비할 것이다.",
+        "DispatchSinners": {
+            "Sinner": "레버린스"
+        },
+        "BaseAward": {
+            "Reward Item": "거친 눈물석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "13": {
+        "Id": 1004002,
+        "Quality": "Green",
+        "DispatchTitle": "도시의 그림자",
+        "DispatchDescription": "디스시티에는 어두운 구석이 많다. 특히 낙원 같은 곳의 근무자들은 정당한 신분이 필요하다는 점에 유의해야 한다.",
+        "DispatchSinners": {
+            "Sinner": "테트라"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "14": {
+        "Id": 1004003,
+        "Quality": "Blue",
+        "DispatchTitle": "암살 의혹",
+        "DispatchDescription": "디스시티의 비밀 조직에 몸담았던 첩보가 뜻밖에 살해되었다. 사건 배후 세력을 밝히기 위해서 관리국의 핵심 요원 두 명이 필요하다.",
+        "DispatchSinners": {
+            "Sinner 1": "테트라",
+            "Sinner 2": "진"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "15": {
+        "Id": 1004004,
+        "Quality": "Purple",
+        "DispatchTitle": "전력 폭주",
+        "DispatchDescription": "터빈 테크놀로지에서 개발한 초고속 오토바이가 폭주족에게 도둑맞았다. 겹겹이 하청 끝에 백기실업이 의뢰받았다.",
+        "DispatchSinners": {
+            "Sinner": "백"
+        },
+        "BaseAward": {
+            "Reward Item": "눈물 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "16": {
+        "Id": 1005001,
+        "Quality": "Grey",
+        "DispatchTitle": "불빛 금지",
+        "DispatchDescription": "신디케이트에서 여러 건의 방화 사고가 발생했다. 사고 발생 장소가 서로 멀리 떨어져 있어 관리국에서 연관성이 있는지 확인하고자 한다.",
+        "DispatchSinners": {
+            "Sinner": "플로라"
+        },
+        "BaseAward": {
+            "Reward Item": "거친 독모래 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "17": {
+        "Id": 1005002,
+        "Quality": "Green",
+        "DispatchTitle": "고정 경로?",
+        "DispatchDescription": "신성 치안국의 요청으로 수감자를 특별 파견하여 일상 치안순찰 임무를 수행하려고 한다. 고정된 경로를 고려하여…",
+        "DispatchSinners": {
+            "Sinner": "아리엘"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "18": {
+        "Id": 1005003,
+        "Quality": "Blue",
+        "DispatchTitle": "스펜서 가문",
+        "DispatchDescription": "최근 해당 가문에 대한 스캔들은 관리국에서 관계자를 파견하여 처리할 것을 건의한다. 집행의 효과를 고려하여 유력 인사의 지원이 필요하다.",
+        "DispatchSinners": {
+            "Sinner 1": "아리엘",
+            "Sinner 2": "헤카테"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "19": {
+        "Id": 1005004,
+        "Quality": "Purple",
+        "DispatchTitle": "기술 지원",
+        "DispatchDescription": "최근 상급기관의 연구소에서 몇 가지 곤란한 기술적 문제에 부닥쳤다. 전문성의 난이도를 고려하면 적임자는 한 명밖에 없는 것 같다.",
+        "DispatchSinners": {
+            "Sinner": "여름"
+        },
+        "BaseAward": {
+            "Reward Item": "독모래 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "20": {
+        "Id": 1006001,
+        "Quality": "Grey",
+        "DispatchTitle": "넝마주이",
+        "DispatchDescription": "최근 러스트 리버 주변의 넝마주이 조직에서 살인 사건이 발생했다. 그곳의 환경을 잘 아는 사람이 조사하러 가야 한다.",
+        "DispatchSinners": {
+            "Sinner": "데몰리아"
+        },
+        "BaseAward": {
+            "Reward Item": "큐브",
+            "Reward Qty": "5.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "큐브",
+            "Reward Qty": "5.0"
+        }
+    },
+    "21": {
+        "Id": 1006002,
+        "Quality": "Green",
+        "DispatchTitle": "서적 관리",
+        "DispatchDescription": "도서관에 일부 오래된 책이 분실되었다. 관리국은 단순한 관리 실수가 아니라, 다른 절묘한 계책이 숨겨져 있다고 의심했다.",
+        "DispatchSinners": {
+            "Sinner": "파카시"
+        },
+        "BaseAward": {
+            "Reward Item": "큐브",
+            "Reward Qty": "10.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "큐브",
+            "Reward Qty": "5.0"
+        }
+    },
+    "22": {
+        "Id": 1006003,
+        "Quality": "Blue",
+        "DispatchTitle": "서적 구매",
+        "DispatchDescription": "관리국의 서적 구매 업무가 정식으로 시작되었다. 명세서가 19페이지에 달하여, 적임자를 찾기가 쉽지 않았다.",
+        "DispatchSinners": {
+            "Sinner 1": "파카시",
+            "Sinner 2": "앤"
+        },
+        "BaseAward": {
+            "Reward Item": "큐브",
+            "Reward Qty": "15.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "큐브",
+            "Reward Qty": "5.0"
+        }
+    },
+    "23": {
+        "Id": 1006004,
+        "Quality": "Purple",
+        "DispatchTitle": "업무 지도",
+        "DispatchDescription": "관리국은 최근의 파견 업무를 정리하고 미래의 업무를 전망할 필요가 있다. 어떤 상급자는 당신을 협조하는 데 제일 적합한 인원이다.",
+        "DispatchSinners": {
+            "Sinner": "랭글리"
+        },
+        "BaseAward": {
+            "Reward Item": "큐브",
+            "Reward Qty": "30.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "큐브",
+            "Reward Qty": "10.0"
+        }
+    },
+    "24": {
+        "Id": 1007001,
+        "Quality": "Grey",
+        "DispatchTitle": "리뷰 작성",
+        "DispatchDescription": "어느 한 예술품 잡지에서 상당한 보수로 유명한 평론가를 초대한다. 그들을 위해 특약 원고 제공을 진행했으면 한다.",
+        "DispatchSinners": {
+            "Sinner": "리사"
+        },
+        "BaseAward": {
+            "Reward Item": "거친 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "25": {
+        "Id": 1007002,
+        "Quality": "Green",
+        "DispatchTitle": "음식 검증",
+        "DispatchDescription": "어느 한 식품공장에서 여러 종류의 신제품을 내놓았지만, 매출은 계속 좋지 않다. 그들은 더욱 전문적인 미식 평가자의 조언이 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "이그니스"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "26": {
+        "Id": 1007003,
+        "Quality": "Blue",
+        "DispatchTitle": "연예계 뉴스",
+        "DispatchDescription": "수감자 아이돌에 관한 연예 뉴스를 조작하는 파파라치의 행위는 반드시 제지를 받아야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "이그니스",
+            "Sinner 2": "루비아.레이"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "27": {
+        "Id": 1007004,
+        "Quality": "Purple",
+        "DispatchTitle": "중요 결정",
+        "DispatchDescription": "원격으로 조정이 가능하지만 중대한 사건이 발생했을 때 결정자가 직접 나서야 하는 산업들이 있다.",
+        "DispatchSinners": {
+            "Sinner": "이리나"
+        },
+        "BaseAward": {
+            "Reward Item": "곡선형 구리 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "28": {
+        "Id": 1008001,
+        "Quality": "Grey",
+        "DispatchTitle": "효율 증가",
+        "DispatchDescription": "헤스 마을과 주변 위성도시의 농업 채굴 효율을 증가시키기 위해서 더 전문적인 장비와 인재가 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "후추"
+        },
+        "BaseAward": {
+            "Reward Item": "메마른 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "메마른 다리",
+            "Reward Qty": "1.0"
+        }
+    },
+    "29": {
+        "Id": 1008002,
+        "Quality": "Green",
+        "DispatchTitle": "심문 요청",
+        "DispatchDescription": "심문이 어려운 범인을 맞닥뜨렸을 때, 신성 치안국은 항상 관리국에 협조 요청을 보낸다.",
+        "DispatchSinners": {
+            "Sinner": "카멜리안"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "메마른 다리",
+            "Reward Qty": "1.0"
+        }
+    },
+    "30": {
+        "Id": 1008003,
+        "Quality": "Blue",
+        "DispatchTitle": "벌레 떼 폭동",
+        "DispatchDescription": "화이트 샌드의 벌레 떼가 폭동을 일으켰다. 노련한 사냥꾼이 수습해야 하며 폭동이 발생한 원인을 알아낼 수 있으면 더욱 좋을 것 같다.",
+        "DispatchSinners": {
+            "Sinner 1": "카멜리안",
+            "Sinner 2": "울버린"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        }
+    },
+    "31": {
+        "Id": 1008004,
+        "Quality": "Purple",
+        "DispatchTitle": "지상의 춤",
+        "DispatchDescription": "최근 디스씨의 괴변체들이 활발해졌다. 특파원들이 이용할 수 있도록 특별자치구에 사람이 없는 통제구역을 개설했다.",
+        "DispatchSinners": {
+            "Sinner": "하멜"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        }
+    },
+    "32": {
+        "Id": 1009001,
+        "Quality": "Grey",
+        "DispatchTitle": "전설 요리",
+        "DispatchDescription": "분자요리는 이미 디스시티의 대식가들 사이에서 전설이 된지 오래지만, 이 전설은 가끔 재현되기도 한다.",
+        "DispatchSinners": {
+            "Sinner": "켈빈"
+        },
+        "BaseAward": {
+            "Reward Item": "파손된 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "파손된 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "33": {
+        "Id": 1009002,
+        "Quality": "Green",
+        "DispatchTitle": "병원 의혹",
+        "DispatchDescription": "벵엔 의과대학 창고가 파괴되고 대량의 약품과 혈액 샘플이 도난당해 즉시 추적이 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "빅토리아"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "파손된 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "34": {
+        "Id": 1009003,
+        "Quality": "Blue",
+        "DispatchTitle": "낙원의 낡은 저택",
+        "DispatchDescription": "최근 낙원에 먼지로 뒤덮인 낡은 집이 절도를 당했다. 관리국은 관계자를 비밀리 잠입시켜 구체적인 상황을 파악할 것이다.",
+        "DispatchSinners": {
+            "Sinner 1": "빅토리아",
+            "Sinner 2": "시나바"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "35": {
+        "Id": 1010001,
+        "Quality": "Grey",
+        "DispatchTitle": "긴급 파티 생성",
+        "DispatchDescription": "신성의 유명 밴드 기타리스트가 팔뚝 골절로 콘서트에 불참할 수밖에 없는 상황에 부닥쳤다. 주최 측은 마땅한 대역을 원했다.",
+        "DispatchSinners": {
+            "Sinner": "조안"
+        },
+        "BaseAward": {
+            "Reward Item": "갈라진 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "갈라진 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "36": {
+        "Id": 1010002,
+        "Quality": "Green",
+        "DispatchTitle": "자금 행방",
+        "DispatchDescription": "최근 신성 동물원에 알 수 없는 기부금이 접수됐지만, 이 돈은 개인 계좌로 빠져나갔다. 이런 상황에 화가 난 익명의 기부자는 직접 조사하기를 원했다.",
+        "DispatchSinners": {
+            "Sinner": "첼시 백작"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "갈라진 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "37": {
+        "Id": 1010003,
+        "Quality": "Blue",
+        "DispatchTitle": "부와 힘",
+        "DispatchDescription": "지하 아레나 같은 곳은 돈이 많거나 주먹이 세면 무적이다.",
+        "DispatchSinners": {
+            "Sinner 1": "첼시 백작",
+            "Sinner 2": "나인티나인"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "38": {
+        "Id": 1011001,
+        "Quality": "Grey",
+        "DispatchTitle": "언더그라운드 락스타",
+        "DispatchDescription": "누군가가 언더그라운드 밴드의 장소를 빌려 금지 물품을 판매하고 있다. 이미 완전한 산업 라인이 형성되어 조사가 시급하다.",
+        "DispatchSinners": {
+            "Sinner": "조안"
+        },
+        "BaseAward": {
+            "Reward Item": "현탁 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "현탁 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "39": {
+        "Id": 1011002,
+        "Quality": "Green",
+        "DispatchTitle": "장의사",
+        "DispatchDescription": "신디케이트에서 누군가가 장의사의 명의로 온갖 나쁜 짓을 저지르고 있다. 이것은 어느 한 장의사의 분노를 제대로 자극했다.",
+        "DispatchSinners": {
+            "Sinner": "웬디"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "현탁 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "40": {
+        "Id": 1011003,
+        "Quality": "Blue",
+        "DispatchTitle": "광기",
+        "DispatchDescription": "디스씨 주변에 대규모 괴변군이 나타났다. 어느 정도 광기를 가진 조합의 제압이 필요하다.",
+        "DispatchSinners": {
+            "Sinner 1": "웬디",
+            "Sinner 2": "로레카"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "41": {
+        "Id": 1012001,
+        "Quality": "Grey",
+        "DispatchTitle": "상품 모델",
+        "DispatchDescription": "한 신개념 주방기구 제조업체는 광고 모델로 유명한 셰프를 찾고 싶어 한다.",
+        "DispatchSinners": {
+            "Sinner": "켈빈"
+        },
+        "BaseAward": {
+            "Reward Item": "겉날개 파편",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "겉날개 파편",
+            "Reward Qty": "1.0"
+        }
+    },
+    "42": {
+        "Id": 1012002,
+        "Quality": "Green",
+        "DispatchTitle": "천재 요원",
+        "DispatchDescription": "어떤 기밀 등급이 높은 감시 업무는 변장에 관한 기술 요구가 매우 높다.",
+        "DispatchSinners": {
+            "Sinner": "프리실라"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "겉날개 파편",
+            "Reward Qty": "1.0"
+        }
+    },
+    "43": {
+        "Id": 1012003,
+        "Quality": "Blue",
+        "DispatchTitle": "괴도 등장!",
+        "DispatchDescription": "어떤 유명 괴도 단체를 모방하는 모방범이 나타났다. 이것은 누군가에게는 도저히 용납할 수 없는 일이다.",
+        "DispatchSinners": {
+            "Sinner 1": "프리실라",
+            "Sinner 2": "테트라"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        }
+    },
+    "44": {
+        "Id": 1013001,
+        "Quality": "Grey",
+        "DispatchTitle": "들풀 아님",
+        "DispatchDescription": "관리국의 녹지에는 먹을 수 있는 사막 식물이 한 그루 심어져 있는데, 아마도 화이트 샌드의 실험용 밭에 심어 볼 수 있을 것 같다.",
+        "DispatchSinners": {
+            "Sinner": "후추"
+        },
+        "BaseAward": {
+            "Reward Item": "파손된 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "파손된 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "45": {
+        "Id": 1013002,
+        "Quality": "Green",
+        "DispatchTitle": "화도 교류",
+        "DispatchDescription": "신성 최고 수준의 화도 교류회에서 한 수감자에게 출석 초대를 보냈다. 그는 신성의 가장 인기 있는 화도 전문가이기 때문이다.",
+        "DispatchSinners": {
+            "Sinner": "진"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "파손된 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "46": {
+        "Id": 1013003,
+        "Quality": "Blue",
+        "DispatchTitle": "상류",
+        "DispatchDescription": "관리국은 상류 연회를 감시해야 한다. 모든 참여자가 부귀의 상징이기 때문에 더욱 조심해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "진",
+            "Sinner 2": "아리엘"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "47": {
+        "Id": 1014001,
+        "Quality": "Grey",
+        "DispatchTitle": "위조품 의혹",
+        "DispatchDescription": "어느 한 대형 경매사의 경매 물건이 모두 위조품으로 교체됐다. 관련 세부 사항은 전담자의 조사가 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "리사"
+        },
+        "BaseAward": {
+            "Reward Item": "광란의 정수",
+            "Reward Qty": "900.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "광란의 정수",
+            "Reward Qty": "300.0"
+        }
+    },
+    "48": {
+        "Id": 1014002,
+        "Quality": "Green",
+        "DispatchTitle": "꿈의 해석",
+        "DispatchDescription": "신성 일부 지역 주민들은 악몽을 자주꾼다. 구체적인 원인을 철저히 조사해야 한다.",
+        "DispatchSinners": {
+            "Sinner": "헤카테"
+        },
+        "BaseAward": {
+            "Reward Item": "광란의 정수",
+            "Reward Qty": "1800.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "광란의 정수",
+            "Reward Qty": "600.0"
+        }
+    },
+    "49": {
+        "Id": 1014003,
+        "Quality": "Blue",
+        "DispatchTitle": "놀이동산 먹구름",
+        "DispatchDescription": "어느 한 놀이동산 근처에서 심상치 않은 방사선이 감지되었다. 전문가를 파견하여 처리해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "헤카테",
+            "Sinner 2": "파카시"
+        },
+        "BaseAward": {
+            "Reward Item": "광란의 정수",
+            "Reward Qty": "3000.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "광란의 정수",
+            "Reward Qty": "1000.0"
+        }
+    },
+    "50": {
+        "Id": 1015001,
+        "Quality": "Grey",
+        "DispatchTitle": "'잠복' 군중",
+        "DispatchDescription": "가장 검소한 태도로 신디케이트에 잠입한 후, 주변의 일거일동을 감시한다. 이런 일상적인 임무는 역시 신디케이트 현지인에게 적합하다.",
+        "DispatchSinners": {
+            "Sinner": "데몰리아"
+        },
+        "BaseAward": {
+            "Reward Item": "디스코인",
+            "Reward Qty": "900.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "디스코인",
+            "Reward Qty": "300.0"
+        }
+    },
+    "51": {
+        "Id": 1015002,
+        "Quality": "Green",
+        "DispatchTitle": "늙은 사냥꾼",
+        "DispatchDescription": "최근 러스트 리버에 새로운 품종의 야생생물이 목격됐다는 제보가 있다. 괴변이나 다른 변이 괴물이 아닌 것을 확인하기 위해 전문가가 가서 출처를 확인해야 한다.",
+        "DispatchSinners": {
+            "Sinner": "울버린"
+        },
+        "BaseAward": {
+            "Reward Item": "디스코인",
+            "Reward Qty": "1800.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "디스코인",
+            "Reward Qty": "600.0"
+        }
+    },
+    "52": {
+        "Id": 1015003,
+        "Quality": "Blue",
+        "DispatchTitle": "반려 동물 실종 사건",
+        "DispatchDescription": "신성에서 다수의 반려동물 실종 사건이 발생했다. 반려동물 찾기와 범인 찾기를 동시에 진행해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "울버린",
+            "Sinner 2": "첼시 백작"
+        },
+        "BaseAward": {
+            "Reward Item": "디스코인",
+            "Reward Qty": "3000.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "디스코인",
+            "Reward Qty": "1000.0"
+        }
+    },
+    "53": {
+        "Id": 1016001,
+        "Quality": "Grey",
+        "DispatchTitle": "교육 교류",
+        "DispatchDescription": "FAC 본부는 관리국에 교류 학습 통지를 알렸다. 여러 수감자는 이에 대해 코웃음을 쳤다.",
+        "DispatchSinners": {
+            "Sinner": "플로라"
+        },
+        "BaseAward": {
+            "Reward Item": "거친 얼음석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "54": {
+        "Id": 1016002,
+        "Quality": "Green",
+        "DispatchTitle": "공포물 제작사",
+        "DispatchDescription": "제작 현장에 귀신이 나타난다는 소문이 떠돌고 있다. 우리는 비디오에 담긴 내용에 따라 관련 정보를 통제해야 한다.",
+        "DispatchSinners": {
+            "Sinner": "루비아.레이"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "55": {
+        "Id": 1016003,
+        "Quality": "Blue",
+        "DispatchTitle": "심리 치료",
+        "DispatchDescription": "어느 한 심리치료실에서 환자를 구금하는 경우가 있다고 한다. 엘리트 팀을 보내 조사를 진행해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "루비아.레이",
+            "Sinner 2": "카멜리안"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "56": {
+        "Id": 1017001,
+        "Quality": "Grey",
+        "DispatchTitle": "메이드 카페",
+        "DispatchDescription": "관리국의 많은 위장용 산업 중 가장 이해하기 어려운 것은 틀림없이 메이드 카페이다.",
+        "DispatchSinners": {
+            "Sinner": "레버린스"
+        },
+        "BaseAward": {
+            "Reward Item": "거친 노을석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "57": {
+        "Id": 1017002,
+        "Quality": "Green",
+        "DispatchTitle": "전문 간호",
+        "DispatchDescription": "디스시티는 부상자가 수없이 많다. 이는 의료진이 항상 최고의 파견 수당을 받을 수 있는 보장이다.",
+        "DispatchSinners": {
+            "Sinner": "앤"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "58": {
+        "Id": 1017003,
+        "Quality": "Blue",
+        "DispatchTitle": "신약 개발",
+        "DispatchDescription": "벵엔 의과대학과 구원 병원의 협업이 질서 있게 추진되고 있다. 관련 기술 자료가 반드시 철저한 보호를 받아야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "앤",
+            "Sinner 2": "빅토리아"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "59": {
+        "Id": 1018001,
+        "Quality": "Grey",
+        "DispatchTitle": "특별 초청 평가 위원",
+        "DispatchDescription": "예정된 신디케이트 래퍼들의 대결을 위해 치안국에서는 전문 평가위원을 특별히 초청했다.",
+        "DispatchSinners": {
+            "Sinner": "페기"
+        },
+        "BaseAward": {
+            "Reward Item": "파손된 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "파손된 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "60": {
+        "Id": 1018002,
+        "Quality": "Green",
+        "DispatchTitle": "실종된 심판",
+        "DispatchDescription": "최근 신성 법원을 고소하는 사례가 잇따르며 변호사와 판사들이 억울한 사건에 대해 피의 대가를 치르도록 해야 한다는 주장까지 제기되기도 했다. 내무부는 해당 정보에 흥미를 느꼈다.",
+        "DispatchSinners": {
+            "Sinner": "Mr.Fox"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "파손된 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "61": {
+        "Id": 1018003,
+        "Quality": "Blue",
+        "DispatchTitle": "러스트 리버 금지령",
+        "DispatchDescription": "최근 밀입국자가 급증하자 러스트 리버는 배후의 조직을 찾아내려고 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "Mr.Fox",
+            "Sinner 2": "돌리"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "62": {
+        "Id": 1018004,
+        "Quality": "Purple",
+        "DispatchTitle": "야나기의 이상한 행동",
+        "DispatchDescription": "야나기 그룹의 장부에 거액의 자금이 유입되고 있다는 첩보에 따라 새로운 '사냥'을 시도하고 있다. 반드시 막아야 한다.",
+        "DispatchSinners": {
+            "Sinner": "코히"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "63": {
+        "Id": 1019001,
+        "Quality": "Grey",
+        "DispatchTitle": "진짜와 가짜 백기",
+        "DispatchDescription": "신디케이트에 새로 생긴 백기 그룹의 위탁 업무가 성행하고 있다. 이에 한 정품 브랜드의 백 사장이 크게 분개했다.",
+        "DispatchSinners": {
+            "Sinner": "치이"
+        },
+        "BaseAward": {
+            "Reward Item": "갈라진 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "갈라진 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "64": {
+        "Id": 1019002,
+        "Quality": "Green",
+        "DispatchTitle": "광고 요청",
+        "DispatchDescription": "디스 프로덕트는 스포츠 기자재 산업에 뛰어들고자 관리국에 광고 촬영 의향서를 보내며 거액의 계약금을 주었다.",
+        "DispatchSinners": {
+            "Sinner": "돌리"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "갈라진 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "65": {
+        "Id": 1019003,
+        "Quality": "Blue",
+        "DispatchTitle": "정식 협력",
+        "DispatchDescription": "디스 프로덕트는 관리국과 정식 협력 조약을 체결할 준비를 했지만, 조약 내 배분 비율에 대해 관리국은 다른 의견을 가지고 있었다.",
+        "DispatchSinners": {
+            "Sinner 1": "돌리",
+            "Sinner 2": "Mr.Fox"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "66": {
+        "Id": 1019004,
+        "Quality": "Purple",
+        "DispatchTitle": "잿더미의 파도",
+        "DispatchDescription": "이번 주기의 잿더미의 파도가 이상 파동을 보이자 매트릭스는 배후의 원인을 규명하고자 했다.",
+        "DispatchSinners": {
+            "Sinner": "점성가"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "67": {
+        "Id": 1020001,
+        "Quality": "Grey",
+        "DispatchTitle": "보안 테스트",
+        "DispatchDescription": "최근 갱신된 보안 시스템을 테스트하고 싶었던 낙원의 어느 가문은 사적으로 관리국을 찾았다.",
+        "DispatchSinners": {
+            "Sinner": "월하미인"
+        },
+        "BaseAward": {
+            "Reward Item": "거친 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "68": {
+        "Id": 1020002,
+        "Quality": "Green",
+        "DispatchTitle": "전투지 지원",
+        "DispatchDescription": "디스씨에서 많은 괴변이 발생함에 따라 의료진의 스트레스가 극한에 달하자, 디스씨특별자치구는 도시 전체에 구조 명령을 내렸다.",
+        "DispatchSinners": {
+            "Sinner": "아이언"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "69": {
+        "Id": 1020003,
+        "Quality": "Blue",
+        "DispatchTitle": "심신건강",
+        "DispatchDescription": "만령회가 시체를 어떻게 조종할 것인가를 연구하고 있는 것 같다. 디스인들의 심신건강을 위해 관리국이 미리 움직여야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "아이언",
+            "Sinner 2": "올리버"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "70": {
+        "Id": 1021001,
+        "Quality": "Grey",
+        "DispatchTitle": "첩보 요원",
+        "DispatchDescription": "관리국에서 모 기업에 잠복시킨 스파이가 의문스럽게 실종되었다. 은밀한 조사를 위해 첩보 요원을 파견할 수도 있을 것이다.",
+        "DispatchSinners": {
+            "Sinner": "마키아토"
+        },
+        "BaseAward": {
+            "Reward Item": "거친 눈물석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "71": {
+        "Id": 1021002,
+        "Quality": "Green",
+        "DispatchTitle": "호기심",
+        "DispatchDescription": "신성에 일련의 사기 사건이 발생했다. 신성 복지재단의 고아들과 관련이 있다고 알려져 누군가의 관심을 끌었다.",
+        "DispatchSinners": {
+            "Sinner": "올리버"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "72": {
+        "Id": 1021003,
+        "Quality": "Blue",
+        "DispatchTitle": "꼭두각시 장난감",
+        "DispatchDescription": "러스트 리버 지대에 생명이 있는 꼭두각시 장난감이 나타났다는 소문이 돌고 있다. 관리국은 해당 정보의 진위를 확인해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "올리버",
+            "Sinner 2": "아이언"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "73": {
+        "Id": 1022001,
+        "Quality": "Grey",
+        "DispatchTitle": "교양 수업",
+        "DispatchDescription": "관리국은 원활한 임무 수행을 위해 일부 수감자들을 위한 기초 교양 수업을 특별히 개설했다.",
+        "DispatchSinners": {
+            "Sinner": "히로"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "74": {
+        "Id": 1022002,
+        "Quality": "Green",
+        "DispatchTitle": "스터디 그룹",
+        "DispatchDescription": "관리국의 특별 교육에 따라 수감자들은 각자의 특기를 사용해 서로를 돕는 1대1 스터디 그룹을 형성할 것이다.",
+        "DispatchSinners": {
+            "Sinner": "카와카와"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "75": {
+        "Id": 1023001,
+        "Quality": "Grey",
+        "DispatchTitle": "가이드 비콘",
+        "DispatchDescription": "니르바나 운수는 화이트 샌드의 비콘 네트워크를 완비하고 선박에 정확한 안내를 제공하기 위해 관리국과 심도 깊게 협력하고 있다.",
+        "DispatchSinners": {
+            "Sinner": "카와카와"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "파손된 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "76": {
+        "Id": 1023002,
+        "Quality": "Green",
+        "DispatchTitle": "화이트 샌드의 수색",
+        "DispatchDescription": "갑작스러운 모래 폭풍으로 니르바나 운수의 배 여러 척이 실종되었다. 그들을 찾아 안전하게 데려올 수 있기를 희망하고 있다.",
+        "DispatchSinners": {
+            "Sinner": "히로"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "77": {
+        "Id": 1024001,
+        "Quality": "Purple",
+        "DispatchTitle": "관상용 뱀 탈출 사건",
+        "DispatchDescription": "신성의 어느 동물원에서 사육하던 관상용 뱀이 탈출해 사람을 해쳐 시민들이 공포에 떨고 있다. 최대한 빨리 뱀을 포획하기 위해 치안국은 뱀의 습성을 잘 아는 전문가의 협조가 절실한 상황이다.",
+        "DispatchSinners": {
+            "Sinner": "나챠"
+        },
+        "BaseAward": {
+            "Reward Item": "얼음 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "78": {
+        "Id": 1024002,
+        "Quality": "Green",
+        "DispatchTitle": "단속",
+        "DispatchDescription": "신성의 신인 단조사가 자신이 신성 제일 단조사를 스승으로 모셨다고 주장하여 많은 사람이 그 소문을 듣고 신인을 찾으러 갔다. 그러나 한 번도 제자를 둔 적 없었던 신성 제일 단조사는 화가 잔뜩 났다.",
+        "DispatchSinners": {
+            "Sinner": "메스"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "79": {
+        "Id": 1024003,
+        "Quality": "Blue",
+        "DispatchTitle": "한정 판매",
+        "DispatchDescription": "인기 장난감 가게에서 한정판 상품을 출시했다. 이를 구매하기 위해 새벽부터 밤새 줄을 서는 사람이 나타나고 있다.",
+        "DispatchSinners": {
+            "Sinner 1": "메스",
+            "Sinner 2": "올리버"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "80": {
+        "Id": 1025001,
+        "Quality": "Purple",
+        "DispatchTitle": "예술 고문",
+        "DispatchDescription": "새로운 조각 박물관을 건설 중인 신성 관계자는 전문 인력을 예술 고문으로 초빙하기 위해 관리국에 연락했다.",
+        "DispatchSinners": {
+            "Sinner": "엔퍼"
+        },
+        "BaseAward": {
+            "Reward Item": "노을 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "81": {
+        "Id": 1025002,
+        "Quality": "Green",
+        "DispatchTitle": "문화 교류회",
+        "DispatchDescription": "신성 도서관은 곧 고전주의 예술과 문학 교류회를 열 예정이다. 어떤 애호가는 일찌감치 참가를 신청했다.",
+        "DispatchSinners": {
+            "Sinner": "맥퀸"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "82": {
+        "Id": 1025003,
+        "Quality": "Blue",
+        "DispatchTitle": "위조 단체",
+        "DispatchDescription": "한 예술 대가의 전시 작품이 연이어 도난당하고 난 뒤, 현지의 암시장에서 정교한 위조품이 대량 유출됐다. 전문 조직의 범행으로 보여 긴급한 조사가 필요하다.",
+        "DispatchSinners": {
+            "Sinner 1": "맥퀸",
+            "Sinner 2": "시나바"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "83": {
+        "Id": 1026001,
+        "Quality": "Purple",
+        "DispatchTitle": "괴변체 습격",
+        "DispatchDescription": "모처에서 신원불명의 괴변체에게 습격을 당했고, 관리국은 전문 인력을 파견해 지원해달라는 부탁을 받았다.",
+        "DispatchSinners": {
+            "Sinner": "캐스켓"
+        },
+        "BaseAward": {
+            "Reward Item": "붉은 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "84": {
+        "Id": 1026002,
+        "Quality": "Green",
+        "DispatchTitle": "연주자 모집",
+        "DispatchDescription": "어느 유명 교향악단이 신입 연주자를 모집하는 오디션을 준비한다는 소식을 듣고 참가하고 싶어 안달이 난 사람이 있다.",
+        "DispatchSinners": {
+            "Sinner": "토토"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "85": {
+        "Id": 1026003,
+        "Quality": "Blue",
+        "DispatchTitle": "잠입 조사",
+        "DispatchDescription": "외부에서 온 길거리 공연 단체의 행적이 매우 수상해 관리국은 인력을 파견해 잠복 조사를 하기로 결정했다.",
+        "DispatchSinners": {
+            "Sinner 1": "토토",
+            "Sinner 2": "루비아.레이"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "86": {
+        "Id": 1027001,
+        "Quality": "Purple",
+        "DispatchTitle": "영화 마스터 클래스",
+        "DispatchDescription": "신성의 한 영화학원은 관리국에 연락해 영화 거장에게 촬영 기법에 관련된 강좌의 강사를 맡게 해달라고 요청했다.",
+        "DispatchSinners": {
+            "Sinner": "데렌"
+        },
+        "BaseAward": {
+            "Reward Item": "눈물 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "87": {
+        "Id": 1027002,
+        "Quality": "Green",
+        "DispatchTitle": "촬영 교재",
+        "DispatchDescription": "관리국 안에 새로운 촬영 교재와 거장의 작품집을 들여놨다는 소식에 그 누군가는 아주 기뻐하며 즉시 차독 신청서를 냈다.",
+        "DispatchSinners": {
+            "Sinner": "린"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "88": {
+        "Id": 1027003,
+        "Quality": "Blue",
+        "DispatchTitle": "북쪽 로케이션",
+        "DispatchDescription": "한 촬영을 잘 하는 수감자가 북쪽으로 가 다른 풍경을 찍고 싶어서 다른 수감자가 북쪽으로 임무를 나가려 할 때 국장에게 따라가고 싶다고 요청했다.",
+        "DispatchSinners": {
+            "Sinner 1": "린",
+            "Sinner 2": "파카시"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "89": {
+        "Id": 1027004,
+        "Quality": "Purple",
+        "DispatchTitle": "오픈식",
+        "DispatchDescription": "한 MBCC 직원의 고향에서 새로운 가게가 오픈되어 사자춤을 잘 추는 한 수감자를 초대해 같이 가서 개업 기념 축하를 하고 싶어 했다.",
+        "DispatchSinners": {
+            "Sinner": "어흥"
+        },
+        "BaseAward": {
+            "Reward Item": "독모래 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "90": {
+        "Id": 1028001,
+        "Quality": "Purple",
+        "DispatchTitle": "보드게임 소동",
+        "DispatchDescription": "치안국은 불법 종사자가 보드게임 플레이어들 사이에 숨어있다는 소식을 전했다. 이에 관리국은 체포를 위해 해당 이벤트에 익숙한 전문 담당자를 파견하였다.",
+        "DispatchSinners": {
+            "Sinner": "에티"
+        },
+        "BaseAward": {
+            "Reward Item": "곡선형 구리 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "91": {
+        "Id": 1028002,
+        "Quality": "Green",
+        "DispatchTitle": "홈그라운드 이점",
+        "DispatchDescription": "최근 한 용의자가 신성 내 각종 오락 장소에 자주 출몰하고 있다는 믿을만한 정보를 받았다. 이런 환경에 익숙한 사람이 수사 및 증거 수집을 담당해야 한다.",
+        "DispatchSinners": {
+            "Sinner": "레비"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "92": {
+        "Id": 1028003,
+        "Quality": "Blue",
+        "DispatchTitle": "사기단",
+        "DispatchDescription": "최근 한 교활한 사기단이 치안국의 골칫거리가 되었다. 이에 대처하기 위해 관리국은 융통성이 있고 말재주가 좋은 수감자를 투입하여 지원하도록 했다.",
+        "DispatchSinners": {
+            "Sinner 1": "레비",
+            "Sinner 2": "Mr.Fox"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "93": {
+        "Id": 1029001,
+        "Quality": "Purple",
+        "DispatchTitle": "고찰 수업",
+        "DispatchDescription": "신성의 한 유명 아카데미에서 수업 공개 행사를 진행해 각계 인사가 참관하고 교류할 수 있게 되었다. 관리국 내에 학급을 개설해 수업을 진행하려는 포부를 가진 인원이 조사를 신청했다.",
+        "DispatchSinners": {
+            "Sinner": "크로우"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "94": {
+        "Id": 1029002,
+        "Quality": "Green",
+        "DispatchTitle": "민간 분쟁",
+        "DispatchDescription": "일부 폭력배들이 자주 민간 분쟁에 잠복한다고 한다. 해당 장소는 상황이 복잡하므로 경험이 많은 인원을 파견해 조사해야 한다.",
+        "DispatchSinners": {
+            "Sinner": "캐슬로"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "현탁 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "95": {
+        "Id": 1029003,
+        "Quality": "Blue",
+        "DispatchTitle": "불법 도축장",
+        "DispatchDescription": "치안국은 어느 불법 도축장의 열악한 환경으로 인해 피해 동물의 감염이 심각하다는 정보를 입수해 관리국에 동물의 습성을 잘 아는 사람의 도움을 요청했다.",
+        "DispatchSinners": {
+            "Sinner 1": "캐슬로",
+            "Sinner 2": "울버린"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "96": {
+        "Id": 1030001,
+        "Quality": "Purple",
+        "DispatchTitle": "대나무 숲",
+        "DispatchDescription": "관리국은 대나무 숲처럼 '다른 사람의 고민을 들어줄 사람'이 필요해, 우주 공간처럼 꾸민 방을 준비해 고민을 털어놓는 장소로 만들었다.",
+        "DispatchSinners": {
+            "Sinner": "드레아"
+        },
+        "BaseAward": {
+            "Reward Item": "오염된 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        }
+    },
+    "97": {
+        "Id": 1030002,
+        "Quality": "Green",
+        "DispatchTitle": "성형 파문",
+        "DispatchDescription": "3억 디스코인의 코 보험을 든 스타의 코가 골절되었는데, 보험 회사가 보험금을 지급하지 못해 분쟁에 휘말려, 성형 전문가의 분쟁 조정이 필요해졌다.",
+        "DispatchSinners": {
+            "Sinner": "유니"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "겉날개 파편",
+            "Reward Qty": "1.0"
+        }
+    },
+    "98": {
+        "Id": 1030003,
+        "Quality": "Blue",
+        "DispatchTitle": "사건 현장",
+        "DispatchDescription": "치안국의 협조 요청을 받은 관리국은 물증으로 사건 현장의 훼손된 인체 조각을 복구해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "유니",
+            "Sinner 2": "아이언"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        }
+    },
+    "99": {
+        "Id": 1031001,
+        "Quality": "Purple",
+        "DispatchTitle": "괴담 모방범",
+        "DispatchDescription": "최근 안개 낀 밤 괴담의 모방 범죄 사건이 늘어나 해당 도시 전설을 잘 아는 수감자의 지원이 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "아델라"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "100": {
+        "Id": 1031002,
+        "Quality": "Green",
+        "DispatchTitle": "긴급 구원",
+        "DispatchDescription": "한 건물이 무너져 수많은 사람이 폐허에 매몰됐다. 물리적 장애에 영향받지 않는 수감자의 지원이 긴급하게 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "레타"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "파손된 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "101": {
+        "Id": 1031003,
+        "Quality": "Blue",
+        "DispatchTitle": "모험 마스터",
+        "DispatchDescription": "새로운 모험 전설이 신성을 휩쓸자 두 마니아가 들뜬 채, 본격적인 탐험에 나서기 위해 준비하고 있다.",
+        "DispatchSinners": {
+            "Sinner 1": "레타",
+            "Sinner 2": "후추"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "102": {
+        "Id": 1032001,
+        "Quality": "Purple",
+        "DispatchTitle": "시식회 초대",
+        "DispatchDescription": "신성에서 주목받는 최고급 레스토랑이 사흘 후 정식으로 오픈한다. 레스토랑 사장은 유명한 미식가를 개업 기념일의 시식회에 초대했다.",
+        "DispatchSinners": {
+            "Sinner": "카베르네"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        }
+    },
+    "103": {
+        "Id": 1032002,
+        "Quality": "Green",
+        "DispatchTitle": "해양 아트 전시회",
+        "DispatchDescription": "신성의 한 신예 예술가가 '바다'를 주제로 한 개인 아트 전시회를 기획하고 있었다. 그는 관리국에 연락해서 어느 수감자로부터 소재와 영감 얻기를 희망한다고 전했다.",
+        "DispatchSinners": {
+            "Sinner": "라미아"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "메마른 다리",
+            "Reward Qty": "1.0"
+        }
+    },
+    "104": {
+        "Id": 1032003,
+        "Quality": "Blue",
+        "DispatchTitle": "조사 협조",
+        "DispatchDescription": "MBCC는 치안국의 지원 요청을 받아 성격상 위장이 가능한 수감자 두 명을 신성 시민 비밀 실종 사건 수사 협조에 긴급 파견하려 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "라미아",
+            "Sinner 2": "루비아.레이"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        }
+    },
+    "105": {
+        "Id": 1033001,
+        "Quality": "Purple",
+        "DispatchTitle": "연합 훈련",
+        "DispatchDescription": "FAC가 연합 훈련을 개최하여 경험 있는 전 FAC 소속자를 보내 참석시켜야 한다.",
+        "DispatchSinners": {
+            "Sinner": "라후"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "106": {
+        "Id": 1033002,
+        "Quality": "Green",
+        "DispatchTitle": "패션쇼 인력 지원",
+        "DispatchDescription": "신성의 어느 의상 작업실에서 패션쇼 전날 밤 주문이 폭주했는데 인력이 부족한 탓에 급하게 전문 재단사 한 명의 지원이 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "가로파노"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "현탁 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "107": {
+        "Id": 1033003,
+        "Quality": "Blue",
+        "DispatchTitle": "화원의 수법",
+        "DispatchDescription": "모 지역에서 '화원'의 수법을 모방한 것으로 의심되는 사건이 여럿 발생했다. 치안국은 즉시 관리국에 화원 관련 인력의 조사 협조를 요청했다.",
+        "DispatchSinners": {
+            "Sinner 1": "가로파노",
+            "Sinner 2": "진"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "108": {
+        "Id": 1034001,
+        "Quality": "Purple",
+        "DispatchTitle": "엽기 음악 교류회",
+        "DispatchDescription": "한 신성 유명 인사가 언더그라운드 엽기 음악 교류회의 초대장을 보내왔다. 다양한 음악 취향을 가진 한 수감자가 초대장에 응했고 자신의 흑석영을 이용해 이 음악 교류회를 기록하고자 했다.",
+        "DispatchSinners": {
+            "Sinner": "샬롬"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "109": {
+        "Id": 1034002,
+        "Quality": "Green",
+        "DispatchTitle": "미스터리 사건 추리",
+        "DispatchDescription": "신성 모처에 미스터리한 사건이 일어났다. 치안국은 사건 해결을 위해 추리 능력을 갖춘 전문가를 지원해달라고 관리국에 급히 요청했다.",
+        "DispatchSinners": {
+            "Sinner": "크리스티나"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "갈라진 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "110": {
+        "Id": 1034003,
+        "Quality": "Blue",
+        "DispatchTitle": "도구 수색",
+        "DispatchDescription": "치안국은 한 공장이 무대 소품 판매를 명목으로 위험 물품을 불법 생산하고 판매하고 있는 것으로 의심하고 있다. 관리국에서 불법 물품을 구분하는 능력이 뛰어난 인력을 파견해 조사해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "크리스티나",
+            "Sinner 2": "메스"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "111": {
+        "Id": 1034004,
+        "Quality": "Purple",
+        "DispatchTitle": "달빛 노천탕",
+        "DispatchDescription": "신성의 한 노천탕에서 변이 사건이 발생한 것으로 추정된다. 해당 노천탕에 야간 오픈 테마 행사가 있다는 소식을 듣자 목욕을 즐기는 한 수감자가 조사에 참여하는 것을 강력하게 요구했다.",
+        "DispatchSinners": {
+            "Sinner": "코쿠리코"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "112": {
+        "Id": 1035001,
+        "Quality": "Purple",
+        "DispatchTitle": "동물원 도난 사건",
+        "DispatchDescription": "신성의 어느 동물원에 있던 악어들이 감쪽같이 사라졌다. 치안국에서 범인을 찾았지만 악어의 행방은 여전히 알 수 없었다. 동물의 생태계를 잘 아는 수감자의 협조가 시급히 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "맨티스"
+        },
+        "BaseAward": {
+            "Reward Item": "오염된 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        }
+    },
+    "113": {
+        "Id": 1035002,
+        "Quality": "Green",
+        "DispatchTitle": "향수 경매",
+        "DispatchDescription": "누군가 전설 속 영원의 향을 만들 수 있다고 주장하며 이를 셀링 포인트로 경매를 열어 돈을 긁어모으고 있다. 향수를 사랑하는 어느 수감자는 영원의 향을 보러 가거나 아니면 가품을 판별하기 위해서 자원해 나섰다.",
+        "DispatchSinners": {
+            "Sinner": "카시아"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "겉날개 파편",
+            "Reward Qty": "1.0"
+        }
+    },
+    "114": {
+        "Id": 1035003,
+        "Quality": "Blue",
+        "DispatchTitle": "위장 귀족",
+        "DispatchDescription": "신성 치안국은 사정상 귀족 아가씨로 위장한 대원을 잠입 수사에 파견하고자 한다. 의상 스타일링과 향수에 대해 잘 아는 수감자의 지원이 필요하다.",
+        "DispatchSinners": {
+            "Sinner 1": "카시아",
+            "Sinner 2": "가로파노"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        }
+    },
+    "115": {
+        "Id": 1036001,
+        "Quality": "Purple",
+        "DispatchTitle": "결자해지",
+        "DispatchDescription": "최근 괴담에 대한 공포심으로 인해 신성 병원을 찾는 불면증 환자가 급증하고 있다고 한다. 수면에 도움을 줄 ASMR 프로그램 보조 치료 지원이 시급하다.",
+        "DispatchSinners": {
+            "Sinner": "일레븐"
+        },
+        "BaseAward": {
+            "Reward Item": "곡선형 구리 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "116": {
+        "Id": 1036002,
+        "Quality": "Green",
+        "DispatchTitle": "간식 시식",
+        "DispatchDescription": "아이디어 간식을 판매하는 업체가 사업을 시작했다. 하루빨리 유명해지기 위해, 방송에서 괴상한 간식을 맛보며 구매를 유도해 줄 스트리머가 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "니노"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "117": {
+        "Id": 1036003,
+        "Quality": "Blue",
+        "DispatchTitle": "예리한 평가",
+        "DispatchDescription": "신성의 한 심야 패러디 예능의 시청률이 떨어져, 급히 실력 있고 예능감이 좋은 평론가를 채용해 사회적인 이슈를 평가해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "니노",
+            "Sinner 2": "메스"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "118": {
+        "Id": 1037001,
+        "Quality": "Purple",
+        "DispatchTitle": "장난감의 시선",
+        "DispatchDescription": "최근 여러 시민이 딸애의 인형이 자신을 쳐다보는 것 같다는 신고를 했다. 불법 촬영 조직이 장난감을 개조하여 시장에 유통시킨 것으로 의심되어 장난감 설계 제작에 능숙한 수감자의 협조가 시급하다.",
+        "DispatchSinners": {
+            "Sinner": "이브"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "119": {
+        "Id": 1037002,
+        "Quality": "Green",
+        "DispatchTitle": "SF 영화제",
+        "DispatchDescription": "신성에서 적은 자본으로 SF 영화제를 개최하자 영화를 통해 영감을 얻고 싶어 하는 수감자가 적극적으로 참가 요청을 보냈다.",
+        "DispatchSinners": {
+            "Sinner": "유레카"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "파손된 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "120": {
+        "Id": 1037003,
+        "Quality": "Blue",
+        "DispatchTitle": "대회 평가 위원",
+        "DispatchDescription": "신성의 어느 탐정 클럽에서 탐정 아이템 설계 대회를 개최했다. 재미있는 아이템 발명 제작과 탐정 아이템에 대해 잘 아는 평가 위원의 참여가 시급하다.",
+        "DispatchSinners": {
+            "Sinner 1": "유레카",
+            "Sinner 2": "크리스티나"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "121": {
+        "Id": 1038001,
+        "Quality": "Purple",
+        "DispatchTitle": "러스트 스파크 역사",
+        "DispatchDescription": "관리국은 '러스트 스파크' 조직의 부흥과 발전에 대한 상세한 역사적 자료를 정리하려고 한다. 이를 위해 내부자의 도움을 받아야 한다.",
+        "DispatchSinners": {
+            "Sinner": "돈"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "122": {
+        "Id": 1038002,
+        "Quality": "Green",
+        "DispatchTitle": "총기 테스트",
+        "DispatchDescription": "모 연구소에서 최신형 권총을 개발하여 총기에 정통한 사람의 시험평가가 시급하다.",
+        "DispatchSinners": {
+            "Sinner": "마틸다"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "파손된 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "123": {
+        "Id": 1038003,
+        "Quality": "Blue",
+        "DispatchTitle": "대청소",
+        "DispatchDescription": "관리국은 최근 공무로 바빠 집 안 청소에 소홀하여 두 명의 수감자가 함께 대청소에 나섰다.",
+        "DispatchSinners": {
+            "Sinner 1": "마틸다",
+            "Sinner 2": "레버린스"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "124": {
+        "Id": 1039001,
+        "Quality": "Purple",
+        "DispatchTitle": "오디션 심사위원",
+        "DispatchDescription": "한 엔터테인먼트에서 새로운 오디션 프로그램을 기획했다. 이번 프로그램의 주제는 뮤지컬 유망주를 발굴하는 것이며, 녹화를 위해 급히 대중 심사 위원을 섭외했다. 한 수감자가 자신이 직접 아직 다듬어지지 않은 보석을 발굴하고 싶다며 나섰다.",
+        "DispatchSinners": {
+            "Sinner": "레이디 펄"
+        },
+        "BaseAward": {
+            "Reward Item": "눈물 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "125": {
+        "Id": 1039002,
+        "Quality": "Green",
+        "DispatchTitle": "인기 대회",
+        "DispatchDescription": "한 협회가 신성에서 길거리 예술가 대회를 개최했고 모든 사람이 무료로 관람하고 투표를 할 수 있다. 이 소식을 들은 한 수감자가 용감히 참가를 신청하며 본인이 반드시 우승할 수 있다고 주장했다.",
+        "DispatchSinners": {
+            "Sinner": "에코"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "126": {
+        "Id": 1039003,
+        "Quality": "Blue",
+        "DispatchTitle": "음파 무기",
+        "DispatchDescription": "치안국은 현재 음파 무기를 대대적으로 연구하고 있다. 음파를 이용해 공격을 할 수 있고 발명에 능한 수감자의 연구 참여가 시급하다.",
+        "DispatchSinners": {
+            "Sinner 1": "에코",
+            "Sinner 2": "유레카"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "127": {
+        "Id": 1040001,
+        "Quality": "Purple",
+        "DispatchTitle": "폭탄 예고",
+        "DispatchDescription": "MBCC는 치안국의 지원 요청을 받아 신성의 한 랜드마크에 있는 거대한 시계탑에 설치된 폭탄을 제거하려 한다. 시계탑의 내부 구조는 복잡하고 위험해서 기계 구조에 대해 잘 알고 있는 수감자를 파견해야 한다.",
+        "DispatchSinners": {
+            "Sinner": "바닐라"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        }
+    },
+    "128": {
+        "Id": 1040002,
+        "Quality": "Green",
+        "DispatchTitle": "다이어리 시장",
+        "DispatchDescription": "신성에서 다이어리 시장 이벤트를 진행했는데 어느 수감자가 그 안에 알 수 없는 위험이 숨겨져 있다며 적극적으로 위협을 제거할 것을 신청했다.",
+        "DispatchSinners": {
+            "Sinner": "시슬"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "메마른 다리",
+            "Reward Qty": "1.0"
+        }
+    },
+    "129": {
+        "Id": 1040003,
+        "Quality": "Blue",
+        "DispatchTitle": "여고 납치사건",
+        "DispatchDescription": "신성의 한 여고에서 집단 납치사건이 발생했다. 치안국의 요청으로 MBCC는 긴급으로 여고생으로 변장할 수감자 2명을 파견해 인질을 구출하려고 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "시슬",
+            "Sinner 2": "린"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        }
+    },
+    "130": {
+        "Id": 1041001,
+        "Quality": "Purple",
+        "DispatchTitle": "고서 감정",
+        "DispatchDescription": "최근 신성 도서관에서 이방 도시에서 얻은 진귀한 서적이 도난당했다. 서적의 회수와 감정을 도와줄 학자가 급히 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "두약"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "131": {
+        "Id": 1041002,
+        "Quality": "Green",
+        "DispatchTitle": "요리 대회",
+        "DispatchDescription": "신성 요리 대회의 개막을 앞두고 주최 측에서 관리국에 초대장을 보냈다. 초대장을 본 한 수감자가 자발적으로 참가를 요청했다.",
+        "DispatchSinners": {
+            "Sinner": "옌옌"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "겉날개 파편",
+            "Reward Qty": "1.0"
+        }
+    },
+    "132": {
+        "Id": 1041003,
+        "Quality": "Blue",
+        "DispatchTitle": "아동복 모델 실종 사건",
+        "DispatchDescription": "최근 신성의 어느 명품 아동복 브랜드에서 촬영을 마친 모델들이 다수 실종되었다. 진상을 밝히기 위해 두 명의 수감자가 변장해서 잠입해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "옌옌",
+            "Sinner 2": "올리버"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        }
+    },
+    "133": {
+        "Id": 1041004,
+        "Quality": "Purple",
+        "DispatchTitle": "강좌 조사",
+        "DispatchDescription": "치안국은 최근 자칭 마스터라는 수상한 인물이 '태양과의 소통' 관련 강좌를 열고 있다는 신고를 받았다. 이를 조사할 수감자 한 명을 파견해야 한다.",
+        "DispatchSinners": {
+            "Sinner": "야오"
+        },
+        "BaseAward": {
+            "Reward Item": "오염된 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        }
+    },
+    "134": {
+        "Id": 1042001,
+        "Quality": "Purple",
+        "DispatchTitle": "멍때리기 챔피언",
+        "DispatchDescription": "최근 신성의 심심 인간 협회에서 멍때리기 대회를 열었다. 최종 우승자는 거액의 상금을 받게 된다. 10시간은 족히 멍때릴 수 있는 강자들이 하나둘 참여했고, 이 소식을 들은 한 수감자도 보기 드물게 관심을 보였다.",
+        "DispatchSinners": {
+            "Sinner": "엔젤"
+        },
+        "BaseAward": {
+            "Reward Item": "독모래 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "135": {
+        "Id": 1042002,
+        "Quality": "Green",
+        "DispatchTitle": "난투 수업",
+        "DispatchDescription": "시가전과 같은 복잡한 환경에서 전투력이 부족하다는 것을 절실히 느낀 신성 치안국은 길거리 난투 경험이 풍부한 격투 교관을 급히 초청해 훈련의 퀄리티를 높이려고 한다.",
+        "DispatchSinners": {
+            "Sinner": "콜란"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "136": {
+        "Id": 1042003,
+        "Quality": "Blue",
+        "DispatchTitle": "귀여운 유혹",
+        "DispatchDescription": "한 유명 부티크 체인 브랜드가 신디케이트에 진출해 지역 한정판 인형을 출시하기로 결정했다. 이 소식을 들은 몇몇 수감자는 해당 지역의 임무 수행에 나서겠다고 적극적으로 요구했다.",
+        "DispatchSinners": {
+            "Sinner 1": "콜란",
+            "Sinner 2": "시슬"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "137": {
+        "Id": 1043001,
+        "Quality": "Purple",
+        "DispatchTitle": "주스 시음",
+        "DispatchDescription": "신성의 한 유명 사과주스 제조업체가 다양한 농도의 신제품 시음 행사를 시작했다. 이 소식을 들은 한 수감자는 그 즉시 행사에 참여하고 싶다는 내용의 보고서를 30건이나 제출했다.",
+        "DispatchSinners": {
+            "Sinner": "비앙카"
+        },
+        "BaseAward": {
+            "Reward Item": "얼음 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "138": {
+        "Id": 1043002,
+        "Quality": "Green",
+        "DispatchTitle": "사기 방지 음성",
+        "DispatchDescription": "최근 랜선 연애를 빙자한 사기 사건이 잇달아 발생하자, 신성 치안국은 사기 방지 홍보용 음성을 녹음하기 위해 젊은 네티즌의 취향을 잘 아는 매력적인 목소리를 가진 수감자를 급히 모집했다.",
+        "DispatchSinners": {
+            "Sinner": "숀"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "139": {
+        "Id": 1043003,
+        "Quality": "Blue",
+        "DispatchTitle": "심쿵 연수",
+        "DispatchDescription": "신성의 한 엔터테인먼트 회사에서 '한마디로 심쿵'이라는 테마로 새로운 복면 연애 프로그램을 론칭해 인기를 끌었다. 그러자 사람을 홀리는 말을 잘하는 수감자 두 명이 자발적으로 차기 오디션에 참가 신청을 했다.",
+        "DispatchSinners": {
+            "Sinner 1": "숀",
+            "Sinner 2": "맥퀸"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "140": {
+        "Id": 1044001,
+        "Quality": "Purple",
+        "DispatchTitle": "이주 권유",
+        "DispatchDescription": "최근 관련 부문 소속 순찰대가 디스씨 주변을 순찰하던 중 우연히 한 노인이 세운 임시 거처를 발견했다. 하지만 노인은 미신을 굳게 믿어 정상적인 의사소통이 불가능했다. 노인이 이주하게끔 설득하기 위해서는 현지 제사 문화를 잘 아는 사람이 급히 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "헤스티아"
+        },
+        "BaseAward": {
+            "Reward Item": "노을 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "141": {
+        "Id": 1044002,
+        "Quality": "Green",
+        "DispatchTitle": "비디오디스크 판별",
+        "DispatchDescription": "치안국은 한 범죄 집단이 대량의 불법 콘텐츠를 중고 비디오디스크로 포장해 시중에 유통했다는 정보를 입수했다. 관련 분야에 대해 광범위한 이해가 있는 애호가를 파견해 판별을 도와야 한다.",
+        "DispatchSinners": {
+            "Sinner": "제인"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "142": {
+        "Id": 1044003,
+        "Quality": "Blue",
+        "DispatchTitle": "은행 강도 사건",
+        "DispatchDescription": "최근 신성 은행에서 대형 강도 사건이 발생했다. 용의자의 범행 수법이 과거 화제 되었던 연쇄 강도 사건과 매우 유사했다. 모방범죄로 의심되기 때문에 관련 인원을 파견해 수사를 진행해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "제인",
+            "Sinner 2": "크리스티나"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "143": {
+        "Id": 1045001,
+        "Quality": "Purple",
+        "DispatchTitle": "게시판 관리",
+        "DispatchDescription": "최근 치안국에서는 내부 네트워크의 게시판을 재적용할 예정이다. 해당 게시판은 장기적으로 관리가 부족해 데이터의 진위가 확실하지 않으니, 관리국에서 게시판 관리 업무에 익숙한 수감자를 파견해서 정리하려고 한다.",
+        "DispatchSinners": {
+            "Sinner": "L.L."
+        },
+        "BaseAward": {
+            "Reward Item": "붉은 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "144": {
+        "Id": 1045002,
+        "Quality": "Green",
+        "DispatchTitle": "데이터 판독",
+        "DispatchDescription": "치안국에서 모 범죄 조직이 발송한 거래 데이터를 취득하였지만, 그 안에는 다크웹에서 사용하는 대량의 은어와 암호화된 링크가 포함되어 있어 단기간 내에 판독할 수 없었다. 관련 내용에 대해 잘 알고 있는 사람의 판독이 급히 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "슈르마"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "145": {
+        "Id": 1045003,
+        "Quality": "Blue",
+        "DispatchTitle": "어린이 대피",
+        "DispatchDescription": "어린이들이 순찰대가 근무하는 위험 지역에 자주 모여서 논다. 여러 차례 경고했지만 계속 모이며 공무를 집행하는 데 방해가 되고 있다. 관리국에서 아이들의 신뢰를 얻을 수 있는 수감자를 지금 바로 파견하여 모여있는 아이들을 분산시켜야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "슈르마",
+            "Sinner 2": "앤"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 레드 스톤 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "150": {
+        "Id": 1099001,
+        "Quality": "Green",
+        "DispatchTitle": "꿈의 해석",
+        "DispatchDescription": "신성 일부 지역 주민들은 악몽을 자주꾼다. 구체적인 원인을 철저히 조사해야 한다.",
+        "DispatchSinners": {
+            "Sinner": "헤카테"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    }
+}

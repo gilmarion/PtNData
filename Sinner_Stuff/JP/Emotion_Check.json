@@ -1,0 +1,2475 @@
+{
+    "デーモン": {
+        "Emotion Check 1": {
+            "Open": "[デーモンは彼の炭化タングステン装甲を拭いている]",
+            "デーモン Question": "こいつを試してみるか？様々な想定外の事態に対応できるだろう。",
+            "Chief Question 1": "それなら……試してみよう。",
+            "デーモン Response 1": "なるほど、すぐに君のサイズを用意する。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "悪くないが、少しかさばるな。動きの邪魔になりそうだ。",
+            "デーモン Response 2": "そうか、残念だ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[デーモンは自分の部屋に座り込んでいる。何か考え事があるようだ]",
+            "デーモン Question": "俺を……監視するつもりか？",
+            "Chief Question 1": "ああ、大人しくしているといい。",
+            "デーモン Response 1": "……分かった。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Chief Question 2": "私を守ってくれていると思えばいい。",
+            "デーモン Response 2": "……なるほどな、では奴らが君に触れないよう注意しておこう。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "ガオ": {
+        "Emotion Check 1": {
+            "Open": "[ガオが木の棒を振り回しながら立ちふさがった]",
+            "ガオ Question": "ハイヤーー攻撃は最大の防御ネ。まさに攻防一体アル！",
+            "Chief Question 1": "またアクション映画を見たのか？",
+            "ガオ Response 1": "エヘヘ、そうだヨ！さあ、ワタシと勝負アル！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "危ないから、早く下ろすんだ。",
+            "ガオ Response 2": "フフン、恐れたか。このガオ様こそ一番強い勇者アル！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ガオはいきなり凶悪な形相で叫びながら前方の曲がり角から飛び出してきた]",
+            "ガオ Question": "ガオォ！！",
+            "Chief Question 1": "……",
+            "ガオ Response 1": "なんで驚かないアルか！本当につまらナイ、もう遊んであげないネ！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Chief Question 2": "うわー！！",
+            "ガオ Response 2": "ハハハッ、毎回毎回驚きすぎアル！臆病だナ！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        }
+    },
+    "ラーフ": {
+        "Emotion Check 1": {
+            "Open": "[ラーフは執務室の前で見張っている]",
+            "ラーフ Question": "任務に行かれますか？",
+            "Chief Question 1": "ああ、至急対処が必要な狂瞳事件がある。",
+            "ラーフ Response 1": "万が一を考え、私も一緒に行きましょう。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "いや、ちょっと散歩に行くだけだ。",
+            "ラーフ Response 2": "ご一緒させてください。休憩時にも警戒が必要です。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[午後、ラーフが紅茶を飲んでいる]",
+            "ラーフ Question": "うん……調達部門が用意した紅茶は悪くない。",
+            "Chief Question 1": "私にも一杯くれないか。",
+            "ラーフ Response 1": "どうぞ、局長。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "あなたがティータイムを楽しむのは意外だな。",
+            "ラーフ Response 2": "私にも、自分なりの趣味はあります。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        }
+    },
+    "ヴァニラ": {
+        "Emotion Check 1": {
+            "Open": "[ヴァニラは自分の部屋を少し改装した]",
+            "ヴァニラ Question": "私の仕事を……見にきてほしい……壊れた所は全て……修理した……",
+            "Chief Question 1": "優れた機械構造だな。",
+            "ヴァニラ Response 1": "機械の修理が完了した……私は破壊しない……道を外れない……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Chief Question 2": "だが一つ問題がある。ドアが封鎖されているが、どうすれば出られるんだ？",
+            "ヴァニラ Response 2": "出口はない……内海……私はまたここに戻ってきたのか……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ヴァニラは回転する壊れた時計を見つめている]",
+            "ヴァニラ Question": "永遠の時間がまたズレた……直しに……行かなければ……",
+            "Chief Question 1": "電池を交換しよう。",
+            "ヴァニラ Response 1": "歪みが修正された……アンタが……帰路のアンカーなのか……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "叩けば直る。",
+            "ヴァニラ Response 2": "分解して……メンテナンスをする……アンタは正しい……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "ゾーヤ": {
+        "Emotion Check 1": {
+            "Open": "[ゾーヤは背伸びをしながらあなたの執務室に入ってきた]",
+            "ゾーヤ Question": "随分と暇そうだな。一緒にトレーニングでもするか？",
+            "Chief Question 1": "力をコントロールできるんだろうな？",
+            "ゾーヤ Response 1": "当然だ。自分のことは自分が一番よく知っている。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Chief Question 2": "他のコンビクトを相手にする方が効率的だろう。",
+            "ゾーヤ Response 2": "ちっ、つまらないな。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ゾーヤは機嫌が悪そうだ]",
+            "ゾーヤ Question": "なぜ酒が用意されていない？",
+            "Chief Question 1": "規則は規則だ。理由はない。",
+            "ゾーヤ Response 1": "ほう？俺を挑発してるのか?",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "酒を飲むと羽目を外す奴がいるからな。",
+            "ゾーヤ Response 2": "俺が酒に強いのを知らないのか？さっさと一本持ってこい。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "NOX": {
+        "Emotion Check 1": {
+            "Open": "[NOXは窓の外をじっと見ている]",
+            "NOX Question": "出かけて……みたい。",
+            "Chief Question 1": "白砂の海はどうだ？次の任務で連れていこう。",
+            "NOX Response 1": "うん……今回の旅……とても楽しみにしている。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "外もたいして見どころはない。",
+            "NOX Response 2": "そんなことを言うなんて……がっかりした……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[NOXは膝に頭を埋めている]",
+            "NOX Question": "また……声が聞こえる。",
+            "Chief Question 1": "あの怪物たちが話しかけているのか？",
+            "NOX Response 1": "違う……あいつらは……怪物じゃない！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "声の内容を教えてくれるか？",
+            "NOX Response 2": "あいつらはアタシを食らおうとしているんだ……来てくれて、ありがとう……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "デイリン": {
+        "Emotion Check 1": {
+            "Open": "[デイリンは一人で娯楽エリアのソファーに座って映画を見ている]",
+            "デイリン Question": "あなたもこういうマイナーな映画に興味があるの？",
+            "Chief Question 1": "ああ。",
+            "デイリン Response 1": "じゃあ一緒に見ようか、始まったばかりだしね。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "興味ない。",
+            "デイリン Response 2": "はぁ。まぁいいさ、一人で堪能するよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[会話の途中でデイリンは突然あなたの話を遮り、一冊のノートを取り出してメモをし始めた]",
+            "デイリン Question": "ちょっと待ってね……さっきの言葉をメモしとかないと。",
+            "Chief Question 1": "どうしてだ？",
+            "デイリン Response 1": "面白かったからね、最近書いてるシナリオに主人公のセリフとして入れるのにちょうどいいと思って。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "なにか間違ったことを言ったか？",
+            "デイリン Response 2": "いや。さっきの言葉で閃いたから、忘れないように早くメモしとかないとね。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        }
+    },
+    "ドナルド": {
+        "Emotion Check 1": {
+            "Open": "[ドナルドが、手すりにもたれてぼんやりしている]",
+            "ドナルド Question": "よぉ、局長。今日は日差しが気持ちいいし、一緒に日光浴でもしねぇか？",
+            "Chief Question 1": "まだ仕事が残っているんだ……",
+            "ドナルド Response 1": "おいおい、たまには仕事を後回しにしてもいいだろ……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "……分かった。",
+            "ドナルド Response 2": "さぁさぁ、ここに立ってみろ。なかなかいい感じだろ？",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ドナルドが槍を手入れしている]",
+            "ドナルド Question": "暇だから、旧友の世話してるところだ。",
+            "Chief Question 1": "オープンエリアで練習してくるといい。",
+            "ドナルド Response 1": "おお？局長、槍パフォーマンスが見たいのか？だったら見せてやってもいいぜ？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "邪魔者は退散しよう。ゆっくり世話をするといい……",
+            "ドナルド Response 2": "おいおい、そんな冷たく行っちまうのか？話そうぜ、局長……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+        }
+    },
+    "曜": {
+        "Emotion Check 1": {
+            "Open": "[曜はホールの壁面にある暖色ライトに興味を持ったようだ]",
+            "曜 Question": "これは……人間が太陽を模して作ったものか……随分と……不格好よのう……",
+            "Chief Question 1": "そうとも言えるが……待て、ランプシェードを壊すな！",
+            "曜 Response 1": "偽りの外殻を払いのけてみれば……これほど小さき光点だったとは……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Chief Question 2": "いや、これはただの照明だ。",
+            "曜 Response 2": "うん？故郷のものとは……似ても似つかぬ……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[曜は窓の外を真剣に見つめ続けている]",
+            "曜 Question": "来たか……うぬも一緒にどうだ……",
+            "Chief Question 1": "あなたは……景色を見ているのか？",
+            "曜 Response 1": "太陽を見れば……天象を把握し、栄枯盛衰を知ることができる……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "いいな、何か見えたか？",
+            "曜 Response 2": "光は暖かく、輝いておるが危険はない……近い将来に、天災は起こらぬ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        }
+    },
+    "ハクイツ": {
+        "Emotion Check 1": {
+            "Open": "[執務室のドアがハクイツに蹴破られた]",
+            "ハクイツ Question": "おはよ～！局長、前回の未払い金、いつ払ってくれるのかな？",
+            "Chief Question 1": "前回の支払いなら清算済みだ。",
+            "ハクイツ Response 1": "あらあら～。じゃあ……余った人件費は？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "報酬に問題があったのか？",
+            "ハクイツ Response 2": "うん……梱包の人件費！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ハクイツは部屋で一人飲みしている]",
+            "ハクイツ Question": "ああ……今月も赤字かぁ。",
+            "Chief Question 1": "白記事務所を売り払ってしまえばいい。",
+            "ハクイツ Response 1": "局長！まさかお金を貸してくれないの！？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "それなら、酒を飲むのを控えて真面目に仕事をしろ。",
+            "ハクイツ Response 2": "確かに、たまには本気を出さないとね。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        }
+    },
+    "コージ": {
+        "Emotion Check 1": {
+            "Open": "[コージは背伸びをした]",
+            "コージ Question": "今日はわたしの任務ない……よね？",
+            "Chief Question 1": "運動でもしておくといい。",
+            "コージ Response 1": "……いやだよ、貴重な時間なんだから。寝るに限るね。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "やりたいようなら、まだたくさんあるぞ。",
+            "コージ Response 2": "あんたはもう大人でしょ？わたしみたいなガキに頼まなきゃいけないことが本当にあるの？",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[コージはしぶしぶ影の中から出てきた]",
+            "コージ Question": "……わたしじゃないと駄目なの？",
+            "Chief Question 1": "君が一緒なら効率が上がる。",
+            "コージ Response 1": "じゃ地道に頑張って。わたしは疲れたから休むよ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Chief Question 2": "シンジケートの子供たちに関する緊急事態だ。",
+            "コージ Response 2": "……場所を教えて、早く。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+        }
+    },
+    "ナチャ": {
+        "Emotion Check 1": {
+            "Open": "[ナチャがグラスを揺らしている]",
+            "ナチャ Question": "ねぇ……これの味を試してみない？局長？",
+            "Chief Question 1": "……少しだけいただこう。",
+            "ナチャ Response 1": "さぁ……局長——これを飲んだら、最も純粋な幸せを味わえるわよ～",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "甘すぎるから断る。",
+            "ナチャ Response 2": "最上の甘美こそが、最上の幸せをもたらす……あなた、価値観を改めた方がいいわ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ナチャがぼんやりと蛇をいじっている。彼女はあなたの姿を見ると、突然目を輝かせた]",
+            "ナチャ Question": "あら、局長。この子たちとお近づきになってくれない？",
+            "Chief Question 1": "あなたとお近づきになるだけじゃ足らないのか？",
+            "ナチャ Response 1": "ふふっ、当たり前じゃない……私に噛まれるのと比べたら、この子たちはずっと優しいと思うわよ～",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "今回はコブラはいないな？",
+            "ナチャ Response 2": "気を付けて～。私の毒牙の方が、この子たちよりずっと危険よ～",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        }
+    },
+    "アデラ": {
+        "Emotion Check 1": {
+            "Open": "[アデラはあなたの髪を優しく撫でている]",
+            "アデラ Question": "今度はどんな髪型にしましょうか？",
+            "Chief Question 1": "シンプルなのがいい。他は任せる。",
+            "アデラ Response 1": "かしこまりました。わたしにお任せください。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "最近流行りの髪型で。そうだな……アフロヘアーは？",
+            "アデラ Response 2": "ええと……その髪型はちょっと前衛的すぎますね。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[アデラはハサミを拭いている]",
+            "アデラ Question": "疲れた顔をしていますね。何か悩みがあるのですか？",
+            "Chief Question 1": "私の悩みを切るつもりか？",
+            "アデラ Response 1": "いえ……暖かい飲み物を飲んでみてはいかがでしょう。紅茶をご用意しますね。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "……とにかくそのハサミを置いてくれ。",
+            "アデラ Response 2": "緊張しないでください。これはただのハサミですよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "マンティス": {
+        "Emotion Check 1": {
+            "Open": "[マンティスから手作りの食品をもらった。何かの干し肉のように見える]",
+            "マンティス Question": "これを……あげる……",
+            "Chief Question 1": "本当に食べられるのか？",
+            "マンティス Response 1": "昆虫で作った……栄養価が高いから……いっぱい、食べて……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "あなたがまず一口食べてくれないか？",
+            "マンティス Response 2": "キミのために……作った……自分の分は、また作るから……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[マンティスはじっとテレビのサバイバル番組を見ている]",
+            "マンティス Question": "もっといい方法があるのに……そんなことをしたら……危険……",
+            "Chief Question 1": "もし機会があれば、マンティスをその番組の指導に向かわせよう。",
+            "マンティス Response 1": "また森に……行ってもいいの？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "あれは本当のサバイバルじゃない。台本通りに撮影しただけだ。",
+            "マンティス Response 2": "つまり……彼らは安全なんだね。よかった……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
+    "エンジェル": {
+        "Emotion Check 1": {
+            "Open": "[エンジェルの前には、ネットで購入した独創的なインスタント食品のブラインドボックスが山積みになっている]",
+            "エンジェル Question": "ピザの耳が寿司になった冷凍ピザか……保存食として特別優れているわけではないな。だが、このパスタ入り東州風冷凍饅頭もあまり美味しくなさそうだ。",
+            "Chief Question 1": "耳の部分が寿司なのは問題だが、ピザは悪くない。",
+            "エンジェル Response 1": "確かに、硬く凍っていても、電子レンジで3分加熱すれば柔らかくなり、美味しくなる。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "確かにどれもあまり美味しくない。冷凍ハンバーガーを買った方がいいかもしれない。",
+            "エンジェル Response 2": "ハンバーガー？前に買ったことがある。味はまあまあだったが、自分でレタスを用意する必要があった。インスタント食品としては少し残念だ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[エンジェルは、全員の端末に送られた、手抜きをしたい人用布団カバーの付け方のチュートリアルを見ている]",
+            "エンジェル Question": "新しいカバーセットを買った方が早いかもしれない。「手抜き」というには手順が複雑すぎる。",
+            "Chief Question 1": "たった4ステップなのに手抜きではないのか？",
+            "エンジェル Response 1": "「布団を敷く」と「カバーをかける」を1工程と考えれば4ステップになるな。だが私は、新品を注文する、待つ、受け取るという3ステップで済ませたい。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "確かに、カバーのいらない掛け布団はいい布団だ。",
+            "エンジェル Response 2": "私の意見に賛成するのは珍しいな。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
+    "夏音": {
+        "Emotion Check 1": {
+            "Open": "[夏音は両目を輝かせて、ロボットアームをあなたに渡した]",
+            "夏音 Question": "局長、早くこれを試して！",
+            "Chief Question 1": "……どうやら改善の余地がありそうだ。",
+            "夏音 Response 1": "そう言われると、確かに一理あるわね。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Chief Question 2": "これは……私が手を切り落さないといけないな。",
+            "夏音 Response 2": "先に切り落とさないと付けられないじゃない？",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_2.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[夏音は寝室のベッドにうつぶせになっている]",
+            "夏音 Question": "はぁ……なんで人は疲れるんだろう……",
+            "Chief Question 1": "早寝早起きして運動量を増やそう。",
+            "夏音 Response 1": "はぁ？それならいっそ死んだ方がマシよ。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "頭脳労働は負担が大きいからな。",
+            "夏音 Response 2": "ふふっ、ようやくあたしの天才っぷりを分かってくれる人が現れた。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        }
+    },
+    "ラングリー": {
+        "Emotion Check 1": {
+            "Open": "[ラングリーはあなたの執務室の席に座っている]",
+            "ラングリー Question": "仕事の報告をしろ、新人。",
+            "Chief Question 1": "世界平和のために尽力した。",
+            "ラングリー Response 1": "悪くないが、まずは自分の身を守れるようになれ、ルーキー。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "今日の管理局の任務は予定通り完了した。",
+            "ラングリー Response 2": "うん……まずまずだな。まだまだ向上の余地がある。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ラングリーの表情は少し疲れているように見える]",
+            "ラングリー Question": "新人、コーヒーを淹れてきてくれ。",
+            "Chief Question 1": "コーヒーよりも必要なのは休息だと思うが。",
+            "ラングリー Response 1": "良くも悪くもない提案だな、ルーキー。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "管理局の手挽きコーヒーを試してみよう。",
+            "ラングリー Response 2": "いいね。コーヒーの香りを嗅いだだけで悪くない気分だ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        }
+    },
+    "コフィン": {
+        "Emotion Check 1": {
+            "Open": "[コフィンは工具を手にして茶色の小さな箱を作っている]",
+            "コフィン Question": "そうね……やはり柏の木を使ったほうが……",
+            "Chief Question 1": "何を作っているんだ？",
+            "コフィン Response 1": "亡くなったペットのオウムのために用意してくれと頼まれたのよ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "これは……誰のためのものだ？",
+            "コフィン Response 2": "オウムよ。収容エリアの局員が飼っていたペットが昨日亡くなったのよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[コフィンは穏やかな表情で部屋の黒い棺の中に横たわっている]",
+            "コフィン Question": "まだスペースがあるから、一緒に横になってみない？",
+            "Chief Question 1": "……ああ。",
+            "コフィン Response 1": "どうかしら？特別な安らぎを感じられるでしょう？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "やめておく。",
+            "コフィン Response 2": "固くて寝心地が悪いから？ならクッションを持ってきてあげるわ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
+    "デレーヤ": {
+        "Emotion Check 1": {
+            "Open": "[デレーヤはもう少し一緒にいてほしいと思っているようだ]",
+            "デレーヤ Question": "もう少し……あなたと話をしていたい。",
+            "Chief Question 1": "分かった。私のどんな秘密を知りたい？",
+            "デレーヤ Response 1": "全てを……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "昨日も長時間、話しただろう。",
+            "デレーヤ Response 2": "この欲求には……果てがない。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[デレーヤの部屋から変な物音がする]",
+            "デレーヤ Question": "局長……これを……しまってくれない？",
+            "Chief Question 1": "コーヒー、紅茶、フルーツ缶詰……なんでこんなにあるんだ？",
+            "デレーヤ Response 1": "わたしの癖よ……いつか……必要になるかもって……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_6.png",
+            "Chief Question 2": "缶詰くらい、部屋に置かなくてもいいじゃないか。",
+            "デレーヤ Response 2": "こうしたほうが……満足感があるのよ……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+        }
+    },
+    "シャローム": {
+        "Emotion Check 1": {
+            "Open": "［シャロームは手にしたカメラのレンズをあなたに向けた］",
+            "シャローム Question": "さあ、笑いたまえ～",
+            "Chief Question 1": "……えっ？",
+            "シャローム Response 1": "ふふ、ぼんやりしている局長も可愛いね。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "……いきなり写真を撮られるのは、あまり慣れていない。",
+            "シャローム Response 2": "そうなのか？局長は恥ずかしがり屋だね～",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        },
+        "Emotion Check 2": {
+            "Open": "［シャロームは彼女のDVDコレクションをひっくり返していた］",
+            "シャローム Question": "今日は何を見ようか……",
+            "Chief Question 1": "『DISREC』？これはどんな内容だ？",
+            "シャローム Response 1": "フェイクドキュメンタリー形式のホラー映画だ。なかなか面白いよ。一緒に見ないか？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "『ストリート・スナック・ファイター』？食べ物のドキュメンタリーもあるのか？",
+            "シャローム Response 2": "おかしいかな？暇つぶしにちょうどいいのだよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        }
+    },
+    "パール夫人": {
+        "Emotion Check 1": {
+            "Open": "[パール夫人は自分のアイシャドウのコレクションをテーブルに広げた]",
+            "パール夫人 Question": "ああ、いつの間にかこんなにたくさん集めてしまったのね～今日はどれを使おうかしら～局長、選ぶのを手伝ってくれない？",
+            "Chief Question 1": "この大粒のラメが入ったダークグリーンは、あなただけが扱える個性的な色だ。",
+            "パール夫人 Response 1": "ハニー、アナタの大胆な選択はいつもアタクシの好みにぴったりね～ちょうど暇なことだし、アナタも試したらどうかしら？肌が白いからきっと映えるわよ～さぁ、目を閉じて～",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "このマットなカーマインレッドは、王道の華やかさがあり、あなたの気質を更に引き出すだろう。",
+            "パール夫人 Response 2": "ふふ、「ダサい」じゃなく「王道」ね。本当にアナタらしいわ～とてもいい提案よ。アタクシのようにいつも演劇に夢中になっている人間も、たまには日常的なスタイルを試してみるのもいいわね～",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[パール夫人は管理局の総会のプログラム申請書に目を通している]",
+            "パール夫人 Question": "「獅子舞」、「ロック音楽の独奏」、「曲芸」……まぁ、どれも面白そうね～局長、アナタも何か出し物をしてみたらどう～？成功するかどうかは気にしなくていいのよ、アタクシがいるもの。必ずアナタを総会の輝く新星にしてみせるわ～",
+            "Chief Question 1": "すまない、音痴なんだ。",
+            "パール夫人 Response 1": "時間があればアタクシが教えてあげるわ～もし時間がなくても、飾らない本来の持ち味を活かしたパフォーマンスをすれば、独特の味が出るわよ～うふふ、制御不能なメロディーも新たな感動的ショーとも言えるわぁ～",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "すまない、ダンスが苦手なんだ。",
+            "パール夫人 Response 2": "社交ダンスはアナタが思ってるほど難しくないのよ～息を吸ったり吐いたり、前進したり後退したり、ある種の身体的コミュニケーションとか、自然なリズムに近いわね……ほら、上手にできてるわぁ～",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        }
+    },
+    "ビアンカ": {
+        "Emotion Check 1": {
+            "Open": "[ビアンカは目の前の宅配便の山から、新しいリンゴ味の商品を次々と取り出している]",
+            "ビアンカ Question": "アップルラテ、アップルウーロン、リンゴ味のミックスナッツ、リンゴ味のフリフリポテト……う～ん大・興・奮！えへへ、どれから食べよっかな～局長もどう？",
+            "Chief Question 1": "アップルウーロンにしよう。飲んでもお腹を壊すことはなさそうだ。",
+            "ビアンカ Response 1": "うーん、つまらないけど堅実な選択だね！これがバラエティ番組だったら——ジャジャーン！その答えに2ポイントプレゼント！スコアボードを持って。あとアップルウーロンも！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "リンゴ味のフライドポテトにしよう。チャレンジは極限から始めなければ。",
+            "ビアンカ Response 2": "ワオ、局長とアタシは本当に心が通じ合ってるね！さぁさぁ、この以心伝心を記念して1枚撮ろう。キミはフライドポテトのこっち側をくわえてね。アタシはこっちをくわえるから。カメラを見て——はい、チーズ！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ビアンカは目の前のリンゴジュースの缶を見て眉をひそめている]",
+            "ビアンカ Question": "どうりで昨日、飲んでも飲んでも何か変だなぁと思ったわけだ。売店がカロリー0、果汁0のリンゴジュースを仕入れてたなんて……こんなのリンゴジュースじゃない！虚偽広告だ、晒さなきゃ！",
+            "Chief Question 1": "だが、あなたは変なことを口走るくらい飲んでいたが……",
+            "ビアンカ Response 1": "え？マジで？なんで覚えてないんだろう？おっと、もしかして昨日飲んだのは自分のストックで、飲みすぎて記憶をなくしちゃったのかな？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "それでも、あなたは「酔っ払って」午後まで寝ていたが……",
+            "ビアンカ Response 2": "それはリンゴジュースと関係ないよ。忘れたの？この前、大きなニュースのネタを仕入れるために何日か徹夜してたでしょ！つまりあれは、「二日酔い」じゃなく、昏睡してたってこと～！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        }
+    },
+    "エイレーネー": {
+        "Emotion Check 1": {
+            "Open": "[エイレーネーはチェス盤を用意して、あなたを手招きしている]",
+            "エイレーネー Question": "私とチェスをしない？",
+            "Chief Question 1": "チェス以外なら構わないが。",
+            "エイレーネー Response 1": "ふふ……どう足掻こうと私には勝てないわ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "構わないが、私に勝つ見込みはないだろう。",
+            "エイレーネー Response 2": "そんなに自分を卑下しないで。今回は少し手加減してあげるから。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[エイレーネーは手元の決算報告書をめくっている]",
+            "エイレーネー Question": "前の報酬を支払いに来たの？",
+            "Chief Question 1": "……何の報酬だ？死瞳に関係があるのか？",
+            "エイレーネー Response 1": "もう忘れたの？もちろん大型死瞳の処理の件よ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "そう言われてもな……おそらく誰にも支払えないだろう。",
+            "エイレーネー Response 2": "それならいっそ、あなた自身で……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        }
+    },
+    "スターゲイザー": {
+        "Emotion Check 1": {
+            "Open": "[スターゲイザーは水晶玉に触れている]",
+            "スターゲイザー Question": "来たのね。ずっと待っていたのよ。",
+            "Chief Question 1": "確かに前回の占いからずいぶん時間が経ったようだ。",
+            "スターゲイザー Response 1": "ふふ……じゃあ、始めましょうか？あたしの化け物ちゃん——",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "……占いも客を選ぶものなのか？",
+            "スターゲイザー Response 2": "もちろんよ。あなたの魂は最も純粋であると同時に、最も未知に溢れているの。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[スターゲイザーは珍しくため息をついている]",
+            "スターゲイザー Question": "はぁ……最近、魂との交流が良くないわ……",
+            "Chief Question 1": "別の水晶で試したらどうだ？",
+            "スターゲイザー Response 1": "……これはいいアイデアと思えないわ。特に「スターゲイザー」の立場からすると。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "枷の力で助けてやろうか？",
+            "スターゲイザー Response 2": "なら……来て？初めてみたいなぎこちない感じにならないように。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        }
+    },
+    "アイティ": {
+        "Emotion Check 1": {
+            "Open": "[アイティは絵本を夢中で読んでいる。その表紙には火を噴くドラゴンが描かれている]",
+            "アイティ Question": "ちょうどいいところに来たね。アタシがどのドラゴンに似ているか教えてくれない？",
+            "Chief Question 1": "赤い方？",
+            "アイティ Response 1": "この子はレッドドラゴン、火炎魔法はお手の物で、神秘的な宝を守っているの。この子に関する伝説は誰もが知っている……かっこいいよね！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "白い方？",
+            "アイティ Response 2": "クリスタルドラゴンね、その鱗は氷晶みたいで、陽の光をきれいな色に反射させる……うん、確かにこっちの方がきれいね。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[出かける前にアイティはあなたの行く手に立ちはだかり、あなたの肩に手を置いた]",
+            "アイティ Question": "選ばれし勇者よ、試練を潜り抜けたあなたは巨石から剣を引き抜き旅に出る。さあ、覚悟はできたか？",
+            "Chief Question 1": "覚悟はできた。",
+            "アイティ Response 1": "いいだろう。旅先の終点で待っている。その時は栄光と財宝にあなたは満たされるだろう。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "できてない……",
+            "アイティ Response 2": "チッ、ちゃんと合わせてよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "クロウ": {
+        "Emotion Check 1": {
+            "Open": "[クロウは自分のノートを持って、あなたに近づいてきた]",
+            "クロウ Question": "お前のために詩を書いたんだ。",
+            "Chief Question 1": "ありがとう。悪くない詩だ。",
+            "クロウ Response 1": "気に入ってくれたようだな。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "……自分のセンスが足りないのか、内容がいまいち分からない。",
+            "クロウ Response 2": "それは残念だ。だいぶ時間がかかったのだが。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[クロウが興味深そうにあなたを見つめている]",
+            "クロウ Question": "記事を書いてほしいのか？構わない、何か要求はあるか？",
+            "Chief Question 1": "任せるよ。あなたの腕を信じている。",
+            "クロウ Response 1": "承知した。その要望に応えてみせよう。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "ふざけた詩じゃなければ、なんでも。",
+            "クロウ Response 2": "はぁ、あれはふざけた詩ではなくて風刺だ、分かるか？風～刺～。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "エブン": {
+        "Emotion Check 1": {
+            "Open": "[エブンのクマがますます目立つようになってきた]",
+            "エブン Question": "運動時間を知らせる放送で、また目が覚めちゃった……",
+            "Chief Question 1": "いっそのこと、ラジオの放送時間を昼間に変更したらどうだ？",
+            "エブン Response 1": "でも、夜に話し相手が必要な人たちを放っておけないから……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Chief Question 2": "寝る時に耳栓つけるのはどうだ？",
+            "エブン Response 2": "フェイさんが買ってくれた耳栓は「あらゆる騒音を遮断できる」らしいんだけど、ラジオも「抗えない浸透力」を持ってるんだよ……ふふ、私の番組スポンサーの宣伝みたいだね。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[エブンがASMR収録用の道具を整理している]",
+            "エブン Question": "街路樹の落ち葉を踏むバリバリって音と、触手が鼓膜を擦るガサガサって音……どっちを収録した方がいいかな？",
+            "Chief Question 1": "どちらもASMRらしくないな。",
+            "エブン Response 1": "そんなこと言わないで。私の詩を除けば、この2つはASMRラジオで人気が高いんだよ。眠れない夜にすごくぴったりなんだ……あなたも試してみる？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "どちらも催眠効果がありそうでいいな。",
+            "エブン Response 2": "あなたも興味があるなら、音源を送ってあげるよ。聞きながら眠ってみて。きっとスムーズに眠れるはずだよ～",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        }
+    },
+    "ヘスティア": {
+        "Emotion Check 1": {
+            "Open": "[ヘスティアは松明を抱えて管理局の入り口に立っている]",
+            "ヘスティア Question": "火を灯しています……皆さんに……帰り道を示すために……",
+            "Chief Question 1": "戻って構わないぞ。大丈夫だ、彼らは迷子になったりしない。",
+            "ヘスティア Response 1": "いえ……これは……私の義務です……！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_6.png",
+            "Chief Question 2": "お疲れ様。椅子を持ってこよう。",
+            "ヘスティア Response 2": "ありがとうございます……あなたは聖女の祝福を受けるでしょう……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ヘスティアは誰かから貰った変な味の飴を食べている]",
+            "ヘスティア Question": "今日の貢ぎ物は……ちょっと……変わった味ですね……？",
+            "Chief Question 1": "気に入らなければ、別の味に変えればいい。",
+            "ヘスティア Response 1": "こっちの方がずっといいです……甘い……ピーチ味……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "えっと……この飴は魚の干物味のようだ。",
+            "ヘスティア Response 2": "魚の干物の……飴？飴……魚の干物……魚……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        }
+    },
+    "ハーメル": {
+        "Emotion Check 1": {
+            "Open": "[訓練室でダンスの練習をしているハーメルの姿を見ている]",
+            "ハーメル Question": "そんなにわたしに……興味があるんですか？",
+            "Chief Question 1": "ああ、いつ頃から公演が始まるんだ？",
+            "ハーメル Response 1": "あなたの頼みなら、今からでも構いませんよ。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "任務の時間だと伝えに来た。",
+            "ハーメル Response 2": "うっ……では、少し準備の時間をください。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[寝室の散乱物にハーメルがつまずいた]",
+            "ハーメル Question": "助けて……寝室が散らかってて……ダンスの練習ができないんです。",
+            "Chief Question 1": "なぜ、寝室でダンスの練習をする？",
+            "ハーメル Response 1": "外にいたら……能力が……みんなの邪魔になってしまいます。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ],
+            "Chief Question 2": "それなら、後で掃除する人を派遣しよう。",
+            "ハーメル Response 2": "ありがとうございます、局長……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        }
+    },
+    "エンフェル": {
+        "Emotion Check 1": {
+            "Open": "[エンフェルが困っているようだ]",
+            "エンフェル Question": "新しく注文した彫刻に使う石なのじゃが、イメージと違ったようじゃ。",
+            "Chief Question 1": "調達部門に頼んで、注文し直してもらった。",
+            "エンフェル Response 1": "おお、感謝するぞ。これは使いづらくてのう。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "失敗を活かして、新しいものを試してみたらどうだ？",
+            "エンフェル Response 2": "それも……いいかもしれんな。新たな材料に生命を吹き込もう。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        },
+        "Emotion Check 2": {
+            "Open": "「エンフェルの作品のリアルさが、多くの人を驚かせている」",
+            "エンフェル Question": "何か問題でもあるのか？",
+            "Chief Question 1": "少し「抽象的」にしてみては？",
+            "エンフェル Response 1": "ほう？それは『闇夜の魔女』の作風としてふさわしくないのじゃが…",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "あなたの作品を保管するために、倉庫を空けた。",
+            "エンフェル Response 2": "ああ……分かった。人に理解されぬより、暗い場所で埃をかぶる方がよかろう。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+        }
+    },
+    "カベルネ": {
+        "Emotion Check 1": {
+            "Open": "[カベルネとの昼食時、彼女はずっと意味ありげにあなたを見つめている]",
+            "カベルネ Question": "いつか局長様の手料理を……いただけるのでしょうか？",
+            "Chief Question 1": "明日作ろう。料理には結構自信がある。",
+            "カベルネ Response 1": "それは楽しみですわね。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "すまない、料理はあまり得意じゃないんだ。",
+            "カベルネ Response 2": "それでは仕方ありませんわ、局長様はお忙しい方ですもの。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[カベルネは興味なさそうにテレビのグルメ番組を眺めている]",
+            "カベルネ Question": "局長様は、どの料理がお気に入りかしら。",
+            "Chief Question 1": "金猊郷特産の茹で鶏。",
+            "カベルネ Response 1": "ええ、あっさりとした味で、柔らかくて美味しそうですわね。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "鶏の赤ワイン煮込み。",
+            "カベルネ Response 2": "そうですか。この料理を得意とするシェフを知っていますわ。今度外出勤務をなさる時、食事に行きましょう。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        }
+    },
+    "コクリコ": {
+        "Emotion Check 1": {
+            "Open": "[コクリコは温室で土を調べていた]",
+            "コクリコ Question": "ここには何の花を植えたらいいと思う？",
+            "Chief Question 1": "あなたが決めればいい。そのセンスを信じているから。",
+            "コクリコ Response 1": "それじゃあ、お楽しみに～",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "毒のある花は絶対に植えるなよ！絶対に！",
+            "コクリコ Response 2": "残念、キョウチクトウを植えようと思ったのに。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[コクリコは娯楽エリアでネットショップを見ている]",
+            "コクリコ Question": "あなただったら、どのブローチがいいと思う？",
+            "Chief Question 1": "青い方だ。デザインが目新しい。",
+            "コクリコ Response 1": "珍しく私と意見が一致したわね。このブローチは結構特別だから、買ってあげるわ～",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "銀色の方かな？普段あまりブローチをつけないからよく分からない。",
+            "コクリコ Response 2": "この青い方がきっとあなたに似合うと思うわ。たまには自分を飾ることも学びなさい。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        }
+    },
+    "イヴ": {
+        "Emotion Check 1": {
+            "Open": "[イヴは異なる生地で作られたぬいぐるみの服を見比べている。]",
+            "イヴ Question": "熊ちゃんの服はシルクの方がいいでしょうか……それともコットンの方が？",
+            "Chief Question 1": "最近寒くなってきたから、暖かいコットンにしよう。",
+            "イヴ Response 1": "コットンの方が……暖かいでしょうか？私の手では違いが分かりません……でも局長がそう言うなら、コットンにします。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "シルクの方が優雅で、この子に似合っていると思う。",
+            "イヴ Response 2": "局長はまるで幸せな童話の中に生きている子供みたいですね。その瞳の中に幸せそうな世界が広がっています……この子もきっと、局長が選んだ服を気に入ってくれると思います。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[イヴの車椅子が割れたタイルに嵌ったようだ。]",
+            "イヴ Question": "この身体は些細な問題にも躓いてしまいます……私など放っておいて、ご自分の仕事に専念してください。",
+            "Chief Question 1": "あなたにより自由な生活をさせるのが私の仕事だ。どこに行くんだ？連れて行こう。",
+            "イヴ Response 1": "どうしてそこまでするんですか……あなたも知っているでしょう？あなたは私の傍で、いつまでも助けてくれるはずがないのに。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Chief Question 2": "こういう道を遮る障害を片付けるのが私の仕事だ。すぐに人を呼んで修理させよう。それから、あなたの車椅子の状態も確認しよう。",
+            "イヴ Response 2": "私を縛っているのはこうした障害物だけではなく、他にもたくさんあるんです……それを克服できる日が来るのを期待しているんですか？でもその日はまだまだ遠いかもしれません……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
+    "杜若": {
+        "Emotion Check 1": {
+            "Open": "[杜若は何気なく錦嚢を投げて遊んでいる]",
+            "杜若 Question": "ちょうどいいですね。あなたの近い将来の運勢を占ってみましょう……あら、これは？",
+            "Chief Question 1": "……どんな結果が出たんだ？",
+            "杜若 Response 1": "せっかく時間があるなら、この機会に私と話してみてはどうでしょう……今まで取り上げてこなかった話を。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "結果に関わらず働かなければならないのだろう？",
+            "杜若 Response 2": "それはそうですが……最近、何か大きなトラブルが起きないか気になっているのでは？",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[杜若が休憩室でお香を焚いている]",
+            "杜若 Question": "瞑想をすると、変幻する煙が会いたい人の形になると言われています……どうです、やってみませんか？",
+            "Chief Question 1": "煙の前で瞑想すればいいのか。",
+            "杜若 Response 1": "少し見えてきました……あなたが思っている人は、遠くにいるようで実は近くにいます……さて、それが誰だか分かりましたか？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "印香について教えてもらう方が面白そうだ。",
+            "杜若 Response 2": "あら、それを知っているんですね……2日前に私がやっているのを見たんですか？",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        }
+    },
+    "L.L.": {
+        "Emotion Check 1": {
+            "Open": "[L.L.があなたの画像データをコピーして、電子ペットを作成した]",
+            "L.L. Question": "よ～しよ～し、見て。「あなた」はすっごく可愛いでしょう？タマちゃんも楽しそうに「あなた」の周りを泳いでるわ～",
+            "Chief Question 1": "可愛いな。",
+            "L.L. Response 1": "そうでしょ！「あなた」はずっとここにいて、私に寄り添ってくれるのよ……",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "私を「ペット」にしたいのか？",
+            "L.L. Response 2": "う～ん。じゃあ、私のことを「ご主人様」って呼んでみる？",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[L.L.が突然、背後からあなたに近づいたため、彼女の身体についていた水滴があなたの服に落ちた]",
+            "L.L. Question": "あら、うっかりあなたを濡らしちゃったわ。半分濡れた服じゃ寒いでしょう？私とハグして温まる？この腕はあなたが思っているよりポカポカしてるわよ。",
+            "Chief Question 1": "……それほど寒くはない。",
+            "L.L. Response 1": "断らないで～ハグの感覚が好きじゃないの？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "ただの「うっかり」には見えないな。",
+            "L.L. Response 2": "そうよ。あなたの視線を私に向けさせたい。いつも私を見ていてほしいの。ダメかしら？",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        }
+    },
+    "チェルシー伯爵": {
+        "Emotion Check 1": {
+            "Open": "[チェルシーは宝石をあなたに渡した]",
+            "チェルシー伯爵 Question": "ほら、お土産だよ。",
+            "Chief Question 1": "これは……宝石の種類を変えたのか？",
+            "チェルシー伯爵 Response 1": "ははっ、些細な事だよ。受け取って。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "前作ほどではないようだな。",
+            "チェルシー伯爵 Response 2": "ありえない！それの透明度は今までのどれよりも高いのに！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[チェルシーはシディーを見て、考え込んでいる]",
+            "チェルシー伯爵 Question": "なぜ、ここで猫を飼っては駄目なんだ？",
+            "Chief Question 1": "すでに手間のかかる「猫」を飼っているからな。",
+            "チェルシー伯爵 Response 1": "ちぇ、猫とシディーを一緒にするなよ。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ],
+            "Chief Question 2": "駄目ではないが、手続きが複雑で面倒だぞ。",
+            "チェルシー伯爵 Response 2": "じゃあ……待ってるよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "辰砂": {
+        "Emotion Check 1": {
+            "Open": "[辰砂の収容室を通りかかった]",
+            "辰砂 Question": "今日は私の護衛が必要ですか？",
+            "Chief Question 1": "そうだ。だが、自分の安全も確保してくれ。",
+            "辰砂 Response 1": "問題ありません、あなたの命令を待ちます。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "この任務はそれほど難しくない。休んでいてくれ。",
+            "辰砂 Response 2": "この前も同じことを言いませんでしたか？",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[任務終了後、辰砂は何かを考えているようだ]",
+            "辰砂 Question": "はぁ、過去の経験がこの管理局では全く通用しない。",
+            "Chief Question 1": "ここでの戦闘は難しいか？",
+            "辰砂 Response 1": "甘く見ないでください。これでもスネークアイの元責任者です。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Chief Question 2": "スネークアイとは随分違うか？",
+            "辰砂 Response 2": "ええ、コミュニケーションを取るのが難しくて。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "カワカワ": {
+        "Emotion Check 1": {
+            "Open": "[カワカワは期待に満ちた目であなたを見つめている]",
+            "カワカワ Question": "局長！砂の海にはいつ戻るの？",
+            "Chief Question 1": "確かにしばらく砂の海をパトロールしていないな。明日にでも出発しよう。",
+            "カワカワ Response 1": "うん！機会があれば今度一緒に砂の海で流星群を見よう！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "最近、砂の海には異常がない。何か情報が入れば、その時に声をかける。",
+            "カワカワ Response 2": "分かったよ。その時は僕がガイドしてあげるね……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[カワカワはどこか悲しそうだ]",
+            "カワカワ Question": "局長、ビーコンが少し足りないんだ。",
+            "Chief Question 1": "任務の現場で落としたのか？",
+            "カワカワ Response 1": "ううん、砂の海関連の任務以外では持っていかないから。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "訓練室で落とした可能性は？",
+            "カワカワ Response 2": "そっか！そこはまだ探してない！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        }
+    },
+    "レヴィ": {
+        "Emotion Check 1": {
+            "Open": "[レヴィは新調した派手すぎる服を着て、あなたの前でぐるっと回った]",
+            "レヴィ Question": "どうだ？カッコいいだろ？",
+            "Chief Question 1": "ああ、カッコいいな。",
+            "レヴィ Response 1": "いい加減な返事に聞こえるが、気のせいか？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "……まあ、普通かな。",
+            "レヴィ Response 2": "これはショーモデルが着た服と同じデザインでなかなか入手困難なものなんだ。服に対する美的センスを磨いた方がいいと思うぜ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[レヴィは二人の局員とカードゲームをしている]",
+            "レヴィ Question": "おっと悪い、また勝っちまったな。",
+            "Chief Question 1": "何回勝ったんだ？",
+            "レヴィ Response 1": "大したことねぇ、三回だけさ。アンタもやってみねぇか？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "異能力を使ってはいないよな？",
+            "レヴィ Response 2": "まさか。ゲームごときに能力を使って何が楽しいんだよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        }
+    },
+    "ユーニ": {
+        "Emotion Check 1": {
+            "Open": "[通りすがりのユーニが、あなたを見て眉をひそめた]",
+            "ユーニ Question": "どうして片方しかピアスをつけてないんだ。",
+            "Chief Question 1": "両方買う金がないからだ。",
+            "ユーニ Response 1": "はっ。いっそ転職して私の助手になるか？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "制服のセットに、ピアスが一つしかないからだ。",
+            "ユーニ Response 2": "……管理局の物資担当は何か恨みでもあるのか？",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ユーニが一枚のチラシを手に持って、じっくりと見ている]",
+            "ユーニ Question": "この人、あの後また自分の顔を弄ったんじゃ……",
+            "Chief Question 1": "見比べてみると、前の方がいい。",
+            "ユーニ Response 1": "もちろんだ。あれは私がやったのだから。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "今のもいいんじゃないか？",
+            "ユーニ Response 2": "君はセンスが足りないな。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        }
+    },
+    "ニノ": {
+        "Emotion Check 1": {
+            "Open": "[ニノは物資申請リストをあなたの目の前にパッと置いた]",
+            "ニノ Question": "ピコン！ランダム任務を開放しました。ニノ様がお菓子の棚を埋めるのを手伝ってください～",
+            "Chief Question 1": "スナック菓子は控えた方がいい。",
+            "ニノ Response 1": "はぁ～？分からないなら黙ってなよ。スナックがアタシにくれるのは、砂糖でも油でも塩でもなくサイコーな生活なんだっての！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ],
+            "Chief Question 2": "分かった。じゃあ今日の配信でファンから貰ったロリポップの分だけ、スナック菓子を渡そう。",
+            "ニノ Response 2": "ふ～ん？面白そうじゃん。その挑戦受けて立つ！トラックいっぱいに積んで待ってなよ！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ニノは配信ルームの再生回数曲線図を見ている]",
+            "ニノ Question": "何で！？最近、人気落ちすぎなんだけど！ニノ様のライブ配信の黒歴史じゃん！",
+            "Chief Question 1": "内容がマンネリ化しているのかもしれない。新しいアイデアを考えたらどうだ？",
+            "ニノ Response 1": "アンタたちがあれこれ禁止するからでしょ。バーチャル背景使うのまで強制するとかありえない！もう知らない。アンタ、責任持って人気が戻るまで一緒にいてよね！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "あなたのライブ配信を一緒に見て投げ銭をしてもらうために、他のコンビクトたちを呼んできた方がいいか？",
+            "ニノ Response 2": "え？マジで！？ちょっと待って……違う！分かった！アンタの狙いはアタシのチートを運営に気付かせてBANさせることでしょ！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        }
+    },
+    "ギャラン": {
+        "Emotion Check 1": {
+            "Open": "[ギャランは端末に表示された管理局の内部ネット掲示板の投稿をじっと見つめている]",
+            "ギャラン Question": "ああ、あいつとあいつが兄弟の契りを交わして、あいつとあいつがお互いに嫌い合ってるのか。へぇ、局長も昔、自分を誘惑するために悪の勢力から送り込まれた美人の色気があるお姉さんを好きになったことがあるのか……",
+            "Chief Question 1": "こんなとんでもない噂も信じるのか。",
+            "ギャラン Response 1": "えっ、これ嘘なのか？×××、この投稿に投げ銭したのに……待てよ、前にデスラブラジオでも似たような噂言ってたけど、それも嘘か！？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ],
+            "Chief Question 2": "何を言っているのか分からない。",
+            "ギャラン Response 2": "うわー、言いたくないのは本当のことだからだろ！詳しく教えろよ。お前たちは嫌い合ってたのに、恋に落ちて死ぬほど愛し合ったのか？その後、心に鍵をかけて孤独を貫いたのか？",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ギャランはフェイのカタログに載っている、生産終了になった高価なぬいぐるみのアクセサリーを物欲しそうに見つめている]",
+            "ギャラン Question": "クソ、金が足りない！ここでファイターになるのはダメだろ。どうやって金を手に入れる……いや、小遣いを稼げばいいんだ？そうだ、情報とかゴシップを売ればいいのか！",
+            "Chief Question 1": "真偽不明の愛憎関係を売るのか？",
+            "ギャラン Response 1": "情報を売るってそういうことだろ？売った後は一切責任を持たない。真実かどうかは自分で判断するように！でも心配するな。あたしは率先してお前を騙したりしないぜ！どうしようもない時は……仕方ない！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "明確に状況を分析したものは売っているか？",
+            "ギャラン Response 2": "そ、それは加工商品だ。そんなの売ってないぞ！いや、売れないんじゃなく、情報を売る人間ってのはそういう割に合わない商売をしないんだよ！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        }
+    },
+    "ナインティナイン": {
+        "Emotion Check 1": {
+            "Open": "[ナインティナインは一心不乱に刀を地面に叩きつけている]",
+            "ナインティナイン Question": "トレーニングは……いつ始まる？",
+            "Chief Question 1": "ヘラが任務から戻るのを待ってくれ。",
+            "ナインティナイン Response 1": "ああ……分かった！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "あと2時間くらいだ。",
+            "ナインティナイン Response 2": "時間の……流れが遅い。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ナインティナインは独房の扉を叩き、室内の温度が急上昇した]",
+            "ナインティナイン Question": "うあ……ああっ！",
+            "Chief Question 1": "緊急冷却が必要か？",
+            "ナインティナイン Response 1": "無駄だ……わたしの血が騒いでいるんだ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Chief Question 2": "枷を強化する。少しだけ待ってくれ。",
+            "ナインティナイン Response 2": "頼む……急いでくれ……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "ウェンディ": {
+        "Emotion Check 1": {
+            "Open": "[廊下でチェーンソーを持っているウェンディと出会った]",
+            "ウェンディ Question": "錆の川の死瞳……残りはどれくらいだ？",
+            "Chief Question 1": "危険値を超える数量になると、連絡が来る。",
+            "ウェンディ Response 1": "よかった！期待してるぜ！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "そんな心配は無用だ。",
+            "ウェンディ Response 2": "おい——局長はバラバラにされたいのか？",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ウェンディは目の前の書類を引き裂いてしまった]",
+            "ウェンディ Question": "なぜ、また死体が、死体が歩いてるんだ！",
+            "Chief Question 1": "ん……？何の死体だ？",
+            "ウェンディ Response 1": "もう間に合わない！早くどけ！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ],
+            "Chief Question 2": "また死瞳が？調査許可を申請してみよう。",
+            "ウェンディ Response 2": "ようやく……ようやく思う存分殺せる！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        }
+    },
+    "ペガシ": {
+        "Emotion Check 1": {
+            "Open": "[ペガシの部屋には本がたくさん積まれている]",
+            "ペガシ Question": "他に……何か参考になる資料はないの？",
+            "Chief Question 1": "ニューシティ図書館の本を借りてこようか？",
+            "ペガシ Response 1": "うん……ありがとう、局長。必ず期限までに返すから。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "これらを全て読み終えたのなら、あとは「ディスシティ異聞録」がある。",
+            "ペガシ Response 2": "あれは素晴らしい歴史本だったけど……もう続きがないのは残念……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ペガシの様子を見に行こうとした]",
+            "ペガシ Question": "近寄らないで、不幸になるから……",
+            "Chief Question 1": "確かに「放射線」は危険だな。",
+            "ペガシ Response 1": "……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Chief Question 2": "防護服は着ている。",
+            "ペガシ Response 2": "うん、それでいい。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "ドリー": {
+        "Emotion Check 1": {
+            "Open": "[ドリーが野球観戦をしている]",
+            "ドリー Question": "待って！今が一番いいところなんだから、邪魔しないでよ！",
+            "Chief Question 1": "あと5分だけ待つ。時間になったらすぐに行くぞ。",
+            "ドリー Response 1": "いいね！一緒に最後まで試合を楽しもうよ！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "任務が優先だ。録画で見ればいいだろう。",
+            "ドリー Response 2": "ちっ……お前、全然分かってないな。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ドリーが暗い表情で野球のバットを見ている]",
+            "ドリー Question": "調達部門の備品、ちょっと問題あるんじゃない？振っただけで壊れたよ！",
+            "Chief Question 1": "それなら、鉄パイプで間に合わせろ。",
+            "ドリー Response 1": "ああ——ダメだ！使い勝手が悪すぎる！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ],
+            "Chief Question 2": "今度のバットは強化材質製だ。少しだけ我慢してくれ。",
+            "ドリー Response 2": "じゃ、とりあえずそれにしよう。またダメだったら承知しないよ。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_2.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        }
+    },
+    "ホロ": {
+        "Emotion Check 1": {
+            "Open": "[ホロは入荷したばかりの牛乳パックを持っている]",
+            "ホロ Question": "局長、1本どうだ？",
+            "Chief Question 1": "机の上に置いといてくれ。後で飲む。",
+            "ホロ Response 1": "ダメ！美味しい牛乳は新鮮なうちに飲んだ方がいいんだ！さぁ、乾杯！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "すまないが、これ以上身長を伸ばす必要はないんだ。",
+            "ホロ Response 2": "おい……！今からあたしと同じ身長になるように叩き潰してやる！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ホロは斧を握り締め、元気のない目をしている]",
+            "ホロ Question": "うぅ……ゾーヤさんが全然話してくれない……",
+            "Chief Question 1": "背が低くてゾーヤに気づかれなかったのかもな。",
+            "ホロ Response 1": "待ってろ！今すぐ執務室のドアを打ち破ってやる！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Chief Question 2": "今日戦ったときは、声が小さかったのかもしれない。",
+            "ホロ Response 2": "ああ……今度こそあたしが戦っている時の勇姿をゾーヤさんに見せないと！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "メイス": {
+        "Emotion Check 1": {
+            "Open": "[メイスがあなたの執務室で居眠りしている]",
+            "メイス Question": "むにゃむにゃ……寝ちゃダメ……まだ任務が……寝ちゃダメ……",
+            "Chief Question 1": "寝たいなら、部屋に戻って寝てくれ",
+            "メイス Response 1": "うん……ありがとう、局長……って、違う！寝たら悪夢にうなされちゃう……",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "起きろ。任務だ",
+            "メイス Response 2": "うん、わかった！え、わたし……寝てないよ！元気満タンだって！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[メイスが炉のそばで独り言を呟いている]",
+            "メイス Question": "うーん……次はどんな武器作ろう……",
+            "Chief Question 1": "ブロードソードはどうだ？",
+            "メイス Response 1": "いいね！もう少しアレンジして、バックソードにしよう！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "回転式拳銃はどうだ？",
+            "メイス Response 2": "チッ、どうしてみんな銃が好きなの……どう考えても近接武器の方が使ってて面白いじゃん。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        }
+    },
+    "カスロ": {
+        "Emotion Check 1": {
+            "Open": "[カスロがあなたの執務室に入り込んできた]",
+            "カスロ Question": "おい、退屈で死にそうだ。もっとハイレベルな任務を寄こしやがれ！そう約束したじゃねぇか！",
+            "Chief Question 1": "錆の川の死瞳がちょうど活動し始めたところだ。片付けてくれないか。",
+            "カスロ Response 1": "はははっ、その言葉、待ってたぜ！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "ハイレベルの任務はあなたが片付けてしまっただろう。あのくらいの任務しか残されていない。",
+            "カスロ Response 2": "チッ、じゃあ……アタシに付き合えよ！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[カスロは鏡を見ながら、新しく届いたフェイスペイントを自分の顔に塗っている]",
+            "カスロ Question": "これ、耐水性がイマイチだな……すぐ落ちちまいやがる。",
+            "Chief Question 1": "だが、今の方が怖さが増しているな。",
+            "カスロ Response 1": "ハッ。じゃ、さっそく試しに行くぜ！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "他のフェイスペイントを試してみたらどうだ？",
+            "カスロ Response 2": "チッ、もう何種類も変えてみたんだ！全部同じじゃねぇか！もういい、自分で作ってやる！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        }
+    },
+    "クリスティナ": {
+        "Emotion Check 1": {
+            "Open": "［クリスティナは訓練室でサンドバッグを叩いてボクシングの練習をしている］",
+            "クリスティナ Question": "親愛なる相棒、一緒に練習しない？",
+            "Chief Question 1": "いいだろう……お手柔らかにお願いする。",
+            "クリスティナ Response 1": "もちろん。ちゃんと手加減するよ～",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "いや……やめておこう……",
+            "クリスティナ Response 2": "やろうやろう、何なら手加減してあげるから～",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        },
+        "Emotion Check 2": {
+            "Open": "［クリスティナは眼鏡を弄っている］",
+            "クリスティナ Question": "相棒！見て！あたしが作った新道具！まばたきした瞬間に目の前の映像を撮影し、端末に送信することができるの。",
+            "Chief Question 1": "かっこいいな！",
+            "クリスティナ Response 1": "えへへ、気に入ると思ったよ！ほら、お礼はいらないよ！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "これは……実戦で使えるのか？",
+            "クリスティナ Response 2": "もちろん！潜入調査や尾行に便利だよ！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        }
+    },
+    "アイン": {
+        "Emotion Check 1": {
+            "Open": "[アインが手術室から出てきた」",
+            "アイン Question": "用事があるなら、早く言ってくれ。お互い時間は貴重だろう？",
+            "Chief Question 1": "切り取った脳の前頭葉を見せてもらえるか？",
+            "アイン Response 1": "問題ないが、見るときに無駄口を挟まないようにな。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Chief Question 2": "手術は成功したのか？",
+            "アイン Response 2": "愚問だな。彼女はじきに回復する。だが……その代わりに大切な物を失うだろう。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[アインはコンビクトたちを見て、抑えきれないほどのため息をついた]",
+            "アイン Question": "いつになったらあのコンビクトたちをどうにかしてくれるんだ？",
+            "Chief Question 1": "あいつらがここで大人しくしていると思うか？",
+            "アイン Response 1": "それではまるでシンジケートの小型版ではないか！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "すまない。私の不始末だ。",
+            "アイン Response 2": "きみのせいというわけではない。全ては……狂瞳病のせいだ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "テトラ": {
+        "Emotion Check 1": {
+            "Open": "[テトラはあなたの執務室にあるコンピュータをいじっている]",
+            "テトラ Question": "局長、管理局のサイバーセキュリティに注意を払った方がいい。",
+            "Chief Question 1": "君が管理局のサイバーセキュリティを最適化することはできるか。",
+            "テトラ Response 1": "頭を下げてお願いすれば、叶えてあげないこともないよ。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "管理局のファイアウォールは万全だ。",
+            "テトラ Response 2": "ふーん。じゃあ、わたしがパソコンで見つけたこの基本情報は誰の？",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[テトラは管理局の書類棚に寄り掛かっており、ため息が止まらないようだ]",
+            "テトラ Question": "つまらない——ここもこんなにつまらないとは思わなかった。",
+            "Chief Question 1": "プリシラのところに行ってみたらどうだ？",
+            "テトラ Response 1": "ちっ、二人が一緒だと……任務のハードルが下がってしまう。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Chief Question 2": "次回は単独の任務を準備してあげようか？",
+            "テトラ Response 2": "ほう？刺激的になってきたね、そういうのは好みだ。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        }
+    },
+    "菫": {
+        "Emotion Check 1": {
+            "Open": "[執務室にやってきた菫は、あなたのために仕事を分担しようとしているようだ]",
+            "菫 Question": "局長様……何かお困りごとですか？わたしでよければ、お話を聞かせてください。",
+            "Chief Question 1": "どうしてもというなら、書類を運ぶのを手伝って欲しい。",
+            "菫 Response 1": "わかりました。お手伝いしましょう。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_6.png",
+            "Chief Question 2": "何も困りごとはないし、君が悩む必要もない。",
+            "菫 Response 2": "わたしを信用されていないのですか？",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[菫は花びらをつまんで慌てふためいた]",
+            "菫 Question": "花庭園の殺し屋が……ここに来たのですか？",
+            "Chief Question 1": "いや、ここは安全だ。",
+            "菫 Response 1": "どうかお気をつけください。彼女たちは隙を逃すことはありません。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Chief Question 2": "心配なら、私を守ってくれ。",
+            "菫 Response 2": "貴方様の信頼は決して裏切りません。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        }
+    },
+    "マックイーン": {
+        "Emotion Check 1": {
+            "Open": "[マックイーンがあなたを美術品オークションに誘ってきた]",
+            "マックイーン Question": "どうかな？興味あるかい？",
+            "Chief Question 1": "ああ。行ってみる。",
+            "マックイーン Response 1": "私を信じておくれ。君が一番のサプライズゲストとなるよ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "いや。今日は任務がある。",
+            "マックイーン Response 2": "気にしないでおくれ。また今度誘うよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[美術品詐欺事件で、マックイーンに高額な罰金が課せられそうだ]",
+            "マックイーン Question": "心配しないでおくれ。対処ならできる。",
+            "Chief Question 1": "罰金を払いなさい。",
+            "マックイーン Response 1": "チッ——君がそんなに正義感に満ちていたとは知らなかったよ。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ],
+            "Chief Question 2": "ゴホン、今回は見逃してやる。しかし次はない。",
+            "マックイーン Response 2": "おやおや、お礼の言葉が欲しいのかな？それとも……特別な「謝礼」が欲しいかい？",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        }
+    },
+    "リン": {
+        "Emotion Check 1": {
+            "Open": "[リンはカメラを構えて温室で咲いたばかりの花を撮っているが、少し困った顔をしている]",
+            "リン Question": "何か足りないような気がします……",
+            "Chief Question 1": "1種類の花しかないから絵的に物足りないとか？",
+            "リン Response 1": "そうかも知れませんね……他の鉢植えも持ってきましょうか……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Chief Question 2": "人物が足りないとか？",
+            "リン Response 2": "あっ、その通りです。もしよかったら局長さん、花の後ろに立ってモデルになってもらえませんか？",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[リンは頬を赤く染めながら漫画に熱中している]",
+            "リン Question": "ラブラブですね……",
+            "Chief Question 1": "何を読んでいる？",
+            "リン Response 1": "えっと……その……漫画です。局長さんはこういうのを読まないと思いますが……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "ラブラブって？",
+            "リン Response 2": "わっ！びっくりしました……漫画のことですよ……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "ガロファノ": {
+        "Emotion Check 1": {
+            "Open": "[ガロファノはカーネーションの花束を抱えている]",
+            "ガロファノ Question": "今日のお部屋の飾り付けは……どの色の花がよろしいでしょうか？",
+            "Chief Question 1": "赤色の花にしよう。鮮やかで綺麗だ。",
+            "ガロファノ Response 1": "ええ……これを見ると気分が晴れますね。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "よく分からないな……好きな色にしてくれ。",
+            "ガロファノ Response 2": "あら……困りましたね。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ガロファノは柔らかい生地を触っている]",
+            "ガロファノ Question": "これを使ってパジャマをあなたに贈りたいと思っています。きっと似合うことでしょう。",
+            "Chief Question 1": "ありがとう、着心地がよさそうだ。",
+            "ガロファノ Response 1": "これを着ることで、ぐっすり眠れるといいのですが。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "すまない、面倒をかけて。",
+            "ガロファノ Response 2": "いいえ、滅相もございません。もっと……お役に立ちたいのです。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        }
+    },
+    "エウレカ": {
+        "Emotion Check 1": {
+            "Open": "[エウレカは旅行会社のチラシを整理している。]",
+            "エウレカ Question": "旅行に行くなら……どのツアーにする？",
+            "Chief Question 1": "自由行動の時間が多いツアーがいい。",
+            "エウレカ Response 1": "わたしも旅行はのんびりがいいと思う！インスピレーションが湧いてきた時、ゆっくり考える時間が欲しいから……今度一緒に行こうね！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "休日は限られているから、できるだけ観光地をたくさん回れるツアーがいい。",
+            "エウレカ Response 2": "そうか……いつも忙しいもんね……うーん、仕事の能率を上げる発明ならあると思うけど、考えてみるね……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[エウレカはSF映画を紹介する雑誌を読んでいる。]",
+            "エウレカ Question": "こういう映画に出てくる道具はどれも面白そうだね……何か作ってほしい映画の道具とかある？",
+            "Chief Question 1": "透明マントがほしい。",
+            "エウレカ Response 1": "うーん、カメラとスクリーンの素材で何とかなると思うけど……顔を隠すのは無理っぽいね。頭だけ宙に浮いてる感じになるけど、それで大丈夫？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "ビームソードがほしい。",
+            "エウレカ Response 2": "あっ！あれいいよね！昔似たようなものを作ったことがあるの！安全性を考慮して出力を制限したから、卵も茹でられないけど……色を付ける程度ならできるよ。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        }
+    },
+    "アザミ": {
+        "Emotion Check 1": {
+            "Open": "[アザミは慌てた様子で、書きかけの手帳を閉じた]",
+            "アザミ Question": "いつ来たの？なんでそんな目で私を見てるのよ？こっちに来ないで！私はただ……手帳を書いてるだけよ！",
+            "Chief Question 1": "ふむ……私の顔のコラージュが見えたような気がしたが。",
+            "アザミ Response 1": "そんなことない、きっと見間違えただけ！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_6.png",
+            "Chief Question 2": "内容が少し気になっただけだ。",
+            "アザミ Response 2": "ふん、記録したものは私の一番大切なものだから、気軽に他の人に見せないわよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[アザミは管理局のグラウンドで怪我をした小さな野良猫を見つけた]",
+            "アザミ Question": "血がたくさん出てるわね。局長、助けてもいい？",
+            "Chief Question 1": "ああ、世話はあなたに任せていいか？",
+            "アザミ Response 1": "見る目あるじゃない。野良猫とか野良犬の世話をするのは一番得意……ゴホン、やってみる。うん、やってみるだけ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "医療スタッフに任せよう。",
+            "アザミ Response 2": "……毎日この猫の訪問申請出すから……あなたが思ってるような意味じゃないわよ。私はただ……ただ、死んでないか確認したいだけ……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "シュルマ": {
+        "Emotion Check 1": {
+            "Open": "[朝、シュルマは目の下にひどいクマがある顔で部屋から出てきた]",
+            "シュルマ Question": "おはよう、局長。え？目の下のクマ？昨夜は作文を書いていたから寝るのが遅かったの。お気遣いありがとう。でも私のことは心配しなくて大丈夫よ。",
+            "Chief Question 1": "昨日の宿題に作文はなかったはずだが？",
+            "シュルマ Response 1": "試験が近いから！作文の思弁能力を鍛えたかったの！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "午前4時に掲示板のトップを飾ったこの「作文」のことか？",
+            "シュルマ Response 2": "そんなの知らないし……嫌な大人！はいはい、これからは早く寝るけど、ネットは切らないでね！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[道端にいた子猫が背中を丸め、近づいてくるシュルマに向かって威嚇するように鳴いた]",
+            "シュルマ Question": "ああ、まただわ……局長、どうすれば猫ちゃんと仲良くなれるの？",
+            "Chief Question 1": "私なら魚の缶詰で誘惑する。",
+            "シュルマ Response 1": "ああ、猫ちゃんが行っちゃった……今度出かける時は小魚の干物を持ち歩くわ。え？あなたが持ってくれるの？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_2.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ],
+            "Chief Question 2": "代わりにぬいぐるみを選ぶ。",
+            "シュルマ Response 2": "バカみたい……え？聞き間違いよ。何も言ってないわ。今の？きっと風の音よ。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        }
+    },
+    "プリシラ": {
+        "Emotion Check 1": {
+            "Open": "[プリシラは、あなたが自分を見つめているのに気づいたようだ]",
+            "プリシラ Question": "あら？あたしのマスクに興味ある？",
+            "Chief Question 1": "ちょっと借りてもいいか？",
+            "プリシラ Response 1": "それを付けると、正式に我々の一員よ。よくよく考えてね。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "テトラも似たようなものを持っていたな。",
+            "プリシラ Response 2": "今更気づいたの？しかも彼女、あたしのデザインをパクったのよ！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[プリシラは小道具を拭き取っている]",
+            "プリシラ Question": "前のショーから随分と時間が経ってるから、小道具の中には埃をかぶってるものもあるのよ。",
+            "Chief Question 1": "また怪盗になるつもりか？",
+            "プリシラ Response 1": "あたしは今も正義の味方、怪盗バニーよ！金持ちから奪い、貧者に施してるの！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "任務に行きたいのか？",
+            "プリシラ Response 2": "うんうん！キラキラなステージやスポットライトがある所がいいわ！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        }
+    },
+    "ルリエカ": {
+        "Emotion Check 1": {
+            "Open": "[ルリエカはあなたの執務室を跳ね回っている]",
+            "ルリエカ Question": "局長！局長！！一緒にゲームをしようよ！",
+            "Chief Question 1": "構わないが、まずはそのリボルバーを下ろしてくれ。",
+            "ルリエカ Response 1": "賭けるものがないと面白くないよ！狂気の沙汰ほど面白い……ってね！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "先に言っておくが、運が絡むゲームはお断りだ。",
+            "ルリエカ Response 2": "あ……なんで！ルリはイヤだよ！早く遊ぼうよ！ねっ！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ルリエカはとても落ち込んでいるように見える]",
+            "ルリエカ Question": "はぁ……最近四葉のクローバーが全然見つからない……ルリの能力、効いてないのかな？",
+            "Chief Question 1": "クローバーは大抵三葉じゃないのか？",
+            "ルリエカ Response 1": "ふふっ、局長みたいに運が悪いと、きっと一生四葉のクローバーを見つけられないんだね。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ],
+            "Chief Question 2": "代わりに四葉のクローバーのバッジを拾った、ほら。",
+            "ルリエカ Response 2": "わぁ！ルリがこの前失くしたやつだ！ありがとう、局長！やっぱりルリは幸運に恵まれてるね！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        }
+    },
+    "クズリ": {
+        "Emotion Check 1": {
+            "Open": "[クズリは期待に満ちた表情であなたを見つめている]",
+            "クズリ Question": "腹……減った。",
+            "Chief Question 1": "任務が完了したら、晩飯は肉だ。",
+            "クズリ Response 1": "ああ、約束だ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "まだ食事の時間じゃない、我慢しろ。",
+            "クズリ Response 2": "ちぇ……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[クズリは少し慌てふためいている]",
+            "クズリ Question": "ピーちゃん……騒がさないで。お前、助けてくれ。",
+            "Chief Question 1": "（ピーちゃんの首の後ろを掴んで持ち上げる）",
+            "クズリ Response 1": "優しくしてやってくれ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "（ピーちゃんを拾い上げ、クズリに渡す）",
+            "クズリ Response 2": "お前……よく分かってるな。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "マチルダ": {
+        "Emotion Check 1": {
+            "Open": "[マチルダがあなたを射撃場へ誘った]",
+            "マチルダ Question": "局長、管理局の射撃場利用規定について、たたき台を作成しました。ご確認ください。",
+            "Chief Question 1": "現在の規定で十分だと思うが……",
+            "マチルダ Response 1": "いえ、まだ留意すべき細かい部分がたくさんあります。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "真剣に読もう。",
+            "マチルダ Response 2": "ご指摘をお待ちしています。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[マチルダがあなたの執務室にやってきた]",
+            "マチルダ Question": "局長、休憩中にするべき最も価値のあることは何だと思いますか？",
+            "Chief Question 1": "休み時間はしっかりリラックスを……",
+            "マチルダ Response 1": "リラックスも一つの価値でしょうか？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Chief Question 2": "様々な趣味を開拓することだ。",
+            "マチルダ Response 2": "承知しました。スケジュールに趣味の開拓を追加します。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "煙煙": {
+        "Emotion Check 1": {
+            "Open": "[図書室の入り口で異常が検出された。煙煙が神話の本を全て取り出したせいで、そのうちの1冊が偶然ドアに挟まってしまったのが原因だ]",
+            "煙煙 Question": "あれ？局長、なんでここにいるの？",
+            "Chief Question 1": "煙煙は神話が好きなのか？",
+            "煙煙 Response 1": "もちろん！伝説とか故事って場所によって全然違うんだもん。えへへ、ディスの神話もすごく面白いね！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "本の片付けを忘れないようにな。",
+            "煙煙 Response 2": "待って待って、これを読み終わったらね！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[煙煙は手作りの料理を持ってあなたの執務室に急いで入ってきた]",
+            "煙煙 Question": "ほらほら、局長も食べてみて？ウチが時間をかけて作った故郷の料理なんだ！",
+            "Chief Question 1": "分かった、今食べよう！",
+            "煙煙 Response 1": "ふふん、美味しいでしょ。麺も自分で作ったんだよ～",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "待ってくれ、机を片付ける。",
+            "煙煙 Response 2": "早く早く～熱くて持ってられないよ！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        }
+    },
+    "ジェイン": {
+        "Emotion Check 1": {
+            "Open": "[ジェインは管理局の警備配置図を見ながら考え込んでいる]",
+            "ジェイン Question": "まだ……隙があるような気がする……",
+            "Chief Question 1": "何か思うところがあるようだな。改善策を提案してもらえないか？",
+            "ジェイン Response 1": "もちろん。詳細な計画書を提出する！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "警備の目をかいくぐってみたいのか？",
+            "ジェイン Response 2": "無意識に分析していただけで……絶対にそんなつもりはない。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ジェインがあなたに報告するために執務室にやって来た]",
+            "ジェイン Question": "割り当てられた任務は全部完了した。次の指示を頼む。",
+            "Chief Question 1": "最近調子がいいな。ナイチンゲールにもっと難しい任務を申請しても構わないぞ。頑張ってくれ。",
+            "ジェイン Response 1": "あなたの期待は裏切らない。局長。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "じゃあ屋外エリアでの散歩に付き合ってくれ。",
+            "ジェイン Response 2": "そ、それも任務の一部なのか……了解した、局長。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "ビクトリア": {
+        "Emotion Check 1": {
+            "Open": "[ビクトリアは部屋でずっと感心している]",
+            "ビクトリア Question": "ああ……この閉ざされた空間、とても落ち着くわ。",
+            "Chief Question 1": "そうだ、君への全ての脅威を隔離している。",
+            "ビクトリア Response 1": "そうよ……そうなの……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Chief Question 2": "逃げ出したくないのか？",
+            "ビクトリア Response 2": "外の世界は、危険なの……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[あなたは警報を受けるとすぐにビクトリアの部屋に駆けつけた]",
+            "ビクトリア Question": "また……多くの血が流れている……どうしよう……",
+            "Chief Question 1": "能力を使えば出血が止まる。",
+            "ビクトリア Response 1": "パパが見たらまた怒っちゃう……",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "動くな、薬を用意しよう。",
+            "ビクトリア Response 2": "これが……局長の「愛」なの？",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        }
+    },
+    "イグニ": {
+        "Emotion Check 1": {
+            "Open": "[キャラメルプリンを持って、イグニに会いに来た]",
+            "イグニ Question": "あなた……わざわざわたしに会いに来たの？",
+            "Chief Question 1": "ああ、キャラメルプリンも持ってきた。",
+            "イグニ Response 1": "ふ、ふん……そんな嘘に騙されないわ。あと……感謝とか、絶対にしないから。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "少しは落ち着いたか。",
+            "イグニ Response 2": "わたしはもう昔のイグニじゃない！馬鹿にしないで！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[管理局の厨房で、イグニはため息が止まらないようだ]",
+            "イグニ Question": "ううっ……一体どうしたら料理ができるようになるんだろう。",
+            "Chief Question 1": "また厨房を焼いたのか？料理はケルビンがいれば十分だ。",
+            "イグニ Response 1": "待ってなさい！できたら見せてあげるから！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "私が手伝おう。イグニはおつまみを用意してくれないか。",
+            "イグニ Response 2": "だ……ダメじゃないけど、でも最初に味見するのはわたしだからね！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_5.png"
+            ]
+        }
+    },
+    "ルヴィア・レイ": {
+        "Emotion Check 1": {
+            "Open": "[ルヴィアのように見える]",
+            "ルヴィア・レイ Question": "しっ、静かにしてください。レイは眠っています……",
+            "Chief Question 1": "いつもこんな風に仲良しだといいのだがな。",
+            "ルヴィア・レイ Response 1": "ふふ……実は私たち、それなりにうまくやっているんですよ。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "よかった、ようやく口喧嘩する相手がいなくなった。",
+            "ルヴィア・レイ Response 2": "しっ！それを言わないで！もし彼女に聞かれたらまずいです！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[彼女は少しイライラしていて、レイのようにも見える]",
+            "ルヴィア・レイ Question": "新作のキャスティング……すべて脇役でした。",
+            "Chief Question 1": "今回オーディションに行くときは、任務も忘れずにな。",
+            "ルヴィア・レイ Response 1": "はぁ……努力します。ああ……また任務かぁ。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ],
+            "Chief Question 2": "瑠璃も玻璃も照らせば光る。頑張れ。",
+            "ルヴィア・レイ Response 2": "はい、頑張りますね～！そうすればきっといつか成功できます！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        }
+    },
+    "ヘカテー": {
+        "Emotion Check 1": {
+            "Open": "[ヘカテーは今日の予定を尋ねてきた]",
+            "ヘカテー Question": "局長、本日のご命令を。",
+            "Chief Question 1": "本日の命令は、ちゃんと休みをとることだ。",
+            "ヘカテー Response 1": "ええ、了解。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "今のところ、君に適した任務はない。",
+            "ヘカテー Response 2": "命令がない……それならわたしの存在意義はなんだろう……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ヘカテーは過去の作戦記録に目を通している］",
+            "ヘカテー Question": "わたしが消えても、次の「ヘカテー」がいます。その時にはわたしを忘れてください。",
+            "Chief Question 1": "慣れるように頑張るとしよう。",
+            "ヘカテー Response 1": "もう……躊躇わないでくださいね。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "君の代わりは誰もいない。",
+            "ヘカテー Response 2": "……今度こそ、悲劇が再び起きないように。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
+    "オリバー": {
+        "Emotion Check 1": {
+            "Open": "[オリバーは人形をあなたに渡した]",
+            "オリバー Question": "局長～、オリバーと遊ぼ？",
+            "Chief Question 1": "私たち二人だけで？",
+            "オリバー Response 1": "局長が賑やかなのが好きなら、部屋中のぬいぐるみを全部持ってくるよ！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "大事な仕事がある。一人で遊んでくれ。",
+            "オリバー Response 2": "そうだね……忙しい局長のことだから、オリバーの願いなんて聞き入れてくれるわけないもんね。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_2.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ボロボロになったオリバーが寝室で横になっている]",
+            "オリバー Question": "局長……痛い……痛いよ……",
+            "Chief Question 1": "また危険なことをしたの？",
+            "オリバー Response 1": "き、危険なこと……何それ？オリバー分からない。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "誰にいじめられた？",
+            "オリバー Response 2": "お、オリバーが勝手にちょっと転んだだけ！管理局のみんなはいい人だし、優しくしてくれてるよ……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        }
+    },
+    "ラミア": {
+        "Emotion Check 1": {
+            "Open": "[執務室から出ると、ラミアがすぐ心配そうに近寄ってきた]",
+            "ラミア Question": "局長、お疲れのようですね。リラックスが必要ではありませんか？",
+            "Chief Question 1": "……異能力を使うつもりか？",
+            "ラミア Response 1": "もちろん違いますよ！そんなに私を警戒しなくても……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_6.png",
+            "Chief Question 2": "リラックスとは？",
+            "ラミア Response 2": "お風呂は如何でしょう。温かいお湯は疲れを洗い流してくれますよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ラミアは娯楽エリアで青春学園映画を観賞している。彼女は少し戸惑っているようだ]",
+            "ラミア Question": "学生時代とはいったいどのようなものでしょう？なぜ大勢の人がその日々を懐かしむのでしょうか？",
+            "Chief Question 1": "その頃は悩みも生活のストレスもないからだろうか。",
+            "ラミア Response 1": "悩みがないとはどういう感じなのでしょう？私はそんな体験をしたことがない気がします。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Chief Question 2": "多くの人がその頃に最も純粋な感情でいられたからじゃないか。",
+            "ラミア Response 2": "純粋な感情……想像しにくいですね……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
+    "アイカ": {
+        "Emotion Check 1": {
+            "Open": "[アイカが催眠室でよく使われる穏やかな音楽を何曲か聞いている]",
+            "アイカ Question": "うーん、どれもフワフワしててパンチが足りないなぁ。やっぱりアタイの演奏を録音して催眠室のプレイリストに追加した方がいいと思う。きっと役に立つよ～",
+            "Chief Question 1": "あなたは悪くないが、催眠室の主旨にそぐわない。",
+            "アイカ Response 1": "そぐわない？何で？アタイの演奏はとっても多彩だよ～劇場の裏口でパフォーマンスした時なんて、聞き終わったら地面で寝ちゃう酔っ払いが何人もいたんだから～",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "独房こそ、あなたのような素晴らしい音楽が必要だ。",
+            "アイカ Response 2": "え？独房？そこって暗くて小さい部屋だよね。出てくる前に音楽を聞かなきゃなの？もちろんいいよ。最後まで聞いたら、絶対アタイのサックスに感動するはずだから～",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[アイカがサックスを抱えてあなたのもとにやって来た]",
+            "アイカ Question": "今日はいい日だよ。天才サックス奏者の最高な演奏にリクエストモードが追加されたんだ！さぁ、聞きたい曲を言ってみて～",
+            "Chief Question 1": "選べる曲を教えてもらえるか？",
+            "アイカ Response 1": "「心の瞬間」、「家を離れ」、「地獄の約束」、「危険な夜」、「赤い花」……ふふん、見くびらないで。キミが聞きたいなら、楽譜を全部暗唱してあげるよ～",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "私の好みは比較的ニッチで、少し難しいかもしれない。",
+            "アイカ Response 2": "なんでそう言い切れるの？わざとアタイを困らせようとしてる？分かった、その挑戦受けて立つよ！聞きたい曲は何でも言って。すぐ楽譜を調べるから！アタイみたいな天才は、パッと見ただけで華麗に演奏できちゃうんだよ～",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        }
+    },
+    "アリエル": {
+        "Emotion Check 1": {
+            "Open": "[アリエルは左右を見回して、少し慌てた様子だ]",
+            "アリエル Question": "皆さん、どうしていつもわたくしを見つめているんでしょう……",
+            "Chief Question 1": "君があまりに美しいからだ。",
+            "アリエル Response 1": "ほ……本当ですか！ありがとうございます！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "スペンサー一族は有名だからな。",
+            "アリエル Response 2": "……優秀なのは兄と姉であって、わたくしではありません。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[任務の後、アリエルはあなたに謝った]",
+            "アリエル Question": "わたくしは……いつも皆さんの足を引っ張っているようです……",
+            "Chief Question 1": "これからも頑張れ。",
+            "アリエル Response 1": "ごめんなさい……もっともっと頑張りますから！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Chief Question 2": "君はみんなの力だ、あきらめるな。",
+            "アリエル Response 2": "皆さん、わたくしの手を離さないでくださいね。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        }
+    },
+    "カメリアン": {
+        "Emotion Check 1": {
+            "Open": "[カメリアンの個人診療所に招待された]",
+            "カメリアン Question": "最近の睡眠はどう？まだわたしの助けが必要かしら？",
+            "Chief Question 1": "……待ってくれ、君から何か助けを受けていただろうか？",
+            "カメリアン Response 1": "ふふ、いい反応ね。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "必要ない。もともと睡眠の質は良いからな。",
+            "カメリアン Response 2": "あら、そうだったの？それはそれで好都合なのよね。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[カメリアンはカルテを書きながらため息をつく]",
+            "カメリアン Question": "最近、治療を受けに来る人が急に増えたけど、何か思い当たることはない？",
+            "Chief Question 1": "最近の任務のストレスのせいか？",
+            "カメリアン Response 1": "さぁ、それはどうかしら。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "みんなが君の心理療法に満足しているのかもな。",
+            "カメリアン Response 2": "みんなの心の中の猛獣が目覚めるのももうすぐよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        }
+    },
+    "アン": {
+        "Emotion Check 1": {
+            "Open": "[アンは以前の写真を感慨深く眺める]",
+            "アン Question": "子供はとてもかわいいですね……純真で、優しい。",
+            "Chief Question 1": "大勢の天使を守ってくれたのだな。",
+            "アン Response 1": "もちろんです。彼らがいる場所は天国のように感じられます。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "ぐずっているときは可愛くないがな。",
+            "アン Response 2": "子供なら誰しもそういう時期があります。そう怒らないでください。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[患者の容態が思わしくなく、アンは少し慌てている]",
+            "アン Question": "悪化し始めた患者さんがいます。あの時の彼岸クリニックのように……",
+            "Chief Question 1": "今度こそ成功するはずだ。",
+            "アン Response 1": "でも……あの時……私は何もできませんでした。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_6.png",
+            "Chief Question 2": "今ならもっとできるはずだ。私も手伝おう。",
+            "アン Response 2": "ええ……ありがとうございます、局長さん。精一杯頑張ります！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        }
+    },
+    "Mr.Fox": {
+        "Emotion Check 1": {
+            "Open": "[Mr.Foxがあなたの目の前でお金を数えている]",
+            "Mr.Fox Question": "最近は多くの訴訟で勝訴が続いています。悪くない収入ですね。",
+            "Chief Question 1": "電子マネーに替えておくと便利でお勧めだ。",
+            "Mr.Fox Response 1": "いい考えですね。それにしても、あなたは私のアカウントを監視してはいないですよね？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "そうだな。だが、私の机の上でお金を数えるのはやめてくれないか？",
+            "Mr.Fox Response 2": "ほう？こうした行動は法律で禁じられているのですか、局長さん。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[Mr.Foxはため息をつく]",
+            "Mr.Fox Question": "最近の弁護を依頼された案件は、受けたくない案件ばかりなんですよ。",
+            "Chief Question 1": "君にも引き受けたくない案件があるのか。報酬が安いのか？",
+            "Mr.Fox Response 1": "はぁ……金より大切な物もあるのですよ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Chief Question 2": "受けたくないなら、ここで私の仕事ぶりを見ているといい。",
+            "Mr.Fox Response 2": "まあ……確かに暇潰しにはなりそうですね。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "トト": {
+        "Emotion Check 1": {
+            "Open": "[トトが皿いっぱいのトンカツを持って厨房から出てきた]",
+            "トト Question": "おっ、あんたも何か食べに来たのか？",
+            "Chief Question 1": "ああ、任務が終わったばかりで少しお腹が空いたからな。",
+            "トト Response 1": "今日のトンカツはなかなか美味しいから、盛ってあげるよ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "いや、たまたま通りがかっただけだ。",
+            "トト Response 2": "じゃあ、あたしが食べるのを見てなよ。そのうち食欲が湧いてくるかもしれないよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[トトが大きな声で自分のチャルメラ塾を宣伝している]",
+            "トト Question": "へいらっしゃい！最初の20人の生徒は授業料が半額だよ——なぁ、そこのあんた、チャルメラに興味はないかい？",
+            "Chief Question 1": "何人が申し込んだ？",
+            "トト Response 1": "あんたがみんなの手本とならなきゃ！さあさあ、出血大サービスしてあげるよ！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "忙しいんだ。",
+            "トト Response 2": "薄情な！上司として率先してあたしの事業を応援すべきじゃないか！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "レタ": {
+        "Emotion Check 1": {
+            "Open": "[レタはこっそりあなたの部屋に入り込んだ]",
+            "レタ Question": "局長局長、冒険できる新しい場所を見つけたよぉ！",
+            "Chief Question 1": "仕事が終わってから行く。",
+            "レタ Response 1": "うふふ、早くしてねぇ。今回の冒険はきっと前のより面白いから～",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "次入る前にはノックしてくれ。",
+            "レタ Response 2": "うっ、今度はノックするよぉ、今度は……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[あなたは管理局を抜け出してこっそりと外で遊ぶレタを捕まえた]",
+            "レタ Question": "あれ……わたしは、どうしてこんなところに……",
+            "Chief Question 1": "……管理局の壁を更に厚くしないといけないようだ。",
+            "レタ Response 1": "や、やめてよぉ。次に外で遊ぶ時には、あなたも一緒に連れていってあげるから！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "……まぁいい、一緒に戻ろう。次はないぞ。",
+            "レタ Response 2": "うふふ、ありがとう、局長……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        }
+    },
+    "カシア": {
+        "Emotion Check 1": {
+            "Open": "[カシアは娯楽エリアで香水のレビューサイトを見ている]",
+            "カシア Question": "香水の香りがますます複雑になって、工業製品のようになっているわ。このままだと純粋な香りが消えてしまう……香水のレビューまで、工業製品の匂いがする……",
+            "Chief Question 1": "香水の好みは皆それぞれだ。そんなレビューは気にするな。",
+            "カシア Response 1": "可哀そうに……彼らにもこの世の一番純粋な香りを嗅いでほしいわ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Chief Question 2": "それはあなたの香水へのレビューか？今はもう売ってないはずだ。偽物だろう。",
+            "カシア Response 2": "私が作った香水の香りをコピーできても、彼ら自身の匂いは腐臭に塗れているでしょうね。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[美人コンテストの審査員にと、カシアは再び招待を受けた]",
+            "カシア Question": "どれが一番の香料……いや、美人なのか、判別してほしいのね。私が行く必要がありそうだわ……",
+            "Chief Question 1": "分かった。私も付き添おう。",
+            "カシア Response 1": "それなら、最終的な優勝者はあなたになるわね～",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "前回あなたは匂いを嗅ぐために全ての選手にくっついていたのに、それでもまだ頼まれるのか？",
+            "カシア Response 2": "私の判別が最も説得力があると、主催の方も分かっているからでしょう……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        }
+    },
+    "ショーン": {
+        "Emotion Check 1": {
+            "Open": "[ショーンは再び携帯電話を頻繁に見るようになり、メッセージが届くたびに素早く返信している］",
+            "ショーン Question": "「そんなこと考えちゃダメだよ、ハニー。彼らがあなたを大事にしないのは、センスがないからだ」……ふぅ、やっと落ち着いてくれた。管理局のローカルネットワークにも、愛を求める人がこれほどいるとはね。",
+            "Chief Question 1": "直線距離が近いのに、ネット恋愛をする必要があるのか？",
+            "ショーン Response 1": "インターネットのケーブルとスクリーンを通じて届く愛には、独特の味わいがあるんだ。より純粋で、より自由な……あなたも試してみないか？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "直線距離が近いから、殴られたりしないのか？",
+            "ショーン Response 2": "真摯な愛は、そんな醜いことにはならない。だが、もしそれで相手を幸せにできるなら……私は喜んでこの身を捧げよう。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ショーンは、何度更新しても端末に表示されるネットワーク切断通知にイライラしているようだ］",
+            "ショーン Question": "午後3時に復旧すると言っていただろう？なぜまだ何も変わっていないんだ？管理局の通常業務に影響はないのか？",
+            "Chief Question 1": "管理局の通常業務を気にかけるのは珍しいな。",
+            "ショーン Response 1": "あなたが毎日していることだし、もちろん私も気にしているよ。そう感動することじゃない。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "メンテナンスの2時間延長通知が食堂に貼り出されていたぞ。",
+            "ショーン Response 2": "オフラインで通知しているのか？まさか誰も局内掲示板に写真をアップしていないなんて。ああ、そうか。ネットが使えないんだったな……クソ……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "K.K.": {
+        "Emotion Check 1": {
+            "Open": "[K.K.はあなたの執務室で指示を待っている]",
+            "K.K. Question": "何か手伝いできることはない？",
+            "Chief Question 1": "錆の川の任務で人手が不足している。行きたいか？",
+            "K.K. Response 1": "こういうのも悪くない……じゃ、出発しようか。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "……ない。",
+            "K.K. Response 2": "もしかして私……失業しちゃうの？",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[K.K.が仲間のことを聞いてきた]",
+            "K.K. Question": "ハクイツの奴は？またどっかに行ったのか？",
+            "Chief Question 1": "完了できない任務でもあるのか？",
+            "K.K. Response 1": "ふん……彼女が手を出すまでもないよ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "おそらく、地下室でサボっているのだろう。",
+            "K.K. Response 2": "あのハクイツのことだからな……はぁ、予算はどうしよう……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+        }
+    },
+    "デモーリー": {
+        "Emotion Check 1": {
+            "Open": "[任務を終えたデモーリーは、残りの時間をどう過ごそうか考えている]",
+            "デモーリー Question": "今日は何をしたらいいかな？局長はどうして欲しい？",
+            "Chief Question 1": "チェスをしよう。",
+            "デモーリー Response 1": "おお！いいね！ディスチェスをやろうか！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "勉強しよう。",
+            "デモーリー Response 2": "いーやーだ！勉強するくらいなら、錆の川で任務する方がましだ！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[デモーリーは彼女のコレクションを数えている]",
+            "デモーリー Question": "あたいのコレクションに何か支援してくれるのかい、局長？",
+            "Chief Question 1": "管理局の建材がまだ残っていて、中には良い材質のものもある。",
+            "デモーリー Response 1": "ちょっと、欲しいのはこれじゃない！もっと珍しいやつ！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_2.png",
+                "atlas/monthsign/sprite_dailysign_face_2.png"
+            ],
+            "Chief Question 2": "ああ……ちょっと前に拾った決闘頭巾はどうだろう？",
+            "デモーリー Response 2": "あれ……ぱっと見ちょっとダサいけど、実際につけてみると意外とかっこいいじゃん！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_5.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        }
+    },
+    "ペギー": {
+        "Emotion Check 1": {
+            "Open": "[ペギーは手早く歌詞を書いている]",
+            "ペギー Question": "ようっ！局長じゃないか。なんだ、ラップでも聴きたいのか？",
+            "Chief Question 1": "もちろん。今日は何か新作はあるか。",
+            "ペギー Response 1": "はぁ？新作？そんなの、毎日あるぜ。まずは定番のを聞かせてやるよ。これはシンジケートのトラップビート。お前ナニサマ、その間抜けな様……",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_2.png"
+            ],
+            "Chief Question 2": "違う。あなたの歌にはラップ味が足りないと不満を言っていた人がいたんだ。",
+            "ペギー Response 2": "そいつらに失せろって言っとけ！やつらはラップのことを何も分かってない！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ペギーは苛立った様子で部屋の散乱物を蹴る]",
+            "ペギー Question": "ミキサーをくれるって言ってなかったっけ？どこにあるんだよ？",
+            "Chief Question 1": "調達部門はもうこれをリストに追加した。",
+            "ペギー Response 1": "まったくやってらんないぜ！あたしがこんな屈辱を受けるなんて！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_5.png",
+                "atlas/monthsign/sprite_dailysign_face_5.png"
+            ],
+            "Chief Question 2": "ジョーンからミキサーを借りてくるよ。",
+            "ペギー Response 2": "あれの仕組みは複雑すぎて、使い勝手が分からない！はぁ……やっぱりレコーダーの方が使いやすい。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "ヘラ": {
+        "Emotion Check 1": {
+            "Open": "[任務を完了したヘラが執務室の床に直接横たわっている]",
+            "ヘラ Question": "ねぇ——ご褒美とかないの？ディスコインがいいんだけど。",
+            "Chief Question 1": "調達部門のお菓子を食べるか？これしかないが。",
+            "ヘラ Response 1": "ふん、分かってるじゃない。今度は多めに持ってきてよ。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "ないな。任務を完了すれば考えてやってもいい。",
+            "ヘラ Response 2": "なによ？局長だからって偉そうに。その言葉、次の任務の時まで覚えといてよね！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[あなたを見て、ヘラは驚いた]",
+            "ヘラ Question": "ちぇっ、あたしがここに隠れてるってナインちゃんが言ったの？",
+            "Chief Question 1": "そうだ、彼女はすぐに教えてくれたよ。",
+            "ヘラ Response 1": "嘘言わないで！ナインちゃんはあたしを裏切ったりしない！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ],
+            "Chief Question 2": "自力で見つけた。",
+            "ヘラ Response 2": "ふん、少しはやるようになったじゃない……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        }
+    },
+    "澈": {
+        "Emotion Check 1": {
+            "Open": "[澈は目覚めたばかりのように目をこする]",
+            "澈 Question": "何だ？お前もサボりに来たのか？",
+            "Chief Question 1": "サボりたいわけじゃないが、ただ静かに過ごせる場所を探している。",
+            "澈 Response 1": "奇遇だね、俺もだいたいそんな感じだよ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "探し物があって来ただけだ。まさか人がいるとは思わなかった。",
+            "澈 Response 2": "あっそ。じゃ俺のことは放っておいてくれ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[澈は少し戸惑ったようにあなたを見ている]",
+            "澈 Question": "毎日のように俺たちコンビクトと一緒にいて、何か面白いか？",
+            "Chief Question 1": "仕事は仕事だ。面白いも面白くないもない。",
+            "澈 Response 1": "はっ、随分と冷めた考えだな。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Chief Question 2": "まあまあだな。少なくとも毎日退屈はしない。",
+            "澈 Response 2": "確かに退屈はしないが、もう少し楽ができるといいんだけどな。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "ペッパー": {
+        "Emotion Check 1": {
+            "Open": "[ペッパーが楽しそうに執務室に駆けつけた]",
+            "ペッパー Question": "局長、一緒に悪いことをしよう！何か提案ある？",
+            "Chief Question 1": "はぁ、今日調達部門からコーラを持っていったのはどこの誰だったかな。",
+            "ペッパー Response 1": "ん？悪くないアイデアだろう！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "大人しくしていてくれ。",
+            "ペッパー Response 2": "はぁ……退屈すぎて体が錆びてしまうよ。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ペッパーは管理局のグラウンドでとても不機嫌そうに立っている]",
+            "ペッパー Question": "任務より、畑仕事の方が面白いな……",
+            "Chief Question 1": "任務でシンジケートに行き、ついでに探検するというのでは駄目か？",
+            "ペッパー Response 1": "はぁ……行きたくない……うちは畑仕事がいい！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Chief Question 2": "裏庭に行こう。水やりを手伝ってくれるフローラに出会えるかもしれない。",
+            "ペッパー Response 2": "いいの？ありがとう、局長！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        }
+    },
+    "ラビリンス": {
+        "Emotion Check 1": {
+            "Open": "[ラビリンスは早くから執務室で待機しているようだ]",
+            "ラビリンス Question": "局長様を発見いたしました。プロセスの待機中です。",
+            "Chief Question 1": "まずはクリーニングを行い、完了後にホームモードに入ろう。",
+            "ラビリンス Response 1": "承りました。ラビリンス、任務準備に移行します。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "かわいいユニットに直接切り替えられないか？",
+            "ラビリンス Response 2": "システムが申請を取り下げました。入力要求：次のプロセスを指定してください。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ラビリンスは管理局を掃除している]",
+            "ラビリンス Question": "局長様。そこにいられると、ラビリンスの作業に支障をきたします。",
+            "Chief Question 1": "普通にコミュニケーションできるんだな。",
+            "ラビリンス Response 1": "戦闘形態、起動準備。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ],
+            "Chief Question 2": "ラビリンスにお茶を入れてもらう。",
+            "ラビリンス Response 2": "ラビリンス、承りました。現在の感情：愉快。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        }
+    },
+    "ゲツライコウ": {
+        "Emotion Check 1": {
+            "Open": "[ゲツライコウはダガーを磨いている]",
+            "ゲツライコウ Question": "次の相手は……誰だ……",
+            "Chief Question 1": "相応しい相手を手配する。",
+            "ゲツライコウ Response 1": "それは楽しみね……ふふ……",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "シンジケートのマフィアはどうだ？",
+            "ゲツライコウ Response 2": "それではダメ……相手のレベルが低すぎる。花庭園が来るのはいつ？",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ゲツライコウは両手を握りしめ、怒っているように見える]",
+            "ゲツライコウ Question": "花庭園！よくもまた私のターゲットを！",
+            "Chief Question 1": "また同じことが起きたら、管理局に助けを求めるように。",
+            "ゲツライコウ Response 1": "私の実力を疑ってるの？それとも……このナイフの切れ味を試したい？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "彼女たちが君のために特別対策を用意したようだ。",
+            "ゲツライコウ Response 2": "ハハ……待ってろ、今度は何をしても通用しないからな！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_5.png",
+                "atlas/monthsign/sprite_dailysign_face_5.png"
+            ]
+        }
+    },
+    "EMP": {
+        "Emotion Check 1": {
+            "Open": "[練習場にいるEMPはご機嫌のようだ]",
+            "EMP Question": "ふふ、シンジケートの無冠の王の姿を見ることを許してやろう。",
+            "Chief Question 1": "無冠の王よ、今日は何をいたしますか？",
+            "EMP Response 1": "もちろんゲーム！トランプとか、サイコロとか、麻雀とか、なんでもいいよ！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "……今度ふざけたら、錆の川の任務をやらせるぞ。",
+            "EMP Response 2": "わっ！ただの冗談だよ……冗談！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_3.png",
+                "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[練習場にいるEMPは機嫌が悪いようだ]",
+            "EMP Question": "邪魔しないで！練習中だから！",
+            "Chief Question 1": "どうせ当たらないのだから、練習は不要じゃないか？",
+            "EMP Response 1": "嫌だね！こっちの方が格好いい！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "弓の死神が矢を射ることができないのは問題じゃないか？",
+            "EMP Response 2": "それを言うなら、うぐいすパンの中に「うぐいす」を詰めないと！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        }
+    },
+    "フローラ": {
+        "Emotion Check 1": {
+            "Open": "[フローラはメモを取り、あなたに質問を始めた]",
+            "フローラ Question": "まさか、今日の消防の定期点検を忘れていないですよね？",
+            "Chief Question 1": "合計43箇所の消防箇所は全てチェック済みだ。",
+            "フローラ Response 1": "いいですね。火の元を断つ方がより未然に防げるというものです！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Chief Question 2": "あとでやるつもりだ。",
+            "フローラ Response 2": "駄目です。万が一火事になったらどうするんですか！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[訓練を終えたばかりのフローラは、少し落ち込んでいるようだ]",
+            "フローラ Question": "はぁ……どうしたら消防器具を上手く使えるんだろう。",
+            "Chief Question 1": "消防斧を使いこなす必要はない。消火ホースの操作に専念してくれ。",
+            "フローラ Response 1": "消防装備を疎かにしては駄目ですよ！",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Chief Question 2": "ホースを使って裏庭で水やりをしてはどうだろう？",
+            "フローラ Response 2": "なるほど……いいですね！",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        }
+    },
+    "ケルビン": {
+        "Emotion Check 1": {
+            "Open": "[ケルビンが食材の山を持って出迎えてくれる]",
+            "ケルビン Question": "局長、管理局の厨房に冷蔵室を増設できませんか？",
+            "Chief Question 1": "追加できるのは省エネ型の小型冷蔵庫だけだ。",
+            "ケルビン Response 1": "それなら、もっと野菜を置けるようになりますね。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "スペースが足りないんだ。この前イグニがキッチンを増やそうと申請したが、許可が下りなかった。",
+            "ケルビン Response 2": "はぁ……それなら余った食材は毎日能力で冷凍するしかないですね。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ケルビンは誰かに笑われたようだ]",
+            "ケルビン Question": "はあ……どうしてまだ卒業できないの……",
+            "Chief Question 1": "もしかして単位が足りないのか？普通はそれが原因だ。",
+            "ケルビン Response 1": "えっと……まさかそんなことまで分かるんですね。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "料理を先生に見せるといい、必ず卒業許可を出してくれる。",
+            "ケルビン Response 2": "はぁ……もし先生が私の理念に理解を示してくれればどんなにいいことか。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "ジョーン": {
+        "Emotion Check 1": {
+            "Open": "[ジョーンの部屋から歌声が聞こえてくる]",
+            "ジョーン Question": "Come as you are——",
+            "Chief Question 1": "as you were——",
+            "ジョーン Response 1": "へぇ……なかなかいいセンスだね。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "静かにしろ。スタッフは我慢の限界だ。",
+            "ジョーン Response 2": "グラウンドが使えない状態でなければ、ここで練習なんかしないよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[ジョーンは昔のライブの写真を眺めながら、考え込んでいる]",
+            "ジョーン Question": "いつになったらこの生活が終わるんだよっ！ライブに行きてえ。",
+            "Chief Question 1": "もう少し経てば状況は良くなるはずだ。",
+            "ジョーン Response 1": "はぁ……しばらくはここで一人遊びか。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "私に一番いい席を用意してくれ。",
+            "ジョーン Response 2": "その時は舞台の上に立つ本当のあたしの姿を見せてあげるよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        }
+    },
+    "マキアート": {
+        "Emotion Check 1": {
+            "Open": "[マキアートは心身ともに幸せそうだ]",
+            "マキアート Question": "気持ちよくなってしまう敵もいるのよ。",
+            "Chief Question 1": "その「趣味」が役に立ったようだな。",
+            "マキアート Response 1": "ふふ、彼らの反応を見ると、やりがいを感じるの。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "彼らは仕方なくそういう表情をしただけかもしれない。",
+            "マキアート Response 2": "あらあら、なら今度はもっと気持ちよくさせてあげないと。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[マキアートは居眠りしている]",
+            "マキアート Question": "ニューシティ銀行へようこそ！あっ、違う！管理局でした！",
+            "Chief Question 1": "居眠りは減給対象だ。気をつけてくれ。",
+            "マキアート Response 1": "局長……いやなことを思い出させないでください。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "無理に残業しなくてもいい。",
+            "マキアート Response 2": "ごめんなさい……職業柄でつい……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+        }
+    },
+    "リザー": {
+        "Emotion Check 1": {
+            "Open": "[リザーは絵を取り出し、テーブルに置いた]",
+            "リザー Question": "数枚の絵が届いたわ。しばらく楽しむことができそうね。",
+            "Chief Question 1": "君が笑顔になれるような絵を描けばいい。",
+            "リザー Response 1": "もちろんそれに越したことはないわ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "彼らは君の批評から逃げることができないのだろうな。",
+            "リザー Response 2": "『レベッカ』を再現できなければそうなるわね。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[リザーが画板の前に座り、ため息をつく]",
+            "リザー Question": "線が上手く書けないわ……",
+            "Chief Question 1": "手伝おうか？",
+            "リザー Response 1": "気持ちは嬉しいけど、手伝ってくれるよりも、自分自身の手で仕上げたいのよ。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Chief Question 2": "ほら、定規だ。",
+            "リザー Response 2": "あなたは……はぁ……もういい。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_2.png",
+                "atlas/monthsign/sprite_dailysign_face_5.png"
+            ]
+        }
+    }
+}

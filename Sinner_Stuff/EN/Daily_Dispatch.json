@@ -1,0 +1,2544 @@
+{
+    "0": {
+        "Id": 1001001,
+        "Quality": "Grey",
+        "DispatchTitle": "Ye Olde Whitestone",
+        "DispatchDescription": "An old customer placed an order at Whitestone. To uphold Whitestone's reputation, the order must be completed!",
+        "DispatchSinners": {
+            "Sinner": "K.K."
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Stone Raw Ore",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "1": {
+        "Id": 1001002,
+        "Quality": "Green",
+        "DispatchTitle": "Security Training",
+        "DispatchDescription": "The rest of the FAC wants the former security head of Serpent Eye to give them some security training.",
+        "DispatchSinners": {
+            "Sinner": "Cinnabar"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "2": {
+        "Id": 1001003,
+        "Quality": "Blue",
+        "DispatchTitle": "Secret Exchange",
+        "DispatchDescription": "A secret deal will take place at a drag ball, requiring the right person to sneak in and stop it.",
+        "DispatchSinners": {
+            "Sinner 1": "Cinnabar",
+            "Sinner 2": "Ignis"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "3": {
+        "Id": 1001004,
+        "Quality": "Purple",
+        "DispatchTitle": "Bewildering Chase",
+        "DispatchDescription": "The villain in the classified file has reappeared. We have pinpointed the event route.",
+        "DispatchSinners": {
+            "Sinner": "Demon"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "4": {
+        "Id": 1002001,
+        "Quality": "Grey",
+        "DispatchTitle": "No Man's Land",
+        "DispatchDescription": "The Syndicate thugs have been a bit restless recently. Maybe someone can infiltrate them to find out why.",
+        "DispatchSinners": {
+            "Sinner": "Hella"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Stone Raw Ore",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "5": {
+        "Id": 1002002,
+        "Quality": "Green",
+        "DispatchTitle": "No Defaulting",
+        "DispatchDescription": "The sponsor of the Big Belly eating competition has yet to issue the reward. After investigating, it appears to be related to an abnormal cash flow transaction.",
+        "DispatchSinners": {
+            "Sinner": "Ninety-Nine"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "6": {
+        "Id": 1002003,
+        "Quality": "Blue",
+        "DispatchTitle": "Rust Anomaly",
+        "DispatchDescription": "Some anomalies have occurred along the Rust. Professionals are required to deal with them.",
+        "DispatchSinners": {
+            "Sinner 1": "Ninety-Nine",
+            "Sinner 2": "Wendy"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "7": {
+        "Id": 1002004,
+        "Quality": "Purple",
+        "DispatchTitle": "Fatal Weapon",
+        "DispatchDescription": "A new type of weapon has recently become popular in Syndicate. The overlord of Syndicate and the leader of the Legion decided to personally investigate.",
+        "DispatchSinners": {
+            "Sinner": "Zoya"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "8": {
+        "Id": 1003001,
+        "Quality": "Grey",
+        "DispatchTitle": "Resource Source",
+        "DispatchDescription": "A studio under Quinn Media wants to create an anime based on the Sinners. A certain braggart volunteered to help.",
+        "DispatchSinners": {
+            "Sinner": "EMP"
+        },
+        "BaseAward": {
+            "Reward Item": "Red Stone Raw Ore",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "9": {
+        "Id": 1003002,
+        "Quality": "Green",
+        "DispatchTitle": "Boom Boom Boom",
+        "DispatchDescription": "A series of suicide bombings have hit Syndicate. An explosives expert is required to investigate the incident.",
+        "DispatchSinners": {
+            "Sinner": "Roulecca"
+        },
+        "BaseAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "10": {
+        "Id": 1003003,
+        "Quality": "Blue",
+        "DispatchTitle": "Extravaganza",
+        "DispatchDescription": "The Bureau set up an intelligence base disguised as a carnival booth, providing magic shows, games and other services.",
+        "DispatchSinners": {
+            "Sinner 1": "Roulecca",
+            "Sinner 2": "Pricilla"
+        },
+        "BaseAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "11": {
+        "Id": 1003004,
+        "Quality": "Purple",
+        "DispatchTitle": "DisSea Surveillance",
+        "DispatchDescription": "Recently, the contamination level of DisSea underwent wild fluctuations. The District of DisSea has requested our support.",
+        "DispatchSinners": {
+            "Sinner": "NOX"
+        },
+        "BaseAward": {
+            "Reward Item": "Red Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "12": {
+        "Id": 1004001,
+        "Quality": "Grey",
+        "DispatchTitle": "Mechanical Dance",
+        "DispatchDescription": "Someone declared they want to assassinate a performer on the dance tour. To protect her, we're going to use a body double.",
+        "DispatchSinners": {
+            "Sinner": "Labyrinth"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Stone Raw Ore",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "13": {
+        "Id": 1004002,
+        "Quality": "Green",
+        "DispatchTitle": "City Shadows",
+        "DispatchDescription": "DisCity has many dark corners, especially in Paradeisos. Be extra vigilant and ensure that everyone working there has appropriate identities.",
+        "DispatchSinners": {
+            "Sinner": "Tetra"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "14": {
+        "Id": 1004003,
+        "Quality": "Blue",
+        "DispatchTitle": "Murder Mystery",
+        "DispatchDescription": "After an informant planted in a secret organization died in an incident, the organization also disappeared from DisCity. To uncover the truth behind this, the Bureau needs two key personnel.",
+        "DispatchSinners": {
+            "Sinner 1": "Tetra",
+            "Sinner 2": "Sumire"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "15": {
+        "Id": 1004004,
+        "Quality": "Purple",
+        "DispatchTitle": "Super Speed",
+        "DispatchDescription": "A super-high-speed motorcycle developed by Turbine Tech has been stolen by the Biker Party. After switching hands many times, the task of locating the bike landed with Whitestone Industries.",
+        "DispatchSinners": {
+            "Sinner": "Bai Yi"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "16": {
+        "Id": 1005001,
+        "Quality": "Grey",
+        "DispatchTitle": "Ban Open Flames",
+        "DispatchDescription": "Multiple fires have broken out across Syndicate, each quite distant from the others. The Bureau wants to know if there is a connection between the incidents.",
+        "DispatchSinners": {
+            "Sinner": "Flora"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Raw Ore",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "17": {
+        "Id": 1005002,
+        "Quality": "Green",
+        "DispatchTitle": "Fixed Route?",
+        "DispatchDescription": "At the invitation of the Eastside Public Security Bureau, specially-dispatched Sinners have been assigned to carry out routine security patrol, considering that it is a fixed route...",
+        "DispatchSinners": {
+            "Sinner": "Ariel"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "18": {
+        "Id": 1005003,
+        "Quality": "Blue",
+        "DispatchTitle": "Spencer Family",
+        "DispatchDescription": "Regarding the recent scandal of this family, the Bureau suggests that relevant personnel be dispatched to deal with the matter. To ensure the success of the operation, another strong individual should provide support.",
+        "DispatchSinners": {
+            "Sinner 1": "Ariel",
+            "Sinner 2": "Hecate"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "19": {
+        "Id": 1005004,
+        "Quality": "Purple",
+        "DispatchTitle": "Technical Support",
+        "DispatchDescription": "The parent organization's research institute has recently encountered several technical difficulties. Considering the extent of professional knowledge required, there seems to be only one suitable candidate.",
+        "DispatchSinners": {
+            "Sinner": "Summer"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "20": {
+        "Id": 1006001,
+        "Quality": "Grey",
+        "DispatchTitle": "Scavenger",
+        "DispatchDescription": "There has been a recent murder case involving a group of scavengers by the Rust. Someone familiar with the environment there is required to investigate.",
+        "DispatchSinners": {
+            "Sinner": "Demolia"
+        },
+        "BaseAward": {
+            "Reward Item": "Hypercube",
+            "Reward Qty": "5.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Hypercube",
+            "Reward Qty": "5.0"
+        }
+    },
+    "21": {
+        "Id": 1006002,
+        "Quality": "Green",
+        "DispatchTitle": "Book Management",
+        "DispatchDescription": "Some old books in the library had been lost. The Bureau suspects this is not a simple management error, but the key to another mystery.",
+        "DispatchSinners": {
+            "Sinner": "Pacassi"
+        },
+        "BaseAward": {
+            "Reward Item": "Hypercube",
+            "Reward Qty": "10.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Hypercube",
+            "Reward Qty": "5.0"
+        }
+    },
+    "22": {
+        "Id": 1006003,
+        "Quality": "Blue",
+        "DispatchTitle": "Book Purchase",
+        "DispatchDescription": "The Bureau's book procurement work has officially started. The total book list is 19 pages long. It is not easy to find suitable candidates.",
+        "DispatchSinners": {
+            "Sinner 1": "Pacassi",
+            "Sinner 2": "Anne"
+        },
+        "BaseAward": {
+            "Reward Item": "Hypercube",
+            "Reward Qty": "15.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Hypercube",
+            "Reward Qty": "5.0"
+        }
+    },
+    "23": {
+        "Id": 1006004,
+        "Quality": "Purple",
+        "DispatchTitle": "Supervise Work",
+        "DispatchDescription": "The Bureau needs to evaluate recent dispatch work and draft an outlook for future missions. One of your superiors is the right person to assist you.",
+        "DispatchSinners": {
+            "Sinner": "Langley"
+        },
+        "BaseAward": {
+            "Reward Item": "Hypercube",
+            "Reward Qty": "30.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Hypercube",
+            "Reward Qty": "10.0"
+        }
+    },
+    "24": {
+        "Id": 1007001,
+        "Quality": "Grey",
+        "DispatchTitle": "Special Commentary",
+        "DispatchDescription": "A renowned art magazine invites a famous critic to write a special piece and pays handsomely.",
+        "DispatchSinners": {
+            "Sinner": "Lisa"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Raw Ore",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "25": {
+        "Id": 1007002,
+        "Quality": "Green",
+        "DispatchTitle": "Food Tasting",
+        "DispatchDescription": "A food factory has launched a number of new products, but sales have been poor. They need advice from a more professional food critic.",
+        "DispatchSinners": {
+            "Sinner": "Ignis"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "26": {
+        "Id": 1007003,
+        "Quality": "Blue",
+        "DispatchTitle": "Entertainment News",
+        "DispatchDescription": "The paparazzi have made up some tabloid news about the Sinner idols. This must be stopped.",
+        "DispatchSinners": {
+            "Sinner 1": "Ignis",
+            "Sinner 2": "Luvia Ray"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "27": {
+        "Id": 1007004,
+        "Quality": "Purple",
+        "DispatchTitle": "Important Decision",
+        "DispatchDescription": "While remote control is possible, these industries still require the presence of decision makers in person when a major incident occurs.",
+        "DispatchSinners": {
+            "Sinner": "Eirene"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "28": {
+        "Id": 1008001,
+        "Quality": "Grey",
+        "DispatchTitle": "Efficiency Increase",
+        "DispatchDescription": "In order to improve the efficiency of agriculture in Hess Village, as well as in a number of neighboring satellite towns, they need more professional equipment and talents.",
+        "DispatchSinners": {
+            "Sinner": "Pepper"
+        },
+        "BaseAward": {
+            "Reward Item": "Shriveled Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Shriveled Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
+    "29": {
+        "Id": 1008002,
+        "Quality": "Green",
+        "DispatchTitle": "Interrogation Invitation",
+        "DispatchDescription": "When encountering prisoners who are difficult to interrogate, the Eastside Public Security Bureau always sends a request of assistance to the Bureau.",
+        "DispatchSinners": {
+            "Sinner": "Chameleon"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Shriveled Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
+    "30": {
+        "Id": 1008003,
+        "Quality": "Blue",
+        "DispatchTitle": "Sandworm Frenzy",
+        "DispatchDescription": "The sandworms of WhiteSands are in a frenzy. We need an experienced hunter to deal with them. It will be even better if we can figure out the reason behind the commotion.",
+        "DispatchSinners": {
+            "Sinner 1": "Chameleon",
+            "Sinner 2": "Wolverine"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
+    "31": {
+        "Id": 1008004,
+        "Quality": "Purple",
+        "DispatchTitle": "Supreme Dance",
+        "DispatchDescription": "The Corruptors of DisSea have become extremely active recently. The district has opened up unpopulated control zones for special commissioners to use.",
+        "DispatchSinners": {
+            "Sinner": "Hamel"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
+    "32": {
+        "Id": 1009001,
+        "Quality": "Grey",
+        "DispatchTitle": "Legendary Recipe",
+        "DispatchDescription": "Molecular cuisine has long been an urban legend among the epicureans of DisCity. This legend occasionally reappears.",
+        "DispatchSinners": {
+            "Sinner": "Kelvin"
+        },
+        "BaseAward": {
+            "Reward Item": "Broken Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "33": {
+        "Id": 1009002,
+        "Quality": "Green",
+        "DispatchTitle": "Hospital Woes",
+        "DispatchDescription": "The depot at Banyan Medical College has been ransacked, and a large number of medicines and blood samples have been stolen. It is necessary to trace the clues immediately.",
+        "DispatchSinners": {
+            "Sinner": "Victoria"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "34": {
+        "Id": 1009003,
+        "Quality": "Blue",
+        "DispatchTitle": "Old Paradeisos House",
+        "DispatchDescription": "A dusty old house in Paradeisos has recently been burglarized. The Bureau will send relevant personnel to sneak in secretly and investigate.",
+        "DispatchSinners": {
+            "Sinner 1": "Victoria",
+            "Sinner 2": "Cinnabar"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "35": {
+        "Id": 1010001,
+        "Quality": "Grey",
+        "DispatchTitle": "Emergency Squad",
+        "DispatchDescription": "The guitarist of a well-known band in Eastside is going to miss a concert due to a broken arm. The organizers hope to find a qualified substitute.",
+        "DispatchSinners": {
+            "Sinner": "Joan"
+        },
+        "BaseAward": {
+            "Reward Item": "Broken Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "36": {
+        "Id": 1010002,
+        "Quality": "Green",
+        "DispatchTitle": "Funding Allocation",
+        "DispatchDescription": "Recently, the Eastside Zoo received a mysterious donation, but the funds ended up in a private account. The anonymous donor is furious about the situation and wants to investigate it personally.",
+        "DispatchSinners": {
+            "Sinner": "Countess Chelsea"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "37": {
+        "Id": 1010003,
+        "Quality": "Blue",
+        "DispatchTitle": "Wealth & Power",
+        "DispatchDescription": "In a place like the Underground Arena, money and strong fists will make you invincible.",
+        "DispatchSinners": {
+            "Sinner 1": "Countess Chelsea",
+            "Sinner 2": "Ninety-Nine"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "38": {
+        "Id": 1011001,
+        "Quality": "Grey",
+        "DispatchTitle": "Underground Rock",
+        "DispatchDescription": "Some people borrowed an underground rock venue to sell prohibited items. An well-oiled industrial chain has been formed, and it is urgent for someone to investigate.",
+        "DispatchSinners": {
+            "Sinner": "Joan"
+        },
+        "BaseAward": {
+            "Reward Item": "Condense Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Condense Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "39": {
+        "Id": 1011002,
+        "Quality": "Green",
+        "DispatchTitle": "Undertaker",
+        "DispatchDescription": "Someone in Syndicate is using the Undertaker's name to do evil things, igniting the Undertaker's wrath.",
+        "DispatchSinners": {
+            "Sinner": "Wendy"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Condense Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "40": {
+        "Id": 1011003,
+        "Quality": "Blue",
+        "DispatchTitle": "Crazed",
+        "DispatchDescription": "Swarms of Corruptors have appeared on the edge of DisSea. We need a team crazy enough to destroy them.",
+        "DispatchSinners": {
+            "Sinner 1": "Wendy",
+            "Sinner 2": "Roulecca"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "41": {
+        "Id": 1012001,
+        "Quality": "Grey",
+        "DispatchTitle": "Product Endorsement",
+        "DispatchDescription": "A new concept kitchenware manufacturer hopes to find a famous chef to endorse its products.",
+        "DispatchSinners": {
+            "Sinner": "Kelvin"
+        },
+        "BaseAward": {
+            "Reward Item": "Elytra Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Elytra Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "42": {
+        "Id": 1012002,
+        "Quality": "Green",
+        "DispatchTitle": "Natural Spy",
+        "DispatchDescription": "Some highly classified surveillance missions have very high technical requirements for disguise.",
+        "DispatchSinners": {
+            "Sinner": "Pricilla"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Elytra Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "43": {
+        "Id": 1012003,
+        "Quality": "Blue",
+        "DispatchTitle": "Phantom Thief Debut",
+        "DispatchDescription": "A copycat has appeared among an infamous band of robbers! For some, this is completely intolerable.",
+        "DispatchSinners": {
+            "Sinner 1": "Pricilla",
+            "Sinner 2": "Tetra"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        }
+    },
+    "44": {
+        "Id": 1013001,
+        "Quality": "Grey",
+        "DispatchTitle": "Not A Weed",
+        "DispatchDescription": "An edible desert plant is growing successfully in the Bureau's green belt. Try planting in the experimental field in WhiteSands.",
+        "DispatchSinners": {
+            "Sinner": "Pepper"
+        },
+        "BaseAward": {
+            "Reward Item": "Broken Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "45": {
+        "Id": 1013002,
+        "Quality": "Green",
+        "DispatchTitle": "Ikebana Exchange",
+        "DispatchDescription": "The most elite ikebana conference in Eastside has invited a Sinner to attend - after all, she is the most popular ikebana master in Eastside.",
+        "DispatchSinners": {
+            "Sinner": "Sumire"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "46": {
+        "Id": 1013003,
+        "Quality": "Blue",
+        "DispatchTitle": "Upper Class",
+        "DispatchDescription": "The Bureau needs to monitor an upper class banquet. All the participants are either rich or aristocratic, so be extra careful.",
+        "DispatchSinners": {
+            "Sinner 1": "Sumire",
+            "Sinner 2": "Ariel"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "47": {
+        "Id": 1014001,
+        "Quality": "Grey",
+        "DispatchTitle": "Counterfeit Scandal",
+        "DispatchDescription": "All the items of a large auction house have been replaced with fakes. The case details need to be investigated by special personnel.",
+        "DispatchSinners": {
+            "Sinner": "Lisa"
+        },
+        "BaseAward": {
+            "Reward Item": "Mania Essence",
+            "Reward Qty": "900.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Mania Essence",
+            "Reward Qty": "300.0"
+        }
+    },
+    "48": {
+        "Id": 1014002,
+        "Quality": "Green",
+        "DispatchTitle": "Dream Interpretation",
+        "DispatchDescription": "Residents in some areas of Eastside often suffer from nightmares. It is necessary to find out why.",
+        "DispatchSinners": {
+            "Sinner": "Hecate"
+        },
+        "BaseAward": {
+            "Reward Item": "Mania Essence",
+            "Reward Qty": "1800.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Mania Essence",
+            "Reward Qty": "600.0"
+        }
+    },
+    "49": {
+        "Id": 1014003,
+        "Quality": "Blue",
+        "DispatchTitle": "Ominous Playground",
+        "DispatchDescription": "Abnormal levels of radiation have been detected near an amusement park. Experts are required to deal with it.",
+        "DispatchSinners": {
+            "Sinner 1": "Hecate",
+            "Sinner 2": "Pacassi"
+        },
+        "BaseAward": {
+            "Reward Item": "Mania Essence",
+            "Reward Qty": "3000.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Mania Essence",
+            "Reward Qty": "1000.0"
+        }
+    },
+    "50": {
+        "Id": 1015001,
+        "Quality": "Grey",
+        "DispatchTitle": "\"Hidden\" Masses",
+        "DispatchDescription": "This mission requires someone to integrate into Syndicate with the calmest attitude, and to always be alert for the slightest of disturbances. This kind of daily surveillance is best-suited for Syndicate locals.",
+        "DispatchSinners": {
+            "Sinner": "Demolia"
+        },
+        "BaseAward": {
+            "Reward Item": "DisCoins",
+            "Reward Qty": "900.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "DisCoins",
+            "Reward Qty": "300.0"
+        }
+    },
+    "51": {
+        "Id": 1015002,
+        "Quality": "Green",
+        "DispatchTitle": "Old Hunter",
+        "DispatchDescription": "Recently, there have been sightings of a new species along the Rust. To determine whether or not they are Corruptors or some other mutated monsters, qualified professionals need to go to investigate.",
+        "DispatchSinners": {
+            "Sinner": "Wolverine"
+        },
+        "BaseAward": {
+            "Reward Item": "DisCoins",
+            "Reward Qty": "1800.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "DisCoins",
+            "Reward Qty": "600.0"
+        }
+    },
+    "52": {
+        "Id": 1015003,
+        "Quality": "Blue",
+        "DispatchTitle": "Missing Pets",
+        "DispatchDescription": "There has been a number of missing pet cases in Eastside. The search for missing pets and the search for fugitives shall be carried out simultaneously.",
+        "DispatchSinners": {
+            "Sinner 1": "Wolverine",
+            "Sinner 2": "Countess Chelsea"
+        },
+        "BaseAward": {
+            "Reward Item": "DisCoins",
+            "Reward Qty": "3000.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "DisCoins",
+            "Reward Qty": "1000.0"
+        }
+    },
+    "53": {
+        "Id": 1016001,
+        "Quality": "Grey",
+        "DispatchTitle": "Training Exchange",
+        "DispatchDescription": "The FAC headquarters issued a notice to the Bureau requesting an educational exchange, to which many Sinners scoffed and sneered.",
+        "DispatchSinners": {
+            "Sinner": "Flora"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Stone Raw Ore",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "54": {
+        "Id": 1016002,
+        "Quality": "Green",
+        "DispatchTitle": "Haunted Film Crew",
+        "DispatchDescription": "There are rumors circulating about a haunted film crew. Upon reviewing the footage, we are going to control the relevant information.",
+        "DispatchSinners": {
+            "Sinner": "Luvia Ray"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "55": {
+        "Id": 1016003,
+        "Quality": "Blue",
+        "DispatchTitle": "Psychotherapy",
+        "DispatchDescription": "There is news that a psychiatric treatment center is imprisoning its patients. We will dispatch the most elite team to investigate.",
+        "DispatchSinners": {
+            "Sinner 1": "Luvia Ray",
+            "Sinner 2": "Chameleon"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "56": {
+        "Id": 1017001,
+        "Quality": "Grey",
+        "DispatchTitle": "Maid Café",
+        "DispatchDescription": "Of all the disguised venues used by the Bureau, the maid cafe is without a doubt the strangest of them all.",
+        "DispatchSinners": {
+            "Sinner": "Labyrinth"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Stone Raw Ore",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "57": {
+        "Id": 1017002,
+        "Quality": "Green",
+        "DispatchTitle": "Professional Nursing",
+        "DispatchDescription": "DisCity is always overflowing with injuries, which ensures that the medical team will always get the highest dispatch subsidy.",
+        "DispatchSinners": {
+            "Sinner": "Anne"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "58": {
+        "Id": 1017003,
+        "Quality": "Blue",
+        "DispatchTitle": "Pharmaceutical Research",
+        "DispatchDescription": "The cooperation with Banyan Medical College and SALVA is advancing in an orderly manner. Relevant technical data must be strictly protected.",
+        "DispatchSinners": {
+            "Sinner 1": "Anne",
+            "Sinner 2": "Victoria"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "59": {
+        "Id": 1018001,
+        "Quality": "Grey",
+        "DispatchTitle": "Guest Judge",
+        "DispatchDescription": "Syndicate rappers are preparing an epic rap battle, for which the Public Security Bureau has specially invited a professional judge.",
+        "DispatchSinners": {
+            "Sinner": "Peggy"
+        },
+        "BaseAward": {
+            "Reward Item": "Broken Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "60": {
+        "Id": 1018002,
+        "Quality": "Green",
+        "DispatchTitle": "Judgment Mystery",
+        "DispatchDescription": "The Eastside Court has recently been flooded by complaints. Some have even threatened to make the lawyers and judges pay the price in blood for unjust rulings. The Ministry of Internal Affairs is very interested in this information.",
+        "DispatchSinners": {
+            "Sinner": "Mr. Fox"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "61": {
+        "Id": 1018003,
+        "Quality": "Blue",
+        "DispatchTitle": "The Rust Injunction",
+        "DispatchDescription": "The recent surge in stowaways along the Rust has prompted the Eastside Public Security Bureau to find out who's behind the phenomenon.",
+        "DispatchSinners": {
+            "Sinner 1": "Mr. Fox",
+            "Sinner 2": "Dolly"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "62": {
+        "Id": 1018004,
+        "Quality": "Purple",
+        "DispatchTitle": "Yagyu Anomaly",
+        "DispatchDescription": "There has been a huge inflow of funds into Yagyu's accounts. According to relevant intelligence, they are trying to launch a new \"hunt\" and must be stopped.",
+        "DispatchSinners": {
+            "Sinner": "Crache"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "63": {
+        "Id": 1019001,
+        "Quality": "Grey",
+        "DispatchTitle": "Real vs. Fake Whitestone",
+        "DispatchDescription": "A new Whitestone company has appeared in Syndicate, and its business is booming. This has enraged the real Whitestone boss.",
+        "DispatchSinners": {
+            "Sinner": "Che"
+        },
+        "BaseAward": {
+            "Reward Item": "Broken Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "64": {
+        "Id": 1019002,
+        "Quality": "Green",
+        "DispatchTitle": "Ad Invitation",
+        "DispatchDescription": "Dis-Mart wants to dabble in the sports equipment business. They have sent the Bureau an ad shoot proposal, along with a huge sum of money.",
+        "DispatchSinners": {
+            "Sinner": "Dolly"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "65": {
+        "Id": 1019003,
+        "Quality": "Blue",
+        "DispatchTitle": "Formal Cooperation",
+        "DispatchDescription": "Dis-Mart is preparing to formally sign a cooperation agreement with the Bureau, but the Bureau has some different opinions on the sharing ratio in the contract.",
+        "DispatchSinners": {
+            "Sinner 1": "Dolly",
+            "Sinner 2": "Mr. Fox"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "66": {
+        "Id": 1019004,
+        "Quality": "Purple",
+        "DispatchTitle": "Tide of Ashes",
+        "DispatchDescription": "Abnormal fluctuations have appeared in this cycle's Tide of Ashes. The Secret Society Matrix wants to discover the reason behind this phenomenon.",
+        "DispatchSinners": {
+            "Sinner": "Stargazer"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "67": {
+        "Id": 1020001,
+        "Quality": "Grey",
+        "DispatchTitle": "Security Test",
+        "DispatchDescription": "A family in Paradeisos wants to test their recently updated security system. They have contacted the Bureau through personal connections.",
+        "DispatchSinners": {
+            "Sinner": "Gekkabijin"
+        },
+        "BaseAward": {
+            "Reward Item": "Red Stone Raw Ore",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "68": {
+        "Id": 1020002,
+        "Quality": "Green",
+        "DispatchTitle": "Field Rescue",
+        "DispatchDescription": "A large number of Corruptors have appeared in DisSea, and medical staff are buckling under the pressure. The District of DisSea has issued a rescue order to the whole city.",
+        "DispatchSinners": {
+            "Sinner": "Iron"
+        },
+        "BaseAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "69": {
+        "Id": 1020003,
+        "Quality": "Blue",
+        "DispatchTitle": "Physical & Mental Health",
+        "DispatchDescription": "Thou Voodoos seem to be researching how to manipulate dead bodies. The Bureau must take preemptive actions for the physical & mental health of DisCity residents.",
+        "DispatchSinners": {
+            "Sinner 1": "Iron",
+            "Sinner 2": "Oliver"
+        },
+        "BaseAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "70": {
+        "Id": 1021001,
+        "Quality": "Grey",
+        "DispatchTitle": "Spy",
+        "DispatchDescription": "A Bureau informant stationed within a certain company has mysteriously disappeared. Perhaps you can send a spy to conduct an undercover investigation.",
+        "DispatchSinners": {
+            "Sinner": "Macchiato"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Stone Raw Ore",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "71": {
+        "Id": 1021002,
+        "Quality": "Green",
+        "DispatchTitle": "Curiosity",
+        "DispatchDescription": "A series of fraud cases has taken Eastside by storm. Rumor has it that the cases are linked to orphans at an Eastside orphanage. A certain someone is very interested in these rumors.",
+        "DispatchSinners": {
+            "Sinner": "Oliver"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "72": {
+        "Id": 1021003,
+        "Quality": "Blue",
+        "DispatchTitle": "Toy Puppet",
+        "DispatchDescription": "Rumor has it that toy puppets have come to life and are roaming along the Rust. The Bureau needs to determine the veracity of these rumors.",
+        "DispatchSinners": {
+            "Sinner 1": "Oliver",
+            "Sinner 2": "Iron"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "73": {
+        "Id": 1022001,
+        "Quality": "Grey",
+        "DispatchTitle": "Literacy Courses",
+        "DispatchDescription": "For better mission results, the Bureau has instituted some basic literacy courses for certain Sinners.",
+        "DispatchSinners": {
+            "Sinner": "Horo"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "74": {
+        "Id": 1022002,
+        "Quality": "Green",
+        "DispatchTitle": "Study Group",
+        "DispatchDescription": "In the Bureau's special training sessions, Sinners form one-on-one study groups and help each other in their areas of strength.",
+        "DispatchSinners": {
+            "Sinner": "Kawa-kawa"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "75": {
+        "Id": 1023001,
+        "Quality": "Grey",
+        "DispatchTitle": "Guiding Beacon",
+        "DispatchDescription": "Nirvana Logistics hopes to improve the beacon network in WhiteSands and provide the most accurate navigation guidance to the ships there. To this end, they have carried out in-depth cooperation with the Bureau.",
+        "DispatchSinners": {
+            "Sinner": "Kawa-kawa"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "76": {
+        "Id": 1023002,
+        "Quality": "Green",
+        "DispatchTitle": "WhiteSands Search",
+        "DispatchDescription": "A sudden sandstorm has caused Nirvana Logistics to lose several sand ships. We wish to find them and bring them back safely.",
+        "DispatchSinners": {
+            "Sinner": "Horo"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "77": {
+        "Id": 1024001,
+        "Quality": "Purple",
+        "DispatchTitle": "Ornamental Snake At Large",
+        "DispatchDescription": "An ornamental snake in an Eastside zoo has escaped and caused injuries, sparking public panic. To capture it as soon as possible, the Public Security Bureau is in urgent need of assistance from professionals versed in snake behaviors.",
+        "DispatchSinners": {
+            "Sinner": "Serpent"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "78": {
+        "Id": 1024002,
+        "Quality": "Green",
+        "DispatchTitle": "Crackdown on Counterfeiting",
+        "DispatchDescription": "A novice Eastside blacksmith claims to be the apprentice of the city's top weaponsmith, luring in numerous clients with that title. This greatly vexes the top weaponsmith of Eastside who's never taken any apprentices.",
+        "DispatchSinners": {
+            "Sinner": "Mess"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "79": {
+        "Id": 1024003,
+        "Quality": "Blue",
+        "DispatchTitle": "Limited Edition",
+        "DispatchDescription": "A popular toy shop is launching a limited edition new product. People are already queuing outside the shop overnight to purchase it.",
+        "DispatchSinners": {
+            "Sinner 1": "Mess",
+            "Sinner 2": "Oliver"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "80": {
+        "Id": 1025001,
+        "Quality": "Purple",
+        "DispatchTitle": "Art Counselor",
+        "DispatchDescription": "A new sculpture museum is being prepared in the Eastside. The person in charge contacted the Bureau, wanting to hire a professional as an art consultant.",
+        "DispatchSinners": {
+            "Sinner": "Enfer"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "81": {
+        "Id": 1025002,
+        "Quality": "Green",
+        "DispatchTitle": "Culture Exchange Event",
+        "DispatchDescription": "The Eastside Library will be hosting a classical art and literature conference recently, and a certain enthusiast submitted an early application to participate.",
+        "DispatchSinners": {
+            "Sinner": "McQueen"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "82": {
+        "Id": 1025003,
+        "Quality": "Blue",
+        "DispatchTitle": "Forging Group",
+        "DispatchDescription": "A series of thefts of works on display by a master artist, followed by a large number of well-made forgeries on the local black market, are suspected to be the work of a professional group and need to be investigated thoroughly.",
+        "DispatchSinners": {
+            "Sinner 1": "McQueen",
+            "Sinner 2": "Cinnabar"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "83": {
+        "Id": 1026001,
+        "Quality": "Purple",
+        "DispatchTitle": "Corruptor Attack",
+        "DispatchDescription": "Corruptors from an unknown source have attacked a certain location. By request, the Bureau sends professionals to help.",
+        "DispatchSinners": {
+            "Sinner": "Oak Casket"
+        },
+        "BaseAward": {
+            "Reward Item": "Red Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "84": {
+        "Id": 1026002,
+        "Quality": "Green",
+        "DispatchTitle": "Musician Recruitment",
+        "DispatchDescription": "A well-known orchestra is recruiting new musicians and organizing a mass audition. Someone is tempted to try out after learning about the news.",
+        "DispatchSinners": {
+            "Sinner": "Dudu"
+        },
+        "BaseAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "85": {
+        "Id": 1026003,
+        "Quality": "Blue",
+        "DispatchTitle": "Undercover Investigation",
+        "DispatchDescription": "An Outlander busker group seems very suspicious. The Bureau decides to immediately send staff on an undercover investigation.",
+        "DispatchSinners": {
+            "Sinner 1": "Dudu",
+            "Sinner 2": "Luvia Ray"
+        },
+        "BaseAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "86": {
+        "Id": 1027001,
+        "Quality": "Purple",
+        "DispatchTitle": "Cinematic Masterclass",
+        "DispatchDescription": "A film academy based in Eastside is organizing a lecture on filmmaking for its students. The administration contacts the MBCC to invite a certain master filmmaker to give the lecture.",
+        "DispatchSinners": {
+            "Sinner": "Deren"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "87": {
+        "Id": 1027002,
+        "Quality": "Green",
+        "DispatchTitle": "Teaching Materials on Photography",
+        "DispatchDescription": "The MBCC has recently acquired some teaching materials on photography and photobooks by distinguished artists. The news brings endless joy to a certain shutterbug, who wastes no time in sending in a request.",
+        "DispatchSinners": {
+            "Sinner": "Lynn"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "88": {
+        "Id": 1027003,
+        "Quality": "Blue",
+        "DispatchTitle": "A Photography Tour of the North",
+        "DispatchDescription": "A Sinner who is passionate about photography has been yearning to travel to the north and capture its spectacular scenery. It just so happens that another Sinner is being sent on a mission to the north, so the shutterbug sends in a request, asking Chief for permission to tag along.",
+        "DispatchSinners": {
+            "Sinner 1": "Lynn",
+            "Sinner 2": "Pacassi"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "89": {
+        "Id": 1027004,
+        "Quality": "Purple",
+        "DispatchTitle": "Grand Opening",
+        "DispatchDescription": "An MBCC staffer who is opening a shop in their hometown invites a certain Sinner to perform a lion dance at the grand opening.",
+        "DispatchSinners": {
+            "Sinner": "OwO"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "90": {
+        "Id": 1028001,
+        "Quality": "Purple",
+        "DispatchTitle": "Board Game Chaos",
+        "DispatchDescription": "The Public Security Bureau reports that some outlaws have been disguising as board game players. The Bureau sends someone versed in this kind of activity to assist in the arrest.",
+        "DispatchSinners": {
+            "Sinner": "Etti"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "91": {
+        "Id": 1028002,
+        "Quality": "Green",
+        "DispatchTitle": "Home Advantage",
+        "DispatchDescription": "According to credible sources, a suspect has been frequenting the dodgy entertainment facilities in Eastside. You need someone who's familiar with the environment to carry out research and collect evidence.",
+        "DispatchSinners": {
+            "Sinner": "Levy"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "92": {
+        "Id": 1028003,
+        "Quality": "Blue",
+        "DispatchTitle": "Fraud Gang",
+        "DispatchDescription": "A slippery fraud gang has recently become a headache for the Public Security Bureau. The Bureau thus sends a resourceful and eloquent Sinner for support.",
+        "DispatchSinners": {
+            "Sinner 1": "Levy",
+            "Sinner 2": "Mr. Fox"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "93": {
+        "Id": 1029001,
+        "Quality": "Purple",
+        "DispatchTitle": "Field Investigation",
+        "DispatchDescription": "A well-known school in Eastside is holding an open academic event that welcomes people from all walks of life to participate. An aspiring teacher in the Bureau is requesting to go there for a tour.",
+        "DispatchSinners": {
+            "Sinner": "Raven"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "94": {
+        "Id": 1029002,
+        "Quality": "Green",
+        "DispatchTitle": "Unofficial Fights",
+        "DispatchDescription": "A group of violent individuals are reportedly hiding among brawling civilians. However, due to the target location's complicated situation, it is necessary to send experienced personnel to investigate.",
+        "DispatchSinners": {
+            "Sinner": "Corso"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Condense Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "95": {
+        "Id": 1029003,
+        "Quality": "Blue",
+        "DispatchTitle": "Illegal Slaughterhouse",
+        "DispatchDescription": "The Public Security Bureau has received a tip-off about an illegal slaughterhouse with unsanitary conditions that reportedly caused many animals to become seriously infected. They are asking the Bureau to send someone familiar with animals to help.",
+        "DispatchSinners": {
+            "Sinner 1": "Corso",
+            "Sinner 2": "Wolverine"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "96": {
+        "Id": 1030001,
+        "Quality": "Purple",
+        "DispatchTitle": "Confession Tree Hole",
+        "DispatchDescription": "The Bureau needs a keen listener for others to confide in, and designates a room designed to look like the starry cosmos as a place to vent.",
+        "DispatchSinners": {
+            "Sinner": "Dreya"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        }
+    },
+    "97": {
+        "Id": 1030002,
+        "Quality": "Green",
+        "DispatchTitle": "Plastic surgery fiasco",
+        "DispatchDescription": "A celebrity nose insured for 300 million has been broken. Conflict ensues as the insurance company cannot afford to pay. A seasoned cosmetic surgeon is needed to intervene.",
+        "DispatchSinners": {
+            "Sinner": "Uni"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Elytra Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "98": {
+        "Id": 1030003,
+        "Quality": "Blue",
+        "DispatchTitle": "Crime Scene",
+        "DispatchDescription": "The Bureau receives a request to help restore some physical evidence damaged at the crime scene.",
+        "DispatchSinners": {
+            "Sinner 1": "Uni",
+            "Sinner 2": "Iron"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        }
+    },
+    "99": {
+        "Id": 1031001,
+        "Quality": "Purple",
+        "DispatchTitle": "Mystery Copycat",
+        "DispatchDescription": "There have been a number of recent crimes mimicking the Foggy Night Mystery, and a Sinner with knowledge of this urban legend is needed to go to the rescue.",
+        "DispatchSinners": {
+            "Sinner": "Adela"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "100": {
+        "Id": 1031002,
+        "Quality": "Green",
+        "DispatchTitle": "Emergency Rescue",
+        "DispatchDescription": "A building collapse has left many people buried under the rubble, and a Sinner who can ignore physical obstacles is urgently needed to rescue them.",
+        "DispatchSinners": {
+            "Sinner": "Letta"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "101": {
+        "Id": 1031003,
+        "Quality": "Blue",
+        "DispatchTitle": "Master of Adventure",
+        "DispatchDescription": "New adventure lore has taken the city by storm, and two enthusiasts are eager to explore it.",
+        "DispatchSinners": {
+            "Sinner 1": "Letta",
+            "Sinner 2": "Pepper"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "102": {
+        "Id": 1032001,
+        "Quality": "Purple",
+        "DispatchTitle": "Tasting Invitation",
+        "DispatchDescription": "The owner of a highly anticipated restaurant in Eastside is inviting a famous gourmet to try the food on the day of the opening ceremony.",
+        "DispatchSinners": {
+            "Sinner": "Cabernet"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
+    "103": {
+        "Id": 1032002,
+        "Quality": "Green",
+        "DispatchTitle": "Ocean Art Exhibition",
+        "DispatchDescription": "An up-and-coming artist in Eastside is organizing a solo exhibition on the theme of \"The Ocean\", and he has contacted the Bureau in the hope that he can get some material and inspiration from a certain Sinner.",
+        "DispatchSinners": {
+            "Sinner": "Lamia"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Shriveled Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
+    "104": {
+        "Id": 1032003,
+        "Quality": "Blue",
+        "DispatchTitle": "Assist Investigation",
+        "DispatchDescription": "The MBCC receives a request from the Public Security Bureau to send in two Sinners, who are capable of disguising their personalities, to assist in the investigation of the mysterious disappearance of Eastsiders.",
+        "DispatchSinners": {
+            "Sinner 1": "Lamia",
+            "Sinner 2": "Luvia Ray"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
+    "105": {
+        "Id": 1033001,
+        "Quality": "Purple",
+        "DispatchTitle": "Joint Exercise",
+        "DispatchDescription": "The FAC has organized a joint exercise competition and requests an experienced former FAC officer to participate.",
+        "DispatchSinners": {
+            "Sinner": "Rahu"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "106": {
+        "Id": 1033002,
+        "Quality": "Green",
+        "DispatchTitle": "Showroom Rescue",
+        "DispatchDescription": "A fashion studio in Eastside is facing a burst of orders on the eve of a fashion show, and is short of manpower, urgently needing the assistance of a professional tailor.",
+        "DispatchSinners": {
+            "Sinner": "Garofano"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Condense Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "107": {
+        "Id": 1033003,
+        "Quality": "Blue",
+        "DispatchTitle": "Gardens of Doubt",
+        "DispatchDescription": "A number of cases suspected to be modeled after the \"Garden\" have been reported in a certain area. The Public Security Bureau applies to the MBCC for dispatching Garden-related personnel to assist in the investigation.",
+        "DispatchSinners": {
+            "Sinner 1": "Garofano",
+            "Sinner 2": "Sumire"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "108": {
+        "Id": 1034001,
+        "Quality": "Purple",
+        "DispatchTitle": "Eccentric Music Meetup",
+        "DispatchDescription": "An Eastside socialite sent an invitation for an eccentric underground music meetup. A Sinner with broad taste in music claimed the invitation and plans to record the music event with her Schorl.",
+        "DispatchSinners": {
+            "Sinner": "Shalom"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "109": {
+        "Id": 1034002,
+        "Quality": "Green",
+        "DispatchTitle": "Mystery Deduction",
+        "DispatchDescription": "A mysterious case occurred somewhere in Eastside. The Public Security Bureau is urgently requesting a professional with deductive skills from the Bureau to assist in solving the case.",
+        "DispatchSinners": {
+            "Sinner": "Christina"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "110": {
+        "Id": 1034003,
+        "Quality": "Blue",
+        "DispatchTitle": "Item Scouting",
+        "DispatchDescription": "The Public Security Bureau suspects an illicit manufacturer of dangerous goods is operating under the guise of selling stage props. They need the Bureau to dispatch someone skilled in identifying contraband for investigation.",
+        "DispatchSinners": {
+            "Sinner 1": "Christina",
+            "Sinner 2": "Mess"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "111": {
+        "Id": 1034004,
+        "Quality": "Purple",
+        "DispatchTitle": "Moonbathing Spot",
+        "DispatchDescription": "A suspected Mania incident occurred at an open-air bath in Eastside. Because the bath has a unique nighttime theme, a Sinner passionate about bathing has made strong requests to go and investigate.",
+        "DispatchSinners": {
+            "Sinner": "Coquelic"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "112": {
+        "Id": 1035001,
+        "Quality": "Purple",
+        "DispatchTitle": "Zoo Theft",
+        "DispatchDescription": "A batch of crocodiles has gone missing from an Eastside zoo. The Public Security Bureau has caught the culprit, but the crocodiles are nowhere to be found. They urgently need a Sinner who is a wildlife expert to assist in the search.",
+        "DispatchSinners": {
+            "Sinner": "Mantis"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        }
+    },
+    "113": {
+        "Id": 1035002,
+        "Quality": "Green",
+        "DispatchTitle": "Perfume Auction",
+        "DispatchDescription": "Someone claims to be able to concoct the legendary Immortal Fragrance, and is using it as a selling point to hold an auction and make a profit. A Sinner who is a perfume connoisseur is volunteering to go, and will either admire a masterpiece or expose a fraud.",
+        "DispatchSinners": {
+            "Sinner": "Cassia"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Elytra Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "114": {
+        "Id": 1035003,
+        "Quality": "Blue",
+        "DispatchTitle": "Faux Nobility",
+        "DispatchDescription": "The Eastside Public Security Bureau needs to disguise police officers as noble ladies for an undercover investigation, and wants the help of a Sinner who is a fashion and perfume connoisseur.",
+        "DispatchSinners": {
+            "Sinner 1": "Cassia",
+            "Sinner 2": "Garofano"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        }
+    },
+    "115": {
+        "Id": 1036001,
+        "Quality": "Purple",
+        "DispatchTitle": "Who Caused It, Who Solves It",
+        "DispatchDescription": "Recently the number of insomnia patients received by Eastside Hospital has climbed sharply, most of which are allegedly induced by the fear of the scary urban legend, and are in urgent need of hypnosis ASMR programs to assist in their treatment.",
+        "DispatchSinners": {
+            "Sinner": "Eleven"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "116": {
+        "Id": 1036002,
+        "Quality": "Green",
+        "DispatchTitle": "Snack Sampling",
+        "DispatchDescription": "A fun snack site has just started up and wants to make a name for itself quickly. Therefore it needs an streamer to live-stream the sampling of weird snacks.",
+        "DispatchSinners": {
+            "Sinner": "Nino"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "117": {
+        "Id": 1036003,
+        "Quality": "Blue",
+        "DispatchTitle": "Sharp Commentary",
+        "DispatchDescription": "A late-night variety show in Eastside has seen its ratings fall, and is desperate to hire a critic who can do the whole job to star in the show and comment on hot social and current events.",
+        "DispatchSinners": {
+            "Sinner 1": "Nino",
+            "Sinner 2": "Mess"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "118": {
+        "Id": 1037001,
+        "Quality": "Purple",
+        "DispatchTitle": "Gaze of the Toys",
+        "DispatchDescription": "Recently, many citizens have reported feeling watched by their daughter's dolls, suspecting that a peeping gang has put their modified toys into the market. A Sinner who is proficient in toy design and manufacturing is urgently needed to assist with the investigation.",
+        "DispatchSinners": {
+            "Sinner": "Eve"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "119": {
+        "Id": 1037002,
+        "Quality": "Green",
+        "DispatchTitle": "Sci-fi Film Festival",
+        "DispatchDescription": "Eastside is hosting a low-budget niche sci-fi film festival. A certain Sinner who yearns to gain inventive inspiration from films is eager to participate.",
+        "DispatchSinners": {
+            "Sinner": "Eureka"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "120": {
+        "Id": 1037003,
+        "Quality": "Blue",
+        "DispatchTitle": "Contest Judge",
+        "DispatchDescription": "A detective culture club in Eastside organized a fun detective prop design competition, urgently requiring a judge with profound knowledge of fun prop invention and detective prop design to participate in the reviewing process.",
+        "DispatchSinners": {
+            "Sinner 1": "Eureka",
+            "Sinner 2": "Christina"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "121": {
+        "Id": 1038001,
+        "Quality": "Purple",
+        "DispatchTitle": "History of Rustfire",
+        "DispatchDescription": "The Bureau plans to compile a comprehensive history document of the rise and development of Rustfire. They need those in the know to assist them.",
+        "DispatchSinners": {
+            "Sinner": "Donald"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "122": {
+        "Id": 1038002,
+        "Quality": "Green",
+        "DispatchTitle": "Firearm Trial",
+        "DispatchDescription": "A research institute has developed a new model of pistol and urgently needs a firearm expert for testing and evaluation.",
+        "DispatchSinners": {
+            "Sinner": "Matilda"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "123": {
+        "Id": 1038003,
+        "Quality": "Blue",
+        "DispatchTitle": "Major Cleanup",
+        "DispatchDescription": "The Bureau has been busy with official duties recently and doesn't have enough time for housekeeping. Two Sinners have decided to work together to complete a major cleanup.",
+        "DispatchSinners": {
+            "Sinner 1": "Matilda",
+            "Sinner 2": "Labyrinth"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "124": {
+        "Id": 1039001,
+        "Quality": "Purple",
+        "DispatchTitle": "Audition Judge",
+        "DispatchDescription": "An entertainment company has launched a new talent show, this time with the theme of finding future musical stars. They are urgently recruiting audience judges to participate in the filming. A certain Sinner volunteers to go and uncover the hidden talents.",
+        "DispatchSinners": {
+            "Sinner": "Lady Pearl"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "125": {
+        "Id": 1039002,
+        "Quality": "Green",
+        "DispatchTitle": "Popularity Contest",
+        "DispatchDescription": "An association in Eastside has organized a busking contest which audience can watch for free and cast their votes. Hearing about this, a certain Sinner is eager to participate in it, confident that the champion title shall go to no one else.",
+        "DispatchSinners": {
+            "Sinner": "Echo"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "126": {
+        "Id": 1039003,
+        "Quality": "Blue",
+        "DispatchTitle": "Sonic Weapon",
+        "DispatchDescription": "The Public Security Bureau is vigorously developing sonic weapons and urgently hiring Sinners capable of using sonic attacks and skilled in invention and creation to participate in the project.",
+        "DispatchSinners": {
+            "Sinner 1": "Echo",
+            "Sinner 2": "Eureka"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "127": {
+        "Id": 1040001,
+        "Quality": "Purple",
+        "DispatchTitle": "Bomb Alert",
+        "DispatchDescription": "The MBCC received a request from the Public Security Bureau. Explosives have been planted into a giant clock in an Eastside landmark. The device's mechanism is complex and dangerous, so they require urgent assistance from a Sinner with extensive knowledge of mechanical structures.",
+        "DispatchSinners": {
+            "Sinner": "Vanilla"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
+    "128": {
+        "Id": 1040002,
+        "Quality": "Green",
+        "DispatchTitle": "Journal Market",
+        "DispatchDescription": "A journal market event is being held in Eastside. A certain Sinner insists that immense unknown danger lurks within and volunteers to go and eliminate the threats.",
+        "DispatchSinners": {
+            "Sinner": "Thistle"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Shriveled Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
+    "129": {
+        "Id": 1040003,
+        "Quality": "Blue",
+        "DispatchTitle": "High School Girl Kidnapping Case",
+        "DispatchDescription": "A mass kidnapping incident has taken place at an all-girls high school in Eastside. At the request of the Public Security Bureau, the MBCC urgently sends two Sinners to infiltrate the school disguised as students and secretly execute a hostage rescue plan.",
+        "DispatchSinners": {
+            "Sinner 1": "Thistle",
+            "Sinner 2": "Lynn"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
+    "130": {
+        "Id": 1041001,
+        "Quality": "Purple",
+        "DispatchTitle": "Ancient Book Identification",
+        "DispatchDescription": "A collection of valuable original copies of Outland books has recently been stolen from the Eastside Library. Assistance from a relevant scholar is urgently required to retrieve and authenticate them.",
+        "DispatchSinners": {
+            "Sinner": "Du Ruo"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "131": {
+        "Id": 1041002,
+        "Quality": "Green",
+        "DispatchTitle": "Culinary Festival",
+        "DispatchDescription": "The Eastside Culinary Festival is about to commence, and the organizer has extended a friendly invitation to the Bureau. Having seen the invitation, a certain Sinner volunteers to honor it.",
+        "DispatchSinners": {
+            "Sinner": "Yanyan"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Elytra Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "132": {
+        "Id": 1041003,
+        "Quality": "Blue",
+        "DispatchTitle": "Child Model Disappearance Case",
+        "DispatchDescription": "Recently, several models of an Eastside luxury children's clothing brand have gone missing after photo shoots. Send two Sinners to go undercover in disguise and uncover the truth.",
+        "DispatchSinners": {
+            "Sinner 1": "Yanyan",
+            "Sinner 2": "Oliver"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        }
+    },
+    "133": {
+        "Id": 1041004,
+        "Quality": "Purple",
+        "DispatchTitle": "Seminar Investigation",
+        "DispatchDescription": "The Public Security Bureau has recently received complaints about a suspicious self-claimed master holding seminars titled <i>Communication with the Sun</i> everywhere. Send a Sinner to investigate.",
+        "DispatchSinners": {
+            "Sinner": "Yao"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        }
+    },
+    "134": {
+        "Id": 1042001,
+        "Quality": "Purple",
+        "DispatchTitle": "Space-Out Champion",
+        "DispatchDescription": "Eastside's Idle People Society has recently organized a space-out contest with a huge cash prize for the winner, attracting many strong contestants capable of spacing out for over ten hours. This seems to have unusually piqued the interest of a certain Sinner.",
+        "DispatchSinners": {
+            "Sinner": "Angell"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "135": {
+        "Id": 1042002,
+        "Quality": "Green",
+        "DispatchTitle": "Brawl Tutorial",
+        "DispatchDescription": "Feeling a lack of combat strength in complex environments like narrow alleys, the Eastside Public Security Bureau is urgently seeking a fighting coach seasoned in street brawls to boost their training quality.",
+        "DispatchSinners": {
+            "Sinner": "Golan"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "136": {
+        "Id": 1042003,
+        "Quality": "Blue",
+        "DispatchTitle": "Lovely Temptation",
+        "DispatchDescription": "A well-known gift shop chain is expanding into Syndicate and launching a limited edition toy for the region. Upon learning that, several Sinners eagerly volunteer for missions in that area.",
+        "DispatchSinners": {
+            "Sinner 1": "Golan",
+            "Sinner 2": "Thistle"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "137": {
+        "Id": 1043001,
+        "Quality": "Purple",
+        "DispatchTitle": "Juice Tasting",
+        "DispatchDescription": "A renowned apple juice manufacturer in Eastside has launched a new tasting event for juices of various concentrations. A certain Sinner immediately submits thirty reports to apply to join the event.",
+        "DispatchSinners": {
+            "Sinner": "Bianca"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "138": {
+        "Id": 1043002,
+        "Quality": "Green",
+        "DispatchTitle": "Anti-Fraud Recordings",
+        "DispatchDescription": "In light of the recent surge in online dating scams, the Eastside Public Security Bureau is urgently seeking a Sinner with a charming voice who knows how to appeal to young netizens for their anti-fraud audio recordings.",
+        "DispatchSinners": {
+            "Sinner": "Shawn"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "139": {
+        "Id": 1043003,
+        "Quality": "Blue",
+        "DispatchTitle": "Crush Course",
+        "DispatchDescription": "A new masked dating show by an Eastside entertainment company with the catchphrase <i>Win your heart with one sentence</i> has become an instant hit. Two Sinners particularly confident in sweet talk volunteer for the next audition.",
+        "DispatchSinners": {
+            "Sinner 1": "Shawn",
+            "Sinner 2": "McQueen"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "140": {
+        "Id": 1044001,
+        "Quality": "Purple",
+        "DispatchTitle": "Relocation Negotiator",
+        "DispatchDescription": "While patrolling around DisSea, a patrol discovers a temporary shelter built by an elderly man. Due to his superstitious beliefs, the team has difficulty communicating with him. Assistance from someone familiar with local religious customs is urgently required to persuade him to move.",
+        "DispatchSinners": {
+            "Sinner": "Hestia"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "141": {
+        "Id": 1044002,
+        "Quality": "Green",
+        "DispatchTitle": "Disc Identification",
+        "DispatchDescription": "The Public Security Bureau receives a tip-off that a criminal group is circulating illegal content in the form of vintage discs. Assistance from an enthusiast with extensive knowledge is required to help identify them.",
+        "DispatchSinners": {
+            "Sinner": "Jane"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "142": {
+        "Id": 1044003,
+        "Quality": "Blue",
+        "DispatchTitle": "Bank Heist",
+        "DispatchDescription": "A major robbery happened at an Eastside bank. The suspect's M.O. highly resembles that of a serial robber once notorious in the city. A copycat crime is suspected. Assistance from a suitable operative is required to solve the case.",
+        "DispatchSinners": {
+            "Sinner 1": "Jane",
+            "Sinner 2": "Christina"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "143": {
+        "Id": 1045001,
+        "Quality": "Purple",
+        "DispatchTitle": "Forum Management",
+        "DispatchDescription": "The Public Security Bureau is planning to reactivate its internal forum. The forum is currently in disarray and rampant with false information due to the long lack of management. A Sinner familiar with this type of management task is needed to aid its organization.",
+        "DispatchSinners": {
+            "Sinner": "L.L."
+        },
+        "BaseAward": {
+            "Reward Item": "Red Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "144": {
+        "Id": 1045002,
+        "Quality": "Green",
+        "DispatchTitle": "Data Decryption",
+        "DispatchDescription": "The Public Security Bureau has intercepted some transactional data sent by a criminal gang, but it is scattered with dark web jargon and encrypted links that are hard to decode quickly. They urgently need someone with relevant knowledge to assist in cracking it.",
+        "DispatchSinners": {
+            "Sinner": "Shrooma"
+        },
+        "BaseAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "145": {
+        "Id": 1045003,
+        "Quality": "Blue",
+        "DispatchTitle": "Children Removal",
+        "DispatchDescription": "A group of children often gathers to play in a dangerous area where the patrol works. They have repeatedly ignored warnings and have now become a disturbance. The Bureau needs to send two Sinners who can quickly earn the children's respect to help remove them.",
+        "DispatchSinners": {
+            "Sinner 1": "Shrooma",
+            "Sinner 2": "Anne"
+        },
+        "BaseAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Red Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "150": {
+        "Id": 1099001,
+        "Quality": "Green",
+        "DispatchTitle": "Dream Interpretation",
+        "DispatchDescription": "Residents in some areas of Eastside often suffer from nightmares. It is necessary to find out why.",
+        "DispatchSinners": {
+            "Sinner": "Hecate"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    }
+}
