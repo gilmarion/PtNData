@@ -7729,6 +7729,54 @@
             "Title": "升技",
             "File": "vo_coquelicot_promotion_001",
             "Text": "努力的孩子，我會認可你的。"
+        },
+        "110604100": {
+            "Sinner": "可可莉克",
+            "Title": "獲得套裝",
+            "File": "vo_coquelicot_shengfang_cacha_001",
+            "Text": "我一睜開眼睛，就看見你向我奔來的身影。我知道，你一直以來的堅守，讓這次的盛放有了不一樣的意義。"
+        },
+        "110604101": {
+            "Sinner": "可可莉克",
+            "Title": "升級",
+            "File": "vo_coquelicot_shengfang_levelup_001",
+            "Text": "來吧，盛大地綻放吧！"
+        },
+        "110604102": {
+            "Sinner": "可可莉克",
+            "Title": "問候",
+            "File": "vo_coquelicot_shengfang_greeting_001",
+            "Text": "一段時間不見，你怎麼和那群孩子一樣這麼黏我呢？唉呀，我這不是好好的嘛！你留給我的這口氣，還久著呢。"
+        },
+        "110604103": {
+            "Sinner": "可可莉克",
+            "Title": "普通觸摸1",
+            "File": "vo_coquelicot_shengfang_talk_001",
+            "Text": "這片曾經困住我的地方，現在已經變成了花團錦簇的花園。繁花不是我的葬禮，而是我的新生。"
+        },
+        "110604104": {
+            "Sinner": "可可莉克",
+            "Title": "普通觸摸2",
+            "File": "vo_coquelicot_shengfang_talk_002",
+            "Text": "別在我的花園裡愁眉苦臉的，弄得花都不開心了。放心吧，我不會再不告而別了。"
+        },
+        "110604105": {
+            "Sinner": "可可莉克",
+            "Title": "閒置",
+            "File": "vo_coquelicot_shengfang_idle_001",
+            "Text": "我總是想著一個人解決所有問題，但在經歷了這麼多之後，我感覺……還是有你們在身邊，能讓我稍微安心一點。"
+        },
+        "110604106": {
+            "Sinner": "可可莉克",
+            "Title": "煩躁",
+            "File": "vo_coquelicot_shengfang_clicking_001",
+            "Text": "怎麼，你也想試試？那來吧，只不過……你的雙腿，就是我的新座位囉。"
+        },
+        "110604107": {
+            "Sinner": "可可莉克",
+            "Title": "特別關注",
+            "File": "vo_coquelicot_shengfang_specialattention_001",
+            "Text": "新開闢的花園裡有很多狄斯城也見不到的稀有花，紫睡蓮，龍鬚蘭……嗯？只想看虞美人？那……你就多看看我吧~"
         }
     },
     "110605": {

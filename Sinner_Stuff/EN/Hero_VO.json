@@ -7729,6 +7729,54 @@
             "Title": "Upgrade Skill",
             "File": "vo_coquelicot_promotion_001",
             "Text": "I recognize your hard work, my child."
+        },
+        "110604100": {
+            "Sinner": "Coquelic",
+            "Title": "Attire Obtained",
+            "File": "vo_coquelicot_shengfang_cacha_001",
+            "Text": "The moment I opened my eyes, I saw you running toward me. I know that it's your constant watch that has made this grand blossom special."
+        },
+        "110604101": {
+            "Sinner": "Coquelic",
+            "Title": "Level Up",
+            "File": "vo_coquelicot_shengfang_levelup_001",
+            "Text": "Yes, bloom and thrive!"
+        },
+        "110604102": {
+            "Sinner": "Coquelic",
+            "Title": "Greeting",
+            "File": "vo_coquelicot_shengfang_greeting_001",
+            "Text": "I haven't seen you for a while, but why are you suddenly so clingy like my flowers? Well, I'm perfectly fine! See? The breath of life you gave me will last long."
+        },
+        "110604103": {
+            "Sinner": "Coquelic",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_coquelicot_shengfang_talk_001",
+            "Text": "The place that used to be a prison for me has now become a garden in full bloom. Flowers aren't a symbol of my death, but of my rebirth."
+        },
+        "110604104": {
+            "Sinner": "Coquelic",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_coquelicot_shengfang_talk_002",
+            "Text": "Don't be all gloomy in my garden. You want to upset my flowers too? Rest assured. I won't leave without saying goodbye again."
+        },
+        "110604105": {
+            "Sinner": "Coquelic",
+            "Title": "Idle",
+            "File": "vo_coquelicot_shengfang_idle_001",
+            "Text": "I always thought I could take on the world on my own, but after everything I've been through, I feel that... it's a comfort to have you all by my side."
+        },
+        "110604106": {
+            "Sinner": "Coquelic",
+            "Title": "Annoyed",
+            "File": "vo_coquelicot_shengfang_clicking_001",
+            "Text": "Oh? You'd like to have a go? Be my guest. But... I'm afraid I'll have to take your lap as my new seat."
+        },
+        "110604107": {
+            "Sinner": "Coquelic",
+            "Title": "Special Attention",
+            "File": "vo_coquelicot_shengfang_specialattention_001",
+            "Text": "The new garden has many rare flowering plants that can't be found even in DisCity, like purple water lilies, dancing-lady orchids... Hmm? You only want to see poppies? Well, in that case, you can just look at me."
         }
     },
     "110605": {
