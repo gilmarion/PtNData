@@ -2524,6 +2524,75 @@
             "Reward Qty": "1.0"
         }
     },
+    "146": {
+        "Id": 1046001,
+        "Quality": "Purple",
+        "DispatchTitle": "科普讲座",
+        "DispatchDescription": "近日，涅槃科技旗下著名幼儿编程机构招聘精通计算机编程的相关专家，在科普活动月中进行一节科普讲座。",
+        "DispatchSinners": {
+            "Sinner": "摩尔"
+        },
+        "BaseAward": {
+            "Reward Item": "泪晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "147": {
+        "Id": 1046002,
+        "Quality": "Green",
+        "DispatchTitle": "部门整顿",
+        "DispatchDescription": "新城工会最近需要重新定制员工关系手册，急招一名对员工关系有深刻见解的禁闭者协助调研。",
+        "DispatchSinners": {
+            "Sinner": "瑞思"
+        },
+        "BaseAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "148": {
+        "Id": 1046003,
+        "Quality": "Blue",
+        "DispatchTitle": "球技大赛",
+        "DispatchDescription": "近期，新城运动管理局举办了一场球技大赛，针对新城流行的各种球类运动都发起了一场全民竞技，现需管理局派出有相关经验人员进行参赛。",
+        "DispatchSinners": {
+            "Sinner 1": "瑞思",
+            "Sinner 2": "多莉"
+        },
+        "BaseAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "泪石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "149": {
+        "Id": 1046004,
+        "Quality": "Purple",
+        "DispatchTitle": "游戏测试",
+        "DispatchDescription": "近日，发现有不法分子利用市面上几款游戏中的工程漏洞进行大量资源非法流转盈利操作，且该行为对游戏平衡造成了恶劣的干扰。现急需熟悉相关内容的禁闭者协助探查。",
+        "DispatchSinners": {
+            "Sinner": "000"
+        },
+        "BaseAward": {
+            "Reward Item": "感染角质",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生角质",
+            "Reward Qty": "1.0"
+        }
+    },
     "150": {
         "Id": 1099001,
         "Quality": "Green",

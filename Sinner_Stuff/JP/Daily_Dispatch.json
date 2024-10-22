@@ -2524,6 +2524,75 @@
             "Reward Qty": "1.0"
         }
     },
+    "146": {
+        "Id": 1046001,
+        "Quality": "Purple",
+        "DispatchTitle": "科学普及講座",
+        "DispatchDescription": "最近、涅槃テクノロジー傘下の有名児童プログラミング教育機関が、科学普及活動月間に科学普及講座を実施することになった。そのため、コンピュータープログラミングに精通した専門家を募集している。",
+        "DispatchSinners": {
+            "Sinner": "ムーア"
+        },
+        "BaseAward": {
+            "Reward Item": "涙晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "147": {
+        "Id": 1046002,
+        "Quality": "Green",
+        "DispatchTitle": "部門是正",
+        "DispatchDescription": "ニューシティ労働組合は最近、従業員関係のマニュアルを再編しようとしており、調査研究のため従業員関係に深い見識を持つコンビクトを緊急募集している。",
+        "DispatchSinners": {
+            "Sinner": "ライズ"
+        },
+        "BaseAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "148": {
+        "Id": 1046003,
+        "Quality": "Blue",
+        "DispatchTitle": "球技大会",
+        "DispatchDescription": "近々、ニューシティスポーツ管理局は球技大会を開催する。ニューシティで人気のある様々な球技を扱う予定なので、スポーツ管理局に関連経験を持つ人を派遣し、試合に参加してもらう必要がある。",
+        "DispatchSinners": {
+            "Sinner 1": "ライズ",
+            "Sinner 2": "ドリー"
+        },
+        "BaseAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "涙石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "149": {
+        "Id": 1046004,
+        "Quality": "Purple",
+        "DispatchTitle": "ゲームテスト",
+        "DispatchDescription": "最近、犯罪者が市販されているいくつかのゲームのバグを利用して、利益を得るために大量のリソースを違法に転送している。この行為がゲームバランスに重大な干渉を引き起こしていることが判明した。捜査を支援するため、関連内容に精通したコンビクトが急ぎ必要だ。",
+        "DispatchSinners": {
+            "Sinner": "000"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        }
+    },
     "150": {
         "Id": 1099001,
         "Quality": "Green",

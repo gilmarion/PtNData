@@ -2524,6 +2524,75 @@
             "Reward Qty": "1.0"
         }
     },
+    "146": {
+        "Id": 1046001,
+        "Quality": "Purple",
+        "DispatchTitle": "Educational Seminar",
+        "DispatchDescription": "Nirvana Tech's prestigious programming institute for young children is recruiting a computer programming expert to conduct an educational seminar during its Science Month.",
+        "DispatchSinners": {
+            "Sinner": "Moore"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "147": {
+        "Id": 1046002,
+        "Quality": "Green",
+        "DispatchTitle": "Department Reorganization",
+        "DispatchDescription": "The Eastside Union is compiling an employee relations manual. They are urgently seeking a Sinner well versed in the subject to assist in their research.",
+        "DispatchSinners": {
+            "Sinner": "Rise"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "148": {
+        "Id": 1046003,
+        "Quality": "Blue",
+        "DispatchTitle": "Ball Game Tournament",
+        "DispatchDescription": "The Eastside Sport Bureau is holding a ball game tournament which will include matches for all popular ball games open to all citizens. The MBCC needs to send its own participants with relevant experience.",
+        "DispatchSinners": {
+            "Sinner 1": "Rise",
+            "Sinner 2": "Dolly"
+        },
+        "BaseAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Tear Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "149": {
+        "Id": 1046004,
+        "Quality": "Purple",
+        "DispatchTitle": "Game Testing",
+        "DispatchDescription": "It's recently been discovered that people are exploiting bugs in video games to generate income by illegally transferring large amounts of resources, severely disrupting the equilibrium in these games. Assistance from a Sinner with relevant knowledge is required to aid the investigation.",
+        "DispatchSinners": {
+            "Sinner": "000"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        }
+    },
     "150": {
         "Id": 1099001,
         "Quality": "Green",

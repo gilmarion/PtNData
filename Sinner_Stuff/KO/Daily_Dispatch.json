@@ -2524,6 +2524,75 @@
             "Reward Qty": "1.0"
         }
     },
+    "146": {
+        "Id": 1046001,
+        "Quality": "Purple",
+        "DispatchTitle": "과학 지식 강연",
+        "DispatchDescription": "최근 니르바나 테크의 유명한 유아 코딩 교육 기관에서 컴퓨터 코딩 관련 전문가를 초청하여 과학의 달에 과학 지식 강연을 개최하려고 한다.",
+        "DispatchSinners": {
+            "Sinner": "무어"
+        },
+        "BaseAward": {
+            "Reward Item": "눈물 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "147": {
+        "Id": 1046002,
+        "Quality": "Green",
+        "DispatchTitle": "부서 정돈",
+        "DispatchDescription": "신성 근로자 협회에서는 직원 관계 가이드를 다시 제정하려고 한다. 직원 관계 관련 내용을 잘 이해하고 있는 수감자를 급하게 모집하여 관련 업무 협조를 부탁하려고 한다.",
+        "DispatchSinners": {
+            "Sinner": "라이즈"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "148": {
+        "Id": 1046003,
+        "Quality": "Blue",
+        "DispatchTitle": "구기 대회",
+        "DispatchDescription": "최근 신성 운동 관리국이 신성에서 전 시민을 대상으로 구기 운동 대회를 개최하려 한다. 관리국에서 관련 경력이 있는 인원들을 경기에 파견해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "라이즈",
+            "Sinner 2": "돌리"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 눈물석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "149": {
+        "Id": 1046004,
+        "Quality": "Purple",
+        "DispatchTitle": "게임 테스트",
+        "DispatchDescription": "최근 불법자가 시장 있는 게임 프로그램의 버그를 활용해 대량의 자원을 불법으로 유출하여 이득을 취하였고, 이 행위는 게임 밸런스 유지에 악질적인 영향을 끼쳤다. 현재 급하게 관련 내용에 익숙한 수감자를 보내 수사에 협조해야 한다.",
+        "DispatchSinners": {
+            "Sinner": "000"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        }
+    },
     "150": {
         "Id": 1099001,
         "Quality": "Green",
