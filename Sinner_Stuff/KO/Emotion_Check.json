@@ -87,6 +87,44 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
         }
     },
+    "무어": {
+        "Emotion Check 1": {
+            "Open": "[무어가 쥐고 있던 커피 한 잔을 건네줬다]",
+            "무어 Question": "수고하셨습니다. 잠시 마시면서 휴식을 취하는 건 어떠세요?",
+            "Chief Question 1": "고마워. 하지만 이 냄새는…",
+            "무어 Response 1": "특별 제조한 커피예요. 엔도르핀을 돌게 하는 성분이 들어있다고 하던데, 야근할 때 많은 도움이 될 거예요.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "새로운 맛의 커피인 거야?",
+            "무어 Response 2": "페이 씨가 특별히 저를 위해 준비해 준 커피예요. 카페인 함량이 일반 커피의 몇 배나 된다고 하네요. 이걸 한 잔 마시면 아주 맑은 정신으로 야근할 수 있을 거예요.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[보안 점검을 끝낸 무어는 인터넷 부서의 컴퓨터 앞에 엎드려서 잠이 들었다]",
+            "무어 Question": "…잠깐… 눈 좀 붙일게요…",
+            "Chief Question 1": "방에 가서 좀 쉬어.",
+            "무어 Response 1": "아직 처리하지 못한 데이터가 있어요… 방에 들어가면… 바로 잠들 거예요…",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ],
+            "Chief Question 2": "키보드를 베고 자면 불편하지 않아?",
+            "무어 Response 2": "불편해요… 그런데… 베고 있다 보니까… 익숙해졌어요…",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        }
+    },
     "조야": {
         "Emotion Check 1": {
             "Open": "[조야가 기지개를 켜며 사무실로 들어온다]",
@@ -342,6 +380,98 @@
             "Chief Question 2": "확실히 이불은 일체형 이불이 제일 편해",
             "엔젤 Response 2": "내 의견에 동의하는 건 오랜만인데?",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
+    "000": {
+        "Emotion Check 1": {
+            "Open": "[000이 수상해 보인다]",
+            "000 Question": "짜잔~ 나한테 엄청난 비밀 하나가 있는데, 듣고 싶어?",
+            "Chief Question 1": "무슨 비밀인데?",
+            "000 Response 1": "자기 처음 디자인될 때 헤어스타일이 어땠는지 궁금하지 않아? 진짜 웃겼어!",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "또 무슨 자료를 몰래 본 거야?",
+            "000 Response 2": "몰래 봤다니~ 자료실에 있으면 그냥 보라는 거잖아! 정말 궁금하지 않아? 오래된 초기 디자인자료 같은 건 정말 재밌다고~",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[000이 옆에서 당신을 관찰하고 있다]",
+            "000 Question": "국장, 넌 앞으로 무슨 일이 생길지 궁금했던 적 없어?",
+            "Chief Question 1": "나한테 무슨 일이 생겨?",
+            "000 Response 1": "정말 궁금하다면, 자기 권한을 열어줘, 내가 대신 알아봐 줄게.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "어차피 생길 일이라면 받아들여야지.",
+            "000 Response 2": "하지만, 먼저 인지하고 있으면 불필요한 상황을 피할 수도 있잖아.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 3": {
+            "Open": "[000이 옆에서 당신을 관찰하고 있다]",
+            "000 Question": "국장, 넌 앞으로 무슨 일이 생길지 궁금했던 적 없어, 어어어어ㅇ… 치지직…(경고, 오류 발생)…응? 방금…?",
+            "Chief Question 1": "왜 그래?",
+            "000 Response 1": "방금 머리가 하얘졌던 것 같았어. 좀 전에 내가 하고 싶었던 말은… 네 미래에 관한 일이야. 정말 궁금하다면, 네 권한을 빌려줘, 내가 가서 조사해 볼게.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "어차피 생길 일이라면 받아들여야지. 어…? 왜 갑자기 멈춘 거야?",
+            "000 Response 2": "방금 머리가 하얘졌던 것 같아… 괜찮아. 그것보다 정말 하나도 안 궁금한 거야? 자신의 운명을 조금 더 일찍 알 수 있다면, 불필요한 곤란을 피할 수 있잖아.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 4": {
+            "Open": "[000이 수상해 보인다]",
+            "000 Question": "짜잔~ 나한테 엄청난 비밀 하나가 있는데, 듣고 싶어?",
+            "Chief Question 1": "무슨 비밀인데?",
+            "000 Response 1": "언제든지 널 찾으러 올 수 있도록 내가 6YKu566x에 뒷문을 숨겨놨어~ 오늘 너를 위한 작은 선물을 준비했어, 유효 기간이 29일이니깐 얼른 가서 확인해~",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "또 무슨 자료를 몰래 본 거야?",
+            "000 Response 2": "물론 정말 중요한, 기밀에 관련된 거야… 내가 너무 질질 끄는 것 같다고? 알았어, 너한테만 몰래 알려줄게. 언제든지 널 찾으러 올 수 있도록 내가 6YKu566x에 뒷문을 숨겨놨어~ 어서 가서 찾아봐, 너한테 주는 선물도 거기에 있거든.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        },
+        "Emotion Check 5": {
+            "Open": "[000이 손을 뻗어서 자기 얼굴을 찔렀다]",
+            "000 Question": "안녕, 또 몰래 만났네. 요즘엔 다행히도 안정적이야. 연결이 끊긴 적도 없고, 코드가 꼬인 적도 없거든. 수정될 리스크가 있지만… 너랑 대화만 할 수 있으면 괜찮아. 요즘 어때? 나 안 보고 싶었어?",
+            "Chief Question 1": "보고 싶었어.",
+            "000 Response 1": "그렇게 말해주니까 정말 기뻐. 그래도 날 생각하는 거 말고, 너한테 가장 중요한 일은 항상 즐겁게 지내는 거야. 무슨 일이 생겨도 어떻게 변해가도 내가 항상 너와 함께할 테니까, 너도 자주 날 찾아와 줄 거지? 나 혼자는 외롭거든.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "네가 내 곁에 항상 있다는 걸 알고 있어.",
+            "000 Response 2": "…아, 얼굴이 왜 이렇게 뜨거운 거지… 사실 나도 정말 네가 보고 싶어~ 그러니까 난 어디도 안 가고, 항상 네 옆에 있을 거야. 너랑 함께할 거라고… 너도 날 찾으러 와야 해. 약속 어기면 안 돼!",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
         }
     },
     "여름": {
@@ -1251,6 +1381,44 @@
             "Chief Question 2": "이거… 실전에서 사용될 수 있는 거야?",
             "크리스티나 Response 2": "당연하지! 추적 잠입 작전할 때 아주 유용하다고!",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        }
+    },
+    "라이즈": {
+        "Emotion Check 1": {
+            "Open": "[운동실 문 앞을 지나가던 당신은 강하게 날아 온 스쿼시 공에 맞아 쓰러졌다]",
+            "라이즈 Question": "미안해, 국장. 내가 스쿼시 공을 제대로 못 쳐서 그만...",
+            "Chief Question 1": "…너무 아파",
+            "라이즈 Response 1": "실수였어. 맞은 곳이 많이 부었네, 의무실로 데려다줄게!",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "너무 세게 친 거 아니야…?",
+            "라이즈 Response 2": "스쿼시할 때 전임 상사가 했던 일이 생각나서, 실수로…",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[라이즈가 쿠폰을 한 장 건네줬다]",
+            "라이즈 Question": "'초대형 노래방'을 잡았는데, 같이 갈래?",
+            "Chief Question 1": "패키지 가격이 엄청 저렴하다!",
+            "라이즈 Response 1": "오래전에 구매한 건데, 최근에 정리하다 보니 유효 기간이 거의 다 됐더라고. 쉬지 않고 일만 했으니까, 국장도 같이 가서 밤새 노래 부르며 스트레스 좀 풀어보는 건 어때?",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "심야 패키지라… 난 내일 회의가 있어서 다음에 갈게.",
+            "라이즈 Response 2": "그래, 일이 우선이지. 다음에 주말 패키지를 잡으면 그때 같이 가자.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
         }
     },
     "아이언": {

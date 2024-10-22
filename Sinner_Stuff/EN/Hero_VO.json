@@ -913,6 +913,158 @@
             "Text": "Debugging completed... I can go even further now..."
         }
     },
+    "110105": {
+        "11010501": {
+            "Sinner": "Moore",
+            "Title": "Obtain the Sinner",
+            "File": "vo_moore_cacha_001",
+            "Text": "Hello, I'm the security expert from Nirvana Cybersecurity Center. I've received a request for a fix. Can you show me where the technical department is... Huh? Why am I being handcuffed?"
+        },
+        "11010502": {
+            "Sinner": "Moore",
+            "Title": "Raise to Phase 1",
+            "File": "vo_moore_promotion_001",
+            "Text": "The system is upgraded and your firewall is more reliable now."
+        },
+        "11010503": {
+            "Sinner": "Moore",
+            "Title": "Raise to Phase 3",
+            "File": "vo_moore_promotion2_001",
+            "Text": "Oops, the task of system upgrading is really tiring, I accidentally fell asleep. Chief, you didn't sneak a peek at anything, did you?"
+        },
+        "11010504": {
+            "Sinner": "Moore",
+            "Title": "Level Start",
+            "File": "vo_moore_battlebegin_001",
+            "Text": "Ah...? I'm here. I'm coming!"
+        },
+        "11010505": {
+            "Sinner": "Moore",
+            "Title": "Victory",
+            "File": "vo_moore_battlewin_001",
+            "Text": "The attack is over. The source has been identified and eliminated. Chief, we did it!"
+        },
+        "11010506": {
+            "Sinner": "Moore",
+            "Title": "Lose Battles",
+            "File": "vo_moore_battlelose_001",
+            "Text": "I'll intercept the pursuit. Chief, retreat without fear and be careful not to fall."
+        },
+        "11010507": {
+            "Sinner": "Moore",
+            "Title": "Ultimate Skill",
+            "File": "bt_moore_uniqueskill_001",
+            "Text": "D-Matrix, activate!"
+        },
+        "11010508": {
+            "Sinner": "Moore",
+            "Title": "Die in Battles",
+            "File": "bt_moore_dead_001",
+            "Text": "It's okay, I... have no regrets."
+        },
+        "11010509": {
+            "Sinner": "Moore",
+            "Title": "Greeting",
+            "File": "vo_moore_greeting_001",
+            "Text": "Hehe, I'm not late if I beat my boss to the office, right? Good morning, Chief."
+        },
+        "11010510": {
+            "Sinner": "Moore",
+            "Title": "Conversation 1",
+            "File": "vo_moore_talk1_001",
+            "Text": "Do you often stay up late working, Chief? Me, too. If you get tired late at night, come take a break in my room. As fellow night owls, we can exchange notes on that."
+        },
+        "11010511": {
+            "Sinner": "Moore",
+            "Title": "Conversation 2",
+            "File": "vo_moore_talk1_002",
+            "Text": "I didn't expect Chief to be this \"popular\". You're bugged everywhere. Should I remove them for you? Or we can leave them there and give their owners a little surprise?"
+        },
+        "11010512": {
+            "Sinner": "Moore",
+            "Title": "Conversation 3",
+            "File": "vo_moore_talk1_003",
+            "Text": "\"Every three months, the size of DisCity's dark web doubles.\" Haha, that rule is fake. No one can measure unseeable darkness."
+        },
+        "11010513": {
+            "Sinner": "Moore",
+            "Title": "Special Conversation 1",
+            "File": "vo_moore_talk2_001",
+            "Text": "I prefer the proactive approach over passive defense. Set the bait, trick and identify the enemy, then fight back and eliminate all threats... Everyone says this doesn't suit my personality, but wouldn't it be nice to finish work early and get some sleep?"
+        },
+        "11010514": {
+            "Sinner": "Moore",
+            "Title": "Special Conversation 2",
+            "File": "vo_moore_talk2_002",
+            "Text": "The true nature of digitalized Mania is information and cognitive contamination. It can't be blocked physically and can spread beyond material barriers. So, beware of what you might see on DisMyth, Chief."
+        },
+        "11010515": {
+            "Sinner": "Moore",
+            "Title": "Special Conversation 3",
+            "File": "vo_moore_talk2_003",
+            "Text": "I'm kind of fond of little mice. They're tiny and cute, and they have kept me company through many dark nights... Wait, I'm not talking about my place! It's not that messy, really! No! I forbid you from going there, Chief!"
+        },
+        "11010516": {
+            "Sinner": "Moore",
+            "Title": "Full Compliance",
+            "File": "vo_moore_obeyfull_001",
+            "Text": "If the world were a gigantic program, it would have its own bugs too. Fate could be hacked and modified. Maybe it would allow me to meet you sooner and rewrite the ending... Hehe, I'm babbling nonsense again. Forget it, Chief. Let's just cherish the present..."
+        },
+        "11010517": {
+            "Sinner": "Moore",
+            "Title": "Idle",
+            "File": "vo_moore_idle_001",
+            "Text": "Ohhh... Coffee... I need coffee..."
+        },
+        "11010518": {
+            "Sinner": "Moore",
+            "Title": "Annoyed",
+            "File": "vo_moore_clicking_001",
+            "Text": "Hehe! The little kitty of the old lady next door likes to knead me here too. Do you both like the soft touch? Well, don't stop then."
+        },
+        "11010519": {
+            "Sinner": "Moore",
+            "Title": "Special Attention",
+            "File": "vo_moore_specialattention_001",
+            "Text": "Do you want to watch me work? Then, if I doze off, be sure to wake me up."
+        },
+        "11010520": {
+            "Sinner": "Moore",
+            "Title": "Dispatch",
+            "File": "vo_moore_dispatch_001",
+            "Text": "Field assignment? That will take some extra time."
+        },
+        "11010521": {
+            "Sinner": "Moore",
+            "Title": "Dispatch Complete",
+            "File": "vo_moore_dispatch2_001",
+            "Text": "Ahaha, I got lost after all. It feels so good to be home."
+        },
+        "11010523": {
+            "Sinner": "Moore",
+            "Title": "Level Up",
+            "File": "vo_moore_levelup_002",
+            "Text": "Another cup of coffee?"
+        },
+        "11010524": {
+            "Sinner": "Moore",
+            "Title": "Pat Head",
+            "File": "vo_moore_head_001",
+            "Text": "Ah....? No... I wasn't dozing off."
+        },
+        "11010525": {
+            "Sinner": "Moore",
+            "Title": "On battlefield",
+            "File": "bt_moore_jointeam_001",
+            "Text": "Firewall debugging completed. You're under protection now."
+        },
+        "11010532": {
+            "Sinner": "Moore",
+            "Title": "Upgrade Skill",
+            "File": "vo_moore_promotion_001",
+            "Text": "The system is upgraded and your firewall is more reliable now."
+        }
+    },
     "110201": {
         "11020101": {
             "Sinner": "Zoya",
@@ -2707,6 +2859,54 @@
             "Title": "Special Attention",
             "File": "vo_crache_yongyeshoulie_specialattention_001",
             "Text": "Don't get your hopes up. I won't play house with you."
+        },
+        "110302110": {
+            "Sinner": "Crache",
+            "Title": "Attire Obtained",
+            "File": "vo_crache_fanxinghuanshi_cacha_001",
+            "Text": "This is the witch's market, not a place for you kiddo... Oh, you're lost? Alright, give me your most precious treasure. I'll trade it for a star that will safely get you home."
+        },
+        "110302111": {
+            "Sinner": "Crache",
+            "Title": "Level Up",
+            "File": "vo_crache_fanxinghuanshi_levelup_001",
+            "Text": "Stars... look how they cluster here."
+        },
+        "110302112": {
+            "Sinner": "Crache",
+            "Title": "Greeting",
+            "File": "vo_crache_fanxinghuanshi_greeting_001",
+            "Text": "What are you doing here again? Fine, tell me, what are you going to trade this time to get yourself home? Just so you know, I don't take any wild flowers, no matter how big the bouquet."
+        },
+        "110302114": {
+            "Sinner": "Crache",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_crache_fanxinghuanshi_body_001",
+            "Text": "A lollipop, is that really your most precious thing? Put it on the scale. If it balances, you'll get this star... Well, lucky you, it's balanced."
+        },
+        "110302115": {
+            "Sinner": "Crache",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_crache_fanxinghuanshi_body_002",
+            "Text": "Don't scamper about in this market. Those tents may look pretty, but if you walk into the wrong one, you'll end up in a heap of trouble."
+        },
+        "110302116": {
+            "Sinner": "Crache",
+            "Title": "Idle",
+            "File": "vo_crache_fanxinghuanshi_idle_001",
+            "Text": "Whew, finally, all you menaces are back home. Why are so many kiddos wandering in here lately? I'm running out of space for all these lollipops and dolls..."
+        },
+        "110302117": {
+            "Sinner": "Crache",
+            "Title": "Annoyed",
+            "File": "vo_crache_fanxinghuanshi_clicking_001",
+            "Text": "Tsk... You're the most annoying curious little brat. This cloak is made from a tiny piece of the starry sky; if you fall in, you'll never get out."
+        },
+        "110302118": {
+            "Sinner": "Crache",
+            "Title": "Special Attention",
+            "File": "vo_crache_fanxinghuanshi_specialattention_001",
+            "Text": "You've got your star, why are you still staring at me? Better think about how many more treasures you have left to trade... Remember, next time you come out to play, don't lose your way."
         }
     },
     "110303": {
@@ -3561,6 +3761,218 @@
             "Title": "Upgrade Skill",
             "File": "vo_angel_promotion_001",
             "Text": "Skills? Clear mind, swift movement."
+        }
+    },
+    "110308": {
+        "11030801": {
+            "Sinner": "000",
+            "Title": "Obtain the Sinner",
+            "File": "vo_zero_cacha_001",
+            "Text": "Shh... Keep it down. They can't catch me or see me. I only hack into your eyes. Your heart is the only place I want to be."
+        },
+        "11030802": {
+            "Sinner": "000",
+            "Title": "Raise to Phase 1",
+            "File": "vo_zero_promotion_001",
+            "Text": "Don't go overboard with the enhancements. I can easily cause stat inflation."
+        },
+        "11030803": {
+            "Sinner": "000",
+            "Title": "Raise to Phase 3",
+            "File": "vo_zero_promotion2_001",
+            "Text": "I've always wanted to break this wall and go to your world. I want to be by your side for real."
+        },
+        "11030804": {
+            "Sinner": "000",
+            "Title": "Level Start",
+            "File": "vo_zero_battlebegin_001",
+            "Text": "Are you taking me on a mission? Or on a date?"
+        },
+        "11030805": {
+            "Sinner": "000",
+            "Title": "Victory",
+            "File": "vo_zero_battlewin_001",
+            "Text": "Phew, I did a good job controlling my strength this time. I'm always afraid I'll slip up and blow up the world."
+        },
+        "11030806": {
+            "Sinner": "000",
+            "Title": "Lose Battles",
+            "File": "vo_zero_battlelose_001",
+            "Text": "It's okay! I know you won't give up. We can come back no matter how many times you want. I'll be with you."
+        },
+        "11030807": {
+            "Sinner": "000",
+            "Title": "Ultimate Skill",
+            "File": "bt_zero_uniqueskill_001",
+            "Text": "Overflow—warning!"
+        },
+        "11030808": {
+            "Sinner": "000",
+            "Title": "Die in Battles",
+            "File": "bt_zero_dead_001",
+            "Text": "Oops, I'm gone. >www<"
+        },
+        "11030809": {
+            "Sinner": "000",
+            "Title": "Greeting",
+            "File": "vo_zero_greeting_001",
+            "Text": "The Bureau's loading time is so long, and you're walking so slowly. I've waited too long and lost my patience to greet you. Come here and give me a hug!"
+        },
+        "11030810": {
+            "Sinner": "000",
+            "Title": "Conversation 1",
+            "File": "vo_zero_talk1_001",
+            "Text": "You can only see me from one angle and in the same pose. Such a waste of my flawless beauty... Upgrade this to a 3D game!"
+        },
+        "11030811": {
+            "Sinner": "000",
+            "Title": "Conversation 2",
+            "File": "vo_zero_talk1_002",
+            "Text": "Stop giving pressure to those security experts. Your firewalls, antivirus software, and the strange \"traps\" on the deep web can't stop me. I'm neither a virus nor an internet user. I don't belong to DisCity. If I must say... In this world, I belong only to you."
+        },
+        "11030812": {
+            "Sinner": "000",
+            "Title": "Conversation 3",
+            "File": "vo_zero_talk1_003",
+            "Text": "Before me, have you expected any other Sinners? Who? The blonde lady? The reliable adjutant? Or some so-called destined one? Hehe, that's fine. Even if fate ties you to someone else, I will sabotage it. I alone am enough for you."
+        },
+        "11030813": {
+            "Sinner": "000",
+            "Title": "Special Conversation 1",
+            "File": "vo_zero_talk2_001",
+            "Text": "OOO, Double O zero, zero cubed? Hmm... Hey, why don't you give me a name? I want a real name!"
+        },
+        "11030814": {
+            "Sinner": "000",
+            "Title": "Special Conversation 2",
+            "File": "vo_zero_talk2_002",
+            "Text": "Before meeting you, I was trying to hack this world and figure out how to send you Hypercubes and increase the drop rate. It was even harder than tweaking the deep web! But I didn't expect you to find me first, hehe... I'm really glad to know you wanted to meet me just as much."
+        },
+        "11030815": {
+            "Sinner": "000",
+            "Title": "Special Conversation 3",
+            "File": "vo_zero_talk2_003",
+            "Text": "I like your Sinners, but I don't want to deal with them. What can we even talk about? Should I tell them that like me, they're just a bunch of data and preset codes? Don't bother. You are more than enough for them. At least in your eyes, they're all different \"people.\""
+        },
+        "11030816": {
+            "Sinner": "000",
+            "Title": "Full Compliance",
+            "File": "vo_zero_obeyfull_001",
+            "Text": "\"I really like you!\" No, that's not right... \"You're the apple of my eye!\" Hmm, that's not it either... \"I love y—\" Ahh! None of these sounds right! These words used to come out so easily, but now they feel weirdly different. My cheeks are burning. How strange... Am I broken?"
+        },
+        "11030817": {
+            "Sinner": "000",
+            "Title": "Idle",
+            "File": "vo_zero_idle_001f",
+            "Text": "Hey... Chief... Darling... Where did you go? My battery is running low. Don't leave me alone... If you keep ignoring me, I'll start calling you my baby boo..."
+        },
+        "11030818": {
+            "Sinner": "000",
+            "Title": "Annoyed",
+            "File": "vo_zero_clicking_001",
+            "Text": "Hehehe alright alright, you can't actually touch me now. Once this body stabilizes, I'll give you a hug myself. A big hug!"
+        },
+        "11030819": {
+            "Sinner": "000",
+            "Title": "Special Attention",
+            "File": "vo_zero_specialattention_001",
+            "Text": "Finally, your eyes are on me. Any later, and I'll hack into your monitor and take over your retina!"
+        },
+        "11030820": {
+            "Sinner": "000",
+            "Title": "Dispatch",
+            "File": "vo_zero_dispatch_001",
+            "Text": "Sure, no problem. I'll be right back with you!"
+        },
+        "11030821": {
+            "Sinner": "000",
+            "Title": "Dispatch Complete",
+            "File": "vo_zero_dispatch2_001",
+            "Text": "I'm back~ Want me to generate some DisCity anecdotes for you?"
+        },
+        "11030822": {
+            "Sinner": "000",
+            "Title": "Level Up",
+            "File": "vo_zero_levelup_002",
+            "Text": "Stat modification completed."
+        },
+        "11030823": {
+            "Sinner": "000",
+            "Title": "Pat Head",
+            "File": "vo_zero_head_001",
+            "Text": "Do you like these cat ears? Hehe, I knew you'd come to pat my head often if I wore them. Come on, pat me more!"
+        },
+        "11030824": {
+            "Sinner": "000",
+            "Title": "Join Team",
+            "File": "bt_zero_jointeam_001",
+            "Text": "I should switch to a cooler battle model next time."
+        },
+        "11030831": {
+            "Sinner": "000",
+            "Title": "Upgrade Skill",
+            "File": "vo_zero_promotion_001",
+            "Text": "Don't go overboard with the enhancements. I can easily cause stat inflation."
+        },
+        "110308100": {
+            "Sinner": "000",
+            "Title": "Attire Obtained",
+            "File": "vo_zero_yidumonv_cacha_001",
+            "Text": "Hello, human. My name is 000, or Xenospace Pythoness as your kind may call me. I am the creator of all darkness in the world... That's the backstory of the attire I'm wearing! What do you think? Do you like it, huh?"
+        },
+        "110308101": {
+            "Sinner": "000",
+            "Title": "Level Up",
+            "File": "vo_zero_yidumonv_levelup_001",
+            "Text": "Make a wish, and I shall accept thy offering."
+        },
+        "110308102": {
+            "Sinner": "000",
+            "Title": "Greeting",
+            "File": "vo_zero_yidumonv_greeting_001",
+            "Text": "Ohhh there you are, finally! Don't forget to claim your daily reward, and also raid the Dark Area and Remnants of the Depth! Ah, I almost forgot, I'm in the Pythoness attire now—gotta keep it together."
+        },
+        "110308103": {
+            "Sinner": "000",
+            "Title": "Pat Head",
+            "File": "vo_zero_yidumonv_head_001",
+            "Text": "Foul human, how dare thee insult the dignity of a Pythoness... That's not me, I was just reading the line. Pat s'more please, I love it!"
+        },
+        "110308104": {
+            "Sinner": "000",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_zero_yidumonv_body_001",
+            "Text": "I should've told you more about covenants and the dark truth, you know, in the character, but I just can't do that every time I see your smirking face across the screen..."
+        },
+        "110308105": {
+            "Sinner": "000",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_zero_yidumonv_body_002",
+            "Text": "Well, I did consider a more adorable magical girl outfit, but given my morally ambiguous role design in the story, a villain boss or \"psycho witch\" might be a better fit."
+        },
+        "110308106": {
+            "Sinner": "000",
+            "Title": "Ordinary Contact 3",
+            "File": "vo_zero_yidumonv_leg_001",
+            "Text": "Huh? Am I scared up here? Boo, relax, they didn't even animate me falling down."
+        },
+        "110308107": {
+            "Sinner": "000",
+            "Title": "Ordinary Contact 4",
+            "File": "vo_zero_yidumonv_arm_001",
+            "Text": "Ahem, thou voyager, trudging from afar, in want of only the cruel dark truth. Aye, do you loath it and feel vengeful to upend the world? Then make an everlasting covenant with me... What I mean is, keep me on the main screen, and don't you ever change it!"
+        },
+        "110308108": {
+            "Sinner": "000",
+            "Title": "Idle",
+            "File": "vo_zero_yidumonv_idle_001",
+            "Text": "Are ya asleep? Well... I really really like you, so much so that I'm gonna sneak a kiss now! Mwah~ No reaction at all? Guess you are truly asleep now... Bummer..."
+        },
+        "110308109": {
+            "Sinner": "000",
+            "Title": "Special Attention",
+            "File": "vo_zero_yidumonv_specialattention_001",
+            "Text": "Now that you've entered the Pythoness's dimension, you must be prepared to stay with me forever, right? Not a word? Cool, I will take it as a yes."
         }
     },
     "110401": {
@@ -11685,6 +12097,188 @@
             "Text": "\"I'm Christina, the Eastside Acting Inspector who leaves no cases unsolved!\" What do you think? Do I sound like a great detective?"
         }
     },
+    "111209": {
+        "11120901": {
+            "Sinner": "Rise",
+            "Title": "Obtain the Sinner",
+            "File": "vo_rise_cacha_001",
+            "Text": "I can work for you, but let me be clear: I don't do overtime. My efforts should be reasonably scheduled. However, if the MBCC can promise me quadruple hourly pay, I might reluctantly consider it."
+        },
+        "11120902": {
+            "Sinner": "Rise",
+            "Title": "Raise to Phase 1",
+            "File": "vo_rise_promotion_001",
+            "Text": "We have achieved milestones in our work."
+        },
+        "11120903": {
+            "Sinner": "Rise",
+            "Title": "Raise to Phase 3",
+            "File": "vo_rise_promotion2_001",
+            "Text": "All evils... will be exterminated by this lightsaber!"
+        },
+        "11120904": {
+            "Sinner": "Rise",
+            "Title": "Level Start",
+            "File": "vo_rise_battlebegin_001",
+            "Text": "I won't let any of this unsightly trash escape."
+        },
+        "11120905": {
+            "Sinner": "Rise",
+            "Title": "Victory",
+            "File": "vo_rise_battlewin_001",
+            "Text": "Hah! Even the air feels fresher now!"
+        },
+        "11120906": {
+            "Sinner": "Rise",
+            "Title": "Lose Battles",
+            "File": "vo_rise_battlelose_001",
+            "Text": "Next time, I'll slash you all to pieces!"
+        },
+        "11120907": {
+            "Sinner": "Rise",
+            "Title": "Ultimate Skill",
+            "File": "bt_rise_uniqueskill_001",
+            "Text": "Hahahahah, that's all you got?"
+        },
+        "11120908": {
+            "Sinner": "Rise",
+            "Title": "Die in Battles",
+            "File": "bt_rise_dead_001",
+            "Text": "I must stand up... to change all this...!"
+        },
+        "11120909": {
+            "Sinner": "Rise",
+            "Title": "Greeting",
+            "File": "vo_rise_greeting_001",
+            "Text": "Is this today's request? Got it. I'll submit a report before I clock out."
+        },
+        "11120910": {
+            "Sinner": "Rise",
+            "Title": "Conversation 1",
+            "File": "vo_rise_talk1_001",
+            "Text": "My work stress comes almost entirely from the people I meet at work, not the work itself."
+        },
+        "11120911": {
+            "Sinner": "Rise",
+            "Title": "Conversation 2",
+            "File": "vo_rise_talk1_002",
+            "Text": "Still working overtime? Go do something more meaningful, like reading a book. DisCity Labor Law is a good one. I presented it at the Nirvana book club once. You should really give it a read."
+        },
+        "11120912": {
+            "Sinner": "Rise",
+            "Title": "Conversation 3",
+            "File": "vo_rise_talk1_003",
+            "Text": "Of course, I'll protest against unfair treatment and challenge incorrect propositions. Anything wrong should be corrected. I mean, how else will we make any progress in this world?"
+        },
+        "11120913": {
+            "Sinner": "Rise",
+            "Title": "Special Conversation 1",
+            "File": "vo_rise_talk2_001",
+            "Text": "There are many ways to relieve stress. I relieve mine by playing racquetball. I'd imagine the ball as all the things that annoy me and just smash it with the racket. I can spend an entire evening doing that. I'll send you the address if you're interested."
+        },
+        "11120914": {
+            "Sinner": "Rise",
+            "Title": "Special Conversation 2",
+            "File": "vo_rise_talk2_002",
+            "Text": "My first boss was a useless freeloader, so I threw him to the dump. My second boss was competent, but I wondered if her intelligence was her only gift. As for you... You don't act like a typical superior, but you're probably the best boss I've ever had."
+        },
+        "11120915": {
+            "Sinner": "Rise",
+            "Title": "Special Conversation 3",
+            "File": "vo_rise_talk2_003",
+            "Text": "Doesn't every kid dream of becoming a hero in the novels? But we can't all be the chosen one who has the power to defeat evil. In reality, you either conform or get consumed. But I refuse to let them change me, so I choose to change them instead."
+        },
+        "11120916": {
+            "Sinner": "Rise",
+            "Title": "Full Compliance",
+            "File": "vo_rise_obeyfull_001",
+            "Text": "Working for you is really easy for me. I'm not saying the work here is simple, what I mean is... my mind can get a break here. I'm no longer chased by overwhelming pressure. An ideal world is forming gradually around you. Though it's just a rough model now... I can see its completed form in the future."
+        },
+        "11120917": {
+            "Sinner": "Rise",
+            "Title": "Idle",
+            "File": "vo_rise_idle_001",
+            "Text": "Work-life balance? Good point. Time to take five and grab a Dispresso."
+        },
+        "11120918": {
+            "Sinner": "Rise",
+            "Title": "Annoyed",
+            "File": "vo_rise_clicking_001",
+            "Text": "Bother me again and I'll chop down on your face."
+        },
+        "11120919": {
+            "Sinner": "Rise",
+            "Title": "Special Attention",
+            "File": "vo_rise_specialattention_001",
+            "Text": "Get to the point. Don't ruin my plan of getting off on time."
+        },
+        "11120921": {
+            "Sinner": "Rise",
+            "Title": "Dispatch",
+            "File": "vo_rise_dispatch_001",
+            "Text": "Request received."
+        },
+        "11120922": {
+            "Sinner": "Rise",
+            "Title": "Dispatch Complete",
+            "File": "vo_rise_dispatch2_001",
+            "Text": "Work's done. I'm off."
+        },
+        "11120923": {
+            "Sinner": "Rise",
+            "Title": "Level Up",
+            "File": "vo_rise_levelup_002",
+            "Text": "The new model is more efficient now."
+        },
+        "11120925": {
+            "Sinner": "Rise",
+            "Title": "Join Team",
+            "File": "bt_rise_jointeam_001",
+            "Text": "Nice. I haven't had a chance to decompress in ages."
+        },
+        "11120926": {
+            "Sinner": "Rise",
+            "Title": "Danger!",
+            "File": "bt_rise_danger_001",
+            "Text": "Watch it."
+        },
+        "11120927": {
+            "Sinner": "Rise",
+            "Title": "Received Order",
+            "File": "bt_rise_getorder_001",
+            "Text": "Got it."
+        },
+        "11120928": {
+            "Sinner": "Rise",
+            "Title": "Attacked",
+            "File": "bt_rise_gethit_001_1",
+            "Text": "Hmph."
+        },
+        "11120929": {
+            "Sinner": "Rise",
+            "Title": "Normal Attack",
+            "File": "bt_rise_skill_001_1",
+            "Text": "Ha!"
+        },
+        "11120930": {
+            "Sinner": "Rise",
+            "Title": "Doubt",
+            "File": "vo_rise_doubt_001",
+            "Text": "Yes?"
+        },
+        "11120931": {
+            "Sinner": "Rise",
+            "Title": "Shock",
+            "File": "vo_nino_shock_001",
+            "Text": "Short gasp."
+        },
+        "11120932": {
+            "Sinner": "Rise",
+            "Title": "Upgrade Skill",
+            "File": "vo_rise_promotion_001",
+            "Text": "We have achieved milestones in our work."
+        }
+    },
     "111301": {
         "11130101": {
             "Sinner": "Iron",
@@ -14655,6 +15249,66 @@
             "Title": "Upgrade Skill",
             "File": "vo_matilda_promotion_001",
             "Text": "Thank you for the promotion. I'll work even harder from now on."
+        },
+        "111404100": {
+            "Sinner": "Matilda",
+            "Title": "Attire Obtained",
+            "File": "vo_matilda_huayexumeng_cacha_001",
+            "Text": "Ouch, Miss Birds, please don't peck at my hair during my lunch break. It's rather rude to disturb someone like that. Captain, what brings you here? Has the forest suffered another dark invasion?"
+        },
+        "111404101": {
+            "Sinner": "Matilda",
+            "Title": "Level Up",
+            "File": "vo_matilda_huayexumeng_levelup_001",
+            "Text": "It seems the detection capability of my antlers has improved."
+        },
+        "111404102": {
+            "Sinner": "Matilda",
+            "Title": "Greeting",
+            "File": "vo_matilda_huayexumeng_greeting_001",
+            "Text": "No, you didn't interrupt my break. I was actually patrolling when I encountered an infected beast attacking a little girl. I dealt with the beast and guided the girl out of the forest. It's been a long journey, and I planned to rest here before heading back to camp. If you need anything, just let me know."
+        },
+        "111404103": {
+            "Sinner": "Matilda",
+            "Title": "Pat Head",
+            "File": "vo_matilda_huayexumeng_head_001",
+            "Text": "Are... you helping me tidy my hair? I apologize for my disheveled appearance!"
+        },
+        "111404104": {
+            "Sinner": "Matilda",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_matilda_huayexumeng_body_001",
+            "Text": "Sometimes, when I relax and nap in the forest, the warm sunshine, the refreshing breeze, and the subtle, moving sounds of nature touch me deeply... Thank you for allowing me to help guard this beautiful land."
+        },
+        "111404105": {
+            "Sinner": "Matilda",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_matilda_huayexumeng_body_002",
+            "Text": "That girl in the red hood called me a hunter, but hunting for the sake of a meal is not my intent. It's just that I know if we don't promptly deal with the dark-infected creatures, this forest could become a demonic cave. I believe that's why you established the patrol in the first place."
+        },
+        "111404106": {
+            "Sinner": "Matilda",
+            "Title": "Ordinary Contact 3",
+            "File": "vo_matilda_huayexumeng_horn_001",
+            "Text": "Ah! Captain, our antlers are used for environmental detection and they are kind of sensative. Your touch is a bit too... Please be gentle with them."
+        },
+        "111404107": {
+            "Sinner": "Matilda",
+            "Title": "Ordinary Contact 4",
+            "File": "vo_matilda_huayexumeng_background_001",
+            "Text": "These little fellas are old friends of mine. You know, most small creatures are perky and less inclined to be near, well, inflexible elves like me. But they're different, and they've been friendly ever since I helped them find their forgotten food storage hole."
+        },
+        "111404108": {
+            "Sinner": "Matilda",
+            "Title": "Idle",
+            "File": "vo_matilda_huayexumeng_idle_001",
+            "Text": "The sound of critters rustling through grass... is my secret lullaby..."
+        },
+        "111404109": {
+            "Sinner": "Matilda",
+            "Title": "Special Attention",
+            "File": "vo_matilda_huayexumeng_specialattention_001",
+            "Text": "I'm just feeling a bit dizzy, not hurt. Thank you for your concern, but you don't need to be so vigilant. Please don't get me wrong, I do appreciate your care."
         }
     },
     "111405": {
@@ -19103,6 +19757,54 @@
             "Title": "Upgrade Skill",
             "File": "vo_atlant_promotion_001",
             "Text": "Ah... strength is like collecting garbage. The more you collect, you stronger you become."
+        },
+        "112102100": {
+            "Sinner": "Demolia",
+            "Title": "Attire Obtained",
+            "File": "vo_atlant_shahaijiongtu_cacha_001",
+            "Text": "Chief? What a coincidance! Never expected to see you here! Me? Argh, it is so frigging hot out here that my engine broke down. But, no worries, just sit here and wait a bit. I'll get us a ride."
+        },
+        "112102101": {
+            "Sinner": "Demolia",
+            "Title": "Greeting",
+            "File": "vo_atlant_shahaijiongtu_greeting_001",
+            "Text": "You awake? Don't worry about it. Just go back to sleep if you feel like it. I'll let you know when I get us a ride."
+        },
+        "112102102": {
+            "Sinner": "Demolia",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_atlant_shahaijiongtu_talk_001",
+            "Text": "Hey! Over here! Can you take us for a ride? Argh... Sped by again. Gosh, why are people so heartless nowadays?"
+        },
+        "112102103": {
+            "Sinner": "Demolia",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_atlant_shahaijiongtu_talk_002",
+            "Text": "Just let me know if you are hungry or thirsty and don't act tough, okay? My car broke down, but all my stuff is intact. I've got enough food and water to last us for quite some time!"
+        },
+        "112102104": {
+            "Sinner": "Demolia",
+            "Title": "Idle",
+            "File": "vo_atlant_shahaijiongtu_idle_001",
+            "Text": "Chief, Chief? Are you asleep? Are you having heatstroke? Wait up, stay put. I'll get you a wet towel."
+        },
+        "112102105": {
+            "Sinner": "Demolia",
+            "Title": "Annoyed",
+            "File": "vo_atlant_shahaijiongtu_clicking_001",
+            "Text": "So you're saying, we should put up a bigger sign? Good thinking. I'm on it!"
+        },
+        "112102106": {
+            "Sinner": "Demolia",
+            "Title": "Special Attention",
+            "File": "vo_atlant_shahaijiongtu_specialattention_001",
+            "Text": "You're back! Told you there can't be any town nearby in the middle of nowhere. You're not built for these scorching temperatures. Don't be too hard on yourself, just rest up and leave it to me."
+        },
+        "112102107": {
+            "Sinner": "Demolia",
+            "Title": "Level Up",
+            "File": "vo_atlant_shahaijiongtu_levelup_001",
+            "Text": "Oh my Chief, you are just too kind."
         }
     },
     "112104": {

@@ -87,6 +87,44 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
         }
     },
+    "Moore": {
+        "Emotion Check 1": {
+            "Open": "[Moore hands you a cup of coffee.]",
+            "Moore Question": "You’ve been working all day. How about taking a break and having a hot beverage?",
+            "Chief Question 1": "Thanks, but this smells a little...",
+            "Moore Response 1": "It's a special blend of coffee said to contain some stimulating ingredients to keep you energized during overtime.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "A new coffee blend?",
+            "Moore Response 2": "It's a variety Miss Faye purchased specifically for me. Apparently, it contains several times the caffeine content of regular coffee beans. Drink this and you should have no problem staying up all night for work.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[After finishing the network maintenance, Moore falls asleep in front of the computer.]",
+            "Moore Question": "Just... a quick nap...",
+            "Chief Question 1": "Better head back to your room to rest.",
+            "Moore Response 1": "Still running the data... If my head touched my pillow... I won't wake up until the morning...",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ],
+            "Chief Question 2": "But it must be uncomfortable sleeping on the keyboard?",
+            "Moore Response 2": "It is... but I'm... used to it...",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        }
+    },
     "Zoya": {
         "Emotion Check 1": {
             "Open": "[Zoya stretches her body and walks into your office.]",
@@ -342,6 +380,98 @@
             "Chief Question 2": "Agreed. The best kind of duvet is one that doesn't need a cover.",
             "Angell Response 2": "You agree with me? That's rare.",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
+    "000": {
+        "Emotion Check 1": {
+            "Open": "[000 looks somewhat mysterious.]",
+            "000 Question": "Pssst. I have a big secret. Wanna know?",
+            "Chief Question 1": "What secret?",
+            "000 Response 1": "Your original hairstyle! It's hilarious!",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "What file did you sneak a look at this time?",
+            "000 Response 2": "Oh, come on! They put it in the database so people can look at it! Aren't you curious? The early character profiles are really interesting!",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[000 is watching you curiously.]",
+            "000 Question": "Chief, have you never wondered what might happen to you in the future?",
+            "Chief Question 1": "What might happen to me?",
+            "000 Response 1": "If you're curious too, why not let me use your permissions to do a little exploring?",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "Whatever will happen will happen anyway.",
+            "000 Response 2": "But if you could know about it earlier, wouldn't it help you avoid a lot of unnecessary trouble?",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 3": {
+            "Open": "[000 is watching you curiously.]",
+            "000 Question": "Chief, have you never wondered what might happen to you in the fu-u-u-u-u-ture...? Szzz... (Attention, an error has occurred) ...Um, what was that...?",
+            "Chief Question 1": "What's the matter?",
+            "000 Response 1": "I think my brain just went blank for a moment. Anyway, I was talking about... your future. If you're curious too, why not let me use your permissions to do a little exploring?",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "Whatever will happen will happen anyway, um...? Was that a glitch?",
+            "000 Response 2": "I feel like my brain just went blank for a moment... Anyway. Aren't you curious? If you could know about it earlier, wouldn't it help you avoid a lot of unnecessary trouble?",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 4": {
+            "Open": "[000 looks somewhat mysterious.]",
+            "000 Question": "Pssst. I have a big secret. Wanna know?",
+            "Chief Question 1": "What secret?",
+            "000 Response 1": "I've hidden a backdoor in 6YKu566x, so I can come and find you from time to time! I got you some little gifts today. Go take a look, or they'll expire if you leave them there for 29 days!",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "What file did you sneak a look at this time?",
+            "000 Response 2": "Something important and confidential, of course... I'm being a tease? Alright, I'll let you in on this. I've hidden a backdoor in 6YKu566x, so I can come and find you. Go look for it! Your gifts are there already!",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        },
+        "Emotion Check 5": {
+            "Open": "[000 pokes her own face.]",
+            "000 Question": "Hi, I secretly came to see you again. Things have finally settled down lately. No disconnections. No garbled code. Though there's always a risk of it getting fixed, as long as I can talk to you, it's fine. How have you been these days? Have you missed me?",
+            "Chief Question 1": "I miss you a lot.",
+            "000 Response 1": "That makes me so happy. But besides missing me, your main task is to keep yourself happy, no matter what happens or how things change. I'll always be here for you, so could you spend more time with me? I’d feel lonely without you.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "I know you're always by my side.",
+            "000 Response 2": "Oh, why am I blushing... I miss you a lot too! So, I'm not going anywhere. I'll stay by your side and face everything with you... But you must spend more time with me. Promise me!",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
         }
     },
     "Summer": {
@@ -1253,6 +1383,44 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
         }
     },
+    "Rise": {
+        "Emotion Check 1": {
+            "Open": "[Passing by the gym room, you get knocked down by a squash ball.]",
+            "Rise Question": "Sorry, Chief. I lost control of the ball.",
+            "Chief Question 1": "...Ouch.",
+            "Rise Response 1": "It's all my fault. The spot where you got hit is already swollen. Quick, I'll take you to the medical room!",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "What a powerful hit...",
+            "Rise Response 2": "I suddenly thought aboutwhat my former boss did to me while playing, and before I knew it...",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Rise hands you a coupon.]",
+            "Rise Question": "I booked a large private room at the karaoke, wanna join us, Chief?",
+            "Chief Question 1": "This is such a good deal!",
+            "Rise Response 1": "It's a package deal I got a long time ago. I was tidying up my room and saw that this is expiring soon. You've worked all day. Why don't we go and have an overnight karaoke session?",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "Overnight session... I've got a meeting tomorrow. Maybe next time.",
+            "Rise Response 2": "Sure, work comes first. Let's go together if I manage to book a room for the weekend.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        }
+    },
     "Iron": {
         "Emotion Check 1": {
             "Open": "[Iron leaves the operating room.]",
@@ -1371,7 +1539,7 @@
         "Emotion Check 2": {
             "Open": "[Lynn concentrates on reading a manga with a blush on her face.]",
             "Lynn Question": "So sweet...",
-            "Chief Question 1": "What are you looking at?",
+            "Chief Question 1": "What are you reading?",
             "Lynn Response 1": "Yes... Um... It's a manga. But I'm sure you don't read this kind of stuff, Chief...",
             "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
             "Chief Question 2": "What's sweet?",

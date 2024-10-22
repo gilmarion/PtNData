@@ -87,6 +87,44 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
         }
     },
+    "ムーア": {
+        "Emotion Check 1": {
+            "Open": "[ムーアはコーヒーを持って来てあなたに渡した]",
+            "ムーア Question": "お疲れ様です、コーヒーでも飲みながら息抜きしませんか？",
+            "Chief Question 1": "ありがとう。だがこの味は……",
+            "ムーア Response 1": "特製のコーヒーです。覚醒作用のある成分が含まれているので、残業している時でも元気でいられますよ。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "新しい味のコーヒーか？",
+            "ムーア Response 2": "フェイさんがわたしのためにわざわざ調達してくれた品種で、カフェイン含有量が通常のコーヒー豆の数倍だそうです。これを1杯飲めば、とても元気に残業の夜を過ごせそうですね。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ネットのメンテナンスを終えた後、ムーアはサイバーセキュリティー部門のパソコンの前でそのまま眠ってしまった]",
+            "ムーア Question": "……ちょっとだけ……寝ます……",
+            "Chief Question 1": "部屋に戻って休んだ方がいい。",
+            "ムーア Response 1": "まだデータが残っているので……ベッドに行ったら……完全に眠ってしまいます……",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ],
+            "Chief Question 2": "キーボードを枕にして寝るのは気持ちいいか？",
+            "ムーア Response 2": "気持ち良くありません……でも……枕にしていたら……慣れてしまって……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        }
+    },
     "ゾーヤ": {
         "Emotion Check 1": {
             "Open": "[ゾーヤは背伸びをしながらあなたの執務室に入ってきた]",
@@ -342,6 +380,98 @@
             "Chief Question 2": "確かに、カバーのいらない掛け布団はいい布団だ。",
             "エンジェル Response 2": "私の意見に賛成するのは珍しいな。",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
+    "000": {
+        "Emotion Check 1": {
+            "Open": "[000が何かを隠しているように見える]",
+            "000 Question": "じゃじゃ～ん、大きな秘密があるんだけど、聞きたい？",
+            "Chief Question 1": "どんな秘密だ？",
+            "000 Response 1": "キミの髪型は最初どんなデザインだったでしょうか？すごく面白いよ！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "また何の資料を覗いたんだ？",
+            "000 Response 2": "「覗いた」は心外だな～人に見せるためにデータベースに入れてるわけでしょ？本当に気にならない？初期の設定資料はかなり面白いよ～",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[000が隣であなたを観察している]",
+            "000 Question": "局長、将来自分に何が起こるか、知りたくない？",
+            "Chief Question 1": "私に何が起こるんだ？",
+            "000 Response 1": "もし知りたいなら、キミの権限パスを借りて調査してあげてもいいよ？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "いつか起こることだ。",
+            "000 Response 2": "でも、もっと早く知ってれば、面倒事を避けられるかもしれないじゃ～ん。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 3": {
+            "Open": "[000が隣であなたを観察している]",
+            "000 Question": "局長、将来自分に何が起こるか、知りた、たたたたt……ジジ……（注意してください、故障報告があります）……うう、今のは……？",
+            "Chief Question 1": "どうした？",
+            "000 Response 1": "今、頭の中が一瞬真っ白になった気がして。ワタシが言いたかったのは……キミの将来についてだよん。もし知りたいなら、キミの権限パスを借りて調査してみようか？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "いつか起こること……ん？なぜ急に固まっているんだ？",
+            "000 Response 2": "頭の中が一瞬真っ白になった気がして……大丈夫。それより気にならないの？早く知っていれば、面倒事を避けられるかもしれないじゃ～ん。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 4": {
+            "Open": "[000が何かを隠しているように見える]",
+            "000 Question": "じゃじゃ～ん、大きな秘密があるんだけど、聞きたい？",
+            "Chief Question 1": "どんな秘密だ？",
+            "000 Response 1": "キミに時々会えるように、6YKu566xにバックドアを隠しておいたんだ～今日はちょっとしたプレゼントを用意したから、チェックしてみてねん。29日間放置すると期限切れになっちゃうよ！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "また何の資料を覗いたんだ？",
+            "000 Response 2": "もちろん超重要な機密情報……焦らすなって？分かった、分かった。こっそり教えてあげるね。もっと簡単にキミに会うために、6YKu566xにバックドアを隠しておいたから、探してみて？キミのために用意したプレゼントが、そこで静かに待ってるよ～ん。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        },
+        "Emotion Check 5": {
+            "Open": "[000は手で自分の顔をつついている]",
+            "000 Question": "やっほ～、またこっそり会えたね。最近やっと安定してきて、接続が切れたりバグったりすることもなくなったんだ。修復されるリスクはあるけど……キミと話せるだけでも嬉しい。最近どう？ワタシに会いたくなかった？",
+            "Chief Question 1": "とても会いたかった。",
+            "000 Response 1": "そう言ってくれてすっごく嬉しい。でもワタシのことを考えるのとは別に、自分がいつも楽しくいることが一番だよ。何が起きても、どうなっても、ワタシはいつもキミの傍にいるから、もっと一緒にいてね？一人じゃ寂しいよ。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "あなたがいつも私の傍にいると分かっている。",
+            "000 Response 2": "……わわ、顔が熱いのはなんでだろう……実はワタシもキミに会いたかったよ～ん。だからワタシはどこにも行かない。ずっとキミの傍にいて、キミと一緒に歩んでいく……キミもワタシに会いに来て、約束を守ってね！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
         }
     },
     "夏音": {
@@ -1251,6 +1381,44 @@
             "Chief Question 2": "これは……実戦で使えるのか？",
             "クリスティナ Response 2": "もちろん！潜入調査や尾行に便利だよ！",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        }
+    },
+    "ライズ": {
+        "Emotion Check 1": {
+            "Open": "[運動室の前を通りかかった時、あなたはスカッシュボールに当たって倒れてしまった]",
+            "ライズ Question": "ごめん局長。ボールを上手くコントロールできなくて。",
+            "Chief Question 1": "……かなり痛い。",
+            "ライズ Response 1": "私のせいだね。当たったところがもう腫れてる。すぐに医務室に連れていくから！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "強すぎる一球だった……",
+            "ライズ Response 2": "プレイしてる最中、昔の上司がしたことを思い出してつい……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ライズがあなたにクーポンを渡した]",
+            "ライズ Question": "「K幻量販店」ってカラオケ屋の大部屋なんだけど、局長も一緒にどう？",
+            "Chief Question 1": "このコースはかなりお得だな！",
+            "ライズ Response 1": "随分前に買ったものなんだけど、ここ数日整理してたら期限が切れそうになってるのに気付いてね。今日は1日中仕事してたし、局長もストレス発散に一緒に徹夜でカラオケしない？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "徹夜カラオケ……明日は会議があるから、今度にしよう。",
+            "ライズ Response 2": "分かった。仕事が優先だし、週末に部屋を予約できたら一緒に行こう。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
         }
     },
     "アイン": {

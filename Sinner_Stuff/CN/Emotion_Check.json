@@ -87,6 +87,44 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
         }
     },
+    "摩尔": {
+        "Emotion Check 1": {
+            "Open": "[摩尔端着一杯咖啡递给了你]",
+            "摩尔 Question": "工作辛苦了，要不要来一杯饮料放松一下？",
+            "Chief Question 1": "谢谢，不过这个味道……",
+            "摩尔 Response 1": "是特制的咖啡，据说里面还加了一些助兴奋的成分，可以让你在加班时候充满干劲呢。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "新口味的咖啡？",
+            "摩尔 Response 2": "是菲小姐特意帮我采购的品种，据说咖啡因含量是普通咖啡豆的几倍。喝完这杯，应该可以度过一个十分清醒的加班夜晚。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[做完网络维护的摩尔直接趴在网络部的电脑前睡着]",
+            "摩尔 Question": "……我就稍微……睡一会……",
+            "Chief Question 1": "还是回房间休息吧。",
+            "摩尔 Response 1": "还有数据没跑完……床上我就……彻底睡着了……",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ],
+            "Chief Question 2": "枕着键盘睡觉能舒服吗？",
+            "摩尔 Response 2": "不舒服啊……可是我……枕着枕着……就习惯了……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
+        }
+    },
     "卓娅": {
         "Emotion Check 1": {
             "Open": "[卓娅伸着懒腰走进了你的办公室]",
@@ -342,6 +380,98 @@
             "Chief Question 2": "确实，不需要套被套的被子才是好被子。",
             "安吉尔 Response 2": "难得你会赞同我的看法。",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
+    "000": {
+        "Emotion Check 1": {
+            "Open": "[000看起来神神秘秘]",
+            "000 Question": "锵锵锵锵~我有一个大秘密，你想不想听？",
+            "Chief Question 1": "什么秘密？",
+            "000 Response 1": "你想不想知道最开始你的发型被设计成什么样子？超好笑的哦！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "又偷看到了什么资料？",
+            "000 Response 2": "怎么能叫偷看啊~他们放在资料库里不就是让人看的嘛！你真的不好奇吗？古早的设定资料，真的很有意思哦~",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[000正在你旁边观察你]",
+            "000 Question": "局长，你就没好奇过，未来你可能遇到什么事情吗？",
+            "Chief Question 1": "我可能会遇到什么事？",
+            "000 Response 1": "如果你也好奇的话，不如让我借用你的权限路径去探查一番？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "反正迟早都会到来。",
+            "000 Response 2": "可是，如果能早一点知道的话，不就可以规避掉很多不必要的麻烦了嘛。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 3": {
+            "Open": "[000正在你旁边观察你]",
+            "000 Question": "局长，你就没好奇过，未来你可能遇到什么事情吗、吗吗吗吗m……滋滋……（请注意，有故障报错）……唔，刚才……？",
+            "Chief Question 1": "怎么了？",
+            "000 Response 1": "刚才好像头脑空白了一下，我刚刚是想说……关于你未来的事情嘛，如果你也好奇的话，不如让我借用你的权限路径去探查一番？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "反正迟早都会到来，诶……？怎么突然卡住了？",
+            "000 Response 2": "感觉脑袋空白了一下……没关系，比起这个，你就一点不好奇吗？早一点知道自己未来的命运，不就可以规避掉很多不必要的麻烦了嘛。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 4": {
+            "Open": "[000看起来神神秘秘]",
+            "000 Question": "锵锵锵锵~我有一个大秘密，你想不想听？",
+            "Chief Question 1": "什么秘密？",
+            "000 Response 1": "我在6YKu566x藏了后门，方便我时不时找你玩~今天给你弄了点小礼物，快去翻一翻~否则它们被晾在那里29天就要过期了哟！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "又偷看到了什么资料？",
+            "000 Response 2": "当然是很重要、涉及到机密的……说我卖关子呀？好啦，偷偷告诉你，在6YKu566x里藏有我的后门，方便来找你玩，去找找吧？给你的礼物已经安静躺在里面了~",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        },
+        "Emotion Check 5": {
+            "Open": "[000伸手戳了戳自己的脸]",
+            "000 Question": "嗨，又偷偷见面啦，最近终于稳定下来，没有断联，也没有乱码。虽然有被修复掉的风险，但……只要能跟你说话就好。最近好吗？有没有想我呀？",
+            "Chief Question 1": "很想你。",
+            "000 Response 1": "你这样说我很开心。不过呢，除了想我以外，你的第一要务是要让自己一直开心愉快，不管发生什么变成什么样子，我都会一直陪你走下去，你也多来陪陪我吧？我一个人会孤单的。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "我知道你一直在我身边。",
+            "000 Response 2": "……啊，脸上怎么烫烫的……其实我也很想你啦~所以我呀，哪里都不去，我会一直留在你身边，陪你走下去……你也要来找我，不许食言哦！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
         }
     },
     "夏音": {
@@ -1251,6 +1381,44 @@
             "Chief Question 2": "这个……能在实战中运用吗？",
             "克里斯蒂娜 Response 2": "当然！在跟踪潜入任务里很实用！",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+        }
+    },
+    "瑞思": {
+        "Emotion Check 1": {
+            "Open": "[路过运动室门口，你被一个壁球大力击倒]",
+            "瑞思 Question": "抱歉局长，我没控制好壁球让它打到了你。",
+            "Chief Question 1": "……太痛了。",
+            "瑞思 Response 1": "是我的错，被打到的地方已经肿起来了，快，我带您去医务室！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ],
+            "Chief Question 2": "这一球，力量也太强了……",
+            "瑞思 Response 2": "打球的过程中，不小心想到了前任上司的所作所为，一不小心就……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[瑞思拿给你一张优惠券]",
+            "瑞思 Question": "“K幻量贩”的大房包厢，局长你要一起来吗？",
+            "Chief Question 1": "这个套餐好优惠啊！",
+            "瑞思 Response 1": "很早以前购买的套餐，这两天整理时发现快到期了。工作了一整天，局长要不要一起去通宵唱歌发泄一下？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "通宵场……明天我还有会，下次吧。",
+            "瑞思 Response 2": "嗯，工作优先，如果我能订到周末包厢再一起去吧。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
         }
     },
     "艾恩": {
