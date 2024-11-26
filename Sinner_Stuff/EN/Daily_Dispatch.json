@@ -2593,6 +2593,58 @@
             "Reward Qty": "1.0"
         }
     },
+    "150": {
+        "Id": 1047001,
+        "Quality": "Purple",
+        "DispatchTitle": "Bounty Offer",
+        "DispatchDescription": "According to credible leads, a crime boss long pursued by the Public Security Bureau has fled to WhiteSands. With the outlaw's whereabouts unknown, the Bureau decides to secretly issue a huge bounty to recruit a Sinner from WhiteSands for the capture operation.",
+        "DispatchSinners": {
+            "Sinner": "Korryn"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "151": {
+        "Id": 1047002,
+        "Quality": "Green",
+        "DispatchTitle": "Seasoned Mediator",
+        "DispatchDescription": "A violent dispute due to sales competition has broken out between two neighboring businesses on an Eastside shopping street. An experienced mediator with business management knowledge is urgently required to prevent further property damage from the escalating situation.",
+        "DispatchSinners": {
+            "Sinner": "Mira"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "152": {
+        "Id": 1047003,
+        "Quality": "Blue",
+        "DispatchTitle": "Management Expert",
+        "DispatchDescription": "The Public Security Bureau's new creative merchandise has hit its lowest sales record and is making severe losses. An experienced management expert is required to provide business consultation.",
+        "DispatchSinners": {
+            "Sinner 1": "Mira",
+            "Sinner 2": "Rise"
+        },
+        "BaseAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Bronze Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
     "156": {
         "Id": 1099001,
         "Quality": "Green",

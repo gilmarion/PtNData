@@ -670,6 +670,44 @@
             ]
         }
     },
+    "コリン": {
+        "Emotion Check 1": {
+            "Open": "[コリンはいくつかのライフルに油をさし、メンテナンスをしている]",
+            "コリン Question": "おはよ～局長。砂の海で改造された重火力武器、試してみない？この火力、この攻撃範囲！間違いなくサイコーな物だよ。普通はあたしの宝物に触れる機会なんてないんだから。",
+            "Chief Question 1": "試してみたい。",
+            "コリン Response 1": "太っ腹～！さっき騙し……じゃなく、長い時間かけて説得した時は誰も乗ってくれなかったのにさ。ってことで、あんたが一人目だよ～",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "試すとは言っていない。",
+            "コリン Response 2": "そんなに警戒しないでってば。何も買えって言ってるわけじゃないんだし……まぁ、もし買うことになっても、地元の商品をよ～く知ってるあたしが適正価格をつけたげるよ。お友達価格ってやつ～",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[コリンは闇市の懸賞金リストに自分の名前を見つけた]",
+            "コリン Question": "ん～？あたしのためにこんな大金出すなんて、こっちまでチャレンジしたくなってくるじゃん……チッ、本人は懸賞金貰えないんだ。そうじゃなかったら、自分で自分を通報したのにさ……待って、今ここには局長がいるよね……",
+            "Chief Question 1": "あなたに懸賞金をかけた人がいるのか？なぜだ？",
+            "コリン Response 1": "砂漠強盗たちの器がちっちゃいからじゃん？あいつらのボスを何人かパンツまで脱がせて、壊れた車の後ろに縛り付けて砂の海を走ったんだよ。綺麗に日焼けさせてあげたのに、逆に懸賞金かけられるとか心外～そうでしょ？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "何がしたいんだ？",
+            "コリン Response 2": "相談したいことがあって、ちょっと手伝ってほしいんだよね。お願い、あたしを通報して。そうすれば、砂漠強盗を一掃した手柄はあんたにあげるよ。で、報酬はあたしが貰う。お互い必要なものをゲットできて、ウィンウィンじゃない？どう？ちょっと、そんな早く首振らなくてもいいじゃん……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        }
+    },
     "エイレーネー": {
         "Emotion Check 1": {
             "Open": "[エイレーネーはチェス盤を用意して、あなたを手招きしている]",
@@ -1418,6 +1456,44 @@
                 "atlas/monthsign/sprite_dailysign_face_1.png",
                 "atlas/monthsign/sprite_dailysign_face_1.png",
                 "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        }
+    },
+    "ミラ": {
+        "Emotion Check 1": {
+            "Open": "[出かけようとするあなたをミラが呼び止めた]",
+            "ミラ Question": "私が思うに、局長にはまだ何かが足りない気がするわ。砂の海へ遠征するなら、もっと装備が必要よ。よければ私の棚から取っていってちょうだい。",
+            "Chief Question 1": "スカーフを取る。",
+            "ミラ Response 1": "うん……いいチョイスね。そのスカーフは柔らかくて通気性も良く、息がしやすいうえに、空気中の砂やホコリを防いでくれるのよ。柄も綺麗で、一番のお気に入りだわ。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "水袋を取る。",
+            "ミラ Response 2": "トゥコに来るお客さんは必ずお酒の入った水袋を持って来て、決闘に勝った後、豪快に飲むのがお決まりなの。それは英雄の勲章でもあるわ。局長にとてもお似合いよ。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ミラは洗ったばかりのシーツを干している]",
+            "ミラ Question": "シーツの交換、床掃除、部屋の片付け……やるべき家事は山積みね。でも幸い、ディスの気候は砂の海と違うから、乾いたばかりのシーツが跡形もなく消えたりしないし、追いかける時間を節約できるわ。",
+            "Chief Question 1": "乾燥機を使ったらどうだ？もっと便利になるかもしれない。",
+            "ミラ Response 1": "でも、天日干ししたシーツは、人をより安らかに眠らせてくれるの。局長も試してみない？とても気持ちいいのよ。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "手を貸した方がいいか？",
+            "ミラ Response 2": "大丈夫。廊下で子供たちが喧嘩しているのを見たから、砂の海で熟成させたお酒を使って彼らを説得して、お手伝いしてもらったわ。しーっ、私が使ったのはソフトドリンクよ。彼らには内緒にね～",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
             ]
         }
     },

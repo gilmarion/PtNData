@@ -2593,6 +2593,58 @@
             "Reward Qty": "1.0"
         }
     },
+    "150": {
+        "Id": 1047001,
+        "Quality": "Purple",
+        "DispatchTitle": "현상금 의뢰",
+        "DispatchDescription": "믿을만한 소식에 따르면, 치안국에서 오랫동안 추적해 온 범죄 조직의 두목이 화이트 샌드로 도주했다고 한다. 행방이 묘연한 가운데 치안국은 비밀리에 고액 현상금을 내걸고 화이트 샌드 현지의 수감자를 모집해 검거에 나서고자 한다.",
+        "DispatchSinners": {
+            "Sinner": "코린"
+        },
+        "BaseAward": {
+            "Reward Item": "곡선형 구리 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "151": {
+        "Id": 1047002,
+        "Quality": "Green",
+        "DispatchTitle": "중재 전문가",
+        "DispatchDescription": "신성의 한 보행자 거리에 인접해 있는 두 점포 간에 과열된 경쟁과 갈등으로 인한 싸움이 일어났다. 경영과 중재에 능한 사람을 조속히 파견해 폭행 사건으로 인한 재산 피해를 최대한 줄여야 한다.",
+        "DispatchSinners": {
+            "Sinner": "미라"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "152": {
+        "Id": 1047003,
+        "Quality": "Blue",
+        "DispatchTitle": "경영관리 인재",
+        "DispatchDescription": "치안국에서 새로 기획한 굿즈의 판매량이 사상 최저치를 기록해 심각한 손실이 발생했다. 경영관리 능력을 갖춘 인재를 조속히 파견해 지도해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "미라",
+            "Sinner 2": "라이즈"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 곡선형 구리 광석",
+            "Reward Qty": "1.0"
+        }
+    },
     "156": {
         "Id": 1099001,
         "Quality": "Green",

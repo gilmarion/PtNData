@@ -2593,6 +2593,58 @@
             "Reward Qty": "1.0"
         }
     },
+    "150": {
+        "Id": 1047001,
+        "Quality": "Purple",
+        "DispatchTitle": "悬赏委托",
+        "DispatchDescription": "据可靠线报表示，治安局追查已久的犯罪团伙头目已逃往砂海，因其行踪成谜，治安局决定秘密发布高额悬赏，招募一位砂海本地的禁闭者参与抓捕。",
+        "DispatchSinners": {
+            "Sinner": "柯琳"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "151": {
+        "Id": 1047002,
+        "Quality": "Green",
+        "DispatchTitle": "调停专家",
+        "DispatchDescription": "新城某步行街，两处相邻店家发生激烈争执大打出手，起因为店铺之间的竞争与冲突，需要紧急派遣一位熟悉经营与冲突调停的人员，减少因暴力事件引起的财物损毁。",
+        "DispatchSinners": {
+            "Sinner": "米拉"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "152": {
+        "Id": 1047003,
+        "Quality": "Blue",
+        "DispatchTitle": "管理人才",
+        "DispatchDescription": "治安局新研发的文创产品销量创史低，亏损严重，急需熟悉管理与经营的优秀人才前去指导。",
+        "DispatchSinners": {
+            "Sinner 1": "米拉",
+            "Sinner 2": "瑞思"
+        },
+        "BaseAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲铜精矿",
+            "Reward Qty": "1.0"
+        }
+    },
     "156": {
         "Id": 1099001,
         "Quality": "Green",

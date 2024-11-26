@@ -2593,6 +2593,58 @@
             "Reward Qty": "1.0"
         }
     },
+    "150": {
+        "Id": 1047001,
+        "Quality": "Purple",
+        "DispatchTitle": "懸賞依頼",
+        "DispatchDescription": "信頼できる情報提供者によると、治安局が長い間追跡してきた犯罪組織のリーダーが砂の海に逃亡したという。その後の行方が掴めていないため、治安局は密かに高額な懸賞金をかけて、砂の海出身のコンビクトに協力依頼を出した。",
+        "DispatchSinners": {
+            "Sinner": "コリン"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "151": {
+        "Id": 1047002,
+        "Quality": "Green",
+        "DispatchTitle": "調停専門家",
+        "DispatchDescription": "ニューシティの歩道で、隣接する二つの店舗が激しく争っている。原因は店舗間の競争の激化だ。暴力による財産の損害を軽減するため、経営と紛争調停に精通した人材を緊急派遣する必要がある。",
+        "DispatchSinners": {
+            "Sinner": "ミラ"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "152": {
+        "Id": 1047003,
+        "Quality": "Blue",
+        "DispatchTitle": "経営管理の人材",
+        "DispatchDescription": "治安局が新たに開発した文化的なオリジナルグッズの売り上げが過去最低を記録し、損失も深刻だ。管理と経営に精通した優秀な人材の指導が急務となっている。",
+        "DispatchSinners": {
+            "Sinner 1": "ミラ",
+            "Sinner 2": "ライズ"
+        },
+        "BaseAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "曲銅の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
     "156": {
         "Id": 1099001,
         "Quality": "Green",

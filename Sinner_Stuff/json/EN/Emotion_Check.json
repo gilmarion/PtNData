@@ -670,6 +670,44 @@
             ]
         }
     },
+    "Korryn": {
+        "Emotion Check 1": {
+            "Open": "[Korryn is tending to multiple rifles, meticulously oiling each one.]",
+            "Korryn Question": "Morning, Chief! Care to try out these custom heavy weapons from WhiteSands? The power, the reach—these babies are something else. Not just anybody gets their hands on my precious collection.",
+            "Chief Question 1": "Sure, why not.",
+            "Korryn Response 1": "That's what I like about you, Chief! I've been trying to trick—I mean, trying to talk folks into it all day, but no one had the guts to give them a shot. You're the first one!",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "I never said I wanted to try them.",
+            "Korryn Response 2": "Don't be so uptight! It's not like I'm hitting you up for cash... And hey, even if there were some green on the table, I'm the most well-connected dealer in town—you'd be getting the hookup, no doubt.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Korryn spots her name on the black market wanted list.]",
+            "Korryn Question": "My, my, they're offering quite a sum for me! Even I want to cash in... Tch, too bad I can't snag that prize for myself, or I'd turn myself in right away... Hold up, now that you're in the picture, Chief...",
+            "Chief Question 1": "There's a bounty on you? Why?",
+            "Korryn Response 1": "These desert bandits are just so petty! Look, all I did was strip some of their leaders down to their underwear, tie them to a beat-up car, and give them a scenic tour of WhiteSands for a nice suntan. I guess desert bandits just hold their grudges~",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "What do you want?",
+            "Korryn Response 2": "Hehe, I just want to make a little deal with you: do me a solid and cash in by handing me over. You take the glory for wiping out those desert bandits, and I pocket the reward money. Win-win, right? Hey, don't shake your head so fast...",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        }
+    },
     "Eirene": {
         "Emotion Check 1": {
             "Open": "[Eirene sets up the chess board and beckons to you.]",
@@ -1418,6 +1456,44 @@
                 "atlas/monthsign/sprite_dailysign_face_1.png",
                 "atlas/monthsign/sprite_dailysign_face_1.png",
                 "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        }
+    },
+    "Mira": {
+        "Emotion Check 1": {
+            "Open": "[Mira calls out to stop you as you're about to leave.]",
+            "Mira Question": "It appears to me that you might be lacking some essentials, Chief. For a long journey to WhiteSands, there are items you absolutely need. Feel free to take anything you require from my shelves, if you'd like?",
+            "Chief Question 1": "Pick up a silk scarf",
+            "Mira Response 1": "Hmm... Wise pick. This silk scarf is soft and breathable, allowing you to breathe freely while shielding your nose and mouth from the sand. Plus, the design is lovely. In fact, it's my personal favorite.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "Pick up a waterskin",
+            "Mira Response 2": "In Tuco, every guest brings a waterskin brimming with quality liquor. Following a duel victory, they toast with a drink from it. It's akin to a badge of honor for heroes—an ideal item for you, Chief.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Mira is hanging freshly laundered bed linens out to dry in the sun.]",
+            "Mira Question": "Changing bedsheets, sweeping floors, and organizing rooms... There's always more housework to do. Thankfully, DisCity's weather is nothing like that of WhiteSands—here, the sheets won't disappear into thin air the moment you hang them out. It saves me the hassle of chasing after them.",
+            "Chief Question 1": "Why not try a dryer? It might make things more convenient.",
+            "Mira Response 1": "But sheets dried in the sun can bring about a more peaceful sleep for people. Would you care to try them yourself, Chief? They are quite comfortable.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "Do you need any help?",
+            "Mira Response 2": "No worries! I caught some kids squabbling in the corridor earlier and convinced them to help by offering them some delightful WhiteSands drinks. Shh—I actually arranged soft drinks for them. Let's keep that our little secret!",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
             ]
         }
     },

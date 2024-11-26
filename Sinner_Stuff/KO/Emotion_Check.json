@@ -670,6 +670,44 @@
             ]
         }
     },
+    "코린": {
+        "Emotion Check 1": {
+            "Open": "[코린이 소총 몇 자루에 기름칠을 하며 관리하고 있다]",
+            "코린 Question": "좋은 아침, 국장, 화이트 샌드에서 개조한 중기관총 한번 써볼래? 화력도 그렇고 공격 범위도 그렇고 꽤 쓸만해. 다른 사람은 만져보고 싶어도 손댈 기회조차 없는 물건이라고.",
+            "Chief Question 1": "한 번 써보지, 뭐.",
+            "코린 Response 1": "역시 국장은 과감해! 아까부터 한참 꼬드겼… 아니, 권했는데 해보겠다는 사람이 한 명도 없었거든. 국장이 처음이야~",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "쓰겠다고 한 적 없는데?",
+            "코린 Response 2": "뭘 그렇게 경계해? 내가 강매하는 것도 아니고… 에휴, 솔직히 말해서 내가 설령 물건을 팔려고 해도, 이 바닥 물건값을 제대로 아는 사람인데, 당연히 지인 할인해 주지~",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[코린이 암시장 현상 수배자 목록에서 자신의 이름을 발견했다]",
+            "코린 Question": "어머, 나 하나 잡겠다고 이렇게 많은 현상금을 걸다니. 내가 다 마음이 흔들리네… 쯧, 당사자는 현상금을 받을 수 없다는 게 아쉽네, 안 그랬으면 내 발로 찾아갔을 텐데… 아니지, 이제 국장이 있으니…",
+            "Chief Question 1": "누가 너한테 현상금을 건 거야? 대체 왜?",
+            "코린 Response 1": "하여튼 사막 도적들 소심한 건 알아줘야 한다니까~ 사막 도적 두목 몇 명 잡아다가 속옷 차림으로 고물차에 묶어 화이트 샌드 몇 바퀴 돌면서 태닝까지 시켜줬는데 나한테 현상금을 건 거 있지? 진짜 너무해~",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "뭘 하려고?",
+            "코린 Response 2": "우리 이렇게 하자, 국장이 나 좀 도와줘. 날 팔아넘기면 사막 도적을 소탕한 공로는 국장 몫으로 해줄게. 대신 현상금은 내 거야. 각자 원하는 걸 손에 넣자고, 윈윈. 어때? 아니, 내 말 끝나지도 않았는데 벌써 거절한다고?",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        }
+    },
     "이리나": {
         "Emotion Check 1": {
             "Open": "[체스판을 펼친 이리나가 이쪽으로 손짓한다]",
@@ -1418,6 +1456,44 @@
                 "atlas/monthsign/sprite_dailysign_face_1.png",
                 "atlas/monthsign/sprite_dailysign_face_1.png",
                 "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        }
+    },
+    "미라": {
+        "Emotion Check 1": {
+            "Open": "[미라가 문밖으로 나서려는 당신을 불러 세웠다]",
+            "미라 Question": "제가 보기엔, 국장님께선 아직 준비가 제대로 되지 않은 것 같아요. 화이트 샌드에 갈 땐 꼭 챙겨야 하는 물건이 몇 가지 있거든요. 괜찮으시다면 제 진열대에 있는 걸 가져가세요.",
+            "Chief Question 1": "스카프를 챙긴다",
+            "미라 Response 1": "음… 좋은 선택이에요. 이 스카프는 부드럽고 통기성이 좋아 입과 코를 막아도 편하게 숨을 쉴 수 있는 데다 모래 먼지를 잘 막아줘요. 무늬도 예쁘죠. 제가 제일 좋아하는 스카프예요.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "물주머니를 챙긴다",
+            "미라 Response 2": "투코에 온 손님들은 좋은 술이 가득 담긴 물주머니를 가지고 다녀요. 결투에서 승리하면 물주머니에 든 술을 벌컥벌컥 마시죠. 그게 바로 영웅에게 주어지는 훈장이랍니다. 국장님과도 정말 잘 어울리네요.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[미라가 세탁한 침대 시트를 널고 있다]",
+            "미라 Question": "침대 시트 빨고, 바닥 청소하고, 방 정리하고… 할 일이 너무 많아요. 그래도 디스는 날씨가 화이트 샌드 같지 않아서, 세탁 후 널어둔 시트가 온데간데없이 사라져 찾으러 다닐 필요가 없어서 다행이에요.",
+            "Chief Question 1": "건조기를 써보는 건 어때? 더 편할 거야",
+            "미라 Response 1": "햇볕에 잘 말린 시트에서 잠을 청하면 더욱 편안하게 숙면을 취할 수 있죠. 국장님, 한번 써보실래요? 정말 포근해요.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "내 도움이 필요해?",
+            "미라 Response 2": "괜찮아요, 아까 복도에서 티격태격하는 애들한테 화이트 샌드에서 만든 특제 음료가 있다고 꼬시면서 도와달라고 했거든요. 근데 그거 사실은 그냥 주스예요, 쉿… 이거 비밀인 거 아시죠?",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
             ]
         }
     },

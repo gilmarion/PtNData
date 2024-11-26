@@ -670,6 +670,44 @@
             ]
         }
     },
+    "柯琳": {
+        "Emotion Check 1": {
+            "Open": "[柯琳正將幾把步槍上油做保養]",
+            "柯琳 Question": "早啊局長，想親手試試砂海本地改裝的重火力武器嗎？這火力，這攻擊範圍，完美的上等好貨，一般人可沒機會摸到我的寶貝。",
+            "Chief Question 1": "試試就試試。",
+            "柯琳 Response 1": "還是局長大氣！剛才我糊弄……不是，是勸說了半天都沒人敢試，你可是第一個哦！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "我沒說要試。",
+            "柯琳 Response 2": "別這麼警惕嘛，又不是叫你花錢買……唉呀，退一萬步說，就算是要花錢，我也是最熟悉本地貨價的地頭蛇，給局長的保證是親友價！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[柯琳在黑市懸賞名單裡找到了自己的名字]",
+            "柯琳 Question": "唉呀，居然花這麼多錢來懸賞我，搞得我都有點心動想出手了……嘖，就是可惜本人不能領獎，不然我就把自己供出去了……不對，現在有局長在……",
+            "Chief Question 1": "有人要懸賞你？為什麼？",
+            "柯琳 Response 1": "還不是這群砂盜太小心眼了，你看，我只不過把幾個砂盜頭目扒得只剩條褲衩然後綁在破爛小車後面繞了砂海一圈，還讓他們成功美黑，怎麼反手過來懸賞我呢，是吧！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "你想做什麼？",
+            "柯琳 Response 2": "打個商量，幫個小忙，把我供出去，事後剿滅砂盜的功勞歸你，賞錢歸我，各取所需，雙方共贏，怎麼樣？唉呀，別急著搖頭嘛……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        }
+    },
     "伊琳娜": {
         "Emotion Check 1": {
             "Open": "[伊琳娜擺好了棋局，向你招手]",
@@ -1418,6 +1456,44 @@
                 "atlas/monthsign/sprite_dailysign_face_1.png",
                 "atlas/monthsign/sprite_dailysign_face_1.png",
                 "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        }
+    },
+    "米拉": {
+        "Emotion Check 1": {
+            "Open": "[米拉叫住了準備出門的你。]",
+            "米拉 Question": "依我看，局長身上還缺了些東西，如果要出遠門前往砂海的話，有些裝備必不可少，不嫌棄的話，就從我的貨架上拿吧？",
+            "Chief Question 1": "拿起絲巾",
+            "米拉 Response 1": "嗯……明智的選擇，這條絲巾柔軟透氣，既能確保呼吸順暢，又能防止空氣中的沙塵糊住口鼻，圖案也很漂亮，是我最喜歡的一條呢。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "拿起水囊",
+            "米拉 Response 2": "來到圖科的客人們身上都會帶著灌滿了佳釀的水囊，決鬥勝利後，客人們總會拿出水囊痛飲一番，它也是獎勵英雄的勳章，很適合你哦局長。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[米拉正在晾曬新洗的被單]",
+            "米拉 Question": "換洗被單，打掃地面，整理房間……要做的家務還有很多，幸好狄斯的氣候不像砂海那樣，剛晾好的床單不會消失得無影無蹤，省了追著跑的功夫。",
+            "Chief Question 1": "試試烘衣機？或許會更方便點",
+            "米拉 Response 1": "可是被陽光曬過的床單，會讓人睡得更安穩些，局長，不想試試看嗎？很舒服的哦。",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "需要我幫忙嗎？",
+            "米拉 Response 2": "不用啦，剛才撞見幾個小朋友在走廊上打架，都被我用砂海陳釀換來做小幫手了，噓——我準備的都是無酒精飲料，可別告訴她們！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
             ]
         }
     },
