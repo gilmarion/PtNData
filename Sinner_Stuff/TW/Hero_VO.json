@@ -3809,6 +3809,66 @@
             "Title": "升技",
             "File": "vo_angel_promotion_001",
             "Text": "不需要什麼特殊技巧，下手時心無雜念即可。"
+        },
+        "110306100": {
+            "Sinner": "安吉爾",
+            "Title": "獲得套裝",
+            "File": "vo_angel_gujianjinghe_cacha_001",
+            "Text": "我已按你的要求，把周圍的威脅都解決了，現在只是借你的院子小憩一會，沒問題吧？"
+        },
+        "110306101": {
+            "Sinner": "安吉爾",
+            "Title": "升級",
+            "File": "vo_angel_gujianjinghe_levelup_001",
+            "Text": "鋒芒已露，出手即中。"
+        },
+        "110306102": {
+            "Sinner": "安吉爾",
+            "Title": "問候",
+            "File": "vo_angel_gujianjinghe_greeting_001",
+            "Text": "今天沒什麼委託，所以又來借地歇息一下……你這裡很清淨，我很喜歡。"
+        },
+        "110306103": {
+            "Sinner": "安吉爾",
+            "Title": "摸頭",
+            "File": "vo_angel_gujianjinghe_head_001",
+            "Text": "我認得你的氣息，所以你現在還能好好地站在那，如果換了其他人，應該早就沉入荷塘，變成花泥了吧。"
+        },
+        "110306104": {
+            "Sinner": "安吉爾",
+            "Title": "普通觸摸1",
+            "File": "vo_angel_gujianjinghe_body_001",
+            "Text": "路過曬太陽都會引起騷亂，你到底是惹了什麼不該惹的……算了，這不是我該深究的事。"
+        },
+        "110306105": {
+            "Sinner": "安吉爾",
+            "Title": "普通觸摸2",
+            "File": "vo_angel_gujianjinghe_body_002",
+            "Text": "我沒有所謂真正的正義，無非是替人辦事，雇主站在哪邊，我就選擇哪邊，最多……看看性價比。"
+        },
+        "110306106": {
+            "Sinner": "安吉爾",
+            "Title": "普通觸摸3",
+            "File": "vo_angel_gujianjinghe_righthand_001",
+            "Text": "刀的真意在藏不在殺，就像我藏於你的院子，你藏於我的身後。過於鋒芒畢露，反而會成為自身的弱點。"
+        },
+        "110306107": {
+            "Sinner": "安吉爾",
+            "Title": "普通觸摸4",
+            "File": "vo_angel_gujianjinghe_lefthand_001",
+            "Text": "院子不用收拾得那麼細緻，現在這樣就挺好，亂中有序……嗯，有種熟悉的感覺，就像回到家一樣。"
+        },
+        "110306108": {
+            "Sinner": "安吉爾",
+            "Title": "閒置",
+            "File": "vo_angel_gujianjinghe_idle_001",
+            "Text": "你有事便去忙吧，不用太在意我。"
+        },
+        "110306109": {
+            "Sinner": "安吉爾",
+            "Title": "特別關注",
+            "File": "vo_angel_gujianjinghe_specialattention_001",
+            "Text": "我們這一行，臉不能輕易被人記住，上一個這麼盯著我看的人的下場……你不會想知道的。你會把認得我的事爛進肚子裡，對嗎？畢竟我很喜歡你的院子，希望下次來的時候，還能再見到你。"
         }
     },
     "110308": {
@@ -6991,6 +7051,54 @@
             "Title": "特別關注",
             "File": "vo_raven_aenhaimuzhiguan_specialattention_001",
             "Text": "你對我的身分很好奇嗎？我是不是看起來，很像一位你認識的「故人」？"
+        },
+        "110505110": {
+            "Sinner": "渡鴉",
+            "Title": "獲得套裝",
+            "File": "vo_raven_kehoujingxi_cacha_001",
+            "Text": "我就說我的好學生們神神秘秘要送我什麼呢。你看，這玩偶很可愛吧？可千萬不要羨慕我哦。"
+        },
+        "110505111": {
+            "Sinner": "渡鴉",
+            "Title": "升級",
+            "File": "vo_raven_kehoujingxi_levelup_001",
+            "Text": "謝謝。不過即便這樣，玩偶也是不能讓給你的喲！"
+        },
+        "110505112": {
+            "Sinner": "渡鴉",
+            "Title": "問候",
+            "File": "vo_raven_kehoujingxi_greeting_001",
+            "Text": "唉呀，你怎麼才來？慶祝班會都結束了。不過沒關係，你還可以和我一起欣賞學生們送我的好東西。"
+        },
+        "110505113": {
+            "Sinner": "渡鴉",
+            "Title": "普通觸摸1",
+            "File": "vo_raven_kehoujingxi_talk_001",
+            "Text": "打開盒子的時候還以為是個惡作劇，沒想到是正兒八經的禮物。不過，我在孩子們心裡是這樣長臉圓頭的形象嗎？"
+        },
+        "110505114": {
+            "Sinner": "渡鴉",
+            "Title": "普通觸摸2",
+            "File": "vo_raven_kehoujingxi_talk_002",
+            "Text": "「當炎熱嚴峻的白天過後……不再為明天的一切擔憂—」唉呀，前人的話真是沒錯。打開禮物，面對大家的笑臉，此時此刻……幸福的確是這樣樸素、卻可以超越一切的快樂。"
+        },
+        "110505115": {
+            "Sinner": "渡鴉",
+            "Title": "閒置",
+            "File": "vo_raven_kehoujingxi_idle_001",
+            "Text": "開個班會搞成這樣，小孩子還真是精力旺盛啊……哼，那就安排幾個小鬼來好好打掃一下吧，我看扒著窗台還不願意走的那幾個就很不錯。"
+        },
+        "110505116": {
+            "Sinner": "渡鴉",
+            "Title": "煩躁",
+            "File": "vo_raven_kehoujingxi_clicking_001",
+            "Text": "欸欸欸，這是我的寶貝學生送給我的，可別亂動啊！"
+        },
+        "110505117": {
+            "Sinner": "渡鴉",
+            "Title": "特別關注",
+            "File": "vo_raven_kehoujingxi_specialattention_001",
+            "Text": "怎麼這麼看著我？哦，是不是還沒見過我專門搭配的教師套裝？嗯哼，那就允許你多欣賞一會吧。"
         }
     },
     "110506": {
@@ -10435,6 +10543,54 @@
             "Title": "升技",
             "File": "vo_nino_promotion_001",
             "Text": "欸，你這測試傷害的木樁怎麼這麼不經打呀~"
+        },
+        "111106100": {
+            "Sinner": "妮諾",
+            "Title": "獲得套裝",
+            "File": "vo_nino_shangkeqili_cacha_001",
+            "Text": "這個「5」應該可以改成「8」吧，嗯，先拿鉛筆試一下……咦？！你回頭看多久了？！"
+        },
+        "111106101": {
+            "Sinner": "妮諾",
+            "Title": "升級",
+            "File": "vo_nino_shangkeqili_levelup_001",
+            "Text": "妮諾大人進化，二次元妮諾！"
+        },
+        "111106102": {
+            "Sinner": "妮諾",
+            "Title": "問候",
+            "File": "vo_nino_shangkeqili_greeting_001",
+            "Text": "去吧，你去打小報告吧，到時候老師也知道你上課東張西望不好好聽課了哦好學生！這樣吧，我們都別把自己看到的說出去，如何？……什麼？！你說改分數和遊戲機是兩件事兩個價錢？！可惡……"
+        },
+        "111106103": {
+            "Sinner": "妮諾",
+            "Title": "普通觸摸1",
+            "File": "vo_nino_shangkeqili_body_001",
+            "Text": "快看這個立牌，妮諾大人變成一頭身是不是也很可愛？嘿嘿，這可是班級裡的風雲人物才有的待遇哦，沒想到她們居然願意帶妮諾玩了，感覺真是像做夢一樣……等等，該不會真的是做夢吧？！"
+        },
+        "111106104": {
+            "Sinner": "妮諾",
+            "Title": "普通觸摸2",
+            "File": "vo_nino_shangkeqili_body_002",
+            "Text": "妮諾我以前也是能考很高分的！只不過，那年的黃昏，在那堂數學課上，我只是低頭追憶了一下我逝去的電子寵物，再抬起頭來時發現……自己已經完全看不懂黑板上寫的是什麼了！"
+        },
+        "111106105": {
+            "Sinner": "妮諾",
+            "Title": "閒置",
+            "File": "vo_nino_shangkeqili_idle_001",
+            "Text": "呼啊……怎麼老師講題目的聲音……還是……還是那麼催眠啊……"
+        },
+        "111106106": {
+            "Sinner": "妮諾",
+            "Title": "煩躁",
+            "File": "vo_nino_shangkeqili_clicking_001",
+            "Text": "欸！別搶我遊戲機啊！噓……動靜小一點，老師往這看了！"
+        },
+        "111106107": {
+            "Sinner": "妮諾",
+            "Title": "特別關注",
+            "File": "vo_nino_shangkeqili_specialattention_001",
+            "Text": "怎麼用這麼熱情的眼神盯著妮諾大人不放呀？難道……是我終於混成了校園大明星！？早說嘛！來來來！想要幾個簽名都可以！"
         }
     },
     "111107": {

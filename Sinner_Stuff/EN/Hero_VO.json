@@ -3809,6 +3809,66 @@
             "Title": "Upgrade Skill",
             "File": "vo_angel_promotion_001",
             "Text": "Skills? Clear mind, swift movement."
+        },
+        "110306100": {
+            "Sinner": "Angell",
+            "Title": "Attire Obtained",
+            "File": "vo_angel_gujianjinghe_cacha_001",
+            "Text": "All threats cleared—at your request. Now I need to take a break. Your backyard seems quiet. Mind if I stay?"
+        },
+        "110306101": {
+            "Sinner": "Angell",
+            "Title": "Level Up",
+            "File": "vo_angel_gujianjinghe_levelup_001",
+            "Text": "My blade is unsheathed, my strike is true."
+        },
+        "110306102": {
+            "Sinner": "Angell",
+            "Title": "Greeting",
+            "File": "vo_angel_gujianjinghe_greeting_001",
+            "Text": "No commissions today, so I'm here for a break. Hmm, it's quite tranquil here. I like it."
+        },
+        "110306103": {
+            "Sinner": "Angell",
+            "Title": "Pat Head",
+            "File": "vo_angel_gujianjinghe_head_001",
+            "Text": "I recognized your scent, which is why you're still alive. Had it been someone else, they would've sunk into the pond and turned into mud."
+        },
+        "110306104": {
+            "Sinner": "Angell",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_angel_gujianjinghe_body_001",
+            "Text": "Even just casually passing by causes a commotion. What trouble did you get yourself into...? Never mind, it's not my business."
+        },
+        "110306105": {
+            "Sinner": "Angell",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_angel_gujianjinghe_body_002",
+            "Text": "I don't really care about justice. I side with whoever hires me, and get my job done. The only thing I care about... maybe the price?"
+        },
+        "110306106": {
+            "Sinner": "Angell",
+            "Title": "Ordinary Contact 3",
+            "File": "vo_angel_gujianjinghe_righthand_001",
+            "Text": "A blade conceals, not kills. Just like I lurk in your courtyard, and you lie low behind me. Revealing too much will only make you an easy target."
+        },
+        "110306107": {
+            "Sinner": "Angell",
+            "Title": "Ordinary Contact 4",
+            "File": "vo_angel_gujianjinghe_lefthand_001",
+            "Text": "No need to tidy up your backyard. I like things to be... chaotically ordered. Hmm, it feels familiar, like home."
+        },
+        "110306108": {
+            "Sinner": "Angell",
+            "Title": "Idle",
+            "File": "vo_angel_gujianjinghe_idle_001",
+            "Text": "If you need to be somewhere else, help yourself. I'm fine staying alone."
+        },
+        "110306109": {
+            "Sinner": "Angell",
+            "Title": "Special Attention",
+            "File": "vo_angel_gujianjinghe_specialattention_001",
+            "Text": "In our line of work, face and identity are our biggest secret. You wouldn't want to know what happened to the last person who stared at me like that... But, you'll keep this secret for me, right? After all, I do like your courtyard, and I hope to see you again the next time I come back."
         }
     },
     "110308": {
@@ -6991,6 +7051,54 @@
             "Title": "Special Attention",
             "File": "vo_raven_aenhaimuzhiguan_specialattention_001",
             "Text": "Are you curious about who I am? Do I look like someone you are very familiar with?"
+        },
+        "110505110": {
+            "Sinner": "Raven",
+            "Title": "Attire Obtained",
+            "File": "vo_raven_kehoujingxi_cacha_001",
+            "Text": "I knew they were up to something with all the secrecy. Here, isn't this toy just cute? Oh, you're not jealous, are you?"
+        },
+        "110505111": {
+            "Sinner": "Raven",
+            "Title": "Level Up",
+            "File": "vo_raven_kehoujingxi_levelup_001",
+            "Text": "Thanks, but no matter how much you butter me up, I’m not giving you this plush."
+        },
+        "110505112": {
+            "Sinner": "Raven",
+            "Title": "Greeting",
+            "File": "vo_raven_kehoujingxi_greeting_001",
+            "Text": "Oh, what took you so long, the celebration is all over now. But luckily, you still get to have a good look at the best gift my students got me."
+        },
+        "110505113": {
+            "Sinner": "Raven",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_raven_kehoujingxi_talk_001",
+            "Text": "I was expecting a Jack-in-the-Box sort of jumpscare, who knew it would turn out to be a decent gift. But, do I really look like this horse-faced, round-headed dummy in their eyes?"
+        },
+        "110505114": {
+            "Sinner": "Raven",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_raven_kehoujingxi_talk_002",
+            "Text": "\"When after a hot, exhausting day... and thought no more about the morrow—\" How true these words ring. With this gift in my hand and the smiles on your faces, this fleeting moment is the very epitome of happiness—so simple, yet so invaluable."
+        },
+        "110505115": {
+            "Sinner": "Raven",
+            "Title": "Idle",
+            "File": "vo_raven_kehoujingxi_idle_001",
+            "Text": "They went all out of their way for this little gathering. Kids surely have endless energy to burn... Hmph, might as well put it to better use. Hey, you girls perching on the windowsill, why don't you come in and give the classroom a proper cleaning?"
+        },
+        "110505116": {
+            "Sinner": "Raven",
+            "Title": "Annoyed",
+            "File": "vo_raven_kehoujingxi_clicking_001",
+            "Text": "Hey, stop fiddling with it. It's from my precious students!"
+        },
+        "110505117": {
+            "Sinner": "Raven",
+            "Title": "Special Attention",
+            "File": "vo_raven_kehoujingxi_specialattention_001",
+            "Text": "Why the look? Oh, is this teacher-fit I specially chose eye candy for you? Well, in that case, admire all you want."
         }
     },
     "110506": {
@@ -10435,6 +10543,54 @@
             "Title": "Upgrade Skill",
             "File": "vo_nino_promotion_001",
             "Text": "Hey, how come this training dummy can't take a hit..."
+        },
+        "111106100": {
+            "Sinner": "Nino",
+            "Title": "Attire Obtained",
+            "File": "vo_nino_shangkeqili_cacha_001",
+            "Text": "I should be able to change this \"5\" into an \"8\"... Hmm, let me try it out with a pencil. ...Holy geez! How long have you been watching me?"
+        },
+        "111106101": {
+            "Sinner": "Nino",
+            "Title": "Level Up",
+            "File": "vo_nino_shangkeqili_levelup_001",
+            "Text": "Nino Sama digivolve! 2D-Nino!"
+        },
+        "111106102": {
+            "Sinner": "Nino",
+            "Title": "Greeting",
+            "File": "vo_nino_shangkeqili_greeting_001",
+            "Text": "Go ahead, go and tell on me. By then the teacher will know that you also zoned out in class, goody-goody! Listen, why don't we both keep it, huh, sounds about fair? ...What? Changing the quiz score and playing video games in class are different so you want a separate charge? Damn..."
+        },
+        "111106103": {
+            "Sinner": "Nino",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_nino_shangkeqili_body_001",
+            "Text": "Look at this stand model plate! Isn't Nino Sama even more adorable at 3 inches tall? Hehe, only the class's most popular kids get to have this. I didn't expect them to actually count me in! It really feels like a dream... Wait, it can't really be a dream, can it?"
+        },
+        "111106104": {
+            "Sinner": "Nino",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_nino_shangkeqili_body_002",
+            "Text": "Nino Sama used to be a straight-A student, you know! It's just, a million years ago, during that distant math class, I bowed my head to mourn for my departed digital pet only for a split second, and when I looked up again to the blackboard... what the heck were those gibberish!"
+        },
+        "111106105": {
+            "Sinner": "Nino",
+            "Title": "Idle",
+            "File": "vo_nino_shangkeqili_idle_001",
+            "Text": "Yawn... Why is the teacher's voice... still... still so drowsy..."
+        },
+        "111106106": {
+            "Sinner": "Nino",
+            "Title": "Annoyed",
+            "File": "vo_nino_shangkeqili_clicking_001",
+            "Text": "Hey hey hey, let go of my Game Girl! Shhh... keep it down, the teacher's looking this way!"
+        },
+        "111106107": {
+            "Sinner": "Nino",
+            "Title": "Special Attention",
+            "File": "vo_nino_shangkeqili_specialattention_001",
+            "Text": "Why are you staring at Nino Sama with such a passionate look? Is it because... I've finally become the school idol? You should've told me! Come on, I'll give you as many autographs as you want!"
         }
     },
     "111107": {
