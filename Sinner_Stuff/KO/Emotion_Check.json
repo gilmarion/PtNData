@@ -844,6 +844,44 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
         }
     },
+    "보투르.블루": {
+        "Emotion Check 1": {
+            "Open": "[보투르.블루가 애프터눈 티를 즐기고 있다]",
+            "보투르.블루 Question": "왔네? 햇살도 좋고 모처럼 한가한 것 같은데 와서 특제 디저트 좀 먹어볼래? 차도 우렸어. 골라 봐, 어떤 디저트 먹고 싶어?",
+            "Chief Question 1": "블루베리 치즈 케이크",
+            "보투르.블루 Response 1": "음~ 향긋하고 맛도 괜찮네. 단맛도 적당하고… 방금까지 바쁘게 일하신 국장님께는 애프터눈 티를 한잔하며 여유를 즐기는 게 꼭 필요할 것 같아.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "딸기 크림 크레페",
+            "보투르.블루 Response 2": "같이 먹어보자… 너무 달다고? 하하, 쓴맛이 가득한 인생에 때로는 달콤한 맛이 필요하지.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[창가에 앉아 있던 보투르.블루가 당신의 시선을 느끼고 돌아보며 웃는다]",
+            "보투르.블루 Question": "뭐야? 왜 그렇게 쳐다봐? 우리가 이웃이었던 나날이 그리운 거야?",
+            "Chief Question 1": "맞아",
+            "보투르.블루 Response 1": "그래? 그럼 내가 제출한 신청서, 국장이 꼭 허가해 줘. 그럼 머지않아 계속해서 이웃으로 지낼 수 있을 거야~",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "아니야",
+            "보투르.블루 Response 2": "그래? 국장 옆방으로 옮기고 싶었는데 아쉽네.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        }
+    },
     "하멜": {
         "Emotion Check 1": {
             "Open": "[훈련실에서 춤을 연습하고 있는 하멜을 발견했다]",
@@ -1217,6 +1255,44 @@
                 "atlas/monthsign/sprite_dailysign_face_3.png",
                 "atlas/monthsign/sprite_dailysign_face_3.png",
                 "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        }
+    },
+    "도브": {
+        "Emotion Check 1": {
+            "Open": "[도브가 관리국 사람들에게 편지를 배달하고 있다]",
+            "도브 Question": "국장님? 마침 잘 됐다, 여기 편지 두 통 중에 어떤 게 국장님 것인지 맞춰보세요.",
+            "Chief Question 1": "분홍색 편지",
+            "도브 Response 1": "엇, 분홍색 편지에는 하트 모양 스티커가 붙어있어요, 러브 레터일지도 모르죠! 에이, 열어보지도 않았으면서 왜 아니라고 생각해요~ 정말로… 국장님한테 온 편지일 수도 있잖아요?",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "파란색 편지",
+            "도브 Response 2": "그 많은 편지 중에 이 편지를 선택하다니, 우린 운명인가 봐요. 국장님이 저에 대해 너무 잘 아는 건가요? 아니면… 제가 애초에 국장님이 열어보길 바란 것이었을까요?",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[도브가 그녀에게 온 편지를 받고도 열어보지 않고 무언가를 준비하고 있는 듯하다]",
+            "도브 Question": "집배원한테 편지를 쓰는 사람도 다 있네, 뭐라고 답장하지…? 하하, 너무 어려운데? 달콤한 말로 속여 함정에 빠뜨릴까? 아니면 겁을 줘 볼까…",
+            "Chief Question 1": "보낸 사람이 누구인지 확인해 봐",
+            "도브 Response 1": "보낸 사람이… 미노스 위기관리국 국장님이네요… 오, 도브처럼 보잘것없는 사람까지 직접 감시하시다니, 역시 세심하시네요~",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "편지를 열어봐",
+            "도브 Response 2": "'진심을 담아 보내는 편지로 소통하라'… 이 글씨… 국장님 글씨네요… 이게 저한테 하고 싶은 말인가요…?",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
             ]
         }
     },

@@ -844,6 +844,44 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
         }
     },
+    "ヴァトゥール": {
+        "Emotion Check 1": {
+            "Open": "[ヴァトゥールがアフタヌーンティーを楽しんでいる]",
+            "ヴァトゥール Question": "お前か。今は日差しがちょうどいいし、今日は珍しく暇なようだな？座って特別なデザートでも楽しんでいかないかい？お茶も淹れてあるから、選ぶといい。どれにするんだい？",
+            "Chief Question 1": "ブルーベリーチーズケーキ",
+            "ヴァトゥール Response 1": "う～ん、香りが豊かで美味しいし、甘さも控えめでちょうどいい……仕事で疲れが溜まっている局長には、この心地いいアフタヌーンティーがぴったりだろう？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "ストロベリークリームクレープ",
+            "ヴァトゥール Response 2": "一緒に食べないかい？……「甘すぎる」ねぇ。ふふ、生活に苦味があるから、こういう甘さが欲しくなるもんなんだよ。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[窓辺に座っているヴァトゥールがあなたの視線に気付き、振り返って微笑んだ]",
+            "ヴァトゥール Question": "どうしたんだい？そんな風にあたしを見つめて。もしかして、隣人だった頃を懐かしんでいるのかい？",
+            "Chief Question 1": "肯定する",
+            "ヴァトゥール Response 1": "へぇ？それなら、あたしが提出した申請書に賛同して、許可を出してくれるんだろうな？そうすれば、すぐにまた隣人になれるさ～",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "否定する",
+            "ヴァトゥール Response 2": "そうかい？局長の部屋の隣に引っ越そうと思っていたんだけどねぇ、それは残念だ。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        }
+    },
     "ハーメル": {
         "Emotion Check 1": {
             "Open": "[訓練室でダンスの練習をしているハーメルの姿を見ている]",
@@ -1217,6 +1255,44 @@
                 "atlas/monthsign/sprite_dailysign_face_3.png",
                 "atlas/monthsign/sprite_dailysign_face_3.png",
                 "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        }
+    },
+    "ドーヴ": {
+        "Emotion Check 1": {
+            "Open": "[ドーヴが管理局の皆に手紙を配達している]",
+            "ドーヴ Question": "あっ局長！ちょうどいいところで会ったね。この2通のうち、どっちがあなた宛てか当ててみて？",
+            "Chief Question 1": "ピンクの封筒",
+            "ドーヴ Response 1": "あれ、このピンクの方はハートのシールで封がされてるね。もしかしてラブレターだったりして？もう、そんなに慌てて否定しなくていいのに～もし……本当にあなたへの手紙だったらどうする？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "青い封筒",
+            "ドーヴ Response 2": "こんなにたくさんの手紙の中からこれを選ぶなんて、やっぱりわたしたちには縁があるみたい。あなたがわたしをよく知ってるからなのか、それとも……この想いは、元々あなたに開けてもらうためのものだったのかな？",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ドーヴは手紙を受け取ったが、すぐには開封せず、何か考え込んでいる]",
+            "ドーヴ Question": "信使に手紙を送ってくるなんて。どう返事しようかな……ふふ、悩ましいなぁ。甘いエサで引っ掛けるべきか、言葉を使って脅かすべきか……",
+            "Chief Question 1": "署名を確認するよう促す",
+            "ドーヴ Response 1": "署名は……ミノス危機管理局の局長……わぁ、ドーヴみたいなちっぽけな存在まで自分で監視するなんて、さすが局長。細やかな気配りだね～",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "開封して中身を見るよう促す",
+            "ドーヴ Response 2": "「自分の本当の気持ちで人と向き合って手紙を交わすこと」……この筆跡……あなたのだよね……これが、わたしに伝えたかったことなんだ……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
             ]
         }
     },

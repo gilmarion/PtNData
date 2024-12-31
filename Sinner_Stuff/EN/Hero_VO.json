@@ -6821,6 +6821,54 @@
             "Title": "Special Attention",
             "File": "vo_etti_guiyeqilv_specialattention_001",
             "Text": "What are you looking at me for? Hurry up! Huh? You're not really scared, are you? Relax, if you're in any danger, I'll make an exception and provide you with a little extra help... but don't tell anyone about this!"
+        },
+        "110504110": {
+            "Sinner": "Etti",
+            "Title": "Attire Obtained",
+            "File": "vo_etti_longyuyuanwuqu_cacha_001",
+            "Text": "You stand in the presence of Etti the Dragon of Domination—rightful ruler of the plundered Grandeur Palace, ever-reveling Queen of the Ravening Realm, dancing Avatar of cursed Love and Fury, and mighty Lord of all gold-filled caves... Countless warriors met afoul of me yet survived not. But I know... a Prophetic One shall come, and waltz with me in battle!"
+        },
+        "110504111": {
+            "Sinner": "Etti",
+            "Title": "Level Up",
+            "File": "vo_etti_longyuyuanwuqu_levelup_001",
+            "Text": "See my gown swirl with grace. Let's dance wild!"
+        },
+        "110504112": {
+            "Sinner": "Etti",
+            "Title": "Greeting",
+            "File": "vo_etti_longyuyuanwuqu_greeting_001",
+            "Text": "Oh, looks like someone is waiting to take my hand. So, Sir Armour, guess it's time for you to stand down. Off you go!"
+        },
+        "110504113": {
+            "Sinner": "Etti",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_etti_longyuyuanwuqu_body_001",
+            "Text": "I admire those brave souls who fall before dragons. Noble hearts, drawing their swords against giant dragons even in fear, just to protect what they hold dear. You too have the \"scent\"! Hmm... wanna know what you smell like? A knight, or a dragon?"
+        },
+        "110504114": {
+            "Sinner": "Etti",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_etti_longyuyuanwuqu_body_002",
+            "Text": "Twirl, sway, and spin! Wow, you can really dance! Wait, hold your shackles. It's been centuries since a mortal graced my cave. How about you dance with me to my heart's content before we cross blades, my Prophetic One?"
+        },
+        "110504115": {
+            "Sinner": "Etti",
+            "Title": "Idle",
+            "File": "vo_etti_longyuyuanwuqu_idle_001",
+            "Text": "Falling asleep? Hehe, let me tell you something: never drop your guard around me, whether on the battlefield or at a ball. I am, and always will be, your dearest enemy~"
+        },
+        "110504116": {
+            "Sinner": "Etti",
+            "Title": "Annoyed",
+            "File": "vo_etti_longyuyuanwuqu_clicking_001",
+            "Text": "Hehe, admiring my dragon horns, are you? If you like them that much, how about you grow your own?"
+        },
+        "110504117": {
+            "Sinner": "Etti",
+            "Title": "Special Attention",
+            "File": "vo_etti_longyuyuanwuqu_specialattention_001",
+            "Text": "I love seeing myself in your eyes—it's like drowning in the molten lava that gave birth to me... Perhaps, the prophecy will eventually come true! Your eyes will slit, your spine will sprout wings, your arms become claws, and your stomach begets raging fire... Through our eternal dance, the warrior who fights dragons shall become the dragon itself."
         }
     },
     "110505": {
@@ -7535,6 +7583,194 @@
             "Title": "Upgrade Skill",
             "File": "vo_hestia_promotion_001",
             "Text": "I see it... the fire that will be lit."
+        }
+    },
+    "110508": {
+        "11050801": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Obtain the Sinner",
+            "File": "vo_vautour_cacha_001",
+            "Text": "My services don't come cheap. Summoning me in such a brusque manner... I take it you've already decided on a destination?"
+        },
+        "11050802": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Raise to Phase 1",
+            "File": "vo_vautour_promotion_001",
+            "Text": "Once you board my caravan, there's no turning back."
+        },
+        "11050803": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Raise to Phase 3",
+            "File": "vo_vautour_promotion2_001",
+            "Text": "Finally... I can take a nice long break..."
+        },
+        "11050804": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Level Start",
+            "File": "vo_vautour_battlebegin_001",
+            "Text": "I suppose I can humor you for a bit."
+        },
+        "11050805": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Victory",
+            "File": "vo_vautour_battlewin_001",
+            "Text": "Don't worry. I've taken care of everything. It's all over now."
+        },
+        "11050806": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Lose Battles",
+            "File": "vo_vautour_battlelose_001",
+            "Text": "How dare you raid my dock?"
+        },
+        "11050807": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Ultimate Skill",
+            "File": "bt_vautour_uniqueskill_001",
+            "Text": "The end is nigh!"
+        },
+        "11050808": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Die in Battles",
+            "File": "bt_vautour_dead_001",
+            "Text": "Heh, it's just... the bitter end of reality."
+        },
+        "11050809": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Greeting",
+            "File": "vo_vautour_greeting_001",
+            "Text": "Have you forgotten that I'm a smuggler? Coming to my place so often—aren't you even a little afraid I'll whisk you away someday? Hmm… I wonder how much ransom the MBCC would pay to get you back..."
+        },
+        "11050810": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Conversation 1",
+            "File": "vo_vautour_talk1_001",
+            "Text": "Even \"dreams\" come with a price tag. People are willing to pay astronomical sums to achieve theirs—those who hesitate are just looking for a better deal."
+        },
+        "11050811": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Conversation 2",
+            "File": "vo_vautour_talk1_002",
+            "Text": "Whenever our caravan passes through DisCity customs, a beautiful chime rings out. I must let you hear it sometime... It's the sound of dreams shattering against reality."
+        },
+        "11050812": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Conversation 3",
+            "File": "vo_vautour_talk1_003",
+            "Text": "For the right price, my caravan can transport anyone to any place in the world. But, whether the client is still breathing upon arrival... well, that's not something I can guarantee."
+        },
+        "11050813": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Special Conversation 1",
+            "File": "vo_vautour_talk2_001",
+            "Text": "Don't mourn for the treasures buried in WhiteSands. Désir's ebb and flow is just the nature of these end times. How about we share a laugh and bid them all farewell?"
+        },
+        "11050814": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Special Conversation 2",
+            "File": "vo_vautour_talk2_002",
+            "Text": "If you want to be like me—freely roaming WhiteSands, owning a cozy hideaway, and able to enjoy Eastside desserts whenever I please—remember this: people's hearts are your most valuable asset. Hold them close, and don't hesitate to use them."
+        },
+        "11050815": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Special Conversation 3",
+            "File": "vo_vautour_talk2_003",
+            "Text": "It's a shame that I'm enjoying such lovely weather all alone. Why don't you toss aside your work for a bit as well? Let's just sit quietly together without thinking about anything, and watch the crowds come and go..."
+        },
+        "11050816": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Full Compliance",
+            "File": "vo_vautour_obeyfull_001",
+            "Text": "If one day the name Vautour Bleu vanishes from WhiteSands, heed my advice: don't go searching for her. She's just flown too long, too far, and needs to rest her wings. Your well-wishes will suffice. Pray for her... to find a nest to call home."
+        },
+        "11050817": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Idle",
+            "File": "vo_vautour_idle_001",
+            "Text": "Oh dear, you're daydreaming again... Aren't you worried I might sell you off to the Outlands?"
+        },
+        "11050818": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Annoyed",
+            "File": "vo_vautour_clicking_001",
+            "Text": "Young people really can't help themselves... Heh, want me to help you?"
+        },
+        "11050819": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Special Attention",
+            "File": "vo_vautour_specialattention_001",
+            "Text": "Didn't get your fill earlier? Come closer then, get a better look."
+        },
+        "11050820": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Dispatch",
+            "File": "vo_vautour_dispatch_001",
+            "Text": "Let's see what's got our little Chief so wound up, shall we?"
+        },
+        "11050821": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Dispatch Complete",
+            "File": "vo_vautour_dispatch2_001",
+            "Text": "Oh, silly. Don't tell me you're swayed by such trifling perks?"
+        },
+        "11050823": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Level Up",
+            "File": "vo_vautour_levelup_002",
+            "Text": "For me? Heh, how thoughtful of you."
+        },
+        "11050824": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Pat Head",
+            "File": "vo_vautour_head_001",
+            "Text": "Someone is getting more brazen by the day."
+        },
+        "11050826": {
+            "Sinner": "Vautour Bleu",
+            "Title": "On battlefield",
+            "File": "bt_vautour_jointeam_001",
+            "Text": "I'll personally see them off on their journey."
+        },
+        "11050827": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Danger!",
+            "File": "bt_vautour_danger_001",
+            "Text": "Stay put."
+        },
+        "11050828": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Received Order",
+            "File": "bt_vautour_getorder_001",
+            "Text": "It's nothing."
+        },
+        "11050829": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Attacked",
+            "File": "bt_vautour_gethit_001_1",
+            "Text": "Hum~"
+        },
+        "11050830": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Normal Attack",
+            "File": "bt_vautour_skill_001_1",
+            "Text": "(Bellows)"
+        },
+        "11050831": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Doubt",
+            "File": "vo_vautour_doubt_001",
+            "Text": "Interesting..."
+        },
+        "11050832": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Be surprised",
+            "File": "vo_vautour_shock_001",
+            "Text": "Oh?"
+        },
+        "11050833": {
+            "Sinner": "Vautour Bleu",
+            "Title": "Upgrade Skill",
+            "File": "vo_vautour_promotion_001",
+            "Text": "Once you board my caravan, there's no turning back."
         }
     },
     "110601": {
@@ -8957,6 +9193,66 @@
             "Title": "Upgrade Skill",
             "File": "vo_duruo_promotion_001",
             "Text": "How do you want me to repay you for helping me like this?"
+        },
+        "110606100": {
+            "Sinner": "Du Ruo",
+            "Title": "Attire Obtained",
+            "File": "vo_duruo_jingyechangxi_cacha_001",
+            "Text": "To have braved the Tidal Illusion and found your way to me... Traveler, you share a rare bond with the Moon. Remain here, bathe in its silver light, and become my herald."
+        },
+        "110606101": {
+            "Sinner": "Du Ruo",
+            "Title": "Level Up",
+            "File": "vo_duruo_jingyechangxi_levelup_001",
+            "Text": "Westward, the tides rise; amidst their ebb and flow, the Moon shines."
+        },
+        "110606102": {
+            "Sinner": "Du Ruo",
+            "Title": "Greeting",
+            "File": "vo_duruo_jingyechangxi_greeting_001",
+            "Text": "When the Moon is full, families reunite. Each time I witness their joy, I long to descend to the mortal world and share their bliss."
+        },
+        "110606103": {
+            "Sinner": "Du Ruo",
+            "Title": "Pat Head",
+            "File": "vo_duruo_jingyechangxi_head_001",
+            "Text": "Is this a new form of mortal ritual? Hm, the gestures of courtesy matter not. As long as you're a sincere petitioner, I shall grant you lunar grace."
+        },
+        "110606104": {
+            "Sinner": "Du Ruo",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_duruo_jingyechangxi_body_001",
+            "Text": "You seem quite taken by the splash on my gown... Hm, ordinary waters cannot touch the form of a goddess, but this pond has felt my grace. It offered its devotion willingly, and thus becoming part of my power."
+        },
+        "110606105": {
+            "Sinner": "Du Ruo",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_duruo_jingyechangxi_body_002",
+            "Text": "They praise that long may the sun shine, claiming the Moon merely mirrors the light. But I say, without the Moon, how could there be a morrow, if a good day does not end with moonlit sorrow?"
+        },
+        "110606106": {
+            "Sinner": "Du Ruo",
+            "Title": "Ordinary Contact 3",
+            "File": "vo_duruo_jingyechangxi_righthand_001",
+            "Text": "The full moon pierces the night; the tide burning in your veins echoes with mine. Come, gaze upon the waters—do you not see yourself in a new light?"
+        },
+        "110606107": {
+            "Sinner": "Du Ruo",
+            "Title": "Ordinary Contact 4",
+            "File": "vo_duruo_jingyechangxi_lefthand_001",
+            "Text": "Some tales say an old couple found me inside a bamboo stalk; others claim I coveted the immortal elixir to ascend to Heaven... Hm, amusing stories, indeed. Attend me, my herald—how would you spin a story of my origin?"
+        },
+        "110606108": {
+            "Sinner": "Du Ruo",
+            "Title": "Idle",
+            "File": "vo_duruo_jingyechangxi_idle_001",
+            "Text": "The Moon may be veiled by clouds, but never for long. It shall always cut through the mist and once again shed light upon the world."
+        },
+        "110606109": {
+            "Sinner": "Du Ruo",
+            "Title": "Special Attention",
+            "File": "vo_duruo_jingyechangxi_specialattention_001",
+            "Text": "The Moon has delivered your wish. The goddess shall grant her grace to her most devoted heralds. Step aboard this boat, and heed the words I bestow upon you."
         }
     },
     "110607": {
@@ -9901,6 +10197,54 @@
             "Title": "Upgrade Skill",
             "File": "vo_kavakava_promotion_001",
             "Text": "Thank you! This will allow me to finish the map quicker!"
+        },
+        "111103100": {
+            "Sinner": "Kawa-kawa",
+            "Title": "Attire Obtained",
+            "File": "vo_kavakava_tuzidong_cacha_001",
+            "Text": "Late? Late for what? Mr. Pocket Watch, what are you talking about? It's awful enough I've had butterflies in my stomach all morning, and now you are broken too! What's next? Me being hit by a newcomer falling from the sky? ...Ouch!"
+        },
+        "111103101": {
+            "Sinner": "Kawa-kawa",
+            "Title": "Level Up",
+            "File": "vo_kavakava_tuzidong_levelup_001",
+            "Text": "The rabbit hole has a new guest!"
+        },
+        "111103102": {
+            "Sinner": "Kawa-kawa",
+            "Title": "Greeting",
+            "File": "vo_kavakava_tuzidong_greeting_001",
+            "Text": "Thank you, newcomer! You falling on me helped me remember what I need to do—going to the tea party! It's a rare chance to take in some calories!"
+        },
+        "111103103": {
+            "Sinner": "Kawa-kawa",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_kavakava_tuzidong_body_001",
+            "Text": "Well well well, everyone in my burrow is my guest! But I not quite ready for the tea party... Oh, I've got it! Let's dash off to the Queen of Hearts' palace—it's ever so grand, and the food is delightful! Just mind that red-eyed rabbit, it does give one a fright!"
+        },
+        "111103104": {
+            "Sinner": "Kawa-kawa",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_kavakava_tuzidong_body_002",
+            "Text": "Do you have a sweet tooth? Like jam, butter, scones... If you do, come to the tea party with me! Here, you must take this spoon so that you can say, \"I'll only have a spoonful!\""
+        },
+        "111103105": {
+            "Sinner": "Kawa-kawa",
+            "Title": "Idle",
+            "File": "vo_kavakava_tuzidong_idle_001",
+            "Text": "Hmm... This flower will make a lovely gift... Oh, and this mushroom—quite handy! And this herb, yes, yes! Just what we need to get through the week!"
+        },
+        "111103106": {
+            "Sinner": "Kawa-kawa",
+            "Title": "Annoyed",
+            "File": "vo_kavakava_tuzidong_clicking_001",
+            "Text": "Oh my whiskers! Careful, careful! My suitcase is packed with all the essentials we need to survive here. If anything happens to them, we'll be doomed!"
+        },
+        "111103107": {
+            "Sinner": "Kawa-kawa",
+            "Title": "Special Attention",
+            "File": "vo_kavakava_tuzidong_specialattention_001",
+            "Text": "Yes, you're doing good. Stay close to me! It's not quite like the ground up here, and one wrong step could have me searching for hours to get you back!"
         }
     },
     "111104": {
@@ -10775,6 +11119,188 @@
             "Text": "I really gotta practice harder, or those kids are gonna have a real laugh."
         }
     },
+    "111108": {
+        "11110801": {
+            "Sinner": "Dove",
+            "Title": "Obtain the Sinner",
+            "File": "vo_dove_cacha_001",
+            "Text": "Do you need someone to deliver your letters? Ahem... I'm sorry, I might not be the most reliable mail carrier, but if I'm honored with such trust, I'd be more than happy to deliver your heartfelt message."
+        },
+        "11110802": {
+            "Sinner": "Dove",
+            "Title": "Raise to Phase 1",
+            "File": "vo_dove_promotion_001",
+            "Text": "These letters carry everyone's wishes... I'll do my best to deliver them as quickly as I can."
+        },
+        "11110803": {
+            "Sinner": "Dove",
+            "Title": "Raise to Phase 3",
+            "File": "vo_dove_promotion2_001",
+            "Text": "Opening other people's mail is quite a thrill. Want to give it a try? Black hearts, red hearts, broken hearts... Rip them all open and lay them out!"
+        },
+        "11110804": {
+            "Sinner": "Dove",
+            "Title": "Level Start",
+            "File": "vo_dove_battlebegin_001",
+            "Text": "Don't worry, I've got the route all mapped out. Just stick close to me."
+        },
+        "11110805": {
+            "Sinner": "Dove",
+            "Title": "Victory",
+            "File": "vo_dove_battlewin_001",
+            "Text": "Oh my, I'm so sorry... Turns out the power of the wishes in your letters isn't that strong after all... Hehe..."
+        },
+        "11110806": {
+            "Sinner": "Dove",
+            "Title": "Lose Battles",
+            "File": "vo_dove_battlelose_001",
+            "Text": "I'm sorry, I'm sorry... I forgot how fragile the letters are..."
+        },
+        "11110807": {
+            "Sinner": "Dove",
+            "Title": "Ultimate Skill",
+            "File": "bt_dove_uniqueskill_001",
+            "Text": "The power of wishes will protect us all!"
+        },
+        "11110808": {
+            "Sinner": "Dove",
+            "Title": "Die in Battles",
+            "File": "bt_dove_dead_001",
+            "Text": "I thought it wouldn't hurt...? Ha, got fooled again..."
+        },
+        "11110809": {
+            "Sinner": "Dove",
+            "Title": "Greeting",
+            "File": "vo_dove_greeting_001",
+            "Text": "Chief, I guess it's hard for someone like you to talk about your worries, right? Why not try writing a letter instead? Some things are easier to express on paper and are received more warmly that way. Trust me—I'm speaking from experience."
+        },
+        "11110810": {
+            "Sinner": "Dove",
+            "Title": "Conversation 1",
+            "File": "vo_dove_talk1_001",
+            "Text": "It wasn't until I came here that I realized how many people find sending letters too slow. True, it's not as instant as clicking \"send\" on a message, but I view the time it takes to pen a letter as a source of special warmth—the warmth of ink and paper, of palms and hearts."
+        },
+        "11110811": {
+            "Sinner": "Dove",
+            "Title": "Conversation 2",
+            "File": "vo_dove_talk1_002",
+            "Text": "Is mail delivery hard work, you ask? It's not too bad, really. The Bureau is small, and the town is just a tad bigger than the village I used to live in. Plus, I have my bike, and everyone here helps and believes in me."
+        },
+        "11110812": {
+            "Sinner": "Dove",
+            "Title": "Conversation 3",
+            "File": "vo_dove_talk1_003",
+            "Text": "You know, mail carriers aren't always the \"harbingers of joy\" like the books make us out to be. I... also deliver obituaries, rejection letters, and overdue bills. But as one book rightly says, \"Even when life is shattered, it always tries to piece itself back together.\""
+        },
+        "11110813": {
+            "Sinner": "Dove",
+            "Title": "Special Conversation 1",
+            "File": "vo_dove_talk2_001",
+            "Text": "Before, I never felt I missed out much by staying in my village. I read books, exchanged letters, and learned about the \"outside world\" through written words. But later... I realized the books were just silly fairy tales, the letters were all written by my parents... and the \"outside world\" was just an even bigger lie."
+        },
+        "11110814": {
+            "Sinner": "Dove",
+            "Title": "Special Conversation 2",
+            "File": "vo_dove_talk2_002",
+            "Text": "Let's play a little game. Guess which of these letters are actually from your Sinner? Haha, yes, that's the look I want to see! Frowning but speechless, I love it!"
+        },
+        "11110815": {
+            "Sinner": "Dove",
+            "Title": "Special Conversation 3",
+            "File": "vo_dove_talk2_003",
+            "Text": "Have you ever had a pen pal? If so, you'd know how anxious and happy it is to wait for their reply. It's a time free of pain and disillusionment. No wonder some choose to live in that moment forever, blind to everything else."
+        },
+        "11110816": {
+            "Sinner": "Dove",
+            "Title": "Full Compliance",
+            "File": "vo_dove_obeyfull_001",
+            "Text": "I can hardly believe there are people like you in this world—a true envoy who delivers and protects even the smallest wishes... Perhaps this is my punishment for all the deceptions: to be captivated by your beautiful illusion, only to fall hard when it shatters... But it's fine, really. Just let me believe in it a little longer… until you disappear."
+        },
+        "11110817": {
+            "Sinner": "Dove",
+            "Title": "Idle",
+            "File": "vo_dove_idle_001",
+            "Text": "\"To MBCC Chief,\" and a little heart sticker... Done! I wonder, when you wake up, will you guess that this \"love letter\" was actually written by your friendly neighborhood mail carrier?"
+        },
+        "11110818": {
+            "Sinner": "Dove",
+            "Title": "Annoyed",
+            "File": "vo_dove_clicking_001",
+            "Text": "Hey, easy there—you have to wait in line to get your letter... Or maybe you're so eager because it's not the letter you're really after, hmm?"
+        },
+        "11110819": {
+            "Sinner": "Dove",
+            "Title": "Special Attention",
+            "File": "vo_dove_specialattention_001",
+            "Text": "I once read that if two people can look into each other's eyes for ten seconds without looking away, it means they have a special connection. Chief, if you're interested, Dove would be happy to try it with you~"
+        },
+        "11110821": {
+            "Sinner": "Dove",
+            "Title": "Dispatch",
+            "File": "vo_dove_dispatch_001",
+            "Text": "I have so many letters to deliver today, so I might be a bit late."
+        },
+        "11110822": {
+            "Sinner": "Dove",
+            "Title": "Dispatch Complete",
+            "File": "vo_dove_dispatch2_001",
+            "Text": "Seeing the joy on everyone's faces when they receive their letters... it fills me with happiness too."
+        },
+        "11110823": {
+            "Sinner": "Dove",
+            "Title": "Level Up",
+            "File": "vo_dove_levelup_002",
+            "Text": "\"Become stronger\"? I'm not sure I understand... Does it mean I can bring happiness to even more people?"
+        },
+        "11110825": {
+            "Sinner": "Dove",
+            "Title": "Join Team",
+            "File": "bt_dove_jointeam_001",
+            "Text": "Is this really the recipient's address? Well, I guess I'll just have to deal with it…"
+        },
+        "11110826": {
+            "Sinner": "Dove",
+            "Title": "Danger!",
+            "File": "bt_dove_danger_001",
+            "Text": "Quick, come here!"
+        },
+        "11110827": {
+            "Sinner": "Dove",
+            "Title": "Received Order",
+            "File": "bt_dove_getorder_001",
+            "Text": "Okay~"
+        },
+        "11110828": {
+            "Sinner": "Dove",
+            "Title": "Attacked",
+            "File": "bt_dove_gethit_001_1",
+            "Text": "Eh."
+        },
+        "11110829": {
+            "Sinner": "Dove",
+            "Title": "Normal Attack",
+            "File": "bt_dove_skill_001_1",
+            "Text": "[Mage's tenacity, letter manipulation]"
+        },
+        "11110830": {
+            "Sinner": "Dove",
+            "Title": "Doubt",
+            "File": "vo_dove_doubt_001",
+            "Text": "Huh?"
+        },
+        "11110831": {
+            "Sinner": "Dove",
+            "Title": "Shock",
+            "File": "vo_dove_shock_001",
+            "Text": "Ah!"
+        },
+        "11110832": {
+            "Sinner": "Dove",
+            "Title": "Upgrade Skill",
+            "File": "vo_dove_promotion_001",
+            "Text": "These letters carry everyone's wishes... I'll do my best to deliver them as quickly as I can."
+        }
+    },
     "111201": {
         "11120101": {
             "Sinner": "Ninety-Nine",
@@ -11529,6 +12055,54 @@
             "Title": "Special Attention",
             "File": "vo_pajiaxi_dongye_specialattention_001",
             "Text": "Bone-chilling winds and snowy nights are unique to Mayek, and those who stand firm in winter nights in snow gear deserve to stay in our memories eternally too..."
+        },
+        "111203110": {
+            "Sinner": "Pacassi",
+            "Title": "Attire Obtained",
+            "File": "vo_pajiaxi_lindongxiushi_cacha_001",
+            "Text": "Hello, laborer. I'm winter's daughter, a unique being born of ice and snow. Every winter, I give blessings to all the laborers toiling away tirelessly. Thus people call me Winter Maiden."
+        },
+        "111203111": {
+            "Sinner": "Pacassi",
+            "Title": "Level Up",
+            "File": "vo_pajiaxi_lindongxiushi_levelup_001",
+            "Text": "The snow keeps piling up."
+        },
+        "111203112": {
+            "Sinner": "Pacassi",
+            "Title": "Greeting",
+            "File": "vo_pajiaxi_lindongxiushi_greeting_001",
+            "Text": "You came. Is this year's work coming to an end? Then, please take a long, good rest, and wait for the spring to come."
+        },
+        "111203113": {
+            "Sinner": "Pacassi",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_pajiaxi_lindongxiushi_body_001",
+            "Text": "I was once told by steel workers: when molten iron is poured into a quench chamber, plumes of vapor will gush out of the chimneys, just as grand as how festive fireworks shoot into the sky."
+        },
+        "111203114": {
+            "Sinner": "Pacassi",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_pajiaxi_lindongxiushi_body_002",
+            "Text": "Mourn not for my departure, laborers, for when you see me all gone, it simply heralds the coming of spring, where lives are brought back to the world… By then, I'll be coverging into the blast furnace, seeping into the earth, just to be around in another existence."
+        },
+        "111203115": {
+            "Sinner": "Pacassi",
+            "Title": "Idle",
+            "File": "vo_pajiaxi_lindongxiushi_idle_001",
+            "Text": "So you heard about the yield target being overfulfilled too? Isn't that wonderful! Everyone can enjoy a lovely holiday this winter."
+        },
+        "111203116": {
+            "Sinner": "Pacassi",
+            "Title": "Annoyed",
+            "File": "vo_pajiaxi_lindongxiushi_clicking_001",
+            "Text": "Thank you, but I really don't need this thick scarf."
+        },
+        "111203117": {
+            "Sinner": "Pacassi",
+            "Title": "Special Attention",
+            "File": "vo_pajiaxi_lindongxiushi_specialattention_001",
+            "Text": "Thank you for bestowing special attention on me all along, but I'm destined to melt and thaw, just as how the laborers will have their victory over the winter."
         }
     },
     "111204": {

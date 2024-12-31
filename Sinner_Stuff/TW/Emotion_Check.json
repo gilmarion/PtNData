@@ -844,6 +844,44 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
         }
     },
+    "藍鷲": {
+        "Emotion Check 1": {
+            "Open": "[藍鷲正在享用下午茶]",
+            "藍鷲 Question": "你來了，現在陽光正好，你也難得清閒，坐下來慢慢品嚐一下特別為您準備的甜點如何，我沏了茶，來挑挑吧？想配哪塊點心？",
+            "Chief Question 1": "藍莓起司蛋糕",
+            "藍鷲 Response 1": "嗯，香醇可口，甜度也很適中……剛疲憊工作了一陣子的局長大人，應當最適合享用這份下午茶的愜意吧？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "草莓奶油可麗餅",
+            "藍鷲 Response 2": "一起嚐嚐吧？……你說太甜了，呵呵，生活中的苦總是需要點甜味調劑的。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[藍鷲坐在窗邊，察覺到你的注視，回頭笑笑]",
+            "藍鷲 Question": "怎麼了，這樣看著我，是懷念曾經與我為鄰的日子嗎？",
+            "Chief Question 1": "懷念",
+            "藍鷲 Response 1": "是嗎？既然這樣，我遞交的那份申請，局長大人可要雙手贊同批准哦，不久之後，我們就能繼續比鄰而居！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "否認",
+            "藍鷲 Response 2": "是嗎？本來還想將房間搬到局長房間旁邊，那還真可惜。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        }
+    },
     "哈梅爾": {
         "Emotion Check 1": {
             "Open": "[你在訓練室看到了練舞的哈梅爾]",
@@ -1217,6 +1255,44 @@
                 "atlas/monthsign/sprite_dailysign_face_3.png",
                 "atlas/monthsign/sprite_dailysign_face_3.png",
                 "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        }
+    },
+    "多芙": {
+        "Emotion Check 1": {
+            "Open": "[多芙正在幫管理局眾人送信。]",
+            "多芙 Question": "這不是局長嗎？正好，來猜猜看，這兩封信裡面，哪一封是送給你的？",
+            "Chief Question 1": "粉色信封",
+            "多芙 Response 1": "咦？粉色這個是用心形貼紙封口的耶，說不定是封情書呢！唉呀，你別急著否認嘛！萬一……真的是給你的呢？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "藍色信封",
+            "多芙 Response 2": "從這麼多信裡選中了這封信，你我還挺有緣分的，該說是你對我瞭解很深呢，還是……這份心意，本就想讓你拆開呢？",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[多芙收到了寄給她的信，卻沒急著拆開，似乎在醞釀些什麼。]",
+            "多芙 Question": "居然有人寫信給信使呀，該怎麼回信呢……哈哈，真是好難抉擇啊，是該給點甜頭上上鉤呢，還是該用些話術嚇嚇這人……",
+            "Chief Question 1": "提醒她看署名",
+            "多芙 Response 1": "署名是……米諾斯危機管理局局長……哦，連多芙這種小人物都要親自處理監視，不愧是局長，好細心呀！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "提醒她拆開看",
+            "多芙 Response 2": "「用自己真正的心意與人往來通訊」……這個字跡……是你……這就是你想對我說的話嗎……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
             ]
         }
     },

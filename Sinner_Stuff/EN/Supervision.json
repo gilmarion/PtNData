@@ -4625,6 +4625,171 @@
             }
         }
     },
+    "1050801": {
+        "ID Num": 1050801,
+        "Event Title": "Taste",
+        "Level": "⚠",
+        "Event Desc": "The Supply Office receives another order from Vautour Bleu.",
+        "Sinner": "Vautour Bleu",
+        "Text": {
+            "Text 1": "Vautour Bleu often orders all sorts of Eastside desserts through the Supply Office. You've had the chance to taste some, but you really can't handle how sickeningly sweet they are.",
+            "Choice 2": "To each their own."
+        }
+    },
+    "1050802": {
+        "ID Num": 1050802,
+        "Event Title": "Stand-in Accountant",
+        "Level": "⚠",
+        "Event Desc": "The Bureau's accountant is on sick leave for two days.",
+        "Sinner": "Vautour Bleu",
+        "Text": {
+            "Text 1": "You're just worrying about who will handle the accounts during the Bureau's accountant's two-day sick leave when Vautour Bleu volunteers to take over the work. After agreeing on her compensation, she gets everything done with remarkable efficiency and accuracy.",
+            "Choice 2": "She's worth every penny."
+        }
+    },
+    "1050811": {
+        "ID Num": 1050811,
+        "Event Title": "Social Butterfly",
+        "Level": "⚠⚠",
+        "Event Desc": "Vautour Bleu is socializing with everyone in the Outdoor Activity Area.",
+        "Sinner": "Countess Chelsea",
+        "Text": {
+            "Text 1": "Vautour Bleu: Oh, Kelvin! Thank you for the ice cream you made me yesterday. It was absolutely delightful.",
+            "Text 2": "Kelvin: Really? I'm so glad! If you enjoy it, I'd be happy to make more flavors for you!",
+            "Text 3": "Vautour Bleu: Hehe, that'd be lovely. I'll look forward to it.",
+            "Text 4": "Countess Chelsea: Vautour Bleu, I've come across some fine uncut gems again. Would you like to take a look at them later?",
+            "Text 5": "Vautour Bleu: Of course. I've reserved the afternoon tea set you mentioned before. We can enjoy it while admiring your gems.",
+            "Text 6": "Countess Chelsea: Same time, same place then!",
+            "Text 7": "Vautour Bleu: Oh, Mr. Wang! Back from visiting your family in West District already?",
+            "Text 8": "Staff Member: Yes, I've attended my nephew's wedding. Thank you for your suggestion! They loved the gift.",
+            "Text 9": "Staff Member: Here, I've brought back some wedding candy for you...",
+            "Text 10": "Taking a walk in the Outdoor Activity Area, you notice Vautour Bleu exchanging friendly greetings with everyone she meets.",
+            "Text 11": "Despite having been in the Bureau for only a few days, she seems to have already memorized the names of every Sinner and staff member and know them well enough.",
+            "Choice 12": "Greet her",
+            "Text 13": "Chief: Good afternoon, Vautour Bleu.",
+            "Text 14": "Vautour Bleu: Oh, what a coincidence! Out for a walk as well?",
+            "Text 15": "Chief: Yes, I saw you chatting with everyone from down the way.",
+            "Text 16": "Chief: Looks like you're settling in quite well. You've gotten to know so many people in such a short time.",
+            "Text 17": "Vautour Bleu: Hehe, it's a habit I've developed over the years.",
+            "Text 18": "Vautour Bleu: Whenever I meet someone new, I make sure to observe and remember everything about them. Their preferences, their habits, what they desire...",
+            "Text 19": "Vautour Bleu: After all, investing in people's hearts is always the best bet for one's capital."
+        }
+    },
+    "1050812": {
+        "ID Num": 1050812,
+        "Event Title": "Massage",
+        "Level": "⚠⚠",
+        "Event Desc": "Today, you're personally attending Vautour Bleu's regular psychological consultation.",
+        "Sinner": "Vautour Bleu",
+        "Text": {
+            "Text 1": "Today, you're personally attending Vautour Bleu's regular psychological consultation. Used to her warm and friendly public demeanor, you're surprised to notice traces of fatigue in her expression now that you're alone together.",
+            "Choice 2": "Ask if she's fine",
+            "Text 3": "Chief: Vautour Bleu, you don't seem to be feeling well today?",
+            "Text 4": "Vautour Bleu: Really? I hadn't even noticed myself.",
+            "Text 5": "Vautour Bleu seems taken aback by your words as you gesture at her face.",
+            "Text 6": "Chief: You've got dark circles under your eyes. Did you not sleep well last night?",
+            "Text 7": "Vautour Bleu: Hehe, paying close attention to me, aren't you?",
+            "Text 8": "She smiles, tilting her head slightly as she considers for a moment.",
+            "Text 9": "Vautour Bleu: Hmm... Now that you mention it, I did sleep in a weird position last night. My neck and shoulders are rather stiff.",
+            "Text 10": "Chief: I see... Looks like a massage is the only therapy you need today.",
+            "Choice 11": "Offer to give her a massage",
+            "Text 12": "Chief: If you don't mind, I could give you a massage.",
+            "Text 13": "Vautour Bleu: Oh, that'd be my pleasure, little Chief.",
+            "Text 14": "You move behind her and place your hands on her left shoulder, beginning to massage it carefully.",
+            "Text 15": "Chief: ...Is this alright?",
+            "Text 16": "Vautour Bleu: A bit harder, please.",
+            "Text 17": "Chief: OK.",
+            "Text 18": "...",
+            "Text 19": "Chief: Feel better now?",
+            "Text 20": "About twenty minutes later, you withdraw your now-tired hands. Vautour Bleu rolls her neck and shoulders slightly.",
+            "Text 21": "Vautour Bleu: Thank you so much. That was wonderfully relaxing. I had no idea you were so skilled at massage, Chief.",
+            "Text 22": "Chief: I wouldn't say skilled. I just spend a lot of time at my desk, so I've learned to work out the knots myself.",
+            "Text 23": "Vautour Bleu: Is that so... Well then, next time you need a massage, why don't you let me return the favor?",
+            "Text 24": "Vautour Bleu: I'd be more than happy to be of service, dear Chief."
+        }
+    },
+    "1050821": {
+        "ID Num": 1050821,
+        "Event Title": "What Dessert Are You?",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "Vautour Bleu seems to have quite an unusual habit when it comes to addressing people.",
+        "Sinner": "Vautour Bleu",
+        "Text": {
+            "Text 1": "After spending some time with Vautour Bleu, you notice she has quite an unusual habit when it comes to addressing people.",
+            "Text 2": "Chief: Vautour Bleu, may I ask why you always use desserts and sweets as people's nicknames?",
+            "Text 3": "Chief: Ignis is Little Pudding, Mess is Macaron, Hamel is Soufflé, Eureka is Popping Candy, and so on.",
+            "Text 4": "Vautour Bleu: Hehe, well... Don't you think they're quite felicitous?",
+            "Text 5": "Vautour Bleu smiles and explains her reasoning to you patiently.",
+            "Text 6": "Vautour Bleu: Ignis makes the most divine caramel pudding in the Bureau. It's simply impossible to get enough of it. And she herself is just like her signature dish: a bit reserved, but quite the sweetie underneath.",
+            "Text 7": "Vautour Bleu: As for Mess, with her vibrant outfits and accessories, and that perfectly colorful personality, what else could she be but a macaron?",
+            "Text 8": "Vautour Bleu: And Hamel, isn't it obvious? Her beauty and that delicate, dreamy air about her make her a soufflé.",
+            "Text 9": "Vautour Bleu: And Eureka, she's truly one of a kind. She may look meek and unassuming, but she'll surprise you with an unexpected pop and fizz once you get to know her.",
+            "Text 10": "You find yourself nodding along, intrigued by her convincing analysis.",
+            "Path 1": {
+                "Choice 11": "What about me?",
+                "Text 12": "Chief: What dessert would I be in your eyes?",
+                "Text 13": "Vautour Bleu: Now you... Hmm...",
+                "Text 14": "Vautour Bleu moves closer, studying you with careful consideration.",
+                "Text 15": "Vautour Bleu: If I had to pick just one... Hmm, that would be quite the challenge.",
+                "Text 16": "Vautour Bleu: You have the versatility of a crêpe, the refreshing charm of a fruit tart, the rich complexity of a mille-feuille, and the intense, lingering allure of an opera cake...",
+                "Text 17": "She seems ready to elaborate, but you're already feeling quite flustered and quickly try to stop her before she can make you feel even more awkward.",
+                "Text 18": "Chief: O-okay, that's enough!",
+                "Text 19": "Chief: I shouldn't have asked you that..."
+            },
+            "Path 2": {
+                "Choice 20": "What about you?",
+                "Text 21": "Chief: Then what dessert would you be in your own eyes?",
+                "Text 22": "Vautour Bleu: Me? I've never actually considered that...",
+                "Text 23": "Surprise flickers across Vautour Bleu's eyes. After a moment's contemplation, she gives a wry smile.",
+                "Text 24": "Vautour Bleu: I can't quite figure it out.",
+                "Text 25": "Vautour Bleu: I'm afraid I'm far too bitter to be any kind of dessert.",
+                "Text 26": "Chief: Hmm... but then again, who says I have to be a dessert?",
+                "Text 27": "Chief: After all, the bitterness of strong tea has its own distinct charm."
+            }
+        }
+    },
+    "1050822": {
+        "ID Num": 1050822,
+        "Event Title": "One-Day Observer",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "In the bustling Recreation Area, Vautour Bleu sits alone in a corner booth, swirling her glass.",
+        "Sinner": "Vautour Bleu",
+        "Text": {
+            "Text 1": "In the ever-bustling Recreation Area filled with chatter and laughter, Vautour Bleu sits alone in a corner booth, swirling her glass and looking out of place amid the lively atmosphere.",
+            "Choice 2": "Go and chat with her",
+            "Text 3": "Chief: Hi there, Vautour Bleu.",
+            "Text 4": "Chief: They've just installed some new entertainment equipment in the Recreation Area. Looks kind of fun. Wanna check it out?",
+            "Text 5": "She waves off the suggestion with a gentle smile.",
+            "Text 6": "Vautour Bleu: Oh no, I should just let the young ones enjoy it. I'm quite content just watching from here.",
+            "Text 7": "Vautour Bleu: By the way, wouldn't you get into trouble if your adjutant doesn't find you at your desk working?",
+            "Text 8": "Chief: Ahem... Well, these documents aren't particularly urgent, so I thought I'd sneak in a quick break.",
+            "Text 9": "Vautour Bleu: Perfect timing then. Care to join me for a while?",
+            "Text 10": "She pats the empty seat beside her. Once you're settled, she produces another drink as if by magic and presses it into your hands.",
+            "Text 11": "Vautour Bleu: Do you know what I love most about this place of yours?",
+            "Text 12": "Vautour Bleu: These kids here, most of them have such clear goals and dreams, all brimming with hope for tomorrow.",
+            "Text 13": "Vautour Bleu: There's nothing I love more than watching people chase their dreams with such burning determination.",
+            "Text 14": "Chief: ...You prefer to keep your distance, don't you? Watching everything from the sidelines?",
+            "Text 15": "Vautour Bleu: Indeed I do. You should try it sometime.",
+            "Text 16": "Vautour Bleu: Step off the stage and just become an observer who watches how the story unfolds. It's a good way to pass the time.",
+            "Text 17": "Taking Vautour Bleu's advice, you step into the role of an observer, joining her in watching everything that's happening in the Recreation Area.",
+            "Text 18": "You find yourself tensing up as you watch the competitive games, your heart warming at the sight of people sharing snacks. You can't help but smile when someone's playful antics send their companions into fits of laughter.",
+            "Path 1": {
+                "Choice 19": "I think I understand now.",
+                "Text 20": "Chief: It's quite an unusual feeling... All these details I'd never noticed before are suddenly coming into focus.",
+                "Text 21": "Chief: This way, you not only see more, but in a sense, you live more too.",
+                "Text 22": "Vautour Bleu raises her glass and gently clinks it against yours.",
+                "Text 23": "Vautour Bleu: That's exactly the feeling. You get me now."
+            },
+            "Path 2": {
+                "Choice 24": "Don't you ever feel lonely?",
+                "Text 25": "Chief: In the end, these are other people's stories we're watching. At its core, none of it truly concerns us.",
+                "Text 26": "Vautour Bleu: Loneliness is perhaps inevitable at first, but you grow accustomed to it. In fact, what follows is a liberating peace.",
+                "Text 27": "Vautour Bleu: Besides, I have your delightful company today, don't I?",
+                "Text 28": "Vautour Bleu stretches contentedly.",
+                "Text 29": "Vautour Bleu: It's getting late... Shall we have dinner together?"
+            }
+        }
+    },
     "1060101": {
         "ID Num": 1060101,
         "Event Title": "Ice Cream",
@@ -6574,6 +6739,142 @@
                 "Text 25": "Chief: You get on well with both the staff and the other Sinners. Everyone likes you. The way I see it, you've fully integrated into the life here.",
                 "Text 26": "Chief: I'm surprised that you don't feel like an ordinary Sinner.",
                 "Text 27": "Golan: You are? Hmm, arguing, eating, training... The other Sinners do these things too."
+            }
+        }
+    },
+    "1110801": {
+        "ID Num": 1110801,
+        "Event Title": "Letter Collection",
+        "Level": "⚠",
+        "Event Desc": "Dove keeps a special collection inside the storage cabinet in her room.",
+        "Sinner": "Dove",
+        "Text": {
+            "Text 1": "In Dove's storage cabinet lies a stack of yellowed old letters that she's kept for a long time. Every now and then, she takes them out and rereads them carefully.",
+            "Choice 2": "These must mean a great deal to her."
+        }
+    },
+    "1110802": {
+        "ID Num": 1110802,
+        "Event Title": "The Old Way",
+        "Level": "⚠",
+        "Event Desc": "Handwritten letters have suddenly become a trend in the Bureau.",
+        "Sinner": "Dove",
+        "Text": {
+            "Text 1": "Under Dove's encouragement, more and more people in the Bureau have taken up letter writing, making her mail delivery service increasingly prosperous.",
+            "Choice 2": "That's nice.",
+            "Text 3": "Chief: What kind of mail will arrive today? It's quite exciting."
+        }
+    },
+    "1110803": {
+        "ID Num": 1110803,
+        "Event Title": "Book Club",
+        "Level": "⚠",
+        "Event Desc": "Several book-loving Sinners hold regular book club gatherings in the Bureau.",
+        "Sinner": "Dove",
+        "Text": {
+            "Text 1": "Several book-loving Sinners hold regular book club gatherings in the Bureau. Dove is presenting a worn-out life hack guide, reciting its contents from memory.",
+            "Text 2": "Dove: You'll be exposed to radiation if you put your phone next to your pillow. Also, reboiled water contains toxins...",
+            "Choice 3": "Why does all of this sound rather... questionable?"
+        }
+    },
+    "1110811": {
+        "ID Num": 1110811,
+        "Event Title": "Strategic Retreat",
+        "Level": "⚠⚠",
+        "Event Desc": "Sinner Dove appears to have had a confrontation with someone in the photo room.",
+        "Sinner": "Dove",
+        "Text": {
+            "Text 1": "Supervision System:\nSinner Dove appears to have had a confrontation with someone in the photo room. Go and check?",
+            "Choice 2": "Yes",
+            "Text 3": "You head in the direction indicated by the Supervision System. From a distance, you see an MBCC staff member standing arms akimbo, confronting Dove as she exits the photo room.",
+            "Text 4": "Staff Member: There you are at last! What are you doing here? Where are my documents?",
+            "Text 5": "Dove: I was just collecting the photos a sender wanted to mail...",
+            "Text 6": "Dove: Please calm down first. What documents are you looking for?",
+            "Text 7": "Staff Member: Calm down? Sure! But I'm waiting for the Supply Office's receipts and invoices that should have been delivered by noon. Why haven't I received them yet?",
+            "Text 8": "Dove blinks and finally seems to comprehend the situation. She bends down and rummages through her messenger bag for quite some time before finally retrieving an envelope stuck at the bottom.",
+            "Text 9": "Dove: ...",
+            "Text 10": "As you begin to understand what's happening and prepare to intervene, Dove beats you to it. Realizing her mistake, she presents the envelope with both hands and bows deeply in apology.",
+            "Text 11": "Dove: I'm so sorry, I... I shouldn't have kept you waiting for so long...",
+            "Text 12": "Dove: It's just that I've got a huge batch to deliver today. I've been running around non-stop since six in the morning. I haven't even had time for lunch.",
+            "Text 13": "Dove: I rushed here as fast as I could, but I still let you down... It's all my fault!",
+            "Text 14": "Staff Member: Uh... I was just a bit anxious, since this is part of my job...",
+            "Text 15": "Her heartfelt apology and remorseful tone have clearly overwhelmed the young staff member. Yet Dove sniffles and continues.",
+            "Text 16": "Dove: Of course, these are no excuses! I'm truly sorry for delaying your work. You have every right to file a complaint against me.",
+            "Text 17": "Dove: ...In, in fact, you don't need to, I'll do it myself right now! I'll go and get my penalty from Chief! I should be put in the confinement cell!",
+            "Text 18": "Dove says vehemently and stamps her feet, turning to head toward your office, but the staff member frantically grabs her arm to stop her.",
+            "Text 19": "Staff Member: Wait, it's... it's not that serious! I was just getting impatient. I didn't mean to report you! We're all just trying our best here!",
+            "Text 20": "Hearing this, Dove's face lights up with a surprised, endearing smile.",
+            "Text 21": "Dove: Thank you for your understanding. I'm so touched... You're such a wonderful person! If only everyone could be as kind as you are.",
+            "Text 22": "Dove excuses herself to continue her mail route, leaving the young staff member standing there in a daze, envelope in hand.",
+            "Text 23": "Staff Member: Dove has to deliver so many letters every day. She's working so hard. I failed to understand that and was being so harsh to her... Ugh, what a terrible person I am!",
+            "Text 24": "Staff Member: Oh right, didn't she say she hasn't had lunch yet? No, she may faint from hunger if she keeps this up. I should go buy her something to eat...",
+            "Text 25": "Chief: ...",
+            "Text 26": "Chief: Looks like my concerns were completely unnecessary."
+        }
+    },
+    "1110812": {
+        "ID Num": 1110812,
+        "Event Title": "Plant Terminator",
+        "Level": "⚠⚠",
+        "Event Desc": "You find Dove crouching in a corner of the greenhouse, staring at several flower pots with visible distress.",
+        "Sinner": "Sumire",
+        "Text": {
+            "Text 1": "You find Dove crouching in a corner of the greenhouse, staring at several flower pots with visible distress.",
+            "Choice 2": "Go and ask her what happened",
+            "Text 3": "Chief: Dove, what's wrong?",
+            "Text 4": "Dove: Oh, Chief... Well, you see, I bought two orchid plants last week.",
+            "Text 5": "Dove: I've been taking care of them every day, but for some reason they don't seem to be doing well...",
+            "Text 6": "As she speaks, Dove points to the two plants at her feet.",
+            "Text 7": "Upon closer inspection, you see that almost all the white flowers have fallen off, and the leaves, which should have been a vibrant green, are now yellow and withered, hanging limply from the stems.",
+            "Text 8": "Chief: Um... how have you been caring for them?",
+            "Text 9": "Dove: I'm following every instruction in the care guide that came with them.",
+            "Text 10": "Dove: Orchids need bright light but should avoid direct sunlight, so I've placed them in a shaded corner of the greenhouse.",
+            "Text 11": "Dove: I water them twice a week, and I'm using a well-aerated orchid potting mix.",
+            "Text 12": "Chief: ...That all sounds correct, so what could be the problem?",
+            "Text 13": "Dove lets out a sigh and lowers her head dejectedly.",
+            "Text 14": "Dove: Sigh, I was never any good at farming back home. Everything I planted either withered or yielded poor harvests, and it was the same with animals. They all somehow escaped from their pens quickly.",
+            "Text 15": "Dove: I suppose I just don't have a way with plants and animals... Such a shame, I really liked these orchids...",
+            "Choice 16": "Comfort her",
+            "Text 17": "Chief: Don't worry too much. Why don't we let Sumire take a look at them? They might still be salvageable.",
+            "Text 18": "Chief: Next time you take care of plants, you should invite her to join you. She can observe your methods and see if there's anything to adjust. I'm sure she'd be happy to help."
+        }
+    },
+    "1110821": {
+        "ID Num": 1110821,
+        "Event Title": "Treasured Belonging",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "You find Dove washing her bicycle in the Outdoor Activity Area.",
+        "Sinner": "Dove",
+        "Text": {
+            "Text 1": "It's a pleasant afternoon. In the sunlit Outdoor Activity Area, Dove is washing her bicycle.",
+            "Choice 2": "Lend a hand",
+            "Text 3": "Chief: Dove, washing your bike?",
+            "Text 4": "You walk over and simply grab the cleaning cloth from Dove's hand, starting to help her wipe down the bicycle frame.",
+            "Text 5": "Dove: Oh, hi, Chief.",
+            "Text 6": "Dove: I've got no mail to deliver today, so I finally have some time off. Thought I'd take the opportunity to give my bicycle a wash and oil it up a bit.",
+            "Text 7": "Dove gives you an appreciative smile, then removes the chain to soak it in cleaning solution before taking up a brush to clean the dust stuck in the pedals.",
+            "Text 8": "This is your first close look at Dove's bicycle, and you notice how old it appears to be. The handlebars and seat are badly worn, and much of the paint has peeled off the frame.",
+            "Text 9": "Chief: You've had this bike for a long time, haven't you? Why not get a new one?",
+            "Text 10": "Dove: I've been riding this same bike all these years, so I'm used to it now. It still works fine, so there's no need for a new one.",
+            "Text 11": "Dove: Besides, this bike... my parents got it for me back then.",
+            "Text 12": "Dove: They didn't leave much behind, so I can't really bring myself to replace this bike.",
+            "Text 13": "Chief: Ah, I see it now...",
+            "Text 14": "Dove: Alright, Chief, thanks for your help. The frame's all cleaned now, and I can handle the rest myself. You should get back to your work.",
+            "Path 1": {
+                "Choice 15": "Leave",
+                "Text 16": "Chief: All right then, I'll head back now.",
+                "Text 17": "Chief: If you need any help, feel free to come find me anytime.",
+                "Text 18": "After saying goodbye to Dove, you head back to your office, still thinking about her bicycle.",
+                "Text 19": "Chief: Didn't the chain and some of the gears look rusty?",
+                "Text 20": "Chief: I should put in a request with the Supply Office when I get back, get some new parts, and replace them for her next time..."
+            },
+            "Path 2": {
+                "Choice 21": "Stay",
+                "Text 22": "Chief: It's no trouble. I don't have much on my schedule today, so I might as well stay and help out.",
+                "Text 23": "Chief: What part needs cleaning next?",
+                "Text 24": "Dove: Well, if you insist, Chief... Would you mind applying some oil to the cleaned chain?",
+                "Text 25": "You spend the entire afternoon working together, finally finishing cleaning the bike.",
+                "Text 26": "As the sun sets, Dove rides her freshly reassembled bicycle across the grass, waving at you with a smile that makes her look like a free little dove."
             }
         }
     },

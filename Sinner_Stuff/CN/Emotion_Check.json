@@ -844,6 +844,44 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
         }
     },
+    "蓝鹫": {
+        "Emotion Check 1": {
+            "Open": "[蓝鹫正在享用下午茶]",
+            "蓝鹫 Question": "你来了，现在阳光正好，你也难得清闲，坐下来慢慢品尝一下特供甜点如何，我沏了茶，来挑挑吧？想配哪块点心？",
+            "Chief Question 1": "蓝莓芝士蛋糕",
+            "蓝鹫 Response 1": "嗯~香醇可口，甜度也很适中……刚疲惫工作了一阵子的局长大人，应当最适合享用这份下午茶的惬意吧？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "草莓奶油可丽饼",
+            "蓝鹫 Response 2": "一起尝尝吧？……你说太甜了，呵呵，生活中的苦总是需要点甜味调剂的。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[蓝鹫坐在窗边，察觉到你的注视，回头笑笑]",
+            "蓝鹫 Question": "怎么了，这样看着我，是怀念曾经与我为邻的日子吗？",
+            "Chief Question 1": "怀念",
+            "蓝鹫 Response 1": "是吗？既然这样，我递交的那份申请，局长大人可要双手赞同批准哦，不久之后，我们就能继续比邻而居~",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "否认",
+            "蓝鹫 Response 2": "是吗？本来还想将房间搬到局长房间旁边，那可真可惜。",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        }
+    },
     "哈梅尔": {
         "Emotion Check 1": {
             "Open": "[你在训练室看到了练舞的哈梅尔]",
@@ -1217,6 +1255,44 @@
                 "atlas/monthsign/sprite_dailysign_face_3.png",
                 "atlas/monthsign/sprite_dailysign_face_3.png",
                 "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        }
+    },
+    "多芙": {
+        "Emotion Check 1": {
+            "Open": "[多芙正在给管理局众人送信。]",
+            "多芙 Question": "这不是局长嘛？正好，来猜猜看，这两封信里面，哪一封是送给你的？",
+            "Chief Question 1": "粉色信封",
+            "多芙 Response 1": "咦，粉色这个是用心形贴纸封口的诶，说不定是封情书呢！哎呀，你别急着否认嘛~万一……真的是给你的呢？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "蓝色信封",
+            "多芙 Response 2": "从这么多信里选中了这封信，你我还挺有缘分的，该说是你对我了解很深呢，还是……这份心意，本就想让你拆开呢？",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[多芙收到了寄给她的信，却没急着拆开，似乎在酝酿些什么。]",
+            "多芙 Question": "居然有人给信使写信呀，该怎么回信呢……哈哈，真是好难抉择啊，是该给点甜头上上钩呢，还是该用些话术吓吓这人……",
+            "Chief Question 1": "提醒她看署名",
+            "多芙 Response 1": "署名是……米诺斯危机管理局局长……哦，连多芙这种小人物都要亲自处理监视，不愧是局长，好细心呀~",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "提醒她拆开看",
+            "多芙 Response 2": "“用自己真正的心意与人往来通信”……这个字迹……是你……这就是你想对我说的话吗……",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
             ]
         }
     },

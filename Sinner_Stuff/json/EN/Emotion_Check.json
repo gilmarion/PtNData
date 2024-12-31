@@ -844,6 +844,44 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
         }
     },
+    "Vautour Bleu": {
+        "Emotion Check 1": {
+            "Open": "[Vautour Bleu is having afternoon tea.]",
+            "Vautour Bleu Question": "Ah, there you are. The sunlight is perfect right now, and you've managed to steal some free time. Why don't you join me? I've prepared tea and some special desserts. Does anything tickle your fancy here?",
+            "Chief Question 1": "Blueberry cheesecake",
+            "Vautour Bleu Response 1": "Mmm... Rich and delicate, with just the right amount of sweetness... Perfect for Chief who's been working so hard. The best accompaniment for this tea, isn't it?",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "Strawberry cream crêpe",
+            "Vautour Bleu Response 2": "Shall we try it together? ...Too sweet? Haha, well, sometimes we need a touch of sweetness to balance out life's bitter moments.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Sitting by the window, Vautour Bleu notices your gaze and turns with a gentle smile.]",
+            "Vautour Bleu Question": "Why the staring? Missing the days when we were neighbors?",
+            "Chief Question 1": "Of course yes.",
+            "Vautour Bleu Response 1": "Oh? In that case, my dear Chief, you simply must approve the request I've just turned in. Before long, we could be neighbors once again.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "Of course no.",
+            "Vautour Bleu Response 2": "Oh? And here I was planning to move right next to your quarters. What a shame.",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png",
+                "atlas/monthsign/sprite_dailysign_face_1.png"
+            ]
+        }
+    },
     "Hamel": {
         "Emotion Check 1": {
             "Open": "[You see Hamel practicing dance moves in the Training Room.]",
@@ -1217,6 +1255,44 @@
                 "atlas/monthsign/sprite_dailysign_face_3.png",
                 "atlas/monthsign/sprite_dailysign_face_3.png",
                 "atlas/monthsign/sprite_dailysign_face_3.png"
+            ]
+        }
+    },
+    "Dove": {
+        "Emotion Check 1": {
+            "Open": "[Dove is delivering mail to the people at the Bureau.]",
+            "Dove Question": "Oh, if it isn't Chief! You came at the right time. Guess which of these two letters is for you?",
+            "Chief Question 1": "The pink envelope",
+            "Dove Response 1": "Oh my, this pink one is sealed with a heart sticker. Could it be a love letter? Now, don't be so quick to deny it... What if... it really is for you?",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "The blue envelope",
+            "Dove Response 2": "Out of all these letters, you picked this one... What a meaningful coincidence. Do you really know me so well, or... perhaps it's this message who picked you?",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Dove receives a letter addressed to her, but instead of opening it right away, she seems to be deliberating over something.]",
+            "Dove Question": "Oh, someone wrote a letter to the mail carrier? How should I reply... Haha, this is no easy choice to make... Should I reel them in with some bait, or say something to give them a good scare...",
+            "Chief Question 1": "Check the signature maybe?",
+            "Dove Response 1": "The sender is... Chief of the Minos Bureau of Crisis Control... Oh wow, Chief is personally monitoring even a nobody like Dove. You sure are very serious about your job.",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "Open and have a look.",
+            "Dove Response 2": "\"Communicate your true feelings with other.\" This handwriting... It's you... Is this what you wanted to tell me...?",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
             ]
         }
     },
