@@ -11117,6 +11117,54 @@
             "Title": "Upgrade Skill",
             "File": "vo_golem_promotion_001",
             "Text": "I really gotta practice harder, or those kids are gonna have a real laugh."
+        },
+        "111107110": {
+            "Sinner": "Golan",
+            "Title": "Attire Obtained",
+            "File": "vo_golem_tiantaizhicai_cacha_001",
+            "Text": "Alright, all done. Now peace is restored. Chief told me to keep it low-key on this mission, but you gotta step up when you see bullies, right?"
+        },
+        "111107111": {
+            "Sinner": "Golan",
+            "Title": "Level Up",
+            "File": "vo_golem_tiantaizhicai_levelup_001",
+            "Text": "Wait wait wait... Is this the power of bond like those high-school animes?"
+        },
+        "111107112": {
+            "Sinner": "Golan",
+            "Title": "Greeting",
+            "File": "vo_golem_tiantaizhicai_greeting_001",
+            "Text": "Now that I've taken care of those small fry, the view from up here is actually pretty nice. Care to sit with me for a bit? I bet the sun set view will be even better."
+        },
+        "111107113": {
+            "Sinner": "Golan",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_golem_tiantaizhicai_body_001",
+            "Text": "Open your idiot eyes and look closer! I'm not the bully here—they are! What I do is just giving them what they had coming. Punish! Evil! Got it?!"
+        },
+        "111107114": {
+            "Sinner": "Golan",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_golem_tiantaizhicai_body_002",
+            "Text": "If I were to go to school, I'd never pick on my classmates! Only scums would stoop that low. We in the Iron Gang take the high road—we never mess with ordinary people."
+        },
+        "111107115": {
+            "Sinner": "Golan",
+            "Title": "Idle",
+            "File": "vo_golem_tiantaizhicai_idle_001",
+            "Text": "Hmm? Why so quiet? You're not scared, are you..."
+        },
+        "111107116": {
+            "Sinner": "Golan",
+            "Title": "Annoyed",
+            "File": "vo_golem_tiantaizhicai_clicking_001",
+            "Text": "Told ya, no weapon on me. I can use whatever's nearby to beat the sh*t out of these lowlifes."
+        },
+        "111107117": {
+            "Sinner": "Golan",
+            "Title": "Special Attention",
+            "File": "vo_golem_tiantaizhicai_specialattention_001",
+            "Text": "Well? My moves to punish the bad guys are even more impressive than you thought, aren't they? Go ahead, take it all in—this isn't something you get to see every day."
         }
     },
     "111108": {
@@ -15845,6 +15893,66 @@
             "Title": "Special Attention",
             "File": "vo_peggi_wuyeguiyu_specialattention_001",
             "Text": "Don't be shocked. I'm willing to get caught for a treasure she desires."
+        },
+        "111401110": {
+            "Sinner": "Pricilla",
+            "Title": "Attire Obtained",
+            "File": "vo_peggi_luanshijiaren_cacha_001",
+            "Text": "Hey Chief, wanna have a pajama party? Or better yet... we can make it a \"Phantom Robber Collections Night!\" Sounds fun, right?"
+        },
+        "111401111": {
+            "Sinner": "Pricilla",
+            "Title": "Level Up",
+            "File": "vo_peggi_luanshijiaren_levelup_002",
+            "Text": "I've got so many pretty knick-knacks that my house is almost too small to hold them all!!"
+        },
+        "111401112": {
+            "Sinner": "Pricilla",
+            "Title": "Greeting",
+            "File": "vo_peggi_luanshijiaren_greeting_001",
+            "Text": "Oh, you're here! Come, take a look at my treasures! Hehe~ If you see something you like, it's yours!"
+        },
+        "111401113": {
+            "Sinner": "Pricilla",
+            "Title": "Pat Head",
+            "File": "vo_peggi_luanshijiaren_head_001",
+            "Text": "I know, I know, my rabbit ears are fluffy, but haven't you petted them enough? That's not fair! Take this—Robber Rabbit's counterattack! Let me rub your ears too!"
+        },
+        "111401114": {
+            "Sinner": "Pricilla",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_peggi_luanshijiaren_talk1_001",
+            "Text": "My room's not messy; it's just... I've got many decorations. See? Aren't they adorable? How can you not love these little doodads!"
+        },
+        "111401115": {
+            "Sinner": "Pricilla",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_peggi_luanshijiaren_talk1_002",
+            "Text": "Are my collections valuable? Meh. I've seen way fancier and pricier jewels in my heists, but I pick out and keep my little treasures just because they're so cute!"
+        },
+        "111401116": {
+            "Sinner": "Pricilla",
+            "Title": "Ordinary Contact 3",
+            "File": "vo_peggi_luanshijiaren_hand_001",
+            "Text": "Hmm, wanna try my lollipop, do you? Hehe, strawberry flavor is quite sweet, but this is the last one. If you want it, you'll have to steal it from the Phantom Robber herself!"
+        },
+        "111401117": {
+            "Sinner": "Pricilla",
+            "Title": "Ordinary Contact 4",
+            "File": "vo_peggi_luanshijiaren_leg_001",
+            "Text": "Why are you yawning? Tired already? Fine... C'mere, take a nap. Hmm? You awake now?"
+        },
+        "111401118": {
+            "Sinner": "Pricilla",
+            "Title": "Idle",
+            "File": "vo_peggi_luanshijiaren_idle_001",
+            "Text": "Hey, keep your eyes open~ The night is still young..."
+        },
+        "111401119": {
+            "Sinner": "Pricilla",
+            "Title": "Special Attention",
+            "File": "vo_peggi_luanshijiaren_specialattention_001",
+            "Text": "So, which one do you think is the most adorable in my room? Wait, why are you staring like that? Oh~ could your most valuable find be... me?"
         }
     },
     "111402": {

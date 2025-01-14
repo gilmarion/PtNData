@@ -11117,6 +11117,54 @@
             "Title": "升技",
             "File": "vo_golem_promotion_001",
             "Text": "是得多練練，免得以後被那群兔崽子們笑話我沒能耐了。"
+        },
+        "111107110": {
+            "Sinner": "戈藍",
+            "Title": "獲得套裝",
+            "File": "vo_golem_tiantaizhicai_cacha_001",
+            "Text": "清掃完畢，校園生活回歸平靜——雖然局長叮囑過這次行動不要太招搖，但碰到欺負人的事就得站出來，對吧。"
+        },
+        "111107111": {
+            "Sinner": "戈藍",
+            "Title": "升級",
+            "File": "vo_golem_tiantaizhicai_levelup_001",
+            "Text": "這難道就是……電視上說的那種校園……青春……羈絆的力量嗎？！"
+        },
+        "111107112": {
+            "Sinner": "戈藍",
+            "Title": "問候",
+            "File": "vo_golem_tiantaizhicai_greeting_001",
+            "Text": "把這些亂七八糟的小嘍囉收拾完以後，才發現從天台看出去的景色還蠻不錯的。一起坐會？等到太陽下山應該更好看。"
+        },
+        "111107113": {
+            "Sinner": "戈藍",
+            "Title": "普通觸摸1",
+            "File": "vo_golem_tiantaizhicai_body_001",
+            "Text": "我*！看清楚點！欺凌弱小的可不是我，老子這叫懲惡揚善明白嗎？懲！惡！揚！善！"
+        },
+        "111107114": {
+            "Sinner": "戈藍",
+            "Title": "普通觸摸2",
+            "File": "vo_golem_tiantaizhicai_body_002",
+            "Text": "要是我能上學的話那肯定不會欺負同學啊！小嘍囉才會找弱小的傢伙下手。我們舊鐵幫可是講仁義精神的，才不屑於找普通人的麻煩。"
+        },
+        "111107115": {
+            "Sinner": "戈藍",
+            "Title": "閒置",
+            "File": "vo_golem_tiantaizhicai_idle_001",
+            "Text": "嗯？怎麼不說話？不會是嚇著了吧……"
+        },
+        "111107116": {
+            "Sinner": "戈藍",
+            "Title": "煩躁",
+            "File": "vo_golem_tiantaizhicai_clicking_001",
+            "Text": "真沒藏武器，教訓這些小嘍囉不用準備啥，隨便抄點順手的傢伙事就行。"
+        },
+        "111107117": {
+            "Sinner": "戈藍",
+            "Title": "特別關注",
+            "File": "vo_golem_tiantaizhicai_specialattention_001",
+            "Text": "哼哼，怎麼樣，大姐頭威風出場懲罰壞人的身姿比想像的還要帥氣吧！機會難得，允許你多欣賞一會好了。"
         }
     },
     "111108": {
@@ -15845,6 +15893,66 @@
             "Title": "特別關注",
             "File": "vo_peggi_wuyeguiyu_specialattention_001",
             "Text": "不用驚訝~怪盜為了想要的寶物，也是會自投羅網的哦~"
+        },
+        "111401110": {
+            "Sinner": "普希拉",
+            "Title": "獲得套裝",
+            "File": "vo_peggi_luanshijiaren_cacha_001",
+            "Text": "嗨，局長，要和我開一場睡衣派對嗎？主題嗎？我想想……「怪盜收藏交流夜」怎麼樣！"
+        },
+        "111401111": {
+            "Sinner": "普希拉",
+            "Title": "升級",
+            "File": "vo_peggi_luanshijiaren_levelup_002",
+            "Text": "漂亮小東西越來越多，家裡都要放不下啦！"
+        },
+        "111401112": {
+            "Sinner": "普希拉",
+            "Title": "問候",
+            "File": "vo_peggi_luanshijiaren_greeting_001",
+            "Text": "終於來啦？快，過來看看我珍藏的寶貝們！有喜歡的，送給你也可以呀！"
+        },
+        "111401113": {
+            "Sinner": "普希拉",
+            "Title": "摸頭",
+            "File": "vo_peggi_luanshijiaren_head_001",
+            "Text": "我知道這對兔耳毛茸茸的手感很好，但你是不是摸得太過分了！哼，身為怪盜可不能在這裡失手……看招！讓我摸摸你的耳朵！"
+        },
+        "111401114": {
+            "Sinner": "普希拉",
+            "Title": "普通觸摸1",
+            "File": "vo_peggi_luanshijiaren_talk1_001",
+            "Text": "我房間哪裡亂啦，就是擺件有些多……你瞧，它們多麼別緻，多麼可愛！"
+        },
+        "111401115": {
+            "Sinner": "普希拉",
+            "Title": "普通觸摸2",
+            "File": "vo_peggi_luanshijiaren_talk1_002",
+            "Text": "貴重？它們倒也說不上有多貴重吧，在我的怪盜生涯裡，比這更漂亮更昂貴的珠寶我都見得多啦！我留下它們，只是看它們長得可愛而已！"
+        },
+        "111401116": {
+            "Sinner": "普希拉",
+            "Title": "普通觸摸3",
+            "File": "vo_peggi_luanshijiaren_hand_001",
+            "Text": "嗯，你也想吃糖嗎？嘻嘻，草莓味的確很甜……但可惜，這是最後一支了。真想要的話，試試從怪盜手裡偷走它，如何？"
+        },
+        "111401117": {
+            "Sinner": "普希拉",
+            "Title": "普通觸摸4",
+            "File": "vo_peggi_luanshijiaren_leg_001",
+            "Text": "看你哈欠連天的，這就睏了？算啦……那我這就借你瞇一會吧！嗯？怎麼又突然不睏了？"
+        },
+        "111401118": {
+            "Sinner": "普希拉",
+            "Title": "閒置",
+            "File": "vo_peggi_luanshijiaren_idle_001",
+            "Text": "嘿，別走神，夜晚……還長著呢！"
+        },
+        "111401119": {
+            "Sinner": "普希拉",
+            "Title": "特別關注",
+            "File": "vo_peggi_luanshijiaren_specialattention_001",
+            "Text": "來pick一下你心中這房間裡最可愛的第一名吧！看你目不轉睛的樣子……難道是， 我？"
         }
     },
     "111402": {

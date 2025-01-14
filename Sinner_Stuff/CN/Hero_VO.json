@@ -11117,6 +11117,54 @@
             "Title": "升技",
             "File": "vo_golem_promotion_001",
             "Text": "是得多练练，免得以后被那群兔崽子们笑话我没能耐了。"
+        },
+        "111107110": {
+            "Sinner": "戈蓝",
+            "Title": "获得装束",
+            "File": "vo_golem_tiantaizhicai_cacha_001",
+            "Text": "清扫完毕，校园生活回归平静——虽然局长叮嘱过这次行动不要太招摇，但碰到欺负人的事就得站出来，对吧。"
+        },
+        "111107111": {
+            "Sinner": "戈蓝",
+            "Title": "升级",
+            "File": "vo_golem_tiantaizhicai_levelup_001",
+            "Text": "这难道就是……电视上说的那种校园……青春……羁绊的力量吗？！"
+        },
+        "111107112": {
+            "Sinner": "戈蓝",
+            "Title": "问候",
+            "File": "vo_golem_tiantaizhicai_greeting_001",
+            "Text": "把这些乱七八糟的小喽啰收拾完以后，才发现从天台看出去的景色还蛮不错的。一起坐会儿？等到太阳下山应该更好看。"
+        },
+        "111107113": {
+            "Sinner": "戈蓝",
+            "Title": "普通触摸1",
+            "File": "vo_golem_tiantaizhicai_body_001",
+            "Text": "我*！看清楚点！欺凌弱小的可不是我，老子这叫惩恶扬善明白吗？惩！恶！扬！善！"
+        },
+        "111107114": {
+            "Sinner": "戈蓝",
+            "Title": "普通触摸2",
+            "File": "vo_golem_tiantaizhicai_body_002",
+            "Text": "要是我能上学的话那肯定不会欺负同学啊！小喽啰才会找弱小的家伙下手。我们旧铁帮可是讲仁义精神的，才不屑于找普通人的麻烦。"
+        },
+        "111107115": {
+            "Sinner": "戈蓝",
+            "Title": "闲置",
+            "File": "vo_golem_tiantaizhicai_idle_001",
+            "Text": "嗯？怎么不说话？不会是吓着了吧……"
+        },
+        "111107116": {
+            "Sinner": "戈蓝",
+            "Title": "烦躁",
+            "File": "vo_golem_tiantaizhicai_clicking_001",
+            "Text": "真没藏武器，教训这些小喽啰不用准备啥，随便抄点顺手的家伙事就行。"
+        },
+        "111107117": {
+            "Sinner": "戈蓝",
+            "Title": "特别关注",
+            "File": "vo_golem_tiantaizhicai_specialattention_001",
+            "Text": "哼哼，怎么样，大姐头威风出场惩罚坏人的身姿比想象的还要帅气吧！机会难得，允许你多欣赏一会儿好了。"
         }
     },
     "111108": {
@@ -15845,6 +15893,66 @@
             "Title": "特别关注",
             "File": "vo_peggi_wuyeguiyu_specialattention_001",
             "Text": "不用惊讶~怪盗为了想要的宝物，也是会自投罗网的哦~"
+        },
+        "111401110": {
+            "Sinner": "普希拉",
+            "Title": "获得装束",
+            "File": "vo_peggi_luanshijiaren_cacha_001",
+            "Text": "嗨，局长，要和我开一场睡衣派对吗？主题么，我想想……“怪盗收藏交流夜”怎么样！"
+        },
+        "111401111": {
+            "Sinner": "普希拉",
+            "Title": "升级",
+            "File": "vo_peggi_luanshijiaren_levelup_002",
+            "Text": "漂亮小东西越来越多，家里都要放不下啦~"
+        },
+        "111401112": {
+            "Sinner": "普希拉",
+            "Title": "问候",
+            "File": "vo_peggi_luanshijiaren_greeting_001",
+            "Text": "终于来啦？快，过来看看我珍藏的宝贝们~有喜欢的，送给你也可以呀~"
+        },
+        "111401113": {
+            "Sinner": "普希拉",
+            "Title": "摸头",
+            "File": "vo_peggi_luanshijiaren_head_001",
+            "Text": "我知道这对兔耳毛茸茸的手感很好，但你是不是摸得太过分了！哼，身为怪盗可不能在这里失手……看招！让我摸摸你的耳朵！"
+        },
+        "111401114": {
+            "Sinner": "普希拉",
+            "Title": "普通触摸1",
+            "File": "vo_peggi_luanshijiaren_talk1_001",
+            "Text": "我房间哪里乱啦，就是摆件有些多……你瞧，它们多么别致，多么可爱~"
+        },
+        "111401115": {
+            "Sinner": "普希拉",
+            "Title": "普通触摸2",
+            "File": "vo_peggi_luanshijiaren_talk1_002",
+            "Text": "贵重？它们倒也说不上有多贵重吧，在我的怪盗生涯里，比这更漂亮更昂贵的珠宝我都见得多啦~我留下它们，只是看它们长得可爱而已~"
+        },
+        "111401116": {
+            "Sinner": "普希拉",
+            "Title": "普通触摸3",
+            "File": "vo_peggi_luanshijiaren_hand_001",
+            "Text": "嗯，你也想吃糖吗？嘻嘻，草莓味儿的确很甜……但可惜，这是最后一支了~真想要的话，试试从怪盗手里偷走它，如何？"
+        },
+        "111401117": {
+            "Sinner": "普希拉",
+            "Title": "普通触摸4",
+            "File": "vo_peggi_luanshijiaren_leg_001",
+            "Text": "看你哈欠连天的，这就困了？算啦……那我这儿就借你眯一会儿吧~嗯？怎么又突然不困了？"
+        },
+        "111401118": {
+            "Sinner": "普希拉",
+            "Title": "闲置",
+            "File": "vo_peggi_luanshijiaren_idle_001",
+            "Text": "嘿，别走神，夜晚……还长着呢~"
+        },
+        "111401119": {
+            "Sinner": "普希拉",
+            "Title": "特别关注",
+            "File": "vo_peggi_luanshijiaren_specialattention_001",
+            "Text": "来pick一下你心中这房间里最可爱的第一名吧！看你目不转睛的样子……难道是， 我？"
         }
     },
     "111402": {
