@@ -2645,7 +2645,111 @@
             "Reward Qty": "1.0"
         }
     },
+    "153": {
+        "Id": 1048001,
+        "Quality": "Purple",
+        "DispatchTitle": "디저트 시식",
+        "DispatchDescription": "신성의 유명 디저트 가게에서 시즌 신제품을 출시했는데, 해당 제품에 치사량의 설탕이 들어가 큰 비판을 받았다. 이를 수습하기 위해 디저트 가게는 시식 이벤트를 진행하기로 했으며, 이에 외부 도시의 이색적인 디저트에 관심이 많은 수감자가 자발적으로 참가 신청을 했다.",
+        "DispatchSinners": {
+            "Sinner": "보투르.블루"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        }
+    },
+    "154": {
+        "Id": 1048002,
+        "Quality": "Green",
+        "DispatchTitle": "성대모사 대회",
+        "DispatchDescription": "치안국에서 오랫동안 추적해 온 인터넷 사기범이 성대모사 대회에 나타날 예정이라는 믿을 만한 제보가 들어왔다. 단서를 수집하기 위해 다른 사람의 말투를 잘 흉내 내는 수감자를 최종 결선에 투입해야 한다.",
+        "DispatchSinners": {
+            "Sinner": "도브"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "메마른 다리",
+            "Reward Qty": "1.0"
+        }
+    },
+    "155": {
+        "Id": 1048003,
+        "Quality": "Blue",
+        "DispatchTitle": "조작된 통신",
+        "DispatchDescription": "최근 한 범죄 조직의 구성원이 치안국에 체포되는 과정에서 부상을 입고 의식을 잃어, 접선용 편지를 분실했다. 편지를 위조할 수 있는 사람을 즉시 작전에 투입시켜야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "맥퀸",
+            "Sinner 2": "도브"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 다리",
+            "Reward Qty": "1.0"
+        }
+    },
     "156": {
+        "Id": 1049001,
+        "Quality": "Purple",
+        "DispatchTitle": "동족 추적",
+        "DispatchDescription": "최근 신성의 주요 네트워크가 잇따른 공격에 시달리고 있는데, 특이한 사고방식을 가진 해커의 소행이라는 소문이 돌았다. 사이버 보안 센터는 해커의 다음 행보를 예측하기 위해 비슷한 사고방식을 가진 수감자의 도움이 절실했다.",
+        "DispatchSinners": {
+            "Sinner": "필기아"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "157": {
+        "Id": 1049002,
+        "Quality": "Green",
+        "DispatchTitle": "종이비행기 대회",
+        "DispatchDescription": "신성 종이비행기 접기 및 연구 협회가 최근 마침내 충분한 자금을 모아 종이비행기 대회를 개최하기로 했다. 한 수감자는 이 소식을 접하자마자 강경히 참가 의사를 밝혔다.",
+        "DispatchSinners": {
+            "Sinner": "제피르"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "파손된 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "158": {
+        "Id": 1049003,
+        "Quality": "Blue",
+        "DispatchTitle": "인맥의 중요성",
+        "DispatchDescription": "치안국은 한 범죄 조직이 아르바이트를 핑계로 신성과 서구의 서민을 고용하여 디스로 금지 물품을 분산 운송한다는 첩보를 입수했다. 관련 분야에 인맥이 넓은 수감자를 통해 서둘러 자세한 정보를 파악해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "제피르",
+            "Sinner 2": "토토"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 뼈 조각",
+            "Reward Qty": "1.0"
+        }
+    },
+    "159": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "꿈의 해석",

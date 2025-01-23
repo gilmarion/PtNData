@@ -235,6 +235,28 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
         }
     },
+    "필기아": {
+        "Emotion Check 1": {
+            "Open": "[필기아가 물이 콸콸 흐르는 수도꼭지를 물끄러미 보고 있다]",
+            "필기아 Question": "…물이… 점점 많아지네요… 바다도… 점점 가까워지고 있어요…",
+            "Chief Question 1": "그렇지는 않을 것 같은데. 하수구가 있잖아.",
+            "필기아 Response 1": "쏟아지는 물이 흘러가는 물보다 더 많으면… 바다가… 결국 만들어질 거예요…",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "수돗물은 담수인데 정말로 바다가 될 수 있을까?",
+            "필기아 Response 2": "그러고 보니… 냄새가… 바다 밑에서 나던 냄새와는… 조금 다르네요…",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[필기아가 TV에 나오는 인공 잠수풀 광고를 보고 있다]",
+            "필기아 Question": "…아니에요… 진짜 바다는… 이런 모습이 아니에요… 이런 환경 속에서는… 인간이 바다와 공존하는 법을 배울 수 없어요…",
+            "Chief Question 1": "괜찮아. 그들은 진짜 바다에 가지 못할 테니 별일 없을 거야.",
+            "필기아 Response 1": "차라리… 다행이네요… 저도… 사람들을 전부… 해안가로 돌려보낼 자신이 없었거든요…",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "그럼, 네가 실제와 더 유사한 환경을 재현해 줄래?",
+            "필기아 Response 2": "인간의 창조력이 아무리 대단해도… 바다의 혼란과 위험, 그리고 포용성은 따라 할 수 없을 거예요… 충분한 이해 없이 바다와 접촉하려 한다면… 대가를 치르게 되겠죠…",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
     "백": {
         "Emotion Check 1": {
             "Open": "[누군가가 사무실의 문을 발로 차서 열었다]",
@@ -2406,6 +2428,44 @@
             "Chief Question 2": "점검을 2시간 더 연장한다는 공지를 식당에 붙여둔 게 언젠데",
             "숀 Response 2": "오프라인 공지야? 왜 아무도 인트라넷 게시판에 안 올렸어? 아 맞다, 인터넷 끊겼지… 어휴…",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "제피르": {
+        "Emotion Check 1": {
+            "Open": "[제피르가 홈 크래프트 바 관련 인터넷 뉴스를 흥미롭게 보고 있다]",
+            "제피르 Question": "홈 크래프트 바! 재밌을 것 같은데? 낯선 사람 집에서 한잔 하며 이야기를 듣다가 그대로 떠나는 거야. 다들 다시 만날 일도 없어! 원래 모르는 사이니까 구속받을 필요도 없는 거지!",
+            "Chief Question 1": "낯선 사람을 집에 들이는 건 안전하지 않을 것 같은데?",
+            "제피르 Response 1": "상대방이 나쁜 놈이라는 걸 깨달았다면 바로 도망쳐야지! 창문으로 뛰어내리던지, 문을 부수던지, 계단 난간에서 미끄럼 타듯 내려오던지! 그것도 재밌겠네!",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "낯선 사람이 주는 걸 마셔도 괜찮을까?",
+            "제피르 Response 2": "에이, 토할 때까지 마시기도 하는데 뭐가 문제야? 중요한 건 과정을 즐기는 거라고~",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[제피르가 지루한지 수감실 문 뒤에서 다리를 떨고 있다]",
+            "제피르 Question": "아잇, 참… 도망치려던 거 아니었다니까… 그냥 담장 뒤에 뭐가 있는지 궁금해서 그랬어. 내 덕에 담장이 안전한지도 확인할 수 있었잖아… 내보내 줘…!",
+            "Chief Question 1": "그럼 수감실의 폐쇄성을 계속 확인해 줘",
+            "제피르 Response 1": "네가 직접 네 입으로 말한 거다? 그럼, 계속 열심히 해볼게! 여기 CCTV를 교란해 보겠어…",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "응, 그래서 수감 기간을 3일 줄여준 거야",
+            "제피르 Response 2": "뭐? 이게 줄인 거라고? 내가 해낸 성과에 비해 보상이 너무 인색한 거 아니야? 그냥 수감 시간을 없애줘!",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
         }
     },
     "K.K.": {

@@ -2645,7 +2645,111 @@
             "Reward Qty": "1.0"
         }
     },
+    "153": {
+        "Id": 1048001,
+        "Quality": "Purple",
+        "DispatchTitle": "スイーツ試食会",
+        "DispatchDescription": "ニューシティの有名なスイーツ店が今シーズンの新作を発表した。しかし、致死量レベルの砂糖が含まれていると批判され、評判が急落している。現状を打開するため、店は試食イベントを開催することにした。そのイベントに、エキゾチックなスイーツを好むコンビクトが自ら応募した。",
+        "DispatchSinners": {
+            "Sinner": "ヴァトゥール"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        }
+    },
+    "154": {
+        "Id": 1048002,
+        "Quality": "Green",
+        "DispatchTitle": "モノマネ大会",
+        "DispatchDescription": "信頼できる情報によると、治安局が長らく追跡していたネット詐欺師が、まもなく開催される「口調モノマネ大会」に出場するという。そこで、他人の口調を真似るのが得意なコンビクトを大会の決勝進出者として潜伏させ、手がかりを集める必要がある。",
+        "DispatchSinners": {
+            "Sinner": "ドーヴ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "枯れた触手",
+            "Reward Qty": "1.0"
+        }
+    },
+    "155": {
+        "Id": 1048003,
+        "Quality": "Blue",
+        "DispatchTitle": "偽装通信",
+        "DispatchDescription": "最近、ある犯罪グループのメンバーが治安局に逮捕される際、事故で負傷し、意識を失い、犯罪グループとの接触用の手紙を紛失したという。手紙の偽造が得意な人物が急ぎ必要だ。",
+        "DispatchSinners": {
+            "Sinner 1": "マックイーン",
+            "Sinner 2": "ドーヴ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生触手",
+            "Reward Qty": "1.0"
+        }
+    },
     "156": {
+        "Id": 1049001,
+        "Quality": "Purple",
+        "DispatchTitle": "同類捜査",
+        "DispatchDescription": "最近、ニューシティの主要ネットワークが頻繁に攻撃を受けている。噂によると、これは思考回路が常人と異なるハッカーによる気まぐれな犯行らしい。サイバーセキュリティー部門では、次の行動を予測するため、似たような思考回路を持つコンビクトの協力を至急求めている。",
+        "DispatchSinners": {
+            "Sinner": "パルギア"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "157": {
+        "Id": 1049002,
+        "Quality": "Green",
+        "DispatchTitle": "紙飛行機大会",
+        "DispatchDescription": "ニューシティ紙飛行機研究協会は、ようやく十分な資金を集め、紙飛行機大会を開催することを決定した。この話を聞いたあるコンビクトは、すぐに参加を強く希望した。",
+        "DispatchSinners": {
+            "Sinner": "ゼファー"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破損した骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "158": {
+        "Id": 1049003,
+        "Quality": "Blue",
+        "DispatchTitle": "人脈の需要",
+        "DispatchDescription": "とある犯罪グループが日雇い労働を名目にニューシティと西区の貧困層を雇い、ディスへ違法品を分散輸送していると、治安局に情報提供があった。こうした層に人脈を持つコンビクトに協力を要請し、詳細な情報収集を行う必要がある。",
+        "DispatchSinners": {
+            "Sinner 1": "ゼファー",
+            "Sinner 2": "トト"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の骨",
+            "Reward Qty": "1.0"
+        }
+    },
+    "159": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "夢の解析",

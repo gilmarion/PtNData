@@ -2645,7 +2645,111 @@
             "Reward Qty": "1.0"
         }
     },
+    "153": {
+        "Id": 1048001,
+        "Quality": "Purple",
+        "DispatchTitle": "甜點試吃",
+        "DispatchDescription": "新城某知名甜點店推出當季新品，因加入致死量砂糖而廣受詬病，為挽回風評，甜點店決定舉辦試吃活動，一位對外邦異域風情甜點情有獨鍾的禁閉者主動報名。",
+        "DispatchSinners": {
+            "Sinner": "藍鷲"
+        },
+        "BaseAward": {
+            "Reward Item": "感染腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "154": {
+        "Id": 1048002,
+        "Quality": "Green",
+        "DispatchTitle": "模仿大賽",
+        "DispatchDescription": "據可靠線報表示，治安局追查已久的網路詐騙犯即將真人現身語言模仿大賽，需派出擅長模擬他人口吻的禁閉者打入決賽搜集線索。",
+        "DispatchSinners": {
+            "Sinner": "多芙"
+        },
+        "BaseAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "枯萎腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "155": {
+        "Id": 1048003,
+        "Quality": "Blue",
+        "DispatchTitle": "偽裝通訊",
+        "DispatchDescription": "近日，某犯罪集團成員在被治安局抓捕的過程中意外受傷，失去意識，因接頭人信件遺失，急需擅長偽造信物的人員參與行動。",
+        "DispatchSinners": {
+            "Sinner 1": "麥昆",
+            "Sinner 2": "多芙"
+        },
+        "BaseAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        }
+    },
     "156": {
+        "Id": 1049001,
+        "Quality": "Purple",
+        "DispatchTitle": "同類追溯",
+        "DispatchDescription": "近日新城關鍵網路頻遭攻擊，傳言稱此為一名思維異於常人的駭客隨性所為，網安部門急需一名思維方式與其近似的禁閉者幫助預測其下一步動向。",
+        "DispatchSinners": {
+            "Sinner": "派爾琪雅"
+        },
+        "BaseAward": {
+            "Reward Item": "感染骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "157": {
+        "Id": 1049002,
+        "Quality": "Green",
+        "DispatchTitle": "紙飛機大賽",
+        "DispatchDescription": "新城紙飛機折疊與研究協會近日終於籌集足夠資金，決定舉辦花式紙飛機大賽，某禁閉者聽說後立刻強烈要求參與。",
+        "DispatchSinners": {
+            "Sinner": "澤斐爾"
+        },
+        "BaseAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破損骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "158": {
+        "Id": 1049003,
+        "Quality": "Blue",
+        "DispatchTitle": "人脈需求",
+        "DispatchDescription": "治安局收到線報，一犯罪集團以零工為藉口，雇傭新城和西區的底層群眾分散運輸違禁品進入狄斯，現急需在此類人群中人脈較廣的禁閉者打探詳情。",
+        "DispatchSinners": {
+            "Sinner 1": "澤斐爾",
+            "Sinner 2": "嘟嘟"
+        },
+        "BaseAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "159": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "夢的解析",

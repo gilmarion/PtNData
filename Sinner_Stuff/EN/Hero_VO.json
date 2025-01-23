@@ -911,6 +911,54 @@
             "Title": "Upgrade Skill",
             "File": "vo_vanilla_promotion_001",
             "Text": "Debugging completed... I can go even further now..."
+        },
+        "110104100": {
+            "Sinner": "Vanilla",
+            "Title": "Attire Obtained",
+            "File": "vo_vanilla_cheyeliuming_cacha_001",
+            "Text": "You... like these contrails of light? They are my flight paths in the air. Fly with me... if you want."
+        },
+        "110104101": {
+            "Sinner": "Vanilla",
+            "Title": "Level Up",
+            "File": "vo_vanilla_cheyeliuming_levelup_001",
+            "Text": "Attack module enhanced."
+        },
+        "110104102": {
+            "Sinner": "Vanilla",
+            "Title": "Greeting",
+            "File": "vo_vanilla_cheyeliuming_greeting_001",
+            "Text": "Thank you for assisting me with the data logging. Now, let's fly together to the highest point in the city…There is a perfect observation spot."
+        },
+        "110104103": {
+            "Sinner": "Vanilla",
+            "Title": "Ordinary Contact 1",
+            "File": "vo_vanilla_cheyeliuming_talk1_001",
+            "Text": "From here, the city below looks like a vast, intricate machine, its lights never dimming, always at work."
+        },
+        "110104104": {
+            "Sinner": "Vanilla",
+            "Title": "Ordinary Contact 2",
+            "File": "vo_vanilla_cheyeliuming_talk1_002",
+            "Text": "After testing... the robotic arms have proven to meet expectations in terms of mobility, agility, and endurance—all excellent. However, there's still room for further optimization."
+        },
+        "110104105": {
+            "Sinner": "Vanilla",
+            "Title": "Idle",
+            "File": "vo_vanilla_cheyeliuming_idle_001",
+            "Text": "Hovering capability excellent... Onto the next test."
+        },
+        "110104106": {
+            "Sinner": "Vanilla",
+            "Title": "Annoyed",
+            "File": "vo_vanilla_cheyeliuming_clicking_001",
+            "Text": "Don't worry. You can... fully trust me. I won't let you fall."
+        },
+        "110104107": {
+            "Sinner": "Vanilla",
+            "Title": "Special Attention",
+            "File": "vo_vanilla_cheyeliuming_specialattention_001",
+            "Text": "...You want to fly even higher? Understood... While they are only prototypes, their performance meets your requirements. I... can take you wherever you wish."
         }
     },
     "110105": {
@@ -2303,6 +2351,194 @@
             "Title": "Upgrade Skill",
             "File": "vo_yao_promotion_001",
             "Text": "Thank you... even though I can't seem to recall anything."
+        }
+    },
+    "110206": {
+        "11020601": {
+            "Sinner": "Pylgia",
+            "Title": "Obtain the Sinner",
+            "File": "vo_pylgia_cacha_001",
+            "Text": "You... illuminated the darkest depths of the seabed... awakening me... and my distant memories... My human companion... I have waited for you... for so long... so very long..."
+        },
+        "11020602": {
+            "Sinner": "Pylgia",
+            "Title": "Raise to Phase 1",
+            "File": "vo_pylgia_promotion_001",
+            "Text": "As long as the environment keeps changing... evolution will never cease..."
+        },
+        "11020603": {
+            "Sinner": "Pylgia",
+            "Title": "Raise to Phase 3",
+            "File": "vo_pylgia_promotion2_001",
+            "Text": "I will... reach the deepest fathoms of the sea..."
+        },
+        "11020604": {
+            "Sinner": "Pylgia",
+            "Title": "Level Start",
+            "File": "vo_pylgia_battlebegin_001",
+            "Text": "Begin exploring... these waters..."
+        },
+        "11020605": {
+            "Sinner": "Pylgia",
+            "Title": "Victory",
+            "File": "vo_pylgia_battlewin_001",
+            "Text": "Threat... eliminated... I can dive deeper now..."
+        },
+        "11020606": {
+            "Sinner": "Pylgia",
+            "Title": "Lose Battles",
+            "File": "vo_pylgia_battlelose_001",
+            "Text": "The abyss... will devour everything..."
+        },
+        "11020607": {
+            "Sinner": "Pylgia",
+            "Title": "Ultimate Skill",
+            "File": "bt_pylgia_uniqueskill_001",
+            "Text": "Pierce... Tear apart... And sink into the sea!"
+        },
+        "11020608": {
+            "Sinner": "Pylgia",
+            "Title": "Die in Battles",
+            "File": "bt_pylgia_dead_001",
+            "Text": "This too... is part of the cycle..."
+        },
+        "11020609": {
+            "Sinner": "Pylgia",
+            "Title": "Greeting",
+            "File": "vo_pylgia_greeting_001",
+            "Text": "Currents converge... Fish migrate... You... have come back to me again..."
+        },
+        "11020610": {
+            "Sinner": "Pylgia",
+            "Title": "Conversation 1",
+            "File": "vo_pylgia_talk1_001",
+            "Text": "Killing, predation, and death... are just like birth, growth, and love. They are just stages in life's cycle..."
+        },
+        "11020611": {
+            "Sinner": "Pylgia",
+            "Title": "Conversation 2",
+            "File": "vo_pylgia_talk1_002",
+            "Text": "We are all children of the ocean... destined to converge and combine... becoming part of each other..."
+        },
+        "11020612": {
+            "Sinner": "Pylgia",
+            "Title": "Conversation 3",
+            "File": "vo_pylgia_talk1_003",
+            "Text": "No matter how deep I dive... I must return to the surface in the end... Humans... don't truly belong in the cold deep sea..."
+        },
+        "11020613": {
+            "Sinner": "Pylgia",
+            "Title": "Special Conversation 1",
+            "File": "vo_pylgia_talk2_001",
+            "Text": "Since the beginning of my memory... I have lived in the sea... The land is out of my reach... and human emotions are so complex... I... can't get close..."
+        },
+        "11020614": {
+            "Sinner": "Pylgia",
+            "Title": "Special Conversation 2",
+            "File": "vo_pylgia_talk2_002",
+            "Text": "The truth... is a ray of light... colder than the deepest waters... Whoever saw it can't resist chasing... it's dangerous yet irresistible... for there's nothing else left to pursue... in the sheer darkness..."
+        },
+        "11020615": {
+            "Sinner": "Pylgia",
+            "Title": "Special Conversation 3",
+            "File": "vo_pylgia_talk2_003",
+            "Text": "I love... the summer waves... sunlight reaching the sea floor... migratory birds, and fish on the water's surface... Would you like to see it too?"
+        },
+        "11020616": {
+            "Sinner": "Pylgia",
+            "Title": "Full Compliance",
+            "File": "vo_pylgia_obeyfull_001",
+            "Text": "Humans... age... and die... I don't like it... One day, when you reach the end of your existence... come to me, become one with me, and let us coexist... for all eternity..."
+        },
+        "11020617": {
+            "Sinner": "Pylgia",
+            "Title": "Idle",
+            "File": "vo_pylgia_idle_001",
+            "Text": "In this lull between storms... everything is so peaceful..."
+        },
+        "11020618": {
+            "Sinner": "Pylgia",
+            "Title": "Annoyed",
+            "File": "vo_pylgia_clicking_001",
+            "Text": "Stop... the barnacles and shells... are sharp. Be careful... I don't want you to get hurt..."
+        },
+        "11020619": {
+            "Sinner": "Pylgia",
+            "Title": "Special Attention",
+            "File": "vo_pylgia_specialattention_001",
+            "Text": "Because of you... I returned from the Abyss... and you... didn't let me down... You are... here."
+        },
+        "11020621": {
+            "Sinner": "Pylgia",
+            "Title": "Dispatch",
+            "File": "vo_pylgia_dispatch_001",
+            "Text": "Are we... going to the sea?"
+        },
+        "11020622": {
+            "Sinner": "Pylgia",
+            "Title": "Dispatch Complete",
+            "File": "vo_pylgia_dispatch2_001",
+            "Text": "The tide... has brought them back to the shore..."
+        },
+        "11020623": {
+            "Sinner": "Pylgia",
+            "Title": "Level Up",
+            "File": "vo_pylgia_levelup_002",
+            "Text": "Deeper... colder..."
+        },
+        "11020624": {
+            "Sinner": "Pylgia",
+            "Title": "Pat Head",
+            "File": "vo_pylgia_head_001",
+            "Text": "It feels... soft... like clusters of algae brushing against my hair... It's strange... but... I don't mind it..."
+        },
+        "11020625": {
+            "Sinner": "Pylgia",
+            "Title": "Join Team",
+            "File": "bt_pylgia_jointeam_001",
+            "Text": "Gaze into the abyss..."
+        },
+        "11020626": {
+            "Sinner": "Pylgia",
+            "Title": "Danger!",
+            "File": "bt_pylgia_danger_001",
+            "Text": "Don't go there!"
+        },
+        "11020627": {
+            "Sinner": "Pylgia",
+            "Title": "Received Order",
+            "File": "bt_pylgia_getorder_001",
+            "Text": "Mmm."
+        },
+        "11020628": {
+            "Sinner": "Pylgia",
+            "Title": "Attacked",
+            "File": "bt_pylgia_gethit_001_1",
+            "Text": "Grunts"
+        },
+        "11020629": {
+            "Sinner": "Pylgia",
+            "Title": "Normal Attack",
+            "File": "bt_pylgia_skill_001_1",
+            "Text": "Umbra Tendency"
+        },
+        "11020630": {
+            "Sinner": "Pylgia",
+            "Title": "Doubt",
+            "File": "vo_pylgia_doubt_001",
+            "Text": "Yes?"
+        },
+        "11020631": {
+            "Sinner": "Pylgia",
+            "Title": "Shock",
+            "File": "vo_pylgia_shock_001",
+            "Text": "Shocked gasp"
+        },
+        "11020632": {
+            "Sinner": "Pylgia",
+            "Title": "Upgrade Skill",
+            "File": "vo_pylgia_promotion_001",
+            "Text": "As long as the environment keeps changing... evolution will never cease..."
         }
     },
     "110301": {
@@ -20805,6 +21041,188 @@
             "Title": "Upgrade Skill",
             "File": "vo_shawn_promotion_001",
             "Text": "You have expectations of me? All right, I'll try my best to live up to them."
+        }
+    },
+    "111609": {
+        "11160901": {
+            "Sinner": "Zephyr",
+            "Title": "Obtain the Sinner",
+            "File": "vo_zephyr_cacha_001",
+            "Text": "Uh... Sinner registration form? What's that? Oh, that piece of paper! I think I used it for something else when I was bored earlier... Oh come on, Chief, it's not like we're meeting each other for the first time. Don't be so stuffy!"
+        },
+        "11160902": {
+            "Sinner": "Zephyr",
+            "Title": "Raise to Phase 1",
+            "File": "vo_zephyr_promotion_001",
+            "Text": "I'm feeling so great I could fly a plane upside-down for three miles!"
+        },
+        "11160903": {
+            "Sinner": "Zephyr",
+            "Title": "Raise to Phase 3",
+            "File": "vo_zephyr_promotion2_001",
+            "Text": "If I could soar up to thirty thousand feet again, how about I take you for a wild ride through the clouds?"
+        },
+        "11160904": {
+            "Sinner": "Zephyr",
+            "Title": "Level Start",
+            "File": "vo_zephyr_battlebegin_001",
+            "Text": "Three, two, one! The Zephyr, taking off! Whoosh!"
+        },
+        "11160905": {
+            "Sinner": "Zephyr",
+            "Title": "Victory",
+            "File": "vo_zephyr_battlewin_001",
+            "Text": "Yes! Let's throw a victory party tonight!"
+        },
+        "11160906": {
+            "Sinner": "Zephyr",
+            "Title": "Lose Battles",
+            "File": "vo_zephyr_battlelose_001",
+            "Text": "Chin up! We'll get another chance."
+        },
+        "11160907": {
+            "Sinner": "Zephyr",
+            "Title": "Ultimate Skill",
+            "File": "bt_zephyr_uniqueskill_001",
+            "Text": "Enemy control tower jammed!"
+        },
+        "11160908": {
+            "Sinner": "Zephyr",
+            "Title": "Die in Battles",
+            "File": "bt_zephyr_dead_001",
+            "Text": "Mayday... Mayday..."
+        },
+        "11160909": {
+            "Sinner": "Zephyr",
+            "Title": "Greeting",
+            "File": "vo_zephyr_greeting_001",
+            "Text": "Hey Chief, wanna go out and have some fun today? Where? Oh, who knows! We'll figure it out on the way!"
+        },
+        "11160910": {
+            "Sinner": "Zephyr",
+            "Title": "Conversation 1",
+            "File": "vo_zephyr_talk1_001",
+            "Text": "\"Testing, testing... Can anyone hear me?\" Hey Chief, think I could connect to the neighboring FAC's PA system?"
+        },
+        "11160911": {
+            "Sinner": "Zephyr",
+            "Title": "Conversation 2",
+            "File": "vo_zephyr_talk1_002",
+            "Text": "Why can't I throw paper planes into your office? Isn't it a delightful surprise to receive messages that way when you're buried in work?"
+        },
+        "11160912": {
+            "Sinner": "Zephyr",
+            "Title": "Conversation 3",
+            "File": "vo_zephyr_talk1_003",
+            "Text": "Everyone drinks at the tavern for different reasons, but it's way more fun than when they try so hard to be all serious! It's not a real party until everyone lets loose a little!"
+        },
+        "11160913": {
+            "Sinner": "Zephyr",
+            "Title": "Special Conversation 1",
+            "File": "vo_zephyr_talk2_001",
+            "Text": "I've never regretted becoming a pilot. People only see the crash and feel sorry for me, but all I remember is the freedom of soaring through the sky. It's the same with joining the MBCC. My friends said I'd lose my freedom, but they don't realize the amazing sights I get to see here—the things I could never find anywhere else."
+        },
+        "11160914": {
+            "Sinner": "Zephyr",
+            "Title": "Special Conversation 2",
+            "File": "vo_zephyr_talk2_002",
+            "Text": "Those normies like to call me unlucky and short-sighted and say my life is a mess. Ha! As long as I'm having fun, that's all that matters. What if some monsters show up tomorrow and obliterate the entire city? Gotta live in the moment!"
+        },
+        "11160915": {
+            "Sinner": "Zephyr",
+            "Title": "Special Conversation 3",
+            "File": "vo_zephyr_talk2_003",
+            "Text": "We may never have another rendezvous in the sky, but I'll never forget that moment when we cruised through the clouds, vented all our emotions, and finally gazed down at DisCity from thirty thousand feet above."
+        },
+        "11160916": {
+            "Sinner": "Zephyr",
+            "Title": "Full Compliance",
+            "File": "vo_zephyr_obeyfull_001",
+            "Text": "If we're going to embark on new adventure together in the future, then staying at the Bureau for a while seems fine. But promise me, once you're done chasing your big fancy dreams, we'll run away together without telling anyone. I'll show you the view from above the clouds. What do you say?"
+        },
+        "11160917": {
+            "Sinner": "Zephyr",
+            "Title": "Idle",
+            "File": "vo_zephyr_idle_001",
+            "Text": "Hey, Chief! I've already hopped on the plane for a joyride. Just leaving you a message so you won't miss me too much!"
+        },
+        "11160918": {
+            "Sinner": "Zephyr",
+            "Title": "Annoyed",
+            "File": "vo_zephyr_clicking_001",
+            "Text": "Bored? Come on, let's go! Time for an adventure!"
+        },
+        "11160919": {
+            "Sinner": "Zephyr",
+            "Title": "Special Attention",
+            "File": "vo_zephyr_specialattention_001",
+            "Text": "I've set up a special channel just for you, Chief. As soon as I get a signal from you, I'll fly through the clouds and be right by your side!"
+        },
+        "11160921": {
+            "Sinner": "Zephyr",
+            "Title": "Dispatch",
+            "File": "vo_zephyr_dispatch_001",
+            "Text": "Hmm... What do you think are my chances of sneaking away right under your nose? This job's looking like a snooze fest."
+        },
+        "11160922": {
+            "Sinner": "Zephyr",
+            "Title": "Dispatch Complete",
+            "File": "vo_zephyr_dispatch2_001",
+            "Text": "All done! Heading out for a few drinks. Try not to miss me too much!"
+        },
+        "11160923": {
+            "Sinner": "Zephyr",
+            "Title": "Level Up",
+            "File": "vo_zephyr_levelup_002",
+            "Text": "Huh? What's this? This is fun! Let's do it again!"
+        },
+        "11160925": {
+            "Sinner": "Zephyr",
+            "Title": "Join Team",
+            "File": "bt_zephyr_jointeam_001",
+            "Text": "Do I really have to stand here? How about I spin the props and drop in from above?"
+        },
+        "11160926": {
+            "Sinner": "Zephyr",
+            "Title": "Danger!",
+            "File": "bt_zephyr_danger_001",
+            "Text": "(Gasps)"
+        },
+        "11160927": {
+            "Sinner": "Zephyr",
+            "Title": "Received Order",
+            "File": "bt_zephyr_getorder_001",
+            "Text": "No problem!"
+        },
+        "11160928": {
+            "Sinner": "Zephyr",
+            "Title": "Attacked",
+            "File": "bt_zephyr_gethit_001_1",
+            "Text": "Ah!"
+        },
+        "11160929": {
+            "Sinner": "Zephyr",
+            "Title": "Normal Attack",
+            "File": "bt_zephyr_skill_001_1",
+            "Text": "Hey!"
+        },
+        "11160930": {
+            "Sinner": "Zephyr",
+            "Title": "Doubt",
+            "File": "vo_zephyr_doubt_001",
+            "Text": "Eh?"
+        },
+        "11160931": {
+            "Sinner": "Zephyr",
+            "Title": "Shock",
+            "File": "vo_zephyr_shock_001",
+            "Text": "Wow!"
+        },
+        "11160932": {
+            "Sinner": "Zephyr",
+            "Title": "Upgrade Skill",
+            "File": "vo_zephyr_promotion_001",
+            "Text": "I'm feeling so great I could fly a plane upside-down for three miles!"
         }
     },
     "112101": {

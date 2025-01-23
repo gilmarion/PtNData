@@ -235,6 +235,28 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
         }
     },
+    "Pylgia": {
+        "Emotion Check 1": {
+            "Open": "[Pylgia stands transfixed by the endlessly running tap water.]",
+            "Pylgia Question": "The water... keeps flowing... The ocean... will draw closer too...",
+            "Chief Question 1": "I doubt that would happen. There's a drain, after all.",
+            "Pylgia Response 1": "As long as more water flows in than drains away... An ocean... will eventually form...",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "But this is fresh water. Would it really turn into an ocean?",
+            "Pylgia Response 2": "Now that you mention it... the smell... is indeed different from that beneath the seabed...",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[Pylgia watches a TV commercial for an artificial deep diving facility.]",
+            "Pylgia Question": "No... the real ocean... isn't like that... people can never truly learn to connect with the sea... in an environment like this...",
+            "Chief Question 1": "Don't worry, they're not really diving in the sea. Nothing will happen to them.",
+            "Pylgia Response 1": "That's... for the best... otherwise... I can't guarantee... I can get them safely back to the shore...",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "Indeed. Perhaps you could help design a more authentic training environment.",
+            "Pylgia Response 2": "Even with humans' ingenuity... you can't truly replicate the ocean's chaotic, dangerous, and generous nature... Approaching the sea without understanding it... will only end in disaster...",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
     "Bai Yi": {
         "Emotion Check 1": {
             "Open": "[Someone kicks open your office door.]",
@@ -2406,6 +2428,44 @@
             "Chief Question 2": "The maintenance is extended by 2 hours. The notice has been posted in the cafeteria.",
             "Shawn Response 2": "Offline notice? No one took a photo and uploaded it to the intranet forum? Right, the internet is down... Damn it...",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "Zephyr": {
+        "Emotion Check 1": {
+            "Open": "[Zephyr is scrolling through some online articles about home bars zealously.]",
+            "Zephyr Question": "A home bar! Isn't that fascinating? You go to a stranger's house, have a drink, hear their story, and then say your goodbye. You don't have to hold back anything since you don't know each other!",
+            "Chief Question 1": "Isn't it dangerous to let strangers into your home?",
+            "Zephyr Response 1": "If they turn out to be dodgy, just make a run for it! Jump out the window or smash the door, then slide down the stairway railing! Wow, that sure sounds fun!",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "What about food safety? Isn't it unsafe to accept a drink from a stranger?",
+            "Zephyr Response 2": "Oh please, throwing up is just part of the experience. How bad could it possibly be? As long as you enjoy the process!",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Zephyr is swinging her legs restlessly behind the confinement cell door.]",
+            "Zephyr Question": "Come on, I told you I wasn't trying to escape! I was just curious about what's behind the wall. And hey, by doing that I kinda helped test your security. Let me out already...",
+            "Chief Question 1": "You can also help test the security of the confinement cell.",
+            "Zephyr Response 1": "Alright, if you say so! I'll give it my best shot then! Hmm, I've always wanted to mess with these security cameras...",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "Mm-hmm, not bad. I'll deduct three days from your confinement for that.",
+            "Zephyr Response 2": "What? And there's still time left? Come on, don't be so stingy with your rewards. Just let me out?",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
         }
     },
     "K.K.": {

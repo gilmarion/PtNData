@@ -2645,7 +2645,111 @@
             "Reward Qty": "1.0"
         }
     },
+    "153": {
+        "Id": 1048001,
+        "Quality": "Purple",
+        "DispatchTitle": "甜品试吃",
+        "DispatchDescription": "新城某知名甜品店推出当季新品，因加入致死量白砂糖而广受诟病，为挽回风评，甜品店决定举办试吃活动，一位对外邦异域风情甜品情有独钟的禁闭者主动报名。",
+        "DispatchSinners": {
+            "Sinner": "蓝鹫"
+        },
+        "BaseAward": {
+            "Reward Item": "感染腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "154": {
+        "Id": 1048002,
+        "Quality": "Green",
+        "DispatchTitle": "模仿大赛",
+        "DispatchDescription": "据可靠线报表示，治安局追查已久的网络诈骗犯即将真人现身语言模仿大赛，需派出擅长模拟他人口吻的禁闭者打入决赛圈搜集线索。",
+        "DispatchSinners": {
+            "Sinner": "多芙"
+        },
+        "BaseAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "枯萎腕足",
+            "Reward Qty": "1.0"
+        }
+    },
+    "155": {
+        "Id": 1048003,
+        "Quality": "Blue",
+        "DispatchTitle": "伪装通信",
+        "DispatchDescription": "近日，某犯罪集团成员在被治安局抓捕的过程中意外受伤，失去意识，因接头信件丢失，急需擅长伪造信物的人员参与行动。",
+        "DispatchSinners": {
+            "Sinner 1": "麦昆",
+            "Sinner 2": "多芙"
+        },
+        "BaseAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生腕足",
+            "Reward Qty": "1.0"
+        }
+    },
     "156": {
+        "Id": 1049001,
+        "Quality": "Purple",
+        "DispatchTitle": "同类追溯",
+        "DispatchDescription": "近日新城关键网络频遭攻击，传言称此为一名思维回路异于常人的黑客随性所为，网安部门急需一名思维方式与其近似的禁闭者帮助预测其下一步动向。",
+        "DispatchSinners": {
+            "Sinner": "派尔琪雅"
+        },
+        "BaseAward": {
+            "Reward Item": "感染骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "157": {
+        "Id": 1049002,
+        "Quality": "Green",
+        "DispatchTitle": "纸飞机大赛",
+        "DispatchDescription": "新城纸飞机折叠与研究协会近日终于筹集足够资金，决定举办花式纸飞机大赛，某禁闭者听说后立刻强烈要求参与。",
+        "DispatchSinners": {
+            "Sinner": "泽斐尔"
+        },
+        "BaseAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "破损骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "158": {
+        "Id": 1049003,
+        "Quality": "Blue",
+        "DispatchTitle": "人脉需求",
+        "DispatchDescription": "治安局收到线报，一犯罪团伙以零工为借口，雇佣新城和西区的底层群众分散运输违禁品进入狄斯，现急需在此类人群中人脉较广的禁闭者打探详情。",
+        "DispatchSinners": {
+            "Sinner 1": "泽斐尔",
+            "Sinner 2": "嘟嘟"
+        },
+        "BaseAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生骨片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "159": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "梦的解析",

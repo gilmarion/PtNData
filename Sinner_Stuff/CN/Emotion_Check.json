@@ -235,6 +235,28 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
         }
     },
+    "派尔琪雅": {
+        "Emotion Check 1": {
+            "Open": "[派尔琪雅正在呆呆地看着哗啦啦流个不停的水龙头。]",
+            "派尔琪雅 Question": "……水……越来越多……海也会……越来越近……",
+            "Chief Question 1": "应该不会吧，毕竟有下水口。",
+            "派尔琪雅 Response 1": "只要涌出的水永远比流走的水多一些……海……就终将成型……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "自来水是淡水，真的能顺利成海吗？",
+            "派尔琪雅 Response 2": "这么说来……闻起来……确实和海床下面……有些不一样……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[派尔琪雅看着电视屏幕上的人造深潜馆广告。]",
+            "派尔琪雅 Question": "……不对……真正的海……不是这样的……在这个环境下……人根本没法真的学会和海相处……",
+            "Chief Question 1": "没事，他们接触不到真的海，不会出事。",
+            "派尔琪雅 Response 1": "那倒……也好……否则……我也不敢保证……能把他们送回岸边……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "确实，也许你可以帮忙设计一个更真实的训练环境。",
+            "派尔琪雅 Response 2": "哪怕是人类的创造力……也很难真的模拟出海的混乱、危险，和包容……没有一定的了解就想接触海洋……会吃大苦头的……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
     "白逸": {
         "Emotion Check 1": {
             "Open": "[你的办公室门被一脚踢开]",
@@ -2406,6 +2428,44 @@
             "Chief Question 2": "延长维护2小时的报告早就贴在食堂了",
             "肖恩 Response 2": "线下通知？居然没有人拍照上传到内网论坛吗？啊对，断网了……可恶……",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "泽斐尔": {
+        "Emotion Check 1": {
+            "Open": "[泽斐尔充满兴趣地刷着关于家庭精酿吧的网络新闻。]",
+            "泽斐尔 Question": "家庭精酿吧！听起来好有意思，去陌生人的家里喝一杯，听一个故事，然后走掉，所有人都不会再相见！因为大家都不认识，所以根本不用拘束！",
+            "Chief Question 1": "让陌生人来家里不会有安全隐患吗？",
+            "泽斐尔 Response 1": "要是发现对方是坏蛋，就直接逃呀！跳窗，或者把门板踹开，顺着楼梯扶手滑下去！那也很爽！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "喝陌生人提供的饮料不会有食品安全问题吗？",
+            "泽斐尔 Response 2": "哎呀，喝到吐也是常规操作嘛，还能差到哪里去？重要的是享受那个过程~",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[泽斐尔在禁闭室门后无聊地晃着腿。]",
+            "泽斐尔 Question": "哎呀——都说了我不是想逃走嘛——我只是好奇围墙后面是什么而已，这不也帮你测了下围墙安全性嘛——放我出来啦——",
+            "Chief Question 1": "那你继续帮忙测下禁闭室的封闭性吧",
+            "泽斐尔 Response 1": "这可是你说的，那我就继续努力了！看我干扰干扰这边的监控——",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "嗯，那部分已经给你抵掉3天禁闭室时长了",
+            "泽斐尔 Response 2": "啊？这已经是抵扣后的？论功行赏不要这么小气嘛，直接抹平不就好了！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
         }
     },
     "蔻蔻": {

@@ -2645,7 +2645,111 @@
             "Reward Qty": "1.0"
         }
     },
+    "153": {
+        "Id": 1048001,
+        "Quality": "Purple",
+        "DispatchTitle": "Dessert Tasting",
+        "DispatchDescription": "A famous dessert parlor in Eastside faces backlash over their new seasonal item containing too much sugar. To salvage their reputation, the shop is organizing a tasting event. A certain Sinner with a passion for exotic Outland desserts has volunteered to participate.",
+        "DispatchSinners": {
+            "Sinner": "Vautour Bleu"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
+    "154": {
+        "Id": 1048002,
+        "Quality": "Green",
+        "DispatchTitle": "Impersonation Contest",
+        "DispatchDescription": "According to credible leads, an online scammer long sought by the Public Security Bureau will make an appearance at an upcoming speech impersonation contest. A Sinner skilled in imitating speech patterns is required to enter the finals and gather evidence.",
+        "DispatchSinners": {
+            "Sinner": "Dove"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Shriveled Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
+    "155": {
+        "Id": 1048003,
+        "Quality": "Blue",
+        "DispatchTitle": "Forged Communication",
+        "DispatchDescription": "A criminal group member was injured and became unconscious during a recent arrest operation by the Public Security Bureau. With the contact's letter lost, an expert in document forgery is urgently required for the mission.",
+        "DispatchSinners": {
+            "Sinner 1": "McQueen",
+            "Sinner 2": "Dove"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Tentacle",
+            "Reward Qty": "1.0"
+        }
+    },
     "156": {
+        "Id": 1049001,
+        "Quality": "Purple",
+        "DispatchTitle": "Like-Minded Advisor",
+        "DispatchDescription": "Recently, multiple major Eastside sites have been under frequent attack. Rumor has it that these are the doing of an eccentric hacker. Cybersec is urgently looking for a Sinner with similarly peculiar thought patterns to help predict the hacker's next move.",
+        "DispatchSinners": {
+            "Sinner": "Pylgia"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "157": {
+        "Id": 1049002,
+        "Quality": "Green",
+        "DispatchTitle": "Paper Plane Contest",
+        "DispatchDescription": "The Eastside Paper Plane Society has finally raised enough funds to host a Paper Plane Contest. Upon hearing this news, a certain Sinner is immediately determined to participate in it.",
+        "DispatchSinners": {
+            "Sinner": "Zephyr"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "158": {
+        "Id": 1049003,
+        "Quality": "Blue",
+        "DispatchTitle": "Required Connections",
+        "DispatchDescription": "The Public Security Bureau has received intelligence that a criminal organization is recruiting impoverished workers from Eastside and West District to smuggle contraband into DisCity. A Sinner with extensive connections among these communities is required to assist in gathering clues.",
+        "DispatchSinners": {
+            "Sinner 1": "Zephyr",
+            "Sinner 2": "Dudu"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Bone Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "159": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "Dream Interpretation",

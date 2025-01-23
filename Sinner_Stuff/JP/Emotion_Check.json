@@ -235,6 +235,28 @@
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
         }
     },
+    "パルギア": {
+        "Emotion Check 1": {
+            "Open": "[パルギアはぼんやりと、水道の蛇口から流れ続ける水を見つめている]",
+            "パルギア Question": "……水が……どんどん増えていく……海も……ますます近づいている……",
+            "Chief Question 1": "いや、排水口があるから大丈夫だ",
+            "パルギア Response 1": "だが、湧き出る水が流れる水より少しでも多ければ……海は……やがて形を成す……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "水道水は淡水だが、本当に海になるのか？",
+            "パルギア Response 2": "言われてみれば……匂いが……海底とは……少し違う気がする……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[パルギアはテレビ画面に映る人工潜水施設の宣伝を見ている]",
+            "パルギア Question": "……違う……本物の海は……こんなものではない……こんな環境では……人間は真に海と向き合うことなどできない……",
+            "Chief Question 1": "大丈夫だ。彼らは本物の海に触れられないから、問題ない",
+            "パルギア Response 1": "それなら……いい……そうでなければ……彼らを岸に送り返せるかどうか……分からない……",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "そうだな。もっとリアルな訓練環境を設計してみるのもいいかもしれない",
+            "パルギア Response 2": "人間の創造力でさえ……海の混乱、危険、そして包容力を完全に再現することは難しい……十分理解せず海に触れようとすれば……痛い目を見ることになる……",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+        }
+    },
     "ハクイツ": {
         "Emotion Check 1": {
             "Open": "[執務室のドアがハクイツに蹴破られた]",
@@ -2406,6 +2428,44 @@
             "Chief Question 2": "メンテナンスの2時間延長通知が食堂に貼り出されていたぞ。",
             "ショーン Response 2": "オフラインで通知しているのか？まさか誰も局内掲示板に写真をアップしていないなんて。ああ、そうか。ネットが使えないんだったな……クソ……",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
+    "ゼファー": {
+        "Emotion Check 1": {
+            "Open": "[ゼファーが興味津々にホームバーのネットニュースを読んでいる]",
+            "ゼファー Question": "ホームバーか～超面白そうじゃん！知らない人の家で1杯飲んで、話を聞いて、帰る。その後は、二度と会わない！みんな知らない人同士だから、気を使うこともないってわけね！",
+            "Chief Question 1": "見知らぬ人を家に招くのは、安全面で問題ないのか？",
+            "ゼファー Response 1": "もし相手が悪い奴って分かったら、すぐ逃げればいいっしょ！窓から飛び出すとか、ドアを蹴破るとか、階段の手すりを滑り降りるとか！それも楽しそうじゃん！",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png",
+                "atlas/monthsign/sprite_dailysign_face_7.png"
+            ],
+            "Chief Question 2": "知らない人が出す飲み物を飲むのは、食品衛生的に大丈夫なのか？",
+            "ゼファー Response 2": "まあ、飲みすぎて吐くとかよくあるし、それ以上ひどいことなんてないっしょ！大事なのは過程を楽しむことよ～",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[ゼファーが独房で退屈そうに足を揺らしている]",
+            "ゼファー Question": "あ～あ、何度も言ってるけどさぁ、別に逃げようとしたわけじゃないってば。ただ、塀の向こうに何があるのか気になっただけでさ～ついでに塀の安全性もチェックしてあげたじゃん～だから出してよ～",
+            "Chief Question 1": "それなら、引き続き独房の密閉性もチェックしてくれ",
+            "ゼファー Response 1": "言ったね？じゃあ頑張ってみるか！この辺の監視カメラをちょっと妨害してみよっと——",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png",
+                "atlas/monthsign/sprite_dailysign_face_8.png"
+            ],
+            "Chief Question 2": "ああ、その点に関しては独房に入る期間から3日分差し引いてある",
+            "ゼファー Response 2": "えっ、これ差し引いた後ってこと？功績に応じて報酬与えるなら、もっと気前よくどうよ？全部チャラとかさ！",
+            "Emoji 2": [
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png",
+                "atlas/monthsign/sprite_dailysign_face_6.png"
+            ]
         }
     },
     "K.K.": {
