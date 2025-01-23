@@ -1509,6 +1509,148 @@
             }
         }
     },
+    "1020601": {
+        "ID Num": 1020601,
+        "Event Title": "Fish Treat",
+        "Level": "⚠",
+        "Event Desc": "Pylgia's therapist has filed a request.",
+        "Sinner": "Pylgia",
+        "Text": {
+            "Text 1": "Since she started hypnotherapy, Pylgia has been treating her therapist like some kind of helpless marine animal who can't hunt for itself, always bringing small fish to the hypnotherapy room. Reeking of fish, the therapist shows up to request changes to Pylgia's treatment plan.",
+            "Choice 2": "Approve"
+        }
+    },
+    "1020602": {
+        "ID Num": 1020602,
+        "Event Title": "Aquarium Screensaver",
+        "Level": "⚠",
+        "Event Desc": "Pylgia seems fascinated by the screensaver on the computer in the Recreation Area.",
+        "Sinner": "Pylgia",
+        "Text": {
+            "Text 1": "The computer in the Recreation Area has an aquarium screensaver. Pylgia often stands transfixed before it, watching the virtual fish swim. It's seriously putting other Sinners who want to use the computer in a dilemma.",
+            "Choice 2": "Throw money at the problem",
+            "Text 3": "After seeing the order for the new computer, Faye suggests buying one more to get the discount."
+        }
+    },
+    "1020611": {
+        "ID Num": 1020611,
+        "Event Title": "A Whale's Feast",
+        "Level": "⚠⚠",
+        "Event Desc": "Pylgia has completed a drawing during her art therapy session.",
+        "Sinner": "Pylgia",
+        "Text": {
+            "Text 1": "As you pass by the hypnotherapy room, you run into Pylgia who has just finished her art therapy session.",
+            "Choice 2": "Greet her",
+            "Text 2": "Chief: How are you feeling today?",
+            "Text 3": "Pylgia: ...",
+            "Text 4": "Pylgia gives an almost imperceptible nod. You notice she's clutching a piece of paper in her hands.",
+            "Choice 5": "Ask",
+            "Text 5": "Chief: Want to talk about what you did during your session today?",
+            "Text 6": "Pylgia: We drew...",
+            "Text 7": "With Pylgia's silent permission, you gently take the drawing from her hands.",
+            "Text 8": "The paper is completely black on the front. You turn it over. The back is just as black.",
+            "Text 9": "Pylgia: It's... a whale feeding on fish.",
+            "Choice 10": "I see.",
+            "Text 10": "Chief: Is the paper black because the whale has eaten all the fish and swum away?",
+            "Text 11": "Pylgia: No... the fish are here...",
+            "Text 12": "Pylgia: It's too dark under the sea... You can't see with your eyes... You have to feel the presence of life...",
+            "Text 13": "Her finger points precisely at one spot on the black paper. You stare into the pitch black as it stares back at you.",
+            "Text 14": "You decide to take the drawing so you can contemplate it further."
+        }
+    },
+    "1020612": {
+        "ID Num": 1020612,
+        "Event Title": "Lifeguard",
+        "Level": "⚠⚠",
+        "Event Desc": "The pool maintenance work is interrupted by unexpected obstacles.",
+        "Sinner": "Pylgia",
+        "Text": {
+            "Text 1": "The pool maintenance staff report that a Sinner is refusing to leave the water.",
+            "Text 2": "You rush to the Outdoor Activity Area. Sure enough, you find Pylgia in the pool. She's keeping her distance from the others, but upon seeing you, she swims over.",
+            "Choice 3": "Ask",
+            "Text 3": "Chief: Pylgia, what are you doing here?",
+            "Text 4": "Pylgia: Humans... don't belong under the water... It's dark here... dangerous...",
+            "Text 5": "Pylgia: I must eliminate the threats... save them... This is my duty.",
+            "Text 6": "She says and immediately dives back into the water, dragging up a maintenance worker who's barely been down there for five minutes, <i>rescuing</i> him to the poolside.",
+            "Text 7": "The entire process takes less than two seconds.",
+            "Choice 8": "Try to explain",
+            "Text 8": "Chief: We're not in DisSea, so the water here is perfectly safe. Besides, the maintenance crew has all the safety equipment they need. There's practically no risk of danger.",
+            "Text 9": "Chief: So you can rest easy. There's no need to keep watch.",
+            "Text 10": "Pylgia: Must stay vigilant... Need to watch them...",
+            "Text 11": "Having heard your explanation, Pylgia stops pulling people out of the water. Nevertheless, she insists on staying nearby until the pool maintenance is finished."
+        }
+    },
+    "1020621": {
+        "ID Num": 1020621,
+        "Event Title": "Slacking Off",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "Sinner Pylgia fails to attend today's training.",
+        "Sinner": "Pylgia",
+        "Text": {
+            "Text 1": "Supervision System:\nAbnormal behavior detected in Sinner Pylgia: absence from regular training. Go and inspect?",
+            "Choice 2": "Yes",
+            "Text 3": "Following the Supervision System's indication, you arrive at the corner of the Outdoor Activity Area where a new touch pool has been installed.",
+            "Text 4": "The mirror-like surface of the water breaks into ripples, and a graceful figure emerges from beneath.",
+            "Text 5": "Pylgia: It's you... You've come.",
+            "Text 6": "Pylgia: I know... why you've come here...",
+            "Choice 7": "Ask about her training attendance",
+            "Text 7": "Chief: Pylgia, you should be doing your regular training right now. Why are you here?",
+            "Text 8": "Before you can finish, she plunges back into the water. When she pokes her head out again, she holds out her cupped hands before your eyes.",
+            "Text 9": "In the small pool of water cupped in her pale hands, a tiny fish is swimming in circles.",
+            "Text 10": "Pylgia: I heard a human crying out... during work... that he needed a breather... like a fish out of water...",
+            "Text 11": "Pylgia: That's why I'm here... catching a breather with them... You should too, so you don't die.",
+            "Text 12": "She holds her cupped hands closer to you, showing you the fish.",
+            "Text 13": "Pylgia's suggesting you slack off so sincerely. You hesitate for a brief moment before making your choice.",
+            "Path 1": {
+                "Choice 14": "Laze around",
+                "Text 15": "Guess we all need a little break every now and then.",
+                "Text 16": "You postpone Pylgia's regular training missions until tomorrow and spend the afternoon with her at the touch pool.",
+                "Text 17": "By the end of the day, you can tell she's in better spirits."
+            },
+            "Path 2": {
+                "Choice 18": "Go back to work",
+                "Text 19": "Now really isn't a good time for breaks.",
+                "Text 20": "Chief: Thank you, but what you heard isn't meant to be taken literally.",
+                "Text 21": "Pylgia: Hmm...",
+                "Text 22": "Chief: By the way, do you still remember who told you he would die if he didn't catch a breather at work?",
+                "Text 23": "Pylgia: I remember... him...",
+                "Text 24": "You gently coax Pylgia out of the touch pool and try to explain to her the true meaning of the sentence she overheard.",
+                "Text 25": "Later, based on Pylgia's description, you track down the <i>culprit</i> Che and tell him to stop encouraging others to slack off at work."
+            }
+        }
+    },
+    "1020622": {
+        "ID Num": 1020622,
+        "Event Title": "Pink Warmth",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "The researchers have developed an ocean-simulating hologram.",
+        "Sinner": "Pylgia",
+        "Text": {
+            "Text 1": "Recently, the researchers have developed a holographic projection that can recreate the coastal ecosystem from the past. Thinking it may pique Pylgia's interest, you bring the device to her room.",
+            "Text 2": "As you activate the projection, numerous light particles dance around both of you, bringing the coastal scenery to life.",
+            "Text 3": "Pylgia: Here... the color is wrong...",
+            "Text 4": "Pylgia: White dolphins are supposed to be dark gray at birth... They only turn this shade of pink... when they're nearing the end of their lives...",
+            "Text 5": "Following her gaze, you see a small dolphin leap up, leaving a pink arc in the air.",
+            "Text 6": "Pylgia rarely speaks unprompted. Seeing her interest, you decide to encourage her to share more.",
+            "Text 7": "Chief: Apart from that, does the rest of it match the ocean in your memories?",
+            "Text 8": "Pylgia: I... can't remember clearly.",
+            "Text 9": "Pylgia: I've always stayed in the deepest parts of the sea... It's pitch black and silent there... This doesn't look like the ocean floor. It's too bright...",
+            "Text 10": "Pylgia: It's been so long... since I've been near the shallow part of the sea... This makes me feel... nostalgic...",
+            "Text 11": "She gently runs her hand through the projected school of fish, then opens her palm toward you, as if wanting to show how she feels.",
+            "Text 12": "Pylgia: There's a warm... sensation.",
+            "Path 1": {
+                "Choice 13": "Take her hand",
+                "Text 14": "She returns your grip clumsily and uncertainly.",
+                "Text 15": "Pylgia: It feels just like the warmth of your hand..."
+            },
+            "Path 2": {
+                "Choice 16": "Touch the projection like she did",
+                "Text 17": "Actually, the hologram doesn't come with any temperature simulation features.",
+                "Text 18": "You realize that the warmth Pylgia felt must have come from memories buried so deep that even she can barely recall.",
+                "Text 19": "Pylgia: When was... the last time... I felt warmth..."
+            }
+        }
+    },
     "1030101": {
         "ID Num": 1030101,
         "Event Title": "Smuggled Goods",
@@ -11866,6 +12008,132 @@
                 "Text 31": "Shawn: ...",
                 "Text 32": "She stares at the cup in your hand for a long time, your arm getting sore from holding it.\nIn the end, she finally takes the cup from your hand and hesitantly takes a sip.",
                 "Text 33": "Chief: That's right. Drinking more water is good for you."
+            }
+        }
+    },
+    "1160901": {
+        "ID Num": 1160901,
+        "Event Title": "Nightcap",
+        "Level": "⚠",
+        "Event Desc": "Zephyr's room is still lit well past midnight.",
+        "Sinner": "Zephyr",
+        "Text": {
+            "Text 1": "The light in Zephyr's room is always among the last to go out in the detention area. Well into the night, you can often still hear Sinners' laughter and clinking glasses from her room.",
+            "Choice 2": "I'm glad you're making friends, but don't forget to get some rest."
+        }
+    },
+    "1160902": {
+        "ID Num": 1160902,
+        "Event Title": "Oath",
+        "Level": "⚠",
+        "Event Desc": "Zephyr is reading a novel.",
+        "Sinner": "Zephyr",
+        "Text": {
+            "Text 1": "Zephyr has been reading a popular adventure novel. The protagonist likes to swear on his parents' names whenever he makes a bet. After finishing the book, Zephyr decides she'd make a better protagonist since she has two sets of parents, meaning she could swear twice.",
+            "Choice 2": "That's one way to think of it."
+        }
+    },
+    "1160903": {
+        "ID Num": 1160903,
+        "Event Title": "Night Song",
+        "Level": "⚠",
+        "Event Desc": "Unknown signals have taken over the Bureau's broadcast channel.",
+        "Sinner": "Zephyr",
+        "Text": {
+            "Text 1": "After dinner, a tipsy Zephyr accidentally patches her broadcast signals into the public channel. That night, her off-key singing echoes through the Bureau until the small hours.",
+            "Choice 2": "Reprimand her",
+            "Text 3": "Zephyr accepts the lecture with all due humility, though she makes no promises about behaving next time."
+        }
+    },
+    "1160911": {
+        "ID Num": 1160911,
+        "Event Title": "Sleepless Chief",
+        "Level": "⚠⚠",
+        "Event Desc": "You're startled awake by knocks on your office door in the dead of night.",
+        "Sinner": "Zephyr",
+        "Text": {
+            "Text 1": "Knock, knock, knock. A series of urgent raps on your office door breaks the late-night silence.",
+            "Choice 2": "Get up and answer the door",
+            "Text 3": "Forcing your drowsy eyelids open, you rise from the makeshift cot and make your way to the door.",
+            "Text 4": "You open the door, only to feel something ice-cold pressed against your cheek. The shock jolts you wide awake.",
+            "Text 5": "Zephyr: Chief! You're still up at this hour too!",
+            "Text 6": "With a bright smile, Zephyr withdraws her hand and presses the same cold can against her own cheek, giving you a playful wink.",
+            "Text 7": "You glance up at the digital clock that reads 3 a.m., then down at your pajamas.",
+            "Choice 8": "Be polite",
+            "Text 8": "Chief: Ah, right... still awake.",
+            "Text 9": "Zephyr: Perfect! Wanna go stargazing with me?",
+            "Text 10": "Chief: At this hour? Maybe some other time...",
+            "Text 11": "Zephyr: I heard there's gonna be a simulated meteor shower in the Outdoor Activity Area tonight! I've already gone and done some scouting. The visibility is just perfect!",
+            "Text 12": "Zephyr: This is my first meteor shower since joining the Bureau. Wouldn't want to go with anyone else.",
+            "Text 13": "Chief: ...",
+            "Choice 14": "Well, I'm up anyway.",
+            "Text 15": "You follow Zephyr to the Outdoor Activity Area. While waiting for the meteors on the lawn, you doze off unwittingly.",
+            "Text 16": "When you open your eyes again, dawn is already breaking. Half of Zephyr's jacket is draped over you, while she leans against your shoulder, fast asleep."
+        }
+    },
+    "1160912": {
+        "ID Num": 1160912,
+        "Event Title": "Paper Plane",
+        "Level": "⚠⚠",
+        "Event Desc": "Chief's office requires more cleaning than usual these days.",
+        "Sinner": "Zephyr",
+        "Text": {
+            "Text 1": "When you return to your office, the door is ajar and paper planes are scattered everywhere outside and inside.",
+            "Choice 2": "Remove the paper plane on the doorknob",
+            "Text 3": "On the paper is a big smiley face, accompanied by Zephyr's flamboyant signature.",
+            "Choice 4": "Remove the paper plane under the chair",
+            "Text 5": "Zephyr: Hey Chief! This is Zephyr No. 10 planning a break-in of your office. Surprise!",
+            "Text 6": "Zephyr: P.S. The nine other planes have all crashed heroically. Here's hoping No. 10 will accomplish its mission. Pretty please!",
+            "Choice 7": "Remove the paper plane stuck between the couch's cushions",
+            "Text 8": "Zephyr: Chief, Chief! So, funny story: I can't remember what I did with my last mission report, so I won't be turning it in just yet!",
+            "Text 9": "Zephyr: I did write it though. I just can't find it anymore!",
+            "Choice 10": "Check paper plane No. 17",
+            "Text 10": "Chief: ...",
+            "Text 11": "It's Zephyr's missing mission report."
+        }
+    },
+    "1160921": {
+        "ID Num": 1160921,
+        "Event Title": "Run Away",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "Zephyr invites you on a great escape.",
+        "Sinner": "Zephyr",
+        "Text": {
+            "Text 1": "Coming out of a meeting, you hurry through the Bureau's corridor to the next one, another last-minute addition to your schedule.",
+            "Text 2": "Chief: Sigh.",
+            "Text 3": "Before your sigh even leaves your mouth, a hand shoots out from a nearby office cubicle and yanks you inside.",
+            "Text 4": "The next second, a finger is pressed against your lips.",
+            "Text 5": "Zephyr: Shh... don't shout. Chief, it's me.",
+            "Text 6": "Chief: Zephyr? What are you doing here?",
+            "Text 7": "Zephyr: Waiting for you, of course!",
+            "Choice 8": "Waiting for me?",
+            "Text 8": "Chief: What for?",
+            "Text 9": "Zephyr: Well...",
+            "Text 10": "Just then, footsteps approach in the corridor outside. Zephyr holds back the rest of her unfinished sentence.",
+            "Text 11": "Staff A: These meetings had nothing to do with the Bureau. Why did we have to attend them?",
+            "Text 12": "Staff B: Stop complaining. At least it's done for us now. I heard Chief still has to go to more meetings.",
+            "Text 13": "The footsteps haven't faded away yet. Zephyr leans in with a smile and whispers in your ear like she doesn't want others to hear her.",
+            "Text 14": "Zephyr: I'm here to rescue you from all this boring stuff!",
+            "Text 15": "Zephyr: Just for today, Chief, how about we <i>run away</i> together? It'll be our little secret!",
+            "Path 1": {
+                "Choice 16": "Where to?",
+                "Text 16": "Chief: So where are we <i>running away</i> to?",
+                "Text 17": "Zephyr: Where? I have no idea, but once we take that first step, I'm sure the answer will come!",
+                "Text 18": "Zephyr: I know we can't actually leave the Bureau, but there's still plenty of fun to be had right here! Get some fresh air, climb a tree, jump in the pool, then grab drinks in our wet clothes, haha...",
+                "Text 19": "Zephyr: Just come with me! I'll make sure you have the time of your life. You'll forget about your busy schedule and all your worries!",
+                "Text 20": "Chief: Why does it sound like you're just using me as an excuse to do all these things?",
+                "Text 21": "Zephyr: Shh, don't call me out like that!",
+                "Text 22": "Well, seems like you can't argue with her. Seeing Zephyr's bright smile, you accept her invitation and make up an excuse to skip that unimportant meeting.",
+                "Text 23": "After all, you get pointless tasks like that every day, but a chance to run away from your routine only comes once in a blue moon."
+            },
+            "Path 2": {
+                "Choice 24": "I still have work to do.",
+                "Text 24": "Chief: You just heard it. I still have work to do.",
+                "Text 25": "Chief: I'll see if I'm free after I'm done with my work.",
+                "Text 26": "Zephyr: I knew you'd say that.",
+                "Text 27": "She reaches out and slips a button-sized signal transmitter into your coat pocket.",
+                "Text 28": "Zephyr: When you're done with work and start missing me, just give me a beep!",
+                "Text 29": "Zephyr: I'll be there right away! But for now, I'm off to have some fun on my own."
             }
         }
     },
