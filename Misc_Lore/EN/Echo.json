@@ -1,0 +1,172 @@
+{
+    "20890101": {
+        "Map": 1,
+        "Name": "Mania Tape",
+        "Desc": "According to a Bureau informant, there are rumors going around Syndicate about a Mania tape. The songs on the tape can induce a Mania response in the listener fairly quickly, causing them to enter a hallucinatory state or temporarily increase their combat power.\nRecently, this Mania tape has become a coveted item among Syndicate gangs, and there are even organized sales. There's also a theory that the Mania tapes traded in Syndicate are related to the urban legend of Call at 3 AM in Eastside.\nWith Chief on vacation, Adjutant Nightingale dispatched several Sinners to investigate."
+    },
+    "20890102": {
+        "Map": 2,
+        "Name": "Content of the Tape",
+        "Desc": "After analysis by the Bureau, it was found that a small amount of Mania contamination was indeed present in the batch of tapes seized from Syndicate.\nThe content of these tapes all originated from a radio program known as Call at 3 AM. It is speculated that there is a connection between the two, but it is still uncertain whether the contamination originated from the radio station.\nThe Bureau attempted to contact the person in charge of the radio station, only to find out that the hostess of the program had left the radio station several days ago."
+    },
+    "20890201": {
+        "Map": 3,
+        "Name": "Call at 3 AM",
+        "Desc": "In order to verify the authenticity of the Call at 3 AM legend and confirm whether it was related to the Mania incident, the Bureau interrogated all those who claimed to have received such calls.\nThe call records showed that almost all of the reporters did not receive any calls during that time slot. For those who do have call records, their conversations were also irrelevant to the reported situation.\nHowever, this does not completely rule out the possibility of this event. Based on past experience, the effects of Mania sometimes act directly on the victim's mind, causing them to confuse reality with illusion."
+    },
+    "20890202": {
+        "Map": 4,
+        "Name": "Spreading Mania",
+        "Desc": "At present, the Bureau has received reports of Mania cases from all major areas of DisCity. Upon investigation, these cases are closely related to the pollution source at Fifth Avenue.\nThere is evidence that the Mania pollution at Fifth Avenue can be transmitted through radio waves by using various electronic devices as mediums. It can influence the minds of victims. The symptoms exhibited by victims include but are not limited to hallucinations, delusions, madness, sensory confusion, etc."
+    },
+    "20890301": {
+        "Map": 5,
+        "Name": "Color Study of Mania",
+        "Desc": "According to recent observations of the Mania pollution on Fifth Avenue, the Bureau has found that the color of the pollution source seems to be constantly changing, a phenomenon not previously recorded in any other Mania incidents.\nWhat can be confirmed at present is that the Black Ring, closely related to Mania, may have different colors. The known Black Rings are mainly red and purple, but the exact reasons for the color differences are not clear.\nPerhaps the color of the Mania is closely related to its source, which is the Sinners that caused the Mania outbreak. However, this theory does not have solid evidence to support it."
+    },
+    "20890302": {
+        "Map": 6,
+        "Name": "Sinner's Experiment",
+        "Desc": "In order to provide more data to the Bureau, some Sinners voluntarily tried to listen to the Mania tapes seized by the Bureau.\nAccording to the Sinners who listened to the tapes, they experienced a variety of different feelings while they listened to it. These feelings seemed to come from another powerful Sinner.\nSome Sinners indeed felt an increase in their fighting will and power after listening to the tape. However, this method of using Mania items in combat will never be approved by Chief."
+    },
+    "20890401": {
+        "Map": 7,
+        "Name": "Mutation Witness Report",
+        "Desc": "Among the Mania cases reported to the Bureau from various places, a portion of them involved observation records of Mania mutants. According to the observers, some victims affected by the Mania radio waves from Fifth Avenue experienced some peculiar mutations in their heads. It is said that the heads of these mutants would transform into some kind of electronic device, such as a telephone, mobile phone, computer, stereo, etc. However, after a brief mutation, their heads would revert back to normal. At present, there is no conclusive photographic evidence to verify the authenticity of these observation reports."
+    },
+    "20890402": {
+        "Map": 8,
+        "Name": "Mania Transmission Medium",
+        "Desc": "We held an experiment within the Bureau, inviting the Sinners to communicate with volunteers using various communication equipment in order to verify whether Mania could be transmitted through radio waves as in the current incident. Regrettably, the experiment did not yield definitive conclusions. The M-Values of the Bureau's volunteers were not affected by the Sinners.\nA few volunteers exhibited heightened or depressed emotions after the experiment, which may be related to the aggressive remarks made by the Sinners, rather than the influence of Mania."
+    },
+    "20890501": {
+        "Map": 10,
+        "Name": "Radio of DisCity",
+        "Desc": "Even though television and internet signals have long since covered the entire city, traditional media like radio has not disappeared in DisCity.\nIn this Mania incident, the Bureau discovered that radio waves could also serve as a carrier for the spread of Mania, disseminating it through radio programs. This influence even extended to telephones, televisions, computers, and other forms of media.\nBased on past experience, after a Mania outbreak, we often block all types of media to prevent the further spread of Mania's influence. It's clear now that this strategy is both wise and necessary."
+    },
+    "20890502": {
+        "Map": 9,
+        "Name": "Operation Debrief",
+        "Desc": "Upon reviewing our recent operations, we've noticed that the Bureau's way of doing things seems overly reliant on Chief's decisions and actions.\nIndeed, as the primary leader of the Bureau, Chief is our most reliable force. However, this also presents some issues, such as when facing threats from S-Class Sinners, their potent corruption often blocks certain areas, princidenting the Bureau's reinforcement from arriving in time.\nWe've attempted to locate and detain the Sinners before Chief's intervention, but the results have been less than ideal, with most Sinners not being discovered in time. Perhaps the shackles in our hands are the reason for the mutual attraction between Chief and Sinners?"
+    },
+    "41040101": {
+        "Map": 11,
+        "Name": "Log 001",
+        "Desc": "Place: Original Observation Point\nTime: ???\nAnomaly: Dense fog was observed in the surroundings, with dangerous creatures approaching.\nNote: This type of creature contains multiple mutated traits."
+    },
+    "41040103": {
+        "Map": 11,
+        "Name": "Log 002",
+        "Desc": "Location: Original Observation Point\nTime: ???\nAnomaly: Objects in the surrounding environment were observed to suddenly accelerate in speed, lasting for 5 seconds before returning to normal.\nNote: Time in the area is suspected to be unstable."
+    },
+    "41040106": {
+        "Map": 12,
+        "Name": "Log 003",
+        "Desc": "Location: Second Observation Point\nTime: ???\nAnomaly: Two different sights were observed overlapping at the same spacetime location for a duration of approximately 1 year.\nNote: Spatial instability in the region is suspected."
+    },
+    "41040108": {
+        "Map": 12,
+        "Name": "Log 004",
+        "Desc": "Location: Second Observation Point\nTime: T+1Y/5M/15D/4H/27M/38S\nAnomaly: All sounds suddenly become distorted, similar to a reverb effect, lasting approximately 10 years.\nNote: This effect includes all types of communication devices."
+    },
+    "41040111": {
+        "Map": 13,
+        "Name": "Log 005",
+        "Desc": "Location: Third Observation Point\nTime: T+16Y/7M/2D/6H/49M/52S\nAnomaly: Multiple suns were observed in the sky, in series with each other to form a halo, lasting about 400 years.\nNote: No extra heat detected, can't confirm if it's hallucination."
+    },
+    "41040113": {
+        "Map": 13,
+        "Name": "Log 006",
+        "Desc": "Location: Third Observation Point\nTime: T+511Y/3M/9D/3H/44M/58S\nAnomaly: Sudden rise in temperature to 70 degrees Celsius observed, and rising, lasting for approximately 1640 years.\nNote: A large amount of equipment was destroyed due to the heat."
+    },
+    "41040116": {
+        "Map": 14,
+        "Name": "Log 007",
+        "Desc": "Location: Fourth Observation Point\nTime: T+1511Y/6M/18D/7H/5M/12S\nAnomaly: Gravity enhancement observed, causing all objects to be pulled toward the ground for approximately 3164 years.\nNote: Targeted modifications to existing equipment are required."
+    },
+    "41040118": {
+        "Map": 14,
+        "Name": "Log 008",
+        "Desc": "Location: Fourth Observation Point\nTime: T+6315Y/8M/27D/11H/15M/23S\nAnomaly: Simultaneous extreme recession and extreme decay of objects in the surroundings was observed.\nNote: Time recording failed. Need to rely on memory to record."
+    },
+    "41090101": {
+        "Map": 16,
+        "Name": "Afterburner-1",
+        "Desc": "\"In the dark night devoid of light, she comes into this world, bringing the changeless flame of eternity.\""
+    },
+    "41090103": {
+        "Map": 16,
+        "Name": "Afterburner-2",
+        "Desc": "\"Darkness sweeps across the land with chaotic forms, murky voices, and calamitous colors, ultimately casting the shadow of apocalypse.\""
+    },
+    "41090106": {
+        "Map": 17,
+        "Name": "Afterburner-3",
+        "Desc": "\"The once pure white forest has now been tainted.\""
+    },
+    "41090108": {
+        "Map": 17,
+        "Name": "Afterburner-4",
+        "Desc": "\"How can one find the sacred door amid these twisted limbs?\""
+    },
+    "41090111": {
+        "Map": 18,
+        "Name": "Afterburner-5",
+        "Desc": "\"The solid foundation is now linked with limbo.\""
+    },
+    "41090113": {
+        "Map": 18,
+        "Name": "Afterburner-6",
+        "Desc": "\"How does one ascend through the dark strata to the skyward spire?\""
+    },
+    "41090116": {
+        "Map": 19,
+        "Name": "Afterburner-7",
+        "Desc": "\"Following in her footsteps, we shall eventually reach the final hall.\""
+    },
+    "41090118": {
+        "Map": 19,
+        "Name": "Afterburner-8",
+        "Desc": "\"When clarity surges, illusions fade and the story concludes.\""
+    },
+    "41120101": {
+        "Map": 21,
+        "Name": "Depth: 0",
+        "Desc": "\"Do you copy? Ready to begin descent?\"\n\"Ready.\""
+    },
+    "41120103": {
+        "Map": 21,
+        "Name": "Depth: 50",
+        "Desc": "\"How's the visibility down there?\"\n\"Visibility is about 5 meters. Experiencing mild hallucinations. Seeing a desert this time.\""
+    },
+    "41120106": {
+        "Map": 22,
+        "Name": "Depth: 190",
+        "Desc": "\"Current depth has reached 190 units. Experiencing moderate hallucinations.\"\n\"Is your mental state still within the tolerable range?\"\n\"All normal.\""
+    },
+    "41120108": {
+        "Map": 22,
+        "Name": "Depth: 310",
+        "Desc": "\"Watch out! Unknown life forms detected around you. Stay on guard.\"\n\"Understood.\""
+    },
+    "41120111": {
+        "Map": 23,
+        "Name": "Depth: 460",
+        "Desc": "\"Lost contact with the dive unit! Boost the communication signals! Retract the safety line, now!\""
+    },
+    "41120113": {
+        "Map": 23,
+        "Name": "Depth: 724",
+        "Desc": "\"I can't see anything anymore... but I should keep descending...\""
+    },
+    "41120116": {
+        "Map": 24,
+        "Name": "Depth: 803",
+        "Desc": "\"No signals received. Loss of contact with the dive unit confirmed. Comms is only picking up Mania interference and mental noise. I'm sorry.\""
+    },
+    "41120118": {
+        "Map": 24,
+        "Name": "Depth: ???",
+        "Desc": "\"I've been waiting... Finally... you're... here...\""
+    }
+}
