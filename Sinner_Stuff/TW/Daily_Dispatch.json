@@ -2750,6 +2750,58 @@
         }
     },
     "159": {
+        "Id": 1050001,
+        "Quality": "Purple",
+        "DispatchTitle": "禮儀指導",
+        "DispatchDescription": "管理局部分工作人員需隨同上級，參與新城某貴族的家族宴會。為確保萬無一失，現需接受赴宴相關的禮儀指導。",
+        "DispatchSinners": {
+            "Sinner": "耶萊娜"
+        },
+        "BaseAward": {
+            "Reward Item": "感染角質",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生角質",
+            "Reward Qty": "1.0"
+        }
+    },
+    "160": {
+        "Id": 1050002,
+        "Quality": "Green",
+        "DispatchTitle": "熱門話題評論",
+        "DispatchDescription": "某娛樂公司計畫開設一檔時事評論的全新節目，目前正在徵集大量言辭犀利、博人眼球的稿件。",
+        "DispatchSinners": {
+            "Sinner": "派因"
+        },
+        "BaseAward": {
+            "Reward Item": "原生角質",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "斷裂角質",
+            "Reward Qty": "1.0"
+        }
+    },
+    "161": {
+        "Id": 1050003,
+        "Quality": "Blue",
+        "DispatchTitle": "音檔修復",
+        "DispatchDescription": "存有關鍵線索的音檔意外損壞，管理局應治安局所求，派出熟悉錄音流程與電子設備的禁閉者協助修復。",
+        "DispatchSinners": {
+            "Sinner 1": "派因",
+            "Sinner 2": "瑞思"
+        },
+        "BaseAward": {
+            "Reward Item": "原生角質",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生角質",
+            "Reward Qty": "1.0"
+        }
+    },
+    "162": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "夢的解析",

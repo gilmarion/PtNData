@@ -1091,6 +1091,31 @@
             ]
         }
     },
+    "Jelena": {
+        "Emotion Check 1": {
+            "Open": "[Jelena is organizing the books on the shelf.]",
+            "Jelena Question": "Your collection here is quite extensive, Chief. I've finished several volumes recently—they're quite captivating. If you're looking for some leisure reading, I'd be happy to make some recommendations.",
+            "Chief Question 1": "That's great. I've been meaning to pick up some new books.",
+            "Jelena Response 1": "I'm delighted you're interested, Chief. Just a moment while I retrieve them for you.",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "I'm afraid I don't have the time for reading lately.",
+            "Jelena Response 2": "That's quite alright. I can prepare a reading list for you, and you can explore them at your leisure when time permits.",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[A gentle knock breaks the silence of your lit office in the dead of night.]",
+            "Jelena Question": "Still awake at this hour, Chief? Is there something troubling you? I'm here to listen if you'd like to discuss it.",
+            "Chief Question 1": "Just having trouble sleeping.",
+            "Jelena Response 1": "Sometimes a little assistance can help with insomnia. Would you like me to help you?",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "I still have work to do.",
+            "Jelena Response 2": "If you're willing to trust me, I can assist with some of these tasks. That way you can get some much-needed rest.",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
     "Countess Chelsea": {
         "Emotion Check 1": {
             "Open": "[Chelsea hands you a gem.]",
@@ -2012,6 +2037,28 @@
             "Chief Question 2": "Then, accompany me for a walk in the Outdoor Activity Area.",
             "Jane Response 2": "Is this... also part of the job? Sure, Chief.",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "Pine": {
+        "Emotion Check 1": {
+            "Open": "[Pine shoves a massive stack of audio transcripts into your hands.]",
+            "Pine Question": "Listen, your Bureau needs some serious cleaning up. You know the guy in charge of food supplies? He happens to be the chef's neighbor's ex-wife's son. They're probably splitting kickbacks from the procurement budget. How did this slip past you?",
+            "Chief Question 1": "How did you find this out?",
+            "Pine Response 1": "Just a bit of eavesdropping. With my modified equipment, it was child's play.",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "Don't jump to conclusions.",
+            "Pine Response 2": "...Tch, so by-the-book. Fine, take all the time you need with your precious verification process.",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[To maintain the health standards required of Sinners, Pine has been instructed by the medical staff to improve her diet.]",
+            "Pine Question": "What a pain. Why make such a fuss about food? As long as I'm not starving to death, isn't that enough?",
+            "Chief Question 1": "At least stop living on instant noodles and snacks every single day.",
+            "Pine Response 1": "Then I'll switch to energy drinks. They'll keep my vital signs going, and I won't even need to drink water additionally.",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "Why not try sandwiches? They're quick to make and easy to eat.",
+            "Pine Response 2": "Not a bad idea. I can also take some with me when I'm out. I'll give it a shot next time.",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
         }
     },
     "Victoria": {

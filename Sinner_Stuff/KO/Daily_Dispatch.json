@@ -2750,6 +2750,58 @@
         }
     },
     "159": {
+        "Id": 1050001,
+        "Quality": "Purple",
+        "DispatchTitle": "예절 교육",
+        "DispatchDescription": "관리국의 일부 직원들이 상급자와 함께 신성 어느 귀족 가문의 연회에 참가해야 한다. 조금의 실수도 없도록 연회 관련 예절 교육을 받아야 한다.",
+        "DispatchSinners": {
+            "Sinner": "옐레나"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "160": {
+        "Id": 1050002,
+        "Quality": "Green",
+        "DispatchTitle": "이슈 평가",
+        "DispatchDescription": "어느 엔터테인먼트 회사에서 시사 평론에 관한 새로운 프로그램을 기획하고 있다. 현재 신랄하고 이목을 끌 수 있는 원고를 대량 공모하고 있다.",
+        "DispatchSinners": {
+            "Sinner": "파인"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "갈라진 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "161": {
+        "Id": 1050003,
+        "Quality": "Blue",
+        "DispatchTitle": "음성 복구",
+        "DispatchDescription": "중요 단서가 저장된 음성이 예기치 않게 손상되었다. 관리국은 치안국의 요구에 따라 녹음 절차와 전자기기에 익숙한 수감자를 파견해 복구를 진행해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "파인",
+            "Sinner 2": "라이즈"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 각질",
+            "Reward Qty": "1.0"
+        }
+    },
+    "162": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "꿈의 해석",

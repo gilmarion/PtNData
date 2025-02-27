@@ -641,7 +641,7 @@
         "Id": 1010003,
         "Quality": "Blue",
         "DispatchTitle": "Wealth & Power",
-        "DispatchDescription": "In a place like the Underground Arena, money and strong fists will make you invincible.",
+        "DispatchDescription": "In a place like the Shadow Arena, money and strong fists will make you invincible.",
         "DispatchSinners": {
             "Sinner 1": "Countess Chelsea",
             "Sinner 2": "Ninety-Nine"
@@ -1332,7 +1332,7 @@
     "77": {
         "Id": 1024001,
         "Quality": "Purple",
-        "DispatchTitle": "Ornamental Snake At Large",
+        "DispatchTitle": "Snake At Large",
         "DispatchDescription": "An ornamental snake in an Eastside zoo has escaped and caused injuries, sparking public panic. To capture it as soon as possible, the Public Security Bureau is in urgent need of assistance from professionals versed in snake behaviors.",
         "DispatchSinners": {
             "Sinner": "Serpent"
@@ -1349,7 +1349,7 @@
     "78": {
         "Id": 1024002,
         "Quality": "Green",
-        "DispatchTitle": "Crackdown on Counterfeiting",
+        "DispatchTitle": "No Counterfeits",
         "DispatchDescription": "A novice Eastside blacksmith claims to be the apprentice of the city's top weaponsmith, luring in numerous clients with that title. This greatly vexes the top weaponsmith of Eastside who's never taken any apprentices.",
         "DispatchSinners": {
             "Sinner": "Mess"
@@ -1505,7 +1505,7 @@
     "87": {
         "Id": 1027002,
         "Quality": "Green",
-        "DispatchTitle": "Teaching Materials on Photography",
+        "DispatchTitle": "Photography Tutorial",
         "DispatchDescription": "The MBCC has recently acquired some teaching materials on photography and photobooks by distinguished artists. The news brings endless joy to a certain shutterbug, who wastes no time in sending in a request.",
         "DispatchSinners": {
             "Sinner": "Lynn"
@@ -1522,7 +1522,7 @@
     "88": {
         "Id": 1027003,
         "Quality": "Blue",
-        "DispatchTitle": "A Photography Tour of the North",
+        "DispatchTitle": "Photography Tour",
         "DispatchDescription": "A Sinner who is passionate about photography has been yearning to travel to the north and capture its spectacular scenery. It just so happens that another Sinner is being sent on a mission to the north, so the shutterbug sends in a request, asking Chief for permission to tag along.",
         "DispatchSinners": {
             "Sinner 1": "Lynn",
@@ -1678,7 +1678,7 @@
     "97": {
         "Id": 1030002,
         "Quality": "Green",
-        "DispatchTitle": "Plastic surgery fiasco",
+        "DispatchTitle": "Plastic surgery Fiasco",
         "DispatchDescription": "A celebrity nose insured for 300 million has been broken. Conflict ensues as the insurance company cannot afford to pay. A seasoned cosmetic surgeon is needed to intervene.",
         "DispatchSinners": {
             "Sinner": "Uni"
@@ -1990,7 +1990,7 @@
     "115": {
         "Id": 1036001,
         "Quality": "Purple",
-        "DispatchTitle": "Who Caused It, Who Solves It",
+        "DispatchTitle": "Who Breaks, Who Fixes",
         "DispatchDescription": "Recently the number of insomnia patients received by Eastside Hospital has climbed sharply, most of which are allegedly induced by the fear of the scary urban legend, and are in urgent need of hypnosis ASMR programs to assist in their treatment.",
         "DispatchSinners": {
             "Sinner": "Eleven"
@@ -2232,7 +2232,7 @@
     "129": {
         "Id": 1040003,
         "Quality": "Blue",
-        "DispatchTitle": "High School Girl Kidnapping Case",
+        "DispatchTitle": "High School Kidnapping",
         "DispatchDescription": "A mass kidnapping incident has taken place at an all-girls high school in Eastside. At the request of the Public Security Bureau, the MBCC urgently sends two Sinners to infiltrate the school disguised as students and secretly execute a hostage rescue plan.",
         "DispatchSinners": {
             "Sinner 1": "Thistle",
@@ -2250,7 +2250,7 @@
     "130": {
         "Id": 1041001,
         "Quality": "Purple",
-        "DispatchTitle": "Ancient Book Identification",
+        "DispatchTitle": "Ancient Book",
         "DispatchDescription": "A collection of valuable original copies of Outland books has recently been stolen from the Eastside Library. Assistance from a relevant scholar is urgently required to retrieve and authenticate them.",
         "DispatchSinners": {
             "Sinner": "Du Ruo"
@@ -2284,7 +2284,7 @@
     "132": {
         "Id": 1041003,
         "Quality": "Blue",
-        "DispatchTitle": "Child Model Disappearance Case",
+        "DispatchTitle": "Model Disappearance",
         "DispatchDescription": "Recently, several models of an Eastside luxury children's clothing brand have gone missing after photo shoots. Send two Sinners to go undercover in disguise and uncover the truth.",
         "DispatchSinners": {
             "Sinner 1": "Yanyan",
@@ -2303,7 +2303,7 @@
         "Id": 1041004,
         "Quality": "Purple",
         "DispatchTitle": "Seminar Investigation",
-        "DispatchDescription": "The Public Security Bureau has recently received complaints about a suspicious self-claimed master holding seminars titled <i>Communication with the Sun</i> everywhere. Send a Sinner to investigate.",
+        "DispatchDescription": "The Public Security Bureau has recently received complaints about a suspicious self-claimed master holding seminars titled *Communication with the Sun* everywhere. Send a Sinner to investigate.",
         "DispatchSinners": {
             "Sinner": "Yao"
         },
@@ -2406,7 +2406,7 @@
         "Id": 1043003,
         "Quality": "Blue",
         "DispatchTitle": "Crush Course",
-        "DispatchDescription": "A new masked dating show by an Eastside entertainment company with the catchphrase <i>Win your heart with one sentence</i> has become an instant hit. Two Sinners particularly confident in sweet talk volunteer for the next audition.",
+        "DispatchDescription": "A new masked dating show by an Eastside entertainment company with the catchphrase *Win your heart with one sentence* has become an instant hit. Two Sinners particularly confident in sweet talk volunteer for the next audition.",
         "DispatchSinners": {
             "Sinner 1": "Shawn",
             "Sinner 2": "McQueen"
@@ -2750,6 +2750,58 @@
         }
     },
     "159": {
+        "Id": 1050001,
+        "Quality": "Purple",
+        "DispatchTitle": "Etiquette Training",
+        "DispatchDescription": "Some Bureau staff members need to accompany their superiors to a noble family's banquet in Eastside. To ensure everything goes smooth, they must undergo proper etiquette training beforehand.",
+        "DispatchSinners": {
+            "Sinner": "Jelena"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "160": {
+        "Id": 1050002,
+        "Quality": "Green",
+        "DispatchTitle": "Hot Take",
+        "DispatchDescription": "An entertainment company is launching a new current event talk show and is looking for pointed, attention-grabbing write-ups.",
+        "DispatchSinners": {
+            "Sinner": "Pine"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Broken Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "161": {
+        "Id": 1050003,
+        "Quality": "Blue",
+        "DispatchTitle": "Audio Repair",
+        "DispatchDescription": "Some audio files containing crucial evidence are damaged. At the request of the Public Security Bureau, MBCC is sending a Sinner with expertise in audio recording and electronic devices to help restore them.",
+        "DispatchSinners": {
+            "Sinner 1": "Pine",
+            "Sinner 2": "Rise"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Horn",
+            "Reward Qty": "1.0"
+        }
+    },
+    "162": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "Dream Interpretation",

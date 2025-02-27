@@ -1091,6 +1091,31 @@
             ]
         }
     },
+    "耶萊娜": {
+        "Emotion Check 1": {
+            "Open": "[耶萊娜正在整理書架上的書籍。]",
+            "耶萊娜 Question": "您這裡的藏書很豐富，最近又讀完了幾本，引人入勝值得一看。若您想消磨時間的話，我願意為您推薦。",
+            "Chief Question 1": "我最近也想讀點新書。",
+            "耶萊娜 Response 1": "我很高興您會感興趣。請稍等片刻，我為您將書取下來。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "我最近沒有時間讀書。",
+            "耶萊娜 Response 2": "沒關係，我可以先幫您整理成書單，等您有空的時候再憑興趣閱讀。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[深夜，亮著燈的辦公室響起克制的敲門聲。]",
+            "耶萊娜 Question": "局長這麼晚還沒睡，是被什麼問題難倒了嗎？如果不介意，可以和我說說的。",
+            "Chief Question 1": "只是有點睡不著。",
+            "耶萊娜 Response 1": "失眠的時候，借助外力不失為一種辦法。需要我來哄您入睡嗎？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "還有事情需要處理。",
+            "耶萊娜 Response 2": "如果您願意信任我，我可以幫您分擔辛勞，這樣您也能早點休息。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
     "切爾西伯爵": {
         "Emotion Check 1": {
             "Open": "[切爾西將一枚寶石遞到你的面前]",
@@ -2012,6 +2037,28 @@
             "Chief Question 2": "那陪我去放風區散散步吧。",
             "簡 Response 2": "這、這也是工作內容之一嗎……好的，局長。",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "派因": {
+        "Emotion Check 1": {
+            "Open": "[派因將一本磚頭厚的錄音轉錄文本拍到你手裡。]",
+            "派因 Question": "我說，你這管理局真該好好整頓了。食材供貨的負責人是廚師他對面鄰居前妻的兒子，兩個人互行方便，很可能在吃採購的回扣，你沒發現嗎？",
+            "Chief Question 1": "你怎麼知道的？",
+            "派因 Response 1": "竊聽對話而已，用我改裝的設備還不是輕輕鬆鬆？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "不要妄下結論。",
+            "派因 Response 2": "……嘖，真溫吞，那你慢慢調查核實吧。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[為了保證禁閉者的身體健康，派因被治療師要求調整飲食結構。]",
+            "派因 Question": "真麻煩，吃的東西有什麼可講究的，餓不死不就行了嗎？",
+            "Chief Question 1": "至少別天天只吃泡麵和零食。",
+            "派因 Response 1": "那就換罐裝能量飲吧，能維持生命體徵，還不用煮熱水了。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "可以試試看三明治，做和吃都比較方便。",
+            "派因 Response 2": "聽起來不錯，出門還能隨身帶著。下次我試試。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
         }
     },
     "維多利亞": {

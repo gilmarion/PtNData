@@ -1091,6 +1091,31 @@
             ]
         }
     },
+    "옐레나": {
+        "Emotion Check 1": {
+            "Open": "[옐레나가 책장에 있는 책을 정리하고 있다]",
+            "옐레나 Question": "여기 소장된 책이 많더라고요. 최근에 몇 권 더 읽어봤는데, 매력적이고 볼 가치가 있었어요. 시간을 때우려면 제가 몇 권 추천해 드릴게요.",
+            "Chief Question 1": "나도 요즘 새로운 책을 읽고 싶었어",
+            "옐레나 Response 1": "관심 있다고 하시니 다행이네요. 잠시만요, 책 꺼내서 드릴게요.",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "요즘에는 책을 읽을 시간이 없어",
+            "옐레나 Response 2": "괜찮아요. 제가 몇 권 추려놓을 테니까 나중에 시간 되실 때 읽어 보세요.",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[늦은 밤, 불이 켜져 있는 사무실에 절제된 노크 소리가 들려왔다]",
+            "옐레나 Question": "국장님, 왜 아직 안 주무세요? 무슨 문제라도 있으세요? 괜찮으시다면 저한테 말씀하셔도 돼요.",
+            "Chief Question 1": "그냥 잠이 안 와서",
+            "옐레나 Response 1": "잠이 오지 않을 때는 도움을 받는 것도 방법이에요. 제가 재워드릴까요?",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "아직 할 일이 좀 남아서",
+            "옐레나 Response 2": "저를 믿어주신다면 제가 함께 수고를 덜어드릴게요. 그러면 조금 더 일찍 쉬실 수 있을 거예요.",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
     "첼시 백작": {
         "Emotion Check 1": {
             "Open": "[첼시가 보석 하나를 당신 앞으로 내민다]",
@@ -2012,6 +2037,28 @@
             "Chief Question 2": "나랑 같이 활동 구역에 산책하러 가자.",
             "제인 Response 2": "이, 이것도 업무에 포함되는 건가요…? 그럼 그렇게 하겠습니다, 국장님.",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "파인": {
+        "Emotion Check 1": {
+            "Open": "[파인이 벽돌만큼 두꺼운 녹취록을 당신의 손에 쥐여줬다]",
+            "파인 Question": "이 관리국 말이야, 진짜 한 번 제대로 바로잡아야 해. 식자재 공급을 책임지는 사람이 셰프 맞은편 집 이혼 가정의 아들인데, 서로 편의를 봐주고 있어. 분명 식자재를 구매하면서 뒷돈을 챙기고 있을 거야. 눈치 못 챘어?",
+            "Chief Question 1": "그걸 어떻게 알았는데?",
+            "파인 Response 1": "둘이 얘기하는 걸 도청했어. 내가 개조한 장비를 사용하면 식은 죽 먹기지.",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "섣불리 결론 내리지 마",
+            "파인 Response 2": "…쯧, 답답해. 그럼, 네가 직접 천천히 조사해서 알아내든지.",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[수감자의 신체 건강을 위해 파인은 치료사의 요구에 따라 식단을 조정해야 한다]",
+            "파인 Question": "귀찮아, 뭘 그렇게까지 신경 써서 챙겨 먹어? 굶어 죽지만 않으면 되는 거 아니야?",
+            "Chief Question 1": "그래도 매일 컵라면이랑 간식만 먹으면 안 되지",
+            "파인 Response 1": "그럼 에너지 드링크를 마시면 되겠네. 기본적인 생체 기능을 유지할 수 있고 따로 물을 끓일 필요도 없잖아.",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "샌드위치라도 먹어봐, 만들기도 쉽고 먹기도 편하잖아",
+            "파인 Response 2": "괜찮은데? 외출할 때 챙겨갈 수도 있고. 다음에 먹어 볼게.",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
         }
     },
     "빅토리아": {

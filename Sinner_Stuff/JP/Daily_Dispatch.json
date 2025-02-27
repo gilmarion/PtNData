@@ -2750,6 +2750,58 @@
         }
     },
     "159": {
+        "Id": 1050001,
+        "Quality": "Purple",
+        "DispatchTitle": "マナー指導",
+        "DispatchDescription": "管理局の一部の局員は、上層部と共にニューシティのとある貴族のホームパーティーに出席しなければならない。万全を期すため、パーティーに関するマナー指導を受ける必要がある。",
+        "DispatchSinners": {
+            "Sinner": "イェレナ"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "160": {
+        "Id": 1050002,
+        "Quality": "Green",
+        "DispatchTitle": "時事コメント",
+        "DispatchDescription": "とあるエンタメ企業が、時事問題を扱うトーク番組を企画しており、注目を集められる鋭い原稿を大量に募集している。",
+        "DispatchSinners": {
+            "Sinner": "パイン"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "折れた角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "161": {
+        "Id": 1050003,
+        "Quality": "Blue",
+        "DispatchTitle": "音声修復",
+        "DispatchDescription": "重要な手がかりを含む音声データが予想外にも破損してしまったため、管理局は治安局の要請を受け、録音作業や電子機器に詳しいコンビクトを派遣し、修復を手伝うことになった。",
+        "DispatchSinners": {
+            "Sinner 1": "パイン",
+            "Sinner 2": "ライズ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生の角",
+            "Reward Qty": "1.0"
+        }
+    },
+    "162": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "夢の解析",

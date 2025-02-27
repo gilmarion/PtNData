@@ -1091,6 +1091,31 @@
             ]
         }
     },
+    "イェレナ": {
+        "Emotion Check 1": {
+            "Open": "[イェレナが本棚の本を整理している]",
+            "イェレナ Question": "ここにはたくさんの本がありますわね。最近また数冊読み終えたのですが、どれも面白かったのでおすすめです。もし時間を潰したければ、紹介いたしますわ。",
+            "Chief Question 1": "新しい本を読みたい",
+            "イェレナ Response 1": "興味を持ってくださって嬉しいですわ。少々お待ちを。すぐに取ってきますから。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Chief Question 2": "最近は読書をする時間がない",
+            "イェレナ Response 2": "問題ありません。本のリストを作っておくので、後で時間がある時に気になる本を読んでみてください。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[深夜、明かりのついた執務室に、控えめなノックの音が響いた]",
+            "イェレナ Question": "局長さん、こんな時間まで起きているなんて、何か悩み事ですか？もしよければ、相談に乗りますわ。",
+            "Chief Question 1": "ただちょっと眠れないだけだ",
+            "イェレナ Response 1": "眠れない時は、外部の力に頼るのも一つの手ですわ。私が寝かしつけて差し上げましょうか？",
+            "Emoji 1": [
+                "atlas/monthsign/sprite_dailysign_face_4.png",
+                "atlas/monthsign/sprite_dailysign_face_4.png"
+            ],
+            "Chief Question 2": "まだ処理しなければならないことがあるんだ",
+            "イェレナ Response 2": "もし私を信頼してくださるなら、お手伝いいたしますわ。そうすれば、あなたも早く休めるでしょう？",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+        }
+    },
     "チェルシー伯爵": {
         "Emotion Check 1": {
             "Open": "[チェルシーは宝石をあなたに渡した]",
@@ -2012,6 +2037,28 @@
             "Chief Question 2": "じゃあ屋外エリアでの散歩に付き合ってくれ。",
             "ジェイン Response 2": "そ、それも任務の一部なのか……了解した、局長。",
             "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+        }
+    },
+    "パイン": {
+        "Emotion Check 1": {
+            "Open": "[パインが録音データを書き出した分厚いファイルを、あなたの手に叩きつけるように渡してきた]",
+            "パイン Question": "あのさ……この管理局、もっとしっかり是正すべきじゃないか？食材供給の担当者はシェフの隣人で、そいつは元奥さんの連れ子らしい。多分、二人で都合つけて調達費用からリベートを得てる。気付いてないのか？",
+            "Chief Question 1": "どうやって分かったんだ？",
+            "パイン Response 1": "会話を盗聴しただけだ。ウチが改造した機械を使えば楽勝だろ？",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Chief Question 2": "勝手に決めつけない方がいい",
+            "パイン Response 2": "……ったく、マジでぬるいな。じゃあ、ゆっくり調査して確認してみろよ。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+        },
+        "Emotion Check 2": {
+            "Open": "[コンビクトの健康を守るために、パインは治療医から食事の改善を指示された]",
+            "パイン Question": "めんど。食べ物なんて何だっていいだろ？飢え死にしなきゃいいだけだ。",
+            "Chief Question 1": "せめて、毎日インスタントラーメンやお菓子ばかりはやめた方がいい",
+            "パイン Response 1": "じゃあ、エナジードリンクにするか。生命維持はできるし、お湯も沸かさなくていいしな。",
+            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Chief Question 2": "サンドイッチはどうだ？作るのも食べるのも簡単だぞ",
+            "パイン Response 2": "悪くないな。外出時にも持ち運べるし。今度試してみる。",
+            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
         }
     },
     "ビクトリア": {
