@@ -419,54 +419,6 @@
         "File": "vo_owo_promotion_001",
         "Text": "アー、さすがガオ様！"
     },
-    "110102100": {
-        "Sinner": "ガオ",
-        "Title": "衣装獲得",
-        "File": "vo_owo_wushizhiwang_cacha_001",
-        "Text": "###"
-    },
-    "110102101": {
-        "Sinner": "ガオ",
-        "Title": "レベルアップ",
-        "File": "vo_owo_wushizhiwang_levelup_001",
-        "Text": "###"
-    },
-    "110102102": {
-        "Sinner": "ガオ",
-        "Title": "挨拶",
-        "File": "vo_owo_wushizhiwang_greeting_001",
-        "Text": "###"
-    },
-    "110102103": {
-        "Sinner": "ガオ",
-        "Title": "タッチ1",
-        "File": "vo_owo_wushizhiwang_talk_001",
-        "Text": "###"
-    },
-    "110102104": {
-        "Sinner": "ガオ",
-        "Title": "タッチ2",
-        "File": "vo_owo_wushizhiwang_talk_002",
-        "Text": "###"
-    },
-    "110102105": {
-        "Sinner": "ガオ",
-        "Title": "放置",
-        "File": "vo_owo_wushizhiwang_idle_001",
-        "Text": "###"
-    },
-    "110102106": {
-        "Sinner": "ガオ",
-        "Title": "苛立つ",
-        "File": "vo_owo_wushizhiwang_clicking_001",
-        "Text": "###"
-    },
-    "110102107": {
-        "Sinner": "ガオ",
-        "Title": "お気に入り",
-        "File": "vo_owo_wushizhiwang_specialattention_001",
-        "Text": "###"
-    },
     "11010301": {
         "Sinner": "ラーフ",
         "Title": "コンビクトを獲得",
@@ -2103,56 +2055,6 @@
         "File": "vo_deren_shijiejiaodian_specialattention_001",
         "Text": "聞こえた？スポットライトは輝き続け、拍手と歓声は鳴り止まない……ふん。さぁ、私と一緒に世界の焦点になろう。"
     },
-    "110203110": {
-        "Sinner": "デイリン",
-        "Title": "衣装獲得",
-        "File": "vo_deren_diezhiying_cacha_001",
-        "Text": "###"
-    },
-    "110203111": {
-        "Sinner": "デイリン",
-        "Title": "レベルアップ",
-        "File": "vo_deren_diezhiying_levelup_001",
-        "Text": "###"
-    },
-    "110203112": {
-        "Sinner": "デイリン",
-        "Title": "挨拶",
-        "File": "vo_deren_diezhiying_greeting_001",
-        "Text": "###"
-    },
-    "110203113": {
-        "Sinner": "デイリン",
-        "Title": "タッチ1",
-        "File": "vo_deren_diezhiying_body_001",
-        "Text": "###",
-        "File 2": "vo_deren_diezhiying_body_001",
-        "Text 2": "###"
-    },
-    "110203114": {
-        "Sinner": "デイリン",
-        "Title": "タッチ2",
-        "File": "vo_deren_diezhiying_body_002",
-        "Text": "###"
-    },
-    "110203115": {
-        "Sinner": "デイリン",
-        "Title": "放置",
-        "File": "vo_deren_diezhiying_idle_001",
-        "Text": "###"
-    },
-    "110203116": {
-        "Sinner": "デイリン",
-        "Title": "苛立つ",
-        "File": "vo_deren_diezhiying_clicking_001",
-        "Text": "###"
-    },
-    "110203117": {
-        "Sinner": "デイリン",
-        "Title": "お気に入り",
-        "File": "vo_deren_diezhiying_specialattention_001",
-        "Text": "###"
-    },
     "11020401": {
         "Sinner": "ドナルド",
         "Title": "コンビクトを獲得",
@@ -3618,54 +3520,6 @@
         "Title": "お気に入り",
         "File": "vo_snake_hanmianchuxing_specialattention_001",
         "Text": "あらぁ、もうすぐ着替え終わるわよ。これ以上急かすと……あなたを噛んじゃうから！"
-    },
-    "110303110": {
-        "Sinner": "ナチャ",
-        "Title": "衣装獲得",
-        "File": "vo_snake_kuailezhiyuan_cacha_001",
-        "Text": "###"
-    },
-    "110303111": {
-        "Sinner": "ナチャ",
-        "Title": "レベルアップ",
-        "File": "vo_snake_kuailezhiyuan_levelup_001",
-        "Text": "###"
-    },
-    "110303112": {
-        "Sinner": "ナチャ",
-        "Title": "挨拶",
-        "File": "vo_snake_kuailezhiyuan_greeting_001",
-        "Text": "###"
-    },
-    "110303113": {
-        "Sinner": "ナチャ",
-        "Title": "タッチ1",
-        "File": "vo_snake_kuailezhiyuan_talk_001",
-        "Text": "###"
-    },
-    "110303114": {
-        "Sinner": "ナチャ",
-        "Title": "タッチ2",
-        "File": "vo_snake_kuailezhiyuan_talk_002",
-        "Text": "###"
-    },
-    "110303115": {
-        "Sinner": "ナチャ",
-        "Title": "放置",
-        "File": "vo_snake_kuailezhiyuan_idle_001",
-        "Text": "###"
-    },
-    "110303116": {
-        "Sinner": "ナチャ",
-        "Title": "苛立つ",
-        "File": "vo_snake_kuailezhiyuan_clicking_001",
-        "Text": "###"
-    },
-    "110303117": {
-        "Sinner": "ナチャ",
-        "Title": "お気に入り",
-        "File": "vo_snake_kuailezhiyuan_specialattention_001",
-        "Text": "###"
     },
     "110303120": {
         "Sinner": "ナチャ",
@@ -9341,54 +9195,6 @@
         "File": "vo_cab_mingdingyoumeng_specialattention_001",
         "Text": "私が自ら手を下すのをそんなに楽しみにしているのですか？あなたは、私の体温と吐息が……このお酒とフルーツを楽しむのに最適だと思っているようですわね～"
     },
-    "110603110": {
-        "Sinner": "カベルネ",
-        "Title": "衣装獲得",
-        "File": "vo_cab_gongzui_cacha_001",
-        "Text": "そんなに急いでお帰りにならないで。さぁ、これをつけてくださいまし……うん、この翡翠のペンダントがあれば、今日のパーティーによりふさわしくなりますわ。"
-    },
-    "110603111": {
-        "Sinner": "カベルネ",
-        "Title": "レベルアップ",
-        "File": "vo_cab_gongzui_levelup_001",
-        "Text": "控えめでありながらもエレガントで、よく考えられているようですわね。"
-    },
-    "110603112": {
-        "Sinner": "カベルネ",
-        "Title": "挨拶",
-        "File": "vo_cab_gongzui_greeting_001",
-        "Text": "ふふ、緊張なさらないでください。私とパーティーに参加する時は、会場の料理がどれほど珍しく高価なものなのかなど気にしなくていいのですよ。自分の心の奥底にある原始的な欲望を満足させることができるか……それだけを気にしてくださいまし～"
-    },
-    "110603113": {
-        "Sinner": "カベルネ",
-        "Title": "タッチ1",
-        "File": "vo_cab_gongzui_body_001",
-        "Text": "異邦の歴史は長く、様々な種類の料理があるため、目の前のこれらは氷山の一角にすぎないと言われていますわ。こうした珍味よりも美味しいものがどれだけ私たちを待っているのかと思うと……あら、このようなストレートな褒め言葉は私のスタイルではありませんわね。ですが、料理をより美味しく感じ、こうして酔ってしまったのは、あなたが傍にいるからかもしれません。"
-    },
-    "110603114": {
-        "Sinner": "カベルネ",
-        "Title": "タッチ2",
-        "File": "vo_cab_gongzui_body_002",
-        "Text": "社交界の一角であるこの場所にも、もちろんよく知る貪欲さが溢れていますわ。ですが、贅沢な欲望の渦が純粋な魂のさっぱりとした新鮮な味を引き出すように、ここで提供される料理も独特の味がします。今度こそ、気負わずに味わえるといいですわね。"
-    },
-    "110603115": {
-        "Sinner": "カベルネ",
-        "Title": "放置",
-        "File": "vo_cab_gongzui_idle_001",
-        "Text": "う～ん、料理を楽しむあなたの姿は素敵ですわ。見ているだけで食欲をそそりますわね……"
-    },
-    "110603116": {
-        "Sinner": "カベルネ",
-        "Title": "苛立つ",
-        "File": "vo_cab_gongzui_clicking_001",
-        "Text": "パーティーのような場では、人よりもドレスを尊ぶのが常ですわ。服装のスタイルやデザインの適切さは、出席している人のマナーや育ち、地位を反映しています——もし私のドレスに皺をつけたら、怒ってしまいますわよ？"
-    },
-    "110603117": {
-        "Sinner": "カベルネ",
-        "Title": "お気に入り",
-        "File": "vo_cab_gongzui_specialattention_001",
-        "Text": "そうして一歩ずつ私の後をついてくるのは、私のグルメ評論家としての能力を信じているからでしょうか？それとも監督者としての職務を遂行しているだけですの？ただついてくるだけではなく、私の手を取り、傍にいてくださいまし。そうすれば、私の全てを見ることができますわよ……"
-    },
     "11060401": {
         "Sinner": "コクリコ",
         "Title": "コンビクトを獲得",
@@ -10302,6 +10108,66 @@
         "Title": "スキルアップ",
         "File": "vo_ll_promotion_001",
         "Text": "感謝する……何も思い出せはしなかったが。"
+    },
+    "110607100": {
+        "Sinner": "L.L.",
+        "Title": "衣装獲得",
+        "File": "vo_LL_wanlaiqingyin_cacha_001",
+        "Text": "私の歌声に惹かれて、私の声で足を止めて……一緒に永遠にここに留まって、二度と戻らない。"
+    },
+    "110607101": {
+        "Sinner": "L.L.",
+        "Title": "レベルアップ",
+        "File": "vo_LL_wanlaiqingyin_levelup_001",
+        "Text": "私の歌声は、もっと遠くまで届けられるのね！"
+    },
+    "110607102": {
+        "Sinner": "L.L.",
+        "Title": "挨拶",
+        "File": "vo_LL_wanlaiqingyin_greeting_001",
+        "Text": "あー、あー……マイクテスト、チェック、ワン……ここに来たからには、その視線は私にだけ向けてちょうだい。"
+    },
+    "110607103": {
+        "Sinner": "L.L.",
+        "Title": "頭をなでる",
+        "File": "vo_LL_wanlaiqingyin_head_001",
+        "Text": "ふふ……どうしたの？顔を近づけて一緒に歌って、私たちの声を宇宙の果てまで届けたいのかしら？"
+    },
+    "110607104": {
+        "Sinner": "L.L.",
+        "Title": "タッチ1",
+        "File": "vo_LL_wanlaiqingyin_body_001",
+        "Text": "さぁ、来てちょうだい。あなたに最高権限をあげたから、一緒に大声で叫んだり、変な顔をしたり、音程を外して歌ったり、この誰もいない場所で抱き合いましょう。みっともなくても、恥ずかしくても大丈夫。とにかく、やりたいことは何でもできるのよ！"
+    },
+    "110607105": {
+        "Sinner": "L.L.",
+        "Title": "タッチ2",
+        "File": "vo_LL_wanlaiqingyin_body_002",
+        "Text": "時間は重要じゃないし、暗闇も怖くない。あなたが望んでくれるなら、あなたが私の傍にいてくれるなら、私はずっとずっとここに立って、あなたのために歌い続けるわ。"
+    },
+    "110607106": {
+        "Sinner": "L.L.",
+        "Title": "タッチ3",
+        "File": "vo_LL_wanlaiqingyin_ear_001",
+        "Text": "う～ん……鼓膜が震え、美しい歌声が耳から脳に流れ込み、意識を揺さぶり、魂と共鳴する……精神的な快楽から生まれる喜びが、脊髄を伝って全身に広がっていくわ……ふふ……こんな感覚を一度味わっちゃうと、もっと欲しくなるわね？"
+    },
+    "110607107": {
+        "Sinner": "L.L.",
+        "Title": "タッチ4",
+        "File": "vo_LL_wanlaiqingyin_microphone_001",
+        "Text": "実は、このマイクは管理局の放送回線に直接接続されているの。つまり、ここでやっていることは全部、管理局全体に聞こえているのよ！……やっぱりこの程度の冗談じゃ驚かないわよね……ううん、そういうことね！あなたは私のことをよく理解しているから、冗談だって気付いたんだわ！"
+    },
+    "110607108": {
+        "Sinner": "L.L.",
+        "Title": "放置",
+        "File": "vo_LL_wanlaiqingyin_idle_001",
+        "Text": "……たとえ私のために留まってくれるのがあなただけだとしても、気にしないわ……"
+    },
+    "110607109": {
+        "Sinner": "L.L.",
+        "Title": "お気に入り",
+        "File": "vo_LL_wanlaiqingyin_specialattention_001",
+        "Text": "望んでいるなら、遠慮せずに言ってちょうだい。直接教えて。私の歌声とあなたの心拍が、同じリズムで共鳴できるか試してみたいって。"
     },
     "11060801": {
         "Sinner": "イェレナ",
@@ -12614,54 +12480,6 @@
         "Title": "お気に入り",
         "File": "vo_jiushijiu_hundunzhiyue_specialattention_001",
         "Text": "戦闘のためでないなら、なぜわたしに近づく？わたしに他の使い道があるのか？"
-    },
-    "111201110": {
-        "Sinner": "ナインティナイン",
-        "Title": "衣装獲得",
-        "File": "vo_jiushijiu_xinshijie_cacha_001",
-        "Text": "###"
-    },
-    "111201111": {
-        "Sinner": "ナインティナイン",
-        "Title": "レベルアップ",
-        "File": "vo_jiushijiu_xinshijie_levelup_001",
-        "Text": "###"
-    },
-    "111201112": {
-        "Sinner": "ナインティナイン",
-        "Title": "挨拶",
-        "File": "vo_jiushijiu_xinshijie_greeting_001",
-        "Text": "###"
-    },
-    "111201113": {
-        "Sinner": "ナインティナイン",
-        "Title": "タッチ1",
-        "File": "vo_jiushijiu_xinshijie_body_001",
-        "Text": "###"
-    },
-    "111201114": {
-        "Sinner": "ナインティナイン",
-        "Title": "タッチ2",
-        "File": "vo_jiushijiu_xinshijie_body_002",
-        "Text": "###"
-    },
-    "111201115": {
-        "Sinner": "ナインティナイン",
-        "Title": "放置",
-        "File": "vo_jiushijiu_xinshijie_idle_001",
-        "Text": "###"
-    },
-    "111201116": {
-        "Sinner": "ナインティナイン",
-        "Title": "苛立つ",
-        "File": "vo_jiushijiu_xinshijie_clicking_001",
-        "Text": "###"
-    },
-    "111201117": {
-        "Sinner": "ナインティナイン",
-        "Title": "お気に入り",
-        "File": "vo_jiushijiu_xinshijie_specialattention_001",
-        "Text": "###"
     },
     "11120201": {
         "Sinner": "ウェンディ",
@@ -19787,54 +19605,6 @@
         "File": "vo_olivier_promotion_001",
         "Text": "これはいい子にしかもらえないご褒美、でしょ？"
     },
-    "111505100": {
-        "Sinner": "オリバー",
-        "Title": "衣装獲得",
-        "File": "vo_olivier_shiyuyuyin_cacha_001",
-        "Text": "オリバーはきっと、歌でみんなの罪を洗い流して、心を清められるよ～みんなは感謝の気持ちでいっぱいのいい子羊、幸せな子羊になるんだ！"
-    },
-    "111505101": {
-        "Sinner": "オリバー",
-        "Title": "レベルアップ",
-        "File": "vo_olivier_shiyuyuyin_levelup_001",
-        "Text": "白い鳩まで、オリバーが歌う賛美歌が好きなんだ！"
-    },
-    "111505102": {
-        "Sinner": "オリバー",
-        "Title": "挨拶",
-        "File": "vo_olivier_shiyuyuyin_greeting_001",
-        "Text": "局長は、オリバーが舞台に出るって聞いてわざわざ来てくれたの？心配しないで。今回はオリバーと同じくらいお行儀がよくて可愛い聖歌隊のメンバーを演じるんだ。局長もきっと気に入ってくれると思う！"
-    },
-    "111505103": {
-        "Sinner": "オリバー",
-        "Title": "タッチ1",
-        "File": "vo_olivier_shiyuyuyin_body_001",
-        "Text": "オリバーがこの役をやりたいってワガママ言ったんじゃないよ。あの人たちが、オリバーにこの役がふさわしすぎるって思ってくれたんだ。お兄ちゃんお姉ちゃんたちを困らせたりできないでしょ？だからオッケーしたんだ！どう？オリバーっていい子だよね？"
-    },
-    "111505104": {
-        "Sinner": "オリバー",
-        "Title": "タッチ2",
-        "File": "vo_olivier_shiyuyuyin_body_002",
-        "Text": "「あの人について行こう、あの人がどこへ行こうと～あの人とずっと一緒にいよう、誰にも止められない～」えへへ、上手に歌えてるでしょ！局長を思い浮かべながら演じたから、みんなオリバーの感情豊かな演技を褒めてくれたんだ～"
-    },
-    "111505105": {
-        "Sinner": "オリバー",
-        "Title": "放置",
-        "File": "vo_olivier_shiyuyuyin_idle_001",
-        "Text": "さっきのきみたちの飛び方だけど、あんまり綺麗に曲がれてなかったよ。もう一度やってみて。オリバーの最高の登場にも関係してるんだからさ。きみたちはいい子だから、僕の登場をぶち壊したりしないよね～"
-    },
-    "111505106": {
-        "Sinner": "オリバー",
-        "Title": "苛立つ",
-        "File": "vo_olivier_shiyuyuyin_clicking_001",
-        "Text": "あ～なんで局長はオリバーのリボンをそんなに引っ張るの……もしかして局長って「気に入ったらいじめる」小学生タイプ？"
-    },
-    "111505107": {
-        "Sinner": "オリバー",
-        "Title": "お気に入り",
-        "File": "vo_olivier_shiyuyuyin_specialattention_001",
-        "Text": "1分、2分……局長、オリバーをずっと見つめてるのは、オリバーの演技をずっと楽しみたいからなんでしょ～"
-    },
     "11150601": {
         "Sinner": "ラミア",
         "Title": "コンビクトを獲得",
@@ -23284,54 +23054,6 @@
         "Title": "お気に入り",
         "File": "vo_hella_hongxinnvwang_specialattention_001",
         "Text": "コホン！あたしたちの平等な関係を保つため、女王の名において命じる……って、おいコラ！また枷使って変なことしようとしてんな！"
-    },
-    "112201108": {
-        "Sinner": "ヘラ",
-        "Title": "衣装獲得",
-        "File": "vo_hella_meishizhilv_cacha_001",
-        "Text": "###"
-    },
-    "112201109": {
-        "Sinner": "ヘラ",
-        "Title": "レベルアップ",
-        "File": "vo_hella_meishizhilv_levelup_001",
-        "Text": "###"
-    },
-    "112201110": {
-        "Sinner": "ヘラ",
-        "Title": "挨拶",
-        "File": "vo_hella_meishizhilv_greeting_001",
-        "Text": "###"
-    },
-    "112201111": {
-        "Sinner": "ヘラ",
-        "Title": "タッチ1",
-        "File": "vo_hella_meishizhilv_talk_001",
-        "Text": "###"
-    },
-    "112201112": {
-        "Sinner": "ヘラ",
-        "Title": "タッチ2",
-        "File": "vo_hella_meishizhilv_talk_002",
-        "Text": "###"
-    },
-    "112201113": {
-        "Sinner": "ヘラ",
-        "Title": "放置",
-        "File": "vo_hella_meishizhilv_idle_001",
-        "Text": "###"
-    },
-    "112201114": {
-        "Sinner": "ヘラ",
-        "Title": "苛立つ",
-        "File": "vo_hella_meishizhilv_clicking_001",
-        "Text": "###"
-    },
-    "112201115": {
-        "Sinner": "ヘラ",
-        "Title": "お気に入り",
-        "File": "vo_hella_meishizhilv_specialattention_001",
-        "Text": "###"
     },
     "11220201": {
         "Sinner": "澈",

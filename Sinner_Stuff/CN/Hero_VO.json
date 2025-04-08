@@ -419,54 +419,6 @@
         "File": "vo_owo_promotion_001",
         "Text": "嗯~不愧是我嗷呜！"
     },
-    "110102100": {
-        "Sinner": "嗷呜",
-        "Title": "获得装束",
-        "File": "vo_owo_wushizhiwang_cacha_001",
-        "Text": "咚滴隆咚，一口一个汉堡！"
-    },
-    "110102101": {
-        "Sinner": "嗷呜",
-        "Title": "升级",
-        "File": "vo_owo_wushizhiwang_levelup_001",
-        "Text": "啊呜——大口吃肉！身体棒棒！"
-    },
-    "110102102": {
-        "Sinner": "嗷呜",
-        "Title": "问候",
-        "File": "vo_owo_wushizhiwang_greeting_001",
-        "Text": "狄斯人，快点帮嗷呜把这家店搬回MBCC的食堂！这里的薯条太好吃啦，我每天都要吃！"
-    },
-    "110102103": {
-        "Sinner": "嗷呜",
-        "Title": "普通触摸1",
-        "File": "vo_owo_wushizhiwang_talk_001",
-        "Text": "我是禁闭者嗷呜，我被黑环裂隙影响，现在无家可归，为了根除黑环，维护世界的和平，请v我50吃一顿大餐，不然打不动死役！"
-    },
-    "110102104": {
-        "Sinner": "嗷呜",
-        "Title": "普通触摸2",
-        "File": "vo_owo_wushizhiwang_talk_002",
-        "Text": "摄像机！一定是用来拍我的吧！哼哼，没想到我世界第一无敌霹雳舞狮小天才的名号居然已经传到这里了！你们等着，我啃完这根鸡腿就来表演！"
-    },
-    "110102105": {
-        "Sinner": "嗷呜",
-        "Title": "闲置",
-        "File": "vo_owo_wushizhiwang_idle_001",
-        "Text": "……！番茄酱滴到裙子上了！……狄斯人！你赶紧来帮嗷呜擦一擦呀！"
-    },
-    "110102106": {
-        "Sinner": "嗷呜",
-        "Title": "烦躁",
-        "File": "vo_owo_wushizhiwang_clicking_001",
-        "Text": "不可以！这是嗷呜的汉堡！你吃自己的去！你都多大了还要抢人东西吃，羞不羞！哼！我要是生气了，可是会把你也当成大汉堡狠狠咬一口的哦！"
-    },
-    "110102107": {
-        "Sinner": "嗷呜",
-        "Title": "特别关注",
-        "File": "vo_owo_wushizhiwang_specialattention_001",
-        "Text": "汉堡、薯条、鸡翅、蛋挞，全都再来一份！……你这样看着我干嘛？我还能吃好多好多好多！不许小瞧我！"
-    },
     "11010301": {
         "Sinner": "罗睺",
         "Title": "获得禁闭者",
@@ -2103,56 +2055,6 @@
         "File": "vo_deren_shijiejiaodian_specialattention_001",
         "Text": "听见了吗，聚光灯会一直闪烁，掌声和欢呼也将永不停歇……哼，来吧，和我一起，去成为世界的焦点吧。"
     },
-    "110203110": {
-        "Sinner": "黛伦",
-        "Title": "获得装束",
-        "File": "vo_deren_diezhiying_cacha_001",
-        "Text": "你看，幻境之中诞生了一只蝴蝶。它的每一次飞翔，每一次变化，都是抵抗命运，追求自由的象征。"
-    },
-    "110203111": {
-        "Sinner": "黛伦",
-        "Title": "升级",
-        "File": "vo_deren_diezhiying_levelup_001",
-        "Text": "嗯，这部电影的剧情越来越有意思了。"
-    },
-    "110203112": {
-        "Sinner": "黛伦",
-        "Title": "问候",
-        "File": "vo_deren_diezhiying_greeting_001",
-        "Text": "我正攒了一肚子和这部电影有关的话想要找人分享呢，真开心，一抬头就看到你来找我了。"
-    },
-    "110203113": {
-        "Sinner": "黛伦",
-        "Title": "普通触摸1",
-        "File": "vo_deren_diezhiying_body_001",
-        "Text": "影视剧作中，踏上冒险的主角身边，总有些他最看重的事物，比如亲人，比如朋友……比如永不磨灭的勇气。",
-        "File 2": "vo_deren_diezhiying_body_001",
-        "Text 2": "影视剧作中，踏上冒险的主角身边，总有些她最看重的事物，比如亲人，比如朋友……比如永不磨灭的勇气。"
-    },
-    "110203114": {
-        "Sinner": "黛伦",
-        "Title": "普通触摸2",
-        "File": "vo_deren_diezhiying_body_002",
-        "Text": "为这部令人赞叹的作品干一杯吧！也为今天重温这部作品时身边有你~"
-    },
-    "110203115": {
-        "Sinner": "黛伦",
-        "Title": "闲置",
-        "File": "vo_deren_diezhiying_idle_001",
-        "Text": "别急，再等一会儿……最让人拍案叫绝的部分就要上演了。"
-    },
-    "110203116": {
-        "Sinner": "黛伦",
-        "Title": "烦躁",
-        "File": "vo_deren_diezhiying_clicking_001",
-        "Text": "哈哈，周围这些只不过是我思维活跃时不由自主具象化出来的东西，不可怕的……以及……放心吧，我是真实存在的。"
-    },
-    "110203117": {
-        "Sinner": "黛伦",
-        "Title": "特别关注",
-        "File": "vo_deren_diezhiying_specialattention_001",
-        "Text": "我在你脸上看到了不一样的解读，我很喜欢，让我再……好好地看一会儿吧。"
-    },
     "11020401": {
         "Sinner": "唐",
         "Title": "获得禁闭者",
@@ -3618,54 +3520,6 @@
         "Title": "特别关注",
         "File": "vo_snake_hanmianchuxing_specialattention_001",
         "Text": "哎呀，我马上就穿戴好了！再催我……我可就咬你了！"
-    },
-    "110303110": {
-        "Sinner": "娜恰",
-        "Title": "获得装束",
-        "File": "vo_snake_kuailezhiyuan_cacha_001",
-        "Text": "局长，听说这里除了食品以外，还会卖一种能给人带来无限快乐的饮料！是真的么！"
-    },
-    "110303111": {
-        "Sinner": "娜恰",
-        "Title": "升级",
-        "File": "vo_snake_kuailezhiyuan_levelup_001",
-        "Text": "嗯……名不虚传呢……"
-    },
-    "110303112": {
-        "Sinner": "娜恰",
-        "Title": "问候",
-        "File": "vo_snake_kuailezhiyuan_greeting_001",
-        "Text": "局长，我点了双人套餐，来和我一起度过快乐的时光吧~"
-    },
-    "110303113": {
-        "Sinner": "娜恰",
-        "Title": "普通触摸1",
-        "File": "vo_snake_kuailezhiyuan_talk_001",
-        "Text": "在公司的时候我总是被要求控制饮食，很多时候我的晚餐只有一块饼干……像今天这样的体验，或许只会出现在玛芙制造的幻梦之中吧。"
-    },
-    "110303114": {
-        "Sinner": "娜恰",
-        "Title": "普通触摸2",
-        "File": "vo_snake_kuailezhiyuan_talk_002",
-        "Text": "向饮品里放进冰块的行为，简直就是天才一样的创造！尤其是天气炎热的时候！喝一口……啊……冰冰凉凉，真是让人安心的感觉……"
-    },
-    "110303115": {
-        "Sinner": "娜恰",
-        "Title": "闲置",
-        "File": "vo_snake_kuailezhiyuan_idle_001",
-        "Text": "咦，我的快乐呢……怎么这么快就没了……果然，就算不在狄斯城，快乐也如此短暂么……"
-    },
-    "110303116": {
-        "Sinner": "娜恰",
-        "Title": "烦躁",
-        "File": "vo_snake_kuailezhiyuan_clicking_001",
-        "Text": "怎么了？是想要我手中这杯么……呵呵~当然，我不介意把快乐，分享给局长你哦——"
-    },
-    "110303117": {
-        "Sinner": "娜恰",
-        "Title": "特别关注",
-        "File": "vo_snake_kuailezhiyuan_specialattention_001",
-        "Text": "既然已经来到了这里，在弄清楚原委之前，不如尽情享受欢愉的时间，你说对么，亲爱的局长？"
     },
     "110303120": {
         "Sinner": "娜恰",
@@ -9341,54 +9195,6 @@
         "File": "vo_cab_mingdingyoumeng_specialattention_001",
         "Text": "这么期待我亲自动手吗？看来在你的感知中，我的温度和气息……才是你享用这琼浆与果实的绝配呀~"
     },
-    "110603110": {
-        "Sinner": "卡门奈特",
-        "Title": "获得装束",
-        "File": "vo_cab_gongzui_cacha_001",
-        "Text": "先别急着走，来，系上这个……嗯，有了这块玉佩，就更配今天的宴席了。"
-    },
-    "110603111": {
-        "Sinner": "卡门奈特",
-        "Title": "升级",
-        "File": "vo_cab_gongzui_levelup_001",
-        "Text": "内敛而不失风雅，看来花了一番心思。"
-    },
-    "110603112": {
-        "Sinner": "卡门奈特",
-        "Title": "问候",
-        "File": "vo_cab_gongzui_greeting_001",
-        "Text": "呵呵，别紧张，和我一起赴宴，不必讲究是否了解这里的菜品有多珍稀昂贵，只要在意，它们能否让你沉浸享受自己内心最原始的欲望即可~"
-    },
-    "110603113": {
-        "Sinner": "卡门奈特",
-        "Title": "普通触摸1",
-        "File": "vo_cab_gongzui_body_001",
-        "Text": "都说外邦历史悠久，菜系繁多，面前这些不过是冰山一角，真让人不由畅想，还有多少胜过眼前珍馐的极品在等着我们品鉴……哎呀，这样直白的夸奖可不像是我的风格，或许是你的陪伴为它们增了色，我才会这样陶醉。"
-    },
-    "110603114": {
-        "Sinner": "卡门奈特",
-        "Title": "普通触摸2",
-        "File": "vo_cab_gongzui_body_002",
-        "Text": "作为社交界的一角，这里当然充斥着熟悉的贪欲。可正如纸醉金迷的欲望旋涡，反而能凸显出纯净灵魂那清淡鲜醇的本味一样，在这里享用的料理，也别有一番独特的风味。希望这一次，你能没有负担地去体会。"
-    },
-    "110603115": {
-        "Sinner": "卡门奈特",
-        "Title": "闲置",
-        "File": "vo_cab_gongzui_idle_001",
-        "Text": "嗯~我喜欢你享受美食的模样，真是看着就让人食指大动……"
-    },
-    "110603116": {
-        "Sinner": "卡门奈特",
-        "Title": "烦躁",
-        "File": "vo_cab_gongzui_clicking_001",
-        "Text": "宴会这样的场合，向来是先敬罗衣后敬人。服饰的风格和设计是否恰当，映照出赴宴者的礼仪、教养和脸面——所以如果你弄皱了我的礼服，我可是会生气的哦？"
-    },
-    "110603117": {
-        "Sinner": "卡门奈特",
-        "Title": "特别关注",
-        "File": "vo_cab_gongzui_specialattention_001",
-        "Text": "你这样亦步亦趋地跟着我，是信任我品鉴美食的能力，还是要将监管者的职责贯彻到底呢？别只是跟在我身后了，挽起我的手，待在我的身旁吧，这样你就能把我的一切都看在眼里了……"
-    },
     "11060401": {
         "Sinner": "可可莉克",
         "Title": "获得禁闭者",
@@ -10302,6 +10108,66 @@
         "Title": "升技",
         "File": "vo_ll_promotion_001",
         "Text": "多谢……即便我并没能想起什么。"
+    },
+    "110607100": {
+        "Sinner": "L.L.",
+        "Title": "获得装束",
+        "File": "vo_LL_wanlaiqingyin_cacha_001",
+        "Text": "被我的歌唱吸引，因我的声音驻足，然后……随我一起，永远地停留在这里，再也不要回去。"
+    },
+    "110607101": {
+        "Sinner": "L.L.",
+        "Title": "升级",
+        "File": "vo_LL_wanlaiqingyin_levelup_001",
+        "Text": "我的歌声，原来可以传达到更远的地方呀！"
+    },
+    "110607102": {
+        "Sinner": "L.L.",
+        "Title": "问候",
+        "File": "vo_LL_wanlaiqingyin_greeting_001",
+        "Text": "麦克风，音响，test，te——既然来了，你的目光就只能落在我的身上。"
+    },
+    "110607103": {
+        "Sinner": "L.L.",
+        "Title": "摸头",
+        "File": "vo_LL_wanlaiqingyin_head_001",
+        "Text": "嘿嘿……怎么，想要跟我贴面合唱，把我们的声音传播到宇宙尽头吗？"
+    },
+    "110607104": {
+        "Sinner": "L.L.",
+        "Title": "普通触摸1",
+        "File": "vo_LL_wanlaiqingyin_body_001",
+        "Text": "快来，我给了你这里的最高权限，我们一起大叫、扮鬼脸、唱跑调，在这片无人之境拥抱，不光彩也好不体面也好，总之能做一切你想做的事！"
+    },
+    "110607105": {
+        "Sinner": "L.L.",
+        "Title": "普通触摸2",
+        "File": "vo_LL_wanlaiqingyin_body_002",
+        "Text": "时间不重要，黑暗也不可怕，只要你想，只要你能永远留在我身边，我就会一直一直，站在这里，为你歌唱。"
+    },
+    "110607106": {
+        "Sinner": "L.L.",
+        "Title": "普通触摸3",
+        "File": "vo_LL_wanlaiqingyin_ear_001",
+        "Text": "嗯……耳膜震动，美妙的歌声自双耳流入脑内，撩拨着意识，共鸣着灵魂……在这精神享受中诞生出的愉悦又会顺着脊骨蔓延各处……嘻嘻……这样的感觉，只要体验过一次，就会想要更多，对吗？"
+    },
+    "110607107": {
+        "Sinner": "L.L.",
+        "Title": "普通触摸4",
+        "File": "vo_LL_wanlaiqingyin_microphone_001",
+        "Text": "其实，这支麦克风可以连接到管理局的广播线路，也就是说，我们在这里所做的一切都会被整个管理局听到哦！……好吧好吧，我就知道这种程度的玩笑吓不到你……不对，我知道了，一定是你太了解我，才会知道我在开玩笑！"
+    },
+    "110607108": {
+        "Sinner": "L.L.",
+        "Title": "闲置",
+        "File": "vo_LL_wanlaiqingyin_idle_001",
+        "Text": "……没关系，哪怕只有你会为了我而停留……"
+    },
+    "110607109": {
+        "Sinner": "L.L.",
+        "Title": "特别关注",
+        "File": "vo_LL_wanlaiqingyin_specialattention_001",
+        "Text": "你想要就直说呀，直接告诉我：想试试我的歌声和你的心跳，能不能共鸣出同样的节奏？"
     },
     "11060801": {
         "Sinner": "耶莱娜",
@@ -12614,54 +12480,6 @@
         "Title": "特别关注",
         "File": "vo_jiushijiu_hundunzhiyue_specialattention_001",
         "Text": "如果不是为了战斗，为什么会来找我？我还有别的用处吗？"
-    },
-    "111201110": {
-        "Sinner": "九十九",
-        "Title": "获得装束",
-        "File": "vo_jiushijiu_xinshijie_cacha_001",
-        "Text": "上车坐好。嗯……我也不知道要往哪儿开，你来决定。"
-    },
-    "111201111": {
-        "Sinner": "九十九",
-        "Title": "升级",
-        "File": "vo_jiushijiu_xinshijie_levelup_001",
-        "Text": "把油加满。"
-    },
-    "111201112": {
-        "Sinner": "九十九",
-        "Title": "问候",
-        "File": "vo_jiushijiu_xinshijie_greeting_001",
-        "Text": "醒了？那我们就出发吧。"
-    },
-    "111201113": {
-        "Sinner": "九十九",
-        "Title": "普通触摸1",
-        "File": "vo_jiushijiu_xinshijie_body_001",
-        "Text": "每天睡醒就向前开，开到哪儿停到哪儿。这是我以前从来没想过的生活，感觉很好。"
-    },
-    "111201114": {
-        "Sinner": "九十九",
-        "Title": "普通触摸2",
-        "File": "vo_jiushijiu_xinshijie_body_002",
-        "Text": "开到最高速时，风吹在脸上的感觉，有点像大剑挥舞时卷起的风。"
-    },
-    "111201115": {
-        "Sinner": "九十九",
-        "Title": "闲置",
-        "File": "vo_jiushijiu_xinshijie_idle_001",
-        "Text": "你要听歌吗？唱片……我也不知道放在哪里了。"
-    },
-    "111201116": {
-        "Sinner": "九十九",
-        "Title": "烦躁",
-        "File": "vo_jiushijiu_xinshijie_clicking_001",
-        "Text": "出发之后就别对司机这么做，会很危险。"
-    },
-    "111201117": {
-        "Sinner": "九十九",
-        "Title": "特别关注",
-        "File": "vo_jiushijiu_xinshijie_specialattention_001",
-        "Text": "油加满之前就只能像这样你看我我看你了吗？没有不自在，我很适应你的目光。"
     },
     "11120201": {
         "Sinner": "温蒂",
@@ -19787,54 +19605,6 @@
         "File": "vo_olivier_promotion_001",
         "Text": "这是乖孩子才有的奖励，对吧？"
     },
-    "111505100": {
-        "Sinner": "奥利弗",
-        "Title": "获得装束",
-        "File": "vo_olivier_shiyuyuyin_cacha_001",
-        "Text": "奥利弗一定会用歌声帮大家洗去罪孽，净化心灵~让大家成为乖巧幸福的羔羊，心中充满感谢！"
-    },
-    "111505101": {
-        "Sinner": "奥利弗",
-        "Title": "升级",
-        "File": "vo_olivier_shiyuyuyin_levelup_001",
-        "Text": "就连白鸽也喜欢奥利弗唱的赞歌呀！"
-    },
-    "111505102": {
-        "Sinner": "奥利弗",
-        "Title": "问候",
-        "File": "vo_olivier_shiyuyuyin_greeting_001",
-        "Text": "局长是听说了奥利弗要参加舞台剧演出，所以特地赶来的吗？别担心，奥利弗这次演的角色，是和奥利弗一样乖巧可爱的唱诗班小朋友，局长一定会喜欢的！"
-    },
-    "111505103": {
-        "Sinner": "奥利弗",
-        "Title": "普通触摸1",
-        "File": "vo_olivier_shiyuyuyin_body_001",
-        "Text": "不是奥利弗争着要演的，是他们觉得奥利弗实在是太适合这个角色啦，奥利弗怎么舍得让哥哥姐姐们为难呢？所以就答应啦！怎么样，奥利弗是不是很乖呀？"
-    },
-    "111505104": {
-        "Sinner": "奥利弗",
-        "Title": "普通触摸2",
-        "File": "vo_olivier_shiyuyuyin_body_002",
-        "Text": "“我要跟随那人，不论那人去向何方♪我要永远留在那人身边，没有什么能够将我阻挡♪”嘿嘿，奥利弗唱得好吧！这可是奥利弗想着局长表演的呢，大家都夸奥利弗可有感情了~"
-    },
-    "111505105": {
-        "Sinner": "奥利弗",
-        "Title": "闲置",
-        "File": "vo_olivier_shiyuyuyin_idle_001",
-        "Text": "你们刚刚飞的弧度不太好看哦，要再来一次。这可关系到奥利弗的惊艳亮相呢，你们是乖孩子，不会坏事的对吧~"
-    },
-    "111505106": {
-        "Sinner": "奥利弗",
-        "Title": "烦躁",
-        "File": "vo_olivier_shiyuyuyin_clicking_001",
-        "Text": "啊呀~局长为什么老扯奥利弗的飘带呀……难道，局长是那种“喜欢他就欺负他”的小学生类型吗？"
-    },
-    "111505107": {
-        "Sinner": "奥利弗",
-        "Title": "特别关注",
-        "File": "vo_olivier_shiyuyuyin_specialattention_001",
-        "Text": "一分钟两分钟……局长，你盯了奥利弗这么久，原来是想一直欣赏奥利弗的演出啊～"
-    },
     "11150601": {
         "Sinner": "拉弥亚",
         "Title": "获得禁闭者",
@@ -23284,54 +23054,6 @@
         "Title": "特别关注",
         "File": "vo_hella_hongxinnvwang_specialattention_001",
         "Text": "咳咳，为了维持我们之间的平等关系，我以皇后的名义命令你……喂！你这家伙又在用枷锁做奇怪的事！"
-    },
-    "112201108": {
-        "Sinner": "海拉",
-        "Title": "获得装束",
-        "File": "vo_hella_meishizhilv_cacha_001",
-        "Text": "嘿嘿，这边点吃的真是方便，只需要看图就行！*文明狄斯*你干嘛用这种眼神看我，哼……告诉你，我现在认识不少字了！别动不动就提这事！"
-    },
-    "112201109": {
-        "Sinner": "海拉",
-        "Title": "升级",
-        "File": "vo_hella_meishizhilv_levelup_001",
-        "Text": "……还挺好吃的。"
-    },
-    "112201110": {
-        "Sinner": "海拉",
-        "Title": "问候",
-        "File": "vo_hella_meishizhilv_greeting_001",
-        "Text": "我还担心出来又要和什么怪物大战一场了，结果一看全都是炸鸡薯条，你说这该不会是死役迷惑我们的陷阱吧！……算了不管了！要是每次都是这样的黑环该多好啊——"
-    },
-    "112201111": {
-        "Sinner": "海拉",
-        "Title": "普通触摸1",
-        "File": "vo_hella_meishizhilv_talk_001",
-        "Text": "这不比你办公室那个苦不拉几的东西好喝多了？这样吧，要是求求我的话，给你尝尝……也不是不行。"
-    },
-    "112201112": {
-        "Sinner": "海拉",
-        "Title": "普通触摸2",
-        "File": "vo_hella_meishizhilv_talk_002",
-        "Text": "不知道九十九那家伙为什么只喜欢吃烤肉，明明汉堡也挺好吃的……等下次有机会我一定要带她来这里试试！"
-    },
-    "112201113": {
-        "Sinner": "海拉",
-        "Title": "闲置",
-        "File": "vo_hella_meishizhilv_idle_001",
-        "Text": "喂，我问你，这边的星期四是有什么特别的地方吗？为什么每到这一天，来这里吃饭的人都在说些奇怪的话？什么……不来的也会说？真奇怪……搞不懂这个地方……"
-    },
-    "112201114": {
-        "Sinner": "海拉",
-        "Title": "烦躁",
-        "File": "vo_hella_meishizhilv_clicking_001",
-        "Text": "干嘛，吃饭的时候不要和我说话！薯条要沾番茄酱不是糖醋酱？啊……不听不听，局长念经！"
-    },
-    "112201115": {
-        "Sinner": "海拉",
-        "Title": "特别关注",
-        "File": "vo_hella_meishizhilv_specialattention_001",
-        "Text": "怎么样，这叉子是不是很帅！而且……最重要的是，这是那些人给我拍完照片之后直接送给我的！哼哼，免费的东西永远都是最好的！"
     },
     "11220201": {
         "Sinner": "澈",

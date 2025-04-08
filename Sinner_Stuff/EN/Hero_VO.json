@@ -419,54 +419,6 @@
         "File": "vo_owo_promotion_001",
         "Text": "Yup! That's OwO for you!"
     },
-    "110102100": {
-        "Sinner": "OwO",
-        "Title": "Attire Obtained",
-        "File": "vo_owo_wushizhiwang_cacha_001",
-        "Text": "One bite of a burger!"
-    },
-    "110102101": {
-        "Sinner": "OwO",
-        "Title": "Level Up",
-        "File": "vo_owo_wushizhiwang_levelup_001",
-        "Text": "Awwww - big bite of meat! Body awesome!"
-    },
-    "110102102": {
-        "Sinner": "OwO",
-        "Title": "Greeting",
-        "File": "vo_owo_wushizhiwang_greeting_001",
-        "Text": "Deesman, hurry up and help Ouch move this store back to the MBCC cafeteria! The fries here are so good, I have to eat them every day!"
-    },
-    "110102103": {
-        "Sinner": "OwO",
-        "Title": "Ordinary Contact 1",
-        "File": "vo_owo_wushizhiwang_talk_001",
-        "Text": "I'm the Forbidden Owl, I've been affected by the Black Circle Rift and am now homeless, in order to eradicate the Black Circle and maintain peace in the world, please v me 50 to eat a big meal or else I won't be able to fight the death service!"
-    },
-    "110102104": {
-        "Sinner": "OwO",
-        "Title": "Ordinary Contact 2",
-        "File": "vo_owo_wushizhiwang_talk_002",
-        "Text": "Camera! Must have been used to film me! Hmph, I didn't realize that my reputation as the world's number one invincible breakdancing lion cub genius had actually spread here! You guys wait, I'll come to the show after I finish gnawing on this chicken leg!"
-    },
-    "110102105": {
-        "Sinner": "OwO",
-        "Title": "Idle",
-        "File": "vo_owo_wushizhiwang_idle_001",
-        "Text": "......! Ketchup is dripping onto the skirt! ...... Dees Man! You hurry up and come help Owl wipe it off!"
-    },
-    "110102106": {
-        "Sinner": "OwO",
-        "Title": "Annoyed",
-        "File": "vo_owo_wushizhiwang_clicking_001",
-        "Text": "No can do! It's Owl's burger! Eat your own! You're too old to be taking food from people. Shame on you! Hmph! If I get mad, I'll bite you like a big burger!"
-    },
-    "110102107": {
-        "Sinner": "OwO",
-        "Title": "Special Attention",
-        "File": "vo_owo_wushizhiwang_specialattention_001",
-        "Text": "Burger, fries, chicken wings, egg tart, all of them again! ...... Why are you looking at me like that? I can eat a lot more! Don't underestimate me!"
-    },
     "11010301": {
         "Sinner": "Rahu",
         "Title": "Obtain the Sinner",
@@ -2103,56 +2055,6 @@
         "File": "vo_deren_shijiejiaodian_specialattention_001",
         "Text": "Did you hear that? The spotlight will keep on shining, and the applause and cheers will never cease... Hmph, come on. Join me and we will become the center of the world's attention."
     },
-    "110203110": {
-        "Sinner": "Deren",
-        "Title": "Attire Obtained",
-        "File": "vo_deren_diezhiying_cacha_001",
-        "Text": "jojo"
-    },
-    "110203111": {
-        "Sinner": "Deren",
-        "Title": "Level Up",
-        "File": "vo_deren_diezhiying_levelup_001",
-        "Text": "jojo"
-    },
-    "110203112": {
-        "Sinner": "Deren",
-        "Title": "Greeting",
-        "File": "vo_deren_diezhiying_greeting_001",
-        "Text": "jojo"
-    },
-    "110203113": {
-        "Sinner": "Deren",
-        "Title": "Ordinary Contact 1",
-        "File": "vo_deren_diezhiying_body_001",
-        "Text": "jojo",
-        "File 2": "vo_deren_diezhiying_body_001",
-        "Text 2": "jojo"
-    },
-    "110203114": {
-        "Sinner": "Deren",
-        "Title": "Ordinary Contact 2",
-        "File": "vo_deren_diezhiying_body_002",
-        "Text": "jojo"
-    },
-    "110203115": {
-        "Sinner": "Deren",
-        "Title": "Idle",
-        "File": "vo_deren_diezhiying_idle_001",
-        "Text": "jojo"
-    },
-    "110203116": {
-        "Sinner": "Deren",
-        "Title": "Annoyed",
-        "File": "vo_deren_diezhiying_clicking_001",
-        "Text": "jojo"
-    },
-    "110203117": {
-        "Sinner": "Deren",
-        "Title": "Special Attention",
-        "File": "vo_deren_diezhiying_specialattention_001",
-        "Text": "jojo"
-    },
     "11020401": {
         "Sinner": "Donald",
         "Title": "Obtain the Sinner",
@@ -3618,54 +3520,6 @@
         "Title": "Special Attention",
         "File": "vo_snake_hanmianchuxing_specialattention_001",
         "Text": "My gosh, I'm almost done dressing! If you keep rushing me... I'll bite you!"
-    },
-    "110303110": {
-        "Sinner": "Serpent",
-        "Title": "Attire Obtained",
-        "File": "vo_snake_kuailezhiyuan_cacha_001",
-        "Text": "Commissioner, I heard that apart from food, this place also sells a drink that brings unlimited happiness! It's true!"
-    },
-    "110303111": {
-        "Sinner": "Serpent",
-        "Title": "Level Up",
-        "File": "vo_snake_kuailezhiyuan_levelup_001",
-        "Text": "Yes. ...... It's true to its name. ......"
-    },
-    "110303112": {
-        "Sinner": "Serpent",
-        "Title": "Greeting",
-        "File": "vo_snake_kuailezhiyuan_greeting_001",
-        "Text": "Chief, I've ordered a set menu for two. Come spend some happy time with me."
-    },
-    "110303113": {
-        "Sinner": "Serpent",
-        "Title": "Ordinary Contact 1",
-        "File": "vo_snake_kuailezhiyuan_talk_001",
-        "Text": "I'm always asked to control my diet when I'm at work, and many times my dinner consists of one cookie ...... Experiences like today's are probably only found in the hallucinatory dreams that Marv creates."
-    },
-    "110303114": {
-        "Sinner": "Serpent",
-        "Title": "Ordinary Contact 2",
-        "File": "vo_snake_kuailezhiyuan_talk_002",
-        "Text": "The act of putting ice into a drink is nothing short of genius-like creation! Especially when the weather is hot! Taking a sip of ...... ah...... ice cold, it's such a reassuring feeling ......"
-    },
-    "110303115": {
-        "Sinner": "Serpent",
-        "Title": "Idle",
-        "File": "vo_snake_kuailezhiyuan_idle_001",
-        "Text": "Huh, where's my happiness ...... Why is it gone so quickly ...... Sure enough, even if I'm not in Dis City, is happiness so short-lived ......"
-    },
-    "110303116": {
-        "Sinner": "Serpent",
-        "Title": "Annoyed",
-        "File": "vo_snake_kuailezhiyuan_clicking_001",
-        "Text": "What's wrong? Do you want this cup in my hand ...... Oh, of course, I don't mind sharing my happiness with you, Director..."
-    },
-    "110303117": {
-        "Sinner": "Serpent",
-        "Title": "Special Attention",
-        "File": "vo_snake_kuailezhiyuan_specialattention_001",
-        "Text": "Now that we're here, we might as well enjoy our time until we find out what's going on, don't you think so, dear Director?"
     },
     "110303120": {
         "Sinner": "Serpent",
@@ -7815,7 +7669,7 @@
         "Sinner": "Eleven",
         "Title": "Special Conversation 1",
         "File": "vo_eleven_talk2_001",
-        "Text": "Humans are such amazing creatures. After that electrifying moment of locking eyes, you and I no longer look the same for each other."
+        "Text": "Humans are such amazing creatures. After that electrifying moment of locking eyes, you and I no longer look the same to each other."
     },
     "11050614": {
         "Sinner": "Eleven",
@@ -9341,54 +9195,6 @@
         "File": "vo_cab_mingdingyoumeng_specialattention_001",
         "Text": "Are you waiting for me to do it? I see... My warmth and breath are your perfect accompaniment for this wine and fruit."
     },
-    "110603110": {
-        "Sinner": "Cabernet",
-        "Title": "Attire Obtained",
-        "File": "vo_cab_gongzui_cacha_001",
-        "Text": "Don't rush, stand still... There you go. This jade pendant comports better with the banquet."
-    },
-    "110603111": {
-        "Sinner": "Cabernet",
-        "Title": "Level Up",
-        "File": "vo_cab_gongzui_levelup_001",
-        "Text": "Measured without detracting from the flair. You did put some thoughts into this outfit, didn't you?"
-    },
-    "110603112": {
-        "Sinner": "Cabernet",
-        "Title": "Greeting",
-        "File": "vo_cab_gongzui_greeting_001",
-        "Text": "Hehe, relax. A tasting for me is not about how rare or expensive the dishes are, but rather whether you can indulge your innermost desires in the culinary forays."
-    },
-    "110603113": {
-        "Sinner": "Cabernet",
-        "Title": "Ordinary Contact 1",
-        "File": "vo_cab_gongzui_body_001",
-        "Text": "Legend has it that Outland cuisines are too rich to be counted. In fact, what we have right now is but a tiny fraction. Just imagine how many are out there for us to taste... (Smile) It doesn't really befit me to heap praise on something like this, but perhaps it is your presence that intoxicates me so."
-    },
-    "110603114": {
-        "Sinner": "Cabernet",
-        "Title": "Ordinary Contact 2",
-        "File": "vo_cab_gongzui_body_002",
-        "Text": "A microcosm of high society like this is naturally redolent of greed. Nevertheless, just as pure souls appear exceptionally fresh and mellow against a decadent backdrop of unfettered desires, dining here can be a uniquely contrasting experience. So, please, feast your senses on these delicacies."
-    },
-    "110603115": {
-        "Sinner": "Cabernet",
-        "Title": "Idle",
-        "File": "vo_cab_gongzui_idle_001",
-        "Text": "Hmm~ I do enjoy watching you savor the cuisines. I find it most, shall we say, luscious..."
-    },
-    "110603116": {
-        "Sinner": "Cabernet",
-        "Title": "Annoyed",
-        "File": "vo_cab_gongzui_clicking_001",
-        "Text": "Your dressing speaks for you from the outside in. It is a statement of your manners, upbringing and standing. So be warned, I'll have to punish you if you rumple my design~"
-    },
-    "110603117": {
-        "Sinner": "Cabernet",
-        "Title": "Special Attention",
-        "File": "vo_cab_gongzui_specialattention_001",
-        "Text": "Why are you tracing my footsteps so closely? Is it out of a trust for my connoisseurship, or just a sense of duty to chaperone me throughout the night (Giggle) Here, take my hand, stay by my side, and see what I am seeing..."
-    },
     "11060401": {
         "Sinner": "Coquelic",
         "Title": "Obtain the Sinner",
@@ -10302,6 +10108,66 @@
         "Title": "Upgrade Skill",
         "File": "vo_ll_promotion_001",
         "Text": "Thank you... even though I can't seem to recall anything."
+    },
+    "110607100": {
+        "Sinner": "L.L.",
+        "Title": "Attire Obtained",
+        "File": "vo_LL_wanlaiqingyin_cacha_001",
+        "Text": "Captivated by my singing, lost in my voice, and then... Why leave when you could stay with me here forever?"
+    },
+    "110607101": {
+        "Sinner": "L.L.",
+        "Title": "Level Up",
+        "File": "vo_LL_wanlaiqingyin_levelup_001",
+        "Text": "My singing, it does echo far and wide!"
+    },
+    "110607102": {
+        "Sinner": "L.L.",
+        "Title": "Greeting",
+        "File": "vo_LL_wanlaiqingyin_greeting_001",
+        "Text": "Mic check, mic check, testing, te—Hey, now that you're here, eyes on me and gimme all your attention~"
+    },
+    "110607103": {
+        "Sinner": "L.L.",
+        "Title": "Pat Head",
+        "File": "vo_LL_wanlaiqingyin_head_001",
+        "Text": "Hehe, what, you want to sing alongside me? Let's stretch our voice across the cosmos, shall we?"
+    },
+    "110607104": {
+        "Sinner": "L.L.",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_LL_wanlaiqingyin_body_001",
+        "Text": "Come closer, I've passed you top-level access. We can laugh, we can shout, we can sing a song and cuddle as long as we like, with no one else around! Whether it’s lounging or getting a little naughty, anything goes!"
+    },
+    "110607105": {
+        "Sinner": "L.L.",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_LL_wanlaiqingyin_body_002",
+        "Text": "Time is irrelevant, and darkness isn’t scary. Stay with me as long as you like, and I will be here for you, singing till the end."
+    },
+    "110607106": {
+        "Sinner": "L.L.",
+        "Title": "Ordinary Contact 3",
+        "File": "vo_LL_wanlaiqingyin_ear_001",
+        "Text": "Ah... the concussive beats, the exquisite melodies, they permeate my mind, stir up my senses, and resonate with my soul... The bliss born from this spiritual delight radiates through my spine, touching every part of me... Hehe... Once you've felt this, you'll surely crave more, won't you?"
+    },
+    "110607107": {
+        "Sinner": "L.L.",
+        "Title": "Ordinary Contact 4",
+        "File": "vo_LL_wanlaiqingyin_microphone_001",
+        "Text": "You know, this microphone directly connects to the bureau's radio. That means everything we do here can be heard by everyone in the bureau! ... Alright, alright, I know such a mild joke won't faze you... Ah, of course, you know me so well, so you figured I was joking."
+    },
+    "110607108": {
+        "Sinner": "L.L.",
+        "Title": "Idle",
+        "File": "vo_LL_wanlaiqingyin_idle_001",
+        "Text": "...It’s alright, as long as you're here to stay with me..."
+    },
+    "110607109": {
+        "Sinner": "L.L.",
+        "Title": "Special Attention",
+        "File": "vo_LL_wanlaiqingyin_specialattention_001",
+        "Text": "If you want it, just say it. Tell me directly: Do you want to see if my singing and your heartbeat can harmonize perfectly?"
     },
     "11060801": {
         "Sinner": "Jelena",
@@ -12614,54 +12480,6 @@
         "Title": "Special Attention",
         "File": "vo_jiushijiu_hundunzhiyue_specialattention_001",
         "Text": "If it's not for a fight, what are you here for? Am I useful in other ways?"
-    },
-    "111201110": {
-        "Sinner": "Ninety-Nine",
-        "Title": "Attire Obtained",
-        "File": "vo_jiushijiu_xinshijie_cacha_001",
-        "Text": "jojo"
-    },
-    "111201111": {
-        "Sinner": "Ninety-Nine",
-        "Title": "Level Up",
-        "File": "vo_jiushijiu_xinshijie_levelup_001",
-        "Text": "jojo"
-    },
-    "111201112": {
-        "Sinner": "Ninety-Nine",
-        "Title": "Greeting",
-        "File": "vo_jiushijiu_xinshijie_greeting_001",
-        "Text": "jojo"
-    },
-    "111201113": {
-        "Sinner": "Ninety-Nine",
-        "Title": "Ordinary Contact 1",
-        "File": "vo_jiushijiu_xinshijie_body_001",
-        "Text": "jojo"
-    },
-    "111201114": {
-        "Sinner": "Ninety-Nine",
-        "Title": "Ordinary Contact 2",
-        "File": "vo_jiushijiu_xinshijie_body_002",
-        "Text": "jojo"
-    },
-    "111201115": {
-        "Sinner": "Ninety-Nine",
-        "Title": "Idle",
-        "File": "vo_jiushijiu_xinshijie_idle_001",
-        "Text": "jojo"
-    },
-    "111201116": {
-        "Sinner": "Ninety-Nine",
-        "Title": "Annoyed",
-        "File": "vo_jiushijiu_xinshijie_clicking_001",
-        "Text": "jojo"
-    },
-    "111201117": {
-        "Sinner": "Ninety-Nine",
-        "Title": "Special Attention",
-        "File": "vo_jiushijiu_xinshijie_specialattention_001",
-        "Text": "jojo"
     },
     "11120201": {
         "Sinner": "Wendy",
@@ -19787,54 +19605,6 @@
         "File": "vo_olivier_promotion_001",
         "Text": "Rewards are only for good kids, right?"
     },
-    "111505100": {
-        "Sinner": "Oliver",
-        "Title": "Attire Obtained",
-        "File": "vo_olivier_shiyuyuyin_cacha_001",
-        "Text": "###"
-    },
-    "111505101": {
-        "Sinner": "Oliver",
-        "Title": "Level Up",
-        "File": "vo_olivier_shiyuyuyin_levelup_001",
-        "Text": "###"
-    },
-    "111505102": {
-        "Sinner": "Oliver",
-        "Title": "Greeting",
-        "File": "vo_olivier_shiyuyuyin_greeting_001",
-        "Text": "###"
-    },
-    "111505103": {
-        "Sinner": "Oliver",
-        "Title": "Ordinary Contact 1",
-        "File": "vo_olivier_shiyuyuyin_body_001",
-        "Text": "###"
-    },
-    "111505104": {
-        "Sinner": "Oliver",
-        "Title": "Ordinary Contact 2",
-        "File": "vo_olivier_shiyuyuyin_body_002",
-        "Text": "###"
-    },
-    "111505105": {
-        "Sinner": "Oliver",
-        "Title": "Idle",
-        "File": "vo_olivier_shiyuyuyin_idle_001",
-        "Text": "###"
-    },
-    "111505106": {
-        "Sinner": "Oliver",
-        "Title": "Annoyed",
-        "File": "vo_olivier_shiyuyuyin_clicking_001",
-        "Text": "###"
-    },
-    "111505107": {
-        "Sinner": "Oliver",
-        "Title": "Special Attention",
-        "File": "vo_olivier_shiyuyuyin_specialattention_001",
-        "Text": "###"
-    },
     "11150601": {
         "Sinner": "Lamia",
         "Title": "Obtain the Sinner",
@@ -23284,54 +23054,6 @@
         "Title": "Special Attention",
         "File": "vo_hella_hongxinnvwang_specialattention_001",
         "Text": "Ahem, to keep our relationship fair and equal, as the Queen, I order you to... Hey! You're trying some funny business with the shackles again!?"
-    },
-    "112201108": {
-        "Sinner": "Hella",
-        "Title": "Attire Obtained",
-        "File": "vo_hella_meishizhilv_cacha_001",
-        "Text": "Hey, hey, it's so easy to order food over here, just look at the picture! *civilized Deus* Why are you looking at me with that look, huh? ...... For your information, I know quite a few words now! Don't move to bring it up!"
-    },
-    "112201109": {
-        "Sinner": "Hella",
-        "Title": "Level Up",
-        "File": "vo_hella_meishizhilv_levelup_001",
-        "Text": "...... It was quite tasty."
-    },
-    "112201110": {
-        "Sinner": "Hella",
-        "Title": "Greeting",
-        "File": "vo_hella_meishizhilv_greeting_001",
-        "Text": "I was worried that I would have to come out and fight with some monsters again, but it turned out that all of them were fried chicken fries, and you said that this would not be a trap for the dead soldiers to confuse us! ...... Forget about it! It would be nice if the black ring was like this every time--"
-    },
-    "112201111": {
-        "Sinner": "Hella",
-        "Title": "Ordinary Contact 1",
-        "File": "vo_hella_meishizhilv_talk_001",
-        "Text": "Wouldn't it be better than that bitter stuff in your office? Tell you what, it wouldn't be impossible to give you a taste ...... if you begged me."
-    },
-    "112201112": {
-        "Sinner": "Hella",
-        "Title": "Ordinary Contact 2",
-        "File": "vo_hella_meishizhilv_talk_002",
-        "Text": "I don t know why that guy Ninety Nine only likes to eat grilled meat, obviously the burger is also quite good ...... When I have the opportunity next time, I will definitely bring her here to try it!"
-    },
-    "112201113": {
-        "Sinner": "Hella",
-        "Title": "Idle",
-        "File": "vo_hella_meishizhilv_idle_001",
-        "Text": "Hey, let me ask you, is there something special about Thursdays over here? Why is it that every time this day comes, the people who come here to eat are saying strange things? What ...... would they say even if they don't come? It's weird ...... can't figure out this place ......"
-    },
-    "112201114": {
-        "Sinner": "Hella",
-        "Title": "Annoyed",
-        "File": "vo_hella_meishizhilv_clicking_001",
-        "Text": "What for? Don't talk to me while you're eating! You want ketchup on your fries, not sweet and sour sauce? Ah...... don't listen to the Director's recitation!"
-    },
-    "112201115": {
-        "Sinner": "Hella",
-        "Title": "Special Attention",
-        "File": "vo_hella_meishizhilv_specialattention_001",
-        "Text": "How about that, isn't that a handsome fork! And ...... most importantly, it was given to me directly after those people took my picture! Heck, free stuff is always the best!"
     },
     "11220201": {
         "Sinner": "Che",
