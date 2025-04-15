@@ -2802,6 +2802,75 @@
         }
     },
     "162": {
+        "Id": 1051001,
+        "Quality": "Purple",
+        "DispatchTitle": "専門に合った仕事",
+        "DispatchDescription": "FACはニューシティのとある高校でM値が異常に上昇していることを検出した。初動調査の結果、その学校の生徒たちの間で、放課後の心霊話会が流行していることが判明した。そのため、真相を探るのに適切なコンビクトを派遣するよう管理局に依頼が来た。",
+        "DispatchSinners": {
+            "Sinner": "玉骨"
+        },
+        "BaseAward": {
+            "Reward Item": "感染されたゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "163": {
+        "Id": 1051002,
+        "Quality": "Green",
+        "DispatchTitle": "天からの功徳",
+        "DispatchDescription": "季節の変わり目に、多くの地域でインフルエンザが流行している。これが天からの功徳であると気付いたあるコンビクトは、外出して無料診察を行うことを強く希望した。",
+        "DispatchSinners": {
+            "Sinner": "無患子"
+        },
+        "BaseAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "懸濁ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "164": {
+        "Id": 1051003,
+        "Quality": "Blue",
+        "DispatchTitle": "同行する用心棒",
+        "DispatchDescription": "あるコンビクトと東洲の現地医術について学術的な討論をしたいと、彼岸から招待状が届いた。しかし、そのコンビクトはディスの人間ではないため、管理局からシンジケートまでのルートに詳しく、年齢も近いコンビクトに同行してもらう必要がある。",
+        "DispatchSinners": {
+            "Sinner 1": "無患子",
+            "Sinner 2": "ドリー"
+        },
+        "BaseAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生ゲル",
+            "Reward Qty": "1.0"
+        }
+    },
+    "165": {
+        "Id": 1051004,
+        "Quality": "Purple",
+        "DispatchTitle": "フロートキャラクター",
+        "DispatchDescription": "治安局に遊園地への放火予告の手紙が届いた。送り主は狂瞳武器を所持している疑いがあり、幻術に長けたコンビクトにフロートに乗ったキャラクターに変装してもらい、治安局と協力して現場を制御し、来場客を安全な場所へ誘導する必要がある。",
+        "DispatchSinners": {
+            "Sinner": "インイン"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "169": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "夢の解析",

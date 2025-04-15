@@ -2802,6 +2802,75 @@
         }
     },
     "162": {
+        "Id": 1051001,
+        "Quality": "Purple",
+        "DispatchTitle": "專業對口",
+        "DispatchDescription": "FAC監測到新城某高校內M值異常上升，初步調查得知，該校學生間正流行著舉辦通靈故事會的課後活動，特向管理局申請派一位合適的禁閉者協助探查真相。",
+        "DispatchSinners": {
+            "Sinner": "玉骨"
+        },
+        "BaseAward": {
+            "Reward Item": "感染凝膠",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生凝膠",
+            "Reward Qty": "1.0"
+        }
+    },
+    "163": {
+        "Id": 1051002,
+        "Quality": "Green",
+        "DispatchTitle": "天降功德",
+        "DispatchDescription": "季節交替，多地爆發流感，意識到這是天降的功德，某位禁閉者強烈要求外出義診。",
+        "DispatchSinners": {
+            "Sinner": "無患子"
+        },
+        "BaseAward": {
+            "Reward Item": "原生凝膠",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "懸濁凝膠",
+            "Reward Qty": "1.0"
+        }
+    },
+    "164": {
+        "Id": 1051003,
+        "Quality": "Blue",
+        "DispatchTitle": "隨行保鑣",
+        "DispatchDescription": "彼岸發來邀請，希望能與某位禁閉者就東洲本土醫術進行學術探討，鑒於該禁閉者非本地人，需要一位熟悉從管理局到辛迪加路線且年齡相仿的禁閉者陪同上路。",
+        "DispatchSinners": {
+            "Sinner 1": "無患子",
+            "Sinner 2": "多莉"
+        },
+        "BaseAward": {
+            "Reward Item": "原生凝膠",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生凝膠",
+            "Reward Qty": "1.0"
+        }
+    },
+    "165": {
+        "Id": 1051004,
+        "Quality": "Purple",
+        "DispatchTitle": "花車仙子",
+        "DispatchDescription": "治安局收到一封遊樂園縱火預告信，發信人疑似持有狂厄武器，急需一位精通幻術的禁閉者扮成花車仙子，協助治安局控制局面並將遊客引導至安全地帶。",
+        "DispatchSinners": {
+            "Sinner": "縈縈"
+        },
+        "BaseAward": {
+            "Reward Item": "感染囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "169": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "夢的解析",

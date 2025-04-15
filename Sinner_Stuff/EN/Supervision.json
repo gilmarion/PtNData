@@ -77,7 +77,7 @@
         "Sinner": "Demon",
         "Text": {
             "Text 1": "Demon seems a bit irritated during the regular hypnotherapy session.",
-            "Choice 2": "Ask",
+            "Choice 2": "Inquire",
             "Text 2": "Chief: Something wrong?",
             "Text 3": "Demon: You haven't assigned missions to me for a while.",
             "Text 4": "Demon: Why?",
@@ -190,9 +190,9 @@
             "Text 11": "OwO: ...",
             "Text 12": "You adjust and readjust the pieces of paper until she's satisfied. And then you step off the stool, massaging your aching arms.",
             "Text 13": "Chief: What are they for?",
-            "Text 14": "OwO: These are called <i>duilian</i>. We put them up every year. It's a tradition of my hometown.",
+            "Text 14": "OwO: These are called *duilian*. We put them up every year. It's a tradition of my hometown.",
             "Text 15": "OwO: You're a DisCitizen. I daresay you have no idea what they are. Hehe, let me explain it to you.",
-            "Text 16": "OwO: A set of <i>duilian</i> has two vertical rolls and one horizontal roll. You hang them on the doorframe to ward off bad luck and wish for good luck in the coming year.",
+            "Text 16": "OwO: A set of *duilian* has two vertical rolls and one horizontal roll. You hang them on the doorframe to ward off bad luck and wish for good luck in the coming year.",
             "Text 17": "OwO: Cool, huh? Want a set?"
         }
     },
@@ -601,7 +601,7 @@
             },
             "Path 2": {
                 "Choice 19": "Look for other solutions",
-                "Text 20": "Chief: Put up a <i>No Sleeping on Crops</i> sign.",
+                "Text 20": "Chief: Put up a *No Sleeping on Crops* sign.",
                 "Text 21": "Chief: Indicate with text and an image that these are edible plants and should not be crushed.",
                 "Text 22": "Vanilla: Will it work..."
             }
@@ -623,7 +623,7 @@
         "ID Num": 1010502,
         "Event Title": "The Real Deal",
         "Level": "⚠",
-        "Event Desc": "When it comes to anything <i>online</i>, Moore is second to none.",
+        "Event Desc": "When it comes to anything *online*, Moore is second to none.",
         "Sinner": "Moore",
         "Text": {
             "Text 1": "Once, when the Sinners are one player short in an online game, they drag Moore over to fill in. To no one's surprise, she ends up with a 0-0-0 score. After three days of intensive practice, Moore volunteers to try again. This time, to everyone's surprise, she makes everyone finish at a 0-0-0 score using only scripts and plugins and without even touching the keyboard.",
@@ -667,25 +667,25 @@
             "Text 2": "Chief: From the look of today's schedule, you should probably get two extra strong espressos to keep yourself alive... Hmm? Is that Moore?",
             "Choice 3": "Talk to Moore",
             "Text 3": "Chief: Good afternoon, Moore. Are you here to get coffee too? Looks like you've switched to a different kind. Trying something new?",
-            "Text 4": "Moore: Yawn... Good afternoon, Chief. You mean this, <i>Sleepless Night</i>? Well, in fact, I wanted to get my usual, but the kids over there recommended this to me...",
+            "Text 4": "Moore: Yawn... Good afternoon, Chief. You mean this, *Sleepless Night*? Well, in fact, I wanted to get my usual, but the kids over there recommended this to me...",
             "Text 5": "You follow her gaze and see a group of Sinners staring at the seemingly ordinary drink in Moore's hand excitedly. There are many... bags of coffee piled behind them.",
-            "Text 6": "Moore: According to them, so far, everyone who's tried <i>Sleepless Night</i> hasn't been able to fall asleep that night. So everyone pooled their money to organize a contest and are currently recruiting participants.",
+            "Text 6": "Moore: According to them, so far, everyone who's tried *Sleepless Night* hasn't been able to fall asleep that night. So everyone pooled their money to organize a contest and are currently recruiting participants.",
             "Text 7": "Chief: So the contest... is to see who can fall asleep after drinking this coffee? Those bags of coffee must be the prize for the winner, right?",
-            "Text 8": "Moore: Bingo, Chief. I'm curious... Yawn, how powerful <i>Sleepless Night</i> can be, and I happen to have to stock up on coffee, that's why I've joined, hehe.",
+            "Text 8": "Moore: Bingo, Chief. I'm curious... Yawn, how powerful *Sleepless Night* can be, and I happen to have to stock up on coffee, that's why I've joined, hehe.",
             "Choice 9": "Participate",
             "Text 9": "Chief: If it's really that effective... I should get one too.",
             "Text 10": "Chief: Hmm... It was made quite quickly, and doesn't smell much different from regular coffee. Now I just have to wait and see tonight. Maybe those boring documents will help me win?",
             "Text 11": "Moore: Actually, the taste isn't much different from the usual. I quite like it... Yawn.",
             "Text 12": "Moore: Well then, later, Chief. Yawn... I've still got work today. Better catch some sleep first... Oh, so sleepy...",
             "Text 13": "Chief: Alright, I'll tell you about it tomorrow.",
-            "Text 14": "Chief: ...Wait, did Moore just drink half a cup of <i>Sleepless Night</i>... and go back to sleep? Doesn't that mean the contest is already over..."
+            "Text 14": "Chief: ...Wait, did Moore just drink half a cup of *Sleepless Night*... and go back to sleep? Doesn't that mean the contest is already over..."
         }
     },
     "1010521": {
         "ID Num": 1010521,
         "Event Title": "Firewall",
         "Level": "⚠⚠⚠",
-        "Event Desc": "You ask Moore to design a <i>parental</i> control system.",
+        "Event Desc": "You ask Moore to design a *parental* control system.",
         "Sinner": "Moore",
         "Text": {
             "Text 1": "Certain Sinners' internet addiction is severely impacting their daily lives. The Bureau has attempted to correct them but with little success. So you decide to ask Moore to develop a parental control system to limit their internet access.",
@@ -716,7 +716,7 @@
                 "Text 20": "Chief: But why include such a mini-game? If the goal is to block websites, a simple static page would suffice, right?",
                 "Text 21": "Moore: Hehe, it's inspired by a well-known browser. Although it can't show you what you want to see, you can at least play a game to pass the time. Thoughtful, right?",
                 "Text 22": "Moore: Moreover, compared to an obvious warning page, a cute mini-game creates more of an illusion that this firewall isn't actually that powerful.",
-                "Text 23": "Chief: ...You're saying it actually serves as bait? Is it meant to deal with potential external attacks? But I only wanted a <i>wall</i> that could stop people from getting out...",
+                "Text 23": "Chief: ...You're saying it actually serves as bait? Is it meant to deal with potential external attacks? But I only wanted a *wall* that could stop people from getting out...",
                 "Text 24": "Moore: Oh, wouldn't that be boring? Besides... a wall always has two sides!",
                 "Text 25": "Moore: Let those who think they've pierced the spider's web find out they've actually been led into corrosive venom... Wouldn't that make a more intriguing twist?"
             }
@@ -743,7 +743,7 @@
             "Path 1": {
                 "Choice 11": "Are you talking about their street relatives?",
                 "Text 12": "Moore: Yeah, although they appear in the house, I guess they come from the streets, right? They're our uninvited guests.",
-                "Text 13": "Chief: I just hope there won't be any <i>uninvited guests</i> in the Bureau...",
+                "Text 13": "Chief: I just hope there won't be any *uninvited guests* in the Bureau...",
                 "Text 14": "Moore: Don't worry, I've never seen these guests in my own home, and now in the Bureau... I don't think I've seen any either.",
                 "Text 15": "Moore: But these little guys are very smart. If I do encounter them here, Chief, you might need to be careful!",
                 "Text 16": "Moore: Who knows, they might tell me little secrets about the Bureau that I can't find online!"
@@ -754,7 +754,139 @@
                 "Text 19": "Moore: No, I've never had a pet like that. Although they look nice, I've heard they're quite dumb. Any little noise will scare them to death. They can't survive in the dark.",
                 "Text 20": "Chief: I thought you'd say that. You're quite pragmatic after all, Moore. Besides, you can't even take care of yourself. Your pet probably won't live long...",
                 "Text 21": "Moore: Haha, that could happen. Besides, I do prefer clever little creatures!",
-                "Text 22": "Moore: For example... those who survive well enough in the cracks in the dark and know many secrets one can't find on the internet. Maybe I can find these <i>creatures</i> in the Bureau too! I must learn a lesson or two from them."
+                "Text 22": "Moore: For example... those who survive well enough in the cracks in the dark and know many secrets one can't find on the internet. Maybe I can find these *creatures* in the Bureau too! I must learn a lesson or two from them."
+            }
+        }
+    },
+    "1010601": {
+        "ID Num": 1010601,
+        "Event Title": "Midnight Worker",
+        "Level": "⚠",
+        "Event Desc": "You receive a complaint from a staff member.",
+        "Sinner": "Yugu",
+        "Text": {
+            "Text 1": "You receive a complaint from a staff member—\"I keep getting pulled into strange alternate dimensions at midnight to act as an NPC in horror stories. Working both day and night shifts is really wearing me out.\"",
+            "Choice 2": "Talk to Yugu"
+        }
+    },
+    "1010602": {
+        "ID Num": 1010602,
+        "Event Title": "The Anonymous Donor",
+        "Level": "⚠",
+        "Event Desc": "You discover some unfamiliar books in the library.",
+        "Sinner": "Yugu",
+        "Text": {
+            "Text 1": "You find several plainly bound volumes of *Eastian Folk Tales* on the library shelves. Staff mentions these were donated by a Sinner free of charge.",
+            "Choice 2": "Review the content first"
+        }
+    },
+    "1010611": {
+        "ID Num": 1010611,
+        "Event Title": "Yugu's Troubles",
+        "Level": "⚠⚠",
+        "Event Desc": "Something seems to be troubling Yugu.",
+        "Sinner": "Wuhuanzi",
+        "Text": {
+            "Text 1": "Yugu: Sigh...",
+            "Text 2": "Across the dining table, Yugu picks up her chopsticks only to set them down again, letting out a long, weary sigh. You pause your meal and look up at her.",
+            "Choice 3": "What's wrong?",
+            "Text 4": "Yugu: Ever since joining the Bureau, I've barely seen our little herbalist. But we used to run into each other all the time at the fete.",
+            "Text 5": "Yugu: In all my years of wandering, I've made but a few close acquaintances. After all we've been through together, I thought we had forged a bond through our shared tribulations.",
+            "Text 6": "Yugu: Alas... how delicate are the ties that bind us together as people.",
+            "Text 7": "Chief: There must be a reason for this.",
+            "Text 8": "You recall running into Wuhuanzi in the hallway the other day, when she voiced relevant concerns...",
+            "Text 9": "Wuhuanzi: My friend, here at the Bureau... I aim to steer clear of any entanglements with that taleteller.",
+            "Choice 10": "Ask about the reason",
+            "Text 11": "Wuhuanzi: Nothing good ever comes from crossing paths with her. Well... I mean, I'm terribly unlucky even without her around, but that's a different kind of misfortune altogether.",
+            "Text 12": "Wuhuanzi: Not only does she drag me into bizarre tales without warning, but I have to listen to all her disturbing accounts. It's always about destruction this, death that, and horrifying monsters...",
+            "Text 13": "Wuhuanzi: With my awful luck, despite all my wandering, in this vast world we somehow always end up in the same place. And now we're even working together at the Bureau...",
+            "Text 14": "Wuhuanzi: If I can't stand against her, I'll simply steer clear. And if avoidance isn't an option... well, I can always just stay in my room, right?",
+            "Text 15": "Afterward, Wuhuanzi recounts several of her miserable experiences to you.",
+            "Choice 16": "Reason with Yugu",
+            "Text 17": "Chief: Wuhuanzi has been through a lot of hardships. She needs time at the Bureau to find her emotional footing. When she's ready, perhaps she'll be able to face you properly.",
+            "Text 18": "Chief: Ahem... Just because you find someone interesting doesn't mean you should keep pulling them into your stories. You need to consider how they feel about it.",
+            "Text 19": "Yugu gives you a meaningful look."
+        }
+    },
+    "1010612": {
+        "ID Num": 1010612,
+        "Event Title": "A Different Beauty",
+        "Level": "⚠⚠",
+        "Event Desc": "The Bureau hosts a floral arrangement competition. One entry stands out from the rest.",
+        "Sinner": "Yugu",
+        "Text": {
+            "Text 1": "The Bureau is holding a flower arrangement competition. Both Sinners and staff members are eligible to vote by placing their provided rose into the vase in front of their chosen creation.",
+            "Text 2": "While everyone buzzes with excitement about who might win first place, you suddenly notice an arrangement of wilted flowers—and behind it stands Yugu, looking perfectly composed.",
+            "Choice 3": "Ask for details",
+            "Text 4": "Chief: Did something go wrong with your arrangement?",
+            "Text 5": "Yugu: Nothing went wrong at all.",
+            "Text 6": "Chief: Then...",
+            "Text 7": "Yugu: This is exactly what I intend to present.",
+            "Text 8": "While other arrangements draw crowds of admirers, Yugu's creation stands in silent solitude. You step forward and place your rose in the vase before her piece.",
+            "Text 9": "Yugu: Heh, there's no need for a sympathy vote. There's beauty to be found in wilted life, and I believe... I'm not the only one who can appreciate such beauty.",
+            "Text 10": "To your surprise, Yugu's arrangement advances all the way to the top four.",
+            "Text 11": "Chief: Is this what they call \"art\"?"
+        }
+    },
+    "1010621": {
+        "ID Num": 1010621,
+        "Event Title": "Binge in Moderation",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "The equipment in the Darkroom has been running all night. You go to investigate.",
+        "Sinner": "Yugu",
+        "Text": {
+            "Text 1": "Supervision System:\nElectronic equipment in the Darkroom has been running for over 8 hours. Go and check?",
+            "Choice 2": "Yes",
+            "Text 3": "You step into the Darkroom. Illuminated dimly, the face of a captivated Sinner is bathed in the glow emanating from the large screen.",
+            "Text 4": "Chief: Yugu?",
+            "Text 5": "Yugu: Ah, you're here? Your timing is perfect, simply perfect.",
+            "Text 6": "Before you can react, Yugu pulls you in front of the screen. Her slender hands press down on your shoulders, guiding you to sit beside her.",
+            "Text 7": "Yugu: I have been catching up on a popular DisCity reality show about matters of the heart. To my utter astonishment, I have been utterly captivated—an entire night has slipped away as if in a fleeting breath. I find myself unable to break free from its spell.",
+            "Text 8": "You try to get a word in, but Yugu continues with growing enthusiasm.",
+            "Text 9": "Yugu: Love, timeless as it is, who can truly claim to know its depths? Before these lenses, all is laid bare—the heartbroken maidens, the lovesick men, the beauties and their admirers, their unspoken desires, and their secret obsessions.",
+            "Text 10": "Yugu: Yet, the true treasure lies in that poignant epiphany, where ardor yields to the realization that they were destined for divergent journeys, their paths merely crossing briefly to paint their youth with splendor—",
+            "Text 11": "Yugu: Like flowers that must wither, their parting is already written in stone. Oh, what a heartbreaking tale of modern love! Won't you stay and witness their final moments with me?",
+            "Path 1": {
+                "Choice 12": "Sure.",
+                "Text 13": "Yugu makes you watch the entire show with her. It feels like you've been forced to work an extra shift—your whole body aches from sitting through it all.",
+                "Text 14": "Chief: Maybe it's time to enable parental controls and limit Yugu's screen time."
+            },
+            "Path 2": {
+                "Choice 15": "Politely decline",
+                "Text 16": "Chief: If the ending is already set in stone, what's the point of watching?",
+                "Text 17": "Yugu: Happy endings are not rare in this world, yet it's the tragedies that echo through time. Only regret can make one's soul tremble, leaving its mark forever etched in memory—",
+                "Text 18": "As Yugu's narrative grows more impassioned, the room temperature seems to rise with her fervor. You struggle to your feet and inch towards the door.",
+                "Text 19": "Chief: Let's not overdo the binge-watching. The poor device deserves a break."
+            }
+        }
+    },
+    "1010622": {
+        "ID Num": 1010622,
+        "Event Title": "Unusual Tear-Jerking Criteria",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "You find Yugu in the library.",
+        "Sinner": "Yugu",
+        "Text": {
+            "Text 1": "Passing by the library corridor, you catch the distinct scent of incense. Following the fragrance, you find Yugu gently waving her folding fan, completely engrossed in a magazine.",
+            "Text 2": "Chief: When she's not speaking, she really does fit everyone's image of a refined Eastian lady.",
+            "Text 3": "But then, without warning, two glistening tears trace their way down Yugu's cheeks.",
+            "Choice 4": "Speak up and ask",
+            "Text 5": "Chief: Yugu, are you alright?",
+            "Text 6": "Yugu: Ah, how unseemly of me to display such emotions... Please forgive my impropriety.",
+            "Text 7": "Chief: What are you reading? Must be quite moving to bring you to tears.",
+            "Text 8": "Yugu holds up the magazine with both hands, revealing its boldly printed title—*Inside DisCity*.",
+            "Text 9": "Chief: I remember this magazine. They love to blow trivial matters way out of proportion, making mountains out of molehills and turning a three-line story into a three-page drama.",
+            "Choice 10": "Ask what moved her to tears",
+            "Text 11": "Yugu: As the world deteriorates and authentic suffering remains unseen, this magazine is awash with mere trivial gossip. Is that not worthy of bitter laughter?",
+            "Text 12": "Yugu: This grand edifice, beautiful on the outside yet hollow within... Oh, how magnificent it would be when it crumbles! Just imagining that scene makes me... absolutely thrilled.",
+            "Path 1": {
+                "Choice 13": "Agree",
+                "Text 14": "Chief: Pardon my concern. I see those were tears of... pleasure."
+            },
+            "Path 2": {
+                "Choice 15": "Disagree",
+                "Text 16": "Chief: Perhaps that's why we exist—to create a world where people only need to worry about life's little things.",
+                "Text 17": "Yugu: You truly are a fascinating soul... Ha..."
             }
         }
     },
@@ -1048,7 +1180,7 @@
             "Text 5": "Inquirer: Excuse me, I've heard that your heart has stopped beating. Is that true?",
             "Text 6": "NOX: ...",
             "Text 7": "NOX: Yes.",
-            "Text 8": "Inquirer: Some say you're the <i>Sinner Grim Reaper</i>, and you go around and hunt Sinners. Is that true?",
+            "Text 8": "Inquirer: Some say you're the *Sinner Grim Reaper*, and you go around and hunt Sinners. Is that true?",
             "Text 9": "NOX: ...Yes.",
             "Text 10": "Inquirer: Then are you gonna hunt me?",
             "Text 11": "NOX: If the time comes... I'll help you find relief.",
@@ -1396,14 +1528,14 @@
             "Text 2": "Chief: Hmm, why were there so many fire alerts this month? All were small fires... And why did the locations overlap with Yao's movements?",
             "Text 3": "Chief: Hasn't she already gone through some special training in controlling her power? It's been a long time since she caused an accident of this nature. Could something have happened? Gotta have a talk with her.",
             "Text 4": "When you track her down in the Outdoor Activity Area, Yao is surrounded by a group of Sinners, her hands hovering over the head of the Sinner sitting cross-legged in front of her. She is immersed in what appears to be a religious ritual, while the bystanders watch with bated breath.",
-            "Text 5": "Chief: Is this some kind of secret meeting hosted by some mysterious priest? Luvia Ray... What are <i>you</i> doing here?",
+            "Text 5": "Chief: Is this some kind of secret meeting hosted by some mysterious priest? Luvia Ray... What are *you* doing here?",
             "Text 6": "Luvia Ray: Ah, Chief! So news of Miss Yao's reputation has reached you too, huh? Haha, I've come at just the right time, it seems. She is like a big sister to me. With her help, I'm definitely gonna nail the audition!",
             "Text 7": "Chief: Big sister? She may be younger than you... That's not the point here. The point is you shouldn't believe everything she says. Did she \"predict\" the outcome of your audition for you? For all I know, she probably has no idea what an audition is.",
             "Text 8": "Luvia Ray: Predict the outcome of my audition? What are you talking about, Chief? I'm just here to have my hair permed. Aren't you here to get a new hairstyle too?",
             "Choice 9": "A perm...?",
             "Text 10": "Yao: Well, that should do it. One minute longer, the hair might start smoking; I don't want to set off the alarm. Now, what do you think of the perm?",
             "Text 11": "Luvia Ray: Wow, it looks amazing! The curls look so natural. Please do my hair now! I want the same perm. The character I'm auditioning for has natural curls too!",
-            "Text 12": "Chief: So you <i>are</i> doing perms for people... Could this have anything to do with those fire alerts?",
+            "Text 12": "Chief: So you *are* doing perms for people... Could this have anything to do with those fire alerts?",
             "Text 13": "Yao: Sorry, I think I'm the one to blame. My skill still leaves much to be desired; I tend to use too much heat. Besides, I don't have any previous experience; not many Eastians are fond of curly hair...",
             "Text 14": "Chief: Oh, it's quite all right, as long as there is no actual risk of fire. Anyway, I'm surprised that you're willing to use your power to do perms for others.",
             "Text 15": "Yao: Why not? It brings me joy using my power to make others feel good about themselves. Much better than using it to burn everything to the ground. If you're interested, I'm more than happy to offer you my services."
@@ -1442,7 +1574,7 @@
         "Text": {
             "Text 1": "The Bureau's annual party is just around the corner, but Yao seems clueless about the party and its gift exchange segment.",
             "Choice 2": "Explain to her",
-            "Text 2": "Chief: The word <i>exchange</i> may be misleading. It's more like a prize draw, due to the sheer number of participants. It is a random process; no one knows whose gift they're gonna get. I suggest you prepare something that anybody can find a use for. Nothing too expensive...",
+            "Text 2": "Chief: The word *exchange* may be misleading. It's more like a prize draw, due to the sheer number of participants. It is a random process; no one knows whose gift they're gonna get. I suggest you prepare something that anybody can find a use for. Nothing too expensive...",
             "Text 3": "Yao: I didn't realize that this gift-exchange event was not as simple as it seemed. Thank you. I'll give it some thought.",
             "Text 4": "Then comes the day of the party. The Sinners place their boxes in the designated area. You put down yours, which contains a coupon that grants the receiver your cooperation in the event of their choice for 24 hours.",
             "Text 5": "Chief: This pink one must be Oliver's. Ah, No. 6 is a big one... Could it be Yao's? It must be. She has certainly put her heart into her gift. Who will be the lucky one?",
@@ -1505,7 +1637,7 @@
                 "Text 19": "Chief: Like using your power to help preserve endangered species.",
                 "Text 20": "Yao: You're right again. This is a chicken egg. I hear they'll have me try eggs of other avian species next. It's an ongoing project.",
                 "Text 21": "Yao: It fills me with emotion to think that I might be able to help bring a new life into this world...",
-                "Text 22": "Chief: It <i>is</i> awe-inspiring and soul-stirring to witness the birth of a new life. I still remember the exhilaration I felt when I witnessed your rebirth..."
+                "Text 22": "Chief: It *is* awe-inspiring and soul-stirring to witness the birth of a new life. I still remember the exhilaration I felt when I witnessed your rebirth..."
             }
         }
     },
@@ -1571,7 +1703,7 @@
             "Text 3": "Chief: Pylgia, what are you doing here?",
             "Text 4": "Pylgia: Humans... don't belong under the water... It's dark here... dangerous...",
             "Text 5": "Pylgia: I must eliminate the threats... save them... This is my duty.",
-            "Text 6": "She says and immediately dives back into the water, dragging up a maintenance worker who's barely been down there for five minutes, <i>rescuing</i> him to the poolside.",
+            "Text 6": "She says and immediately dives back into the water, dragging up a maintenance worker who's barely been down there for five minutes, *rescuing* him to the poolside.",
             "Text 7": "The entire process takes less than two seconds.",
             "Choice 8": "Try to explain",
             "Text 8": "Chief: We're not in DisSea, so the water here is perfectly safe. Besides, the maintenance crew has all the safety equipment they need. There's practically no risk of danger.",
@@ -1615,7 +1747,7 @@
                 "Text 22": "Chief: By the way, do you still remember who told you he would die if he didn't catch a breather at work?",
                 "Text 23": "Pylgia: I remember... him...",
                 "Text 24": "You gently coax Pylgia out of the touch pool and try to explain to her the true meaning of the sentence she overheard.",
-                "Text 25": "Later, based on Pylgia's description, you track down the <i>culprit</i> Che and tell him to stop encouraging others to slack off at work."
+                "Text 25": "Later, based on Pylgia's description, you track down the *culprit* Che and tell him to stop encouraging others to slack off at work."
             }
         }
     },
@@ -2197,7 +2329,7 @@
         "Event Desc": "Your hair seems to be getting a bit too long these days.",
         "Sinner": "Adela",
         "Text": {
-            "Text 1": "Your hair seems to be getting a bit too long these days, but you're not in the mood to either visit a hair salon outside or trim it yourself.\nAfter thorough consideration, you finally decide to <i>risk it</i> and ask Adela for help.",
+            "Text 1": "Your hair seems to be getting a bit too long these days, but you're not in the mood to either visit a hair salon outside or trim it yourself.\nAfter thorough consideration, you finally decide to *risk it* and ask Adela for help.",
             "Text 2": "Chief: Hopefully, this time I'll only get my hair trimmed off.",
             "Text 3": "Chief: Small troubles can be enjoyable sometimes, after all.",
             "Choice 4": "Visit Adela",
@@ -2556,7 +2688,7 @@
         "Event Desc": "The Bureau's literacy course attendance has hit a new high recently.",
         "Sinner": "000",
         "Text": {
-            "Text 1": "Since 000 came to the Bureau, the literacy courses' attendance has seen a significant improvement. Even a few habitual truants manage to sit through an entire class... If <i>their</i> little idiosyncrasies during class didn't remind you so much of 000 who disappeared from the surveillance footage, it would indeed be good news.",
+            "Text 1": "Since 000 came to the Bureau, the literacy courses' attendance has seen a significant improvement. Even a few habitual truants manage to sit through an entire class... If *their* little idiosyncrasies during class didn't remind you so much of 000 who disappeared from the surveillance footage, it would indeed be good news.",
             "Choice 2": "So 000 is such a keen learner",
             "Text 3": "Chief: Then let's sign her up for the class too."
         }
@@ -2572,16 +2704,16 @@
             "Text 2": "Chief: Hmm? Is it just me or is there someone outside the door?",
             "Choice 3": "Speak up just in case",
             "Text 3": "Chief: The bath is in use now. Please come back in a moment!",
-            "Text 4": "000: >x< Hey dear! I just tried <i>hunting for late-night snacks</i> in the cafeteria like the others told me to, and the lady gave me this...",
+            "Text 4": "000: >x< Hey dear! I just tried *hunting for late-night snacks* in the cafeteria like the others told me to, and the lady gave me this...",
             "Text 5": "Chief: Is it 000...? Well, I won't be surprised if she knows I'm here... But why is she still trying to open the door?",
             "Text 6": "000: Dear, do you hear me? Look, I've got a peach-flavored ice cream in the shape of a peach!",
             "Text 7": "Just as the bathroom door is about to be forced open by 000, you jump out of the bath vigilantly and put on a bathrobe in a split second.",
             "Choice 8": "Educate 000",
-            "Text 8": "Chief: I understand you're excited to share your news, and I'm happy to oblige when I have time, but clearly not while I'm taking a bath. 000, perhaps we can talk about the concept of <i>boundary</i> sometime?",
-            "Text 9": "000: <i>Boundary</i>? Alright then, if you say so, I'll add it to my study list.",
+            "Text 8": "Chief: I understand you're excited to share your news, and I'm happy to oblige when I have time, but clearly not while I'm taking a bath. 000, perhaps we can talk about the concept of *boundary* sometime?",
+            "Text 9": "000: *Boundary*? Alright then, if you say so, I'll add it to my study list.",
             "Text 10": "000: Search done, reading done, comprehension done! But I still don't get why it's not okay while you're taking a bath.",
-            "Text 11": "000: You see, many people have their devices nearby while showering! A device can only play you music, but I can chat with you! Why would you want to set a <i>boundary</i> with me?",
-            "Text 12": "Chief: Have you considered that to me, you're not a device, software, the internet, or an object I own, but a living <i>person</i>?",
+            "Text 11": "000: You see, many people have their devices nearby while showering! A device can only play you music, but I can chat with you! Why would you want to set a *boundary* with me?",
+            "Text 12": "Chief: Have you considered that to me, you're not a device, software, the internet, or an object I own, but a living *person*?",
             "Text 13": "000: Is... is that so? >////< Oh, why is my face turning red? Is it because of the steam? I must go now. I need to configure my body!",
             "Text 14": "Chief: Is it just me... or did she seem shy?"
         }
@@ -2601,7 +2733,7 @@
             "Text 5": "000: Here you are! Yes, ever since people found out I can connect to the high-dimensional world, they've been curious about what it's like and want me to show them!",
             "Text 6": "000: It's harder than it looks, you know. After all, there's so much data in the high-dimensional world! If it weren't for my strong computational power, it would be difficult to draw conclusions in a short time!",
             "Text 7": "000 excitedly lists the Sinners in the high-dimensional world that she wants to learn about and the topics they're interested in. You realize that covers the better part of the Bureau's staff.",
-            "Text 8": "000: ...Some of them are curious about really particular things. That's quite unexpected! It's almost as if they're guiding us on this <i>virtual tour in the high-dimensional world</i>!",
+            "Text 8": "000: ...Some of them are curious about really particular things. That's quite unexpected! It's almost as if they're guiding us on this *virtual tour in the high-dimensional world*!",
             "Text 9": "Letta: Let me see, let me see... Oh, all the things I'm curious about have already been brought up! We must be able to find all the interesting things in the high-dimensional world already with all these keywords, right?",
             "Text 10": "000: Hmm, let me think... I know! Why don't we search to see how the high-dimensional beings feel about you guys? As in... if they find you guys likable or not?",
             "Text 11": "000: This is quite an interesting topic, right? With the result, perhaps you can try to make yourself even more likable!",
@@ -2626,7 +2758,7 @@
             "Text 5": "000: Hey, there you are! Come and try the homemade beef bourguignon lunchbox I've made!",
             "Text 6": "000 picks up a piece of beef enthusiastically and signals you to open your mouth. You glance at Ignis next to her and decide you can trust a cooking lesson given by her, so you do as told.",
             "Text 7": "Chief: Hmm... The initial taste is very salty, with a hint of the unique sour bitterness of red wine. But the subsequent sweetness masks the flavors completely... Um... 000, good job. Don't try that again...",
-            "Text 8": "000: Oh, did I mess up >^<? Cooking is really hard. You can't just tweak it like data. What do <i>to taste</i>, <i>thicken the sauce</i>, and <i>according to your preference</i> even mean anyway? I don't get it at all!",
+            "Text 8": "000: Oh, did I mess up >^<? Cooking is really hard. You can't just tweak it like data. What do *to taste*, *thicken the sauce*, and *according to your preference* even mean anyway? I don't get it at all!",
             "Text 9": "Ignis: Hey, don't get so frustrated. Didn't you say you can't taste saltiness? In that case, this is actually not bad!",
             "Text 10": "000: But don't they say good cooking is the key to one's heart? Should I give up and try something else?",
             "Path 1": {
@@ -2646,7 +2778,7 @@
                 "Text 20": "Chief: Oh? Can you tell me more?",
                 "Text 21": "000: Of course! Although I can't handle recipes without specified data, a quick search shows that there are in fact many recipes with precise steps telling you how many seconds you should heat the food in each step!",
                 "Text 22": "000: Although a lot of these are encrypted and hard to access, for me it's just a piece of cake >uuu<",
-                "Text 23": "000: As long as I make use of these modern recipes called <i>ready meals</i>, I'm sure even I will be capable of making delicious lunchboxes!",
+                "Text 23": "000: As long as I make use of these modern recipes called *ready meals*, I'm sure even I will be capable of making delicious lunchboxes!",
                 "Text 24": "Chief: I think that's somebody's trade secret. 000, Stop it..."
             }
         }
@@ -2673,7 +2805,7 @@
                 "Text 10": "Chief: If you say so, I'll leave it to you, 000.",
                 "Text 11": "000: Hehe, access received. Super AI assistant 000 will start working now!",
                 "Text 12": "Chief: Hmm? Wait a second, 000. Are you sure you're processing the right files? Why are you looking at the photo app and the contacts?",
-                "Text 13": "000: With my computational power, those files require literally <i>just a second</i> to process! Don't worry!",
+                "Text 13": "000: With my computational power, those files require literally *just a second* to process! Don't worry!",
                 "Text 14": "000: Let me first upload all your photos to the cloud, leaving only my beautiful selfies locally. Then I'll change your icon to a picture with me, and your name to 0[heart]0... And then I'll get to your work files!",
                 "Text 15": "Chief: Looks like I'll have to take back your access and send a mass message to all my contacts to say I've been hacked..."
             },
@@ -3247,7 +3379,7 @@
             },
             "Path 2": {
                 "Choice 21": "Don't intervene",
-                "Text 22": "Chief: Maybe you should follow her discreetly to note down all these <i>secret messages</i>.",
+                "Text 22": "Chief: Maybe you should follow her discreetly to note down all these *secret messages*.",
                 "Text 23": "Chief: I'll go after them one by one and catch them red-handed tomorrow!"
             }
         }
@@ -3799,13 +3931,13 @@
         "Event Desc": "Sheriff never drinks milk.",
         "Sinner": "Korryn",
         "Text": {
-            "Text 1": "\"Sheriff\": \"Hello there, esteemed and generous MBCC Chief!\"",
+            "Text 1": "Korryn: \"Hello there, esteemed and generous MBCC Chief!\"",
             "Text 2": "In front of a dining tray, a bright-eyed reptile flicks out its tongue to lick its eyes.",
-            "Text 3": "\"Sheriff\": \"Hmm... Now that I'm done buttering you up, can I be real with you?\"",
+            "Text 3": "Korryn: \"Hmm... Now that I'm done buttering you up, can I be real with you?\"",
             "Choice 4": "Please, go ahead.",
-            "Text 5": "\"Sheriff\": \"Honestly, the food here is pretty good, but the drinks could use some work...\"",
+            "Text 5": "Korryn: \"Honestly, the food here is pretty good, but the drinks could use some work...\"",
             "Text 6": "Korryn cradles Sheriff in her hands, maneuvering its little front legs to execute a miniature salute.",
-            "Text 7": "\"Sheriff\": \"In my humble opinion, you should serve something more authentic, more pure... something us desert bandits really dig...\"",
+            "Text 7": "Sheriff: \"In my humble opinion, you should serve something more authentic, more pure... something us desert bandits really dig...\"",
             "Text 8": "Korryn: That's right, something deliciously tempting!",
             "Text 9": "Chief: Unfortunately, the Bureau won't authorize the diner to serve alcohol.",
             "Text 10": "Korryn: What? No, no, no—I never touch that stuff!",
@@ -3949,7 +4081,7 @@
             "Text 9": "Eirene: Perhaps we should learn to pick good books instead of buying more books.",
             "Text 10": "Eirene: I wrote a list of books. You can buy the books that I picked.",
             "Choice 11": "Read the list",
-            "Text 12": "<i>Classic Commercialized Strategy</i>, <i>Outland Trading 101</i>, <i>Hypercube Black Market Overview</i>...",
+            "Text 12": "*Classic Commercialized Strategy*, *Outland Trading 101*, *Hypercube Black Market Overview*...",
             "Text 13": "Chief: Eirene... are you sure anyone will want to read these except you?",
             "Text 14": "Eirene: Perhaps we can start from you, Chief. You will lead by example.",
             "Text 15": "Chief: ...",
@@ -3966,7 +4098,7 @@
             "Text 1": "You passed by the library and saw Eirene holding a book in her hands and leaning against a door. She seems to be smiling and in a good mood. You got curious.",
             "Text 2": "Chief: Eirene, what are you reading?",
             "Text 3": "Chief: Is it something interesting? You look happy.",
-            "Text 4": "Eirene: <i>The Research On Folkloristics</i>.",
+            "Text 4": "Eirene: *The Research On Folkloristics*.",
             "Text 5": "Chief: ...Folkloristics?",
             "Text 6": "Chief: You are interested in something like that?",
             "Text 7": "Eirene: Not really. This is the first time I have read such a book.",
@@ -4119,7 +4251,7 @@
                 "Choice 8": "Express doubts",
                 "Text 9": "Chief: You said my soul was sky blue yesterday...",
                 "Text 10": "Stargazer presses a finger against your lips.",
-                "Text 11": "Stargazer: Sh! Don't be so cheeky, my little monster. <i>You can't step in the same river twice.</i> You must have heard of that, right? Similarly, the color of a soul varies from day to day.",
+                "Text 11": "Stargazer: Sh! Don't be so cheeky, my little monster. *You can't step in the same river twice.* You must have heard of that, right? Similarly, the color of a soul varies from day to day.",
                 "Text 12": "Stargazer: Now, stop doubting everything.",
                 "Text 13": "Stargazer: We'll meet again sometime tomorrow. I hope the color of your soul will be as pure as it is now."
             },
@@ -4224,9 +4356,9 @@
             "Text 6": "Etti: No worries, I'll just watch on the side.",
             "Text 7": "She moves through the Training Room packed with Sinners and keeps talking to herself as she walks.",
             "Choice 8": "Follow and listen to what she's saying",
-            "Text 9": "Etti: Wow, what a huge hammer! <i>Huge Hammer</i> it is! Sounds exactly like what it is!",
-            "Text 10": "Etti: <i>Rusty Chainsaw</i>. Nice. It's mysterious and dramatic.",
-            "Text 11": "Etti: Hmm... Double swords are indeed cool. Let's call them <i>Meat Choppers</i>...",
+            "Text 9": "Etti: Wow, what a huge hammer! *Huge Hammer* it is! Sounds exactly like what it is!",
+            "Text 10": "Etti: *Rusty Chainsaw*. Nice. It's mysterious and dramatic.",
+            "Text 11": "Etti: Hmm... Double swords are indeed cool. Let's call them *Meat Choppers*...",
             "Text 12": "Etti: ...",
             "Text 13": "Chief: Your naming system seems a bit arbitrary..."
         }
@@ -4416,7 +4548,7 @@
             "Text 14": "Raven: You know that my special ability consumes my Mania power and it drains me. I can't use it too frequently.",
             "Text 15": "Raven: Moreover, I do train myself physically. Running and weightlifting count as training too, don't they?",
             "Text 16": "Chief: ...",
-            "Text 17": "Raven: Also, look, my ability is used for <i>recording</i> things around me. Their existence is meaningful to me.",
+            "Text 17": "Raven: Also, look, my ability is used for *recording* things around me. Their existence is meaningful to me.",
             "Text 18": "Raven: If I waste my power on those pointless training sessions, won't it be too unfair for these meaningful things?",
             "Text 19": "Chief: Alright... In a way, I get what you mean. Let me design another training plan that's more suitable for you.",
             "Text 20": "Raven: No rush. First, why don't you take a look at this poem I just wrote...",
@@ -4465,7 +4597,7 @@
             "Path 2": {
                 "Choice 18": "In fact...",
                 "Text 19": "Chief: In fact, she's here.",
-                "Text 20": "K.K.: Oh, great! Thank you, Chief. I'll have a <i>civilized</i> chat with her now.",
+                "Text 20": "K.K.: Oh, great! Thank you, Chief. I'll have a *civilized* chat with her now.",
                 "Text 21": "Chief: Cool it, guys! Just talk it out, no fighting...",
                 "Text 22": "Chief: Raven, just come out and explain yourself.",
                 "Text 23": "Raven: H-hey... I'm sorry, K.K. But I do really need them so much.",
@@ -4885,7 +5017,7 @@
                 "Text 23": "Surprise flickers across Vautour Bleu's eyes. After a moment's contemplation, she gives a wry smile.",
                 "Text 24": "Vautour Bleu: I can't quite figure it out.",
                 "Text 25": "Vautour Bleu: I'm afraid I'm far too bitter to be any kind of dessert.",
-                "Text 26": "Chief: Hmm... but then again, who says I have to be a dessert?",
+                "Text 26": "Chief: Hmm... but then again, who says you have to be a dessert?",
                 "Text 27": "Chief: After all, the bitterness of strong tea has its own distinct charm."
             }
         }
@@ -4929,6 +5061,153 @@
                 "Text 27": "Vautour Bleu: Besides, I have your delightful company today, don't I?",
                 "Text 28": "Vautour Bleu stretches contentedly.",
                 "Text 29": "Vautour Bleu: It's getting late... Shall we have dinner together?"
+            }
+        }
+    },
+    "1050901": {
+        "ID Num": 1050901,
+        "Event Title": "A Delicate Sapling",
+        "Level": "⚠",
+        "Event Desc": "As a sapling, Yingying exhibits the typical traits of any indoor houseplant.",
+        "Sinner": "Yingying",
+        "Text": {
+            "Text 1": "The Bureau staff, yourself included, have been meticulously monitoring everything—soil composition, water levels, hours of sunlight—to ensure the wisteria grows strong and healthy. Yet Yingying still finds reasons to droop dramatically all day, whether it's \"someone gave me one drop too much water\" or \"Chief spent five minutes less time with me today.\"",
+            "Choice 2": "You're a big sapling now, you know.",
+            "Text 3": "Chief: If something's wrong, you should just speak up, don't you think?"
+        }
+    },
+    "1050902": {
+        "ID Num": 1050902,
+        "Event Title": "The Charging Station",
+        "Level": "⚠",
+        "Event Desc": "Word has spread about a peculiar tree in the greenhouse known as the Charging Station.",
+        "Sinner": "Yingying",
+        "Text": {
+            "Text 1": "Bureau employees have started calling one tree in the greenhouse their \"charging station.\" They say anyone who naps beneath it falls into a peaceful slumber, experiencing pleasant dreams and waking up completely refreshed. Upon investigation, you find Yingying—unseen by others—perched in its branches, singing softly.",
+            "Choice 2": "Well, it is break time after all.",
+            "Text 3": "Chief: I think I'll join in."
+        }
+    },
+    "1050911": {
+        "ID Num": 1050911,
+        "Event Title": "Spiritual Sleep Aid",
+        "Level": "⚠⚠",
+        "Event Desc": "For once, you sleep soundly through the night without stirring. Could someone be watching over you?",
+        "Sinner": "Yingying",
+        "Text": {
+            "Text 1": "Chief's health analysis report received. Source: Medical Department. Summary: Chief's average sleep duration and sleep continuity have shown significant improvement this month, with positive health outcomes.",
+            "Choice 2": "Check report",
+            "Text 2": "Chief: Hmm... Now that I think about it, I have been sleeping much better this month. Not many sudden wakeup calls or urgent consultation requests in the dead of night either.",
+            "Text 3": "Chief: But why the sudden change though? I've reminded those departments countless times not to abuse the emergency hotline for non-urgent matters, but they always insisted everything was \"absolutely urgent\"...",
+            "Text 4": "Yingying: Teehee, maybe it's because my sweetheart is just so kind and gentle that the wisteria flowers thought to give you some extra care.",
+            "Text 5": "Chief: Yingying? Is it you? Don't tell me you've been... staying up all night watching over me?",
+            "Text 6": "Yingying: With how late you stay up, it's hardly \"all night,\" is it? Besides, I sleep plenty when you're too busy to keep me company. No need for that worried look!",
+            "Text 7": "Yingying: Besides, I barely did anything! I just answered the calls before they could wake you up. Lucky for us, even in this form I can still communicate through those... what do you call them... \"radio waves\"!",
+            "Choice 8": "Is that really all you did...?",
+            "Text 9": "You find it hard to believe that simply having someone else answer the calls would make these departments—always so eager to seek expert opinions—quietly give up on dragging you to incident sites.",
+            "Text 10": "Yingying: That's all, really! Other than that, I just sang you some lullabies to help you sleep better. That hardly counts as doing anything, right?",
+            "Text 11": "Yingying: Oh right! While I could interact with the radio waves, they seemed to have trouble catching my words. Something about static? Electrical interference? Then when I tried using the terminal's robotic voice to ask them questions, they hung up right away!",
+            "Choice 12": "Now things are starting to make sense.",
+            "Text 12": "Chief: ...So, when they called in the middle of the night, someone would answer, but all they'd hear was fragmented speech filled with electrical static. Then after a while, a robotic female voice would ask in a rigid tone, \"What matters are you calling for?\"...",
+            "Text 13": "Chief: That's why Nightingale mentioned other departments reporting paranormal activity... They must have thought they were connected to some otherworldly dimension... No wonder they stopped calling altogether.",
+            "Text 14": "Yingying: Connected to another dimension? Is that the kind of spiritual story DisCity people like? Even if it is, you shouldn't worry too much! Everyone's doing just fine now, so those calls weren't really urgent, right?",
+            "Text 15": "Chief: You have a point... And thank you for looking after me, Yingying. But please prioritize your own rest from now on. I have a feeling my peaceful nights of sleep are secured, at least for the time being."
+        }
+    },
+    "1050912": {
+        "ID Num": 1050912,
+        "Event Title": "The Mysterious Spirit",
+        "Level": "⚠⚠",
+        "Event Desc": "All sorts of stories about a mysterious Sinner have been making the rounds at the Bureau lately.",
+        "Sinner": "Yingying",
+        "Text": {
+            "Text 1": "As Yingying's condition continues to improve, not only has her range of movement expanded, but she can now interact with more objects and leave more traces of her presence.",
+            "Text 2": "Chief: While this should have been a positive development, as more staff members and Sinners begin to notice traces of Yingying's presence, strange rumors have become increasingly difficult to suppress.",
+            "Choice 3": "Listen to the staff's conversation",
+            "Text 4": "Staff A: Hey, have you heard? They say among the Sinners detained at our Bureau, there's this female spirit—supposedly a wisteria tree that somehow became self-aware. They say she can even drain people's vital energy!",
+            "Text 5": "Staff B: No, no, I heard she's a ghost! They say she had a fated connection with our Chief in a past life, so she followed Chief all the way from Eastia to DisCity... You know that fragrance we catch sometimes? That's proof she just passed by!",
+            "Text 6": "Staff C: So by that logic, Chief was Eastian in the previous life? Well, the version I heard says she's a stunning beauty who stepped out of a painting! Only Chief can see her true form, and the rest of us just see flower petals...",
+            "Text 7": "Chief: These rumors are getting wilder by the second. There seem to be even more versions than last week... Don't tell me they're all coming from Yugu's taletelling sessions...",
+            "Text 8": "Just as you're about to step forward to intervene, you see Yingying's dress hem and fair tiptoes dangling from the branches, swaying gently to stop you in your tracks.",
+            "Text 9": "Yingying: With so many rumors flying around, most of them must be false, right? But in every version, this mysterious Sinner seems to share a special connection with Chief... Perhaps that part might be true?",
+            "Text 10": "Staff B: I think so too! And have you seen how exhausted our Chief looks lately? Those dark circles under the eyes are no joke... Everyone's starting to wonder if maybe... you know...",
+            "Text 11": "Yingying: Could it be... that spending too much time with me has drained away Chief's Qi? Heehee.",
+            "Text 12": "Bureau Staff: W-who... who's speaking?! N-no one's there?! Then that voice just now was... AAAAAH! There really is a spirit! AAAAAH—",
+            "Text 13": "The staff members flee in terror at Yingying's sudden interruption. You finally step out from behind the tree and look up to find Yingying wearing a triumphant grin, clearly pleased with her successful prank.",
+            "Choice 14": "You seem to be enjoying this quite a bit...",
+            "Text 15": "Yingying: Well, these rumors just keep getting more and more interesting! Besides... it's not every day we get to be part of the same story together. I wouldn't mind if their tales grew even bolder!"
+        }
+    },
+    "1050921": {
+        "ID Num": 1050921,
+        "Event Title": "Blossoms and Blush",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "In response to popular demand, the Bureau has decided to host an Eastian-themed fete—safe edition.",
+        "Sinner": "Yugu",
+        "Text": {
+            "Text 1": "To appease the Sinners who couldn't join in the fun, you decide to answer public demand by hosting a time-limited Eastian-themed fete within the Bureau—a safe version, of course, where Sinner abilities are strictly prohibited.",
+            "Choice 2": "Give repeated reminders",
+            "Text 2": "Chief: ...So that's the situation. This event is meant to let DisCity Sinners experience Eastian culture, so you all need to keep yourselves in check. Don't let others' enthusiasm get to your head and accidentally use your powers!",
+            "Text 3": "Yugu: I understand. While I may not be able to resist the fervor of the crowd, I shall regale them with tales suitable for the moment, refraining from unveiling my full prowess. Yet, from where I stand, your underlying purpose for orchestrating this fete...",
+            "Text 4": "Yugu: I fear it's not as simple as claimed. Tongues are adept in deceit, yet perhaps that is a blessing. As long as true feelings remain concealed in crucial moments, let falsehoods reign.",
+            "Text 5": "Yugu's knowing gaze sweeps over you, then lingers on the real branch artfully hidden among the ornamental wisteria tree... and the figure partially obscured beneath the blossoming foliage. Only after that does she leisurely take her leave.",
+            "Text 6": "Chief: She shouldn't be able to see you... but her perceptiveness is almost frightening.",
+            "Text 7": "Yingying: A taleteller doesn't witness countless stories of joy and sorrow for nothing. She may not see me, but she can certainly see how earnestly you're trying to help me recover.",
+            "Text 8": "Yingying: Hehe, let's not dwell on that! This little fete feels so wonderfully authentic... It's just like back then, when we were still in that dream together.",
+            "Text 9": "Yingying: You even thought of recreating this wisteria tree for me! Everyone keeps stopping to admire the flowers and praise them so earnestly... I can't help but blush!",
+            "Text 10": "Yingying takes a step forward, drawing very close to you, and flashes a teasing smile.",
+            "Text 11": "Yingying: Everyone else seems amazed by the flowers, but you're different, Chief. I'm curious... When you gaze at these wisteria blooms, are you looking at the flowers... or at me?",
+            "Path 1": {
+                "Choice 12": "I'm looking at you.",
+                "Text 13": "Surprised by your candid response, Yingying studies you for a moment before clapping her hands together, her smile growing even brighter.",
+                "Text 14": "Yingying: Indeed! Thousands may appreciate these flowers, but you're the only one who can truly see me, Chief. So you must keep your eyes on me always! After all, you're the only one who can.",
+                "Text 15": "Chief: I will.",
+                "Text 16": "Yingying contentedly links her arm with yours, eagerly suggesting a tour of this miniature fete. Meanwhile, you can only hope that no one besides Yugu notices your inexplicably flushed face, given that you appear to be walking alone."
+            },
+            "Path 2": {
+                "Choice 17": "I'm looking at the flowers.",
+                "Text 18": "Hearing your answer, Yingying lets out an exaggerated sigh of disappointment before gently resting her head on your shoulder.",
+                "Text 19": "Yingying: But don't they say that lovers' eyes are fixed only on their beloved? You promised to keep your eyes on me, so why are you admiring the flowers instead? Are they more beautiful than I am?",
+                "Text 20": "Her soft voice whispers in your ear, leaving you at a loss for words—neither \"yes\" nor \"no\" seems like the right answer.",
+                "Text 21": "Yingying: Oh my, Chief, why is your face so red?",
+                "Text 22": "Feeling the heat rising in your cheeks, you make a hasty retreat."
+            }
+        }
+    },
+    "1050922": {
+        "ID Num": 1050922,
+        "Event Title": "The Gossip Grapevine",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "Yingying has mysteriously acquired quite a collection of gossip about you.",
+        "Sinner": "Yingying",
+        "Text": {
+            "Text 1": "As the only one who can communicate with Yingying in her human form, you've taken over some counseling duties from the hypnotherapy team, setting aside time for one-on-one sessions with her.",
+            "Choice 2": "What's new with you lately?",
+            "Text 2": "Chief: Whether it's troubles or just something you'd like to share, I'm here to listen.",
+            "Text 3": "Yingying: Oh, there's just so much to share! Heehee, it's a whole new world compared to when I managed the fete alone. The Bureau is bustling with people and their tales! Every day brings something fresh and thrilling, and I simply can't get my fill of it all!",
+            "Text 4": "Yingying: There are still a few things that puzzle me, though. It could be because of the different era I'm from, or maybe it's just cultural disparities... Would you mind shedding some light on these matters for me, Chief?",
+            "Choice 5": "Of course.",
+            "Text 5": "Chief: I'll help with whatever I can.",
+            "Text 6": "Yingying: For instance, I heard some Sinners talking about secretly switching your \"coffee\" with Eastian herbal tea, and they were curious if you'd actually be able to tell the difference.",
+            "Text 7": "Yingying: What exactly is this \"coffee\"? Someone said you \"couldn't live without it\"—is that true? Wuhuanzi warned about using too many stimulants. You really should be careful!",
+            "Text 8": "Yingying: Oh, and there's more! A Sinner said that during a meeting, you accidentally clicked the wrong bookmark and ended up \"projecting\" your \"Strange Wisteria\" growth records on the screen—",
+            "Text 9": "Yingying: Am I the \"Strange Wisteria\"? Heehee, I had no idea you were documenting me so carefully, Chief, even taking lots of pictures... But what does \"projecting\" mean? Could everyone see it?",
+            "Text 10": "Chief: Um, well, this...",
+            "Text 11": "Yingying: Hmm? Chief, it seems like you have something on your mind. Just spill it out! And just so you know, I wasn't intentionally eavesdropping. Their voices were just so loud, I couldn't help but catch their chatter!",
+            "Path 1": {
+                "Choice 12": "Where did you hear all of this?",
+                "Text 13": "Yingying: Oh, from all over the place! By the trees in the Outdoor Activity Area, around the cafeteria tables, near the computers in the Recreation Area...",
+                "Text 14": "Yingying: Even though no one can see me, I just love listening to everyone chat! There's such a wonderful buzz of conversation and laughter, and I hear about so many new things I've never known before!",
+                "Text 15": "Yingying: And best of all, so many conversations are about you! That's what interests me the most—I could listen to those all day long!",
+                "Text 16": "Chief: What are the Sinners talking about all day... On second thought, maybe it's best I don't know the answer..."
+            },
+            "Path 2": {
+                "Choice 17": "Why is all of this about me?",
+                "Text 18": "Yingying: Because that's what I care about the most, of course! Sure, everyone talks about all sorts of interesting things, and it's all quite fascinating and novel to me.",
+                "Text 19": "Yingying: But nothing catches my attention quite like anything related to you, Chief, even if it's just the smallest details... Heehee, I suppose that's what happens when my feelings for you run deep!",
+                "Text 20": "As Yingying drops this bombshell with such casual grace, you find yourself at a loss whether to acknowledge or deflect her statement.",
+                "Text 21": "Chief: ...Anyway, I'll make sure everyone knows not to make me the target of their pranks, or spread stories about my embarrassing moments.",
+                "Text 22": "Yingying: Aww, that's no fun! I was hoping to hear more stories about you!"
             }
         }
     },
@@ -4984,7 +5263,7 @@
         "Event Desc": "Chief attends the thriller screening in the Recreation Area tonight.",
         "Sinner": "Hamel",
         "Text": {
-            "Text 1": "On the Bureau's movie night, everyone gathers around in the Recreation Area to watch a thriller.\nYou suddenly recall hearing someone mention Hamel's <i>bad guy radar</i>. You want to test it out tonight.",
+            "Text 1": "On the Bureau's movie night, everyone gathers around in the Recreation Area to watch a thriller.\nYou suddenly recall hearing someone mention Hamel's *bad guy radar*. You want to test it out tonight.",
             "Choice 2": "Ask Hamel",
             "Text 3": "Chief: Hamel, can you guess who's the killer?",
             "Text 4": "Hamel: Hmm... I think it's the one in white.",
@@ -5821,9 +6100,9 @@
             "Path 2": {
                 "Choice 17": "Take a closer look",
                 "Text 18": "You turn to the last page and are surprised to find that there is writing on it too. The handwriting is elegant, but the words have been written with a firm hand.",
-                "Text 19": "<i>This is but a fool's errand, some might mock. Yet there will come a day...</i>",
-                "Text 20": "<i>There will come a day when peace and prosperity reign, when Eastian scholars travel far and wide.</i>",
-                "Text 21": "<i>My path, alone but not lonely.</i>"
+                "Text 19": "*This is but a fool's errand, some might mock. Yet there will come a day...*",
+                "Text 20": "*There will come a day when peace and prosperity reign, when Eastian scholars travel far and wide.*",
+                "Text 21": "*My path, alone but not lonely.*"
             }
         }
     },
@@ -6034,6 +6313,169 @@
             }
         }
     },
+    "1060801": {
+        "ID Num": 1060801,
+        "Event Title": "Education Expert",
+        "Level": "⚠",
+        "Event Desc": "There are a few little troublemakers in the Bureau.",
+        "Sinner": "Jelena",
+        "Text": {
+            "Text 1": "There are a few little troublemakers in the Bureau, but surprisingly, their mischievous behavior has improved considerably under Jelena's guidance.",
+            "Choice 2": "She really knows what she's doing."
+        }
+    },
+    "1060802": {
+        "ID Num": 1060802,
+        "Event Title": "Old Photo Album",
+        "Level": "⚠",
+        "Event Desc": "Jelena keeps an old photo album.",
+        "Sinner": "Jelena",
+        "Text": {
+            "Text 1": "Jelena still keeps an old photo album, cherishing the precious moments of her life within its pages.",
+            "Choice 2": "Those must be the memories that she holds dear."
+        }
+    },
+    "1060811": {
+        "ID Num": 1060811,
+        "Event Title": "Afternoon Poetry",
+        "Level": "⚠⚠",
+        "Event Desc": "Since Jelena joined MBCC, the Bureau's library has gained another regular visitor.",
+        "Sinner": "Jelena",
+        "Text": {
+            "Text 1": "Since Jelena joined MBCC, the Bureau's library has gained another regular visitor. Today, you run into her again while returning some materials.",
+            "Text 2": "You find her leaning against the windowsill, completely absorbed in a small blue book.",
+            "Text 3": "Chief: What is she reading...?",
+            "Text 4": "Jelena: ...Good afternoon, Chief. Is there something I can help you with?",
+            "Text 5": "Perhaps drawn by your not-so-subtle peering, she looks up from her book with a gentle smile.",
+            "Text 6": "Chief: Ah, sorry, am I interrupting your reading?",
+            "Text 7": "Slightly embarrassed, you scratch your head as you walk over to her.",
+            "Text 8": "Jelena: Not at all. I just finished reading this poem, actually.",
+            "Text 9": "Chief: Oh, so it's a poetry collection... Whose works are you reading?",
+            "Text 10": "Jelena: Oh? You have an interest in poetry as well, Chief?",
+            "Text 11": "Jelena's smile grows warmer as she opens the book to share with you.",
+            "Text 12": "To your surprise, it's a poetry collection written in an Outland language, its pages yellowed with age.",
+            "Choice 13": "Inquire",
+            "Text 14": "Chief: Jelena, I didn't know you could read an Outland language.",
+            "Text 15": "Jelena: I picked up a bit of it during my previous work. Just enough to get by.",
+            "Text 16": "Chief: That's remarkable...",
+            "Text 17": "Jelena: \"Who hears it fall retrieves a time that fled, when an uncanny windfall could disclose, to him a flower by the name of rose...\"",
+            "Text 18": "Jelena: ...",
+            "Text 19": "You find yourself lost in the gentle melody of Jelena's voice as she reads. Without you even noticing, the entire afternoon slips away in the library's peaceful embrace."
+        }
+    },
+    "1060812": {
+        "ID Num": 1060812,
+        "Event Title": "Simple Joys",
+        "Level": "⚠⚠",
+        "Event Desc": "Jelena is busy watering the spider plants in the greenhouse.",
+        "Sinner": "Jelena",
+        "Text": {
+            "Text 1": "In the greenhouse, surrounded by luxuriant foliage, you catch sight of Jelena with a watering can, caring for the spider plants she recently potted.",
+            "Choice 2": "Help out",
+            "Text 3": "You pick up another watering can from the nearby shelf.",
+            "Text 4": "Chief: Let me help. Should I water those ones over there?",
+            "Text 5": "Jelena: Yes, just give those ones a light watering. Thank you for your help, Chief.",
+            "Text 6": "Chief: It's nothing.",
+            "Text 7": "You notice the serene, gentle smile that graces Jelena's face.",
+            "Choice 8": "Chat",
+            "Text 9": "Chief: I didn't know you were into gardening. What got you started?",
+            "Text 10": "Jelena: I ran into Sumire yesterday and complimented her plants. She ended up giving me these spider plants she had just potted.",
+            "Text 11": "Jelena: It was such a thoughtful gift. I have to cherish and take good care of them.",
+            "Text 12": "Chief: Seems like you've had a lot of free time on your hands recently. I heard you were trying out Ignis and Kelvin's new desserts yesterday?",
+            "Text 13": "Jelena: Haha, yes. Everything was delicious. It's wonderful to see how much Ignis and Kelvin have improved their baking talents.",
+            "Text 14": "Chief: With your days filled with routine training, occasional missions, quiet moments of reading, gardening, and time spent with the children... do you ever find it a bit monotonous?",
+            "Text 15": "Chief: It's quite different from your previous life, after all.",
+            "Text 16": "Jelena: Not at all. These peaceful days are precious to me.",
+            "Text 17": "Chief: Precious?",
+            "Text 18": "Jelena: Yes... The past few years have been overwhelming. Each day felt like an endless weight on my shoulders.",
+            "Text 19": "Jelena: And now, to my surprise, I've found my way back to a life of tranquility, where I can cherish these simple joys and peaceful moments... This is the life I've longed for.",
+            "Text 20": "Chief: I'm glad to hear that. It puts my mind at ease.",
+            "Text 21": "Chief: Being able to cherish each moment as it comes... that truly is a blessing."
+        }
+    },
+    "1060821": {
+        "ID Num": 1060821,
+        "Event Title": "Rain Listening",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "Heavy rain is falling in the Outdoor Activity Area today.",
+        "Sinner": "Jelena",
+        "Text": {
+            "Text 1": "Heavy rain in the Outdoor Activity Area has left many Sinners disheartened, their outdoor plans washed away for the day.",
+            "Text 2": "To your surprise, you find Jelena in the viewing room adjacent to the Outdoor Activity Area. She sits by the window on a sofa, gazing outside, lost in thought. There's no telling how long she has been there.",
+            "Text 3": "Jelena: Chief, I never expected to witness such a downpour inside the Bureau. MBCC truly never ceases to amaze me.",
+            "Text 4": "Chief: Yeah, the Outdoor Activity Area has a weather system that replicates conditions from the outside world in real time.",
+            "Text 5": "Jelena: Indeed, the simulation is remarkably lifelike.",
+            "Text 6": "Chief: ...Do you enjoy rainy days?",
+            "Text 7": "Jelena: It's not so much the rainy weather I enjoy... but rather the sound of falling rain.",
+            "Text 8": "Jelena: When I listen to the rain, somehow, I always feel like being separated from the world, transported back to somewhere distant in my memories.",
+            "Text 9": "Chief: Separated?",
+            "Text 10": "Jelena: The rainfall drowns out the noise of the world, and that silence allows me to hear my own thoughts more clearly. It's as if each raindrop awakens memories I've kept buried in my heart.",
+            "Text 11": "Jelena: The paths I've walked, the people I've lost, the moments that slipped away, and the regrets...",
+            "Text 12": "Chief: That sounds... quite melancholic.",
+            "Text 13": "Jelena: Not entirely. Sometimes the memories are weighty, but other times they bring comfort. The rain invites contemplation, yet also brings serenity.",
+            "Text 14": "Jelena: What do you say, Chief? Would you care to stay here with me for a while and listen to the rain?",
+            "Text 15": "Jelena extends her invitation with a warm smile.",
+            "Path 1": {
+                "Choice 16": "I'll have to pass.",
+                "Text 17": "You shake your head with a wry smile.",
+                "Text 18": "Chief: Thank you for the invitation, but I'm afraid I'll have to miss out on this lovely moment.",
+                "Text 19": "Chief: I have too much work that needs to be finished today... I'm sorry, but I'd love to join you another time!",
+                "Text 20": "Jelena: It's alright, please attend to your work.",
+                "Text 21": "Jelena offers an understanding smile.",
+                "Text 22": "Jelena: There will always be a seat beside me for the rain listening, whenever you wish."
+            },
+            "Path 2": {
+                "Choice 23": "I'd love to.",
+                "Text 24": "Chief: Then, allow me to join you in this moment.",
+                "Text 25": "You gladly accept her invitation and settle down beside her, making yourself comfortable as you both listen to the gentle pitter-patter of the rain.",
+                "Text 26": "Chief: ...",
+                "Text 27": "You drift off to sleep without realizing when, and upon opening your eyes, you find yourself alone on the sofa. The rain outside has ceased.",
+                "Text 28": "Someone has draped a blanket over you, and on the nearby table sits a cup of strong tea, with steam still rising in delicate wisps."
+            }
+        }
+    },
+    "1060822": {
+        "ID Num": 1060822,
+        "Event Title": "Moonlit Night",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "After finally finishing your work for the day, you decide to get some fresh air in the Outdoor Activity Area.",
+        "Sinner": "Jelena",
+        "Text": {
+            "Text 1": "After finally finishing your work for the day, you decide to get some fresh air in the Outdoor Activity Area.",
+            "Text 2": "It's late into the night, and most of the Bureau staff have retired to their rooms, yet you spot an unexpected figure sitting on a bench in the Outdoor Activity Area.",
+            "Choice 3": "Greet her",
+            "Text 4": "Chief: Hello, Jelena.",
+            "Text 5": "Jelena: Greetings, Chief. Working late again? You really should take better care of yourself.",
+            "Text 6": "Chief: Look who's talking—you're doing the same thing, aren't you?",
+            "Text 7": "Chief: Why are you still outside this late?",
+            "Text 8": "Jelena: I couldn't sleep, so I decided to step outside for some fresh air.",
+            "Text 9": "You sit beside Jelena on the bench near the lawn, both of you gazing silently at the bright moon hanging in the clear night sky.",
+            "Choice 10": "The moon is beautiful.",
+            "Text 11": "Chief: The moon is so beautiful tonight.",
+            "Text 12": "Jelena: Indeed... The moon here is just as beautiful as it was back home.",
+            "Text 13": "Jelena pauses briefly, a nostalgic smile playing across her lips before she continues.",
+            "Text 14": "Jelena: Back before I left home, life was hard... but that never stopped us from finding joy in simple pleasures.",
+            "Text 15": "Jelena: I used to take the children from town on little adventures in the city, sharing with them the stories that the elders had passed down to me.",
+            "Text 16": "Jelena: Together, we'd enjoy the cool evening breeze, learning about the stars and gazing at the moon...",
+            "Text 17": "As Jelena gently weaves these cherished memories, her words transport you to her homeland.",
+            "Text 18": "Jelena: I once read something beautiful in a book: No matter how far apart loved ones may be scattered, they still share the same starry sky, the same moon above.",
+            "Text 19": "Jelena: I wonder... if everyone will ever return home, back to the ones we love.",
+            "Path 1": {
+                "Choice 20": "You will.",
+                "Text 21": "You give her a firm, resolute nod.",
+                "Text 22": "Chief: That day will come. I'm certain of it.",
+                "Text 23": "Jelena: Thank you for your kind words, Chief.",
+                "Text 24": "Jelena lets out a soft chuckle, her eyes shining as bright as the moonlight above."
+            },
+            "Path 2": {
+                "Choice 25": "...",
+                "Text 26": "Chief: I'm sorry, Jelena. I can't give you a definitive answer to that question.",
+                "Text 27": "Chief: But I promise you this: I'll stay by your side and do everything in my power to help you fulfill your wish.",
+                "Text 28": "Jelena: Please don't apologize, Chief. There's no need—this isn't your burden to bear.",
+                "Text 29": "Jelena: But hearing those words from you... it truly means the world to me."
+            }
+        }
+    },
     "1110101": {
         "ID Num": 1110101,
         "Event Title": "Forever Loser",
@@ -6091,10 +6533,10 @@
         "ID Num": 1110112,
         "Event Title": "Thank-you Letter",
         "Level": "⚠⚠",
-        "Event Desc": "The Bureau receives a thank-you letter addressed to <i>Countess Idiot</i>.",
+        "Event Desc": "The Bureau receives a thank-you letter addressed to *Countess Idiot*.",
         "Sinner": "Countess Chelsea",
         "Text": {
-            "Text 1": "Countess Chelsea is reading a letter with a frown. You notice the letter is addressed to <i>Countess Idiot</i>.",
+            "Text 1": "Countess Chelsea is reading a letter with a frown. You notice the letter is addressed to *Countess Idiot*.",
             "Text 2": "Countess Chelsea: Oh? Hi there, Chief. I received a letter to mock me again. Why don't you read that out for me?",
             "Text 3": "Countess Chelsea: I'm quite keen to learn how they'll insult me this time.",
             "Choice 4": "Read out the letter",
@@ -6348,10 +6790,10 @@
         "ID Num": 1110321,
         "Event Title": "Tales of the WhiteSands",
         "Level": "⚠⚠⚠",
-        "Event Desc": "Kawa-kawa is reading a book titled <i>Tales of the WhiteSands</i>.",
+        "Event Desc": "Kawa-kawa is reading a book titled *Tales of the WhiteSands*.",
         "Sinner": "Kawa-kawa",
         "Text": {
-            "Text 1": "Kawa-kawa is reading a book titled <i>Tales of the WhiteSands</i> when you come upon him.",
+            "Text 1": "Kawa-kawa is reading a book titled *Tales of the WhiteSands* when you come upon him.",
             "Text 2": "He laughs as he reads.",
             "Text 3": "Kawa-kawa: Hahaha, so hilarious, these stories.",
             "Text 4": "Kawa-kawa: Chief, listen to this: there is this turtle in the WhiteSands, it crawls at midday for one hour every day to boost its stamina.",
@@ -6807,7 +7249,7 @@
             "Text 10": "Golan: Yes. And I heard it on DeadLover Radio: In Syndicate, formal attire should be worn for a picnic!",
             "Text 11": "Golan: Wearing your best dress, eating desserts, drinking tea, engaging in conversation—these are key components of a normal picnic.",
             "Text 12": "Chief: Which episode of DeadLover Radio are you talking about?",
-            "Text 13": "Golan: <i>Crack Dress Codes: How to Dress for Social Media Success</i>",
+            "Text 13": "Golan: *Crack Dress Codes: How to Dress for Social Media Success*",
             "Text 14": "Noticing the persistent frown on your face, Golan seems to realize that something is off.",
             "Text 15": "Golan: What's with that expression?",
             "Text 16": "Golan: Wait a second. Why are you wearing the Bureau uniform?!",
@@ -6874,7 +7316,7 @@
             "Path 1": {
                 "Choice 21": "Compliment her on her competence as a Sinner",
                 "Text 22": "Chief: I did. Everyone at the Bureau knows how good a fighter you are. Just remember, everyone here has their own unordinary abilities.",
-                "Text 23": "Golan: I see... I <i>am</i> a normal person, just like everybody else. And me being a Sinner doesn't change that fact."
+                "Text 23": "Golan: I see... I *am* a normal person, just like everybody else. And me being a Sinner doesn't change that fact."
             },
             "Path 2": {
                 "Choice 24": "Compliment her on how well-adjusted she is",
@@ -7215,7 +7657,7 @@
         "Event Desc": "Someone wants to shoot a movie based on Wendy.",
         "Sinner": "Wendy",
         "Text": {
-            "Text 1": "Someone wants to shoot a horror movie based on the <i>Chainsaw Maniac of the Rust</i> and hopes to get permission from Wendy.",
+            "Text 1": "Someone wants to shoot a horror movie based on the *Chainsaw Maniac of the Rust* and hopes to get permission from Wendy.",
             "Choice 2": "Ask for Wendy's opinion",
             "Text 3": "Wendy: Hehehe, you guys want me in a movie? Of course.",
             "Text 4": "Director: No, you don't need to be in the movie. We only wish to base the movie on your story.",
@@ -7822,7 +8264,7 @@
                 "Text 19": "Corso: Just cut to the chase and tell me where to aim!",
                 "Text 20": "Chief: ...Try it on this human-shaped ballistic gelatin.",
                 "Text 21": "Corso: Yee! Ha!",
-                "Text 22": "You were expecting an explosion, but the gelatin gets <i>chopped</i> into countless one-centimeter cubes by the crowbar instead.",
+                "Text 22": "You were expecting an explosion, but the gelatin gets *chopped* into countless one-centimeter cubes by the crowbar instead.",
                 "Text 23": "Chief: How is that even possible...",
                 "Text 24": "Corso: No brute force, just dexterous skills."
             }
@@ -7904,7 +8346,7 @@
             "Text 7": "As one of the \"nosy\" Sinners in the Bureau, Christina quickly earns a slew of nicknames.\nShe takes all sorts of bizarre nicknames in stride, but there is one exception.",
             "Text 8": "Sinner D: Thanks for the help, you're really my great assistant!",
             "Text 9": "Christina: Huh? Assistant?",
-            "Text 10": "Sinner D: ...What's wrong?",
+            "Text 10": "Sinner D: ...Is there anything wrong?",
             "Text 11": "Christina: It feels odd... I am a great detective. If one of us has to be the assistant, it should be you!",
             "Text 12": "Christina: Uh... that won't work either. I already have a very capable assistant...",
             "Text 13": "Christina: Ahem. Anyway, don't call me an assistant next time!",
@@ -9220,8 +9662,8 @@
             "Text 11": "Shrooma: Yeah, see this red one? It looks so adorable, like a little red umbrella on a rainy day.",
             "Text 12": "As you gaze at the mushroom that Shrooma mentioned, memories of a peculiar and funny Eastia folk song, frequently sung by OwO, come flooding back to you.",
             "Text 13": "...",
-            "Text 14": "<i>Red umbrella, white stem, let's share together.</i>",
-            "Text 15": "<i>Then we'll rest, under nature's cover.</i>",
+            "Text 14": "*Red umbrella, white stem, let's share together.*",
+            "Text 15": "*Then we'll rest, under nature's cover.*",
             "Text 16": "...",
             "Choice 17": "Stop the chef from cooking",
             "Text 18": "Chef: Chief, you don't like mushrooms?",
@@ -9872,7 +10314,7 @@
             "Text 9": "Chief: ...",
             "Text 10": "Yanyan: And the red light... \"Strikingly bright, with dots of scarlet,\" the book also says.",
             "Text 11": "Chief: ...",
-            "Text 12": "Yanyan: And look at its shape. Narrow at the top and wide at the bottom, with many straight lines and curves. This <i>is</i> Immortal's Alchemy Furnace. I saw a picture of it in the book.\nI'm telling you, it's a very powerful magic item.",
+            "Text 12": "Yanyan: And look at its shape. Narrow at the top and wide at the bottom, with many straight lines and curves. This *is* Immortal's Alchemy Furnace. I saw a picture of it in the book.\nI'm telling you, it's a very powerful magic item.",
             "Text 13": "Chief: ...",
             "Text 14": "Chief: Yanyan, do you know what an Energy Furnace is?",
             "Text 15": "Yanyan: ?",
@@ -9897,7 +10339,7 @@
             "Text 4": "You follow her gaze. A colorful, noisy advertisement is playing on TV, a stark contrast to the melancholy mood of the room.",
             "Text 5": "Chief: What's wrong? Was someone being mean to you?",
             "Text 6": "Yanyan turns to look at you. She shakes her head, wordless.",
-            "Text 7": "The advertisement ends. The documentary <i>The Eastia Chronicle</i> comes back on. Now you understand why she is gloomy.",
+            "Text 7": "The advertisement ends. The documentary *The Eastia Chronicle* comes back on. Now you understand why she is gloomy.",
             "Text 8": "Chief: Yanyan, are you feeling homesick?",
             "Text 9": "Yanyan lowers her head, her body trembling. She bites her lip to keep the tears at bay, but to no avail. She bursts out crying.",
             "Text 10": "Yanyan: It's not your fault, Chief. It's nobody's fault, really.",
@@ -10035,6 +10477,159 @@
             }
         }
     },
+    "1140801": {
+        "ID Num": 1140801,
+        "Event Title": "Superpower",
+        "Level": "⚠",
+        "Event Desc": "Pine's room has always been a mess.",
+        "Sinner": "Pine",
+        "Text": {
+            "Text 1": "Despite the chaos in Pine's room, she can miraculously pinpoint the exact location of every single item among the clutter.",
+            "Choice 2": "Could this be another one of her superpowers?"
+        }
+    },
+    "1140802": {
+        "ID Num": 1140802,
+        "Event Title": "New Gear",
+        "Level": "⚠",
+        "Event Desc": "You've noticed Pine making frequent trips to Eureka's studio lately.",
+        "Sinner": "Eureka",
+        "Text": {
+            "Text 1": "You've noticed Pine making frequent trips to Eureka's workshop lately—it turns out she's been having some new gear crafted there.",
+            "Choice 2": "What interesting gadgets we have here?",
+            "Text 3": "Chief: A wiretap-karaoke hybrid machine, a water-spraying camera, and a propeller baseball cap...? Are these actually going to be of any use?"
+        }
+    },
+    "1140803": {
+        "ID Num": 1140803,
+        "Event Title": "Security Inspection",
+        "Level": "⚠",
+        "Event Desc": "MBCC has conducted a security check recently.",
+        "Sinner": "Pine",
+        "Text": {
+            "Text 1": "During the recent security inspection, the technical staff discovered dozens of listening devices hidden inside your office.",
+            "Choice 2": "It's not hard to guess who planted these.",
+            "Text 3": "Chief: This calls for a serious warning!"
+        }
+    },
+    "1140811": {
+        "ID Num": 1140811,
+        "Event Title": "Dimensional Pockets",
+        "Level": "⚠⚠",
+        "Event Desc": "Just how much Pine's pockets can actually hold?",
+        "Sinner": "Pine",
+        "Text": {
+            "Text 1": "As you wrap up a post-training analysis session with Pine, your eyes are drawn to her outfit—covered in an unusual array of pockets.",
+            "Text 2": "Noticing your gaze, Pine arches an eyebrow.",
+            "Text 3": "Pine: Out with it. What else do you want to ask?",
+            "Text 4": "Chief: Alright... I've been meaning to ask for a while now—just how much can those pockets of yours hold?",
+            "Text 5": "Pine lets out a scoff, her tone carrying a mix of pride and mockery.",
+            "Text 6": "Pine: Not that much, really, but still more practical than that sorry briefcase you carry around.",
+            "Text 7": "Chief: ...",
+            "Text 8": "Pine: Fine, I'll humor your curiosity.",
+            "Text 9": "Seemingly amused by your speechless reaction, a smirk plays across Pine's lips. She begins pulling various items from her pockets and tossing them onto your desk.",
+            "Text 10": "Pine: Ten miniature listening devices, ten micro cameras, a voice recorder, a backup recorder...",
+            "Text 11": "Pine: A jumbo power bank, charging cables, an ID holder, my launcher...",
+            "Text 12": "You stare in disbelief at the growing pile.",
+            "Text 13": "Chief: ...Don't tell me you're carrying your entire arsenal with you.",
+            "Text 14": "Pine responds with a noncommittal shrug and continues rummaging through her pockets.",
+            "Text 15": "Pine: I'm not done yet. Hold on... Ah yes, and here's the crown jewel—three backup phones.",
+            "Text 16": "Chief: You... you even have backup phones?! Three of them?!",
+            "Text 17": "Pine: What else would you expect? Many places don't allow phones inside, but with my setup, even if I voluntarily hand one over and another gets confiscated, I still have two more ready for action.",
+            "Text 18": "You stare at the equipment strewn across your desk, a blend of amusement and disbelief crossing your face.",
+            "Text 19": "Chief: ...I'll give you this one—your pockets are the real secret weapon here, aren't they?",
+            "Text 20": "Pine flashes a defiant smile as she returns each item to its designated pocket.",
+            "Text 21": "Pine: My investigations rely on wit, not gadgets—though it never hurts to be prepared, you know."
+        }
+    },
+    "1140812": {
+        "ID Num": 1140812,
+        "Event Title": "A Secret on the Tree",
+        "Level": "⚠⚠",
+        "Event Desc": "On this clear day, a group of little Sinners fill the Outdoor Activity Area with vigor as they fly their kites in the breeze.",
+        "Sinner": "Pine",
+        "Text": {
+            "Text 1": "On this clear day, a group of little Sinners fill the Outdoor Activity Area with vigor as they fly their kites in the breeze.",
+            "Text 2": "Sinner A: Run faster! Faster!",
+            "Text 3": "Sinner B: Haha! It's flying! Look, guys... Ah!",
+            "Text 4": "An abrupt exclamation pierces through the air, causing the cheerful atmosphere to evaporate instantly.",
+            "Text 5": "Chief: ...Is there anything wrong?",
+            "Choice 6": "Go check it out",
+            "Text 7": "Sinner B: ...Chief! Our kite is stuck up there. Could you please help us get it down?",
+            "Text 8": "A child runs up to you, gently tugs at the hem of your clothes, then points at a nearby tree with a worried expression.",
+            "Text 9": "Following the child's gesture, you look up to find their swallow kite hopelessly hooked by a branch.",
+            "Text 10": "The branch is far too high—even after several determined jumps, you still can't reach it.",
+            "Text 11": "Chief: It's okay... Don't worry. I'll go find a stick...",
+            "Text 12": "Pine: Don't bother.",
+            "Text 13": "After some rustling in the leaves, a purple-haired head suddenly pokes out from the dense foliage. In the next moment, she grabs the kite and leaps down, landing as gracefully as a cat.",
+            "Text 14": "Chief: ...Pine?!",
+            "Text 15": "After the children thank you both and run off, you stop Pine as she is about to walk away.",
+            "Text 16": "Chief: Hold on, Pine! Care to explain why you were up in that tree?",
+            "Text 17": "Pine: Enjoying the view.",
+            "Text 18": "You find Pine's answer rather suspicious. After all, this tree stands right in the center of the lawn, with its unobstructed crown providing a perfect view of the entire Outdoor Activity Area.",
+            "Text 19": "Chief: Are you sure you weren't spying on anyone? Or have you planted cameras in the tree again?",
+            "Text 20": "Pine: Hmph, as if I had time for that nonsense.",
+            "Text 21": "She lets out a dismissive snort and ignores you, stuffing her hands in her pockets before striding away. Something about her retreating figure suggests her trying a bit too hard to look innocent.",
+            "Text 22": "Chief: Looks like I'll need to grab a ladder and check up there myself..."
+        }
+    },
+    "1140821": {
+        "ID Num": 1140821,
+        "Event Title": "\"Fuel\"",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "You received the quarterly bill from the Supply Office.",
+        "Sinner": "Pine",
+        "Text": {
+            "Text 1": "Today, you have received the quarterly expense report from the Supply Office, detailing everything from equipment purchases to personal items requisitioned by Sinners.",
+            "Text 2": "Chief: ...Hmm? What's this?",
+            "Text 3": "As you quickly flip through the pages, the section related to Pine suddenly catches your eye.",
+            "Text 4": "Chief: Nothing but instant noodles and lollipops? And the quantity—several boxes every month? How does she manage to consume so much?",
+            "Text 5": "Chief: Is that all she eats every day?",
+            "Choice 6": "Check Pine's cafeteria consumption records",
+            "Text 7": "As you suspected, you can probably count on one hand the number of times she has visited the cafeteria in the past few months.",
+            "Text 8": "Chief: Could it be that she doesn't like the cafeteria food?",
+            "Choice 9": "Talk to Pine about it",
+            "Text 10": "After searching all over MBCC, you finally find Pine nestled in a quiet corner, thoroughly absorbed in her laptop.",
+            "Text 11": "Pine: This lead is promising... Just need to spice it up a bit, and it'll be enough to bring them down completely...",
+            "Text 12": "Pine: That hypocritical mask... Soon I'll strip away every last bit of it...",
+            "Text 13": "Chief: Ahem, Pine... Do you have a moment...",
+            "Text 14": "Pine: Speak.",
+            "Text 15": "She responds without looking up, her fingers continuing to fly across the keyboard.",
+            "Text 16": "Chief: I was thinking, maybe you're not a fan of the cafeteria food?",
+            "Text 17": "Pine: Not really.",
+            "Text 18": "Chief: Is that so? Then why have I barely seen you at the cafeteria all month, while you've been living off instant noodles and lollipops?",
+            "Text 19": "Pine: First of all, your cafeteria's hours are too rigid. Most of the time, I miss the meal periods because of work.",
+            "Text 20": "Pine: Plus, how can cafeteria food compete with instant noodles? Just add hot water anywhere, anytime, and you're good to go in five minutes.",
+            "Text 21": "Chief: But don't you ever get tired of eating the same thing every day?",
+            "Text 22": "At your question, Pine pushes up her glasses and finally looks up, giving you a genuinely puzzled look.",
+            "Text 23": "Pine: Why would I get tired of it? It's just fuel to keep my body running. One type's as good as another.",
+            "Text 24": "Chief: ...",
+            "Text 25": "Chief: That's certainly the first time I've heard someone refer to food as \"fuel\"...",
+            "Path 1": {
+                "Choice 26": "Try to reason with her further",
+                "Text 27": "Just as you're about to launch into a speech about the importance of healthy eating habits, she cuts you off.",
+                "Text 28": "Pine: Stop. I know what you're going to say, but could you please wait?",
+                "Text 29": "Pine: I'm extremely busy right now, and you're breaking my concentration by talking to me about this trivial matter.",
+                "Text 30": "Pine: ...Fine, if you absolutely must lecture me, at least let me finish writing this article first.",
+                "Text 31": "Chief: ...How much longer do you need?",
+                "Text 32": "Pine: An hour at most. You can head back first—I'll come find you when I'm done.",
+                "Text 33": "She pulls a lollipop from one of her pockets and tosses it to you, then waves you away with a shooing gesture.",
+                "Text 34": "Pine: I solemnly swear on this lollipop that I won't forget. Happy now?",
+                "Text 35": "Chief: You better not forget this time...",
+                "Text 36": "You let out a sigh and turn to leave, eyeing the lollipop in your hand with deep doubt."
+            },
+            "Path 2": {
+                "Choice 37": "Very well, then.",
+                "Text 38": "You know well enough that she won't listen to anything you say right now, so a tactical retreat seems best for the moment.",
+                "Text 39": "Chief: I'll leave you to it. Good luck with your writing.",
+                "Text 40": "She gives you a quick thumbs up before hunching back over her keyboard, fingers flying across the keys with rapid-fire clicks.",
+                "Text 41": "Chief: ...",
+                "Text 42": "Chief: ...She really shouldn't keep surviving on nothing but instant food and sweets like this.",
+                "Text 43": "The thought lingers in your mind as you make your way back to your office.",
+                "Text 44": "Chief: Maybe I could ask the cafeteria to prepare some nutritious grab-and-go options tailored to Pine's particular needs?"
+            }
+        }
+    },
     "1150101": {
         "ID Num": 1150101,
         "Event Title": "Curiosity",
@@ -10119,7 +10714,7 @@
         "ID Num": 1150121,
         "Event Title": "A Negative Example",
         "Level": "⚠⚠⚠",
-        "Event Desc": "Victoria finally learns the <i>correct</i> way to love.",
+        "Event Desc": "Victoria finally learns the *correct* way to love.",
         "Sinner": "Victoria",
         "Text": {
             "Text 1": "Chief, Sinner Victoria invites you to go to her room.",
@@ -10127,7 +10722,7 @@
             "Text 3": "Victoria: Chief, you're finally here! Please have a seat, I have some good news for you, ahem.",
             "Text 4": "Victoria: Excuse me, I'm getting a bit too excited. Please sit down.",
             "Text 5": "Chief: What good news?",
-            "Text 6": "Victoria: I think I've finally learned the correct way to <i>love</i>.",
+            "Text 6": "Victoria: I think I've finally learned the correct way to *love*.",
             "Text 7": "Right after she says that, red crystals emerge from everywhere in the room, blocking the door and trapping you in the chair.",
             "Path 1": {
                 "Choice 8": "Struggle left and right",
@@ -10136,7 +10731,7 @@
                 "Text 11": "Victoria brushes your face with a crystal, leaving a faint red mark on your skin.",
                 "Text 12": "Chief: That's impossible. No book will tell you that!",
                 "Text 13": "Victoria: No, you're wrong. It's written in this book.",
-                "Text 14": "Victoria produces a manga titled <i>Psychopath Girl Overload</i>.",
+                "Text 14": "Victoria produces a manga titled *Psychopath Girl Overload*.",
                 "Choice 15": "...",
                 "Text 16": "Chief: Who lent you this manga?",
                 "Text 17": "Victoria: Oh, are you interested too, Chief? EMP lent it to me. She said the protagonist was really like me.",
@@ -10185,10 +10780,10 @@
         "ID Num": 1150211,
         "Event Title": "Special Comment",
         "Level": "⚠⚠",
-        "Event Desc": "Someone has published an article on the Bureau's intranet under the name <i>Crème Brûlée_Official</i>.",
+        "Event Desc": "Someone has published an article on the Bureau's intranet under the name *Crème Brûlée_Official*.",
         "Sinner": "Ignis",
         "Text": {
-            "Text 1": "When you're having your meal, you notice someone has published an article on the Bureau's internal forum under the name <i>CrèmeBrûlée_Official</i>.",
+            "Text 1": "When you're having your meal, you notice someone has published an article on the Bureau's internal forum under the name *CrèmeBrûlée_Official*.",
             "Text 2": "You click on it and find that it's indeed Ignis's work.",
             "Text 3": "Ignis: Hello, Dear readers. It's been a while. Today, I'm bringing you a special review...",
             "Text 4": "Ignis: A review of the food in the Minos Bureau of Crisis Control!",
@@ -10527,7 +11122,7 @@
         "Text": {
             "Text 1": "You meet Hecate in the Recreation Area. She's getting coffee.",
             "Text 2": "Chief: Hecate, do you like drinking coffee too?",
-            "Text 3": "Hecate: I'm not sure what <i>like</i> feels like. But the hypnotist said coffee might help ease my nightmares.",
+            "Text 3": "Hecate: I'm not sure what *like* feels like. But the hypnotist said coffee might help ease my nightmares.",
             "Text 4": "As she speaks, Hecate adds several spoonfuls of salt into the coffee.",
             "Text 5": "Chief: Why do you put salt in the coffee?",
             "Text 6": "Hecate: Doesn't everyone do that?",
@@ -10933,6 +11528,122 @@
                 "Text 20": "Chief: Is it that song...? Although it sounded like noise the previous times, the tune this time is completely different... Could it be the saxophone...?",
                 "Text 21": "Demolia: Hey, don't look at me, I know nothing about this. But the master who repairs instruments in the black market tested it on the spot, and it works perfectly!",
                 "Text 22": "Echo: Then... It must mean my playing skills have improved! Yes, that's definitely it!"
+            }
+        }
+    },
+    "1150901": {
+        "ID Num": 1150901,
+        "Event Title": "Travel Not Advised",
+        "Level": "⚠",
+        "Event Desc": "Wuhuanzi has abruptly withdrawn her leave request.",
+        "Sinner": "Wuhuanzi",
+        "Text": {
+            "Text 1": "Wuhuanzi originally planned to go out to purchase medicinal herbs today. However, after breaking a cup, getting a paper cut, and finding a hole in her pocket, she decides to withdraw her request and stay in her room all day.",
+            "Choice 2": "Not a good day, isn't it?"
+        }
+    },
+    "1150902": {
+        "ID Num": 1150902,
+        "Event Title": "Unknown Substance",
+        "Level": "⚠",
+        "Event Desc": "A cup of a mysterious brown liquid has appeared on your desk, emanating a rather suspicious aroma.",
+        "Sinner": "Wuhuanzi",
+        "Text": {
+            "Text 1": "Wuhuanzi has brewed a batch of herbal tea for the Bureau staff and Sinners, claiming it helps with fatigue and humidity. She made sure to deliver an especially large cupful right to your desk.",
+            "Choice 2": "Thanks, I'm good...",
+            "Text 3": "Trying as you might to mentally prepare yourself, you still can't bring yourself to take a sip."
+        }
+    },
+    "1150903": {
+        "ID Num": 1150903,
+        "Event Title": "Rumor",
+        "Level": "⚠",
+        "Event Desc": "Several messages from staff members pop up on your communication terminal.",
+        "Sinner": "Wuhuanzi",
+        "Text": {
+            "Text 1": "Several staff members have spotted Wuhuanzi muttering to herself while repeatedly stabbing a piece of meat with needles, her expression grim. They're convinced it must be some mysterious Eastian ritual.",
+            "Choice 2": "She's probably practicing acupuncture?"
+        }
+    },
+    "1150911": {
+        "ID Num": 1150911,
+        "Event Title": "Stellar Example",
+        "Level": "⚠⚠",
+        "Event Desc": "Lately, Wuhuanzi has been constantly seen around Hestia.",
+        "Sinner": "Hestia",
+        "Text": {
+            "Text 1": "Lately, Wuhuanzi has been constantly seen around Hestia. You wonder when they became so close.",
+            "Text 2": "You notice that Wuhuanzi pulls out a notebook, her expression grave as she scribbles and sketches in it.",
+            "Choice 3": "What are you writing down?",
+            "Text 4": "Wuhuanzi: I am studying, my friend.",
+            "Text 5": "Chief: ?",
+            "Text 6": "Wuhuanzi: This Sinner, Hestia, is called a \"priestess\" by everyone. Even though she looks about my age, people trust everything she says, while I... I'm always dismissed as some quack doctor. She must have something special about her.",
+            "Text 7": "Chief: ...In a way, yes, she does.",
+            "Text 8": "Wuhuanzi: If I am to help more patients, I need to appear more reliable. Among any group of people, there must be something to learn from... I suppose I could gain some insights.",
+            "Text 9": "Wuhuanzi: So... I plan to write down everything she says and study each word carefully when I return. Perhaps then I can master the art of gaining people's trust.",
+            "Choice 10": "Intervene",
+            "Text 11": "Chief: There are probably other things worth learning from her."
+        }
+    },
+    "1150912": {
+        "ID Num": 1150912,
+        "Event Title": "Medical Instructions",
+        "Level": "⚠⚠",
+        "Event Desc": "Wuhuanzi visits your office for a follow-up consultation on your previous treatment.",
+        "Sinner": "Wuhuanzi",
+        "Text": {
+            "Text 1": "Wuhuanzi: My friend, if I may speak frankly...",
+            "Text 2": "The Sinner before you furrows her brow in concentration as her fingers rest on your wrist, moving gently to read your pulse.",
+            "Choice 3": "Is it something serious?",
+            "Text 4": "Wuhuanzi: It has been more than a fortnight since your last treatment, yet your pulse shows no signs of improvement.",
+            "Text 5": "Wuhuanzi: My friend, have you been taking the Herbal Decoction Version 2.0 as scheduled?",
+            "Text 6": "Chief: ...No.",
+            "Text 7": "Wuhuanzi: Have you been doing exercise every morning as prescribed?",
+            "Text 8": "Chief: ...No.",
+            "Text 9": "Wuhuanzi: Have you been maintaining a proper early bedtime?",
+            "Text 10": "Chief: ...No.",
+            "Text 11": "Wuhuanzi: ...",
+            "Text 12": "Wuhuanzi: Though fate may govern life and death, I consider you a kindred spirit. I would hate to see your journey cut short prematurely.",
+            "Text 13": "Wuhuanzi: Since you are too busy to follow my medical instructions, I suppose I have no choice but to...",
+            "Text 14": "Wuhuanzi lets out a sigh as she slowly takes out her acupuncture kit. She arranges the needles in a neat row—their impossibly fine, sharp tips gleaming under the light.",
+            "Text 15": "Wuhuanzi: Please lie down. It's just a few needles—this won't take long.",
+            "Choice 16": "Calm down!"
+        }
+    },
+    "1150921": {
+        "ID Num": 1150921,
+        "Event Title": "Ground of Good Fortune",
+        "Level": "⚠⚠⚠",
+        "Event Desc": "Mysterious talismans have been appearing throughout the Bureau lately.",
+        "Sinner": "Wuhuanzi",
+        "Text": {
+            "Text 1": "Mysterious talismans have been appearing throughout the Bureau lately, with your office being particularly affected.",
+            "Text 2": "Finding these talismans oddly familiar, you decide to stay late and wait for the \"culprit.\" Sure enough, you hear rustling sounds from outside your door.",
+            "Choice 3": "Open the door",
+            "Text 4": "Wuhuanzi: ...My friend? Why are you still here...",
+            "Text 5": "Chief: Well, I was \"talisman hunting.\"",
+            "Text 6": "You've caught the petite girl red-handed, and for once, her perpetually gloomy face shows a hint of panic.",
+            "Text 7": "Wuhuanzi: Please don't misunderstand, my friend. These are all properly modified talismans. They won't attract any strange entities...",
+            "Text 8": "Chief: How so?",
+            "Text 9": "Seeing that you're not upset, Wuhuanzi enters your office and carefully arranges her talismans across your desk, one by one.",
+            "Text 10": "Wuhuanzi: Behold, my friend. This is a fortune-turning talisman—it wards off evil spirits and maintains the balance between yin and yang.",
+            "Text 11": "Wuhuanzi: Ever since I moved in, it seems that both you, my friend, and the Bureau have been affected by ill fortune... While I'm used to living with it, I couldn't bear to see it impact you all.",
+            "Text 12": "Wuhuanzi: This is a longevity talisman—it bestows blessings and protection while warding off misfortune and hardship.",
+            "Text 13": "Wuhuanzi: My friend, you constantly venture into dangerous territories. Even when faced with near-certain death, you still boldly march in alone...",
+            "Text 14": "Wuhuanzi: I had hoped to avoid meddling too much with worldly affairs, planning to slip this talisman into your pocket secretly, but it seems... I'll have to give it to you directly.",
+            "Path 1": {
+                "Choice 15": "Accept",
+                "Text 16": "Chief: You don't need to be so secretive about helping us in the future.",
+                "Text 17": "Chief: Say... do you happen to have any talismans for attracting wealth?",
+                "Text 18": "Wuhuanzi: Ah, but ill-gotten gains would diminish one's merit...",
+                "Text 19": "Seeing Wuhuanzi's troubled expression, you suppress the urge to ask her to hand over all her talismans."
+            },
+            "Path 2": {
+                "Choice 20": "Decline",
+                "Text 21": "Chief: Don't burden yourself with karmic debts that don't exist.",
+                "Text 22": "Chief: Haven't I grown healthier since you arrived? You've treated both our staff and the Sinners. If anything, meeting you has been our good fortune.",
+                "Text 23": "Wuhuanzi: I... this is all for my merit. You must accept this no matter what, my friend.",
+                "Text 24": "Wuhuanzi forces the talisman into your hands, then promptly turns and runs away."
             }
         }
     },
@@ -11638,7 +12349,7 @@
         "Event Desc": "Some of Letta's behaviors often confuse you.",
         "Sinner": "Letta",
         "Text": {
-            "Text 1": "Ever since Letta joined the MBCC, she's come to your room to peek at your sleeping face every night with her lantern. She calls that <i>human observation</i>.",
+            "Text 1": "Ever since Letta joined the MBCC, she's come to your room to peek at your sleeping face every night with her lantern. She calls that *human observation*.",
             "Choice 2": "Can we not turn on the light?"
         }
     },
@@ -12114,10 +12825,10 @@
             "Text 12": "Staff B: Stop complaining. At least it's done for us now. I heard Chief still has to go to more meetings.",
             "Text 13": "The footsteps haven't faded away yet. Zephyr leans in with a smile and whispers in your ear like she doesn't want others to hear her.",
             "Text 14": "Zephyr: I'm here to rescue you from all this boring stuff!",
-            "Text 15": "Zephyr: Just for today, Chief, how about we <i>run away</i> together? It'll be our little secret!",
+            "Text 15": "Zephyr: Just for today, Chief, how about we *run away* together? It'll be our little secret!",
             "Path 1": {
                 "Choice 16": "Where to?",
-                "Text 16": "Chief: So where are we <i>running away</i> to?",
+                "Text 16": "Chief: So where are we *running away* to?",
                 "Text 17": "Zephyr: Where? I have no idea, but once we take that first step, I'm sure the answer will come!",
                 "Text 18": "Zephyr: I know we can't actually leave the Bureau, but there's still plenty of fun to be had right here! Get some fresh air, climb a tree, jump in the pool, then grab drinks in our wet clothes, haha...",
                 "Text 19": "Zephyr: Just come with me! I'll make sure you have the time of your life. You'll forget about your busy schedule and all your worries!",
@@ -12285,7 +12996,7 @@
     },
     "1210121": {
         "ID Num": 1210121,
-        "Event Title": "<i>Weapon</i>",
+        "Event Title": "*Weapon*",
         "Level": "⚠⚠⚠",
         "Event Desc": "You and K.K. have a simulated practice battle.",
         "Sinner": "K.K.",
@@ -12428,7 +13139,7 @@
         "Event Desc": "The result of \"The Most Popular Staff Member\" vote is finally revealed today.",
         "Sinner": "Demolia",
         "Text": {
-            "Text 1": "The result of <i>The Most Popular Staff Member</i> vote is finally revealed today. You read out her name at the staff meeting.",
+            "Text 1": "The result of *The Most Popular Staff Member* vote is finally revealed today. You read out her name at the staff meeting.",
             "Text 2": "Chief: The most popular staff member of the Bureau is... Demolia?!",
             "Text 3": "Bureau Staff: \"Yay!\"\n\"I voted for her too!\"\n\"Besides her dislike of the uniform, she has no other faults.\"\n\"Demolia is truly warm-hearted!\"",
             "Text 4": "Chief: Do Sinners... count as the Bureau's staff?",
@@ -12642,7 +13353,7 @@
             "Text 6": "Hella: Explain to me why I cannot understand a word in this book!",
             "Text 7": "Chief: What book are you reading?",
             "Text 8": "Hella: See for yourself!",
-            "Text 9": "You pieced together the torn pages and saw the name of the book is <i>The Comparative Analysis of the Dis Language and Mysterious Stele Writings</i>.",
+            "Text 9": "You pieced together the torn pages and saw the name of the book is *The Comparative Analysis of the Dis Language and Mysterious Stele Writings*.",
             "Text 10": "Chief: ...No matter what you do, you need to do it step by step, including reading.",
             "Text 11": "Chief: This book is too difficult for beginners to understand.",
             "Text 12": "Chief: What about... you start from this illustration book?",
@@ -12744,7 +13455,7 @@
             "Choice 2": "Express surprise",
             "Text 3": "Chief: Hella, why do I keep running into you?",
             "Text 4": "Hella: Oi! Chief, are you too old to see straight? This is the first time we've seen each other today.",
-            "Text 5": "At this moment, another <i>Hella</i> passes by the two of you.",
+            "Text 5": "At this moment, another *Hella* passes by the two of you.",
             "Text 6": "Hella: Hehe, I get it now. Are you mistaking everyone wearing my beanie for me?",
             "Choice 7": "Beanie?",
             "Text 8": "Hella: Hehe, ever since Stargazer said my beanie was a lucky beanie that could bring good luck, it's become a trendy item all of a sudden!",
@@ -13202,7 +13913,7 @@
             "Text 9": "Chief: Studying?",
             "Text 10": "Gekkabijin: Yes.",
             "Text 11": "Gekkabijin shakes the book in her hand.",
-            "Text 12": "Gekkabijin: <i>101 Mysterious Cases of DisCity</i>. There are some points worth referencing.",
+            "Text 12": "Gekkabijin: *101 Mysterious Cases of DisCity*. There are some points worth referencing.",
             "Text 13": "Chief: ...Learn about something else!"
         }
     },
@@ -13343,7 +14054,7 @@
             "Text 5": "Chief: Think about it. What did you do to my music player?",
             "Text 6": "EMP: ...Oh, you mean that?",
             "Text 7": "EMP: It's some background music that I prepared just for you!",
-            "Text 8": "EMP: The previous soundtracks aren't so bad, but they are nothing compared to my <i>Song of Dis</i>.",
+            "Text 8": "EMP: The previous soundtracks aren't so bad, but they are nothing compared to my *Song of Dis*.",
             "Text 9": "EMP: You've heard it too. Doesn't it make you feel excited, exhilarated, and hyped?",
             "Text 10": "EMP: This soundtrack is made for you, Chief. You are a valiant, dauntless, charismatic hero!",
             "Text 11": "Chief: ...",
@@ -13369,7 +14080,7 @@
                 "Text 8": "EMP: Don't let that shock you! Zoya is merely one of my many powerful friends.",
                 "Text 9": "EMP: As for my most glorious deed, it'd be leading Chief on a dangerous mission and crushing the first Black Ring of the DisCity with my bare hands!",
                 "Choice 10": "Expose EMP",
-                "Text 10": "Chief: Ever since then, everyone has been calling me the <i>Emperor of the DisCity</i>.",
+                "Text 10": "Chief: Ever since then, everyone has been calling me the *Emperor of the DisCity*.",
                 "Text 11": "EMP: Oh, Chief? You're here too.",
                 "Text 12": "EMP: I've got some matters to attend to. Guess I'll stop wasting your time. Gotta go now, hehe.",
                 "Text 13": "EMP darts off quickly."

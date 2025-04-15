@@ -2802,6 +2802,75 @@
         }
     },
     "162": {
+        "Id": 1051001,
+        "Quality": "Purple",
+        "DispatchTitle": "전문가",
+        "DispatchDescription": "FAC 관측 결과 신성의 모 학교 내에서 M 수치가 비정상적으로 상승했다고 한다. 조사를 진행해 보니 해당 학교의 학생들 사이에서 서로 신비한 이야기를 나누는 방과후 활동이 유행하고 있다고 한다. FAC는 특별히 관리국에 적합한 수감자를 파견해 진상조사를 도와 달라고 요청했다.",
+        "DispatchSinners": {
+            "Sinner": "유구"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "163": {
+        "Id": 1051002,
+        "Quality": "Green",
+        "DispatchTitle": "하늘이 내린 공덕",
+        "DispatchDescription": "환절기가 되면 여러 지역에서 유행성 감기가 발발하는데, 이를 하늘이 내린 공덕으로 여긴 한 수감자가 자선 의료 활동을 할 수 있도록 외출을 허가해달라고 강력히 요구했다.",
+        "DispatchSinners": {
+            "Sinner": "무환자"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "현탁 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "164": {
+        "Id": 1051003,
+        "Quality": "Blue",
+        "DispatchTitle": "수행 경호원",
+        "DispatchDescription": "구원 병원에서 동방 대륙 본토 의술에 관해 특정 수감자와 함께 학술적인 연구를 진행하길 희망한다며 초대장을 보내왔다. 해당 수감자가 신디케이트 사람이 아니기에 관리국에서 신디케이트로 향하는 길에 익숙한 또래 나이의 수감자를 함께 파견해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "무환자",
+            "Sinner 2": "돌리"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 젤라틴",
+            "Reward Qty": "1.0"
+        }
+    },
+    "165": {
+        "Id": 1051004,
+        "Quality": "Purple",
+        "DispatchTitle": "퍼레이드 캐릭터",
+        "DispatchDescription": "치안국에 놀이공원 방화를 예고하는 편지 한 통이 전달되었다. 편지를 보낸 이는 변이 무기를 소지한 것으로 추측된다. 이에 환술에 능한 수감자를 급히 파견해 퍼레이드 캐릭터로 분장시키고, 치안국을 도와 상황을 통제하며 관광객을 안전한 구역으로 피신시키려 한다.",
+        "DispatchSinners": {
+            "Sinner": "잉잉"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "169": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "꿈의 해석",

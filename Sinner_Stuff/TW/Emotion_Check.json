@@ -5,20 +5,20 @@
             "迪蒙 Question": "試試這個？可以應對很多突發狀況。",
             "Chief Question 1": "既然如此……就試一下吧。",
             "迪蒙 Response 1": "好，我現在去準備一套合你身的。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "好是好，就是有些笨重，會影響行動。",
             "迪蒙 Response 2": "唉，可惜。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         },
         "Emotion Check 2": {
             "Open": "[迪蒙坐在房間裡，似乎有什麼心事]",
             "迪蒙 Question": "……你這是，要監視我？",
             "Chief Question 1": "嗯，你最好安分一點。",
             "迪蒙 Response 1": "……我知道了。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Emoji 1": "😥",
             "Chief Question 2": "你就當作是在保護我吧。",
             "迪蒙 Response 2": "……好吧，我不會讓它們碰到你的。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "嗷嗚": {
@@ -27,20 +27,20 @@
             "嗷嗚 Question": "呼——哈——攻中有防，防中有攻，攻不離防，防不離攻！",
             "Chief Question 1": "你又看功夫片了？",
             "嗷嗚 Response 1": "嘿嘿，沒錯！你快來跟我切磋切磋！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "太危險了，快放下。",
             "嗷嗚 Response 2": "哼哼，怕了吧，嗷嗚就是最厲害的大俠！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+            "Emoji 2": "😏"
         },
         "Emotion Check 2": {
             "Open": "[嗷嗚突然呲牙咧嘴地大喊著從前方的轉角跳了出來]",
             "嗷嗚 Question": "嗚哇！！！",
             "Chief Question 1": "……",
             "嗷嗚 Response 1": "你怎麼一點反應都沒有，真無聊，不跟你玩了！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Emoji 1": "😥",
             "Chief Question 2": "啊！！！",
             "嗷嗚 Response 2": "哈哈哈，你怎麼每次都被嚇到啊，膽小鬼！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         }
     },
     "羅睺": {
@@ -49,20 +49,20 @@
             "羅睺 Question": "你要去執行任務了嗎？",
             "Chief Question 1": "嗯，有起突發狂厄事件需要處理。",
             "羅睺 Response 1": "為確保萬無一失，我也要一起去。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "不……我只是打算出去透透氣。",
             "羅睺 Response 2": "帶上我吧，閒暇時間也不能卸下警覺心。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         },
         "Emotion Check 2": {
             "Open": "[羅睺在午後捧著一杯紅茶啜飲]",
             "羅睺 Question": "唔……採購部訂購的茶葉還算不錯。",
             "Chief Question 1": "也給我一杯吧。",
             "羅睺 Response 1": "請吧，局長。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "你居然還會喝下午茶……？",
             "羅睺 Response 2": "就算是我，也是會有個人愛好的。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         }
     },
     "瓦尼菈": {
@@ -71,20 +71,20 @@
             "瓦尼菈 Question": "你來……看我工作……所有損耗……都能得到檢修……",
             "Chief Question 1": "真是精妙的機械構造。",
             "瓦尼菈 Response 1": "機械修理已完成……我不會損毀……沒有偏航……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Emoji 1": "😦",
             "Chief Question 2": "但有一個問題，門被封死了，你要怎麼從裡面出來呢。",
             "瓦尼菈 Response 2": "走不出的……內海……我又回到這裡了嗎……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[瓦尼菈緊盯著損壞後亂轉的鐘錶。]",
             "瓦尼菈 Question": "永恆的時間再次滑向了偏移……我要去……修復……",
             "Chief Question 1": "換個電池吧。",
             "瓦尼菈 Response 1": "扭曲被修正……你會是……返程的錨點嗎……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "拍一拍就好了。",
             "瓦尼菈 Response 2": "拆除之後……再進行檢修……你做得很對……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "摩爾": {
@@ -94,16 +94,16 @@
             "Chief Question 1": "謝謝，不過這個味道……",
             "摩爾 Response 1": "是特製的咖啡，據說裡面還加了一些助興奮的成分，可以讓你在加班時候充滿幹勁呢。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "新口味的咖啡？",
             "摩爾 Response 2": "是菲小姐特別幫我採購的品種，據說咖啡因含量是普通咖啡豆的幾倍。喝完這杯，應該可以度過一個十分清醒的加班夜晚。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ]
         },
         "Emotion Check 2": {
@@ -112,16 +112,54 @@
             "Chief Question 1": "還是回房間休息吧。",
             "摩爾 Response 1": "還有資料沒跑完……床上我就……徹底睡著了……",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png"
+                "😥",
+                "😥",
+                "😥"
             ],
             "Chief Question 2": "枕著鍵盤睡覺能舒服嗎？",
             "摩爾 Response 2": "不舒服啊……可是我……枕著枕著……就習慣了……",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
+            ]
+        }
+    },
+    "玉骨": {
+        "Emotion Check 1": {
+            "Open": "[玉骨正在看最近網路熱門食物合集影片。]",
+            "玉骨 Question": "臭豆腐咖啡，板藍根泡麵……局長，您說人類為什麼總喜歡用各種方式折磨自己呢？",
+            "Chief Question 1": "也許……有些人真的喜歡吃這些。",
+            "玉骨 Response 1": "呵呵，您說得對。人類的差異性之大，使得那些精彩的故事永遠在上演。",
+            "Emoji 1": [
+                "😏",
+                "😏",
+                "😏"
+            ],
+            "Chief Question 2": "怎樣？還想嘗試一下嗎？",
+            "玉骨 Response 2": "這些搭配都很有意思，但更重要的是，局長要和我一起嘗試才好呀。",
+            "Emoji 2": [
+                "😉",
+                "😉",
+                "😉"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[玉骨拉著你聽完了她最新的故事。]",
+            "玉骨 Question": "局長覺得這個故事的結局如何呀？",
+            "Chief Question 1": "是個讓人難以忘懷的悲劇。",
+            "玉骨 Response 1": "是啊，世事變遷，人心難測，背離初心的悲劇難免讓人心痛。",
+            "Emoji 1": [
+                "😏",
+                "😏",
+                "😏"
+            ],
+            "Chief Question 2": "他們都找到了自己的歸宿，即使分離也不會悲傷。",
+            "玉骨 Response 2": "您總能用有趣的角度來看待我的結局，下次再來聽聽我的故事吧？",
+            "Emoji 2": [
+                "😏",
+                "😏",
+                "😏"
             ]
         }
     },
@@ -131,20 +169,20 @@
             "卓婭 Question": "看你這麼閒，不如來陪我練兩招？",
             "Chief Question 1": "你應該會控制好力量的，對吧？",
             "卓婭 Response 1": "當然，我自有分寸。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Emoji 1": "😦",
             "Chief Question 2": "我覺得，找其他禁閉者對練更高效一些。",
             "卓婭 Response 2": "嘖，無趣。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[卓婭看起來心情很差]",
             "卓婭 Question": "為什麼沒有酒？嗯？",
             "Chief Question 1": "規定就是規定，沒有那麼多為什麼。",
             "卓婭 Response 1": "你……在挑釁我？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "還不是為了防止某些人發酒瘋。",
             "卓婭 Response 2": "你還不知道我的酒量嗎？去幫我拿一瓶。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         }
     },
     "NOX": {
@@ -153,20 +191,20 @@
             "NOX Question": "我……想出去看看。",
             "Chief Question 1": "白砂之海如何？下次任務帶上你。",
             "NOX Response 1": "好……我很期待……這段旅程。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "外面也沒什麼好看的。",
             "NOX Response 2": "你這麼說……我很失望……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         },
         "Emotion Check 2": {
             "Open": "[NOX把頭埋在自己的膝蓋上]",
             "NOX Question": "我……又聽到聲音了。",
             "Chief Question 1": "是那些怪物在和你說話嗎？",
             "NOX Response 1": "不……他們……不是怪物！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "方便告訴我內容嗎？",
             "NOX Response 2": "他們想吞噬我……還好，你來了……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         }
     },
     "黛倫": {
@@ -175,20 +213,20 @@
             "黛倫 Question": "你也對這類小眾題材的電影感興趣？",
             "Chief Question 1": "感興趣。",
             "黛倫 Response 1": "那就過來一起來看看吧，電影才剛剛開始。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "不感興趣。",
             "黛倫 Response 2": "唉，算了，還是我一人獨享吧。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[對話中途黛倫突然打斷了你，掏出一個小本子開始記錄]",
             "黛倫 Question": "稍等一下……我得把你剛剛那句話記錄下來。",
             "Chief Question 1": "為什麼要記我說的話？",
             "黛倫 Response 1": "因為你剛剛那句話挺有意思的，很適合作為主角的台詞加進我最近正在寫的劇本裡。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "我說錯了什麼嗎？",
             "黛倫 Response 2": "沒有。你剛剛的話給了我靈感，我得趕緊記下來，免得之後忘記。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         }
     },
     "唐": {
@@ -197,20 +235,20 @@
             "唐 Question": "喲，局長，今天的陽光挺好，一起來曬曬嗎?",
             "Chief Question 1": "還有工作要忙……",
             "唐 Response 1": "唉呀，有的時候呢，工作可以先放一放……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "……好吧。",
             "唐 Response 2": "來來來，往這站，感覺不賴吧？",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         },
         "Emotion Check 2": {
             "Open": "[唐正在擦拭長槍。]",
             "唐 Question": "閒來無事，照顧照顧老友。",
             "Chief Question 1": "可以去空曠區域練習。",
             "唐 Response 1": "哦？局長你想看耍槍嗎，你想看的話我可以耍一個哦！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "不打擾了，你慢慢照顧……",
             "唐 Response 2": "喂喂，就這麼冷漠地走掉了嗎？一起聊聊天啊局長……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+            "Emoji 2": "😫"
         }
     },
     "曜": {
@@ -219,20 +257,20 @@
             "曜 Question": "這是……凡塵對太陽的模仿嗎……雖然……相當拙劣……",
             "Chief Question 1": "也可以算是……等等，別破壞燈罩啊！",
             "曜 Response 1": "拂除虛妄的外殼……竟是如此小的光點……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Emoji 1": "😦",
             "Chief Question 2": "不，這只是照明用的。",
             "曜 Response 2": "是嗎？和故鄉的……並不相似……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         },
         "Emotion Check 2": {
             "Open": "[曜一直認真地盯著窗外。]",
             "曜 Question": "你來了……要和我一起嗎……",
             "Chief Question 1": "你這是在……看風景？",
             "曜 Response 1": "觀日……可曉天象，識興衰……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "好啊，你看出了什麼？",
             "曜 Response 2": "華光溫耀，澤而不罹……近期，不會有天災。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         }
     },
     "派爾琪雅": {
@@ -241,20 +279,20 @@
             "派爾琪雅 Question": "……水……越來越多……海也會……越來越近……",
             "Chief Question 1": "應該不會吧，畢竟有出水口。",
             "派爾琪雅 Response 1": "只要湧出的水永遠比流走的水多一點……海……就終將成型……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "自來水是淡水，真的能順利成海嗎？",
             "派爾琪雅 Response 2": "這麼說來……聞起來……確實和海床下面……有點不一樣……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         },
         "Emotion Check 2": {
             "Open": "[派爾琪雅看著電視螢幕上的人造深潛館廣告。]",
             "派爾琪雅 Question": "……不對……真正的海……不是這樣的……在這個環境下……人根本沒辦法真的學會和海相處……",
             "Chief Question 1": "沒事，他們接觸不到真的海，不會出事。",
             "派爾琪雅 Response 1": "那倒……也好……否則……我也不敢保證……能把他們送回岸邊……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "確實，也許你可以幫忙設計一個更真實的訓練環境。",
             "派爾琪雅 Response 2": "哪怕是人類的創造力……也很難真的模擬出海的混亂、危險，和包容……沒有一定的瞭解就想接觸海洋……會吃大苦頭的……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         }
     },
     "白逸": {
@@ -264,16 +302,16 @@
             "Chief Question 1": "上次的帳已經結清了，白老闆。",
             "白逸 Response 1": "哎呀~那……多餘的勞務費呢？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ],
             "Chief Question 2": "說吧，又是什麼薪酬問題？",
             "白逸 Response 2": "嗯……打包的人工費！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ]
         },
         "Emotion Check 2": {
@@ -282,13 +320,13 @@
             "Chief Question 1": "實在不行就把白記實業兌出去吧。",
             "白逸 Response 1": "局長！你難道不會借我錢嗎！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😖",
+                "😖",
+                "😉"
             ],
             "Chief Question 2": "那你該認真工作了，少喝點酒。",
             "白逸 Response 2": "你說得對，偶爾也得拿出點認真勁來。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+            "Emoji 2": "😏"
         }
     },
     "科希": {
@@ -297,20 +335,20 @@
             "科希 Question": "今天沒有我的任務……對吧？",
             "Chief Question 1": "你可以去運動一下。",
             "科希 Response 1": "……不要，這麼寶貴的時間，當然是要拿來睡覺。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "如果你想做的話，還有很多。",
             "科希 Response 2": "你是個成熟的大人了，還有什麼事非要找一個小鬼幫忙？",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[科希不情願地從陰影中走了出來]",
             "科希 Question": "……一定要我上場嗎？",
             "Chief Question 1": "有你的話，效率會高很多。",
             "科希 Response 1": "那你還是慢慢努力吧，我累了，需要休息。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Emoji 1": "😦",
             "Chief Question 2": "緊急事件，事關辛迪加的孩子們。",
             "科希 Response 2": "……告訴我地點，快。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+            "Emoji 2": "😫"
         }
     },
     "娜恰": {
@@ -319,20 +357,20 @@
             "娜恰 Question": "不來嚐嚐它的味道嗎……局長？",
             "Chief Question 1": "……來一點吧。",
             "娜恰 Response 1": "來吧……局長——喝下去，你就會感受到最純粹的快樂！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "太甜了，我拒絕。",
             "娜恰 Response 2": "最甘醇的甜美，才會帶來最極致的快樂……唉，局長的品味看來還是有待提高呢。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[娜恰心不在焉地玩著身旁的蛇，看到你出現突然來了興趣]",
             "娜恰 Question": "哦……局長，不來和它們親近一下嗎？",
             "Chief Question 1": "光是和你親近還不夠嗎？",
             "娜恰 Response 1": "嘻嘻，當然了……至少這些孩子們在咬你的時候，會比我輕一點哦~",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "這次應該沒有眼鏡蛇了吧？",
             "娜恰 Response 2": "你可要當心哦~局長，我的毒牙可比它們厲害多了~",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         }
     },
     "阿黛拉": {
@@ -342,22 +380,22 @@
             "Chief Question 1": "簡單一點就好，交給你了。",
             "阿黛拉 Response 1": "明白了，包在我身上~",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "最近流行什麼？呃……霹靂螺旋爆炸頭？",
             "阿黛拉 Response 2": "嗯……這種造型對你來說還是太前衛了。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         },
         "Emotion Check 2": {
             "Open": "[阿黛拉正在擦拭手中的剪刀]",
             "阿黛拉 Question": "你看起來有點累，是最近有什麼煩惱嗎？",
             "Chief Question 1": "你要幫我剪掉煩惱嗎？",
             "阿黛拉 Response 1": "嗯……或許你更需要一杯熱飲。紅茶怎麼樣？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "……你先把它放下。",
             "阿黛拉 Response 2": "別緊張，這只是一把普通剪刀。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "曼緹斯": {
@@ -366,20 +404,20 @@
             "曼緹斯 Question": "這個……給你吃……",
             "Chief Question 1": "這個真的可以吃嗎？",
             "曼緹斯 Response 1": "昆蟲類……營養價值很高……你要多吃一點……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "不然，你先吃一口給我看？",
             "曼緹斯 Response 2": "這是專門做來……幫你補身體的……我自己……可以再做……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         },
         "Emotion Check 2": {
             "Open": "[曼緹斯盯著電視裡播放的荒野求生節目。]",
             "曼緹斯 Question": "還有更好的方法……這麼做……有危險……",
             "Chief Question 1": "下次找個機會，讓曼緹斯去指導一下他們吧。",
             "曼緹斯 Response 1": "我還可以去……森林裡嗎？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "這不是真的荒野求生，是有劇本的。",
             "曼緹斯 Response 2": "那……他們很安全，很好……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         }
     },
     "安吉爾": {
@@ -388,20 +426,20 @@
             "安吉爾 Question": "壽司捲邊冷凍披薩嗎……看起來不是特別優秀的儲存用食物。但這個義大利麵餡的冷凍東洲式包子似乎也不太妙。",
             "Chief Question 1": "雖然壽司捲邊有點問題，但披薩還是不錯的。",
             "安吉爾 Response 1": "確實，哪怕冷凍得再硬，微波爐轉三分鐘就能變軟，而且味道依然好吃。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "確實都不太好，不如買冷凍漢堡。",
             "安吉爾 Response 2": "漢堡？我之前買過，味道還行，但它似乎指望我額外準備生菜。這有點對不起速食食品的定義了。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+            "Emoji 2": "😫"
         },
         "Emotion Check 2": {
             "Open": "[安吉爾盯著群發到所有人裝置上的懶人套被套方法教學。]",
             "安吉爾 Question": "直接新買一套或許更快，這個方式過於複雜了，算不上「懶人」方法。",
             "Chief Question 1": "只有四個步驟，還不懶人嗎？",
             "安吉爾 Response 1": "只有把「鋪棉被」和「鋪被套」視作一個步驟，它才是四個。我的評價是不如買新的，下單、等待、收貨，只要三個步驟。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "確實，不需要套被套的被子才是好被子。",
             "安吉爾 Response 2": "難得你會贊同我的看法。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         }
     },
     "000": {
@@ -411,16 +449,16 @@
             "Chief Question 1": "什麼秘密？",
             "000 Response 1": "你想不想知道最開始你的髮型被設計成什麼樣子？超好笑的哦！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "又偷看到了什麼資料？",
             "000 Response 2": "怎麼能叫偷看啊？他們放在資料庫裡不就是讓人看的嘛！你真的不好奇嗎？古早的設定資料，真的很有意思哦！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉",
+                "😉"
             ]
         },
         "Emotion Check 2": {
@@ -429,16 +467,16 @@
             "Chief Question 1": "我可能會遇到什麼事？",
             "000 Response 1": "如果你也好奇的話，不如讓我借用你的權限路徑去探查一番？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "反正遲早都會到來。",
             "000 Response 2": "可是，如果能早一點知道的話，不就可以避開很多不必要的麻煩了嘛。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png"
+                "😥",
+                "😥",
+                "😥"
             ]
         },
         "Emotion Check 3": {
@@ -447,16 +485,16 @@
             "Chief Question 1": "怎麼了？",
             "000 Response 1": "剛才好像頭腦空白了一下，我剛剛是想說……關於你未來的事情嘛，如果你也好奇的話，不如讓我借用你的權限路徑去探查一番？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "反正遲早都會到來，咦……？怎麼突然卡住了？",
             "000 Response 2": "感覺腦袋空白了一下……沒關係，比起這個，你就一點不好奇嗎？早一點知道自己未來的命運，不就可以避開很多不必要的麻煩了嘛。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png"
+                "😥",
+                "😥",
+                "😥"
             ]
         },
         "Emotion Check 4": {
@@ -465,16 +503,16 @@
             "Chief Question 1": "什麼秘密？",
             "000 Response 1": "我在6YKu566x藏了後門，方便我時不時找你玩，今天弄了點小禮物要給你，快去翻一翻！否則它們被晾在那裡29天就要過期了喲！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "又偷看到了什麼資料？",
             "000 Response 2": "當然是很重要、涉及到機密的……說我賣關子呀？好啦，偷偷告訴你，在6YKu566x裡藏有我的後門，方便來找你玩，去找找吧？給你的禮物已經安靜躺在裡面了！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉",
+                "😉"
             ]
         },
         "Emotion Check 5": {
@@ -483,16 +521,16 @@
             "Chief Question 1": "很想你。",
             "000 Response 1": "你這樣說我很開心。不過呢，除了想我以外，你的第一要務是要讓自己一直開心愉快，不管發生什麼變成什麼樣子，我都會一直陪你走下去，你也多來陪陪我吧？我一個人會孤單的。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "我知道你一直在我身邊。",
             "000 Response 2": "……啊，臉上怎麼燙燙的……其實我也很想你啦！所以我呀，哪裡都不去，我會一直留在你身邊，陪你走下去……你也要來找我，不許食言哦！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉",
+                "😉"
             ]
         }
     },
@@ -502,12 +540,12 @@
             "夏音 Question": "局長，快來試試這個！",
             "Chief Question 1": "……我覺得這東西還有改進的空間。",
             "夏音 Response 1": "咦……你這麼一說好像確實。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Emoji 1": "😥",
             "Chief Question 2": "這……是要把手砍掉才行是嗎？",
             "夏音 Response 2": "呵呵……不剁掉怎麼裝？",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_2.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😦",
+                "😏"
             ]
         },
         "Emotion Check 2": {
@@ -516,15 +554,15 @@
             "Chief Question 1": "早睡早起多運動。",
             "夏音 Response 1": "啊——？那你還不如直接殺了我。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😫",
+                "😖"
             ],
             "Chief Question 2": "腦力勞動消耗也很大的。",
             "夏音 Response 2": "嘿嘿，看來終於有人理解本天才了。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😉",
+                "😏"
             ]
         }
     },
@@ -534,20 +572,20 @@
             "蘭利 Question": "彙報一下工作，新人。",
             "Chief Question 1": "為世界和平出了一份力。",
             "蘭利 Response 1": "不錯，但要注意自身的安全，新人。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "今天按時完成了管理局的計畫。",
             "蘭利 Response 2": "哦，中規中矩，但還不夠。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         },
         "Emotion Check 2": {
             "Open": "[蘭利的神情看起來有些疲憊]",
             "蘭利 Question": "新人，去幫我煮一杯咖啡。",
             "Chief Question 1": "比起咖啡，我覺得你更需要的是休息。",
             "蘭利 Response 1": "不好不壞的提案，新人。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "可以試試管理局的手磨咖啡。",
             "蘭利 Response 2": "不錯，光是聞這咖啡的香氣就讓我感到心情愉悅了。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         }
     },
     "橡木匣": {
@@ -556,20 +594,20 @@
             "橡木匣 Question": "嗯……果然還是柏木比較合適嗎……",
             "Chief Question 1": "你做的是什麼？",
             "橡木匣 Response 1": "你來猜猜看吧？是受人囑託為她死去的寵物鸚鵡準備的。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "這個……是給誰用的？",
             "橡木匣 Response 2": "鸚鵡。收容區工作人員養的寵物昨天剛剛去世了。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         },
         "Emotion Check 2": {
             "Open": "[橡木匣正躺在她房間內的黑色長匣裡，面色安詳]",
             "橡木匣 Question": "要來一起躺一下嗎？還有很多空間。",
             "Chief Question 1": "……好吧。",
             "橡木匣 Response 1": "怎麼樣？是不是感受到了特別的寧靜？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "還是不了。",
             "橡木匣 Response 2": "是因為太硬了不舒服嗎？我可以去幫你拿一些軟墊來。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         }
     },
     "德雷雅": {
@@ -578,20 +616,20 @@
             "德雷雅 Question": "我想……聽你多說說話。",
             "Chief Question 1": "好吧，想知道我的什麼秘密？",
             "德雷雅 Response 1": "一切秘密……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "昨天不是已經聊了很久了。",
             "德雷雅 Response 2": "這種需求……是永無止境的。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         },
         "Emotion Check 2": {
             "Open": "[德雷雅的房間發出了一些奇怪的響動]",
             "德雷雅 Question": "局長……能幫我把這些……收起來嗎？",
             "Chief Question 1": "咖啡、紅茶、水果罐頭……你怎麼囤了這麼多東西？",
             "德雷雅 Response 1": "個人習慣……它們……總會需要的……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_6.png",
+            "Emoji 1": "😖",
             "Chief Question 2": "這些罐頭不放在房間裡也沒關係。",
             "德雷雅 Response 2": "這樣……會有滿足感……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+            "Emoji 2": "😫"
         }
     },
     "瑟琳": {
@@ -600,20 +638,20 @@
             "瑟琳 Question": "來，笑一個~",
             "Chief Question 1": "……啊？",
             "瑟琳 Response 1": "呵呵，局長呆呆的樣子很可愛呢。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "呃……我果然還是不太習慣突然被人拍照。",
             "瑟琳 Response 2": "是嗎？局長真是容易害羞啊~",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+            "Emoji 2": "😏"
         },
         "Emotion Check 2": {
             "Open": "[瑟琳正在翻找她收藏的唱片]",
             "瑟琳 Question": "今天看什麼好呢……",
             "Chief Question 1": "《錄影》？這個在講什麼？",
             "瑟琳 Response 1": "偽紀錄片形式的恐怖片，還蠻有意思的，要不要一起看看？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "《街頭小吃戰士》？你還收藏美食紀錄片？",
             "瑟琳 Response 2": "很奇怪嗎？閒來無事的時候用來打發時間很不錯~",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         }
     },
     "珀爾夫人": {
@@ -623,16 +661,16 @@
             "Chief Question 1": "這個墨綠色還有亮片的吧，只有你能駕馭這種獨一無二的顏色。",
             "珀爾夫人 Response 1": "親愛的，你大膽的選擇總是那麼對我胃口~正好現在有空，你也來試試怎麼樣？你皮膚白，會很顯色的哦~來，閉眼~",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "這個霧面胭脂紅的吧，王道的豔麗更能襯托出你的氣質。",
             "珀爾夫人 Response 2": "呵呵~不說俗氣而是說王道，真像是你的風格~你的建議真不錯，對我們這樣總是沉浸在戲劇中的人來說，偶爾試試日常款應該也很不錯~",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ]
         },
         "Emotion Check 2": {
@@ -641,16 +679,16 @@
             "Chief Question 1": "抱歉，我唱歌會走音。",
             "珀爾夫人 Response 1": "如果你有時間，我可以教你~如果你沒有，原汁原味不作任何矯飾的表演，也有它獨特的滋味~呵呵，誰說失控的曲調，不是另一個動人的節目呢~",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "抱歉，我跳舞手腳不協調。",
             "珀爾夫人 Response 2": "交際舞其實沒有你想的那麼難~它更接近於一種肢體上的交流，一種自然的節律~像是一呼一吸，一進一退……你看，你做得很好~",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ]
         }
     },
@@ -661,16 +699,16 @@
             "Chief Question 1": "蘋果烏龍吧，聽起來喝了不會拉肚子。",
             "畢安卡 Response 1": "唔唔，雖然無聊但穩健的選擇！如果這是綜藝節目的話——鏘鏘，就給你的回答2分吧！記分牌拿好，還有你的蘋果烏龍！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "蘋果口味薯條吧，挑戰要從極限開始。",
             "畢安卡 Response 2": "唉呀，局長真是跟我好有默契啊！來來來，為了紀念這份默契，你叼薯條這邊，我叼這邊，看鏡頭——拍啦！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ]
         },
         "Emotion Check 2": {
@@ -679,16 +717,16 @@
             "Chief Question 1": "但你不還是喝得開始胡說八道了……",
             "畢安卡 Response 1": "嗯？真的假的？我怎麼不記得有這件事了？唉呀，難道我昨天喝的是我的存貨，所以硬生生喝到斷片了？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "但你不還是順理成章宿「醉」到下午才醒……",
             "畢安卡 Response 2": "這個和蘋果汁沒關係呀，你忘了，我前幾天為了蹲個大新聞可是連著熬夜了好幾天呢！所以才不是什麼宿「醉」呢，是昏睡~！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ]
         }
     },
@@ -699,16 +737,16 @@
             "Chief Question 1": "試試就試試。",
             "柯琳 Response 1": "還是局長大氣！剛才我糊弄……不是，是勸說了半天都沒人敢試，你可是第一個哦！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ],
             "Chief Question 2": "我沒說要試。",
             "柯琳 Response 2": "別這麼警惕嘛，又不是叫你花錢買……唉呀，退一萬步說，就算是要花錢，我也是最熟悉本地貨價的地頭蛇，給局長的保證是親友價！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ]
         },
         "Emotion Check 2": {
@@ -717,16 +755,16 @@
             "Chief Question 1": "有人要懸賞你？為什麼？",
             "柯琳 Response 1": "還不是這群砂盜太小心眼了，你看，我只不過把幾個砂盜頭目扒得只剩條褲衩然後綁在破爛小車後面繞了砂海一圈，還讓他們成功美黑，怎麼反手過來懸賞我呢，是吧！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ],
             "Chief Question 2": "你想做什麼？",
             "柯琳 Response 2": "打個商量，幫個小忙，把我供出去，事後剿滅砂盜的功勞歸你，賞錢歸我，各取所需，雙方共贏，怎麼樣？唉呀，別急著搖頭嘛……",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉",
+                "😉"
             ]
         }
     },
@@ -736,20 +774,20 @@
             "伊琳娜 Question": "和我，下局棋吧？",
             "Chief Question 1": "西洋棋以外的棋種可以試試。",
             "伊琳娜 Response 1": "呵呵……換成什麼你都贏不了我的。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "算了吧，我清楚自己沒有勝算。",
             "伊琳娜 Response 2": "不要拒絕得這麼快，這次我會讓著你一點。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         },
         "Emotion Check 2": {
             "Open": "[伊琳娜翻著自己手中的財報]",
             "伊琳娜 Question": "你是來支付上次的報酬的？",
             "Chief Question 1": "……什麼報酬？和死役有關嗎？",
             "伊琳娜 Response 1": "你還真是貴人多忘事。當然是處理巨型死役的事情。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "你要是這樣說……恐怕沒人能付得起。",
             "伊琳娜 Response 2": "既然如此，不如，就用你自己……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         }
     },
     "觀星者": {
@@ -758,20 +796,20 @@
             "觀星者 Question": "你來了，它等了你很久。",
             "Chief Question 1": "距離上次觀星確實過去了好長一段時間。",
             "觀星者 Response 1": "呵呵……那就讓我們開始吧？我的小怪物——",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "……難道觀星也要挑選顧客嗎？",
             "觀星者 Response 2": "當然，你的靈魂最為純粹，也最為未知。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         },
         "Emotion Check 2": {
             "Open": "[安納奇亞少見地嘆著氣]",
             "觀星者 Question": "唉……最近和靈魂們的交流有些困難……",
             "Chief Question 1": "換塊觀星水晶試試？",
             "觀星者 Response 1": "……我不覺得這是個好建議，尤其是對於一個觀星者來說。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "需要我使用枷鎖來幫助你嗎？",
             "觀星者 Response 2": "那……來吧？記得不要像最開始那樣生澀哦。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         }
     },
     "愛緹": {
@@ -780,20 +818,20 @@
             "愛緹 Question": "你來得正好，看看我更像哪條龍？",
             "Chief Question 1": "這條紅色的？",
             "愛緹 Response 1": "它叫飛焰，熟練掌控火焰魔法，守護著神秘的寶藏，關於它的傳說廣為流傳……酷！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "這條白色的？",
             "愛緹 Response 2": "密斯塔倫晶龍，鱗片就好像冰晶一樣，可以將陽光反射出絢麗的色彩……嗯，確實長得更好看些。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+            "Emoji 2": "😏"
         },
         "Emotion Check 2": {
             "Open": "[出門前愛緹攔住了你的去路，並把手搭在你的肩頭]",
             "愛緹 Question": "被選召的勇者啊，你已經通過了我的考驗，即將帶著從巨石中拔出的寶劍踏上征途。你，準備好了嗎？",
             "Chief Question 1": "準備好了。",
             "愛緹 Response 1": "很好，我會在旅途的終點等你，以榮耀和寶藏為你加冕。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "沒準備好……",
             "愛緹 Response 2": "嘖，你就不能好好配合我一次嗎？",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         }
     },
     "渡鴉": {
@@ -803,23 +841,23 @@
             "Chief Question 1": "謝謝，寫得不錯。",
             "渡鴉 Response 1": "你喜歡就好~",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "……可能是我水準不夠，我有點看不懂。",
             "渡鴉 Response 2": "真遺憾，我可是構思了好久呢。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[渡鴉饒有興致地看著你]",
             "渡鴉 Question": "拜託我寫通稿？可以呀，你有什麼要求？",
             "Chief Question 1": "都交給你，我相信你的水準。",
             "渡鴉 Response 1": "沒問題，絕對讓你滿意~",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "別寫成打油詩就好。",
             "渡鴉 Response 2": "欸，什麼叫打油詩啊，我那叫調侃，懂吧~調侃~",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         }
     },
     "雷溫": {
@@ -828,20 +866,20 @@
             "雷溫 Question": "又被提醒放風時間的廣播吵醒了……",
             "Chief Question 1": "乾脆把電台改到白天怎麼樣？",
             "雷溫 Response 1": "但我還是放不下那些在夜裡需要陪伴去傾訴的人……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Emoji 1": "😥",
             "Chief Question 2": "試試睡覺時戴上耳塞？",
             "雷溫 Response 2": "我聽說，菲小姐採購的耳塞「可以阻礙所有噪音」，但廣播也「擁有不可抵擋的穿透力」……呵呵，聽起來像是我的節目贊助商會打出的廣告詞呢。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         },
         "Emotion Check 2": {
             "Open": "[雷溫正在整理著ASMR錄製用的道具。]",
             "雷溫 Question": "爪子踩過行道樹的嚓嚓聲，觸鬚摩擦耳膜的沙沙聲……錄哪一個好呢？",
             "Chief Question 1": "兩個都不太像是ASMR應該有的選項啊。",
             "雷溫 Response 1": "別這麼說，這可是除了我的小詩之外，電台ASMR中最有人氣的兩個選項，很適合無眠的夜晚……你也可以試試。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "聽起來都滿催眠的，兩個都不錯。",
             "雷溫 Response 2": "如果你也有興趣，我可以傳給你這份音檔。試試聆聽著它入睡吧，它一定能幫你順利進入夢鄉~",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         }
     },
     "赫斯提亞": {
@@ -850,20 +888,20 @@
             "赫斯提亞 Question": "要點燃火光……為大家……指引回家的路……",
             "Chief Question 1": "回去吧，別擔心，他們不會迷路的。",
             "赫斯提亞 Response 1": "不……這是……我的職責……！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_6.png",
+            "Emoji 1": "😖",
             "Chief Question 2": "辛苦了，那我幫你搬個椅子吧。",
             "赫斯提亞 Response 2": "謝謝……聖女會賜福於你……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         },
         "Emotion Check 2": {
             "Open": "[赫斯提亞吃了一顆別人給的怪味糖。]",
             "赫斯提亞 Question": "今天的貢品……味道有些……不一樣……？",
             "Chief Question 1": "你不喜歡的話，就換個口味吧。",
             "赫斯提亞 Response 1": "這個好多了……甜甜的……是桃子的味道……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "呃……這顆糖好像是鹹魚口味的。",
             "赫斯提亞 Response 2": "鹹魚……糖……？糖……鹹魚……魚……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         }
     },
     "藍鷲": {
@@ -873,16 +911,16 @@
             "Chief Question 1": "藍莓起司蛋糕",
             "藍鷲 Response 1": "嗯，香醇可口，甜度也很適中……剛疲憊工作了一陣子的局長大人，應當最適合享用這份下午茶的愜意吧？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉",
+                "😉"
             ],
             "Chief Question 2": "草莓奶油可麗餅",
             "藍鷲 Response 2": "一起嚐嚐吧？……你說太甜了，呵呵，生活中的苦總是需要點甜味調劑的。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ]
         },
         "Emotion Check 2": {
@@ -891,16 +929,54 @@
             "Chief Question 1": "懷念",
             "藍鷲 Response 1": "是嗎？既然這樣，我遞交的那份申請，局長大人可要雙手贊同批准哦，不久之後，我們就能繼續比鄰而居！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "否認",
             "藍鷲 Response 2": "是嗎？本來還想將房間搬到局長房間旁邊，那還真可惜。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png"
+                "😥",
+                "😥",
+                "😥"
+            ]
+        }
+    },
+    "縈縈": {
+        "Emotion Check 1": {
+            "Open": "[你聽到辦公室內傳來悅耳的歌聲。]",
+            "縈縈 Question": "局長喜不喜歡我唱的歌？下一首想聽什麼呀？",
+            "Chief Question 1": "都喜歡，你的歌聲能讓我更專注。",
+            "縈縈 Response 1": "那當然啦，我的歌喉在雲淮可值千金一曲~",
+            "Emoji 1": [
+                "😉",
+                "😉",
+                "😉"
+            ],
+            "Chief Question 2": "可以再唱一遍剛才那首歌嗎？",
+            "縈縈 Response 2": "局長果然和我志趣相投~剛才那首可是我最喜歡的曲子！",
+            "Emoji 2": [
+                "😘",
+                "😘",
+                "😘"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[縈縈正在縫製祈福的花囊。]",
+            "縈縈 Question": "局長你來啦！快幫我看看這枚花囊用什麼顏色的掛繩比較好～",
+            "Chief Question 1": "用你喜歡的顏色吧。",
+            "縈縈 Response 1": "你的意思是無論我喜歡什麼，你都會喜歡嗎~",
+            "Emoji 1": [
+                "😘",
+                "😘",
+                "😘"
+            ],
+            "Chief Question 2": "紫藤的顏色就很好。",
+            "縈縈 Response 2": "那我可要好好挑一挑，哪個顏色最像紫藤呢~",
+            "Emoji 2": [
+                "😘",
+                "😘",
+                "😘"
             ]
         }
     },
@@ -911,14 +987,14 @@
             "Chief Question 1": "嗯，大概什麼時候準備表演呢？",
             "哈梅爾 Response 1": "如果是你的話，現在就可以。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "我是來提醒你到時間出任務了。",
             "哈梅爾 Response 2": "唔……那我稍微準備一下。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖"
             ]
         },
         "Emotion Check 2": {
@@ -927,14 +1003,14 @@
             "Chief Question 1": "為什麼要在臥室練舞？",
             "哈梅爾 Response 1": "在外面……能力……會干擾大家的。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫"
             ],
             "Chief Question 2": "那等下我派人幫你清理。",
             "哈梅爾 Response 2": "謝謝局長……",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖"
             ]
         }
     },
@@ -944,20 +1020,20 @@
             "恩菲爾 Question": "新訂購用於雕像創作的石料似乎不太對。",
             "Chief Question 1": "我讓採購部重新訂購了一批材料。",
             "恩菲爾 Response 1": "嗯~謝謝。這批材料用起來太不順手了~",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "不如將錯就錯，試試新的材料創作吧。",
             "恩菲爾 Response 2": "這樣……也不錯。為全新的材料，賦予全新的生命~",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         },
         "Emotion Check 2": {
             "Open": "[恩菲爾的作品由於過於逼真嚇到不少人。]",
             "恩菲爾 Question": "有什麼問題嗎？",
             "Chief Question 1": "把雕像做得更「印象派」一點呢？",
             "恩菲爾 Response 1": "哦？那可不是「暗夜的魔女」的風格……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "我幫你清出了一間用來存放作品的庫房。",
             "恩菲爾 Response 2": "唉……好吧，在暗處蒙塵總比不被人理解來得好。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+            "Emoji 2": "😫"
         }
     },
     "卡門奈特": {
@@ -966,20 +1042,20 @@
             "卡門奈特 Question": "不知道我是否有機會能品嚐到局長……親手製作的料理呢？",
             "Chief Question 1": "明天就可以，我對自己的廚藝還是滿有信心的。",
             "卡門奈特 Response 1": "那我就等著一飽口福了~",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "抱歉，我不太會做菜。",
             "卡門奈特 Response 2": "這樣啊，可以理解，畢竟局長大人每天都有很多事情要忙呢。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+            "Emoji 2": "😏"
         },
         "Emotion Check 2": {
             "Open": "[卡門奈特正百無聊賴地看著電視機裡的美食節目]",
             "卡門奈特 Question": "如果是局長的話，會更喜歡哪道菜呢？",
             "Chief Question 1": "金猊特產白斬雞。",
             "卡門奈特 Response 1": "嗯，色味清而不雜，確實鮮嫩可口。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "紅酒燴雞排。",
             "卡門奈特 Response 2": "這樣啊~我正好認識一位非常擅長這道菜的大廚，下次出外勤的時候可以帶您一起去品嚐一下。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         }
     },
     "可可莉克": {
@@ -988,20 +1064,20 @@
             "可可莉克 Question": "你覺得在這裡種點什麼花會比較好？",
             "Chief Question 1": "你來決定就好，我相信你的審美。",
             "可可莉克 Response 1": "那就敬請期待吧~",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "千萬不要種有毒的花！拜託了！",
             "可可莉克 Response 2": "真可惜，我本來還想種點夾竹桃呢。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[可可莉克正在娛樂區瀏覽購物頁面]",
             "可可莉克 Question": "如果是你的話，會更喜歡哪一枚胸針？",
             "Chief Question 1": "藍色的，設計很亮眼。",
             "可可莉克 Response 1": "倒是難得跟我意見一致了。這枚胸針挺特別的，就買來送你吧~",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "銀色的？其實我平時也不怎麼戴胸針。",
             "可可莉克 Response 2": "我倒是覺得這枚藍色的一定非常適合你，偶爾也要學著好好打扮自己嘛。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+            "Emoji 2": "😏"
         }
     },
     "伊芙": {
@@ -1010,20 +1086,20 @@
             "伊芙 Question": "是絲綢的更適合小熊呢……還是棉布的？",
             "Chief Question 1": "天氣涼了，選棉布的吧，更暖和一些。",
             "伊芙 Response 1": "棉布的……會更暖和嗎？對我的這雙手來說，無論哪種摸起來都沒什麼區別……不過既然局長這麼說，那就選這套吧。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "絲綢的更優雅，符合它的氣質。",
             "伊芙 Response 2": "局長的眼睛像活在幸福童話裡的孩子一樣，總能看到更有趣更廣闊的世界……希望小熊也能喜歡這樣的局長選的衣服。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         },
         "Emotion Check 2": {
             "Open": "[伊芙的輪椅似乎卡死在了破損的地磚中。]",
             "伊芙 Question": "早說了這具身體克服不了哪怕最輕微的阻礙……請不要管我，去做局長該做的事吧。",
             "Chief Question 1": "我該做的事就是讓你在這裡能生活得輕鬆。你要去哪裡？我可以帶你去。",
             "伊芙 Response 1": "為什麼要做到這一步呢……明明你也知道，你不可能永遠陪在我身邊，幫我清除障礙……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Emoji 1": "😥",
             "Chief Question 2": "我該做的事就是讓你不被物理上的障礙所束縛。我馬上叫人來修地磚，順便檢修改良一下你的輪椅。",
             "伊芙 Response 2": "束縛我的除了這些物質上的不便之外，還有其他很多……我知道你在期待我慢慢克服它們，但你或許，還要等很久……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         }
     },
     "杜若": {
@@ -1033,24 +1109,24 @@
             "Chief Question 1": "……算出什麼了？",
             "杜若 Response 1": "只是算到局長難得有空，不如就趁此機會，和我說說那些……你從未提起過的故事吧？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏"
             ],
             "Chief Question 2": "反正好壞都一樣要工作吧？",
             "杜若 Response 2": "雖然都要工作……局長難道不好奇，最近會不會有什麼大麻煩嗎？",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         },
         "Emotion Check 2": {
             "Open": "[杜若在休息室裡燃起了一爐香。 ]",
             "杜若 Question": "傳說閉目深思，變幻的煙氣便會化作所念之人的模樣……怎麼樣，想不想試試？",
             "Chief Question 1": "在煙氣前閉目深思。",
             "杜若 Response 1": "似乎顯出了一點眉目……尊駕所念之人，若遠實近……嗯，局長知道是誰了嗎？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "或許，教我印香會更有趣？",
             "杜若 Response 2": "局長居然還知道這個……是前兩天看到我做了嗎？",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘"
             ]
         }
     },
@@ -1061,16 +1137,16 @@
             "Chief Question 1": "很可愛。",
             "L.L. Response 1": "是吧是吧！這樣的「你」就可以留在這裡永遠陪著我了……",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉",
+                "😉"
             ],
             "Chief Question 2": "你想把我當作「寵物」嗎？",
             "L.L. Response 2": "嗯！那，你要不要叫我一聲「主人」試試看？",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ]
         },
         "Emotion Check 2": {
@@ -1079,15 +1155,15 @@
             "Chief Question 1": "……其實沒有那麼冷。",
             "L.L. Response 1": "別推辭嘛！難道你不喜歡擁抱的感覺嗎？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😘",
+                "😉"
             ],
             "Chief Question 2": "你看起來可不像純粹的「不小心」。",
             "L.L. Response 2": "是呀！因為我想你的目光落在我身上，一直看著我，這樣不好嗎？",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫",
+                "😫"
             ]
         }
     },
@@ -1097,10 +1173,10 @@
             "耶萊娜 Question": "您這裡的藏書很豐富，最近又讀完了幾本，引人入勝值得一看。若您想消磨時間的話，我願意為您推薦。",
             "Chief Question 1": "我最近也想讀點新書。",
             "耶萊娜 Response 1": "我很高興您會感興趣。請稍等片刻，我為您將書取下來。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "我最近沒有時間讀書。",
             "耶萊娜 Response 2": "沒關係，我可以先幫您整理成書單，等您有空的時候再憑興趣閱讀。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+            "Emoji 2": "😏"
         },
         "Emotion Check 2": {
             "Open": "[深夜，亮著燈的辦公室響起克制的敲門聲。]",
@@ -1108,12 +1184,12 @@
             "Chief Question 1": "只是有點睡不著。",
             "耶萊娜 Response 1": "失眠的時候，借助外力不失為一種辦法。需要我來哄您入睡嗎？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "還有事情需要處理。",
             "耶萊娜 Response 2": "如果您願意信任我，我可以幫您分擔辛勞，這樣您也能早點休息。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         }
     },
     "切爾西伯爵": {
@@ -1122,10 +1198,10 @@
             "切爾西伯爵 Question": "給，這是你的紀念品。",
             "Chief Question 1": "這是……又換了一種寶石嗎？",
             "切爾西伯爵 Response 1": "哈，小事一樁。你收下就是了。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "好像成色不如之前的。",
             "切爾西伯爵 Response 2": "不可能！它的淨度比之前任何一個都高！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+            "Emoji 2": "😫"
         },
         "Emotion Check 2": {
             "Open": "[切爾西看著西迪，似乎若有所思]",
@@ -1133,12 +1209,12 @@
             "Chief Question 1": "你已經有一隻「貓」了。",
             "切爾西伯爵 Response 1": "嘖，貓和西迪能相提並論嗎？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png"
+                "😥",
+                "😥"
             ],
             "Chief Question 2": "不是不可以，但手續很複雜，你需要有耐心。",
             "切爾西伯爵 Response 2": "好吧……那我等就是了。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "辰砂": {
@@ -1147,20 +1223,20 @@
             "辰砂 Question": "您今天需要我的貼身保護嗎？",
             "Chief Question 1": "可以，但你也要注意自己的安全。",
             "辰砂 Response 1": "沒問題，等候您的命令。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "這次任務難度不高，你可以休息了。",
             "辰砂 Response 2": "你上次似乎也是這樣說的。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[任務結束後，辰砂似乎在思考什麼]",
             "辰砂 Question": "唉，以往的經驗在管理局這裡都不怎麼適用啊。",
             "Chief Question 1": "這裡的戰鬥太難了？",
             "辰砂 Response 1": "不要小看我，我好歹也是前蛇眼的負責人。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Emoji 1": "😦",
             "Chief Question 2": "和蛇眼的區別很大？",
             "辰砂 Response 2": "嗯，交流還真是一件難事。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "卡瓦卡瓦": {
@@ -1170,22 +1246,22 @@
             "Chief Question 1": "確實有一段時間沒巡視砂海情況了，我們明天啟程吧。",
             "卡瓦卡瓦 Response 1": "好的！這次有機會的話一起去看砂海上的流星雨吧！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "砂海最近沒有狀況，有消息一定叫你。",
             "卡瓦卡瓦 Response 2": "好吧，那到時候我來做嚮導……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         },
         "Emotion Check 2": {
             "Open": "[卡瓦卡瓦有一些難過]",
             "卡瓦卡瓦 Question": "局長，我的信標少了幾個。",
             "Chief Question 1": "會不會是遺落在任務地點了？",
             "卡瓦卡瓦 Response 1": "不會的，如果不是與砂海有關的任務，我是不會帶著它們的。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "有沒有可能掉在訓練室裡？",
             "卡瓦卡瓦 Response 2": "對哦！那裡我還沒去找過呢！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         }
     },
     "李維": {
@@ -1194,20 +1270,20 @@
             "李維 Question": "怎麼樣，好看嗎？",
             "Chief Question 1": "好看好看。",
             "李維 Response 1": "我聽你的回答怎麼這麼敷衍呢？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "……勉勉強強吧。",
             "李維 Response 2": "這可是很難搶到的走秀款，我覺得你對服裝的審美可能需要加強一下。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[李維正在和兩個工作人員打牌]",
             "李維 Question": "嘿，真不好意思，我又贏了。",
             "Chief Question 1": "你贏了幾把了？",
             "李維 Response 1": "不多不多，才三把，你要不要也跟我來一局？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "可別讓我發現你在用契約跟人玩遊戲。",
             "李維 Response 2": "怎麼可能呢？這種小遊戲還要動用異能，也太無趣了。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+            "Emoji 2": "😏"
         }
     },
     "尤尼": {
@@ -1216,20 +1292,20 @@
             "尤尼 Question": "你為什麼只戴一邊耳環？",
             "Chief Question 1": "沒錢買另外一個。",
             "尤尼 Response 1": "哈，那要不要跳槽來當我的助手？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "工作制服只分配了一個。",
             "尤尼 Response 2": "……你們管物資的那個人一定跟我有仇。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         },
         "Emotion Check 2": {
             "Open": "[尤尼拿著一張宣傳單在很仔細地端詳]",
             "尤尼 Question": "這人在我之後是不是又去把五官做了調整……",
             "Chief Question 1": "看了對比圖，感覺以前的更好看。",
             "尤尼 Response 1": "當然，那可是我的真跡。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "現在不是也很好看嗎？",
             "尤尼 Response 2": "你的審美觀有待加強。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         }
     },
     "妮諾": {
@@ -1239,14 +1315,14 @@
             "Chief Question 1": "垃圾食品還是少吃點為妙。",
             "妮諾 Response 1": "蛤~？不懂就別亂說，它們提供給我的不是糖、油和鹽，是一種態度！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫"
             ],
             "Chief Question 2": "這樣吧，今天你直播時粉絲投給你多少棒棒糖，我就買給你多少。",
             "妮諾 Response 2": "嗯？還挺會玩的嘛你，這戰書我收下了~你就等著用卡車裝吧！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏"
             ]
         },
         "Emotion Check 2": {
@@ -1255,15 +1331,15 @@
             "Chief Question 1": "也許是直播內容同質化嚴重，可以想點新鮮的。",
             "妮諾 Response 1": "還不是你們這不讓播那不讓播，還逼我用虛擬背景！我不管，你得對我負責，陪我播到熱度恢復為止！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ],
             "Chief Question 2": "需不需要我組織其他禁閉者一起看你的直播，幫你刷禮物？",
             "妮諾 Response 2": "哦？這是可以的嗎？！等等……不對！我識破你了！你一定是想讓我被平台查到灌水然後被刪帳！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫"
             ]
         }
     },
@@ -1274,16 +1350,16 @@
             "Chief Question 1": "這麼荒謬的八卦你也信啊。",
             "戈藍 Response 1": "啊，什麼，這是假的？*，虧老子還在這篇文斗內了……欸不對啊，之前死戀電台好像也八卦過類似的事，難道那也是假的嗎？！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫",
+                "😫"
             ],
             "Chief Question 2": "我不知道你在說什麼。",
             "戈藍 Response 2": "哇，這麼遮遮掩掩的肯定是被說中了吧！快詳細說說，你們是不是一度恨海情天至死不渝啊？那之後你是不是封心鎖愛孤家寡人一生啊？",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ]
         },
         "Emotion Check 2": {
@@ -1292,16 +1368,16 @@
             "Chief Question 1": "賣真假不明的愛恨情仇嗎？",
             "戈藍 Response 1": "賣情報不就是這樣嗎？一旦售出概不負責，真假自辨！不過你放心，我肯定不會主動騙你！被動的，那我……也沒辦法不是！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "賣梳理清晰的局勢分析嗎？",
             "戈藍 Response 2": "這、這算是深加工產品了吧，我才不賣這種東西！不、不是賣不了啊，是沒有賣情報的會做這種吃力不討好的事情！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫",
+                "😫"
             ]
         }
     },
@@ -1312,16 +1388,16 @@
             "Chief Question 1": "粉色信封",
             "多芙 Response 1": "咦？粉色這個是用心形貼紙封口的耶，說不定是封情書呢！唉呀，你別急著否認嘛！萬一……真的是給你的呢？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ],
             "Chief Question 2": "藍色信封",
             "多芙 Response 2": "從這麼多信裡選中了這封信，你我還挺有緣分的，該說是你對我瞭解很深呢，還是……這份心意，本就想讓你拆開呢？",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ]
         },
         "Emotion Check 2": {
@@ -1330,16 +1406,16 @@
             "Chief Question 1": "提醒她看署名",
             "多芙 Response 1": "署名是……米諾斯危機管理局局長……哦，連多芙這種小人物都要親自處理監視，不愧是局長，好細心呀！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ],
             "Chief Question 2": "提醒她拆開看",
             "多芙 Response 2": "「用自己真正的心意與人往來通訊」……這個字跡……是你……這就是你想對我說的話嗎……",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ]
         }
     },
@@ -1349,20 +1425,20 @@
             "九十九 Question": "什麼時候……到訓練時間？",
             "Chief Question 1": "等海拉完成任務回來就可以。",
             "九十九 Response 1": "唔……好！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "大概還有兩個小時。",
             "九十九 Response 2": "時間……過得真慢。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[九十九捶打著禁閉室的大門，室內溫度急劇升高]",
             "九十九 Question": "啊啊……啊！",
             "Chief Question 1": "需要緊急降溫嗎？",
             "九十九 Response 1": "沒用……是我的血在沸騰。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Emoji 1": "😫",
             "Chief Question 2": "稍等，我加固一下枷鎖。",
             "九十九 Response 2": "（悶哼），希望……你的速度快一點。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         }
     },
     "溫蒂": {
@@ -1371,10 +1447,10 @@
             "溫蒂 Question": "鏽河的死役……還剩多少？",
             "Chief Question 1": "如果數量超過危險值，會通知我們的。",
             "溫蒂 Response 1": "那太好了……太好了！我好期待！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "你不需要擔心這件事。",
             "溫蒂 Response 2": "局長——你是想被我大卸八塊了嗎？",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         },
         "Emotion Check 2": {
             "Open": "[溫蒂一把撕碎了眼前的資料]",
@@ -1382,15 +1458,15 @@
             "Chief Question 1": "啊……？什麼死役？",
             "溫蒂 Response 1": "來不及了！快閃開！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫"
             ],
             "Chief Question 2": "居然還有死役？我去申請一下調查許可。",
             "溫蒂 Response 2": "……終於，終於可以大開殺戒了！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ]
         }
     },
@@ -1400,20 +1476,20 @@
             "帕加茜 Question": "這裡……還有其他的文獻資料嗎？",
             "Chief Question 1": "我可以幫你借新城圖書館裡的書。",
             "帕加茜 Response 1": "嗯……謝謝局長，我一定會按時歸還的。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "要是這些都讀完了，還有一本《狄斯異聞錄》。",
             "帕加茜 Response 2": "優秀的紀傳體小說，可惜……後續卻沒了消息。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         },
         "Emotion Check 2": {
             "Open": "[你打算來看望帕加茜]",
             "帕加茜 Question": "不要……靠近我，會變得不幸。",
             "Chief Question 1": "「核能」不注意的話，確實會很危險。",
             "帕加茜 Response 1": "……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Emoji 1": "😦",
             "Chief Question 2": "我穿好防護服了。",
             "帕加茜 Response 2": "嗯，這樣就好。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "多莉": {
@@ -1423,12 +1499,12 @@
             "Chief Question 1": "再給你五分鐘，時間到就走。",
             "多莉 Response 1": "好耶！那我們一起看完這場比賽吧！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "任務緊急，回來看錄播也一樣。",
             "多莉 Response 2": "呿……你這人，根本就不懂。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[多莉一臉陰鬱地看著球棒]",
@@ -1436,14 +1512,14 @@
             "Chief Question 1": "那你用水管將就一下吧。",
             "多莉 Response 1": "啊——不行！完全不順手！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫"
             ],
             "Chief Question 2": "下一批球棒會是加強材質的，先忍一忍。",
             "多莉 Response 2": "那……就先這樣。要是還不行的話，我是不會買單的。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_2.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😦",
+                "😫"
             ]
         }
     },
@@ -1454,14 +1530,14 @@
             "Chief Question 1": "就放在辦公桌上吧，等等喝。",
             "赫羅 Response 1": "不行！好牛奶就得現在喝！一起乾了！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😫",
+                "😖"
             ],
             "Chief Question 2": "抱歉，我沒有長高的需求。",
             "赫羅 Response 2": "你……！今天我就要把你打到和我一樣高！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖"
             ]
         },
         "Emotion Check 2": {
@@ -1469,10 +1545,10 @@
             "赫羅 Question": "唉……卓婭老大怎麼都不和我說話了……",
             "Chief Question 1": "可能是你太矮了，卓婭沒注意到你。",
             "赫羅 Response 1": "你等著！我馬上就砸爛你辦公室的門！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Emoji 1": "😫",
             "Chief Question 2": "有可能是你今天戰鬥時的聲音不夠洪亮。",
             "赫羅 Response 2": "啊啊……下次我一定要讓卓婭老大看到我戰鬥時的帥氣樣子！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         }
     },
     "莓絲": {
@@ -1482,22 +1558,22 @@
             "Chief Question 1": "要睡的話，回房間裡睡吧。",
             "莓絲 Response 1": "嗯……謝謝局長…………不對！要是睡了的話，我會做惡夢的……",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖"
             ],
             "Chief Question 2": "要出任務了，醒醒。",
             "莓絲 Response 2": "嗯，好！我……沒睡！我很有精神！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+            "Emoji 2": "😫"
         },
         "Emotion Check 2": {
             "Open": "[莓絲在鍛爐旁自言自語]",
             "莓絲 Question": "嗯……下一把武器該做什麼呢……",
             "Chief Question 1": "不如做一把闊劍？",
             "莓絲 Response 1": "好主意，不如再加一點點設計，做成籠手劍吧！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "不如做一把左輪手槍？",
             "莓絲 Response 2": "嘖，為什麼你們都喜歡槍械這種東西呢……明明冷兵器打起架來才最有趣。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         }
     },
     "卡斯洛": {
@@ -1506,20 +1582,20 @@
             "卡斯洛 Question": "喂，最近好無聊，說好的給我更高難度的任務呢！",
             "Chief Question 1": "正好鏽河的死役又在活躍了，就派你去清理吧。",
             "卡斯洛 Response 1": "哈哈哈，就等你這句話了！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "高難度任務這種東西，不是你解決的越多，剩下的就越少嗎。",
             "卡斯洛 Response 2": "嘖，那……那你來陪我玩玩吧！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[卡斯洛用新到的油彩對著鏡子塗塗畫畫]",
             "卡斯洛 Question": "管理局採購的這款不怎麼防水啊……太容易花了。",
             "Chief Question 1": "沒事，現在的效果看起來更容易恐嚇到人。",
             "卡斯洛 Response 1": "哈，那我現在就去找幾個傢伙試試！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "那你換一款用？",
             "卡斯洛 Response 2": "嘖，換了幾種都是這樣！算了算了，我自己調！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         }
     },
     "克里斯蒂娜": {
@@ -1528,20 +1604,20 @@
             "克里斯蒂娜 Question": "喲，親愛的助手，要不要一起來練練？",
             "Chief Question 1": "好吧……但你要記得手下留情啊。",
             "克里斯蒂娜 Response 1": "放心吧，我自有分寸~",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "這……今天乾脆就算了吧……",
             "克里斯蒂娜 Response 2": "唉呀來嘛來嘛，大不了我讓你幾招~",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+            "Emoji 2": "😏"
         },
         "Emotion Check 2": {
             "Open": "[克里斯蒂娜正在擺弄一副眼鏡]",
             "克里斯蒂娜 Question": "小助手！快來看看我做的新道具！它可以在你眨眼的時候拍下眼前的畫面，傳到你的裝置上。",
             "Chief Question 1": "很酷！",
             "克里斯蒂娜 Response 1": "嘿嘿，我就知道你會喜歡！給你啦，不用謝我！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "這個……能在實戰中運用嗎？",
             "克里斯蒂娜 Response 2": "當然！在跟蹤潛入任務裡很實用！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         }
     },
     "瑞思": {
@@ -1551,16 +1627,16 @@
             "Chief Question 1": "……太痛了。",
             "瑞思 Response 1": "是我的錯，被打到的地方已經腫起來了，快，我帶您去醫務室！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ],
             "Chief Question 2": "這一球，力量也太強了……",
             "瑞思 Response 2": "打球的過程中，不小心想到了前任上司的所作所為，一不小心就……",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png"
+                "😥",
+                "😥",
+                "😥"
             ]
         },
         "Emotion Check 2": {
@@ -1569,16 +1645,16 @@
             "Chief Question 1": "這個套餐好優惠啊！",
             "瑞思 Response 1": "很早以前購買的套票，這兩天整理時發現快到期了。工作了一整天，局長要不要一起去通宵唱歌發洩一下？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "通宵場……明天我還要開會，下次吧。",
             "瑞思 Response 2": "嗯，工作優先，如果我能訂到週末包廂再一起去吧。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png"
+                "😥",
+                "😥",
+                "😥"
             ]
         }
     },
@@ -1589,16 +1665,16 @@
             "Chief Question 1": "拿起絲巾",
             "米拉 Response 1": "嗯……明智的選擇，這條絲巾柔軟透氣，既能確保呼吸順暢，又能防止空氣中的沙塵糊住口鼻，圖案也很漂亮，是我最喜歡的一條呢。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "拿起水囊",
             "米拉 Response 2": "來到圖科的客人們身上都會帶著灌滿了佳釀的水囊，決鬥勝利後，客人們總會拿出水囊痛飲一番，它也是獎勵英雄的勳章，很適合你哦局長。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉",
+                "😉"
             ]
         },
         "Emotion Check 2": {
@@ -1607,16 +1683,16 @@
             "Chief Question 1": "試試烘衣機？或許會更方便點",
             "米拉 Response 1": "可是被陽光曬過的床單，會讓人睡得更安穩些，局長，不想試試看嗎？很舒服的哦。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ],
             "Chief Question 2": "需要我幫忙嗎？",
             "米拉 Response 2": "不用啦，剛才撞見幾個小朋友在走廊上打架，都被我用砂海陳釀換來做小幫手了，噓——我準備的都是無酒精飲料，可別告訴她們！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ]
         }
     },
@@ -1626,20 +1702,20 @@
             "艾恩 Question": "有什麼事情就快點說，你我的時間都很寶貴。",
             "Chief Question 1": "我可以看看你切下來的大腦額葉嗎？",
             "艾恩 Response 1": "可以。但在參觀時，請不要妄加評論。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Emoji 1": "😥",
             "Chief Question 2": "這次手術還算成功嗎？",
             "艾恩 Response 2": "明知故問。馬上她就會康復了，只不過……她會失去一些寶貴的東西。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         },
         "Emotion Check 2": {
             "Open": "[艾恩看著禁閉者們，不停地嘆氣]",
             "艾恩 Question": "你什麼時候管管這些禁閉者？",
             "Chief Question 1": "他們在這裡還算規矩吧？",
             "艾恩 Response 1": "規矩？這裡完全就是個縮小版的辛迪加！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "抱歉，是我管理不當。",
             "艾恩 Response 2": "……不都是你的錯，要怪……就怪狂厄吧。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "泰特拉": {
@@ -1649,15 +1725,15 @@
             "Chief Question 1": "不如你來優化一下管理局的網路安全邏輯吧。",
             "泰特拉 Response 1": "求求我，說不定我會答應你。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😘",
+                "😉"
             ],
             "Chief Question 2": "管理局的防火牆萬無一失。",
             "泰特拉 Response 2": "哦~那我從電腦裡找到的這份檔案是誰的呢？",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ]
         },
         "Emotion Check 2": {
@@ -1665,12 +1741,12 @@
             "泰特拉 Question": "無聊啊——沒想到在這裡也會這麼無聊。",
             "Chief Question 1": "不如去找普希拉吧？",
             "泰特拉 Response 1": "嘖，兩個人一起的話……任務難度會降低的。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Emoji 1": "😥",
             "Chief Question 2": "不然下次幫你準備一些單人任務？",
             "泰特拉 Response 2": "哦——？這下刺激了。我喜歡。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😘",
+                "😉"
             ]
         }
     },
@@ -1680,20 +1756,20 @@
             "堇 Question": "局長……您看起來有煩心事？如果不嫌棄，請讓我為您分憂。",
             "Chief Question 1": "如果你堅持的話， 那就幫我搬搬文件好了。",
             "堇 Response 1": "好的，我明白了，我會認真工作的。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_6.png",
+            "Emoji 1": "😖",
             "Chief Question 2": "我沒什麼不開心的事，不用麻煩你。",
             "堇 Response 2": "您是……不信任我嗎？",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         },
         "Emotion Check 2": {
             "Open": "[堇捏著一片花瓣，神色慌張]",
             "堇 Question": "花園的殺手……最近來過？",
             "Chief Question 1": "不會的，這裡很安全。",
             "堇 Response 1": "請您……一定要小心。她們無孔不入。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Emoji 1": "😫",
             "Chief Question 2": "既然你這麼擔心，就由你來保護我吧。",
             "堇 Response 2": "我絕不會辜負您的信任。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         }
     },
     "麥昆": {
@@ -1702,10 +1778,10 @@
             "麥昆 Question": "怎麼樣，有興趣嗎？",
             "Chief Question 1": "好吧，我答應你。",
             "麥昆 Response 1": "相信我，你會是最令人驚喜的嘉賓。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "不行，今天還有任務。",
             "麥昆 Response 2": "沒關係，我下次還會邀請你的。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         },
         "Emotion Check 2": {
             "Open": "[麥昆因藝術品詐騙面臨鉅額罰款。]",
@@ -1713,14 +1789,14 @@
             "Chief Question 1": "該支付你的罰款金額了。",
             "麥昆 Response 1": "嘖——沒想到你這麼有正義感。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png"
+                "😥",
+                "😥"
             ],
             "Chief Question 2": "咳，這次就先幫你蒙混過關，下不為例。",
             "麥昆 Response 2": "哦吼，要我說聲謝謝嗎？還是說，你要我……給你一點額外的「謝禮」？",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😏",
+                "😘"
             ]
         }
     },
@@ -1730,20 +1806,20 @@
             "琳 Question": "總覺得好像還差了點什麼……",
             "Chief Question 1": "只有這一種花太單調了？",
             "琳 Response 1": "有可能……我去搬幾盆別的花來試試……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Emoji 1": "😦",
             "Chief Question 2": "缺了人物？",
             "琳 Response 2": "啊，局長，您說得對。可以麻煩您站到花後面當我的模特兒嗎？",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         },
         "Emotion Check 2": {
             "Open": "[琳正在專注地看一本漫畫，臉上泛著紅暈]",
             "琳 Question": "好甜啊……",
             "Chief Question 1": "你在看什麼？",
             "琳 Response 1": "是……嗯……漫畫啦。不過局長您肯定不看這個吧……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "什麼好甜？",
             "琳 Response 2": "啊！您嚇了我一跳……我說的是漫畫啦……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         }
     },
     "加洛法諾": {
@@ -1752,20 +1828,20 @@
             "加洛法諾 Question": "您覺得……今天我該用哪種顏色的花來裝飾房間呢？",
             "Chief Question 1": "紅色吧，色彩更明亮。",
             "加洛法諾 Response 1": "嗯……看著它，的確會讓人心情更好。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "我挑不出來……你選自己喜歡的就好。",
             "加洛法諾 Response 2": "唉……真是令人糾結呢。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         },
         "Emotion Check 2": {
             "Open": "[加洛法諾撫摸著一匹柔軟的布料]",
             "加洛法諾 Question": "我打算用它來為您做套睡衣，應該會很合適。",
             "Chief Question 1": "謝謝，我想那肯定很舒服。",
             "加洛法諾 Response 1": "希望它可以為您帶來更好的休息品質。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "會不會太麻煩你了？",
             "加洛法諾 Response 2": "怎麼會？我甚至希望……能再為您多做一些。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         }
     },
     "優利卡": {
@@ -1775,16 +1851,16 @@
             "Chief Question 1": "自由時間多的慢遊路線吧。",
             "優利卡 Response 1": "我也覺得旅行就應該悠悠閒閒的，這樣，有了靈感可以隨時停下來思考……下次一起去吧！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "假期總是不夠長，估計只能選特戰隊式旅遊了。",
             "優利卡 Response 2": "對哦……局長總是很忙……嗯，我這裡應該有發明可以幫你提高工作效率的，讓我來找找……",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ]
         },
         "Emotion Check 2": {
@@ -1793,16 +1869,16 @@
             "Chief Question 1": "我想要隱身衣。",
             "優利卡 Response 1": "唔，組合攝影機和螢幕材料應該可以做出來……啊，但是臉沒辦法覆蓋到耶，效果可能會有點像一顆孤零零的頭飄在空中。沒關係嗎？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉",
+                "😉"
             ],
             "Chief Question 2": "我想要鐳射劍。",
             "優利卡 Response 2": "啊！那個確實很有趣！我以前好像做過類似的發明，雖然因為安全原因限制了功率，連雞蛋都煮不熟……但有著色功能哦。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫",
+                "😫"
             ]
         }
     },
@@ -1812,20 +1888,20 @@
             "薊 Question": "你什麼時候過來的？怎麼還用這種眼神看著我？別過來！我只是在寫……寫手帳而已！",
             "Chief Question 1": "嗯……我似乎瞥見了我的臉的拼貼。",
             "薊 Response 1": "不可能，一定是你眼花了！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_6.png",
+            "Emoji 1": "😖",
             "Chief Question 2": "就是有點好奇裡面的內容。",
             "薊 Response 2": "哼，記載的都是我最珍貴的東西，才不隨便給人看。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+            "Emoji 2": "😫"
         },
         "Emotion Check 2": {
             "Open": "[薊在管理局操場發現了一隻受傷的小流浪貓。]",
             "薊 Question": "它流了好多血啊，局長，我們可以幫幫它嗎？",
             "Chief Question 1": "可以，那它就託付給你了？",
             "薊 Response 1": "算你有眼光，照顧流浪貓狗我最拿手……咳咳，我就試試，嗯，試試。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "交給醫務人員處理吧。",
             "薊 Response 2": "……我會申請每天來探望它的……不是你想的那樣，我只是，只是為了確認它死了沒……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         }
     },
     "舒魯瑪": {
@@ -1835,14 +1911,14 @@
             "Chief Question 1": "但你昨天的作業裡好像不包括作文？",
             "舒魯瑪 Response 1": "因為、因為馬上要考試了！我想要訓練自己的寫作思辨能力！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉"
             ],
             "Chief Question 2": "你是指這篇凌晨四點登頂論壇的「作文」嗎？",
             "舒魯瑪 Response 2": "我沒……你這大人真討厭！好了，我以後會早睡的，你千萬不要斷我的網！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖"
             ]
         },
         "Emotion Check 2": {
@@ -1851,15 +1927,15 @@
             "Chief Question 1": "我選擇魚肉罐頭誘惑。",
             "舒魯瑪 Response 1": "啊，小貓已經走遠了……等下次出門我會記得帶上小魚乾的。嗯？你也會幫我帶嗎？",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_2.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😦",
+                "😫"
             ],
             "Chief Question 2": "我選擇毛絨玩偶代替。",
             "舒魯瑪 Response 2": "好爛的……局長聽錯了，我什麼也沒說啊。剛剛？我覺得應該是風聲吧。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ]
         }
     },
@@ -1870,14 +1946,14 @@
             "Chief Question 1": "能借我戴一下嗎？",
             "普希拉 Response 1": "要是戴上的話，就算加入我們了哦，你可要想清楚。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏"
             ],
             "Chief Question 2": "泰特拉似乎也有一個很像的。",
             "普希拉 Response 2": "嘖，你怎麼現在才發現啊。而且，是她抄了我的設計！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫"
             ]
         },
         "Emotion Check 2": {
@@ -1886,15 +1962,15 @@
             "Chief Question 1": "又想去當什麼魔術小偷了嗎？",
             "普希拉 Response 1": "我是正義的俠盜兔！劫富濟貧你懂嗎！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😥",
+                "😖"
             ],
             "Chief Question 2": "所以，你是想要出任務了？",
             "普希拉 Response 2": "嗯嗯！舞台和燈光都要準備齊全那種！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😘",
+                "😉"
             ]
         }
     },
@@ -1905,16 +1981,16 @@
             "Chief Question 1": "可以玩，但是能把你的左輪手槍放下嗎？",
             "露莉艾卡 Response 1": "有賭注才有意思嘛！來吧局長，再賭大一點吧！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉",
+                "😉"
             ],
             "Chief Question 2": "話說在先，和運氣有關的都不玩。",
             "露莉艾卡 Response 2": "啊……為什麼啊！露莉不要！快陪我玩！陪我玩！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ]
         },
         "Emotion Check 2": {
@@ -1923,16 +1999,16 @@
             "Chief Question 1": "可是四葉草不都是三葉的嗎？",
             "露莉艾卡 Response 1": "哼，像局長運氣這麼差的人，這輩子都找不到真正的四葉草！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫",
+                "😫"
             ],
             "Chief Question 2": "我倒是撿到了一枚四葉草徽章，給你。",
             "露莉艾卡 Response 2": "哇！這是露莉前幾天弄丟的！謝謝局長，果然露莉還是很幸運呢。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ]
         }
     },
@@ -1942,20 +2018,20 @@
             "狼獾 Question": "我……餓了。",
             "Chief Question 1": "完成任務，晚餐加肉。",
             "狼獾 Response 1": "嗯，一言為定。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "忍忍，還沒到吃飯時間。",
             "狼獾 Response 2": "……嘖。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         },
         "Emotion Check 2": {
             "Open": "[狼獾有些手忙腳亂]",
             "狼獾 Question": "阿皮……別亂跑，局長，幫個忙。",
             "Chief Question 1": "（一把抓住阿皮的後頸提起來）",
             "狼獾 Response 1": "對它，好一點。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "（抱起阿皮送給狼獾）",
             "狼獾 Response 2": "你……很懂。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "瑪蒂爾達": {
@@ -1964,20 +2040,20 @@
             "瑪蒂爾達 Question": "局長，關於管理局射擊館的使用規範，我初步擬定了一份大綱，請過目。",
             "Chief Question 1": "現在的管理規範已經很完善了……",
             "瑪蒂爾達 Response 1": "不，仍有許多細節需要注意。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "我會認真看的。",
             "瑪蒂爾達 Response 2": "期待您的指正。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         },
         "Emotion Check 2": {
             "Open": "[瑪蒂爾達來到你的辦公室。]",
             "瑪蒂爾達 Question": "局長，在您看來，休息時間做什麼事情最有價值？",
             "Chief Question 1": "休息時間就徹底放鬆吧……",
             "瑪蒂爾達 Response 1": "放鬆也是一種價值嗎？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Emoji 1": "😦",
             "Chief Question 2": "可以試著培養多種興趣愛好。",
             "瑪蒂爾達 Response 2": "好，我會把發展興趣愛好加入計畫。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "煙煙": {
@@ -1987,15 +2063,15 @@
             "Chief Question 1": "煙煙很喜歡神話嗎？",
             "煙煙 Response 1": "那當然啦！不同地方的傳說故事完全都不一樣，嘿嘿，狄斯這邊的神話也很有意思的！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "記得要把書收拾回去。",
             "煙煙 Response 2": "等等等等，我先看完這個故事！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫"
             ]
         },
         "Emotion Check 2": {
@@ -2004,16 +2080,16 @@
             "Chief Question 1": "好呀，我這就嚐嚐！",
             "煙煙 Response 1": "哼哼，很不錯吧，連麵都是我親手揉的哦~",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "馬上，我清空一下桌面。",
             "煙煙 Response 2": "那你要快點啊！唉呀燙燙燙要端不住了！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ]
         }
     },
@@ -2023,20 +2099,20 @@
             "簡 Question": "感覺……還是有些可鑽漏洞的地方……",
             "Chief Question 1": "既然你這麼有見解，那可以幫忙提一些改進建議嗎？",
             "簡 Response 1": "當然，我會提交一份詳細的方案的！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "你是想嘗試一下嗎？",
             "簡 Response 2": "我只是下意識地分析了一下……我絕對沒有那個意思。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         },
         "Emotion Check 2": {
             "Open": "[簡來到辦公室向你述職。]",
             "簡 Question": "您指派的任務我都完成了，請給我接下來的工作安排吧。",
             "Chief Question 1": "你最近表現不錯，可以去和夜鶯申請更高難度的任務了，加油啊。",
             "簡 Response 1": "我不會辜負您的期待的，局長。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "那陪我去放風區散散步吧。",
             "簡 Response 2": "這、這也是工作內容之一嗎……好的，局長。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "派因": {
@@ -2045,20 +2121,20 @@
             "派因 Question": "我說，你這管理局真該好好整頓了。食材供貨的負責人是廚師他對面鄰居前妻的兒子，兩個人互行方便，很可能在吃採購的回扣，你沒發現嗎？",
             "Chief Question 1": "你怎麼知道的？",
             "派因 Response 1": "竊聽對話而已，用我改裝的設備還不是輕輕鬆鬆？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "不要妄下結論。",
             "派因 Response 2": "……嘖，真溫吞，那你慢慢調查核實吧。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[為了保證禁閉者的身體健康，派因被治療師要求調整飲食結構。]",
             "派因 Question": "真麻煩，吃的東西有什麼可講究的，餓不死不就行了嗎？",
             "Chief Question 1": "至少別天天只吃泡麵和零食。",
             "派因 Response 1": "那就換罐裝能量飲吧，能維持生命體徵，還不用煮熱水了。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "可以試試看三明治，做和吃都比較方便。",
             "派因 Response 2": "聽起來不錯，出門還能隨身帶著。下次我試試。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+            "Emoji 2": "😏"
         }
     },
     "維多利亞": {
@@ -2067,13 +2143,13 @@
             "維多利亞 Question": "啊……這封閉的空間，真是讓人感到安心。",
             "Chief Question 1": "是的，它隔絕了一切對你的威脅。",
             "維多利亞 Response 1": "沒錯……沒錯……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Emoji 1": "😦",
             "Chief Question 2": "你不想逃出去？",
             "維多利亞 Response 2": "外面的世界，好危險……",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫",
+                "😫"
             ]
         },
         "Emotion Check 2": {
@@ -2082,15 +2158,15 @@
             "Chief Question 1": "使用能力就可以止血了。",
             "維多利亞 Response 1": "爸爸看到的話又要生氣了……",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖"
             ],
             "Chief Question 2": "別亂動，我來幫你上藥。",
             "維多利亞 Response 2": "這……就是局長的「愛」嗎？",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ]
         }
     },
@@ -2101,14 +2177,14 @@
             "Chief Question 1": "是啊，還帶了焦糖布丁。",
             "伊格尼 Response 1": "哼，哼……少騙人了。還有……我可不會感謝你。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖"
             ],
             "Chief Question 2": "看看你有沒有安分一點。",
             "伊格尼 Response 2": "我早就不是以前的那個伊格尼了！少瞧不起我！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png"
+                "😖",
+                "😥"
             ]
         },
         "Emotion Check 2": {
@@ -2117,15 +2193,15 @@
             "Chief Question 1": "你是又燒了廚房嗎？感覺有開爾文做飯就足夠了。",
             "伊格尼 Response 1": "你等著！我一定會做好讓你看的！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ],
             "Chief Question 2": "我來幫你吧，你當助手，做做冷食就好。",
             "伊格尼 Response 2": "也……也不是不行啦。但做完之後我要第一個嚐！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_5.png"
+                "😫",
+                "😐"
             ]
         }
     },
@@ -2136,14 +2212,14 @@
             "Chief Question 1": "你們要是可以一直這樣和諧相處就好了。",
             "露薇婭·蕾 Response 1": "嘻嘻……其實我們之間的關係還可以啦。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "那太好了，終於沒人和我吵架了。",
             "露薇婭·蕾 Response 2": "噓！別說這個！萬一被她聽到就不好了！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫"
             ]
         },
         "Emotion Check 2": {
@@ -2152,14 +2228,14 @@
             "Chief Question 1": "那這次去試鏡時別忘了去參加任務。",
             "露薇婭·蕾 Response 1": "唉……我們會努力的。啊……又是任務。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png"
+                "😘",
+                "😥"
             ],
             "Chief Question 2": "是金子總有一天會發光的，加油。",
             "露薇婭·蕾 Response 2": "嗯，我們會加油的～！總有一天會成功的！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😘",
+                "😖"
             ]
         }
     },
@@ -2169,20 +2245,20 @@
             "赫卡蒂 Question": "局長，請給我今天的命令。",
             "Chief Question 1": "今天的命令是，好好休息。",
             "赫卡蒂 Response 1": "嗯，我明白了。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "今天暫時還沒有適合你的任務。",
             "赫卡蒂 Response 2": "沒有命令的話……我的存在意義，又是什麼呢……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         },
         "Emotion Check 2": {
             "Open": "[赫卡蒂翻看著過往行動的記錄]",
             "赫卡蒂 Question": "如果我消失，還會有下一個赫卡蒂，屆時請把我忘掉。",
             "Chief Question 1": "我會試著習慣的。",
             "赫卡蒂 Response 1": "請……不要再顧慮。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "沒有人能替代你。",
             "赫卡蒂 Response 2": "……希望這次，悲劇不會再現。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         }
     },
     "奧利弗": {
@@ -2192,15 +2268,15 @@
             "Chief Question 1": "就我們兩個人嗎？",
             "奧利弗 Response 1": "局長要是喜歡熱鬧的話，奧利弗馬上就把房間裡的所有玩偶都帶過來！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ],
             "Chief Question 2": "有重要的工作要處理，你先自己玩吧。",
             "奧利弗 Response 2": "唉，也對……局長日理萬機，怎麼會在意奧利弗小小的請求呢。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_2.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😦",
+                "😫"
             ]
         },
         "Emotion Check 2": {
@@ -2209,15 +2285,15 @@
             "Chief Question 1": "你又做什麼危險的事了？",
             "奧利弗 Response 1": "危、危險的事……那是什麼？奧利弗聽不懂。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ],
             "Chief Question 2": "是誰欺負你了？",
             "奧利弗 Response 2": "是，是奧利弗自己不小心摔倒的！大家……都對我很好。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😫",
+                "😖"
             ]
         }
     },
@@ -2227,20 +2303,20 @@
             "拉彌亞 Question": "局長，您看起來很疲憊的樣子，是不是需要放鬆一下？",
             "Chief Question 1": "……你該不會是想對我用異能吧？",
             "拉彌亞 Response 1": "當然不是了！局長您怎麼對我這麼防備……",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_6.png",
+            "Emoji 1": "😖",
             "Chief Question 2": "怎麼放鬆？",
             "拉彌亞 Response 2": "您可以去泡個澡，溫暖的水流有很好的舒緩疲勞的效果哦~",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         },
         "Emotion Check 2": {
             "Open": "[拉彌亞正在娛樂區觀看一部青春校園電影，表情有些疑惑]",
             "拉彌亞 Question": "學生時代到底是什麼樣子呢？為什麼這麼多人都會懷念那段日子呢？",
             "Chief Question 1": "大概因為在那段無憂無慮的日子裡沒有生活的壓力吧。",
             "拉彌亞 Response 1": "無憂無慮又是什麼樣的感覺？我好像從來都沒有體會過。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Emoji 1": "😦",
             "Chief Question 2": "大概是因為很多人都在那個時候得到了最純粹的感情吧。",
             "拉彌亞 Response 2": "純粹的感情嗎……實在很難想像……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         }
     },
     "艾可": {
@@ -2250,16 +2326,16 @@
             "Chief Question 1": "不是說你不好，主要是不符合催眠室的主旨。",
             "艾可 Response 1": "怎麼不符合了？艾可的演奏可是很百搭的~之前在劇院後門表演的時候，還有幾個醉漢聽完就倒在地上睡著了呢~",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉",
+                "😉"
             ],
             "Chief Question 2": "我覺得禁閉室更需要你這樣優秀的音樂。",
             "艾可 Response 2": "唔？禁閉室？是不是進去之後得聽完才能出來的小黑屋啊？願意啊當然願意啊，只要堅持到聽完，他們肯定會被艾可的薩克斯風打動的~",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ]
         },
         "Emotion Check 2": {
@@ -2268,16 +2344,54 @@
             "Chief Question 1": "能跟我說一下可以選的歌嗎？",
             "艾可 Response 1": "《我心須臾》、《離家》、《地獄之約》、《危重夜》、《紅丹花》……哼哼，不要小看我，只要你想聽，我可以背出整本樂譜給你~",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ],
             "Chief Question 2": "我喜歡的比較小眾，可能有點難度。",
             "艾可 Response 2": "你怎麼這麼肯定啊，是不是想故意為難我？好哇，艾可接受你的挑戰~你想聽什麼，我現在就查樂譜！天才如我，就算現學也肯定能表演得很好~",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
+            ]
+        }
+    },
+    "無患子": {
+        "Emotion Check 1": {
+            "Open": "[無患子端著一碗熱騰騰的中藥在辦公室門口躊躇。]",
+            "無患子 Question": "今日運勢極差，不宜見人，但居士每日一劑的湯藥可不能就這麼停了……不然我在這裡架個爐火煮藥吧？",
+            "Chief Question 1": "沒事，我現在出來拿吧，謝謝你。",
+            "無患子 Response 1": "啊……啊！您先別出來！我放下就走了！",
+            "Emoji 1": [
+                "😖",
+                "😖",
+                "😖"
+            ],
+            "Chief Question 2": "謝謝你這麼辛苦還親自幫我送湯藥。",
+            "無患子 Response 2": "也、也沒有辛苦……那我就放門口了，居士等我走遠了再拿藥吧。",
+            "Emoji 2": [
+                "😖",
+                "😖",
+                "😖"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[無患子正在畫新的符紙。]",
+            "無患子 Question": "居士，下次可以多進些東洲的黃紙嗎？",
+            "Chief Question 1": "要黃紙做什麼？",
+            "無患子 Response 1": "東洲的黃紙燒出的香灰藥效會更好一些，可惜量太少，沒寫幾張新的又用完了。",
+            "Emoji 1": [
+                "😥",
+                "😥",
+                "😥"
+            ],
+            "Chief Question 2": "答應。",
+            "無患子 Response 2": "咦……這麼爽快？居士此舉功德無量！",
+            "Emoji 2": [
+                "😉",
+                "😉",
+                "😉"
             ]
         }
     },
@@ -2288,22 +2402,22 @@
             "Chief Question 1": "可能是你太閃閃發光了吧。",
             "艾瑞爾 Response 1": "真……真的嗎！我會繼續加油的！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "可能是斯賓塞家族太有名了吧。",
             "艾瑞爾 Response 2": "……唉，優秀的是我的哥哥姐姐，和我無關。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         },
         "Emotion Check 2": {
             "Open": "[任務結束後，艾瑞爾特地向你道歉]",
             "艾瑞爾 Question": "我好像……總是在拖大家的後腿……",
             "Chief Question 1": "繼續加油吧。",
             "艾瑞爾 Response 1": "對不起……我會，我會加倍努力的！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Emoji 1": "😫",
             "Chief Question 2": "你是大家的力量，別放棄。",
             "艾瑞爾 Response 2": "希望大家也不要放開我的手。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         }
     },
     "卡米利安": {
@@ -2312,20 +2426,20 @@
             "卡米利安 Question": "最近的睡眠品質如何，還需要我的幫助嗎？",
             "Chief Question 1": "……等等，我似乎沒接受過你的幫助？",
             "卡米利安 Response 1": "呵呵，不錯的反應。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "不用，我的睡眠品質一直很好。",
             "卡米利安 Response 2": "哦，原來是這樣嗎？那再好不過。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         },
         "Emotion Check 2": {
             "Open": "[卡米利安一邊寫著病例一邊嘆氣]",
             "卡米利安 Question": "最近找我看病的人突然變多了，你有什麼頭緒？",
             "Chief Question 1": "可能是最近的任務壓力太大了吧？",
             "卡米利安 Response 1": "呵，這可不見得。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "可能大家對你的心理治療都很滿意。",
             "卡米利安 Response 2": "……大家心中的猛獸，都開始甦醒了呢。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         }
     },
     "安": {
@@ -2335,25 +2449,25 @@
             "Chief Question 1": "你守護了很多小天使？",
             "安 Response 1": "當然，我感覺有他們在的地方就是天堂。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "他們搗亂的時候一點都不可愛。",
             "安 Response 2": "這是每個小孩子都會經歷的階段，不要和他們賭氣。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         },
         "Emotion Check 2": {
             "Open": "[患者的情況並不理想，安有些慌張]",
             "安 Question": "有些患者的情況開始惡化了，彼岸診所那時也是這樣……",
             "Chief Question 1": "這次一定會成功的。",
             "安 Response 1": "但……那時……我什麼都沒有做到。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_6.png",
+            "Emoji 1": "😖",
             "Chief Question 2": "你現在可以做到更多，我也會幫你的。",
             "安 Response 2": "嗯……謝謝局長，我會盡力而為的！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘"
             ]
         }
     },
@@ -2363,20 +2477,20 @@
             "Mr.Fox Question": "最近贏了很多官司，進帳不錯。",
             "Chief Question 1": "建議你把它們都換成電子貨幣，這樣更方便。",
             "Mr.Fox Response 1": "不錯的想法，不過你該不會監視我的帳號吧？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "當然，但請你不要在我的辦公桌上數錢。",
             "Mr.Fox Response 2": "哦？並沒有任何一條法律像這樣約束過我的行為。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         },
         "Emotion Check 2": {
             "Open": "[Mr.Fox嘆了一口氣]",
             "Mr.Fox Question": "最近來找我的辯護的案子，都是我不想接的。",
             "Chief Question 1": "你還會有不想接的案子？是因為他們給的太少？",
             "Mr.Fox Response 1": "哈……當然有比錢更重要的東西。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Emoji 1": "😥",
             "Chief Question 2": "既然不想接，就留在這裡看我工作。",
             "Mr.Fox Response 2": "好吧……也算是個消磨時間的好方法。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "嘟嘟": {
@@ -2385,20 +2499,20 @@
             "嘟嘟 Question": "啊，老闆，你也是來找宵夜吃的嗎？",
             "Chief Question 1": "是的，剛剛出完任務回來有些餓了。",
             "嘟嘟 Response 1": "今天的炸豬排味道還不錯，我也去幫你拿幾塊。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "不，我只是路過。",
             "嘟嘟 Response 2": "那你看著我吃吧，說不定看著看著就餓了。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+            "Emoji 2": "😏"
         },
         "Emotion Check 2": {
             "Open": "[嘟嘟大聲宣傳著她的嗩吶培訓班]",
             "嘟嘟 Question": "走過路過千萬不要錯過！前二十位學員學費減半啦——欸，那邊的老闆，別走呀，要不要跟著我學嗩吶？",
             "Chief Question 1": "有多少人報名了？",
             "嘟嘟 Response 1": "這不是都在等著你先來做表率嗎？來來來，幫你打折再打折！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "我有點忙。",
             "嘟嘟 Response 2": "太無情了！作為一位合格的老闆你應該支持我的事業！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         }
     },
     "萊塔": {
@@ -2407,10 +2521,10 @@
             "萊塔 Question": "局長局長，我又發現了新的冒險地點！",
             "Chief Question 1": "等我做完這份工作就陪你去。",
             "萊塔 Response 1": "嘿嘿，快點啦，這次的冒險肯定更刺激~",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "下次進來前記得敲門。",
             "萊塔 Response 2": "唔，下次一定，下次一定……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         },
         "Emotion Check 2": {
             "Open": "[萊塔被你抓到偷偷跑出來玩]",
@@ -2418,15 +2532,15 @@
             "Chief Question 1": "……看來得把管理局的牆再加厚幾公分。",
             "萊塔 Response 1": "別、別這樣嘛，下次出去玩一定會找你一起！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ],
             "Chief Question 2": "……算了，跟我回去吧，下不為例。",
             "萊塔 Response 2": "嘿嘿，局長最好了……",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉"
             ]
         }
     },
@@ -2436,10 +2550,10 @@
             "卡西婭 Question": "香水的味道越來越複雜，越來越工業化，都快把純粹的味道覆蓋掉了……就連感悟評論，也充斥著難聞的工業氣息……",
             "Chief Question 1": "每個人對香水的喜好和評價都是不同的，不用在意這些。",
             "卡西婭 Response 1": "真可憐……希望他們有幸能聞到世界上最純粹的味道，嗯~",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Emoji 1": "😫",
             "Chief Question 2": "是在評價你的香水嗎？你的香水應該已經不在市面上流通了，或許是假貨。",
             "卡西婭 Response 2": "即便能復刻出我所製作的香水的味道，他們自身散發出來的，應該也是惡劣的臭味吧。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[卡西婭又收到了選美大賽的評審邀請函。]",
@@ -2447,12 +2561,12 @@
             "Chief Question 1": "我知道了，我陪你去。",
             "卡西婭 Response 1": "那我想，最終的冠軍應該會是你~",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏"
             ],
             "Chief Question 2": "你上次罵翻後台所有選手，他們還願意請你去？",
             "卡西婭 Response 2": "那是因為主辦方知道得很清楚，我選出的名次才最能服眾……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         }
     },
     "肖恩": {
@@ -2461,20 +2575,20 @@
             "肖恩 Question": "「千萬別這樣想，甜心，是他們沒有品味，才這樣不珍惜你。」……呼，總算安慰好了。沒想到管理局內網裡，也有這麼多渴求著一份愛的人。",
             "Chief Question 1": "直線距離這麼近，需要網戀嗎。",
             "肖恩 Response 1": "隔著網路線和螢幕傳遞的愛，有它獨特的味道。它更純粹，更不受限制……你要來試試嗎？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "直線距離這麼近，不怕被真人快打嗎。",
             "肖恩 Response 2": "一份真摯的愛，不會鬧到那種醜陋不堪的地步。而且如果這能讓對方開心……我十分願意奉獻自己。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_7.png"
+            "Emoji 2": "😉"
         },
         "Emotion Check 2": {
             "Open": "[肖恩面對無論重新整理多少次都會出現在裝置上的網路斷線通知似乎十分暴躁。]",
             "肖恩 Question": "不是說下午三點恢復嗎？怎麼還沒有動靜？這樣難道不會影響管理局的正常運作嗎？",
             "Chief Question 1": "難得你這麼關心管理局的正常工作",
             "肖恩 Response 1": "那是你每天要面對的事，我當然也會放在心上了，不用太感動。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_8.png",
+            "Emoji 1": "😏",
             "Chief Question 2": "延長維護2小時的報告早就貼在食堂了",
             "肖恩 Response 2": "線下通知？居然沒有人拍照上傳到內網論壇嗎？啊對，網路斷線了……可惡……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_6.png"
+            "Emoji 2": "😖"
         }
     },
     "澤斐爾": {
@@ -2484,16 +2598,16 @@
             "Chief Question 1": "讓陌生人來家裡不會有安全隱患嗎？",
             "澤斐爾 Response 1": "要是發現對方是壞蛋，就直接逃呀！跳窗，或者把門板踹開，順著樓梯扶手滑下去！那也很爽！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉",
+                "😉"
             ],
             "Chief Question 2": "喝陌生人提供的飲料不會有食品安全問題嗎？",
             "澤斐爾 Response 2": "唉呀，喝到吐也是正常發揮嘛，還能差到哪裡去？重要的是享受那個過程~",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ]
         },
         "Emotion Check 2": {
@@ -2502,16 +2616,16 @@
             "Chief Question 1": "那你繼續幫忙測試禁閉室的封閉性吧",
             "澤斐爾 Response 1": "這可是你說的，那我就繼續努力了！看我干擾干擾這邊的監視器——",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏",
+                "😏"
             ],
             "Chief Question 2": "嗯，那部分已經抵掉你3天禁閉室時長了",
             "澤斐爾 Response 2": "啊？這已經是折抵後的？論功行賞不要這麼小氣嘛，直接抹平不就好了！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ]
         }
     },
@@ -2521,20 +2635,20 @@
             "K.K. Question": "有什麼我能幫你做的事情嗎？",
             "Chief Question 1": "鏽河的任務缺一個人，去嗎？",
             "K.K. Response 1": "這樣也不錯……出發吧。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "……沒有。",
             "K.K. Response 2": "我這是……要失業了嗎？",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[K.K.向你詢問自己以前的搭檔]",
             "K.K. Question": "白逸那傢伙呢？怎麼又不見了？",
             "Chief Question 1": "是有無法完成的任務了嗎？",
             "K.K. Response 1": "嘖，用不著她出手。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "大概在地下室裡摸魚吧。",
             "K.K. Response 2": "唉，畢竟是那個白逸啊，這下預算可怎麼辦……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+            "Emoji 2": "😫"
         }
     },
     "德莫莉": {
@@ -2544,15 +2658,15 @@
             "Chief Question 1": "來下棋吧。",
             "德莫莉 Response 1": "哦！好主意！我們來玩狄斯戰棋吧！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😉",
+                "😏"
             ],
             "Chief Question 2": "來唸書吧。",
             "德莫莉 Response 2": "啊——不要！就算要把我丟到鏽河執行任務，我都不想唸書！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ]
         },
         "Emotion Check 2": {
@@ -2561,14 +2675,14 @@
             "Chief Question 1": "管理局的那些建材還剩了一些，有些材質還不錯。",
             "德莫莉 Response 1": "唉呀，是那種珍貴一點的！不是這種！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_2.png",
-                "atlas/monthsign/sprite_dailysign_face_2.png"
+                "😦",
+                "😦"
             ],
             "Chief Question 2": "嗯……前一陣子撿到的決鬥頭巾如何？",
             "德莫莉 Response 2": "哇……看起來有點老舊，戴上之後卻意外地有些帥氣！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_5.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😐",
+                "😉"
             ]
         }
     },
@@ -2579,12 +2693,12 @@
             "Chief Question 1": "當然，今天有什麼新作嗎。",
             "佩姬 Response 1": "哈！新作，那不是天天都有？先給你唱點經典的。這是辛迪加的Rap浪子，你誰長這副呆頭樣子……",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_2.png"
+                "😘",
+                "😦"
             ],
             "Chief Question 2": "不是，是有人投訴你的歌不夠說唱。",
             "佩姬 Response 2": "讓他們滾！他們懂個錘子的說唱！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[佩姬一臉不爽地踢著房間裡的雜物]",
@@ -2592,12 +2706,12 @@
             "Chief Question 1": "採購部已經把這件事加進行事曆了。",
             "佩姬 Response 1": "唉……真**的窩囊！我一代說唱巨星，就沒受過這氣！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_5.png",
-                "atlas/monthsign/sprite_dailysign_face_5.png"
+                "😐",
+                "😐"
             ],
             "Chief Question 2": "我去幫你借瓊的調音台。",
             "佩姬 Response 2": "別！那個太複雜了，我用不明白！唉……還得是我這答錄機。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "海拉": {
@@ -2607,13 +2721,13 @@
             "Chief Question 1": "採購部的零食吃嗎？只有這個。",
             "海拉 Response 1": "嘿嘿，算你識相。下次多帶一點啊。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "沒有，要是你完成任務的話可以考慮一下。",
             "海拉 Response 2": "啊——一個管理局局長怎麼這麼囂張？做完任務你可別賴帳！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         },
         "Emotion Check 2": {
             "Open": "[看到你後，海拉表現得很驚訝]",
@@ -2621,14 +2735,14 @@
             "Chief Question 1": "是啊，她直接告訴我了。",
             "海拉 Response 1": "你少騙人！九十九才不會背叛我。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png"
+                "😥",
+                "😥"
             ],
             "Chief Question 2": "是我自己找到你的。",
             "海拉 Response 2": "哼，你現在……還有點厲害嘛。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_7.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😉",
+                "😉"
             ]
         }
     },
@@ -2638,20 +2752,20 @@
             "澈 Question": "怎麼？你也來這偷懶？",
             "Chief Question 1": "倒不是偷懶，只是想找個地方靜靜。",
             "澈 Response 1": "巧了，我也是這麼告訴我自己的。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "我只是來找點東西，沒想到居然還找到個人。",
             "澈 Response 2": "啊，這樣，那順便把我一起也扔出去吧。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         },
         "Emotion Check 2": {
             "Open": "[澈看著你，似乎有些不解]",
             "澈 Question": "你成天和我們這群禁閉者混在一塊，好玩嗎？",
             "Chief Question 1": "工作就是工作，談不上有趣或無聊。",
             "澈 Response 1": "啊哈，真是冷酷無情的局長啊。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_1.png",
+            "Emoji 1": "😥",
             "Chief Question 2": "還好吧，至少每天不會無聊。",
             "澈 Response 2": "確實不會無聊，要是能讓我少幹點活就更好了。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "胡椒": {
@@ -2661,15 +2775,15 @@
             "Chief Question 1": "唉，今天不知道哪個壞蛋去採購部拿了一罐可樂！",
             "胡椒 Response 1": "哦？這個點子不錯！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_7.png"
+                "😏",
+                "😉"
             ],
             "Chief Question 2": "你給我老實待著。",
             "胡椒 Response 2": "唉……真沒意思，在這都要發黴了。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫",
+                "😫"
             ]
         },
         "Emotion Check 2": {
@@ -2677,12 +2791,12 @@
             "胡椒 Question": "做任務還不如種地有趣……",
             "Chief Question 1": "去辛迪加出任務順便探險不行嗎？",
             "胡椒 Response 1": "啊——不想去……我就想種地！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Emoji 1": "😫",
             "Chief Question 2": "去後院吧，說不定還能遇到芙洛拉幫你澆水。",
             "胡椒 Response 2": "可以嗎！謝謝局長！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘"
             ]
         }
     },
@@ -2692,10 +2806,10 @@
             "雷比尼斯 Question": "發現局長，等待進程。",
             "Chief Question 1": "先執行清掃程序，完成後再進入家用模式。",
             "雷比尼斯 Response 1": "收到，雷比尼斯，準備執行進程。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "可以直接切換到可愛外掛程式嗎？",
             "雷比尼斯 Response 2": "系統拒絕請求。提示：需循序漸進。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         },
         "Emotion Check 2": {
             "Open": "[雷比尼斯在打掃管理局的衛生]",
@@ -2703,15 +2817,15 @@
             "Chief Question 1": "你原來可以正常和我交流的嗎？",
             "雷比尼斯 Response 1": "戰鬥形態，準備啟動。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_1.png"
+                "😥",
+                "😥"
             ],
             "Chief Question 2": "請雷比尼斯幫我倒一杯茶。",
             "雷比尼斯 Response 2": "雷比尼斯，收到。當前感情：愉快。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ]
         }
     },
@@ -2722,25 +2836,25 @@
             "Chief Question 1": "我會為你安排合適的對手的。",
             "曇 Response 1": "我好期待啊……嘿嘿……",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "辛迪加地區的幫派成員怎麼樣？",
             "曇 Response 2": "啊！不行……那邊的對手太不夠格了！什麼時候輪到花園！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+            "Emoji 2": "😫"
         },
         "Emotion Check 2": {
             "Open": "[曇緊握著雙手，看起來很憤怒]",
             "曇 Question": "花園！你們居然還敢搶我的目標！",
             "Chief Question 1": "如果還有這樣的情況的話，記得求助管理局。",
             "曇 Response 1": "你是在質疑我的能力？還是……在質疑我手中的刀？",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "看起來她們為你準備了特殊對策。",
             "曇 Response 2": "哈哈……哈哈哈……等著吧，下次你們準備什麼都不好用了！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_5.png",
-                "atlas/monthsign/sprite_dailysign_face_5.png"
+                "😐",
+                "😐"
             ]
         }
     },
@@ -2751,14 +2865,14 @@
             "Chief Question 1": "那無冕之王，我們今天要做什麼？",
             "EMP Response 1": "當然是玩遊戲了！撲克，骰子，麻將，都可以！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "……再耍寶就把你送到鏽河執行任務。",
             "EMP Response 2": "噫啊！我開玩笑的……開玩笑的！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_3.png",
-                "atlas/monthsign/sprite_dailysign_face_3.png"
+                "😫",
+                "😫"
             ]
         },
         "Emotion Check 2": {
@@ -2767,15 +2881,15 @@
             "Chief Question 1": "反正也射不中，不需要練習吧？",
             "EMP Response 1": "我不要！這樣多帥啊！",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖",
+                "😖"
             ],
             "Chief Question 2": "弓箭死神不會射箭真的沒問題嗎？",
             "EMP Response 2": "老婆餅裡還沒有老婆呢！",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_8.png",
-                "atlas/monthsign/sprite_dailysign_face_8.png"
+                "😏",
+                "😏"
             ]
         }
     },
@@ -2785,20 +2899,20 @@
             "芙洛拉 Question": "你今天應該沒有忘記消防設施的定期檢查吧？",
             "Chief Question 1": "四十三個消防檢查點全都檢查過了。",
             "芙洛拉 Response 1": "嗯，這才像話嘛。防患於未燃！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_7.png",
+            "Emoji 1": "😉",
             "Chief Question 2": "等一下就去。",
             "芙洛拉 Response 2": "嘖，看到時候失火你怎麼辦。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[剛出練習場的芙洛拉似乎有些消沉]",
             "芙洛拉 Question": "唉……怎麼做才能用好消防器械呢。",
             "Chief Question 1": "不如就別用消防斧了吧，專心操作消防水槍。",
             "芙洛拉 Response 1": "不行！消防裝備一定要帶齊！",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_3.png",
+            "Emoji 1": "😫",
             "Chief Question 2": "用後院給花園澆花的水管練習一下怎麼樣？",
             "芙洛拉 Response 2": "哦……聽起來不錯！",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         }
     },
     "開爾文": {
@@ -2807,10 +2921,10 @@
             "開爾文 Question": "局長，管理局的廚房可以加個額外的冷藏庫嗎！",
             "Chief Question 1": "只能再加一個小冰箱，而且還是節能型的。",
             "開爾文 Response 1": "如果這樣的話，倒是能多放一些蔬菜。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "沒地方放，上次伊格尼想加爐台都沒批。",
             "開爾文 Response 2": "唉……那多出來的食材只能每天用能力凍住了。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+            "Emoji 2": "😫"
         },
         "Emotion Check 2": {
             "Open": "[開爾文似乎被人嘲笑了]",
@@ -2818,12 +2932,12 @@
             "Chief Question 1": "學分不夠？通常來說都是這個原因。",
             "開爾文 Response 1": "唉……這都被您猜到了。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_6.png",
-                "atlas/monthsign/sprite_dailysign_face_6.png"
+                "😖",
+                "😖"
             ],
             "Chief Question 2": "把菜拿給導師看，他一定會同意你畢業的。",
             "開爾文 Response 2": "哈哈……要是導師能理解我的理念就好了。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_5.png"
+            "Emoji 2": "😐"
         }
     },
     "瓊": {
@@ -2832,20 +2946,20 @@
             "瓊 Question": "以你本色——",
             "Chief Question 1": "似你往常——",
             "瓊 Response 1": "局長的品味……真是不錯。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_4.png",
+            "Emoji 1": "😘",
             "Chief Question 2": "小聲點，已經有工作人員快受不了了。",
             "瓊 Response 2": "要不是操場不能用，我也不會在這裡練習了。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_1.png"
+            "Emoji 2": "😥"
         },
         "Emotion Check 2": {
             "Open": "[瓊摩挲著之前演唱會的照片，若有所思]",
             "瓊 Question": "什麼時候這種生活能結束呢，我想去演出。",
             "Chief Question 1": "再過一陣子，情況應該會樂觀很多。",
             "瓊 Response 1": "唉……那我這段時間只能在這裡自娛自樂囉。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "那必須留個最好的位置給我。",
             "瓊 Response 2": "哈，到時候讓你看看舞台上的我。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_8.png"
+            "Emoji 2": "😏"
         }
     },
     "瑪奇朵": {
@@ -2855,22 +2969,22 @@
             "Chief Question 1": "你的「業餘愛好」似乎幫了大忙。",
             "瑪奇朵 Response 1": "呵呵，他們的反應就是我繼續下去的動力。",
             "Emoji 1": [
-                "atlas/monthsign/sprite_dailysign_face_4.png",
-                "atlas/monthsign/sprite_dailysign_face_4.png"
+                "😘",
+                "😘"
             ],
             "Chief Question 2": "他們可能只是被迫做出這種表情。",
             "瑪奇朵 Response 2": "哎呀哎呀，下次我一定會注意一點的。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_4.png"
+            "Emoji 2": "😘"
         },
         "Emotion Check 2": {
             "Open": "[瑪奇朵在打著瞌睡]",
             "瑪奇朵 Question": "歡迎……光臨新城銀行！啊……不對！管理局！",
             "Chief Question 1": "小心打瞌睡會扣薪水。",
             "瑪奇朵 Response 1": "……不要讓我想起不好的回憶了，局長。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "不用強迫自己加班的。",
             "瑪奇朵 Response 2": "抱歉……這是職業病了。我總是不自覺地就……",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_3.png"
+            "Emoji 2": "😫"
         }
     },
     "麗莎": {
@@ -2879,23 +2993,23 @@
             "麗莎 Question": "收到了幾幅畫作，又能好好欣賞一番了。",
             "Chief Question 1": "希望他們能畫出一些能讓你開心的東西。",
             "麗莎 Response 1": "那當然再好不過。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_5.png",
+            "Emoji 1": "😐",
             "Chief Question 2": "我覺得他們都逃不掉你的批評。",
             "麗莎 Response 2": "當然，除非他們能複現《麗蓓嘉》。",
-            "Emoji 2": "atlas/monthsign/sprite_dailysign_face_2.png"
+            "Emoji 2": "😦"
         },
         "Emotion Check 2": {
             "Open": "[麗莎坐在畫板前，嘆了口氣]",
             "麗莎 Question": "又畫歪了……",
             "Chief Question 1": "需要我幫忙嗎？",
             "麗莎 Response 1": "不用，雖然很謝謝你，但……你幫我的話，還不如我自己慢慢來。",
-            "Emoji 1": "atlas/monthsign/sprite_dailysign_face_2.png",
+            "Emoji 1": "😦",
             "Chief Question 2": "給你直尺。",
             "麗莎 Response 2": "你……唉……算了。",
             "Emoji 2": [
-                "atlas/monthsign/sprite_dailysign_face_1.png",
-                "atlas/monthsign/sprite_dailysign_face_2.png",
-                "atlas/monthsign/sprite_dailysign_face_5.png"
+                "😥",
+                "😦",
+                "😐"
             ]
         }
     }

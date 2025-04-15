@@ -2802,6 +2802,75 @@
         }
     },
     "162": {
+        "Id": 1051001,
+        "Quality": "Purple",
+        "DispatchTitle": "Expert at Work",
+        "DispatchDescription": "The FAC has detected an abnormal rise in M-value at a high school in Eastside. Preliminary investigation reveals that its students have been holding spooky tale-telling séances after school. A request has been submitted to the Bureau to dispatch a suitable Sinner to assist in uncovering the truth.",
+        "DispatchSinners": {
+            "Sinner": "Yugu"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "163": {
+        "Id": 1051002,
+        "Quality": "Green",
+        "DispatchTitle": "Heaven-Sent Karma",
+        "DispatchDescription": "The season is changing and flu outbreaks have emerged across regions. Recognizing this as a heaven-sent opportunity to accumulate good karma, a certain Sinner has eagerly requested permission to go out and provide free medical services.",
+        "DispatchSinners": {
+            "Sinner": "Wuhuanzi"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Condense Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "164": {
+        "Id": 1051003,
+        "Quality": "Blue",
+        "DispatchTitle": "Private Bodyguard",
+        "DispatchDescription": "SALVA has extended an invitation to discuss traditional Eastian medicine with a certain Sinner. As this Sinner is not a local, company of another Sinner of similar age who is familiar with the route from the Bureau to Syndicate is required.",
+        "DispatchSinners": {
+            "Sinner 1": "Wuhuanzi",
+            "Sinner 2": "Dolly"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Gel",
+            "Reward Qty": "1.0"
+        }
+    },
+    "165": {
+        "Id": 1051004,
+        "Quality": "Purple",
+        "DispatchTitle": "Parade Fairy",
+        "DispatchDescription": "The Public Security Bureau has received an arson threat targeting an amusement park. The sender is suspected of possessing Mania weapons. A Sinner skilled in creating illusions is urgently required to go undercover as a fairy at the parade and assist the Public Security Bureau in controlling the situation while guiding visitors to safety.",
+        "DispatchSinners": {
+            "Sinner": "Yingying"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "169": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "Dream Interpretation",

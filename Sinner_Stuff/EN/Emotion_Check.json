@@ -125,6 +125,44 @@
             ]
         }
     },
+    "Yugu": {
+        "Emotion Check 1": {
+            "Open": "[Yugu is watching a compilation of viral food videos.]",
+            "Yugu Question": "Sticky tofu coffee, cough syrup noodles... Chief, do enlighten me, why do humans persist in seeking novel methods to torment themselves?",
+            "Chief Question 1": "Well... some people might genuinely enjoy these.",
+            "Yugu Response 1": "Indeed you're right. Such vast differences between humans... That's what keeps the fascinating tales eternally unfolding.",
+            "Emoji 1": [
+                "😏",
+                "😏",
+                "😏"
+            ],
+            "Chief Question 2": "Interested in trying them?",
+            "Yugu Response 2": "These combinations are quite intriguing indeed, but what holds greater significance is having you try them with me, dear Chief.",
+            "Emoji 2": [
+                "😉",
+                "😉",
+                "😉"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Under Yugu's request, you finish listening to her latest tale.]",
+            "Yugu Question": "What are your thoughts on the ending, Chief?",
+            "Chief Question 1": "A haunting tragedy that's hard to forget.",
+            "Yugu Response 1": "Indeed... The world changes, and hearts reveal their fickleness. Watching someone stray from their true path... such tragedies never fail to pierce the heart.",
+            "Emoji 1": [
+                "😏",
+                "😏",
+                "😏"
+            ],
+            "Chief Question 2": "They each found their own path. Even in separation, there is no need for sorrow.",
+            "Yugu Response 2": "You always have such a fascinating perspective on my endings. Would you care to hear another tale next time?",
+            "Emoji 2": [
+                "😏",
+                "😏",
+                "😏"
+            ]
+        }
+    },
     "Zoya": {
         "Emotion Check 1": {
             "Open": "[Zoya stretches her body and walks into your office.]",
@@ -901,6 +939,44 @@
                 "😥",
                 "😥",
                 "😥"
+            ]
+        }
+    },
+    "Yingying": {
+        "Emotion Check 1": {
+            "Open": "[A melodious song echoes through your office.]",
+            "Yingying Question": "Did you enjoy my song, Chief? What would you like to hear next?",
+            "Chief Question 1": "I enjoy them all. Your singing helps me stay focused.",
+            "Yingying Response 1": "That's no surprise. Back in my hometown, people would pay a fortune just to hear me sing!",
+            "Emoji 1": [
+                "😉",
+                "😉",
+                "😉"
+            ],
+            "Chief Question 2": "Would you mind singing that song again?",
+            "Yingying Response 2": "I knew we shared the same taste, Chief! That one happens to be my favorite song!",
+            "Emoji 2": [
+                "😘",
+                "😘",
+                "😘"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Yingying is sewing a sachet for good fortune.]",
+            "Yingying Question": "Oh, Chief! You're here! Help me pick out a color for the sachet cord!",
+            "Chief Question 1": "Use whichever color you like.",
+            "Yingying Response 1": "Oh? Are you saying you'll like anything I like?",
+            "Emoji 1": [
+                "😘",
+                "😘",
+                "😘"
+            ],
+            "Chief Question 2": "The color of wisteria would be nice.",
+            "Yingying Response 2": "In that case, I'll have to choose carefully! Now, which shade matches wisteria the best?",
+            "Emoji 2": [
+                "😘",
+                "😘",
+                "😘"
             ]
         }
     },
@@ -2278,6 +2354,44 @@
                 "😘",
                 "😘",
                 "😘"
+            ]
+        }
+    },
+    "Wuhuanzi": {
+        "Emotion Check 1": {
+            "Open": "[Wuhuanzi hesitates at your office door, holding a steaming bowl of herbal medicine.]",
+            "Wuhuanzi Question": "My fortune is absolutely terrible today. I really shouldn't be around people, but I can't let my friend miss the daily dose... Perhaps I could set up a brazier here to keep it warm?",
+            "Chief Question 1": "It's alright, I'll come out and get it now. Thank you.",
+            "Wuhuanzi Response 1": "Ah...! Please don't come out! I'll just leave it here and go!",
+            "Emoji 1": [
+                "😖",
+                "😖",
+                "😖"
+            ],
+            "Chief Question 2": "Thank you for going through all this trouble to deliver the medicine personally.",
+            "Wuhuanzi Response 2": "I-it's no trouble at all... I'll leave it by the door. Please wait until I'm gone before you take it, my friend.",
+            "Emoji 2": [
+                "😖",
+                "😖",
+                "😖"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Wuhuanzi is drawing new talismans.]",
+            "Wuhuanzi Question": "My friend, could you order more yellow talisman paper from Eastia next time?",
+            "Chief Question 1": "What do you need the yellow paper for?",
+            "Wuhuanzi Response 1": "The ashes from burned Eastian yellow paper make more potent medicine. Unfortunately, I didn't get much last time, and I've already used up most of it making new talismans.",
+            "Emoji 1": [
+                "😥",
+                "😥",
+                "😥"
+            ],
+            "Chief Question 2": "Sure.",
+            "Wuhuanzi Response 2": "Oh... Such a quick agreement? My friend, your kindness shall surely bring you great merit!",
+            "Emoji 2": [
+                "😉",
+                "😉",
+                "😉"
             ]
         }
     },
