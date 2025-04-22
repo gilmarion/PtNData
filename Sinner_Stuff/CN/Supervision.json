@@ -1,8 +1,7 @@
 {
     "1010101": {
         "ID Num": 1010101,
-        "Event Title": "缴获",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 缴获",
         "Event Desc": "禁闭者迪蒙递交了一份行动报告。",
         "Sinner": "迪蒙",
         "Text": {
@@ -12,8 +11,7 @@
     },
     "1010102": {
         "ID Num": 1010102,
-        "Event Title": "申请",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 申请",
         "Event Desc": "禁闭者迪蒙递交了一份申请。",
         "Sinner": "迪蒙",
         "Text": {
@@ -23,8 +21,7 @@
     },
     "1010111": {
         "ID Num": 1010111,
-        "Event Title": "自动售货机",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 自动售货机",
         "Event Desc": "自动售货机似乎出了一些问题。",
         "Sinner": "迪蒙",
         "Text": {
@@ -46,8 +43,7 @@
     },
     "1010112": {
         "ID Num": 1010112,
-        "Event Title": "训练",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 训练",
         "Event Desc": "训练室的靶场中，迪蒙正在进行实弹训练。",
         "Sinner": "迪蒙",
         "Text": {
@@ -71,8 +67,7 @@
     },
     "1010121": {
         "ID Num": 1010121,
-        "Event Title": "任务请求",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 任务请求",
         "Event Desc": "在定期的催眠治疗中，迪蒙表现出了一丝烦躁。",
         "Sinner": "迪蒙",
         "Text": {
@@ -104,8 +99,7 @@
     },
     "1010122": {
         "ID Num": 1010122,
-        "Event Title": "盾牌失窃",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 盾牌失窃",
         "Event Desc": "禁闭者迪蒙的盾牌失窃，请立即介入调查。",
         "Sinner": "德莫莉",
         "Text": {
@@ -150,8 +144,7 @@
     },
     "1010201": {
         "ID Num": 1010201,
-        "Event Title": "冠军奖牌",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 冠军奖牌",
         "Event Desc": "嗷呜获得了一枚冠军奖牌",
         "Sinner": "嗷呜",
         "Text": {
@@ -161,8 +154,7 @@
     },
     "1010202": {
         "ID Num": 1010202,
-        "Event Title": "舞狮练习",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 舞狮练习",
         "Event Desc": "又到了嗷呜练习舞狮的时间。",
         "Sinner": "嗷呜",
         "Text": {
@@ -172,8 +164,7 @@
     },
     "1010211": {
         "ID Num": 1010211,
-        "Event Title": "贴春联",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 贴春联",
         "Event Desc": "嗷呜似乎想在自己的房门上贴什么东西。",
         "Sinner": "嗷呜",
         "Text": {
@@ -198,8 +189,7 @@
     },
     "1010212": {
         "ID Num": 1010212,
-        "Event Title": "恐怖片",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 恐怖片",
         "Event Desc": "监管系统检测到娱乐区有禁闭者正与工作人员发生争执。",
         "Sinner": "嗷呜",
         "Text": {
@@ -223,8 +213,7 @@
     },
     "1010221": {
         "ID Num": 1010221,
-        "Event Title": "狮头保养",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 狮头保养",
         "Event Desc": "嗷呜正在自己的房间里哼唱儿歌。",
         "Sinner": "嗷呜",
         "Text": {
@@ -256,8 +245,7 @@
     },
     "1010222": {
         "ID Num": 1010222,
-        "Event Title": "狮子与生肖",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 狮子与生肖",
         "Event Desc": "监管系统检测到禁闭者嗷呜存在行为异常。",
         "Sinner": "嗷呜",
         "Text": {
@@ -290,8 +278,7 @@
     },
     "1010301": {
         "ID Num": 1010301,
-        "Event Title": "套中人",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 套中人",
         "Event Desc": "自打来到MBCC后，罗睺总是不分四季地穿着遮盖着全身大部分肌肤的衣物。",
         "Sinner": "罗睺",
         "Text": {
@@ -301,8 +288,7 @@
     },
     "1010302": {
         "ID Num": 1010302,
-        "Event Title": "王牌保镖",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 王牌保镖",
         "Event Desc": "最近一段时间，黑市中盗窃案频发。",
         "Sinner": "罗睺",
         "Text": {
@@ -312,8 +298,7 @@
     },
     "1010311": {
         "ID Num": 1010311,
-        "Event Title": "新型训练机器人",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 新型训练机器人",
         "Event Desc": "局内新进了一批最新款的战斗机器人。",
         "Sinner": "罗睺",
         "Text": {
@@ -345,8 +330,7 @@
     },
     "1010312": {
         "ID Num": 1010312,
-        "Event Title": "偶像的困扰",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 偶像的困扰",
         "Event Desc": "对于永远一脸严肃的罗睺来说，局里大家的热情似乎让她有些难以招架。",
         "Sinner": "罗睺",
         "Text": {
@@ -371,8 +355,7 @@
     },
     "1010321": {
         "ID Num": 1010321,
-        "Event Title": "品茶入门",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 品茶入门",
         "Event Desc": "悠闲的下午，适合来一杯下午茶。",
         "Sinner": "海拉",
         "Text": {
@@ -421,8 +404,7 @@
     },
     "1010322": {
         "ID Num": 1010322,
-        "Event Title": "放我进去",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 放我进去",
         "Event Desc": "艾米潘正一脸悲愤地在你办公室外大喊大叫。",
         "Sinner": "艾米潘",
         "Text": {
@@ -473,8 +455,7 @@
     },
     "1010401": {
         "ID Num": 1010401,
-        "Event Title": "维修预约",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 维修预约",
         "Event Desc": "管理局接到了其他部门的维修协助请求。",
         "Sinner": "瓦尼菈",
         "Text": {
@@ -484,8 +465,7 @@
     },
     "1010402": {
         "ID Num": 1010402,
-        "Event Title": "特殊音乐",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 特殊音乐",
         "Event Desc": "瓦尼菈的治疗音乐有些特殊。",
         "Sinner": "瓦尼菈",
         "Text": {
@@ -495,8 +475,7 @@
     },
     "1010411": {
         "ID Num": 1010411,
-        "Event Title": "赴约",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 赴约",
         "Event Desc": "监管系统发现瓦尼菈在训练室长时间逗留。",
         "Sinner": "瓦尼菈",
         "Text": {
@@ -519,8 +498,7 @@
     },
     "1010412": {
         "ID Num": 1010412,
-        "Event Title": "合作的可能性",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 合作的可能性",
         "Event Desc": "局内的研究部门提出了关于瓦尼菈的研究任务。",
         "Sinner": "瓦尼菈",
         "Text": {
@@ -542,8 +520,7 @@
     },
     "1010421": {
         "ID Num": 1010421,
-        "Event Title": "新朋友",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 新朋友",
         "Event Desc": "瓦尼菈在管理局里结交了新的朋友。",
         "Sinner": "瓦尼菈",
         "Text": {
@@ -574,8 +551,7 @@
     },
     "1010422": {
         "ID Num": 1010422,
-        "Event Title": "生物防控",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 生物防控",
         "Event Desc": "瓦尼菈给温室装了一套自动灌溉施肥系统。",
         "Sinner": "瓦尼菈",
         "Text": {
@@ -609,8 +585,7 @@
     },
     "1010501": {
         "ID Num": 1010501,
-        "Event Title": "热东洲式",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 热东洲式",
         "Event Desc": "摩尔喝下了来自东方的神秘黑色饮料。",
         "Sinner": "摩尔",
         "Text": {
@@ -621,8 +596,7 @@
     },
     "1010502": {
         "ID Num": 1010502,
-        "Event Title": "班门弄斧",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 班门弄斧",
         "Event Desc": "在和“网”字相关的领域，摩尔不输给任何人。",
         "Sinner": "摩尔",
         "Text": {
@@ -632,8 +606,7 @@
     },
     "1010511": {
         "ID Num": 1010511,
-        "Event Title": "夜行者",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 夜行者",
         "Event Desc": "路痴的摩尔竟然擅长夜行。",
         "Sinner": "摩尔",
         "Text": {
@@ -658,8 +631,7 @@
     },
     "1010512": {
         "ID Num": 1010512,
-        "Event Title": "浓烈睡意",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 浓烈睡意",
         "Event Desc": "谁最受安眠之神的眷顾？",
         "Sinner": "摩尔",
         "Text": {
@@ -683,8 +655,7 @@
     },
     "1010521": {
         "ID Num": 1010521,
-        "Event Title": "防火墙",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 防火墙",
         "Event Desc": "你请摩尔定制了一套“家长”管理系统。",
         "Sinner": "摩尔",
         "Text": {
@@ -724,8 +695,7 @@
     },
     "1010522": {
         "ID Num": 1010522,
-        "Event Title": "意外兴趣",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 意外兴趣",
         "Event Desc": "密室迎来了意外访客。",
         "Sinner": "曼缇斯",
         "Text": {
@@ -760,8 +730,7 @@
     },
     "1010601": {
         "ID Num": 1010601,
-        "Event Title": "午夜打工人",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 午夜打工人",
         "Event Desc": "你收到一封来自工作人员的投诉信。",
         "Sinner": "玉骨",
         "Text": {
@@ -771,8 +740,7 @@
     },
     "1010602": {
         "ID Num": 1010602,
-        "Event Title": "匿名的赠书人",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 匿名的赠书人",
         "Event Desc": "你在阅览室发现几本没见过的书。",
         "Sinner": "玉骨",
         "Text": {
@@ -782,8 +750,7 @@
     },
     "1010611": {
         "ID Num": 1010611,
-        "Event Title": "玉骨的烦恼",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 玉骨的烦恼",
         "Event Desc": "玉骨似乎有一些苦恼。",
         "Sinner": "无患子",
         "Text": {
@@ -810,8 +777,7 @@
     },
     "1010612": {
         "ID Num": 1010612,
-        "Event Title": "另一种美",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 另一种美",
         "Event Desc": "管理局举办了一场花艺比赛，其中有一个特别的作品。",
         "Sinner": "玉骨",
         "Text": {
@@ -830,8 +796,7 @@
     },
     "1010621": {
         "ID Num": 1010621,
-        "Event Title": "追更要适度",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 追更要适度",
         "Event Desc": "留影室的设备运转了一夜，你前去查看。",
         "Sinner": "玉骨",
         "Text": {
@@ -862,8 +827,7 @@
     },
     "1010622": {
         "ID Num": 1010622,
-        "Event Title": "另类的哭点",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 另类的哭点",
         "Event Desc": "你在阅览室见到了玉骨。",
         "Sinner": "玉骨",
         "Text": {
@@ -892,8 +856,7 @@
     },
     "1020101": {
         "ID Num": 1020101,
-        "Event Title": "投诉单",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 投诉单",
         "Event Desc": "菲向你递交了一大堆投诉单。",
         "Sinner": "卓娅",
         "Text": {
@@ -903,8 +866,7 @@
     },
     "1020102": {
         "ID Num": 1020102,
-        "Event Title": "维修账单",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 维修账单",
         "Event Desc": "局长收到了一份金额不低的维修账单。",
         "Sinner": "卓娅",
         "Text": {
@@ -914,8 +876,7 @@
     },
     "1020103": {
         "ID Num": 1020103,
-        "Event Title": "墨水计量",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 墨水计量",
         "Event Desc": "后勤部门向你推送了几十份黑墨水订单。",
         "Sinner": "卓娅",
         "Text": {
@@ -925,8 +886,7 @@
     },
     "1020111": {
         "ID Num": 1020111,
-        "Event Title": "签名",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 签名",
         "Event Desc": "自从放风区新增了露天食堂，这里一直就很吵，今天更是突破了80分贝。",
         "Sinner": "赫罗",
         "Text": {
@@ -944,8 +904,7 @@
     },
     "1020112": {
         "ID Num": 1020112,
-        "Event Title": "旗帜",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 旗帜",
         "Event Desc": "监管中枢检测到有禁闭者离开规定区域。",
         "Sinner": "卓娅",
         "Text": {
@@ -963,8 +922,7 @@
     },
     "1020113": {
         "ID Num": 1020113,
-        "Event Title": "改装风云",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 改装风云",
         "Event Desc": "局长收到了一大堆投诉单。",
         "Sinner": "卓娅",
         "Text": {
@@ -985,8 +943,7 @@
     },
     "1020121": {
         "ID Num": 1020121,
-        "Event Title": "公共空间",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 公共空间",
         "Event Desc": "收到来自收容区工作人员的请求，请确认。",
         "Sinner": "卓娅",
         "Text": {
@@ -1020,8 +977,7 @@
     },
     "1020122": {
         "ID Num": 1020122,
-        "Event Title": "掰手腕",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 掰手腕",
         "Event Desc": "有人在娱乐区举行掰手腕比赛。",
         "Sinner": "卓娅",
         "Text": {
@@ -1071,8 +1027,7 @@
     },
     "1020201": {
         "ID Num": 1020201,
-        "Event Title": "协作研究",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 协作研究",
         "Event Desc": "某高级别研究院和管理局进行了沟通。",
         "Sinner": "诺克斯",
         "Text": {
@@ -1082,8 +1037,7 @@
     },
     "1020202": {
         "ID Num": 1020202,
-        "Event Title": "清理行动",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 清理行动",
         "Event Desc": "FAC对近期管理局的行动报告提交了反馈。",
         "Sinner": "诺克斯",
         "Text": {
@@ -1093,8 +1047,7 @@
     },
     "1020211": {
         "ID Num": 1020211,
-        "Event Title": "体检",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 体检",
         "Event Desc": "在进行催眠治疗之前，先要进行体检。",
         "Sinner": "诺克斯",
         "Text": {
@@ -1115,8 +1068,7 @@
     },
     "1020212": {
         "ID Num": 1020212,
-        "Event Title": "清晨",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 清晨",
         "Event Desc": "美好的一天开始了。",
         "Sinner": "诺克斯",
         "Text": {
@@ -1136,8 +1088,7 @@
     },
     "1020221": {
         "ID Num": 1020221,
-        "Event Title": "生机",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 生机",
         "Event Desc": "管理局的内部研究部门向局长提交了一份秘密报告。",
         "Sinner": "诺克斯",
         "Text": {
@@ -1168,8 +1119,7 @@
     },
     "1020222": {
         "ID Num": 1020222,
-        "Event Title": "见面会",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 见面会",
         "Event Desc": "为了消除大家对诺克斯的恐惧，你决定举办一次见面会。",
         "Sinner": "诺克斯",
         "Text": {
@@ -1211,8 +1161,7 @@
     },
     "1020301": {
         "ID Num": 1020301,
-        "Event Title": "职业选片员",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 职业选片员",
         "Event Desc": "黛伦为提升管理局众人的审美和品味做出了杰出贡献。",
         "Sinner": "黛伦",
         "Text": {
@@ -1223,8 +1172,7 @@
     },
     "1020302": {
         "ID Num": 1020302,
-        "Event Title": "良师",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 良师",
         "Event Desc": "黛伦对于指导琳拍照这件事非常上心。",
         "Sinner": "琳",
         "Text": {
@@ -1234,8 +1182,7 @@
     },
     "1020311": {
         "ID Num": 1020311,
-        "Event Title": "催眠妙用",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 催眠妙用",
         "Event Desc": "局长收到了一条新申请。",
         "Sinner": "黛伦",
         "Text": {
@@ -1256,8 +1203,7 @@
     },
     "1020312": {
         "ID Num": 1020312,
-        "Event Title": "素材积累",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 素材积累",
         "Event Desc": "监管系统检测到禁闭者黛伦未按时回到收容区。",
         "Sinner": "黛伦",
         "Text": {
@@ -1280,8 +1226,7 @@
     },
     "1020321": {
         "ID Num": 1020321,
-        "Event Title": "想象力训练",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 想象力训练",
         "Event Desc": "空闲的下午，黛伦正躺在放风区的草坪上看云。",
         "Sinner": "黛伦",
         "Text": {
@@ -1318,8 +1263,7 @@
     },
     "1020322": {
         "ID Num": 1020322,
-        "Event Title": "附加技能",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 附加技能",
         "Event Desc": "胡椒在温室里种的一片小麦成熟了，不少人正在帮忙收割。",
         "Sinner": "胡椒",
         "Text": {
@@ -1348,8 +1292,7 @@
     },
     "1020401": {
         "ID Num": 1020401,
-        "Event Title": "新能源",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 新能源",
         "Event Desc": "管理局能源灾备需要更多可能。",
         "Sinner": "唐",
         "Text": {
@@ -1359,8 +1302,7 @@
     },
     "1020402": {
         "ID Num": 1020402,
-        "Event Title": "夸夸群",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 夸夸群",
         "Event Desc": "唐组织了一个夸夸群。",
         "Sinner": "唐",
         "Text": {
@@ -1370,8 +1312,7 @@
     },
     "1020411": {
         "ID Num": 1020411,
-        "Event Title": "烟雾弹",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 烟雾弹",
         "Event Desc": "妮诺直播整活，唐倾情相助。",
         "Sinner": "唐",
         "Text": {
@@ -1395,8 +1336,7 @@
     },
     "1020412": {
         "ID Num": 1020412,
-        "Event Title": "英雄传",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 英雄传",
         "Event Desc": "在吹牛这方面，唐和艾米潘棋逢对手。",
         "Sinner": "艾米潘",
         "Text": {
@@ -1419,8 +1359,7 @@
     },
     "1020421": {
         "ID Num": 1020421,
-        "Event Title": "医务室异变",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 医务室异变",
         "Event Desc": "近来唐去医务室的次数有点太多了。",
         "Sinner": "唐",
         "Text": {
@@ -1459,8 +1398,7 @@
     },
     "1020422": {
         "ID Num": 1020422,
-        "Event Title": "行万里路",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 行万里路",
         "Event Desc": "唐似乎什么都懂一点。",
         "Sinner": "唐",
         "Text": {
@@ -1495,8 +1433,7 @@
     },
     "1020501": {
         "ID Num": 1020501,
-        "Event Title": "燃料滞销",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 燃料滞销",
         "Event Desc": "曜来管理局后，菲的便携卡式炉和燃料滞销了。",
         "Sinner": "曜",
         "Text": {
@@ -1507,8 +1444,7 @@
     },
     "1020502": {
         "ID Num": 1020502,
-        "Event Title": "左右为难",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 左右为难",
         "Event Desc": "怪谈故事会的成员对曜又爱又恨。",
         "Sinner": "曜",
         "Text": {
@@ -1518,8 +1454,7 @@
     },
     "1020511": {
         "ID Num": 1020511,
-        "Event Title": "神秘火灾",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 神秘火灾",
         "Event Desc": "管理局月总火灾预警次数又创新高。",
         "Sinner": "露薇娅·蕾",
         "Text": {
@@ -1543,8 +1478,7 @@
     },
     "1020512": {
         "ID Num": 1020512,
-        "Event Title": "意外救星",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 意外救星",
         "Event Desc": "曜近来在温室停留的时间不同寻常。",
         "Sinner": "可可莉克",
         "Text": {
@@ -1567,8 +1501,7 @@
     },
     "1020521": {
         "ID Num": 1020521,
-        "Event Title": "交换礼物",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 交换礼物",
         "Event Desc": "第一次参加联欢会互换礼物环节的曜准备了什么呢？",
         "Sinner": "曜",
         "Text": {
@@ -1605,8 +1538,7 @@
     },
     "1020522": {
         "ID Num": 1020522,
-        "Event Title": "特殊训练",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 特殊训练",
         "Event Desc": "曜最近手中常捧着一枚蛋，实在令人在意。",
         "Sinner": "曜",
         "Text": {
@@ -1643,8 +1575,7 @@
     },
     "1020601": {
         "ID Num": 1020601,
-        "Event Title": "投喂",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 投喂",
         "Event Desc": "派尔琪雅的治疗师向你提交了一份申请。",
         "Sinner": "派尔琪雅",
         "Text": {
@@ -1654,8 +1585,7 @@
     },
     "1020602": {
         "ID Num": 1020602,
-        "Event Title": "水族箱锁屏",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 水族箱锁屏",
         "Event Desc": "派尔琪雅似乎对娱乐区的电脑锁屏很感兴趣。",
         "Sinner": "派尔琪雅",
         "Text": {
@@ -1666,8 +1596,7 @@
     },
     "1020611": {
         "ID Num": 1020611,
-        "Event Title": "鲸吃鱼",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 鲸吃鱼",
         "Event Desc": "派尔琪雅在艺术治疗中完成了一幅作品。",
         "Sinner": "派尔琪雅",
         "Text": {
@@ -1692,8 +1621,7 @@
     },
     "1020612": {
         "ID Num": 1020612,
-        "Event Title": "泳池救生员",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 泳池救生员",
         "Event Desc": "泳池维修遇到了意料之外的阻碍。",
         "Sinner": "派尔琪雅",
         "Text": {
@@ -1714,8 +1642,7 @@
     },
     "1020621": {
         "ID Num": 1020621,
-        "Event Title": "摸鱼",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 摸鱼",
         "Event Desc": "禁闭者派尔琪雅缺席了今天的训练任务。",
         "Sinner": "派尔琪雅",
         "Text": {
@@ -1753,8 +1680,7 @@
     },
     "1020622": {
         "ID Num": 1020622,
-        "Event Title": "粉红色的温度",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 粉红色的温度",
         "Event Desc": "研究人员开发出了能够模拟海洋的全息投影。",
         "Sinner": "派尔琪雅",
         "Text": {
@@ -1785,8 +1711,7 @@
     },
     "1030101": {
         "ID Num": 1030101,
-        "Event Title": "黑货",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 黑货",
         "Event Desc": "管理局对多名禁闭者展开了临时抽查行动。",
         "Sinner": "白逸",
         "Text": {
@@ -1796,8 +1721,7 @@
     },
     "1030102": {
         "ID Num": 1030102,
-        "Event Title": "分成",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 分成",
         "Event Desc": "白逸代表白记实业公司要和你进行对话。",
         "Sinner": "白逸",
         "Text": {
@@ -1807,8 +1731,7 @@
     },
     "1030111": {
         "ID Num": 1030111,
-        "Event Title": "喝酒误事",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 喝酒误事",
         "Event Desc": "白逸已经在禁闭室呆了很久。",
         "Sinner": "白逸",
         "Text": {
@@ -1836,8 +1759,7 @@
     },
     "1030112": {
         "ID Num": 1030112,
-        "Event Title": "秘密交易",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 秘密交易",
         "Event Desc": "白逸在放风区跟你打招呼。",
         "Sinner": "白逸",
         "Text": {
@@ -1862,8 +1784,7 @@
     },
     "1030121": {
         "ID Num": 1030121,
-        "Event Title": "小广告",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 小广告",
         "Event Desc": "管理局各处总能发现白记实业的小广告。",
         "Sinner": "白逸",
         "Text": {
@@ -1895,8 +1816,7 @@
     },
     "1030122": {
         "ID Num": 1030122,
-        "Event Title": "三人火锅",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 三人火锅",
         "Event Desc": "警告，发现密室有火灾风险。",
         "Sinner": "白逸",
         "Text": {
@@ -1927,8 +1847,7 @@
     },
     "1030201": {
         "ID Num": 1030201,
-        "Event Title": "躲猫猫无敌手",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 躲猫猫无敌手",
         "Event Desc": "科希有一项特别擅长的游戏项目。",
         "Sinner": "科希",
         "Text": {
@@ -1938,8 +1857,7 @@
     },
     "1030202": {
         "ID Num": 1030202,
-        "Event Title": "帽衫",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 帽衫",
         "Event Desc": "后勤部门向你推送了科希的服装订单。",
         "Sinner": "科希",
         "Text": {
@@ -1950,8 +1868,7 @@
     },
     "1030211": {
         "ID Num": 1030211,
-        "Event Title": "观察行为",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 观察行为",
         "Event Desc": "近期监管系统在放风区检测到有工作人员存在异常行为。",
         "Sinner": "科希",
         "Text": {
@@ -1974,8 +1891,7 @@
     },
     "1030212": {
         "ID Num": 1030212,
-        "Event Title": "不一样的手办",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 不一样的手办",
         "Event Desc": "科希的手办作品中又添了新成员。",
         "Sinner": "科希",
         "Text": {
@@ -1996,8 +1912,7 @@
     },
     "1030221": {
         "ID Num": 1030221,
-        "Event Title": "什么声音",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 什么声音",
         "Event Desc": "监管系统检测到部分禁闭者存在可疑聚集行为。",
         "Sinner": "科希",
         "Text": {
@@ -2033,8 +1948,7 @@
     },
     "1030222": {
         "ID Num": 1030222,
-        "Event Title": "棒棒糖",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 棒棒糖",
         "Event Desc": "监管系统检测到禁闭者科希的情绪存在异常。",
         "Sinner": "科希",
         "Text": {
@@ -2075,8 +1989,7 @@
     },
     "1030301": {
         "ID Num": 1030301,
-        "Event Title": "签名",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 签名",
         "Event Desc": "娜恰给粉丝的签名总是那么与众不同。",
         "Sinner": "娜恰",
         "Text": {
@@ -2086,8 +1999,7 @@
     },
     "1030302": {
         "ID Num": 1030302,
-        "Event Title": "局长的牺牲",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 局长的牺牲",
         "Event Desc": "娱乐区的文艺晚会上出现了一些突发状况。",
         "Sinner": "娜恰",
         "Text": {
@@ -2098,8 +2010,7 @@
     },
     "1030311": {
         "ID Num": 1030311,
-        "Event Title": "蛇说了什么？",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 蛇说了什么？",
         "Event Desc": "阳光灿烂的午后，娜恰正坐在草坪上和她的蛇说话。",
         "Sinner": "娜恰",
         "Text": {
@@ -2120,8 +2031,7 @@
     },
     "1030312": {
         "ID Num": 1030312,
-        "Event Title": "公正处理",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 公正处理",
         "Event Desc": "一名工作人员被蛇咬伤了手。",
         "Sinner": "娜恰",
         "Text": {
@@ -2141,8 +2051,7 @@
     },
     "1030321": {
         "ID Num": 1030321,
-        "Event Title": "失灵的“闹钟”",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 失灵的“闹钟”",
         "Event Desc": "监管系统检测到禁闭者娜恰今日未按时到训练室参加训练。",
         "Sinner": "娜恰",
         "Text": {
@@ -2175,8 +2084,7 @@
     },
     "1030322": {
         "ID Num": 1030322,
-        "Event Title": "毒血",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 毒血",
         "Event Desc": "温室中的植物诡异枯死，疑似中毒。",
         "Sinner": "胡椒",
         "Text": {
@@ -2207,8 +2115,7 @@
     },
     "1030401": {
         "ID Num": 1030401,
-        "Event Title": "怀乡",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 怀乡",
         "Event Desc": "阿黛拉正在布置她的房间。",
         "Sinner": "阿黛拉",
         "Text": {
@@ -2218,8 +2125,7 @@
     },
     "1030402": {
         "ID Num": 1030402,
-        "Event Title": "头发救星",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 头发救星",
         "Event Desc": "阿黛拉在洗发水的选择上颇有心得。",
         "Sinner": "阿黛拉",
         "Text": {
@@ -2229,8 +2135,7 @@
     },
     "1030411": {
         "ID Num": 1030411,
-        "Event Title": "护手霜",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 护手霜",
         "Event Desc": "医疗室内，护士正在与阿黛拉进行交谈。",
         "Sinner": "阿黛拉",
         "Text": {
@@ -2253,8 +2158,7 @@
     },
     "1030412": {
         "ID Num": 1030412,
-        "Event Title": "万事屋",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 万事屋",
         "Event Desc": "近日，你听到了一则关于阿黛拉的传闻。",
         "Sinner": "阿黛拉",
         "Text": {
@@ -2283,8 +2187,7 @@
     },
     "1030421": {
         "ID Num": 1030421,
-        "Event Title": "母亲的吊坠",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 母亲的吊坠",
         "Event Desc": "平时十分随和健谈的阿黛拉正心事重重地在放风区来回踱步，似乎有些异样。",
         "Sinner": "阿黛拉",
         "Text": {
@@ -2324,8 +2227,7 @@
     },
     "1030422": {
         "ID Num": 1030422,
-        "Event Title": "理发",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 理发",
         "Event Desc": "最近你的头发长得似乎有点太长了。",
         "Sinner": "阿黛拉",
         "Text": {
@@ -2380,8 +2282,7 @@
     },
     "1030501": {
         "ID Num": 1030501,
-        "Event Title": "特殊疗法",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 特殊疗法",
         "Event Desc": "特殊情况只能特殊对待。",
         "Sinner": "曼缇斯",
         "Text": {
@@ -2391,8 +2292,7 @@
     },
     "1030502": {
         "ID Num": 1030502,
-        "Event Title": "开快递",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 开快递",
         "Event Desc": "曼缇斯有了令人意想不到的副业。",
         "Sinner": "曼缇斯",
         "Text": {
@@ -2402,8 +2302,7 @@
     },
     "1030511": {
         "ID Num": 1030511,
-        "Event Title": "消失的食材",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 消失的食材",
         "Event Desc": "厨房总有馋嘴猫来偷吃，但这次有些不同。",
         "Sinner": "曼缇斯",
         "Text": {
@@ -2423,8 +2322,7 @@
     },
     "1030512": {
         "ID Num": 1030512,
-        "Event Title": "结茧",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 结茧",
         "Event Desc": "曼缇斯因影响他人正常使用训练室而被投诉。",
         "Sinner": "卡瓦卡瓦",
         "Text": {
@@ -2449,8 +2347,7 @@
     },
     "1030521": {
         "ID Num": 1030521,
-        "Event Title": "猎手",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 猎手",
         "Event Desc": "曼缇斯摆出了狩猎的架势。",
         "Sinner": "艾米潘",
         "Text": {
@@ -2485,8 +2382,7 @@
     },
     "1030522": {
         "ID Num": 1030522,
-        "Event Title": "小窝",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 小窝",
         "Event Desc": "曼缇斯给自己造了一个小窝。",
         "Sinner": "曼缇斯",
         "Text": {
@@ -2523,8 +2419,7 @@
     },
     "1030601": {
         "ID Num": 1030601,
-        "Event Title": "无言空白",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 无言空白",
         "Event Desc": "你收到了来自催眠治疗师的消息。",
         "Sinner": "安吉尔",
         "Text": {
@@ -2534,8 +2429,7 @@
     },
     "1030602": {
         "ID Num": 1030602,
-        "Event Title": "新菜试吃",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 新菜试吃",
         "Event Desc": "安吉尔似乎深受餐厅工作人员的喜爱。",
         "Sinner": "安吉尔",
         "Text": {
@@ -2545,8 +2439,7 @@
     },
     "1030611": {
         "ID Num": 1030611,
-        "Event Title": "音乐好眠",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 音乐好眠",
         "Event Desc": "安吉尔多次在公共沙发上睡着。",
         "Sinner": "安吉尔",
         "Text": {
@@ -2569,8 +2462,7 @@
     },
     "1030612": {
         "ID Num": 1030612,
-        "Event Title": "不如睡去",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 不如睡去",
         "Event Desc": "安吉尔一连睡了三天。",
         "Sinner": "安吉尔",
         "Text": {
@@ -2594,8 +2486,7 @@
     },
     "1030621": {
         "ID Num": 1030621,
-        "Event Title": "自动磨刀机",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 自动磨刀机",
         "Event Desc": "安吉尔拥有了一台能按摩的自动磨刀机。",
         "Sinner": "优利卡",
         "Text": {
@@ -2629,8 +2520,7 @@
     },
     "1030622": {
         "ID Num": 1030622,
-        "Event Title": "寻猫记",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 寻猫记",
         "Event Desc": "一只小猫跑丢了，管理局工作人员手无足措。",
         "Sinner": "安吉尔",
         "Text": {
@@ -2672,8 +2562,7 @@
     },
     "1030801": {
         "ID Num": 1030801,
-        "Event Title": "游戏支配者",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 游戏支配者",
         "Event Desc": "000眼看就要攻陷桌游这块最后的净土。",
         "Sinner": "000",
         "Text": {
@@ -2683,8 +2572,7 @@
     },
     "1030802": {
         "ID Num": 1030802,
-        "Event Title": "摇身一变",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 摇身一变",
         "Event Desc": "管理局文化课最近出席率又创新高。",
         "Sinner": "000",
         "Text": {
@@ -2695,8 +2583,7 @@
     },
     "1030811": {
         "ID Num": 1030811,
-        "Event Title": "边界感",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 边界感",
         "Event Desc": "某种意义上，000的边界感确实是BUG级别。",
         "Sinner": "000",
         "Text": {
@@ -2720,8 +2607,7 @@
     },
     "1030812": {
         "ID Num": 1030812,
-        "Event Title": "高维搜索",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 高维搜索",
         "Event Desc": "有时候不知是福。",
         "Sinner": "莱塔",
         "Text": {
@@ -2745,8 +2631,7 @@
     },
     "1030821": {
         "ID Num": 1030821,
-        "Event Title": "厨房骚乱",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 厨房骚乱",
         "Event Desc": "局长，你想要先吃饭，先洗澡，还是先睡觉？",
         "Sinner": "伊格尼",
         "Text": {
@@ -2785,8 +2670,7 @@
     },
     "1030822": {
         "ID Num": 1030822,
-        "Event Title": "AI助手",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ AI助手",
         "Event Desc": "000决定尝试和人工智能FOR抢饭碗。",
         "Sinner": "000",
         "Text": {
@@ -2823,8 +2707,7 @@
     },
     "1040101": {
         "ID Num": 1040101,
-        "Event Title": "夏音超浓特调",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 夏音超浓特调",
         "Event Desc": "夏音看起来特别开心。",
         "Sinner": "夏音",
         "Text": {
@@ -2835,8 +2718,7 @@
     },
     "1040102": {
         "ID Num": 1040102,
-        "Event Title": "神秘黑客",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 神秘黑客",
         "Event Desc": "监管中枢好像被黑客入侵了，但……",
         "Sinner": "夏音",
         "Text": {
@@ -2847,8 +2729,7 @@
     },
     "1040111": {
         "ID Num": 1040111,
-        "Event Title": "机械入侵",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 机械入侵",
         "Event Desc": "警报，不明机械体入侵管理局。",
         "Sinner": "夏音",
         "Text": {
@@ -2878,8 +2759,7 @@
     },
     "1040112": {
         "ID Num": 1040112,
-        "Event Title": "危险发明",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 危险发明",
         "Event Desc": "你发现能量熔炉的产能大幅增长。",
         "Sinner": "夏音",
         "Text": {
@@ -2902,8 +2782,7 @@
     },
     "1040121": {
         "ID Num": 1040121,
-        "Event Title": "时间机器",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 时间机器",
         "Event Desc": "据说夏音正在进行时间机器的研究。",
         "Sinner": "夏音",
         "Text": {
@@ -2931,8 +2810,7 @@
     },
     "1040122": {
         "ID Num": 1040122,
-        "Event Title": "剧本大赛",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 剧本大赛",
         "Event Desc": "夏音报名参加了一个动画剧本创作大赛。",
         "Sinner": "夏音",
         "Text": {
@@ -2977,8 +2855,7 @@
     },
     "1040201": {
         "ID Num": 1040201,
-        "Event Title": "什么味道",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 什么味道",
         "Event Desc": "兰利竟然为你准备一杯咖啡。",
         "Sinner": "兰利",
         "Text": {
@@ -2988,8 +2865,7 @@
     },
     "1040202": {
         "ID Num": 1040202,
-        "Event Title": "拷问手法",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 拷问手法",
         "Event Desc": "你看到两个人聚集在一起似乎在交流着什么。",
         "Sinner": "兰利",
         "Text": {
@@ -2999,8 +2875,7 @@
     },
     "1040211": {
         "ID Num": 1040211,
-        "Event Title": "折磨与被折磨",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 折磨与被折磨",
         "Event Desc": "门外传来了咚咚咚的敲门声。",
         "Sinner": "兰利",
         "Text": {
@@ -3019,8 +2894,7 @@
     },
     "1040212": {
         "ID Num": 1040212,
-        "Event Title": "百步穿杨",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 百步穿杨",
         "Event Desc": "有人想要进入监管中枢。",
         "Sinner": "兰利",
         "Text": {
@@ -3039,8 +2913,7 @@
     },
     "1040221": {
         "ID Num": 1040221,
-        "Event Title": "钢铁意志",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 钢铁意志",
         "Event Desc": "兰利停留在禁闭室长达十个小时，系统判定其行为异常，请前往确认。",
         "Sinner": "兰利",
         "Text": {
@@ -3072,8 +2945,7 @@
     },
     "1040222": {
         "ID Num": 1040222,
-        "Event Title": "谁是老板",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 谁是老板",
         "Event Desc": "即便在管理局中，兰利也不忘监督你的工作。",
         "Sinner": "兰利",
         "Text": {
@@ -3114,8 +2986,7 @@
     },
     "1040301": {
         "ID Num": 1040301,
-        "Event Title": "消暑",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 消暑",
         "Event Desc": "橡木匣在MBCC的人气似乎与气温高低呈正相关。",
         "Sinner": "橡木匣",
         "Text": {
@@ -3126,8 +2997,7 @@
     },
     "1040302": {
         "ID Num": 1040302,
-        "Event Title": "坐享其成",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 坐享其成",
         "Event Desc": "橡木匣被嘟嘟拉着一起在放风区摆摊。",
         "Sinner": "嘟嘟",
         "Text": {
@@ -3137,8 +3007,7 @@
     },
     "1040311": {
         "ID Num": 1040311,
-        "Event Title": "蝴蝶标本",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 蝴蝶标本",
         "Event Desc": "橡木匣正在全神贯注地制作一个新的蝴蝶标本。",
         "Sinner": "橡木匣",
         "Text": {
@@ -3156,8 +3025,7 @@
     },
     "1040312": {
         "ID Num": 1040312,
-        "Event Title": "外邦诗文集",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 外邦诗文集",
         "Event Desc": "橡木匣正在阅览室里翻阅着一本封皮上写着外邦语言的小书。",
         "Sinner": "橡木匣",
         "Text": {
@@ -3179,8 +3047,7 @@
     },
     "1040321": {
         "ID Num": 1040321,
-        "Event Title": "项链的故事",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 项链的故事",
         "Event Desc": "橡木匣一直随身戴着一个相盒项链，局长对此有些在意。",
         "Sinner": "橡木匣",
         "Text": {
@@ -3210,8 +3077,7 @@
     },
     "1040322": {
         "ID Num": 1040322,
-        "Event Title": "熏香",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 熏香",
         "Event Desc": "每次经过橡木匣身边时，总能嗅到一种十分特别的香味。",
         "Sinner": "橡木匣",
         "Text": {
@@ -3242,8 +3108,7 @@
     },
     "1040401": {
         "ID Num": 1040401,
-        "Event Title": "囤积癖",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 囤积癖",
         "Event Desc": "你进入德雷雅房间的时候被堆在地上的一些不明物体绊了一下。",
         "Sinner": "德雷雅",
         "Text": {
@@ -3254,8 +3119,7 @@
     },
     "1040402": {
         "ID Num": 1040402,
-        "Event Title": "眼镜的下落",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 眼镜的下落",
         "Event Desc": "德雷雅的单片眼镜不见了。",
         "Sinner": "德雷雅",
         "Text": {
@@ -3266,8 +3130,7 @@
     },
     "1040411": {
         "ID Num": 1040411,
-        "Event Title": "求知欲",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 求知欲",
         "Event Desc": "近日德雷雅的精神状态似乎有所好转，这天她拿着一本笔记本找到了你。",
         "Sinner": "德雷雅",
         "Text": {
@@ -3292,8 +3155,7 @@
     },
     "1040412": {
         "ID Num": 1040412,
-        "Event Title": "观星",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 观星",
         "Event Desc": "今夜的天气晴朗，很适合观星。",
         "Sinner": "德雷雅",
         "Text": {
@@ -3315,8 +3177,7 @@
     },
     "1040421": {
         "ID Num": 1040421,
-        "Event Title": "水果罐头",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 水果罐头",
         "Event Desc": "你整理禁闭者资料的时候，读到了德雷雅的档案。",
         "Sinner": "德雷雅",
         "Text": {
@@ -3350,8 +3211,7 @@
     },
     "1040422": {
         "ID Num": 1040422,
-        "Event Title": "倾听者",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 倾听者",
         "Event Desc": "虽然德雷雅是个性格内向的人，但管理局内的许多人都非常喜欢找她聊天。",
         "Sinner": "德雷雅",
         "Text": {
@@ -3386,8 +3246,7 @@
     },
     "1040501": {
         "ID Num": 1040501,
-        "Event Title": "社交大师",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 社交大师",
         "Event Desc": "近日管理局内新出现了一个名为“人类观察社”的社团。",
         "Sinner": "瑟琳",
         "Text": {
@@ -3397,8 +3256,7 @@
     },
     "1040502": {
         "ID Num": 1040502,
-        "Event Title": "别学她",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 别学她",
         "Event Desc": "瑟琳“自由散漫”的行事风格吸引了许多人的注意。",
         "Sinner": "瑟琳",
         "Text": {
@@ -3408,8 +3266,7 @@
     },
     "1040511": {
         "ID Num": 1040511,
-        "Event Title": "植物杀手",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 植物杀手",
         "Event Desc": "瑟琳似乎在通过心醉于自己的禁闭者偷渡物品。",
         "Sinner": "瑟琳",
         "Text": {
@@ -3432,8 +3289,7 @@
     },
     "1040512": {
         "ID Num": 1040512,
-        "Event Title": "缺什么补什么",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 缺什么补什么",
         "Event Desc": "瑟琳开始将自己庞大的收藏外借。",
         "Sinner": "瑟琳",
         "Text": {
@@ -3458,8 +3314,7 @@
     },
     "1040521": {
         "ID Num": 1040521,
-        "Event Title": "礼物",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 礼物",
         "Event Desc": "临近瑟琳的生日，你想为她准备一个小礼物。",
         "Sinner": "瑟琳",
         "Text": {
@@ -3507,8 +3362,7 @@
     },
     "1040522": {
         "ID Num": 1040522,
-        "Event Title": "小把戏",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 小把戏",
         "Event Desc": "最近几天，你开始觉得瑟琳形迹可疑。",
         "Sinner": "瑟琳",
         "Text": {
@@ -3554,8 +3408,7 @@
     },
     "1040601": {
         "ID Num": 1040601,
-        "Event Title": "内卷前兆",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 内卷前兆",
         "Event Desc": "珀尔夫人让爱缇和她的玩家们压力很大。",
         "Sinner": "珀尔夫人",
         "Text": {
@@ -3565,8 +3418,7 @@
     },
     "1040602": {
         "ID Num": 1040602,
-        "Event Title": "棋逢对手",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 棋逢对手",
         "Event Desc": "黑市商人们对珀尔夫人又爱又恨。",
         "Sinner": "珀尔夫人",
         "Text": {
@@ -3576,8 +3428,7 @@
     },
     "1040611": {
         "ID Num": 1040611,
-        "Event Title": "预算管控",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 预算管控",
         "Event Desc": "珀尔夫人或许能拯救濒临崩溃的管理局预算。",
         "Sinner": "珀尔夫人",
         "Text": {
@@ -3599,8 +3450,7 @@
     },
     "1040612": {
         "ID Num": 1040612,
-        "Event Title": "歌剧魅影",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 歌剧魅影",
         "Event Desc": "管理局内又流传起了新的怪谈。",
         "Sinner": "露薇娅·蕾",
         "Text": {
@@ -3624,8 +3474,7 @@
     },
     "1040621": {
         "ID Num": 1040621,
-        "Event Title": "刻板印象",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 刻板印象",
         "Event Desc": "你在纠结要不要告诉珀尔夫人管理局禁烟。",
         "Sinner": "珀尔夫人",
         "Text": {
@@ -3665,8 +3514,7 @@
     },
     "1040622": {
         "ID Num": 1040622,
-        "Event Title": "梦想舞台",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 梦想舞台",
         "Event Desc": "珀尔夫人的加盟让管理局舞台道具制作如虎添翼。",
         "Sinner": "嗷呜",
         "Text": {
@@ -3703,8 +3551,7 @@
     },
     "1040701": {
         "ID Num": 1040701,
-        "Event Title": "苹果汁订单",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 苹果汁订单",
         "Event Desc": "采购办又收到了一笔新订单。",
         "Sinner": "毕安卡",
         "Text": {
@@ -3714,8 +3561,7 @@
     },
     "1040702": {
         "ID Num": 1040702,
-        "Event Title": "取经",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 取经",
         "Event Desc": "毕安卡最近一直和MBCC的博主们走得很近。",
         "Sinner": "毕安卡",
         "Text": {
@@ -3725,8 +3571,7 @@
     },
     "1040711": {
         "ID Num": 1040711,
-        "Event Title": "天赋选手",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 天赋选手",
         "Event Desc": "不论什么时候见到毕安卡，她似乎都充满了活力。",
         "Sinner": "毕安卡",
         "Text": {
@@ -3751,8 +3596,7 @@
     },
     "1040712": {
         "ID Num": 1040712,
-        "Event Title": "聊天对象",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 聊天对象",
         "Event Desc": "监管系统检测到禁闭者毕安卡存在行为异常。",
         "Sinner": "毕安卡",
         "Text": {
@@ -3777,8 +3621,7 @@
     },
     "1040721": {
         "ID Num": 1040721,
-        "Event Title": "探视时间",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 探视时间",
         "Event Desc": "又到了毕安卡父母定期来管理局探望女儿的日子。",
         "Sinner": "毕安卡",
         "Text": {
@@ -3819,8 +3662,7 @@
     },
     "1040722": {
         "ID Num": 1040722,
-        "Event Title": "局内采访",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 局内采访",
         "Event Desc": "毕安卡正扛着她的摄像机守在食堂门口，进行采访。",
         "Sinner": "毕安卡",
         "Text": {
@@ -3871,8 +3713,7 @@
     },
     "1040801": {
         "ID Num": 1040801,
-        "Event Title": "百发百不中",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 百发百不中",
         "Event Desc": "柯琳举办了一项可盈利的群体活动。",
         "Sinner": "柯琳",
         "Text": {
@@ -3883,8 +3724,7 @@
     },
     "1040802": {
         "ID Num": 1040802,
-        "Event Title": "照料得当",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 照料得当",
         "Event Desc": "最亲近的伙伴，需要最精心的照料。",
         "Sinner": "柯琳",
         "Text": {
@@ -3895,8 +3735,7 @@
     },
     "1040811": {
         "ID Num": 1040811,
-        "Event Title": "精确到秒",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 精确到秒",
         "Event Desc": "柯琳忽如其来的造访了你的办公室。",
         "Sinner": "柯琳",
         "Text": {
@@ -3926,8 +3765,7 @@
     },
     "1040812": {
         "ID Num": 1040812,
-        "Event Title": "“警长”语录",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ “警长”语录",
         "Event Desc": "警长从不饮用牛奶。",
         "Sinner": "柯琳",
         "Text": {
@@ -3962,8 +3800,7 @@
     },
     "1040821": {
         "ID Num": 1040821,
-        "Event Title": "砂海生活守则",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 砂海生活守则",
         "Event Desc": "“瞄准”对狙击手和亡命之徒一样重要。",
         "Sinner": "柯琳",
         "Text": {
@@ -4000,8 +3837,7 @@
     },
     "1040822": {
         "ID Num": 1040822,
-        "Event Title": "狂砂惊魂",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 狂砂惊魂",
         "Event Desc": "电影之夜结束后，柯琳讲起了一个沙地中的故事。",
         "Sinner": "柯琳",
         "Text": {
@@ -4042,8 +3878,7 @@
     },
     "1050101": {
         "ID Num": 1050101,
-        "Event Title": "专业建议",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 专业建议",
         "Event Desc": "伊琳娜向你发送一份大文件。",
         "Sinner": "伊琳娜",
         "Text": {
@@ -4053,8 +3888,7 @@
     },
     "1050102": {
         "ID Num": 1050102,
-        "Event Title": "花",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 花",
         "Event Desc": "伊琳娜申请和外部进行交流。",
         "Sinner": "伊琳娜",
         "Text": {
@@ -4064,8 +3898,7 @@
     },
     "1050111": {
         "ID Num": 1050111,
-        "Event Title": "书单",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 书单",
         "Event Desc": "伊琳娜向你发送了一份申请。",
         "Sinner": "伊琳娜",
         "Text": {
@@ -4090,8 +3923,7 @@
     },
     "1050112": {
         "ID Num": 1050112,
-        "Event Title": "新领域",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 新领域",
         "Event Desc": "伊琳娜看起来好像在看书。",
         "Sinner": "伊琳娜",
         "Text": {
@@ -4110,8 +3942,7 @@
     },
     "1050121": {
         "ID Num": 1050121,
-        "Event Title": "自取其辱",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 自取其辱",
         "Event Desc": "伊琳娜好像要邀请你做些什么。",
         "Sinner": "伊琳娜",
         "Text": {
@@ -4143,8 +3974,7 @@
     },
     "1050122": {
         "ID Num": 1050122,
-        "Event Title": "专注力",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 专注力",
         "Event Desc": "伊琳娜看起来好像在看书。",
         "Sinner": "伊琳娜",
         "Text": {
@@ -4177,8 +4007,7 @@
     },
     "1050301": {
         "ID Num": 1050301,
-        "Event Title": "运势咨询",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 运势咨询",
         "Event Desc": "观星者的身边挤满了人。",
         "Sinner": "观星者",
         "Text": {
@@ -4188,8 +4017,7 @@
     },
     "1050302": {
         "ID Num": 1050302,
-        "Event Title": "神秘熏香",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 神秘熏香",
         "Event Desc": "管理局中偶尔会出现一股奇异的香味。",
         "Sinner": "观星者",
         "Text": {
@@ -4200,8 +4028,7 @@
     },
     "1050311": {
         "ID Num": 1050311,
-        "Event Title": "晦涩的预言",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 晦涩的预言",
         "Event Desc": "观星者对你未来的运势做了一番预言。",
         "Sinner": "观星者",
         "Text": {
@@ -4220,8 +4047,7 @@
     },
     "1050312": {
         "ID Num": 1050312,
-        "Event Title": "低分高玩",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 低分高玩",
         "Event Desc": "观星者似乎迷上了娱乐区的跳舞机。",
         "Sinner": "观星者",
         "Text": {
@@ -4235,8 +4061,7 @@
     },
     "1050321": {
         "ID Num": 1050321,
-        "Event Title": "心灵的颜色",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 心灵的颜色",
         "Event Desc": "观星者希望能看清你的心灵的颜色。",
         "Sinner": "观星者",
         "Text": {
@@ -4266,8 +4091,7 @@
     },
     "1050322": {
         "ID Num": 1050322,
-        "Event Title": "砂海白狐",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 砂海白狐",
         "Event Desc": "观星者给你讲述了一个她们部族流传的故事。",
         "Sinner": "观星者",
         "Text": {
@@ -4294,8 +4118,7 @@
     },
     "1050401": {
         "ID Num": 1050401,
-        "Event Title": "手工书",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 手工书",
         "Event Desc": "爱缇正在布置自己的房间。",
         "Sinner": "爱缇",
         "Text": {
@@ -4306,8 +4129,7 @@
     },
     "1050402": {
         "ID Num": 1050402,
-        "Event Title": "龙有翅膀吗",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 龙有翅膀吗",
         "Event Desc": "爱缇和嗷呜似乎产生了分歧。",
         "Sinner": "嗷呜",
         "Text": {
@@ -4317,8 +4139,7 @@
     },
     "1050411": {
         "ID Num": 1050411,
-        "Event Title": "异世界的大门",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 异世界的大门",
         "Event Desc": "监管系统检测到禁闭者爱缇存在异常行为。",
         "Sinner": "爱缇",
         "Text": {
@@ -4343,8 +4164,7 @@
     },
     "1050412": {
         "ID Num": 1050412,
-        "Event Title": "武器设计",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 武器设计",
         "Event Desc": "爱缇的训练任务并没有安排在今天，但她还是出现在了训练室。",
         "Sinner": "爱缇",
         "Text": {
@@ -4365,8 +4185,7 @@
     },
     "1050421": {
         "ID Num": 1050421,
-        "Event Title": "职业生涯滑铁卢",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 职业生涯滑铁卢",
         "Event Desc": "今天是爱缇第一次在管理局组织跑团的日子，大家都很期待。",
         "Sinner": "爱缇",
         "Text": {
@@ -4413,8 +4232,7 @@
     },
     "1050422": {
         "ID Num": 1050422,
-        "Event Title": "《逃离米诺斯》",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 《逃离米诺斯》",
         "Event Desc": "夜间监管系统检测到工具房内存在违规聚集行为，疑似密谋如何逃离管理局。",
         "Sinner": "爱缇",
         "Text": {
@@ -4452,8 +4270,7 @@
     },
     "1050501": {
         "ID Num": 1050501,
-        "Event Title": "墨水贩子",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 墨水贩子",
         "Event Desc": "渡鸦好像在摆摊售卖一种新产品。",
         "Sinner": "渡鸦",
         "Text": {
@@ -4463,8 +4280,7 @@
     },
     "1050502": {
         "ID Num": 1050502,
-        "Event Title": "无良记者",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 无良记者",
         "Event Desc": "最近禁闭者间流行起了一些八卦小报。",
         "Sinner": "渡鸦",
         "Text": {
@@ -4474,8 +4290,7 @@
     },
     "1050511": {
         "ID Num": 1050511,
-        "Event Title": "两重奏",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 两重奏",
         "Event Desc": "渡鸦带着她的乌鸦神秘兮兮地拉住了你。",
         "Sinner": "渡鸦",
         "Text": {
@@ -4499,8 +4314,7 @@
     },
     "1050512": {
         "ID Num": 1050512,
-        "Event Title": "编写教材",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 编写教材",
         "Event Desc": "你路过阅览室的时候看到了正坐在桌子前奋笔疾书的渡鸦。",
         "Sinner": "渡鸦",
         "Text": {
@@ -4527,8 +4341,7 @@
     },
     "1050521": {
         "ID Num": 1050521,
-        "Event Title": "小甜嘴儿",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 小甜嘴儿",
         "Event Desc": "监管系统检测到禁闭者渡鸦缺席训练。",
         "Sinner": "渡鸦",
         "Text": {
@@ -4570,8 +4383,7 @@
     },
     "1050522": {
         "ID Num": 1050522,
-        "Event Title": "职业危机",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 职业危机",
         "Event Desc": "一天的工作结束，你坐在沙发上翻开了一本小说。",
         "Sinner": "蔻蔻",
         "Text": {
@@ -4616,8 +4428,7 @@
     },
     "1050601": {
         "ID Num": 1050601,
-        "Event Title": "低配录音棚",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 低配录音棚",
         "Event Desc": "雷温近来总是钻在密室里不出来。",
         "Sinner": "雷温",
         "Text": {
@@ -4627,8 +4438,7 @@
     },
     "1050602": {
         "ID Num": 1050602,
-        "Event Title": "一个人的时间",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 一个人的时间",
         "Event Desc": "雷温会主动要求去禁闭室。",
         "Sinner": "雷温",
         "Text": {
@@ -4638,8 +4448,7 @@
     },
     "1050611": {
         "ID Num": 1050611,
-        "Event Title": "抢活干",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 抢活干",
         "Event Desc": "雷温的催眠治疗时间总是很长。",
         "Sinner": "雷温",
         "Text": {
@@ -4660,8 +4469,7 @@
     },
     "1050612": {
         "ID Num": 1050612,
-        "Event Title": "采风",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 采风",
         "Event Desc": "密室近来利用率激增。",
         "Sinner": "雷温",
         "Text": {
@@ -4684,8 +4492,7 @@
     },
     "1050621": {
         "ID Num": 1050621,
-        "Event Title": "夜生活",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 夜生活",
         "Event Desc": "管理局的健康作息似乎实施得并不彻底。",
         "Sinner": "雷温",
         "Text": {
@@ -4721,8 +4528,7 @@
     },
     "1050622": {
         "ID Num": 1050622,
-        "Event Title": "局内怪谈",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 局内怪谈",
         "Event Desc": "管理局内突然开始流行起新的怪谈故事。",
         "Sinner": "嗷呜",
         "Text": {
@@ -4761,8 +4567,7 @@
     },
     "1050701": {
         "ID Num": 1050701,
-        "Event Title": "上贡",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 上贡",
         "Event Desc": "赫斯提亚房间里的零食越来越多。",
         "Sinner": "赫斯提亚",
         "Text": {
@@ -4772,8 +4577,7 @@
     },
     "1050702": {
         "ID Num": 1050702,
-        "Event Title": "布道失败",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 布道失败",
         "Event Desc": "赫斯提亚的催眠治疗进度不太理想。",
         "Sinner": "赫斯提亚",
         "Text": {
@@ -4783,8 +4587,7 @@
     },
     "1050711": {
         "ID Num": 1050711,
-        "Event Title": "“莉莉”",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ “莉莉”",
         "Event Desc": "赫斯提亚正对着温室里的百合出神。",
         "Sinner": "赫斯提亚",
         "Text": {
@@ -4804,8 +4607,7 @@
     },
     "1050712": {
         "ID Num": 1050712,
-        "Event Title": "带货发模",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 带货发模",
         "Event Desc": "赫斯提亚梳了一个漂亮的新发型。",
         "Sinner": "赫斯提亚",
         "Text": {
@@ -4822,8 +4624,7 @@
     },
     "1050721": {
         "ID Num": 1050721,
-        "Event Title": "暗室寻路",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 暗室寻路",
         "Event Desc": "管理局组织了一场特殊训练。",
         "Sinner": "艾米潘",
         "Text": {
@@ -4859,8 +4660,7 @@
     },
     "1050722": {
         "ID Num": 1050722,
-        "Event Title": "拯救灯管",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 拯救灯管",
         "Event Desc": "监管系统检测到放风区照明系统出现故障。",
         "Sinner": "烟烟",
         "Text": {
@@ -4901,8 +4701,7 @@
     },
     "1050801": {
         "ID Num": 1050801,
-        "Event Title": "口味",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 口味",
         "Event Desc": "采购办又收到了来自蓝鹫的订单。",
         "Sinner": "蓝鹫",
         "Text": {
@@ -4912,8 +4711,7 @@
     },
     "1050802": {
         "ID Num": 1050802,
-        "Event Title": "代班会计",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 代班会计",
         "Event Desc": "管理局的会计因为生病向你请了两天病假。",
         "Sinner": "蓝鹫",
         "Text": {
@@ -4923,8 +4721,7 @@
     },
     "1050811": {
         "ID Num": 1050811,
-        "Event Title": "交际花",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 交际花",
         "Event Desc": "蓝鹫正在放风区与来来往往的人热切交谈。",
         "Sinner": "切尔西伯爵",
         "Text": {
@@ -4951,8 +4748,7 @@
     },
     "1050812": {
         "ID Num": 1050812,
-        "Event Title": "按摩",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 按摩",
         "Event Desc": "今天你亲自参与了蓝鹫的常规心理咨询治疗。",
         "Sinner": "蓝鹫",
         "Text": {
@@ -4984,8 +4780,7 @@
     },
     "1050821": {
         "ID Num": 1050821,
-        "Event Title": "你是什么小甜品？",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 你是什么小甜品？",
         "Event Desc": "蓝鹫似乎拥有一种相当独特的语癖。",
         "Sinner": "蓝鹫",
         "Text": {
@@ -5024,8 +4819,7 @@
     },
     "1050822": {
         "ID Num": 1050822,
-        "Event Title": "一日旁观者",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 一日旁观者",
         "Event Desc": "热闹的娱乐区里，蓝鹫独自一人坐在角落的沙发卡座摇晃着玻璃杯。",
         "Sinner": "蓝鹫",
         "Text": {
@@ -5066,8 +4860,7 @@
     },
     "1050901": {
         "ID Num": 1050901,
-        "Event Title": "娇气小苗",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 娇气小苗",
         "Event Desc": "作为一株小树苗，萦萦有着所有家养植物的共通特质。",
         "Sinner": "萦萦",
         "Text": {
@@ -5078,8 +4871,7 @@
     },
     "1050902": {
         "ID Num": 1050902,
-        "Event Title": "充电桩",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 充电桩",
         "Event Desc": "传说温室多了一株外号叫充电桩的树。",
         "Sinner": "萦萦",
         "Text": {
@@ -5090,8 +4882,7 @@
     },
     "1050911": {
         "ID Num": 1050911,
-        "Event Title": "幽灵助眠",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 幽灵助眠",
         "Event Desc": "你难得拥有了充沛不间断的夜间睡眠，是有人在守护你吗？",
         "Sinner": "萦萦",
         "Text": {
@@ -5116,8 +4907,7 @@
     },
     "1050912": {
         "ID Num": 1050912,
-        "Event Title": "传闻中的她",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 传闻中的她",
         "Event Desc": "近来管理局内关于神秘禁闭者的传言纷起，版本众多。",
         "Sinner": "萦萦",
         "Text": {
@@ -5140,8 +4930,7 @@
     },
     "1050921": {
         "ID Num": 1050921,
-        "Event Title": "人面藤花相映红",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 人面藤花相映红",
         "Event Desc": "倾听群众呼声，管理局决定举办东洲主题庙会——无毒版。",
         "Sinner": "玉骨",
         "Text": {
@@ -5176,8 +4965,7 @@
     },
     "1050922": {
         "ID Num": 1050922,
-        "Event Title": "消息灵通",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 消息灵通",
         "Event Desc": "萦萦不知从哪儿听来了许多关于你的“八卦”。",
         "Sinner": "萦萦",
         "Text": {
@@ -5213,8 +5001,7 @@
     },
     "1060101": {
         "ID Num": 1060101,
-        "Event Title": "冰淇淋",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 冰淇淋",
         "Event Desc": "哈梅尔在品尝了开尔文制作的冰淇淋。",
         "Sinner": "开尔文",
         "Text": {
@@ -5225,8 +5012,7 @@
     },
     "1060102": {
         "ID Num": 1060102,
-        "Event Title": "舞蹈启蒙者",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 舞蹈启蒙者",
         "Event Desc": "学习舞蹈成了MBCC的新潮流。",
         "Sinner": "哈梅尔",
         "Text": {
@@ -5236,8 +5022,7 @@
     },
     "1060111": {
         "ID Num": 1060111,
-        "Event Title": "紧急援助",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 紧急援助",
         "Event Desc": "局长收到了来自催眠师的紧急求助。",
         "Sinner": "哈梅尔",
         "Text": {
@@ -5258,8 +5043,7 @@
     },
     "1060112": {
         "ID Num": 1060112,
-        "Event Title": "坏人雷达",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 坏人雷达",
         "Event Desc": "今晚局长加入了娱乐区的悬疑主题观影活动。",
         "Sinner": "哈梅尔",
         "Text": {
@@ -5278,8 +5062,7 @@
     },
     "1060121": {
         "ID Num": 1060121,
-        "Event Title": "练早功",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 练早功",
         "Event Desc": "局长在晨间散步时遇到了正在拉筋的哈梅尔。",
         "Sinner": "哈梅尔",
         "Text": {
@@ -5313,8 +5096,7 @@
     },
     "1060122": {
         "ID Num": 1060122,
-        "Event Title": "走神",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 走神",
         "Event Desc": "监管系统检测到禁闭者哈梅尔造成了厨房事故。",
         "Sinner": "哈梅尔",
         "Text": {
@@ -5349,8 +5131,7 @@
     },
     "1060201": {
         "ID Num": 1060201,
-        "Event Title": "专业探讨",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 专业探讨",
         "Event Desc": "恩菲尔和玛奇朵似乎正在认真严肃地探讨着些什么。",
         "Sinner": "玛奇朵",
         "Text": {
@@ -5361,8 +5142,7 @@
     },
     "1060202": {
         "ID Num": 1060202,
-        "Event Title": "心形吊坠",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 心形吊坠",
         "Event Desc": "局长戴上了一个新吊坠。",
         "Sinner": "恩菲尔",
         "Text": {
@@ -5373,8 +5153,7 @@
     },
     "1060211": {
         "ID Num": 1060211,
-        "Event Title": "残缺美",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 残缺美",
         "Event Desc": "监管系统检测到训练室墙面遭到严重损坏。",
         "Sinner": "恩菲尔",
         "Text": {
@@ -5399,8 +5178,7 @@
     },
     "1060212": {
         "ID Num": 1060212,
-        "Event Title": "油画解说",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 油画解说",
         "Event Desc": "除了雕塑，在油画方面恩菲尔同样颇有心得。",
         "Sinner": "恩菲尔",
         "Text": {
@@ -5422,8 +5200,7 @@
     },
     "1060221": {
         "ID Num": 1060221,
-        "Event Title": "情绪失控",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 情绪失控",
         "Event Desc": "局长收到了来自催眠师的加急消息。",
         "Sinner": "恩菲尔",
         "Text": {
@@ -5455,8 +5232,7 @@
     },
     "1060222": {
         "ID Num": 1060222,
-        "Event Title": "新尝试",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 新尝试",
         "Event Desc": "局长在边走路边埋头看文件的时候突然被人叫住了。",
         "Sinner": "恩菲尔",
         "Text": {
@@ -5489,8 +5265,7 @@
     },
     "1060301": {
         "ID Num": 1060301,
-        "Event Title": "干点园艺",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 干点园艺",
         "Event Desc": "温室的一角开辟出了一块新区域。",
         "Sinner": "胡椒",
         "Text": {
@@ -5500,8 +5275,7 @@
     },
     "1060302": {
         "ID Num": 1060302,
-        "Event Title": "不同的味道",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 不同的味道",
         "Event Desc": "卡门奈特来到管理局的第一件事，就是去“探索”所有禁闭者的味道。",
         "Sinner": "卡门奈特",
         "Text": {
@@ -5511,8 +5285,7 @@
     },
     "1060311": {
         "ID Num": 1060311,
-        "Event Title": "有点紧张",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 有点紧张",
         "Event Desc": "卡门奈特为餐厅的陈设带来了一些改变。",
         "Sinner": "卡门奈特",
         "Text": {
@@ -5544,8 +5317,7 @@
     },
     "1060312": {
         "ID Num": 1060312,
-        "Event Title": "有点进步",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 有点进步",
         "Event Desc": "自从卡门奈特加入MBCC后，伊格尼对于料理的热情又上了一个台阶。",
         "Sinner": "伊格尼",
         "Text": {
@@ -5578,8 +5350,7 @@
     },
     "1060321": {
         "ID Num": 1060321,
-        "Event Title": "请不要吃我",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 请不要吃我",
         "Event Desc": "不知为何，最近几天你完全没有收到卡门奈特的用餐邀请。",
         "Sinner": "开尔文",
         "Text": {
@@ -5621,8 +5392,7 @@
     },
     "1060322": {
         "ID Num": 1060322,
-        "Event Title": "灵魂的气味",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 灵魂的气味",
         "Event Desc": "餐厅难得冷清的夜晚，你正与卡门奈特共进晚餐。",
         "Sinner": "卡门奈特",
         "Text": {
@@ -5674,8 +5444,7 @@
     },
     "1060401": {
         "ID Num": 1060401,
-        "Event Title": "隐居人士",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 隐居人士",
         "Event Desc": "管理局内虽然不乏喜欢花卉的人士，但可可莉克绝对是最特立独行的一个。",
         "Sinner": "可可莉克",
         "Text": {
@@ -5685,8 +5454,7 @@
     },
     "1060402": {
         "ID Num": 1060402,
-        "Event Title": "提升品位",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 提升品位",
         "Event Desc": "可可莉克是一个对所有事情都很有“品味”的人。",
         "Sinner": "可可莉克",
         "Text": {
@@ -5696,8 +5464,7 @@
     },
     "1060411": {
         "ID Num": 1060411,
-        "Event Title": "“杀手锏”",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ “杀手锏”",
         "Event Desc": "你想请可可莉克帮忙确认一份文件。",
         "Sinner": "可可莉克",
         "Text": {
@@ -5726,8 +5493,7 @@
     },
     "1060412": {
         "ID Num": 1060412,
-        "Event Title": "潜能评估",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 潜能评估",
         "Event Desc": "你带着一个新来的禁闭者找到了可可莉克。",
         "Sinner": "可可莉克",
         "Text": {
@@ -5758,8 +5524,7 @@
     },
     "1060421": {
         "ID Num": 1060421,
-        "Event Title": "晒月亮",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 晒月亮",
         "Event Desc": "今夜回房间睡觉之前，你打算先去放风区吹吹风放松一下。",
         "Sinner": "可可莉克",
         "Text": {
@@ -5799,8 +5564,7 @@
     },
     "1060422": {
         "ID Num": 1060422,
-        "Event Title": "准备浴室",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 准备浴室",
         "Event Desc": "刚处理完手上杂务的你打算好好赶一下的工作进度。",
         "Sinner": "可可莉克",
         "Text": {
@@ -5848,8 +5612,7 @@
     },
     "1060501": {
         "ID Num": 1060501,
-        "Event Title": "玩具采购",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 玩具采购",
         "Event Desc": "伊芙助你为艾米潘实现梦想。",
         "Sinner": "伊芙",
         "Text": {
@@ -5859,8 +5622,7 @@
     },
     "1060502": {
         "ID Num": 1060502,
-        "Event Title": "噪音污染",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 噪音污染",
         "Event Desc": "你连续收到了多张针对噪音污染的投诉单。",
         "Sinner": "伊芙",
         "Text": {
@@ -5870,8 +5632,7 @@
     },
     "1060511": {
         "ID Num": 1060511,
-        "Event Title": "骂醒恋爱脑",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 骂醒恋爱脑",
         "Event Desc": "伊芙被迫作为点评嘉宾登上直播。",
         "Sinner": "妮诺",
         "Text": {
@@ -5895,8 +5656,7 @@
     },
     "1060512": {
         "ID Num": 1060512,
-        "Event Title": "永夜",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 永夜",
         "Event Desc": "据说永夜要来了，禁闭者们人心惶惶。",
         "Sinner": "伊芙",
         "Text": {
@@ -5921,8 +5681,7 @@
     },
     "1060521": {
         "ID Num": 1060521,
-        "Event Title": "醒狮闹",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 醒狮闹",
         "Event Desc": "伊芙确实抵不过嗷呜的攻势。",
         "Sinner": "嗷呜",
         "Text": {
@@ -5958,8 +5717,7 @@
     },
     "1060522": {
         "ID Num": 1060522,
-        "Event Title": "无障碍设施",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 无障碍设施",
         "Event Desc": "管理局的走廊上突然多出了一条彩虹桥。",
         "Sinner": "伊芙",
         "Text": {
@@ -5997,8 +5755,7 @@
     },
     "1060601": {
         "ID Num": 1060601,
-        "Event Title": "东洲风尚",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 东洲风尚",
         "Event Desc": "杜若对她的房间进行了一些改造。",
         "Sinner": "杜若",
         "Text": {
@@ -6008,8 +5765,7 @@
     },
     "1060602": {
         "ID Num": 1060602,
-        "Event Title": "熏香疗法",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 熏香疗法",
         "Event Desc": "杜若为催眠室新兴疗法送去配方。",
         "Sinner": "杜若",
         "Text": {
@@ -6020,8 +5776,7 @@
     },
     "1060611": {
         "ID Num": 1060611,
-        "Event Title": "狄斯印象",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 狄斯印象",
         "Event Desc": "你发现杜若在放风区支起小架子制香。",
         "Sinner": "杜若",
         "Text": {
@@ -6047,8 +5802,7 @@
     },
     "1060612": {
         "ID Num": 1060612,
-        "Event Title": "书法艺术的魅力",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 书法艺术的魅力",
         "Event Desc": "催眠室意外火灾，杜若要走了烧坏的布帘。",
         "Sinner": "杜若",
         "Text": {
@@ -6073,8 +5827,7 @@
     },
     "1060621": {
         "ID Num": 1060621,
-        "Event Title": "吾道不孤",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 吾道不孤",
         "Event Desc": "杜若一直在一个小本子上记录着什么。",
         "Sinner": "杜若",
         "Text": {
@@ -6108,8 +5861,7 @@
     },
     "1060622": {
         "ID Num": 1060622,
-        "Event Title": "丢失的锦囊",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 丢失的锦囊",
         "Event Desc": "杜若的随身锦囊似乎丢失了。",
         "Sinner": "艾米潘",
         "Text": {
@@ -6159,8 +5911,7 @@
     },
     "1060701": {
         "ID Num": 1060701,
-        "Event Title": "大型购物",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 大型购物",
         "Event Desc": "管理局最近签收了很多包裹。",
         "Sinner": "L.L.",
         "Text": {
@@ -6170,8 +5921,7 @@
     },
     "1060702": {
         "ID Num": 1060702,
-        "Event Title": "闭息比赛",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 闭息比赛",
         "Event Desc": "禁闭者们组织了一场闭息比赛。",
         "Sinner": "L.L.",
         "Text": {
@@ -6181,8 +5931,7 @@
     },
     "1060711": {
         "ID Num": 1060711,
-        "Event Title": "小鳐鱼的私藏",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 小鳐鱼的私藏",
         "Event Desc": "监管系统检测到异常情况。",
         "Sinner": "L.L.",
         "Text": {
@@ -6204,8 +5953,7 @@
     },
     "1060712": {
         "ID Num": 1060712,
-        "Event Title": "“甜蜜的负担”",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ “甜蜜的负担”",
         "Event Desc": "管理局的网络安全部门最近很清闲。",
         "Sinner": "L.L.",
         "Text": {
@@ -6230,8 +5978,7 @@
     },
     "1060721": {
         "ID Num": 1060721,
-        "Event Title": "网瘾少女",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 网瘾少女",
         "Event Desc": "管理局的医生敲响了你办公室的门。",
         "Sinner": "L.L.",
         "Text": {
@@ -6268,8 +6015,7 @@
     },
     "1060722": {
         "ID Num": 1060722,
-        "Event Title": "派对主角",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 派对主角",
         "Event Desc": "L.L.宣布举办一场狂欢派对。",
         "Sinner": "L.L.",
         "Text": {
@@ -6315,8 +6061,7 @@
     },
     "1060801": {
         "ID Num": 1060801,
-        "Event Title": "教育高手",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 教育高手",
         "Event Desc": "管理局里有几个特别让人头疼的小家伙。",
         "Sinner": "耶莱娜",
         "Text": {
@@ -6326,8 +6071,7 @@
     },
     "1060802": {
         "ID Num": 1060802,
-        "Event Title": "旧相簿",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 旧相簿",
         "Event Desc": "耶莱娜有一本旧相簿。",
         "Sinner": "耶莱娜",
         "Text": {
@@ -6337,8 +6081,7 @@
     },
     "1060811": {
         "ID Num": 1060811,
-        "Event Title": "午后的诗",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 午后的诗",
         "Event Desc": "自从耶莱娜加入MBCC以来，管理局的图书馆就又多了一位常客。",
         "Sinner": "耶莱娜",
         "Text": {
@@ -6365,8 +6108,7 @@
     },
     "1060812": {
         "ID Num": 1060812,
-        "Event Title": "平凡的幸福",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 平凡的幸福",
         "Event Desc": "耶莱娜正忙着给温室里的几盆吊兰浇水。",
         "Sinner": "耶莱娜",
         "Text": {
@@ -6395,8 +6137,7 @@
     },
     "1060821": {
         "ID Num": 1060821,
-        "Event Title": "听雨",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 听雨",
         "Event Desc": "今天的放风区下了大雨。",
         "Sinner": "耶莱娜",
         "Text": {
@@ -6436,8 +6177,7 @@
     },
     "1060822": {
         "ID Num": 1060822,
-        "Event Title": "月色",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 月色",
         "Event Desc": "终于结束了一天繁琐的工作，你打算去放风区呼吸一下新鲜空气。",
         "Sinner": "耶莱娜",
         "Text": {
@@ -6478,8 +6218,7 @@
     },
     "1110101": {
         "ID Num": 1110101,
-        "Event Title": "没赢过",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 没赢过",
         "Event Desc": "切尔西伯爵给你打了一笔钱，好像是想买什么东西。",
         "Sinner": "切尔西伯爵",
         "Text": {
@@ -6489,8 +6228,7 @@
     },
     "1110102": {
         "ID Num": 1110102,
-        "Event Title": "一件好事",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 一件好事",
         "Event Desc": "切尔西伯爵收到了一面锦旗。",
         "Sinner": "切尔西伯爵",
         "Text": {
@@ -6500,8 +6238,7 @@
     },
     "1110103": {
         "ID Num": 1110103,
-        "Event Title": "同款时尚",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 同款时尚",
         "Event Desc": "有人向切尔西伯爵询问穿搭心得。",
         "Sinner": "切尔西伯爵",
         "Text": {
@@ -6512,8 +6249,7 @@
     },
     "1110111": {
         "ID Num": 1110111,
-        "Event Title": "非卖品",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 非卖品",
         "Event Desc": "切尔西伯爵正在拿计算器算着什么。",
         "Sinner": "切尔西伯爵",
         "Text": {
@@ -6531,8 +6267,7 @@
     },
     "1110112": {
         "ID Num": 1110112,
-        "Event Title": "感谢信",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 感谢信",
         "Event Desc": "管理局收到了一封感谢信，收件人是“傻瓜伯爵”。",
         "Sinner": "切尔西伯爵",
         "Text": {
@@ -6554,8 +6289,7 @@
     },
     "1110121": {
         "ID Num": 1110121,
-        "Event Title": "伯爵驾到",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 伯爵驾到",
         "Event Desc": "切尔西伯爵似乎又有了乱花钱的新点子。",
         "Sinner": "切尔西伯爵",
         "Text": {
@@ -6588,8 +6322,7 @@
     },
     "1110201": {
         "ID Num": 1110201,
-        "Event Title": "保镖业务",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 保镖业务",
         "Event Desc": "你收到了一份外部通讯。",
         "Sinner": "辰砂",
         "Text": {
@@ -6603,8 +6336,7 @@
     },
     "1110202": {
         "ID Num": 1110202,
-        "Event Title": "这也能卖？",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 这也能卖？",
         "Event Desc": "辰砂最近有些烦恼。",
         "Sinner": "辰砂",
         "Text": {
@@ -6616,8 +6348,7 @@
     },
     "1110203": {
         "ID Num": 1110203,
-        "Event Title": "俯卧撑",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 俯卧撑",
         "Event Desc": "辰砂在和工作人员的俯卧撑比赛中胜出。",
         "Sinner": "辰砂",
         "Text": {
@@ -6631,8 +6362,7 @@
     },
     "1110211": {
         "ID Num": 1110211,
-        "Event Title": "热身运动",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 热身运动",
         "Event Desc": "辰砂正在训练室练习。",
         "Sinner": "辰砂",
         "Text": {
@@ -6654,8 +6384,7 @@
     },
     "1110212": {
         "ID Num": 1110212,
-        "Event Title": "口味喜好",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 口味喜好",
         "Event Desc": "辰砂正在放风区吃东西。",
         "Sinner": "辰砂",
         "Text": {
@@ -6673,8 +6402,7 @@
     },
     "1110221": {
         "ID Num": 1110221,
-        "Event Title": "甜蜜的负担",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 甜蜜的负担",
         "Event Desc": "辰砂总是收到一些禁闭者和工作人员送来的糖果和礼物。",
         "Sinner": "辰砂",
         "Text": {
@@ -6705,8 +6433,7 @@
     },
     "1110301": {
         "ID Num": 1110301,
-        "Event Title": "沙漠美食",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 沙漠美食",
         "Event Desc": "卡瓦卡瓦建议管理局的食堂增加几种新菜品。",
         "Sinner": "卡瓦卡瓦",
         "Text": {
@@ -6717,8 +6444,7 @@
     },
     "1110302": {
         "ID Num": 1110302,
-        "Event Title": "小型地震",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 小型地震",
         "Event Desc": "办公室门口传来了一次不小的震动……",
         "Sinner": "卡瓦卡瓦",
         "Text": {
@@ -6730,8 +6456,7 @@
     },
     "1110303": {
         "ID Num": 1110303,
-        "Event Title": "节约用水",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 节约用水",
         "Event Desc": "你打算扔掉喝不完的半瓶矿泉水。",
         "Sinner": "卡瓦卡瓦",
         "Text": {
@@ -6743,8 +6468,7 @@
     },
     "1110311": {
         "ID Num": 1110311,
-        "Event Title": "天真的人",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 天真的人",
         "Event Desc": "卡瓦卡瓦执行任务归来，身上多数装备都不见了。",
         "Sinner": "卡瓦卡瓦",
         "Text": {
@@ -6768,8 +6492,7 @@
     },
     "1110312": {
         "ID Num": 1110312,
-        "Event Title": "大胃王比赛",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 大胃王比赛",
         "Event Desc": "卡瓦卡瓦在大胃王比赛上获得了冠军。",
         "Sinner": "卡瓦卡瓦",
         "Text": {
@@ -6788,8 +6511,7 @@
     },
     "1110321": {
         "ID Num": 1110321,
-        "Event Title": "砂海故事",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 砂海故事",
         "Event Desc": "卡瓦卡瓦在看一本名叫《砂海故事集》的书。",
         "Sinner": "卡瓦卡瓦",
         "Text": {
@@ -6836,8 +6558,7 @@
     },
     "1110401": {
         "ID Num": 1110401,
-        "Event Title": "催眠治疗",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 催眠治疗",
         "Event Desc": "催眠师传来一则消息。",
         "Sinner": "卡米利安",
         "Text": {
@@ -6847,8 +6568,7 @@
     },
     "1110402": {
         "ID Num": 1110402,
-        "Event Title": "坚持",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 坚持",
         "Event Desc": "李维有一些特殊的坚持。",
         "Sinner": "李维",
         "Text": {
@@ -6858,8 +6578,7 @@
     },
     "1110403": {
         "ID Num": 1110403,
-        "Event Title": "生活品位",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 生活品位",
         "Event Desc": "李维相当注重生活品位和仪式感。",
         "Sinner": "李维",
         "Text": {
@@ -6869,8 +6588,7 @@
     },
     "1110411": {
         "ID Num": 1110411,
-        "Event Title": "健身爱好者",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 健身爱好者",
         "Event Desc": "李维正在训练室里举杠铃健身。",
         "Sinner": "李维",
         "Text": {
@@ -6891,8 +6609,7 @@
     },
     "1110412": {
         "ID Num": 1110412,
-        "Event Title": "关于墨镜",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 关于墨镜",
         "Event Desc": "你觉得今天的李维看上去有些不太对劲。",
         "Sinner": "李维",
         "Text": {
@@ -6914,8 +6631,7 @@
     },
     "1110421": {
         "ID Num": 1110421,
-        "Event Title": "家的味道",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 家的味道",
         "Event Desc": "李维坐在食堂，对着盘子里的食物唉声叹气。",
         "Sinner": "李维",
         "Text": {
@@ -6954,8 +6670,7 @@
     },
     "1110501": {
         "ID Num": 1110501,
-        "Event Title": "强迫症",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 强迫症",
         "Event Desc": "整个MBCC里都找不出比尤尼的房间更整洁的地方了。",
         "Sinner": "尤尼",
         "Text": {
@@ -6966,8 +6681,7 @@
     },
     "1110502": {
         "ID Num": 1110502,
-        "Event Title": "镜子",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 镜子",
         "Event Desc": "很多人都对尤尼的神奇镜子十分好奇。",
         "Sinner": "尤尼",
         "Text": {
@@ -6977,8 +6691,7 @@
     },
     "1110503": {
         "ID Num": 1110503,
-        "Event Title": "小孩克星",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 小孩克星",
         "Event Desc": "尤尼在管理局里出了名的和小孩不对付。",
         "Sinner": "尤尼",
         "Text": {
@@ -6988,8 +6701,7 @@
     },
     "1110511": {
         "ID Num": 1110511,
-        "Event Title": "赞美",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 赞美",
         "Event Desc": "你收到了一则来自工作人员的投诉。",
         "Sinner": "尤尼",
         "Text": {
@@ -7017,8 +6729,7 @@
     },
     "1110512": {
         "ID Num": 1110512,
-        "Event Title": "心碎的瞬间",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 心碎的瞬间",
         "Event Desc": "午休时间，几个工作人员正聚在一起兴奋地讨论着什么。",
         "Sinner": "尤尼",
         "Text": {
@@ -7042,8 +6753,7 @@
     },
     "1110521": {
         "ID Num": 1110521,
-        "Event Title": "甜食爱好者",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 甜食爱好者",
         "Event Desc": "午餐时间，尤尼在餐厅取了她的午饭。",
         "Sinner": "尤尼",
         "Text": {
@@ -7081,8 +6791,7 @@
     },
     "1110601": {
         "ID Num": 1110601,
-        "Event Title": "熊孩子",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 熊孩子",
         "Event Desc": "妮诺为了直播能做出的事简直不可预测。",
         "Sinner": "妮诺",
         "Text": {
@@ -7092,8 +6801,7 @@
     },
     "1110602": {
         "ID Num": 1110602,
-        "Event Title": "小卖部终结者",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 小卖部终结者",
         "Event Desc": "投诉零食总不补货的禁闭者越来越多。",
         "Sinner": "妮诺",
         "Text": {
@@ -7103,8 +6811,7 @@
     },
     "1110603": {
         "ID Num": 1110603,
-        "Event Title": "直播亮点",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 直播亮点",
         "Event Desc": "妮诺居然在禁闭室开直播。",
         "Sinner": "妮诺",
         "Text": {
@@ -7114,8 +6821,7 @@
     },
     "1110611": {
         "ID Num": 1110611,
-        "Event Title": "冲浪高手",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 冲浪高手",
         "Event Desc": "妮诺主动提出帮你解决问题。",
         "Sinner": "妮诺",
         "Text": {
@@ -7139,8 +6845,7 @@
     },
     "1110612": {
         "ID Num": 1110612,
-        "Event Title": "黑客攻击",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 黑客攻击",
         "Event Desc": "管理局网络遭遇了来自外部的黑客攻击。",
         "Sinner": "泰特拉",
         "Text": {
@@ -7162,8 +6867,7 @@
     },
     "1110621": {
         "ID Num": 1110621,
-        "Event Title": "探索发现",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 探索发现",
         "Event Desc": "妮诺找到了足够吸睛的直播内容。",
         "Sinner": "妮诺",
         "Text": {
@@ -7199,8 +6903,7 @@
     },
     "1110701": {
         "ID Num": 1110701,
-        "Event Title": "离局出走",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 离局出走",
         "Event Desc": "戈蓝一怒之下离局出走。",
         "Sinner": "戈蓝",
         "Text": {
@@ -7210,8 +6913,7 @@
     },
     "1110702": {
         "ID Num": 1110702,
-        "Event Title": "昨日往事",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 昨日往事",
         "Event Desc": "催眠师向你发来一条消息。",
         "Sinner": "戈蓝",
         "Text": {
@@ -7221,8 +6923,7 @@
     },
     "1110703": {
         "ID Num": 1110703,
-        "Event Title": "义气大姐头",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 义气大姐头",
         "Event Desc": "有人偷吃了餐厅的零食。",
         "Sinner": "戈蓝",
         "Text": {
@@ -7232,8 +6933,7 @@
     },
     "1110711": {
         "ID Num": 1110711,
-        "Event Title": "华丽野餐",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 华丽野餐",
         "Event Desc": "戈蓝盛装出席管理局的野餐活动。",
         "Sinner": "戈蓝",
         "Text": {
@@ -7265,8 +6965,7 @@
     },
     "1110712": {
         "ID Num": 1110712,
-        "Event Title": "吵架复盘",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 吵架复盘",
         "Event Desc": "为了战胜海拉，戈蓝奋笔疾书。",
         "Sinner": "戈蓝",
         "Text": {
@@ -7288,8 +6987,7 @@
     },
     "1110721": {
         "ID Num": 1110721,
-        "Event Title": "普通禁闭者",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 普通禁闭者",
         "Event Desc": "最近，戈蓝总是用凶恶的目光盯着其他禁闭者。",
         "Sinner": "戈蓝",
         "Text": {
@@ -7328,8 +7026,7 @@
     },
     "1110801": {
         "ID Num": 1110801,
-        "Event Title": "信件收藏",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 信件收藏",
         "Event Desc": "多芙房间的储物柜里放着她的特殊收藏。",
         "Sinner": "多芙",
         "Text": {
@@ -7339,8 +7036,7 @@
     },
     "1110802": {
         "ID Num": 1110802,
-        "Event Title": "复古风潮",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 复古风潮",
         "Event Desc": "最近的MBCC掀起了一股手写信的复古风潮。",
         "Sinner": "多芙",
         "Text": {
@@ -7351,8 +7047,7 @@
     },
     "1110803": {
         "ID Num": 1110803,
-        "Event Title": "读书分享",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 读书分享",
         "Event Desc": "管理局里几位爱读书的禁闭者会定期举办读书分享活动。",
         "Sinner": "多芙",
         "Text": {
@@ -7363,8 +7058,7 @@
     },
     "1110811": {
         "ID Num": 1110811,
-        "Event Title": "以退为进",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 以退为进",
         "Event Desc": "禁闭者多芙疑似在留影室与人发生冲突。",
         "Sinner": "多芙",
         "Text": {
@@ -7398,8 +7092,7 @@
     },
     "1110812": {
         "ID Num": 1110812,
-        "Event Title": "植物杀手",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 植物杀手",
         "Event Desc": "多芙正蹲在温室一角盯着摆在那儿几个花盆，看上去似乎有些苦恼。",
         "Sinner": "堇",
         "Text": {
@@ -7425,8 +7118,7 @@
     },
     "1110821": {
         "ID Num": 1110821,
-        "Event Title": "恋旧",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 恋旧",
         "Event Desc": "多芙正在放风区的空地上擦洗她的自行车。",
         "Sinner": "多芙",
         "Text": {
@@ -7464,8 +7156,7 @@
     },
     "1120101": {
         "ID Num": 1120101,
-        "Event Title": "特殊对策",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 特殊对策",
         "Event Desc": "九十九对催眠治疗表现出了抗拒心理。",
         "Sinner": "九十九",
         "Text": {
@@ -7476,8 +7167,7 @@
     },
     "1120102": {
         "ID Num": 1120102,
-        "Event Title": "朋友",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 朋友",
         "Event Desc": "你收到了一份派遣的行动报告。",
         "Sinner": "九十九",
         "Text": {
@@ -7490,8 +7180,7 @@
     },
     "1120103": {
         "ID Num": 1120103,
-        "Event Title": "破坏之王",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 破坏之王",
         "Event Desc": "装备研发部门申请借调九十九。",
         "Sinner": "九十九",
         "Text": {
@@ -7502,8 +7191,7 @@
     },
     "1120111": {
         "ID Num": 1120111,
-        "Event Title": "失控",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 失控",
         "Event Desc": "紧急通知：九十九情绪疑似失控，能量逸散效应极强。",
         "Sinner": "九十九",
         "Text": {
@@ -7524,8 +7212,7 @@
     },
     "1120112": {
         "ID Num": 1120112,
-        "Event Title": "看云",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 看云",
         "Event Desc": "今天天气很好。",
         "Sinner": "九十九",
         "Text": {
@@ -7543,8 +7230,7 @@
     },
     "1120113": {
         "ID Num": 1120113,
-        "Event Title": "零食",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 零食",
         "Event Desc": "九十九想要见你。",
         "Sinner": "九十九",
         "Text": {
@@ -7564,8 +7250,7 @@
     },
     "1120121": {
         "ID Num": 1120121,
-        "Event Title": "控制情绪",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 控制情绪",
         "Event Desc": "远处传来了一些骚乱的声音。",
         "Sinner": "九十九",
         "Text": {
@@ -7595,8 +7280,7 @@
     },
     "1120201": {
         "ID Num": 1120201,
-        "Event Title": "破坏者",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 破坏者",
         "Event Desc": "监控显示屏中传来了凄惨的画面。",
         "Sinner": "温蒂",
         "Text": {
@@ -7606,8 +7290,7 @@
     },
     "1120202": {
         "ID Num": 1120202,
-        "Event Title": "武器的特殊用途",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 武器的特殊用途",
         "Event Desc": "管理局的工作人员对温蒂连连称赞。",
         "Sinner": "温蒂",
         "Text": {
@@ -7620,8 +7303,7 @@
     },
     "1120203": {
         "ID Num": 1120203,
-        "Event Title": "铃声",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 铃声",
         "Event Desc": "最近你总是能听到温蒂的笑声从各个地方传来。",
         "Sinner": "温蒂",
         "Text": {
@@ -7632,8 +7314,7 @@
     },
     "1120211": {
         "ID Num": 1120211,
-        "Event Title": "过犹不及",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 过犹不及",
         "Event Desc": "管理局食堂的大厨偷偷向你表达了自己的不满。",
         "Sinner": "温蒂",
         "Text": {
@@ -7652,8 +7333,7 @@
     },
     "1120212": {
         "ID Num": 1120212,
-        "Event Title": "电影授权",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 电影授权",
         "Event Desc": "有人希望能以温蒂为原型拍摄一部电影。",
         "Sinner": "温蒂",
         "Text": {
@@ -7672,8 +7352,7 @@
     },
     "1120221": {
         "ID Num": 1120221,
-        "Event Title": "不忍",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 不忍",
         "Event Desc": "温蒂向你发送了一份消息。",
         "Sinner": "温蒂",
         "Text": {
@@ -7703,8 +7382,7 @@
     },
     "1120301": {
         "ID Num": 1120301,
-        "Event Title": "阅览室常客",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 阅览室常客",
         "Event Desc": "今天的帕加茜又是第一个进入阅览室的人。",
         "Sinner": "帕加茜",
         "Text": {
@@ -7714,8 +7392,7 @@
     },
     "1120302": {
         "ID Num": 1120302,
-        "Event Title": "机械臂保养",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 机械臂保养",
         "Event Desc": "又到了帕加茜定期保养机械臂的日子。",
         "Sinner": "艾恩",
         "Text": {
@@ -7725,8 +7402,7 @@
     },
     "1120303": {
         "ID Num": 1120303,
-        "Event Title": "鼻血",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 鼻血",
         "Event Desc": "帕加茜时常突然流鼻血的状况让你十分担心。",
         "Sinner": "帕加茜",
         "Text": {
@@ -7736,8 +7412,7 @@
     },
     "1120311": {
         "ID Num": 1120311,
-        "Event Title": "突发事故",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 突发事故",
         "Event Desc": "监管系统检测到能量熔炉设备出现故障，发生泄露。",
         "Sinner": "帕加茜",
         "Text": {
@@ -7758,8 +7433,7 @@
     },
     "1120312": {
         "ID Num": 1120312,
-        "Event Title": "锡兵小人",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 锡兵小人",
         "Event Desc": "帕加茜想要当面对你赠送的新年礼物表达感谢。",
         "Sinner": "帕加茜",
         "Text": {
@@ -7782,8 +7456,7 @@
     },
     "1120321": {
         "ID Num": 1120321,
-        "Event Title": "乡土文学",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 乡土文学",
         "Event Desc": "最近的MBCC又掀起了一股新热潮，禁闭者和工作人员都在争相传阅着一本神秘的蓝色小册子。",
         "Sinner": "帕加茜",
         "Text": {
@@ -7825,8 +7498,7 @@
     },
     "1120401": {
         "ID Num": 1120401,
-        "Event Title": "特殊癖好",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 特殊癖好",
         "Event Desc": "多莉在睡觉时有一些不为人知的特殊癖好。",
         "Sinner": "多莉",
         "Text": {
@@ -7836,8 +7508,7 @@
     },
     "1120402": {
         "ID Num": 1120402,
-        "Event Title": "吹泡泡秘技",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 吹泡泡秘技",
         "Event Desc": "多莉在用口香糖吹泡泡一事上颇有心得。",
         "Sinner": "多莉",
         "Text": {
@@ -7847,8 +7518,7 @@
     },
     "1120403": {
         "ID Num": 1120403,
-        "Event Title": "棒球治疗",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 棒球治疗",
         "Event Desc": "局长为什么总是会陪多莉去打棒球？",
         "Sinner": "多莉",
         "Text": {
@@ -7859,8 +7529,7 @@
     },
     "1120411": {
         "ID Num": 1120411,
-        "Event Title": "联赛直播",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 联赛直播",
         "Event Desc": "关于明天的外勤任务，局长似乎还有一些要点想要交代多莉。",
         "Sinner": "多莉",
         "Text": {
@@ -7883,8 +7552,7 @@
     },
     "1120412": {
         "ID Num": 1120412,
-        "Event Title": "围墙破坏者",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 围墙破坏者",
         "Event Desc": "放风区西南边的角落传来了一声不明巨响。",
         "Sinner": "多莉",
         "Text": {
@@ -7905,8 +7573,7 @@
     },
     "1120421": {
         "ID Num": 1120421,
-        "Event Title": "找不同",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 找不同",
         "Event Desc": "多莉最近总是一边在局长面前晃来晃去，一边自顾自地说着些莫名其妙的话。",
         "Sinner": "多莉",
         "Text": {
@@ -7940,8 +7607,7 @@
     },
     "1120501": {
         "ID Num": 1120501,
-        "Event Title": "分享食物",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 分享食物",
         "Event Desc": "赫罗找到你想和你分享一些食物。",
         "Sinner": "赫罗",
         "Text": {
@@ -7952,8 +7618,7 @@
     },
     "1120502": {
         "ID Num": 1120502,
-        "Event Title": "拜访故人",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 拜访故人",
         "Event Desc": "派遣归来之后，赫罗神秘兮兮地找到了你。",
         "Sinner": "赫罗",
         "Text": {
@@ -7963,8 +7628,7 @@
     },
     "1120503": {
         "ID Num": 1120503,
-        "Event Title": "新衣服",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 新衣服",
         "Event Desc": "你准备了一些新衣服准备送给赫罗。",
         "Sinner": "赫罗",
         "Text": {
@@ -7975,8 +7639,7 @@
     },
     "1120511": {
         "ID Num": 1120511,
-        "Event Title": "身高歧视",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 身高歧视",
         "Event Desc": "在定期体检中，你发现赫罗的身高竟然比档案中记录的低一厘米。",
         "Sinner": "赫罗",
         "Text": {
@@ -8000,8 +7663,7 @@
     },
     "1120512": {
         "ID Num": 1120512,
-        "Event Title": "过去的衣服",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 过去的衣服",
         "Event Desc": "军团的人给赫罗寄来了一份经过安全检测的包裹。",
         "Sinner": "赫罗",
         "Text": {
@@ -8025,8 +7687,7 @@
     },
     "1120513": {
         "ID Num": 1120513,
-        "Event Title": "后援会",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 后援会",
         "Event Desc": "赫罗被一群小禁闭者拦住了……",
         "Sinner": "赫罗",
         "Text": {
@@ -8048,8 +7709,7 @@
     },
     "1120601": {
         "ID Num": 1120601,
-        "Event Title": "专项治疗",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 专项治疗",
         "Event Desc": "莓丝的催眠治疗与其他禁闭者有些不同。",
         "Sinner": "莓丝",
         "Text": {
@@ -8060,8 +7720,7 @@
     },
     "1120602": {
         "ID Num": 1120602,
-        "Event Title": "拱火高手",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 拱火高手",
         "Event Desc": "本周禁闭者之间斗殴事件频发。",
         "Sinner": "莓丝",
         "Text": {
@@ -8071,8 +7730,7 @@
     },
     "1120603": {
         "ID Num": 1120603,
-        "Event Title": "武器锻造室",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 武器锻造室",
         "Event Desc": "莓丝向你发送了一份申请。",
         "Sinner": "莓丝",
         "Text": {
@@ -8082,8 +7740,7 @@
     },
     "1120611": {
         "ID Num": 1120611,
-        "Event Title": "时尚引领者",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 时尚引领者",
         "Event Desc": "莓丝的身后总会时不时地聚集着一群年轻女孩。",
         "Sinner": "莓丝",
         "Text": {
@@ -8100,8 +7757,7 @@
     },
     "1120612": {
         "ID Num": 1120612,
-        "Event Title": "着装建议",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 着装建议",
         "Event Desc": "莓丝敲响了你办公室的大门。",
         "Sinner": "莓丝",
         "Text": {
@@ -8122,8 +7778,7 @@
     },
     "1120621": {
         "ID Num": 1120621,
-        "Event Title": "新武器的代价",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 新武器的代价",
         "Event Desc": "最近很多禁闭者都收到了莓丝打造的新武器。",
         "Sinner": "莓丝",
         "Text": {
@@ -8151,8 +7806,7 @@
     },
     "1120701": {
         "ID Num": 1120701,
-        "Event Title": "不许作弊",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 不许作弊",
         "Event Desc": "娱乐区举办了掷飞镖比赛。",
         "Sinner": "卡斯洛",
         "Text": {
@@ -8163,8 +7817,7 @@
     },
     "1120702": {
         "ID Num": 1120702,
-        "Event Title": "注意素质",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 注意素质",
         "Event Desc": "监管系统持续检测到公共设施遭破坏。",
         "Sinner": "卡斯洛",
         "Text": {
@@ -8174,8 +7827,7 @@
     },
     "1120703": {
         "ID Num": 1120703,
-        "Event Title": "囊中羞涩",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 囊中羞涩",
         "Event Desc": "九十九和卡斯洛已经好几天没有对练了。",
         "Sinner": "九十九",
         "Text": {
@@ -8185,8 +7837,7 @@
     },
     "1120711": {
         "ID Num": 1120711,
-        "Event Title": "别叫我丧家犬",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 别叫我丧家犬",
         "Event Desc": "监管系统检测到催眠室有禁闭者闹事。",
         "Sinner": "卡斯洛",
         "Text": {
@@ -8213,8 +7864,7 @@
     },
     "1120712": {
         "ID Num": 1120712,
-        "Event Title": "爱狗人士",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 爱狗人士",
         "Event Desc": "近日，管理局内增添了一位新成员。",
         "Sinner": "卡斯洛",
         "Text": {
@@ -8235,8 +7885,7 @@
     },
     "1120721": {
         "ID Num": 1120721,
-        "Event Title": "能力测试",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 能力测试",
         "Event Desc": "距离上次对卡斯洛的能力评估已经过去很久了，你决定对她的能力进行一次定量测试。",
         "Sinner": "卡斯洛",
         "Text": {
@@ -8272,8 +7921,7 @@
     },
     "1120801": {
         "ID Num": 1120801,
-        "Event Title": "重要的日子",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 重要的日子",
         "Event Desc": "你收到了来自米莉亚的会面申请。",
         "Sinner": "克里斯蒂娜",
         "Text": {
@@ -8283,8 +7931,7 @@
     },
     "1120802": {
         "ID Num": 1120802,
-        "Event Title": "节日担当",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 节日担当",
         "Event Desc": "平时制作侦探道具的经验给了克里斯蒂娜相当熟练的手工技巧。",
         "Sinner": "克里斯蒂娜",
         "Text": {
@@ -8294,8 +7941,7 @@
     },
     "1120803": {
         "ID Num": 1120803,
-        "Event Title": "职业病",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 职业病",
         "Event Desc": "克里斯蒂娜将她在治安局时的职业病原封不动地带到了MBCC。",
         "Sinner": "克里斯蒂娜",
         "Text": {
@@ -8306,8 +7952,7 @@
     },
     "1120811": {
         "ID Num": 1120811,
-        "Event Title": "不好意思",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 不好意思",
         "Event Desc": "克里斯蒂娜请求进入你的办公室。",
         "Sinner": "克里斯蒂娜",
         "Text": {
@@ -8332,8 +7977,7 @@
     },
     "1120812": {
         "ID Num": 1120812,
-        "Event Title": "外号",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 外号",
         "Event Desc": "克里斯蒂娜在管理局里人缘很好。",
         "Sinner": "克里斯蒂娜",
         "Text": {
@@ -8357,8 +8001,7 @@
     },
     "1120821": {
         "ID Num": 1120821,
-        "Event Title": "第六感",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 第六感",
         "Event Desc": "你的门外传来了一阵熟悉的急促脚步声。",
         "Sinner": "克里斯蒂娜",
         "Text": {
@@ -8409,8 +8052,7 @@
     },
     "1120901": {
         "ID Num": 1120901,
-        "Event Title": "法外之地",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 法外之地",
         "Event Desc": "瑞思对管理局的日程安排很有异议。",
         "Sinner": "瑞思",
         "Text": {
@@ -8420,8 +8062,7 @@
     },
     "1120902": {
         "ID Num": 1120902,
-        "Event Title": "内卷定义",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 内卷定义",
         "Event Desc": "瑞思的执行力让行政人员压力很大。",
         "Sinner": "瑞思",
         "Text": {
@@ -8431,8 +8072,7 @@
     },
     "1120903": {
         "ID Num": 1120903,
-        "Event Title": "壁球代餐",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 壁球代餐",
         "Event Desc": "管理局靶子消耗量陡增。",
         "Sinner": "瑞思",
         "Text": {
@@ -8443,8 +8083,7 @@
     },
     "1120911": {
         "ID Num": 1120911,
-        "Event Title": "外卖判官",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 外卖判官",
         "Event Desc": "连瑞思都开始沉迷终端了。",
         "Sinner": "瑞思",
         "Text": {
@@ -8467,8 +8106,7 @@
     },
     "1120912": {
         "ID Num": 1120912,
-        "Event Title": "整顿职场",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 整顿职场",
         "Event Desc": "加班不可原谅！",
         "Sinner": "卡西娅",
         "Text": {
@@ -8493,8 +8131,7 @@
     },
     "1120921": {
         "ID Num": 1120921,
-        "Event Title": "遭遇审核",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 遭遇审核",
         "Event Desc": "早就发出预告的舞台剧却迟迟没有上演。",
         "Sinner": "珀尔夫人",
         "Text": {
@@ -8531,8 +8168,7 @@
     },
     "1121001": {
         "ID Num": 1121001,
-        "Event Title": "小菜一碟",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 小菜一碟",
         "Event Desc": "米拉在管理局团建聚餐中发挥了极大的作用。",
         "Sinner": "米拉",
         "Text": {
@@ -8542,8 +8178,7 @@
     },
     "1121002": {
         "ID Num": 1121002,
-        "Event Title": "战斗民族",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 战斗民族",
         "Event Desc": "米拉的健康秘诀实在模仿不来。",
         "Sinner": "米拉",
         "Text": {
@@ -8554,8 +8189,7 @@
     },
     "1121003": {
         "ID Num": 1121003,
-        "Event Title": "经营秘诀",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 经营秘诀",
         "Event Desc": "米拉的经营手腕不容小觑。",
         "Sinner": "米拉",
         "Text": {
@@ -8566,8 +8200,7 @@
     },
     "1121011": {
         "ID Num": 1121011,
-        "Event Title": "篝火代餐",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 篝火代餐",
         "Event Desc": "能量熔炉附近最近总是出现奇怪的影子。",
         "Sinner": "米拉",
         "Text": {
@@ -8590,8 +8223,7 @@
     },
     "1121012": {
         "ID Num": 1121012,
-        "Event Title": "人不可貌相",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 人不可貌相",
         "Event Desc": "力量确实与外表不成正比。",
         "Sinner": "优利卡",
         "Text": {
@@ -8615,8 +8247,7 @@
     },
     "1121021": {
         "ID Num": 1121021,
-        "Event Title": "识人之能",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 识人之能",
         "Event Desc": "论识人的本事，米拉到底是强还是弱呢？",
         "Sinner": "米拉",
         "Text": {
@@ -8655,8 +8286,7 @@
     },
     "1130101": {
         "ID Num": 1130101,
-        "Event Title": "支持学术争论",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 支持学术争论",
         "Event Desc": "似乎有人在催眠室发生了口角。",
         "Sinner": "艾恩",
         "Text": {
@@ -8666,8 +8296,7 @@
     },
     "1130102": {
         "ID Num": 1130102,
-        "Event Title": "治本",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 治本",
         "Event Desc": "针对大家在训练中容易受伤的情况，艾恩提出了一些想法。",
         "Sinner": "艾恩",
         "Text": {
@@ -8677,8 +8306,7 @@
     },
     "1130103": {
         "ID Num": 1130103,
-        "Event Title": "督促",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 督促",
         "Event Desc": "艾恩似乎对管理局的产能颇有微词。",
         "Sinner": "艾恩",
         "Text": {
@@ -8688,8 +8316,7 @@
     },
     "1130111": {
         "ID Num": 1130111,
-        "Event Title": "对照实验",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 对照实验",
         "Event Desc": "艾恩向你传了一条通讯。",
         "Sinner": "艾恩",
         "Text": {
@@ -8711,8 +8338,7 @@
     },
     "1130112": {
         "ID Num": 1130112,
-        "Event Title": "禁闭室的正确用法",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 禁闭室的正确用法",
         "Event Desc": "艾恩看起来有些不满。",
         "Sinner": "艾恩",
         "Text": {
@@ -8731,8 +8357,7 @@
     },
     "1130113": {
         "ID Num": 1130113,
-        "Event Title": "劳逸结合",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 劳逸结合",
         "Event Desc": "艾恩似乎有话想对你说。",
         "Sinner": "艾恩",
         "Text": {
@@ -8753,8 +8378,7 @@
     },
     "1130121": {
         "ID Num": 1130121,
-        "Event Title": "医者不自医",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 医者不自医",
         "Event Desc": "身为精通养生的医生，艾恩自己却不怎么养生。",
         "Sinner": "艾恩",
         "Text": {
@@ -8796,8 +8420,7 @@
     },
     "1130201": {
         "ID Num": 1130201,
-        "Event Title": "纽扣大盗",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 纽扣大盗",
         "Event Desc": "禁闭者们的衬衫纽扣近来频频失踪。",
         "Sinner": "泰特拉",
         "Text": {
@@ -8807,8 +8430,7 @@
     },
     "1130202": {
         "ID Num": 1130202,
-        "Event Title": "黑客入侵",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 黑客入侵",
         "Event Desc": "局内数据库遭遇入侵。",
         "Sinner": "泰特拉",
         "Text": {
@@ -8818,8 +8440,7 @@
     },
     "1130203": {
         "ID Num": 1130203,
-        "Event Title": "窃窃私语",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 窃窃私语",
         "Event Desc": "泰特拉和普希拉似乎在密谋些什么。",
         "Sinner": "普希拉",
         "Text": {
@@ -8829,8 +8450,7 @@
     },
     "1130211": {
         "ID Num": 1130211,
-        "Event Title": "层层揭秘",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 层层揭秘",
         "Event Desc": "泰特拉利用训练室电脑熟悉新技术的时间似乎有些太长了。",
         "Sinner": "泰特拉",
         "Text": {
@@ -8849,8 +8469,7 @@
     },
     "1130212": {
         "ID Num": 1130212,
-        "Event Title": "长腿的失物",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 长腿的失物",
         "Event Desc": "你的房间似乎有一位不速之客。",
         "Sinner": "泰特拉",
         "Text": {
@@ -8875,8 +8494,7 @@
     },
     "1130221": {
         "ID Num": 1130221,
-        "Event Title": "失踪的奖品",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 失踪的奖品",
         "Event Desc": "又发生了一起失窃案需要你去解决。",
         "Sinner": "泰特拉",
         "Text": {
@@ -8911,8 +8529,7 @@
     },
     "1130301": {
         "ID Num": 1130301,
-        "Event Title": "花道作品",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 花道作品",
         "Event Desc": "你收到一份菲发来的通知。",
         "Sinner": "堇",
         "Text": {
@@ -8923,8 +8540,7 @@
     },
     "1130302": {
         "ID Num": 1130302,
-        "Event Title": "按摩",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 按摩",
         "Event Desc": "你最近感觉有些疲惫，准备去娱乐区看看电影。",
         "Sinner": "堇",
         "Text": {
@@ -8935,8 +8551,7 @@
     },
     "1130303": {
         "ID Num": 1130303,
-        "Event Title": "虚构与真实",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 虚构与真实",
         "Event Desc": "堇正在读一本小说。",
         "Sinner": "堇",
         "Text": {
@@ -8947,8 +8562,7 @@
     },
     "1130311": {
         "ID Num": 1130311,
-        "Event Title": "喝茶",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 喝茶",
         "Event Desc": "堇正在进行定期的催眠治疗。",
         "Sinner": "堇",
         "Text": {
@@ -8971,8 +8585,7 @@
     },
     "1130312": {
         "ID Num": 1130312,
-        "Event Title": "装饰品",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 装饰品",
         "Event Desc": "你想给办公室加一些装饰品，为此找到了堇。",
         "Sinner": "堇",
         "Text": {
@@ -8993,8 +8606,7 @@
     },
     "1130321": {
         "ID Num": 1130321,
-        "Event Title": "无需理由",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 无需理由",
         "Event Desc": "堇在模拟作战训练中再一次保护了你。",
         "Sinner": "堇",
         "Text": {
@@ -9027,8 +8639,7 @@
     },
     "1130501": {
         "ID Num": 1130501,
-        "Event Title": "人心浮动",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 人心浮动",
         "Event Desc": "麦昆所到之处总会引起一阵骚动。",
         "Sinner": "麦昆",
         "Text": {
@@ -9039,8 +8650,7 @@
     },
     "1130502": {
         "ID Num": 1130502,
-        "Event Title": "难得独处",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 难得独处",
         "Event Desc": "麦昆在难得独处的时候都会干些什么？",
         "Sinner": "麦昆",
         "Text": {
@@ -9050,8 +8660,7 @@
     },
     "1130503": {
         "ID Num": 1130503,
-        "Event Title": "特约鉴定师",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 特约鉴定师",
         "Event Desc": "麦昆收到了一则邀请。",
         "Sinner": "麦昆",
         "Text": {
@@ -9061,8 +8670,7 @@
     },
     "1130511": {
         "ID Num": 1130511,
-        "Event Title": "一眼鉴假",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 一眼鉴假",
         "Event Desc": "一位工作人员给局长看了从艺术品商店购买的画作。",
         "Sinner": "麦昆",
         "Text": {
@@ -9085,8 +8693,7 @@
     },
     "1130512": {
         "ID Num": 1130512,
-        "Event Title": "拆信刀",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 拆信刀",
         "Event Desc": "监管系统在训练室检测到了遗失物。",
         "Sinner": "麦昆",
         "Text": {
@@ -9106,8 +8713,7 @@
     },
     "1130521": {
         "ID Num": 1130521,
-        "Event Title": "克莱因蓝",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 克莱因蓝",
         "Event Desc": "麦昆似乎对克莱因蓝这种颜色有着特别的喜爱。",
         "Sinner": "麦昆",
         "Text": {
@@ -9136,8 +8742,7 @@
     },
     "1130601": {
         "ID Num": 1130601,
-        "Event Title": "摄影新星",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 摄影新星",
         "Event Desc": "娱乐区的书架上多了很多摄影册。",
         "Sinner": "琳",
         "Text": {
@@ -9148,8 +8753,7 @@
     },
     "1130602": {
         "ID Num": 1130602,
-        "Event Title": "探视",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 探视",
         "Event Desc": "局长收到了一条新申请。",
         "Sinner": "琳",
         "Text": {
@@ -9160,8 +8764,7 @@
     },
     "1130603": {
         "ID Num": 1130603,
-        "Event Title": "共同爱好",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 共同爱好",
         "Event Desc": "琳和赫卡蒂似乎正在讨论着什么。",
         "Sinner": "赫卡蒂",
         "Text": {
@@ -9171,8 +8774,7 @@
     },
     "1130611": {
         "ID Num": 1130611,
-        "Event Title": "第一件礼物",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 第一件礼物",
         "Event Desc": "几名工作人员一起采购了一台最新型号的单反。",
         "Sinner": "琳",
         "Text": {
@@ -9194,8 +8796,7 @@
     },
     "1130612": {
         "ID Num": 1130612,
-        "Event Title": "新晋护理师",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 新晋护理师",
         "Event Desc": "医疗室里传来了琳的声音。",
         "Sinner": "琳",
         "Text": {
@@ -9214,8 +8815,7 @@
     },
     "1130621": {
         "ID Num": 1130621,
-        "Event Title": "神秘手作",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 神秘手作",
         "Event Desc": "最近局长的办公室门口经常会出现一些神秘的手作小物件。",
         "Sinner": "琳",
         "Text": {
@@ -9248,8 +8848,7 @@
     },
     "1130701": {
         "ID Num": 1130701,
-        "Event Title": "八卦大师",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 八卦大师",
         "Event Desc": "加洛法诺在局内开设的“咨询室”生意异常火爆。",
         "Sinner": "加洛法诺",
         "Text": {
@@ -9259,8 +8858,7 @@
     },
     "1130702": {
         "ID Num": 1130702,
-        "Event Title": "新年礼物",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 新年礼物",
         "Event Desc": "你收到了来自加洛法诺的新年礼物。",
         "Sinner": "加洛法诺",
         "Text": {
@@ -9270,8 +8868,7 @@
     },
     "1130703": {
         "ID Num": 1130703,
-        "Event Title": "专项辅导",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 专项辅导",
         "Event Desc": "局里一些缺乏实战经验的禁闭者不太了解该如何执行卧底任务。",
         "Sinner": "加洛法诺",
         "Text": {
@@ -9281,8 +8878,7 @@
     },
     "1130711": {
         "ID Num": 1130711,
-        "Event Title": "我的衣柜",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 我的衣柜",
         "Event Desc": "午饭时间，你和加洛法诺在餐厅偶然碰面。",
         "Sinner": "加洛法诺",
         "Text": {
@@ -9309,8 +8905,7 @@
     },
     "1130712": {
         "ID Num": 1130712,
-        "Event Title": "重要的人",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 重要的人",
         "Event Desc": "你的制服上出现了一个小洞。",
         "Sinner": "加洛法诺",
         "Text": {
@@ -9339,8 +8934,7 @@
     },
     "1130721": {
         "ID Num": 1130721,
-        "Event Title": "当心！",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 当心！",
         "Event Desc": "难得空闲的周末下午，你打算去阅览室找本书看看。",
         "Sinner": "加洛法诺",
         "Text": {
@@ -9374,8 +8968,7 @@
     },
     "1130801": {
         "ID Num": 1130801,
-        "Event Title": "小心黑市",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 小心黑市",
         "Event Desc": "不能让优利卡靠近黑市。",
         "Sinner": "优利卡",
         "Text": {
@@ -9385,8 +8978,7 @@
     },
     "1130802": {
         "ID Num": 1130802,
-        "Event Title": "温室专供",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 温室专供",
         "Event Desc": "优利卡发明了一个温室专供浇水壶。",
         "Sinner": "优利卡",
         "Text": {
@@ -9396,8 +8988,7 @@
     },
     "1130803": {
         "ID Num": 1130803,
-        "Event Title": "厨师最爱",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 厨师最爱",
         "Event Desc": "所有食堂阿姨都爱优利卡，可能有点太爱了。",
         "Sinner": "优利卡",
         "Text": {
@@ -9407,8 +8998,7 @@
     },
     "1130811": {
         "ID Num": 1130811,
-        "Event Title": "实用发明",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 实用发明",
         "Event Desc": "优利卡发明的时空穿梭机大受欢迎。",
         "Sinner": "优利卡",
         "Text": {
@@ -9432,8 +9022,7 @@
     },
     "1130812": {
         "ID Num": 1130812,
-        "Event Title": "临时工",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 临时工",
         "Event Desc": "菲最近请来的“维修师”总是发挥失常。",
         "Sinner": "优利卡",
         "Text": {
@@ -9456,8 +9045,7 @@
     },
     "1130821": {
         "ID Num": 1130821,
-        "Event Title": "邪恶阴谋",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 邪恶阴谋",
         "Event Desc": "管理局似乎被邪恶组织盯上了。",
         "Sinner": "克里斯蒂娜",
         "Text": {
@@ -9495,8 +9083,7 @@
     },
     "1130901": {
         "ID Num": 1130901,
-        "Event Title": "好人好事",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 好人好事",
         "Event Desc": "局内票选出了年度好人好事奖的得奖者 。",
         "Sinner": "蓟",
         "Text": {
@@ -9506,8 +9093,7 @@
     },
     "1130902": {
         "ID Num": 1130902,
-        "Event Title": "失主",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 失主",
         "Event Desc": "你似乎知道这个物件的主人是谁。",
         "Sinner": "蓟",
         "Text": {
@@ -9517,8 +9103,7 @@
     },
     "1130903": {
         "ID Num": 1130903,
-        "Event Title": "无害的斗嘴",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 无害的斗嘴",
         "Event Desc": "蓟和赫罗吵了起来。",
         "Sinner": "蓟",
         "Text": {
@@ -9528,8 +9113,7 @@
     },
     "1130911": {
         "ID Num": 1130911,
-        "Event Title": "拦路",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 拦路",
         "Event Desc": "蓟不允许你从这条路走。",
         "Sinner": "蓟",
         "Text": {
@@ -9554,8 +9138,7 @@
     },
     "1130912": {
         "ID Num": 1130912,
-        "Event Title": "女高式找茬",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 女高式找茬",
         "Event Desc": "似乎蓟和工作人员起了冲突。",
         "Sinner": "蓟",
         "Text": {
@@ -9575,8 +9158,7 @@
     },
     "1130921": {
         "ID Num": 1130921,
-        "Event Title": "串门的原因",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 串门的原因",
         "Event Desc": "听说，蓟将自己的住处收拾得很舒服。",
         "Sinner": "蓟",
         "Text": {
@@ -9611,8 +9193,7 @@
     },
     "1131001": {
         "ID Num": 1131001,
-        "Event Title": "毛茸茸危机",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 毛茸茸危机",
         "Event Desc": "舒鲁玛似乎不受毛绒绒的欢迎。",
         "Sinner": "舒鲁玛",
         "Text": {
@@ -9622,8 +9203,7 @@
     },
     "1131002": {
         "ID Num": 1131002,
-        "Event Title": "捏捏乐",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 捏捏乐",
         "Event Desc": "舒鲁玛最近沉迷“捏捏乐“。",
         "Sinner": "舒鲁玛",
         "Text": {
@@ -9633,8 +9213,7 @@
     },
     "1131003": {
         "ID Num": 1131003,
-        "Event Title": "远程学习",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 远程学习",
         "Event Desc": "局长收到了一通有关舒鲁玛的来电。",
         "Sinner": "舒鲁玛",
         "Text": {
@@ -9644,8 +9223,7 @@
     },
     "1131011": {
         "ID Num": 1131011,
-        "Event Title": "蘑菇宴",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 蘑菇宴",
         "Event Desc": "舒鲁玛在厨房帮忙打下手。",
         "Sinner": "舒鲁玛",
         "Text": {
@@ -9672,8 +9250,7 @@
     },
     "1131012": {
         "ID Num": 1131012,
-        "Event Title": "网课打卡",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 网课打卡",
         "Event Desc": "局长一直严格执行对舒鲁玛的学业监督工作。",
         "Sinner": "舒鲁玛",
         "Text": {
@@ -9700,8 +9277,7 @@
     },
     "1131021": {
         "ID Num": 1131021,
-        "Event Title": "挑食",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 挑食",
         "Event Desc": "舒鲁玛对盘子里的食物唉声叹气。",
         "Sinner": "舒鲁玛",
         "Text": {
@@ -9744,8 +9320,7 @@
     },
     "1140101": {
         "ID Num": 1140101,
-        "Event Title": "披萨斜塔",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 披萨斜塔",
         "Event Desc": "一堵由披萨组成的墙在移动。",
         "Sinner": "普希拉",
         "Text": {
@@ -9755,8 +9330,7 @@
     },
     "1140102": {
         "ID Num": 1140102,
-        "Event Title": "魔术表演",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 魔术表演",
         "Event Desc": "普希拉的临时魔术表演总是座无虚席。",
         "Sinner": "普希拉",
         "Text": {
@@ -9766,8 +9340,7 @@
     },
     "1140103": {
         "ID Num": 1140103,
-        "Event Title": "水管也是钢管",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 水管也是钢管",
         "Event Desc": "娱乐区天花板水管破裂了。",
         "Sinner": "普希拉",
         "Text": {
@@ -9777,8 +9350,7 @@
     },
     "1140111": {
         "ID Num": 1140111,
-        "Event Title": "大忙人",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 大忙人",
         "Event Desc": "放风时间，普希拉却忙得像陀螺。",
         "Sinner": "普希拉",
         "Text": {
@@ -9799,8 +9371,7 @@
     },
     "1140112": {
         "ID Num": 1140112,
-        "Event Title": "小小纪念",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 小小纪念",
         "Event Desc": "普希拉有一张珍藏的旧相片。",
         "Sinner": "普希拉",
         "Text": {
@@ -9822,8 +9393,7 @@
     },
     "1140121": {
         "ID Num": 1140121,
-        "Event Title": "专业对口",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 专业对口",
         "Event Desc": "你需要专业人士来帮你拿回你的联络终端。",
         "Sinner": "海拉",
         "Text": {
@@ -9859,8 +9429,7 @@
     },
     "1140201": {
         "ID Num": 1140201,
-        "Event Title": "重在参与",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 重在参与",
         "Event Desc": "露莉艾卡找你玩游戏。",
         "Sinner": "露莉艾卡",
         "Text": {
@@ -9870,8 +9439,7 @@
     },
     "1140202": {
         "ID Num": 1140202,
-        "Event Title": "过分幸运",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 过分幸运",
         "Event Desc": "管理局内在广播一条中奖信息。",
         "Sinner": "露莉艾卡",
         "Text": {
@@ -9882,8 +9450,7 @@
     },
     "1140211": {
         "ID Num": 1140211,
-        "Event Title": "幸运数字",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 幸运数字",
         "Event Desc": "研究人员试图调查露莉的运气。",
         "Sinner": "露莉艾卡",
         "Text": {
@@ -9912,8 +9479,7 @@
     },
     "1140212": {
         "ID Num": 1140212,
-        "Event Title": "拆弹专家",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 拆弹专家",
         "Event Desc": "外勤人员申请露莉艾卡远程参与拆弹。",
         "Sinner": "露莉艾卡",
         "Text": {
@@ -9937,8 +9503,7 @@
     },
     "1140221": {
         "ID Num": 1140221,
-        "Event Title": "四叶草",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 四叶草",
         "Event Desc": "露莉艾卡一个人在温室的花圃旁待了好久。",
         "Sinner": "露莉艾卡",
         "Text": {
@@ -9991,8 +9556,7 @@
     },
     "1140301": {
         "ID Num": 1140301,
-        "Event Title": "健身目标",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 健身目标",
         "Event Desc": "保洁大叔居然把他的手机壁纸换成了狼獾！",
         "Sinner": "狼獾",
         "Text": {
@@ -10003,8 +9567,7 @@
     },
     "1140302": {
         "ID Num": 1140302,
-        "Event Title": "月圆之夜",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 月圆之夜",
         "Event Desc": "月圆之夜的狼獾时常会进行一些特别活动。",
         "Sinner": "狼獾",
         "Text": {
@@ -10015,8 +9578,7 @@
     },
     "1140303": {
         "ID Num": 1140303,
-        "Event Title": "奖励",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 奖励",
         "Event Desc": "狼獾在出任务时立了大功，你特意准备了为他量身定制的特殊奖励。",
         "Sinner": "狼獾",
         "Text": {
@@ -10026,8 +9588,7 @@
     },
     "1140311": {
         "ID Num": 1140311,
-        "Event Title": "幸存者",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 幸存者",
         "Event Desc": "你在回办公室的路上听到了从前方拐角处传来的狼獾凄厉的喊叫声。",
         "Sinner": "狼獾",
         "Text": {
@@ -10051,8 +9612,7 @@
     },
     "1140312": {
         "ID Num": 1140312,
-        "Event Title": "生日蛋糕",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 生日蛋糕",
         "Event Desc": "这天你给狼獾送去了一个生日蛋糕。",
         "Sinner": "狼獾",
         "Text": {
@@ -10075,8 +9635,7 @@
     },
     "1140321": {
         "ID Num": 1140321,
-        "Event Title": "均衡饮食",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 均衡饮食",
         "Event Desc": "纠正狼獾的饮食习惯需要你付出莫大的努力。",
         "Sinner": "狼獾",
         "Text": {
@@ -10110,8 +9669,7 @@
     },
     "1140401": {
         "ID Num": 1140401,
-        "Event Title": "余威尚在",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 余威尚在",
         "Event Desc": "玛蒂尔达的神经有时候绷得太紧了。",
         "Sinner": "玛蒂尔达",
         "Text": {
@@ -10121,8 +9679,7 @@
     },
     "1140402": {
         "ID Num": 1140402,
-        "Event Title": "向榜样看齐",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 向榜样看齐",
         "Event Desc": "夜莺最近被玛蒂尔达搞得有些头疼。",
         "Sinner": "玛蒂尔达",
         "Text": {
@@ -10133,8 +9690,7 @@
     },
     "1140403": {
         "ID Num": 1140403,
-        "Event Title": "眼里不揉沙子",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 眼里不揉沙子",
         "Event Desc": "有时洁癖是同住者的福音。",
         "Sinner": "玛蒂尔达",
         "Text": {
@@ -10144,8 +9700,7 @@
     },
     "1140411": {
         "ID Num": 1140411,
-        "Event Title": "特工佳丽",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 特工佳丽",
         "Event Desc": "新城选美大赛被犯罪分子盯上了。",
         "Sinner": "卡西娅",
         "Text": {
@@ -10168,8 +9723,7 @@
     },
     "1140412": {
         "ID Num": 1140412,
-        "Event Title": "计划黑客",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 计划黑客",
         "Event Desc": "玛蒂尔达会严格遵循日程行动。",
         "Sinner": "泰特拉",
         "Text": {
@@ -10193,8 +9747,7 @@
     },
     "1140421": {
         "ID Num": 1140421,
-        "Event Title": "水枪大战",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 水枪大战",
         "Event Desc": "水枪算是枪吗，这是个问题。",
         "Sinner": "玛蒂尔达",
         "Text": {
@@ -10232,8 +9785,7 @@
     },
     "1140501": {
         "ID Num": 1140501,
-        "Event Title": "神奇的东洲味道",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 神奇的东洲味道",
         "Event Desc": "烟烟做了东洲风味的特色小吃。",
         "Sinner": "烟烟",
         "Text": {
@@ -10244,8 +9796,7 @@
     },
     "1140502": {
         "ID Num": 1140502,
-        "Event Title": "问题大王",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 问题大王",
         "Event Desc": "烟烟喜欢看书，更喜欢问“为什么”。",
         "Sinner": "烟烟",
         "Text": {
@@ -10256,8 +9807,7 @@
     },
     "1140503": {
         "ID Num": 1140503,
-        "Event Title": "晴好晾晒",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 晴好晾晒",
         "Event Desc": "天气晴朗，烟烟将道具拿出来晾晒。",
         "Sinner": "烟烟",
         "Text": {
@@ -10268,8 +9818,7 @@
     },
     "1140511": {
         "ID Num": 1140511,
-        "Event Title": "金牌说书人",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 金牌说书人",
         "Event Desc": "烟烟讲通灵鬼故事，吓到了许多人。",
         "Sinner": "烟烟",
         "Text": {
@@ -10298,8 +9847,7 @@
     },
     "1140512": {
         "ID Num": 1140512,
-        "Event Title": "厉害的法宝",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 厉害的法宝",
         "Event Desc": "烟烟一脸兴奋地带你去看她新找到的法宝。",
         "Sinner": "烟烟",
         "Text": {
@@ -10328,8 +9876,7 @@
     },
     "1140521": {
         "ID Num": 1140521,
-        "Event Title": "思乡",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 思乡",
         "Event Desc": "烟烟想家了。",
         "Sinner": "烟烟",
         "Text": {
@@ -10369,8 +9916,7 @@
     },
     "1140701": {
         "ID Num": 1140701,
-        "Event Title": "打工达人",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 打工达人",
         "Event Desc": "简在管理局里找了许多兼职。",
         "Sinner": "简",
         "Text": {
@@ -10381,8 +9927,7 @@
     },
     "1140702": {
         "ID Num": 1140702,
-        "Event Title": "旧片有约",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 旧片有约",
         "Event Desc": "简带了一些她租赁来的碟片。",
         "Sinner": "简",
         "Text": {
@@ -10392,8 +9937,7 @@
     },
     "1140703": {
         "ID Num": 1140703,
-        "Event Title": "宣传大使",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 宣传大使",
         "Event Desc": "管理局收到了一则特殊申请。",
         "Sinner": "简",
         "Text": {
@@ -10404,8 +9948,7 @@
     },
     "1140711": {
         "ID Num": 1140711,
-        "Event Title": "枪械交流",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 枪械交流",
         "Event Desc": "监管系统检测到训练室有设施遭到损坏。",
         "Sinner": "简",
         "Text": {
@@ -10423,8 +9966,7 @@
     },
     "1140712": {
         "ID Num": 1140712,
-        "Event Title": "特殊合影",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 特殊合影",
         "Event Desc": "禁闭者们正在进行相册分享。",
         "Sinner": "简",
         "Text": {
@@ -10444,8 +9986,7 @@
     },
     "1140721": {
         "ID Num": 1140721,
-        "Event Title": "游戏高手",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 游戏高手",
         "Event Desc": "娱乐区里非常热闹。",
         "Sinner": "莓丝",
         "Text": {
@@ -10479,8 +10020,7 @@
     },
     "1140801": {
         "ID Num": 1140801,
-        "Event Title": "超能力",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 超能力",
         "Event Desc": "派因的房间一直十分凌乱。",
         "Sinner": "派因",
         "Text": {
@@ -10490,8 +10030,7 @@
     },
     "1140802": {
         "ID Num": 1140802,
-        "Event Title": "新装备",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 新装备",
         "Event Desc": "近期派因常常出没于优利卡的工作室。",
         "Sinner": "优利卡",
         "Text": {
@@ -10502,8 +10041,7 @@
     },
     "1140803": {
         "ID Num": 1140803,
-        "Event Title": "安全检查",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 安全检查",
         "Event Desc": "MBCC最近组织了一次安全检查。",
         "Sinner": "派因",
         "Text": {
@@ -10514,8 +10052,7 @@
     },
     "1140811": {
         "ID Num": 1140811,
-        "Event Title": "异次元口袋",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 异次元口袋",
         "Event Desc": "派因的衣服口袋到底有多能装？",
         "Sinner": "派因",
         "Text": {
@@ -10544,8 +10081,7 @@
     },
     "1140812": {
         "ID Num": 1140812,
-        "Event Title": "树上的秘密",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 树上的秘密",
         "Event Desc": "天气晴朗的放风区，一群活力满满的小禁闭者正在放风筝。",
         "Sinner": "派因",
         "Text": {
@@ -10575,8 +10111,7 @@
     },
     "1140821": {
         "ID Num": 1140821,
-        "Event Title": "“燃料”",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ “燃料”",
         "Event Desc": "你收到了采购办发来的季度账单。",
         "Sinner": "派因",
         "Text": {
@@ -10632,8 +10167,7 @@
     },
     "1150101": {
         "ID Num": 1150101,
-        "Event Title": "好奇心",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 好奇心",
         "Event Desc": "维多利亚受伤了。",
         "Sinner": "维多利亚",
         "Text": {
@@ -10643,8 +10177,7 @@
     },
     "1150102": {
         "ID Num": 1150102,
-        "Event Title": "上瘾",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 上瘾",
         "Event Desc": "维多利亚对催眠产生了依赖。",
         "Sinner": "维多利亚",
         "Text": {
@@ -10654,8 +10187,7 @@
     },
     "1150103": {
         "ID Num": 1150103,
-        "Event Title": "盛情难却",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 盛情难却",
         "Event Desc": "维多利亚邀您共进晚餐。",
         "Sinner": "维多利亚",
         "Text": {
@@ -10665,8 +10197,7 @@
     },
     "1150111": {
         "ID Num": 1150111,
-        "Event Title": "为什么呢？",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 为什么呢？",
         "Event Desc": "维多利亚看来有许多问题急需解答。",
         "Sinner": "维多利亚",
         "Text": {
@@ -10689,8 +10220,7 @@
     },
     "1150112": {
         "ID Num": 1150112,
-        "Event Title": "厚礼",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 厚礼",
         "Event Desc": "维多利亚向你倾诉了她的烦恼。",
         "Sinner": "维多利亚",
         "Text": {
@@ -10712,8 +10242,7 @@
     },
     "1150121": {
         "ID Num": 1150121,
-        "Event Title": "反面教材",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 反面教材",
         "Event Desc": "维多利亚终于学会了“正确的”爱的方式。",
         "Sinner": "维多利亚",
         "Text": {
@@ -10745,8 +10274,7 @@
     },
     "1150201": {
         "ID Num": 1150201,
-        "Event Title": "高温预警",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 高温预警",
         "Event Desc": "能量熔炉的温度似乎有些异常。",
         "Sinner": "伊格尼",
         "Text": {
@@ -10756,8 +10284,7 @@
     },
     "1150202": {
         "ID Num": 1150202,
-        "Event Title": "初心不改",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 初心不改",
         "Event Desc": "你在放风区的座椅上发现了一本摊开的杂志。",
         "Sinner": "伊格尼",
         "Text": {
@@ -10767,8 +10294,7 @@
     },
     "1150203": {
         "ID Num": 1150203,
-        "Event Title": "维持人设",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 维持人设",
         "Event Desc": "伊格尼好像在看什么东西。",
         "Sinner": "伊格尼",
         "Text": {
@@ -10778,8 +10304,7 @@
     },
     "1150211": {
         "ID Num": 1150211,
-        "Event Title": "特别评论",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 特别评论",
         "Event Desc": "有人以“焦糖布丁_Offical”的名义在管理局内网上发布了一篇文章。",
         "Sinner": "伊格尼",
         "Text": {
@@ -10799,8 +10324,7 @@
     },
     "1150212": {
         "ID Num": 1150212,
-        "Event Title": "消防演习",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 消防演习",
         "Event Desc": "管理局举行了一次消防演习，邀请伊格尼上台配合。",
         "Sinner": "伊格尼",
         "Text": {
@@ -10815,8 +10339,7 @@
     },
     "1150221": {
         "ID Num": 1150221,
-        "Event Title": "知音",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 知音",
         "Event Desc": "伊格尼向你询问管理局新来的厨师。",
         "Sinner": "伊格尼",
         "Text": {
@@ -10846,8 +10369,7 @@
     },
     "1150301": {
         "ID Num": 1150301,
-        "Event Title": "头号粉丝",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 头号粉丝",
         "Event Desc": "你注意到最近露薇娅·蕾好像跟琼混得很熟。",
         "Sinner": "露薇娅·蕾",
         "Text": {
@@ -10858,8 +10380,7 @@
     },
     "1150302": {
         "ID Num": 1150302,
-        "Event Title": "追星成功",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 追星成功",
         "Event Desc": "新来的工作人员最近好像很高兴。",
         "Sinner": "露薇娅·蕾",
         "Text": {
@@ -10874,8 +10395,7 @@
     },
     "1150303": {
         "ID Num": 1150303,
-        "Event Title": "健康饮食",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 健康饮食",
         "Event Desc": "露薇娅最近一直在给你送吃的，但是……",
         "Sinner": "露薇娅·蕾",
         "Text": {
@@ -10885,8 +10405,7 @@
     },
     "1150311": {
         "ID Num": 1150311,
-        "Event Title": "猜猜我是谁",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 猜猜我是谁",
         "Event Desc": "系统检测到露薇娅·蕾的行为有些异常。",
         "Sinner": "露薇娅·蕾",
         "Text": {
@@ -10909,8 +10428,7 @@
     },
     "1150312": {
         "ID Num": 1150312,
-        "Event Title": "防晒",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 防晒",
         "Event Desc": "露薇娅·蕾对着镜子，笑得很开心。",
         "Sinner": "露薇娅·蕾",
         "Text": {
@@ -10929,8 +10447,7 @@
     },
     "1150321": {
         "ID Num": 1150321,
-        "Event Title": "夜聊",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 夜聊",
         "Event Desc": "你收到了一份收容区发来的通知。",
         "Sinner": "露薇娅·蕾",
         "Text": {
@@ -10965,8 +10482,7 @@
     },
     "1150401": {
         "ID Num": 1150401,
-        "Event Title": "昔日留影",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 昔日留影",
         "Event Desc": "你发现留影室最近好像每天都会多出一幅手绘画。",
         "Sinner": "赫卡蒂",
         "Text": {
@@ -10976,8 +10492,7 @@
     },
     "1150402": {
         "ID Num": 1150402,
-        "Event Title": "模范员工",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 模范员工",
         "Event Desc": "你收到了上个月的禁闭者绩效考评报告。",
         "Sinner": "赫卡蒂",
         "Text": {
@@ -10989,8 +10504,7 @@
     },
     "1150403": {
         "ID Num": 1150403,
-        "Event Title": "爱画画的人",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 爱画画的人",
         "Event Desc": "你收到了一条赫卡蒂的申请。",
         "Sinner": "赫卡蒂",
         "Text": {
@@ -11005,8 +10519,7 @@
     },
     "1150404": {
         "ID Num": 1150404,
-        "Event Title": "噩梦",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 噩梦",
         "Event Desc": "赫卡蒂向催眠师讲述了她的噩梦。",
         "Sinner": "赫卡蒂",
         "Text": {
@@ -11017,8 +10530,7 @@
     },
     "1150411": {
         "ID Num": 1150411,
-        "Event Title": "赫卡蒂的绘本",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 赫卡蒂的绘本",
         "Event Desc": "你捡到了赫卡蒂的绘本。",
         "Sinner": "赫卡蒂",
         "Text": {
@@ -11034,8 +10546,7 @@
     },
     "1150412": {
         "ID Num": 1150412,
-        "Event Title": "赫卡蒂观察日记",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 赫卡蒂观察日记",
         "Event Desc": "监管中枢记录了赫卡蒂一天的动向。",
         "Sinner": "赫卡蒂",
         "Text": {
@@ -11049,8 +10560,7 @@
     },
     "1150413": {
         "ID Num": 1150413,
-        "Event Title": "悲剧片",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 悲剧片",
         "Event Desc": "赫卡蒂和其他禁闭者一起看了部令人悲伤的电影。",
         "Sinner": "赫卡蒂",
         "Text": {
@@ -11066,8 +10576,7 @@
     },
     "1150414": {
         "ID Num": 1150414,
-        "Event Title": "另类宅女",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 另类宅女",
         "Event Desc": "赫卡蒂已经待在自己的房间里超过了24小时。",
         "Sinner": "赫卡蒂",
         "Text": {
@@ -11088,8 +10597,7 @@
     },
     "1150421": {
         "ID Num": 1150421,
-        "Event Title": "肖像画",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 肖像画",
         "Event Desc": "赫卡蒂画了一张你的肖像。",
         "Sinner": "赫卡蒂",
         "Text": {
@@ -11115,8 +10623,7 @@
     },
     "1150422": {
         "ID Num": 1150422,
-        "Event Title": "咸咖啡",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 咸咖啡",
         "Event Desc": "赫卡蒂从咖啡机接了一杯咖啡。",
         "Sinner": "赫卡蒂",
         "Text": {
@@ -11147,8 +10654,7 @@
     },
     "1150501": {
         "ID Num": 1150501,
-        "Event Title": "虚惊一场",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 虚惊一场",
         "Event Desc": "奥利弗从不离身的粉色独角兽神秘失踪了。",
         "Sinner": "奥利弗",
         "Text": {
@@ -11159,8 +10665,7 @@
     },
     "1150502": {
         "ID Num": 1150502,
-        "Event Title": "木偶戏",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 木偶戏",
         "Event Desc": "奥利弗在MBCC的联欢晚会上表演了木偶戏。",
         "Sinner": "奥利弗",
         "Text": {
@@ -11170,8 +10675,7 @@
     },
     "1150503": {
         "ID Num": 1150503,
-        "Event Title": "怎么长高",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 怎么长高",
         "Event Desc": "MBCC的禁闭者们又迎来了一年一度的体检日。",
         "Sinner": "赫罗",
         "Text": {
@@ -11181,8 +10685,7 @@
     },
     "1150511": {
         "ID Num": 1150511,
-        "Event Title": "冲突",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 冲突",
         "Event Desc": "监管系统检测到禁闭者奥利弗与工作人员发生了冲突。",
         "Sinner": "奥利弗",
         "Text": {
@@ -11203,8 +10706,7 @@
     },
     "1150512": {
         "ID Num": 1150512,
-        "Event Title": "茶艺大师",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 茶艺大师",
         "Event Desc": "你在前往阅览室拿取资料时在那里发现了一个意料之外的身影。",
         "Sinner": "奥利弗",
         "Text": {
@@ -11231,8 +10733,7 @@
     },
     "1150521": {
         "ID Num": 1150521,
-        "Event Title": "新伤口",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 新伤口",
         "Event Desc": "监管系统检测到禁闭者奥利弗身上出现可疑伤口，当前正在医疗室。",
         "Sinner": "奥利弗",
         "Text": {
@@ -11267,8 +10768,7 @@
     },
     "1150601": {
         "ID Num": 1150601,
-        "Event Title": "海妖的传说",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 海妖的传说",
         "Event Desc": "管理局的娱乐区全新开设了泳池设施。",
         "Sinner": "拉弥亚",
         "Text": {
@@ -11278,8 +10778,7 @@
     },
     "1150602": {
         "ID Num": 1150602,
-        "Event Title": "突发状况",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 突发状况",
         "Event Desc": "局内组织的联谊活动上出现了突发状况。",
         "Sinner": "拉弥亚",
         "Text": {
@@ -11289,8 +10788,7 @@
     },
     "1150603": {
         "ID Num": 1150603,
-        "Event Title": "新晋大胃王",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 新晋大胃王",
         "Event Desc": "今天晚上餐厅的厨师做了红烧鱼。",
         "Sinner": "拉弥亚",
         "Text": {
@@ -11300,8 +10798,7 @@
     },
     "1150611": {
         "ID Num": 1150611,
-        "Event Title": "危险宠物",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 危险宠物",
         "Event Desc": "今晚的MBCC发生了大规模停电。",
         "Sinner": "艾米潘",
         "Text": {
@@ -11333,8 +10830,7 @@
     },
     "1150612": {
         "ID Num": 1150612,
-        "Event Title": "就擅长这个",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 就擅长这个",
         "Event Desc": "爱缇的新作，一款复古桌面角色扮演游戏，近日在管理局内非常火爆。",
         "Sinner": "爱缇",
         "Text": {
@@ -11367,8 +10863,7 @@
     },
     "1150621": {
         "ID Num": 1150621,
-        "Event Title": "海洋世界",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 海洋世界",
         "Event Desc": "拉弥亚似乎对一档电视节目非常着迷。",
         "Sinner": "拉弥亚",
         "Text": {
@@ -11407,8 +10902,7 @@
     },
     "1150701": {
         "ID Num": 1150701,
-        "Event Title": "虚假学霸",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 虚假学霸",
         "Event Desc": "艾可偏科严重这事很快就暴露了。",
         "Sinner": "艾可",
         "Text": {
@@ -11418,8 +10912,7 @@
     },
     "1150702": {
         "ID Num": 1150702,
-        "Event Title": "物极必反",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 物极必反",
         "Event Desc": "乐观的艾可总能感染其他人，但也会有反作用。",
         "Sinner": "艾可",
         "Text": {
@@ -11431,8 +10924,7 @@
     },
     "1150703": {
         "ID Num": 1150703,
-        "Event Title": "准备万全",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 准备万全",
         "Event Desc": "艾可身上仿佛有个百宝箱。",
         "Sinner": "艾可",
         "Text": {
@@ -11442,8 +10934,7 @@
     },
     "1150711": {
         "ID Num": 1150711,
-        "Event Title": "专题节目",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 专题节目",
         "Event Desc": "艾可居然拥有了自己的专题节目。",
         "Sinner": "雷温",
         "Text": {
@@ -11467,8 +10958,7 @@
     },
     "1150712": {
         "ID Num": 1150712,
-        "Event Title": "深不可测",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 深不可测",
         "Event Desc": "艾可的胃容量简直深不可测。",
         "Sinner": "艾可",
         "Text": {
@@ -11495,8 +10985,7 @@
     },
     "1150721": {
         "ID Num": 1150721,
-        "Event Title": "一视同仁",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 一视同仁",
         "Event Desc": "艾可眼中自己的萨克斯一直很完美，无论是好是坏。",
         "Sinner": "德莫莉",
         "Text": {
@@ -11533,8 +11022,7 @@
     },
     "1150901": {
         "ID Num": 1150901,
-        "Event Title": "不宜出门",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 不宜出门",
         "Event Desc": "无患子突然撤回了一条外出申请。",
         "Sinner": "无患子",
         "Text": {
@@ -11544,8 +11032,7 @@
     },
     "1150902": {
         "ID Num": 1150902,
-        "Event Title": "不明液体",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 不明液体",
         "Event Desc": "你的办公桌上出现了一杯散发着诡异气息的棕色不明液体。",
         "Sinner": "无患子",
         "Text": {
@@ -11556,8 +11043,7 @@
     },
     "1150903": {
         "ID Num": 1150903,
-        "Event Title": "流言",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 流言",
         "Event Desc": "通讯终端上弹出几条工作人员发来的信息。",
         "Sinner": "无患子",
         "Text": {
@@ -11567,8 +11053,7 @@
     },
     "1150911": {
         "ID Num": 1150911,
-        "Event Title": "学习榜样",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 学习榜样",
         "Event Desc": "最近无患子总是跟在赫斯提亚身边。",
         "Sinner": "赫斯提亚",
         "Text": {
@@ -11587,8 +11072,7 @@
     },
     "1150912": {
         "ID Num": 1150912,
-        "Event Title": "请遵循医嘱",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 请遵循医嘱",
         "Event Desc": "无患子来到你的办公室，为上次的诊疗做回访。",
         "Sinner": "无患子",
         "Text": {
@@ -11612,8 +11096,7 @@
     },
     "1150921": {
         "ID Num": 1150921,
-        "Event Title": "风水宝地",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 风水宝地",
         "Event Desc": "最近，管理局出现了意义不明的符咒。",
         "Sinner": "无患子",
         "Text": {
@@ -11649,8 +11132,7 @@
     },
     "1160101": {
         "ID Num": 1160101,
-        "Event Title": "鼓励",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 鼓励",
         "Event Desc": "艾瑞尔近期的表现让工作人员很头疼。",
         "Sinner": "艾瑞尔",
         "Text": {
@@ -11660,8 +11142,7 @@
     },
     "1160102": {
         "ID Num": 1160102,
-        "Event Title": "杂草也值得被爱！",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 杂草也值得被爱！",
         "Event Desc": "管理局的杂草愈发茂盛了。",
         "Sinner": "艾瑞尔",
         "Text": {
@@ -11671,8 +11152,7 @@
     },
     "1160103": {
         "ID Num": 1160103,
-        "Event Title": "旧物",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 旧物",
         "Event Desc": "艾瑞尔的礼裙总是如此亮眼。",
         "Sinner": "艾瑞尔",
         "Text": {
@@ -11682,8 +11162,7 @@
     },
     "1160111": {
         "ID Num": 1160111,
-        "Event Title": "琴音",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 琴音",
         "Event Desc": "你注意到艾瑞尔总是盯着那台钢琴。",
         "Sinner": "艾瑞尔",
         "Text": {
@@ -11703,8 +11182,7 @@
     },
     "1160112": {
         "ID Num": 1160112,
-        "Event Title": "怎么又哭了！",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 怎么又哭了！",
         "Event Desc": "艾瑞尔近期频繁出入训练室。",
         "Sinner": "艾瑞尔",
         "Text": {
@@ -11726,8 +11204,7 @@
     },
     "1160121": {
         "ID Num": 1160121,
-        "Event Title": "慈善义演",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 慈善义演",
         "Event Desc": "艾瑞尔希望给辛迪加的孩子们捐一些钱。",
         "Sinner": "艾瑞尔",
         "Text": {
@@ -11766,8 +11243,7 @@
     },
     "1160201": {
         "ID Num": 1160201,
-        "Event Title": "职业选手，取而代之",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 职业选手，取而代之",
         "Event Desc": "卡米利安似乎在催眠上有一些天赋。",
         "Sinner": "卡米利安",
         "Text": {
@@ -11777,8 +11253,7 @@
     },
     "1160202": {
         "ID Num": 1160202,
-        "Event Title": "恶趣味",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 恶趣味",
         "Event Desc": "卡米利安提交了一份申请。",
         "Sinner": "卡米利安",
         "Text": {
@@ -11788,8 +11263,7 @@
     },
     "1160203": {
         "ID Num": 1160203,
-        "Event Title": "协作",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 协作",
         "Event Desc": "第九机关申请借用禁闭者。",
         "Sinner": "卡米利安",
         "Text": {
@@ -11799,8 +11273,7 @@
     },
     "1160211": {
         "ID Num": 1160211,
-        "Event Title": "秘密访客",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 秘密访客",
         "Event Desc": "卡米利安未经许可进入了办公室。",
         "Sinner": "卡米利安",
         "Text": {
@@ -11820,8 +11293,7 @@
     },
     "1160212": {
         "ID Num": 1160212,
-        "Event Title": "观众",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 观众",
         "Event Desc": "卡米利安近期热衷于观看电视剧。",
         "Sinner": "卡米利安",
         "Text": {
@@ -11841,8 +11313,7 @@
     },
     "1160221": {
         "ID Num": 1160221,
-        "Event Title": "催眠大师",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 催眠大师",
         "Event Desc": "卡米利安向你展示了她催眠的技巧。",
         "Sinner": "卡米利安",
         "Text": {
@@ -11873,8 +11344,7 @@
     },
     "1160301": {
         "ID Num": 1160301,
-        "Event Title": "急救",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 急救",
         "Event Desc": "安为及时救助伤员提出了一些建议。",
         "Sinner": "安",
         "Text": {
@@ -11884,8 +11354,7 @@
     },
     "1160302": {
         "ID Num": 1160302,
-        "Event Title": "禁止挖角",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 禁止挖角",
         "Event Desc": "医疗部工作人员提交了一份申请。",
         "Sinner": "安",
         "Text": {
@@ -11895,8 +11364,7 @@
     },
     "1160303": {
         "ID Num": 1160303,
-        "Event Title": "很难做到",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 很难做到",
         "Event Desc": "安对你提出了一些建议。",
         "Sinner": "安",
         "Text": {
@@ -11906,8 +11374,7 @@
     },
     "1160304": {
         "ID Num": 1160304,
-        "Event Title": "学术书籍",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 学术书籍",
         "Event Desc": "安向你发出了一条申请。",
         "Sinner": "安",
         "Text": {
@@ -11919,8 +11386,7 @@
     },
     "1160305": {
         "ID Num": 1160305,
-        "Event Title": "发量问题",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 发量问题",
         "Event Desc": "有人在向安询问头发浓密的诀窍。",
         "Sinner": "安",
         "Text": {
@@ -11930,8 +11396,7 @@
     },
     "1160306": {
         "ID Num": 1160306,
-        "Event Title": "养生粥",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 养生粥",
         "Event Desc": "安为你特制了有益健康的养生粥。",
         "Sinner": "安",
         "Text": {
@@ -11944,8 +11409,7 @@
     },
     "1160311": {
         "ID Num": 1160311,
-        "Event Title": "最后一顿夜宵",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 最后一顿夜宵",
         "Event Desc": "安对你的饮食习惯似乎有一些不满。",
         "Sinner": "安",
         "Text": {
@@ -11966,8 +11430,7 @@
     },
     "1160312": {
         "ID Num": 1160312,
-        "Event Title": "良药苦口",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 良药苦口",
         "Event Desc": "凭借安的能力似乎可以做一些有趣的实验。",
         "Sinner": "安",
         "Text": {
@@ -11990,8 +11453,7 @@
     },
     "1160313": {
         "ID Num": 1160313,
-        "Event Title": "难得闲暇",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 难得闲暇",
         "Event Desc": "今天娱乐区免费向大家开放。",
         "Sinner": "安",
         "Text": {
@@ -12014,8 +11476,7 @@
     },
     "1160314": {
         "ID Num": 1160314,
-        "Event Title": "医学杂志",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 医学杂志",
         "Event Desc": "安似乎很讨厌某本医学杂志。",
         "Sinner": "安",
         "Text": {
@@ -12036,8 +11497,7 @@
     },
     "1160315": {
         "ID Num": 1160315,
-        "Event Title": "流浪猫",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 流浪猫",
         "Event Desc": "管理局中钻进了一只流浪猫。",
         "Sinner": "安",
         "Text": {
@@ -12057,8 +11517,7 @@
     },
     "1160316": {
         "ID Num": 1160316,
-        "Event Title": "睡眠不足",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 睡眠不足",
         "Event Desc": "安在训练室里睡着了。",
         "Sinner": "安",
         "Text": {
@@ -12080,8 +11539,7 @@
     },
     "1160321": {
         "ID Num": 1160321,
-        "Event Title": "幼儿园",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 幼儿园",
         "Event Desc": "安向你传授了一些管理小孩子的技巧。",
         "Sinner": "安",
         "Text": {
@@ -12116,8 +11574,7 @@
     },
     "1160401": {
         "ID Num": 1160401,
-        "Event Title": "法律咨询",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 法律咨询",
         "Event Desc": "福克斯先生发来了一份财务报表。",
         "Sinner": "福克斯先生",
         "Text": {
@@ -12130,8 +11587,7 @@
     },
     "1160402": {
         "ID Num": 1160402,
-        "Event Title": "服装上的讲究",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 服装上的讲究",
         "Event Desc": "你注意到了福克斯先生身上的一些细节。",
         "Sinner": "福克斯先生",
         "Text": {
@@ -12142,8 +11598,7 @@
     },
     "1160403": {
         "ID Num": 1160403,
-        "Event Title": "舌钉的传言",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 舌钉的传言",
         "Event Desc": "管理局最近流传着一些关于福克斯先生的谣言。",
         "Sinner": "福克斯先生",
         "Text": {
@@ -12154,8 +11609,7 @@
     },
     "1160411": {
         "ID Num": 1160411,
-        "Event Title": "等价交换",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 等价交换",
         "Event Desc": "福克斯先生似乎没有在规定的时间内前往训练室。",
         "Sinner": "福克斯先生",
         "Text": {
@@ -12179,8 +11633,7 @@
     },
     "1160412": {
         "ID Num": 1160412,
-        "Event Title": "临时任务",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 临时任务",
         "Event Desc": "大家都在赶往娱乐区，但有人却在逆流而行……",
         "Sinner": "福克斯先生",
         "Text": {
@@ -12199,8 +11652,7 @@
     },
     "1160421": {
         "ID Num": 1160421,
-        "Event Title": "高尔夫",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 高尔夫",
         "Event Desc": "根据对福克斯先生的表情分析，他看起来有些无聊。",
         "Sinner": "福克斯先生",
         "Text": {
@@ -12230,8 +11682,7 @@
     },
     "1160501": {
         "ID Num": 1160501,
-        "Event Title": "恐惧克星",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 恐惧克星",
         "Event Desc": "近日娱乐区放电影的中途总会传出唢呐声。",
         "Sinner": "嘟嘟",
         "Text": {
@@ -12241,8 +11692,7 @@
     },
     "1160502": {
         "ID Num": 1160502,
-        "Event Title": "鸡腿的下落",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 鸡腿的下落",
         "Event Desc": "最近食堂里发生了一件怪事。",
         "Sinner": "嘟嘟",
         "Text": {
@@ -12253,8 +11703,7 @@
     },
     "1160503": {
         "ID Num": 1160503,
-        "Event Title": "放风区奇观",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 放风区奇观",
         "Event Desc": "为什么总有小鸟跟着嘟嘟？",
         "Sinner": "嘟嘟",
         "Text": {
@@ -12265,8 +11714,7 @@
     },
     "1160511": {
         "ID Num": 1160511,
-        "Event Title": "追求艺术的道路",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 追求艺术的道路",
         "Event Desc": "局长在放风区散步时意外看到了垂头丧气的嘟嘟。",
         "Sinner": "嘟嘟",
         "Text": {
@@ -12290,8 +11738,7 @@
     },
     "1160512": {
         "ID Num": 1160512,
-        "Event Title": "能吃是福",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 能吃是福",
         "Event Desc": "局长和嘟嘟正一起在食堂吃午饭。",
         "Sinner": "嘟嘟",
         "Text": {
@@ -12310,8 +11757,7 @@
     },
     "1160521": {
         "ID Num": 1160521,
-        "Event Title": "买一送一",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 买一送一",
         "Event Desc": "局长收到了来自禁闭者嘟嘟的投诉单。",
         "Sinner": "嘟嘟",
         "Text": {
@@ -12344,8 +11790,7 @@
     },
     "1160601": {
         "ID Num": 1160601,
-        "Event Title": "请勿打扰",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 请勿打扰",
         "Event Desc": "莱塔的一些行为常常让你感到困扰。",
         "Sinner": "莱塔",
         "Text": {
@@ -12355,8 +11800,7 @@
     },
     "1160602": {
         "ID Num": 1160602,
-        "Event Title": "守夜冠军",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 守夜冠军",
         "Event Desc": "一些活力过剩的禁闭者在娱乐区组织了通宵游戏通关比赛。",
         "Sinner": "莱塔",
         "Text": {
@@ -12366,8 +11810,7 @@
     },
     "1160603": {
         "ID Num": 1160603,
-        "Event Title": "女儿长大了",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 女儿长大了",
         "Event Desc": "你收到了一条新申请。",
         "Sinner": "莱塔",
         "Text": {
@@ -12378,8 +11821,7 @@
     },
     "1160611": {
         "ID Num": 1160611,
-        "Event Title": "新尝试",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 新尝试",
         "Event Desc": "莱塔和德莫莉正凑在一起讨论着些什么。",
         "Sinner": "德莫莉",
         "Text": {
@@ -12402,8 +11844,7 @@
     },
     "1160612": {
         "ID Num": 1160612,
-        "Event Title": "变通",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 变通",
         "Event Desc": "你需要前往档案室调取资料。",
         "Sinner": "莱塔",
         "Text": {
@@ -12431,8 +11872,7 @@
     },
     "1160621": {
         "ID Num": 1160621,
-        "Event Title": "邀请",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 邀请",
         "Event Desc": "某天深夜，忙完了手上工作的你决定去放风区透透气。",
         "Sinner": "莱塔",
         "Text": {
@@ -12479,8 +11919,7 @@
     },
     "1160701": {
         "ID Num": 1160701,
-        "Event Title": "醉翁之意不在酒",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 醉翁之意不在酒",
         "Event Desc": "卡西娅周围的房间变得很抢手。",
         "Sinner": "卡西娅",
         "Text": {
@@ -12490,8 +11929,7 @@
     },
     "1160702": {
         "ID Num": 1160702,
-        "Event Title": "副作用",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 副作用",
         "Event Desc": "催眠疗法对卡西娅来说不太适用。",
         "Sinner": "卡西娅",
         "Text": {
@@ -12501,8 +11939,7 @@
     },
     "1160703": {
         "ID Num": 1160703,
-        "Event Title": "恐怖来袭",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 恐怖来袭",
         "Event Desc": "美人所求，焉敢不从。",
         "Sinner": "恩菲尔",
         "Text": {
@@ -12512,8 +11949,7 @@
     },
     "1160711": {
         "ID Num": 1160711,
-        "Event Title": "失踪的蛋糕",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 失踪的蛋糕",
         "Event Desc": "灵敏的嗅觉不仅可以辅助调香，还能破案。",
         "Sinner": "海拉",
         "Text": {
@@ -12537,8 +11973,7 @@
     },
     "1160712": {
         "ID Num": 1160712,
-        "Event Title": "美人谱",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 美人谱",
         "Event Desc": "卡西娅似乎丢了非常重要的日记。",
         "Sinner": "卡西娅",
         "Text": {
@@ -12560,8 +11995,7 @@
     },
     "1160721": {
         "ID Num": 1160721,
-        "Event Title": "取之有道",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 取之有道",
         "Event Desc": "卡西娅最近合群了不少。",
         "Sinner": "卡西娅",
         "Text": {
@@ -12597,8 +12031,7 @@
     },
     "1160801": {
         "ID Num": 1160801,
-        "Event Title": "惜败",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 惜败",
         "Event Desc": "又到了电影之夜活动的选片环节。",
         "Sinner": "肖恩",
         "Text": {
@@ -12608,8 +12041,7 @@
     },
     "1160802": {
         "ID Num": 1160802,
-        "Event Title": "换头像",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 换头像",
         "Event Desc": "近期管理局内许多工作人员都换上了新的工作头像。",
         "Sinner": "肖恩",
         "Text": {
@@ -12619,8 +12051,7 @@
     },
     "1160803": {
         "ID Num": 1160803,
-        "Event Title": "配音节目",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 配音节目",
         "Event Desc": "肖恩也在本次的联谊晚会上表演了节目。",
         "Sinner": "肖恩",
         "Text": {
@@ -12630,8 +12061,7 @@
     },
     "1160811": {
         "ID Num": 1160811,
-        "Event Title": "神奇口袋",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 神奇口袋",
         "Event Desc": "最近训练室出了一条新规定。",
         "Sinner": "肖恩",
         "Text": {
@@ -12654,8 +12084,7 @@
     },
     "1160812": {
         "ID Num": 1160812,
-        "Event Title": "共识",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 共识",
         "Event Desc": "路过密室的时候，你听到两个后勤部的工作人员似乎正在进行一些秘密讨论。",
         "Sinner": "雷温",
         "Text": {
@@ -12678,8 +12107,7 @@
     },
     "1160821": {
         "ID Num": 1160821,
-        "Event Title": "喝水",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 喝水",
         "Event Desc": "你收到了一则来自肖恩的语音信息。",
         "Sinner": "肖恩",
         "Text": {
@@ -12724,8 +12152,7 @@
     },
     "1160901": {
         "ID Num": 1160901,
-        "Event Title": "小酌",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 小酌",
         "Event Desc": "泽斐尔的房间到后半夜还亮着灯。",
         "Sinner": "泽斐尔",
         "Text": {
@@ -12735,8 +12162,7 @@
     },
     "1160902": {
         "ID Num": 1160902,
-        "Event Title": "发誓",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 发誓",
         "Event Desc": "泽斐尔最近在看一本小说。",
         "Sinner": "泽斐尔",
         "Text": {
@@ -12746,8 +12172,7 @@
     },
     "1160903": {
         "ID Num": 1160903,
-        "Event Title": "彻夜高歌",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 彻夜高歌",
         "Event Desc": "管理局的广播频道被陌生信号占用。",
         "Sinner": "泽斐尔",
         "Text": {
@@ -12758,8 +12183,7 @@
     },
     "1160911": {
         "ID Num": 1160911,
-        "Event Title": "局长亦未寝",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 局长亦未寝",
         "Event Desc": "深夜你被办公室外的敲门声惊醒。",
         "Sinner": "泽斐尔",
         "Text": {
@@ -12784,8 +12208,7 @@
     },
     "1160912": {
         "ID Num": 1160912,
-        "Event Title": "纸飞机",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 纸飞机",
         "Event Desc": "最近局长办公室的清洁负担加重了很多。",
         "Sinner": "泽斐尔",
         "Text": {
@@ -12805,8 +12228,7 @@
     },
     "1160921": {
         "ID Num": 1160921,
-        "Event Title": "一起逃跑吧",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 一起逃跑吧",
         "Event Desc": "泽斐尔邀请你一起逃跑。",
         "Sinner": "泽斐尔",
         "Text": {
@@ -12850,8 +12272,7 @@
     },
     "1210101": {
         "ID Num": 1210101,
-        "Event Title": "立大功",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 立大功",
         "Event Desc": "夜莺递交了新一期的派遣任务报告。",
         "Sinner": "蔻蔻",
         "Text": {
@@ -12861,8 +12282,7 @@
     },
     "1210102": {
         "ID Num": 1210102,
-        "Event Title": "蔻蔻与猫",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 蔻蔻与猫",
         "Event Desc": "你在放风区看到了一幕特别的景象。",
         "Sinner": "蔻蔻",
         "Text": {
@@ -12873,8 +12293,7 @@
     },
     "1210103": {
         "ID Num": 1210103,
-        "Event Title": "软肋",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 软肋",
         "Event Desc": "催眠治疗中出现了一些意外。",
         "Sinner": "蔻蔻",
         "Text": {
@@ -12884,8 +12303,7 @@
     },
     "1210104": {
         "ID Num": 1210104,
-        "Event Title": "不为人知的天赋",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 不为人知的天赋",
         "Event Desc": "你看到大家围着新进的跳舞机跃跃欲试。",
         "Sinner": "蔻蔻",
         "Text": {
@@ -12896,8 +12314,7 @@
     },
     "1210111": {
         "ID Num": 1210111,
-        "Event Title": "模范禁闭者",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 模范禁闭者",
         "Event Desc": "你望着本月的训练考勤表和任务记录陷入了沉思。",
         "Sinner": "蔻蔻",
         "Text": {
@@ -12919,8 +12336,7 @@
     },
     "1210112": {
         "ID Num": 1210112,
-        "Event Title": "打牌技巧",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 打牌技巧",
         "Event Desc": "蔻蔻在外面敲了敲你的门，问自己能不能进来。",
         "Sinner": "蔻蔻",
         "Text": {
@@ -12943,8 +12359,7 @@
     },
     "1210113": {
         "ID Num": 1210113,
-        "Event Title": "能力的副作用",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 能力的副作用",
         "Event Desc": "某位禁闭者的身体似乎出现了一些伤势。",
         "Sinner": "蔻蔻",
         "Text": {
@@ -12969,8 +12384,7 @@
     },
     "1210114": {
         "ID Num": 1210114,
-        "Event Title": "聊天终结者",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 聊天终结者",
         "Event Desc": "局长，有工作人员反映受到了禁闭者蔻蔻的威胁。",
         "Sinner": "蔻蔻",
         "Text": {
@@ -12996,8 +12410,7 @@
     },
     "1210121": {
         "ID Num": 1210121,
-        "Event Title": "“武器”",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ “武器”",
         "Event Desc": "你和蔻蔻进行了模拟战斗训练。",
         "Sinner": "蔻蔻",
         "Text": {
@@ -13032,8 +12445,7 @@
     },
     "1210201": {
         "ID Num": 1210201,
-        "Event Title": "咸菜",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 咸菜",
         "Event Desc": "又到了腌咸菜的季节。",
         "Sinner": "德莫莉",
         "Text": {
@@ -13045,8 +12457,7 @@
     },
     "1210202": {
         "ID Num": 1210202,
-        "Event Title": "不是垃圾！",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 不是垃圾！",
         "Event Desc": "德莫莉把自己关进了禁闭室。",
         "Sinner": "德莫莉",
         "Text": {
@@ -13056,8 +12467,7 @@
     },
     "1210203": {
         "ID Num": 1210203,
-        "Event Title": "编外人员",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 编外人员",
         "Event Desc": "采购办的工作人员给德莫莉制作一面锦旗。",
         "Sinner": "德莫莉",
         "Text": {
@@ -13067,8 +12477,7 @@
     },
     "1210211": {
         "ID Num": 1210211,
-        "Event Title": "“售”后服务",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ “售”后服务",
         "Event Desc": "你收到一条内部通讯。",
         "Sinner": "德莫莉",
         "Text": {
@@ -13090,8 +12499,7 @@
     },
     "1210212": {
         "ID Num": 1210212,
-        "Event Title": "老年人作息",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 老年人作息",
         "Event Desc": "你听到远处传来了德莫莉的叹气声。",
         "Sinner": "德莫莉",
         "Text": {
@@ -13111,8 +12519,7 @@
     },
     "1210213": {
         "ID Num": 1210213,
-        "Event Title": "下一局",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 下一局",
         "Event Desc": "德莫莉在外面狂敲你的门。",
         "Sinner": "德莫莉",
         "Text": {
@@ -13134,8 +12541,7 @@
     },
     "1210221": {
         "ID Num": 1210221,
-        "Event Title": "受欢迎的人",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 受欢迎的人",
         "Event Desc": "“最受欢迎员工”投票活动的结果终于在今天揭晓。",
         "Sinner": "德莫莉",
         "Text": {
@@ -13167,8 +12573,7 @@
     },
     "1210401": {
         "ID Num": 1210401,
-        "Event Title": "噪音问题",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 噪音问题",
         "Event Desc": "你收到了一大堆关于噪音污染的投诉单。",
         "Sinner": "佩姬",
         "Text": {
@@ -13178,8 +12583,7 @@
     },
     "1210402": {
         "ID Num": 1210402,
-        "Event Title": "大王花宝典",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 大王花宝典",
         "Event Desc": "佩姬斥巨资买了一本说唱宝典。",
         "Sinner": "佩姬",
         "Text": {
@@ -13189,8 +12593,7 @@
     },
     "1210411": {
         "ID Num": 1210411,
-        "Event Title": "开发新领域",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 开发新领域",
         "Event Desc": "似乎并不是擅长rap就能完美驾驭音游街机。",
         "Sinner": "佩姬",
         "Text": {
@@ -13211,8 +12614,7 @@
     },
     "1210412": {
         "ID Num": 1210412,
-        "Event Title": "我爱我家",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 我爱我家",
         "Event Desc": "对故乡的爱和归属感是无法掩藏的。",
         "Sinner": "佩姬",
         "Text": {
@@ -13233,8 +12635,7 @@
     },
     "1210421": {
         "ID Num": 1210421,
-        "Event Title": "说唱效应",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 说唱效应",
         "Event Desc": "歌曲传唱度太高或许也会让巨星苦恼。",
         "Sinner": "佩姬",
         "Text": {
@@ -13268,8 +12669,7 @@
     },
     "1220101": {
         "ID Num": 1220101,
-        "Event Title": "好胜心",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 好胜心",
         "Event Desc": "海拉拿着游戏手柄大呼小叫地找到了你。",
         "Sinner": "海拉",
         "Text": {
@@ -13281,8 +12681,7 @@
     },
     "1220102": {
         "ID Num": 1220102,
-        "Event Title": "记账",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 记账",
         "Event Desc": "海拉在训练的时候不小心弄坏了训练器材。",
         "Sinner": "海拉",
         "Text": {
@@ -13292,8 +12691,7 @@
     },
     "1220103": {
         "ID Num": 1220103,
-        "Event Title": "空欢喜一场",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 空欢喜一场",
         "Event Desc": "在定期体检中，你发现海拉的身高竟然比档案中记录的高一厘米。",
         "Sinner": "海拉",
         "Text": {
@@ -13304,8 +12702,7 @@
     },
     "1220104": {
         "ID Num": 1220104,
-        "Event Title": "文明大使",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 文明大使",
         "Event Desc": "文明大使的选拔赛再次召开，谁才是米诺斯的“文明之王”？",
         "Sinner": "海拉",
         "Text": {
@@ -13315,8 +12712,7 @@
     },
     "1220111": {
         "ID Num": 1220111,
-        "Event Title": "爱护公物",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 爱护公物",
         "Event Desc": "你收到一份来自维修部的巨额账单。",
         "Sinner": "海拉",
         "Text": {
@@ -13339,8 +12735,7 @@
     },
     "1220112": {
         "ID Num": 1220112,
-        "Event Title": "循序渐进",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 循序渐进",
         "Event Desc": "海拉在娱乐区似乎对阅读产生了兴趣。",
         "Sinner": "海拉",
         "Text": {
@@ -13363,8 +12758,7 @@
     },
     "1220113": {
         "ID Num": 1220113,
-        "Event Title": "毛线帽",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 毛线帽",
         "Event Desc": "愁苦的你在路上遇见了海拉。",
         "Sinner": "海拉",
         "Text": {
@@ -13385,8 +12779,7 @@
     },
     "1220114": {
         "ID Num": 1220114,
-        "Event Title": "街头智慧",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 街头智慧",
         "Event Desc": "海拉帮助禁闭者们解决了各种难题。",
         "Sinner": "海拉",
         "Text": {
@@ -13407,8 +12800,7 @@
     },
     "1220121": {
         "ID Num": 1220121,
-        "Event Title": "海拉的礼物",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 海拉的礼物",
         "Event Desc": "海拉最近在频繁光顾黑市。",
         "Sinner": "海拉",
         "Text": {
@@ -13446,8 +12838,7 @@
     },
     "1220122": {
         "ID Num": 1220122,
-        "Event Title": "幸运帽",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 幸运帽",
         "Event Desc": "你今天似乎在管理局的各种地方见到了海拉。",
         "Sinner": "海拉",
         "Text": {
@@ -13480,8 +12871,7 @@
     },
     "1220201": {
         "ID Num": 1220201,
-        "Event Title": "开锁天才",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 开锁天才",
         "Event Desc": "放风区的门打不开了，大家都非常焦急。",
         "Sinner": "澈",
         "Text": {
@@ -13491,8 +12881,7 @@
     },
     "1220202": {
         "ID Num": 1220202,
-        "Event Title": "耳塞",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 耳塞",
         "Event Desc": "催眠治疗中，澈睡得很香甜。",
         "Sinner": "澈",
         "Text": {
@@ -13502,8 +12891,7 @@
     },
     "1220203": {
         "ID Num": 1220203,
-        "Event Title": "诡异行踪",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 诡异行踪",
         "Event Desc": "菲向你报告了一些异常状况。",
         "Sinner": "澈",
         "Text": {
@@ -13514,8 +12902,7 @@
     },
     "1220204": {
         "ID Num": 1220204,
-        "Event Title": "不良影响",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 不良影响",
         "Event Desc": "有些人似乎最近有些偷懒。",
         "Sinner": "澈",
         "Text": {
@@ -13525,8 +12912,7 @@
     },
     "1220211": {
         "ID Num": 1220211,
-        "Event Title": "摸鱼达人",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 摸鱼达人",
         "Event Desc": "澈似乎掌握了睁着眼睛睡觉的技巧。",
         "Sinner": "澈",
         "Text": {
@@ -13545,8 +12931,7 @@
     },
     "1220212": {
         "ID Num": 1220212,
-        "Event Title": "飞车高手",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 飞车高手",
         "Event Desc": "澈打破了娱乐区几个赛车游戏的记录。",
         "Sinner": "艾米潘",
         "Text": {
@@ -13563,8 +12948,7 @@
     },
     "1220213": {
         "ID Num": 1220213,
-        "Event Title": "两肋插刀",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 两肋插刀",
         "Event Desc": "澈难得地主动接下一单任务。",
         "Sinner": "澈",
         "Text": {
@@ -13581,8 +12965,7 @@
     },
     "1220221": {
         "ID Num": 1220221,
-        "Event Title": "讨价还价",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 讨价还价",
         "Event Desc": "澈发来了一条申请。",
         "Sinner": "澈",
         "Text": {
@@ -13613,8 +12996,7 @@
     },
     "1220301": {
         "ID Num": 1220301,
-        "Event Title": "原木终结者",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 原木终结者",
         "Event Desc": "局内近来采购了一批家具，却遇上无良供货商送来大量原木。",
         "Sinner": "胡椒",
         "Text": {
@@ -13625,8 +13007,7 @@
     },
     "1220302": {
         "ID Num": 1220302,
-        "Event Title": "时钟花圃",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 时钟花圃",
         "Event Desc": "胡椒在温室种了一片时钟花圃。",
         "Sinner": "胡椒",
         "Text": {
@@ -13636,8 +13017,7 @@
     },
     "1220311": {
         "ID Num": 1220311,
-        "Event Title": "淘气包",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 淘气包",
         "Event Desc": "监管系统在能量熔炉处检测到不明闯入者。",
         "Sinner": "胡椒",
         "Text": {
@@ -13661,8 +13041,7 @@
     },
     "1220312": {
         "ID Num": 1220312,
-        "Event Title": "花季",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 花季",
         "Event Desc": "你正在打扫办公室，门外突然响起了敲门声。",
         "Sinner": "胡椒",
         "Text": {
@@ -13686,8 +13065,7 @@
     },
     "1220321": {
         "ID Num": 1220321,
-        "Event Title": "重拾本行",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 重拾本行",
         "Event Desc": "你还是觉得放风区里差了点自然风光。",
         "Sinner": "胡椒",
         "Text": {
@@ -13729,8 +13107,7 @@
     },
     "1230101": {
         "ID Num": 1230101,
-        "Event Title": "科幻小说",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 科幻小说",
         "Event Desc": "半机械人会梦见电子羊吗？",
         "Sinner": "雷比尼斯",
         "Text": {
@@ -13740,8 +13117,7 @@
     },
     "1230102": {
         "ID Num": 1230102,
-        "Event Title": "强迫症",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 强迫症",
         "Event Desc": "雷比尼斯最近总是出入局长的办公室。",
         "Sinner": "雷比尼斯",
         "Text": {
@@ -13751,8 +13127,7 @@
     },
     "1230103": {
         "ID Num": 1230103,
-        "Event Title": "机器舞之王",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 机器舞之王",
         "Event Desc": "娱乐区里喧哗声不断。",
         "Sinner": "雷比尼斯",
         "Text": {
@@ -13762,8 +13137,7 @@
     },
     "1230104": {
         "ID Num": 1230104,
-        "Event Title": "缺油了",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 缺油了",
         "Event Desc": "雷比尼斯最近的状态不是很好。",
         "Sinner": "雷比尼斯",
         "Text": {
@@ -13773,8 +13147,7 @@
     },
     "1230111": {
         "ID Num": 1230111,
-        "Event Title": "心动的感觉",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 心动的感觉",
         "Event Desc": "一些禁闭者和工作人员反映，对雷比尼斯有一种奇妙的心动。",
         "Sinner": "雷比尼斯",
         "Text": {
@@ -13787,8 +13160,7 @@
     },
     "1230112": {
         "ID Num": 1230112,
-        "Event Title": "女仆的职责",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 女仆的职责",
         "Event Desc": "雷比尼斯倒掉了你桌子上的隔夜茶。",
         "Sinner": "雷比尼斯",
         "Text": {
@@ -13806,8 +13178,7 @@
     },
     "1230113": {
         "ID Num": 1230113,
-        "Event Title": "同行是冤家",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 同行是冤家",
         "Event Desc": "雷比尼斯建议你扔掉新买的扫地机器人。",
         "Sinner": "雷比尼斯",
         "Text": {
@@ -13824,8 +13195,7 @@
     },
     "1230121": {
         "ID Num": 1230121,
-        "Event Title": "验证码",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 验证码",
         "Event Desc": "你想要登录市议会的官方网站，却被繁琐的验证码难住了。",
         "Sinner": "雷比尼斯",
         "Text": {
@@ -13852,8 +13222,7 @@
     },
     "1230201": {
         "ID Num": 1230201,
-        "Event Title": "切磋",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 切磋",
         "Event Desc": "昙正在训练室和堇切磋刀法。",
         "Sinner": "堇",
         "Text": {
@@ -13863,8 +13232,7 @@
     },
     "1230202": {
         "ID Num": 1230202,
-        "Event Title": "收容区异响",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 收容区异响",
         "Event Desc": "收容区经常会在半夜传出诡异声响。",
         "Sinner": "昙",
         "Text": {
@@ -13874,8 +13242,7 @@
     },
     "1230211": {
         "ID Num": 1230211,
-        "Event Title": "吹牛的后果",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 吹牛的后果",
         "Event Desc": "来自放风区的工作人员请求进入办公室。",
         "Sinner": "昙",
         "Text": {
@@ -13897,8 +13264,7 @@
     },
     "1230212": {
         "ID Num": 1230212,
-        "Event Title": "学习",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 学习",
         "Event Desc": "今天的阅览室里出现了一位稀客。",
         "Sinner": "昙",
         "Text": {
@@ -13919,8 +13285,7 @@
     },
     "1230221": {
         "ID Num": 1230221,
-        "Event Title": "可疑身影",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 可疑身影",
         "Event Desc": "近日监控摄像反复在密室门口拍到可疑身影。",
         "Sinner": "昙",
         "Text": {
@@ -13950,8 +13315,7 @@
     },
     "1240101": {
         "ID Num": 1240101,
-        "Event Title": "虚惊一场",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 虚惊一场",
         "Event Desc": "监管中枢最近老是出现雪花屏的现象。",
         "Sinner": "艾米潘",
         "Text": {
@@ -13962,8 +13326,7 @@
     },
     "1240102": {
         "ID Num": 1240102,
-        "Event Title": "送命题",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 送命题",
         "Event Desc": "大家聚在一起进行团建，准备玩真心话大冒险。",
         "Sinner": "艾米潘",
         "Text": {
@@ -13973,8 +13336,7 @@
     },
     "1240103": {
         "ID Num": 1240103,
-        "Event Title": "漫画",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 漫画",
         "Event Desc": "艾米潘鬼鬼祟祟地找到了你，似乎有什么话要说。",
         "Sinner": "艾米潘",
         "Text": {
@@ -13984,8 +13346,7 @@
     },
     "1240104": {
         "ID Num": 1240104,
-        "Event Title": "诈骗电话",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 诈骗电话",
         "Event Desc": "局长收到了一通诈骗电话。",
         "Sinner": "艾米潘",
         "Text": {
@@ -13996,8 +13357,7 @@
     },
     "1240111": {
         "ID Num": 1240111,
-        "Event Title": "无效请假",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 无效请假",
         "Event Desc": "局长收到了一条新的申请。",
         "Sinner": "艾米潘",
         "Text": {
@@ -14017,8 +13377,7 @@
     },
     "1240112": {
         "ID Num": 1240112,
-        "Event Title": "换武器",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 换武器",
         "Event Desc": "局长收到了一条新的申请。",
         "Sinner": "艾米潘",
         "Text": {
@@ -14042,8 +13401,7 @@
     },
     "1240113": {
         "ID Num": 1240113,
-        "Event Title": "BGM的重要性",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ BGM的重要性",
         "Event Desc": "播放器里播放的音乐似乎有点不太对。",
         "Sinner": "艾米潘",
         "Text": {
@@ -14064,8 +13422,7 @@
     },
     "1240121": {
         "ID Num": 1240121,
-        "Event Title": "狄斯帝皇",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 狄斯帝皇",
         "Event Desc": "你听到艾米潘正在对新来的禁闭者吹牛。",
         "Sinner": "艾米潘",
         "Text": {
@@ -14089,8 +13446,7 @@
     },
     "1240201": {
         "ID Num": 1240201,
-        "Event Title": "我的晚餐",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 我的晚餐",
         "Event Desc": "晚饭时间，伊格尼因操作不慎引发了厨房火灾。",
         "Sinner": "伊格尼",
         "Text": {
@@ -14100,8 +13456,7 @@
     },
     "1240202": {
         "ID Num": 1240202,
-        "Event Title": "好心办坏事",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 好心办坏事",
         "Event Desc": "芙洛拉路过温室的时候想顺便给植物浇水。",
         "Sinner": "芙洛拉",
         "Text": {
@@ -14111,8 +13466,7 @@
     },
     "1240211": {
         "ID Num": 1240211,
-        "Event Title": "晨跑",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 晨跑",
         "Event Desc": "你早上去放风区散步的时候正巧遇到正在晨跑的芙洛拉。",
         "Sinner": "芙洛拉",
         "Text": {
@@ -14134,8 +13488,7 @@
     },
     "1240212": {
         "ID Num": 1240212,
-        "Event Title": "荣誉编外人员",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 荣誉编外人员",
         "Event Desc": "后勤部工作人员请求进入办公室。",
         "Sinner": "芙洛拉",
         "Text": {
@@ -14155,8 +13508,7 @@
     },
     "1240221": {
         "ID Num": 1240221,
-        "Event Title": "小小噩梦",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 小小噩梦",
         "Event Desc": "芙洛拉每天都早早入睡，但是她偶尔会梦游。",
         "Sinner": "芙洛拉",
         "Text": {
@@ -14196,8 +13548,7 @@
     },
     "1250101": {
         "ID Num": 1250101,
-        "Event Title": "厨房事故",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 厨房事故",
         "Event Desc": "厨房里传来了一声巨响。",
         "Sinner": "开尔文",
         "Text": {
@@ -14207,8 +13558,7 @@
     },
     "1250102": {
         "ID Num": 1250102,
-        "Event Title": "加件衣服",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 加件衣服",
         "Event Desc": "最近管理局的气温有些冷。",
         "Sinner": "开尔文",
         "Text": {
@@ -14218,8 +13568,7 @@
     },
     "1250103": {
         "ID Num": 1250103,
-        "Event Title": "制冷",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 制冷",
         "Event Desc": "最近管理局的气温简直热爆了。",
         "Sinner": "开尔文",
         "Text": {
@@ -14229,8 +13578,7 @@
     },
     "1250104": {
         "ID Num": 1250104,
-        "Event Title": "违规操作",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 违规操作",
         "Event Desc": "夜莺副官递交了一份人事汇报。",
         "Sinner": "开尔文",
         "Text": {
@@ -14240,8 +13588,7 @@
     },
     "1250111": {
         "ID Num": 1250111,
-        "Event Title": "雪的味道",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 雪的味道",
         "Event Desc": "你发现开尔文一直在吐舌头。",
         "Sinner": "开尔文",
         "Text": {
@@ -14264,8 +13611,7 @@
     },
     "1250112": {
         "ID Num": 1250112,
-        "Event Title": "料理动画",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 料理动画",
         "Event Desc": "开尔文着迷地看着电视里的动画片。",
         "Sinner": "开尔文",
         "Text": {
@@ -14283,8 +13629,7 @@
     },
     "1250201": {
         "ID Num": 1250201,
-        "Event Title": "特殊的日子",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 特殊的日子",
         "Event Desc": "今天是个特别的日子。",
         "Sinner": "琼",
         "Text": {
@@ -14294,8 +13639,7 @@
     },
     "1250202": {
         "ID Num": 1250202,
-        "Event Title": "私生饭",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 私生饭",
         "Event Desc": "放风区又发生了一次打架斗殴事件。",
         "Sinner": "琼",
         "Text": {
@@ -14305,8 +13649,7 @@
     },
     "1250203": {
         "ID Num": 1250203,
-        "Event Title": "特别节目",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 特别节目",
         "Event Desc": "娱乐区今日迎来了特别节目。",
         "Sinner": "琼",
         "Text": {
@@ -14316,8 +13659,7 @@
     },
     "1250204": {
         "ID Num": 1250204,
-        "Event Title": "新装备",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 新装备",
         "Event Desc": "琼最近经常在局长的周围出现。",
         "Sinner": "琼",
         "Text": {
@@ -14327,8 +13669,7 @@
     },
     "1250211": {
         "ID Num": 1250211,
-        "Event Title": "工作与摇滚",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 工作与摇滚",
         "Event Desc": "琼对你办公室里播放的音乐发表了一些意见。",
         "Sinner": "琼",
         "Text": {
@@ -14347,8 +13688,7 @@
     },
     "1250212": {
         "ID Num": 1250212,
-        "Event Title": "新歌",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 新歌",
         "Event Desc": "琼让你帮她的新歌起一个名字。",
         "Sinner": "琼",
         "Text": {
@@ -14371,8 +13711,7 @@
     },
     "1260101": {
         "ID Num": 1260101,
-        "Event Title": "毕业照",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 毕业照",
         "Event Desc": "玛奇朵看起来非常高兴。",
         "Sinner": "玛奇朵",
         "Text": {
@@ -14382,8 +13721,7 @@
     },
     "1260102": {
         "ID Num": 1260102,
-        "Event Title": "提升耐久",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 提升耐久",
         "Event Desc": "训练室传来了剧烈的鞭子声。",
         "Sinner": "玛奇朵",
         "Text": {
@@ -14393,8 +13731,7 @@
     },
     "1260103": {
         "ID Num": 1260103,
-        "Event Title": "人气选手",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 人气选手",
         "Event Desc": "对战训练最近非常红火。",
         "Sinner": "玛奇朵",
         "Text": {
@@ -14404,8 +13741,7 @@
     },
     "1260104": {
         "ID Num": 1260104,
-        "Event Title": "童年游戏",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 童年游戏",
         "Event Desc": "陀螺游戏在管理局里突然流行了起来。",
         "Sinner": "玛奇朵",
         "Text": {
@@ -14415,8 +13751,7 @@
     },
     "1260111": {
         "ID Num": 1260111,
-        "Event Title": "违规行为",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 违规行为",
         "Event Desc": "警告，发现禁闭者玛奇朵存在违规交易行为。",
         "Sinner": "玛奇朵",
         "Text": {
@@ -14435,8 +13770,7 @@
     },
     "1260112": {
         "ID Num": 1260112,
-        "Event Title": "家长难当",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 家长难当",
         "Event Desc": "警告，检测到禁闭者玛奇朵出现情绪波动异常。",
         "Sinner": "玛奇朵",
         "Text": {
@@ -14456,8 +13790,7 @@
     },
     "1260113": {
         "ID Num": 1260113,
-        "Event Title": "关于全自动鞭子",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 关于全自动鞭子",
         "Event Desc": "局长，您收到了一条新的申请。",
         "Sinner": "玛奇朵",
         "Text": {
@@ -14479,8 +13812,7 @@
     },
     "1260121": {
         "ID Num": 1260121,
-        "Event Title": "养家之人",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 养家之人",
         "Event Desc": "玛奇朵向你申请增加自己的工作量。",
         "Sinner": "玛奇朵",
         "Text": {
@@ -14518,8 +13850,7 @@
     },
     "1260201": {
         "ID Num": 1260201,
-        "Event Title": "新人画展",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 新人画展",
         "Event Desc": "丽莎发来了一条紧急通讯！",
         "Sinner": "丽莎",
         "Text": {
@@ -14529,8 +13860,7 @@
     },
     "1260202": {
         "ID Num": 1260202,
-        "Event Title": "专业素养",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 专业素养",
         "Event Desc": "丽莎最近的网络资费有些异常得高。",
         "Sinner": "丽莎",
         "Text": {
@@ -14540,8 +13870,7 @@
     },
     "1260203": {
         "ID Num": 1260203,
-        "Event Title": "油画风波",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 油画风波",
         "Event Desc": "催眠治疗中丽莎看起来有些难过。",
         "Sinner": "丽莎",
         "Text": {
@@ -14551,8 +13880,7 @@
     },
     "1260204": {
         "ID Num": 1260204,
-        "Event Title": "艺术素养",
-        "Level": "⚠",
+        "Event Title": "'++* ⚠ 艺术素养",
         "Event Desc": "丽莎发来了一条紧急通讯！",
         "Sinner": "丽莎",
         "Text": {
@@ -14563,8 +13891,7 @@
     },
     "1260211": {
         "ID Num": 1260211,
-        "Event Title": "艺术新秀",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 艺术新秀",
         "Event Desc": "丽莎评价了赫卡蒂的画。",
         "Sinner": "丽莎",
         "Text": {
@@ -14586,8 +13913,7 @@
     },
     "1260212": {
         "ID Num": 1260212,
-        "Event Title": "新的尝试",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 新的尝试",
         "Event Desc": "你发现丽莎在随意画着什么。",
         "Sinner": "丽莎",
         "Text": {
@@ -14611,8 +13937,7 @@
     },
     "1260213": {
         "ID Num": 1260213,
-        "Event Title": "以毒攻毒",
-        "Level": "⚠⚠",
+        "Event Title": "'++* ⚠⚠ 以毒攻毒",
         "Event Desc": "丽莎再一次违反了禁闭者管理规定。",
         "Sinner": "丽莎",
         "Text": {
@@ -14632,8 +13957,7 @@
     },
     "1260221": {
         "ID Num": 1260221,
-        "Event Title": "服装搭配",
-        "Level": "⚠⚠⚠",
+        "Event Title": "'++* ⚠⚠⚠ 服装搭配",
         "Event Desc": "丽莎请你帮她搭配一下服装。",
         "Sinner": "丽莎",
         "Text": {
