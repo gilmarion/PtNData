@@ -419,6 +419,54 @@
         "File": "vo_owo_promotion_001",
         "Text": "嗯~不愧是我嗷嗚！"
     },
+    "110102110": {
+        "Sinner": "嗷嗚",
+        "Title": "獲得套裝",
+        "File": "vo_owo_xishiyingmen_cacha_001",
+        "Text": "喂——這裡這裡，快抬頭！全天下最喜慶、最熱鬧、最不能錯過的護宅舞獅就要開始了！嗷嗚祝大家開門見喜、財源廣進！"
+    },
+    "110102111": {
+        "Sinner": "嗷嗚",
+        "Title": "升級",
+        "File": "vo_owo_xishiyingmen_levelup_001",
+        "Text": "開門大吉，時（獅）運亨通！"
+    },
+    "110102112": {
+        "Sinner": "嗷嗚",
+        "Title": "問候",
+        "File": "vo_owo_xishiyingmen_greeting_001",
+        "Text": "今天的門神可是我——天下無敵、護佑四方的嗷嗚大人！有本獅王守著，所有邪祟都要同我兜路行開！"
+    },
+    "110102113": {
+        "Sinner": "嗷嗚",
+        "Title": "普通觸摸1",
+        "File": "vo_owo_xishiyingmen_talk_001",
+        "Text": "我怕舞獅的鑼鼓聲太響，你會聽不見我的祝福，我怕新年的鞭炮太吵，你會收不到我的問候。所以——就是現在！嗷嗚祝你每天都能食得飽、訓得好！"
+    },
+    "110102114": {
+        "Sinner": "嗷嗚",
+        "Title": "普通觸摸2",
+        "File": "vo_owo_xishiyingmen_talk_002",
+        "Text": "哇，這燈籠，這煙火，這排面——都是為我的登場準備的嗎？太有眼光了狄斯人，將個心放落肚！嗷嗚的表演絕不讓你失望，我和我的獅頭一定會把喜氣傳到千家萬戶！"
+    },
+    "110102115": {
+        "Sinner": "嗷嗚",
+        "Title": "閒置",
+        "File": "vo_owo_xishiyingmen_idle_001",
+        "Text": "我的本領可是在梅花樁上練出來的，跳上門頭不過是小事一樁，才不會掉下——唉啊啊啊！好險……"
+    },
+    "110102116": {
+        "Sinner": "嗷嗚",
+        "Title": "煩躁",
+        "File": "vo_owo_xishiyingmen_clicking_001",
+        "Text": "大膽狄斯人，居然敢碰門神大人的盔甲！哼，看在今天是個吉日，嗷嗚原諒你了……只、只能再碰一下了哦！"
+    },
+    "110102117": {
+        "Sinner": "嗷嗚",
+        "Title": "特別關注",
+        "File": "vo_owo_xishiyingmen_specialattention_001",
+        "Text": "這、是嗷嗚特地準備的新行頭，這、是嗷嗚和流民寨的叔叔姨姨們一起做的新獅頭。好啦，狄斯人，可以開始誇我了！"
+    },
     "11010301": {
         "Sinner": "羅睺",
         "Title": "獲得禁閉者",
@@ -3168,6 +3216,54 @@
         "Title": "特別關注",
         "File": "vo_linglan_langlibaitiao_specialattention_001",
         "Text": "好了，所有水手就位。那我們要向深海進發囉！"
+    },
+    "110301120": {
+        "Sinner": "白逸",
+        "Title": "獲得套裝",
+        "File": "vo_linglan_suianjiangjun_cacha_001",
+        "Text": "昔年劍動若驚雷，是歲長風猶可追。但得將軍臨此處，外邪豈敢入門楣。看下來，你這府上的確不安生。不過無妨，我既在此，它們便傷不得你。"
+    },
+    "110301121": {
+        "Sinner": "白逸",
+        "Title": "升級",
+        "File": "vo_linglan_suianjiangjun_levelup_001",
+        "Text": "嗯，這身本事倒是還在。"
+    },
+    "110301122": {
+        "Sinner": "白逸",
+        "Title": "問候",
+        "File": "vo_linglan_suianjiangjun_greeting_001",
+        "Text": "來了？過來喝一杯，順道看看外頭的景色。唉呀，如今這年歲，倉廩實，百姓足，也不枉我當初四方征戰了……嗯，當浮一大白！"
+    },
+    "110301123": {
+        "Sinner": "白逸",
+        "Title": "普通觸摸1",
+        "File": "vo_linglan_suianjiangjun_body_001",
+        "Text": "這守宅的活計，比之我當年要做的可是簡單多了。遇著知禮數的客人自然方便，放行便是；要是遇著不長眼的，還能叫我這柄青鋒見見光，倒也不失為個好消遣啊。"
+    },
+    "110301124": {
+        "Sinner": "白逸",
+        "Title": "普通觸摸2",
+        "File": "vo_linglan_suianjiangjun_body_002",
+        "Text": "我知道外邊人都傳我「一將功成萬骨枯。」說起來也不算胡話。只不過現在我也就是殺些邪祟精魅，叫那些個平常人家過個好年罷了。"
+    },
+    "110301125": {
+        "Sinner": "白逸",
+        "Title": "閒置",
+        "File": "vo_linglan_suianjiangjun_idle_001",
+        "Text": "曉寒料峭尚欺人，春態苗條先到柳……如此好春好景，你卻在這裡打盹。也罷，明日之事，還是明日再說吧……"
+    },
+    "110301126": {
+        "Sinner": "白逸",
+        "Title": "煩躁",
+        "File": "vo_linglan_suianjiangjun_clicking_001",
+        "Text": "我倒是不厭惡你這麼摸索，只不過要是蹭掉了畫上的漆，這年畫可就不好看囉！"
+    },
+    "110301127": {
+        "Sinner": "白逸",
+        "Title": "特別關注",
+        "File": "vo_linglan_suianjiangjun_specialattention_001",
+        "Text": "喲，有日子不見，精神氣見長啊。別只是看著呀，來，朱砂水墨繪我金身，再來一壺好酒供上，本將軍再守你一年又如何。"
     },
     "11030201": {
         "Sinner": "科希",

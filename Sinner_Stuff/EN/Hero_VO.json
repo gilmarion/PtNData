@@ -419,6 +419,54 @@
         "File": "vo_owo_promotion_001",
         "Text": "Yup! That's OwO for you!"
     },
+    "110102110": {
+        "Sinner": "OwO",
+        "Title": "Attire Obtained",
+        "File": "vo_owo_xishiyingmen_cacha_001",
+        "Text": "Hey here—Over here! Heads up! The world's greatest, happiest, and baddest residential lion dance is about to begin! Listen up, everyone, I wish you health and wealth, and happiness every day!"
+    },
+    "110102111": {
+        "Sinner": "OwO",
+        "Title": "Level Up",
+        "File": "vo_owo_xishiyingmen_levelup_001",
+        "Text": "Hey, you're roar-some! Come on, let's roar and roll!"
+    },
+    "110102112": {
+        "Sinner": "OwO",
+        "Title": "Greeting",
+        "File": "vo_owo_xishiyingmen_greeting_001",
+        "Text": "I, OwO, the unparalleled Door God, will protect everyone for the whole new year! With OwO here, all evildoers will be swept out of my way!"
+    },
+    "110102113": {
+        "Sinner": "OwO",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_owo_xishiyingmen_talk_001",
+        "Text": "The gongs and drums might drown out my voice; the firecrackers might outshine my hilloa. So, right this moment, I'm going to wish you a year of peaceful sleep and fine food every day!"
+    },
+    "110102114": {
+        "Sinner": "OwO",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_owo_xishiyingmen_talk_002",
+        "Text": "Wow, look at those laterns, the fireworks—are they prepared for me? Good job, you Dis-spaz! Rest assured, I'll never let you down! OwO and her lion are gonna throw a show to everyone everywhere!"
+    },
+    "110102115": {
+        "Sinner": "OwO",
+        "Title": "Idle",
+        "File": "vo_owo_xishiyingmen_idle_001",
+        "Text": "I practiced on the plum-blossom pillars! Hopping on your gate is just easy-peasy! I could never fall—ohhhh! My, that was close!"
+    },
+    "110102116": {
+        "Sinner": "OwO",
+        "Title": "Annoyed",
+        "File": "vo_owo_xishiyingmen_clicking_001",
+        "Text": "Oi, you DisCity chump! Dare you touch the armor of the Door God? Alright, today's a Lucky Day, so I might spare you just this once... And I grant you permission to touch it now, just for once!"
+    },
+    "110102117": {
+        "Sinner": "OwO",
+        "Title": "Special Attention",
+        "File": "vo_owo_xishiyingmen_specialattention_001",
+        "Text": "This, is the new custome OwO prepared for the show; and this, is the new lion head the folks at Drifter Camp made with me. There, there, Dis-pal, you can flatter me now~"
+    },
     "11010301": {
         "Sinner": "Rahu",
         "Title": "Obtain the Sinner",
@@ -3168,6 +3216,54 @@
         "Title": "Special Attention",
         "File": "vo_linglan_langlibaitiao_specialattention_001",
         "Text": "All right, all hands on deck. We're heading to deeper waters!"
+    },
+    "110301120": {
+        "Sinner": "Bai Yi",
+        "Title": "Attire Obtained",
+        "File": "vo_linglan_suianjiangjun_cacha_001",
+        "Text": "I wielded lightning, swift and bold\nwith ambitions that never grow cold.\nAs long as I guard your sacred door\nNo evil shall threaten you anymore.\nYep, there are indeed evils lurking around your place. But don't worry, my mere presence is enough to send them running for cover."
+    },
+    "110301121": {
+        "Sinner": "Bai Yi",
+        "Title": "Level Up",
+        "File": "vo_linglan_suianjiangjun_levelup_001",
+        "Text": "Yep, still got it."
+    },
+    "110301122": {
+        "Sinner": "Bai Yi",
+        "Title": "Greeting",
+        "File": "vo_linglan_suianjiangjun_greeting_001",
+        "Text": "There you are! Grab a drink and take in the view with me: the depots are packed, and everyone's living the good life. Those years I spent fighting? Totally worth it. A massive toast to that!"
+    },
+    "110301123": {
+        "Sinner": "Bai Yi",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_linglan_suianjiangjun_body_001",
+        "Text": "This security gig is a breeze compared to what I used to do. If it's a respectful visitor, I'll simply step aside; if it's someone bold enough to test their luck, well, my sword could use a little entertainment every now and then."
+    },
+    "110301124": {
+        "Sinner": "Bai Yi",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_linglan_suianjiangjun_body_002",
+        "Text": "Yeah, I know they call me the \"general of mass destruction,\" and let's just say, that's not all rumors. But nowadays, my job's more about keeping goblins and poltergeists in check to ensure a peaceful new year for the common folks."
+    },
+    "110301125": {
+        "Sinner": "Bai Yi",
+        "Title": "Idle",
+        "File": "vo_linglan_suianjiangjun_idle_001",
+        "Text": "The winter's breath still chills the air, while willows dance with vernal flair... A fine sight of early spring, yet here you are, snoozing away. Well, as they say, \"What can't be done today can wait until tomorrow\"—for now, enjoy your dreams."
+    },
+    "110301126": {
+        "Sinner": "Bai Yi",
+        "Title": "Annoyed",
+        "File": "vo_linglan_suianjiangjun_clicking_001",
+        "Text": "Fumble all you like, it's no skin off my back. But just so you know, the painting's not gonna look quite as majestic with all the colors gone!"
+    },
+    "110301127": {
+        "Sinner": "Bai Yi",
+        "Title": "Special Attention",
+        "File": "vo_linglan_suianjiangjun_specialattention_001",
+        "Text": "Hey there, it's been ages! You're looking as spry as ever. Don't just stand there—go ahead and slather my armor in vermilion and ink, toss in a fine bottle of wine, and I'll make sure to keep another year safe for you. Deal?"
     },
     "11030201": {
         "Sinner": "Crache",
@@ -15443,7 +15539,7 @@
         "Sinner": "Tetra",
         "Title": "Full Compliance",
         "File": "vo_tetra_obeyfull_001",
-        "Text": "I already have the most precious thing in the world. How about I leave behind my old ways right now? You'll be my witness."
+        "Text": "I already have the most precious thing in the world. Guess I'll... wash my hands of my old business, right now, in front of you."
     },
     "11130217": {
         "Sinner": "Tetra",
