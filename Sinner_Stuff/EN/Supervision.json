@@ -2705,6 +2705,144 @@
             }
         }
     },
+    "1030901": {
+        "ID Num": 1030901,
+        "Event Title": "'++* ⚠ The Vanishing Cafeteria",
+        "Event Desc": "Graves has prepared a surprise for everyone.",
+        "Sinner": "Graves",
+        "Text": {
+            "Text 1": "Graves spent the entire night transforming the dining tables into a wedding setup. Several Sinners thought they had taken a wrong turn, and while searching for the cafeteria, they ended up missing mealtime altogether.",
+            "Choice 2": "If you want to change the decorations, just let us know."
+        }
+    },
+    "1030902": {
+        "ID Num": 1030902,
+        "Event Title": "'++* ⚠ Spooky Sweets",
+        "Event Desc": "Graves has requested permission to use the kitchen.",
+        "Sinner": "Graves",
+        "Text": {
+            "Text 1": "Graves has started learning how to make desserts. Her creations are deliciously sweet, but terrifying in appearance. The finger cookies and eyeball jellies have become particularly popular.",
+            "Choice 2": "Praise and suggest serving these desserts at the end of October"
+        }
+    },
+    "1030911": {
+        "ID Num": 1030911,
+        "Event Title": "'++* ⚠⚠ One-of-a-Kind",
+        "Event Desc": "Graves seems to be secretly preparing something.",
+        "Sinner": "Graves",
+        "Text": {
+            "Text 1": "Since moving into the Bureau, Graves has learned about wedding customs from various places. Now, she's decided to design a unique wedding ceremony for people to use in weddings that she officiates.",
+            "Text 2": "Graves: Chief, look at my latest design!",
+            "Choice 3": "View",
+            "Text 4": "Chief: This is... a swimming pool? Wedding?",
+            "Text 5": "Graves: Yes! All weddings are held on land, and no matter how creative the decorations are, it's hard to truly make a breakthrough.",
+            "Text 6": "Graves: Actually, yesterday I saw a swimming pool in your photo album... Was it some kind of party? I've never seen a wedding like that before—lively, refreshing, yet still romantic. We could have floating decorations on the water's surface, with laughing guests surrounded by snacks and drinks. The bride's wedding dress could even be designed like a swimsuit!",
+            "Text 7": "Chief: It does sound quite interesting.",
+            "Text 8": "Graves: Hehe, you really do understand me, don't you?",
+            "Choice 9": "Raise question",
+            "Text 10": "Chief: It's just that...",
+            "Text 11": "Graves: What's on your mind, dear?",
+            "Text 12": "Chief: When walking down the aisle, should the bride and groom swim or wade slowly through the pool?",
+            "Text 13": "Graves: Hmm, that's a tough decision. Looks like my wedding plan still needs some refinement!"
+        }
+    },
+    "1030912": {
+        "ID Num": 1030912,
+        "Event Title": "'++* ⚠⚠ Shrill Screams",
+        "Event Desc": "You encounter Graves on your way to watch a movie.",
+        "Sinner": "Graves",
+        "Text": {
+            "Text 1": "Graves: Chief, it's so late! Are you working overtime?",
+            "Text 2": "Chief: Someone invited me to watch a horror movie.",
+            "Text 3": "Chief: I've turned down their invitation several times already, but this time I couldn't get out of it.",
+            "Text 4": "Graves: Horror movies... are they those really scary films?",
+            "Text 5": "Graves: I watched one by myself once, and the content was... too scary...",
+            "Choice 6": "Invite her",
+            "Text 7": "Chief: Watching alone can definitely be scary, but this time we'll have a group of people. Would you like to give it another try?",
+            "Text 8": "Graves: Okay... watching together should make it less frightening, right...?",
+            "Text 9": "The movie begins. As the blood-red title fades away, a woman stumbles through a dark cemetery, completely unaware of what's happening beneath her feet—a pale hand bursts through the soil!",
+            "Text 10": "Graves: Aaahhh!",
+            "Text 11": "Sinners: What was that?!",
+            "Text 12": "Sinners: Aaaahh! A ghost! There's a real ghost in here!",
+            "Text 13": "Graves: Aaaaah! Darling! They're saying there's a ghost here... I'm scared, where is it oh no oh no...",
+            "Choice 14": "Calm the crowd",
+            "Text 15": "Chief: There's no ghost, none at all! You're all just scaring each other. Everyone calm down, please..."
+        }
+    },
+    "1030921": {
+        "ID Num": 1030921,
+        "Event Title": "'++* ⚠⚠⚠ Midnight Melody",
+        "Event Desc": "Eerie piano music can always be heard echoing throughout the Bureau at midnight.",
+        "Sinner": "Graves",
+        "Text": {
+            "Text 1": "Graves often plays the pipe organ in the Recreation Area. She can effortlessly perform wedding marches that sound beautifully melodious.\nBut recently, you realize you haven't heard her play for quite some time.",
+            "Choice 2": "Investigate the situation",
+            "Text 3": "You arrive at the Recreation Area at midnight and hear intermittent music coming from the music room. Whoever is inside seems to be struggling with a complex musical passage, practicing it over and over again.",
+            "Text 4": "Chief: Are you practicing a new piece?",
+            "Text 5": "Graves: Chief, what brings you here... I'm practicing a new dance piece, but it's not going very well. It's so late, did my practice startle you?",
+            "Text 6": "Chief: Not at all. Just keep practicing at your own pace. It takes time to master any skill.",
+            "Text 7": "Graves: That... yes, you're right. It makes me happy to hear you say that.",
+            "Text 8": "Chief: Why did you suddenly start learning new pieces?",
+            "Text 9": "Graves: I heard that in some places, there's a tradition where the bride and groom dance together after the wedding ceremony... So I thought learning dance music would be something a proper wedding officiant should know.",
+            "Text 10": "Graves: It's just that these dance pieces are harder to learn than I expected... How can I make my playing more lively and spirited...",
+            "Path 1": {
+                "Choice 11": "Keep her company while she practices",
+                "Text 12": "Chief: I'll practice with you. Is there anything I can help you with?",
+                "Text 13": "Graves: Hehe, just having you sit beside me, Chief, is the greatest support I could ask for.",
+                "Text 14": "You feel Graves cautiously shifting her body a little closer to you.",
+                "Text 15": "Graves: Thank you... I can feel it again, your warmth..."
+            },
+            "Path 2": {
+                "Choice 16": "Offer assistance",
+                "Text 17": "Chief: This piece is meant for the piano. It would be much easier to master on a piano, especially the staccato notes. I'll authorize access for you to the piano room.",
+                "Text 18": "Graves: Piano... so that's the answer. If you hadn't pointed that out, I would have struggled with this for ages.",
+                "Text 19": "Chief: It's perfectly normal to not know. Don't be too hard on yourself.",
+                "Text 20": "Graves: Thank you, Chief. You're always so kind!"
+            }
+        }
+    },
+    "1030922": {
+        "ID Num": 1030922,
+        "Event Title": "'++* ⚠⚠⚠ Midnight Mystery",
+        "Event Desc": "After finishing work, you run into Graves on your way back to your room.",
+        "Sinner": "Letta",
+        "Text": {
+            "Text 1": "Supervision System:\nSinner detected staying in the Recreation Area for a long time. Go and check?",
+            "Choice 2": "Yes",
+            "Text 3": "You follow the system's guidance to the Recreation Area, where you spot Graves in a standoff with a small blue light in the darkness.",
+            "Text 4": "Graves: Chief, don't come any closer! There's a strange lamp here that's laughing.",
+            "Text 5": "Chief: It's okay...",
+            "Text 6": "Graves: It's not a type of ghost I'm familiar with. I don't understand why it's just hovering in the middle of the hallway, blocking the path and not letting anyone through...",
+            "Text 7": "Chief: Is that...",
+            "Text 8": "Graves: Chief, if it suddenly makes any strange movements, don't worry about me—just run! I won't let it hurt you! Although... it doesn't seem particularly aggressive...",
+            "Text 9": "Letta: Hmph!",
+            "Text 10": "Graves: Oh? It can get angry too! Is it getting worked up now?",
+            "Path 1": {
+                "Choice 11": "Reveal the truth",
+                "Text 12": "Chief: You should know this lantern pretty well. Come on, Letta. Enough with the pranks.",
+                "Text 13": "Letta: Hehe, I wasn't done having fun yet! Why won't you play along, Chief?",
+                "Text 14": "Chief: What if something goes wrong while you're playing around? No more scaring people like this. You should know when to stop.",
+                "Text 15": "Graves: Letta? So it wasn't a strange ghost after all. Hehe, do you also enjoy wandering these halls at night?",
+                "Text 16": "Chief: If you encounter anything like this again, you can contact me directly. This is MBCC, it shouldn't be so easy for unknown entities to infiltrate this place.",
+                "Text 17": "Graves: Then who is that man standing behind Letta?",
+                "Text 18": "Chief: ...",
+                "Text 19": "Graves: Just kidding! You look so adorable when you're nervous, my dear!"
+            },
+            "Path 2": {
+                "Choice 20": "Come with me",
+                "Text 21": "You grab Graves's hand and run away as the blue lantern, giggling, quickly follows you both around the hallway corner.",
+                "Text 22": "Chief: Stop, right here. Put on your scariest face, the one you use to frighten children who break the church windows.",
+                "Text 23": "Graves: Huh? Alright, I'll try...",
+                "Text 24": "Letta: !!!",
+                "Text 25": "With a startled \"pfft,\" the lantern deflates like a punctured balloon, revealing its true form.",
+                "Text 26": "Letta: Oh my gosh, you got me! Since when does the Chief play pranks? I must say, Miss Graves, you're a natural at scaring people!",
+                "Text 27": "Graves: Ah... so it's Letta! This is the first time I've seen your lantern...",
+                "Text 28": "Letta: Miss Graves! Please teach me your secrets! It's been ages since anyone has scared me like that!",
+                "Text 29": "Graves: ...Of course, I can. I'd be honored to.",
+                "Text 30": "Chief: ...You two need to know when to stop with the scares."
+            }
+        }
+    },
     "1040101": {
         "ID Num": 1040101,
         "Event Title": "'++* ⚠ Summer Stringy Special",
@@ -7151,6 +7289,104 @@
                 "Text 24": "Dove: Well, if you insist, Chief... Would you mind applying some oil to the cleaned chain?",
                 "Text 25": "You spend the entire afternoon working together, finally finishing cleaning the bike.",
                 "Text 26": "As the sun sets, Dove rides her freshly reassembled bicycle across the grass, waving at you with a smile that makes her look like a free little dove."
+            }
+        }
+    },
+    "1111001": {
+        "ID Num": 1111001,
+        "Event Title": "'++* ⚠ False Advertising",
+        "Event Desc": "Protective talismans can be seen everywhere in the Bureau lately.",
+        "Sinner": "Luminita",
+        "Text": {
+            "Text 1": "Luminita sells various protective talismans at the Bureau. She claims that hanging them on doors and windows, or keeping them locked in a drawer with property deeds, will increase property values.\nThe increase is supposedly proportionate to how many of Luminita's talismans you purchase.",
+            "Choice 2": "Prohibit Luminita from false advertising"
+        }
+    },
+    "1111002": {
+        "ID Num": 1111002,
+        "Event Title": "'++* ⚠ Mega Sale!",
+        "Event Desc": "Since Luminita joined, promotions at the Bureau Shop have doubled.",
+        "Sinner": "Luminita",
+        "Text": {
+            "Text 1": "You've noticed that after each meeting between Luminita and Faye, the shop starts featuring more \"special offers\" with increasingly persuasive sales pitches.",
+            "Choice 2": "Calmly shut down the shop's advertisements"
+        }
+    },
+    "1111003": {
+        "ID Num": 1111003,
+        "Event Title": "'++* ⚠ Distinguished Appearance",
+        "Event Desc": "Luminita is a beret enthusiast.",
+        "Sinner": "Luminita",
+        "Text": {
+            "Text 1": "Luminita's closet contains an astonishing number of berets.\nEach day, she wears a different one. While these berets have subtle variations in patterns and materials, they are all, without exception, impeccably maintained.",
+            "Choice 2": "The berets all look lovely, they suit you perfectly."
+        }
+    },
+    "1111011": {
+        "ID Num": 1111011,
+        "Event Title": "'++* ⚠⚠ Item Development",
+        "Event Desc": "You invite Luminita to your office.",
+        "Sinner": "Luminita",
+        "Text": {
+            "Text 1": "Luminita: Hey Chief! What can I do for you today?",
+            "Choice 2": "Hand the complaint emails to Luminita",
+            "Text 3": "Chief: I've been receiving numerous complaints from Eastian Sinners that you've been following them during their daily activities. It's starting to disrupt their normal lives.",
+            "Text 4": "Luminita: Disrupting them? I'm so sorry! I never meant to bother our Eastian friends. I was just testing whether my talismans would work properly.",
+            "Text 5": "Luminita: After all, a top-notch real estate agent must keep up with the times! What if clients from Eastia need my professional expertise in the future?",
+            "Choice 6": "Question her",
+            "Text 7": "Chief: I doubt your talismans would even work on DisCity's local ghosts, let alone those from elsewhere.",
+            "Text 8": "Luminita: Absolutely not! If they didn't work, I would have lost my reputation as DisCity's premier haunted house agent ages ago.",
+            "Text 9": "Luminita: I've even conducted surveys with several Eastian clients. They reported experiencing rapid heartbeats, dizziness, and tightness of the chest when I presented my talismans... Some even said they went to bed several minutes later than usual!",
+            "Text 10": "Chief: Eastians are generally very polite. Maybe they just didn't want to disappoint you.",
+            "Text 11": "Luminita: Hmph, polite or not, customer feedback is always the most honest feedback. If my customers say it works, then it works!",
+            "Text 12": "Luminita: If you'd be willing to invest in my new talisman development, Chief, I could offer you a special discount on future purchases!"
+        }
+    },
+    "1111012": {
+        "ID Num": 1111012,
+        "Event Title": "'++* ⚠⚠ Well-Read",
+        "Event Desc": "Luminita has fallen in love with the library.",
+        "Sinner": "Luminita",
+        "Text": {
+            "Text 1": "Luminita frequently visits the library to borrow books about various places' cultures and language learning materials.",
+            "Text 2": "Chief: Are you interested in the languages and cultures of other places?",
+            "Text 3": "Luminita: Absolutely! In a cosmopolitan metropolis like DisCity, how could I possibly provide the best service to my customers without learning the languages and cultures of other places?",
+            "Text 4": "Luminita: It's just that the Bureau's library collection is rather limited. Why not authorize my trip to the DisCity public library to borrow some books, Chief? I'll be quick about it—in and out, promise! And I'll make sure nobody thinks you're giving me special treatment.",
+            "Choice 5": "Question her motives",
+            "Text 6": "Chief: What foreign languages have you studied? Can you demonstrate some for me?",
+            "Text 7": "Luminita: Uh... that's a trade secret. Here, I'll whisper in your ear.",
+            "Text 8": "Chief: ...These all sound like incantations for warding off evil spirits?",
+            "Text 9": "Luminita: Exactly, which is why they can't be spoken carelessly. These incantations are extremely powerful, and there are taboos against reciting them casually. Now, about my request to visit the library...",
+            "Text 10": "Chief: Once you've properly mastered the basics, I'll consider approving your request to leave the Bureau."
+        }
+    },
+    "1111021": {
+        "ID Num": 1111021,
+        "Event Title": "'++* ⚠⚠⚠ Home Away From Home",
+        "Event Desc": "You're overwhelmed by the flood of room change request emails.",
+        "Sinner": "Luminita",
+        "Text": {
+            "Text 1": "You have a new email: Application for room change.\nYou have a new email: Chief! I need a new room!\nYou have a new email: Chief, although it's only been a week since my last room change, I really need to move to a new room as soon as possible...",
+            "Choice 2": "Confront the troublemaker",
+            "Text 3": "Chief: Luminita, I've been getting constant room change requests lately. Have you been encouraging everyone to switch rooms?",
+            "Text 4": "Luminita: Chief! I was just about to talk to you about this very issue.",
+            "Text 5": "Luminita: I've been recommending new rooms to all the Sinners based on their living habits. Business is booming, with a 100% customer satisfaction rate!",
+            "Text 6": "Luminita: It's just that a few clients are rather picky, they want to try out all the room options I've recommended before deciding where to settle down.",
+            "Text 7": "Luminita: All these room change requests must be creating so much extra work for you, Chief! So I thought, why not delegate the authority and approval process to me? I promise! I'll handle everything perfectly! Everyone will be comfortable and satisfied, making the Bureau feel like home!",
+            "Path 1": {
+                "Choice 8": "No.",
+                "Text 9": "Luminita: Actually, Chief, I also have some excellent recommendations for your office.",
+                "Text 10": "Luminita: A well-designed office can cut your fatigue in half, boost your productivity, supercharge your career fortunes, and double your chances of promotion and pay raises!",
+                "Text 11": "Chief: No. Every room assignment goes through the Bureau's planning and approval process. They can't be changed on a whim.",
+                "Text 12": "Luminita: What a shame! But if you ever change your mind, Chief, please come find me anytime! I'll arrange everything according to your personal preferences."
+            },
+            "Path 2": {
+                "Choice 13": "Hand over the keys.",
+                "Text 14": "Luminita: Hand over what? What are you talking about, Chief? Have you been possessed by a spirit that's making you talk nonsense?",
+                "Text 15": "Chief: You're a little too knowledgeable about the details of my office and quarters. Have you already made copies of my keys?",
+                "Text 16": "Luminita: What keys? I have no idea what you're talking about! But look, I brought gifts for you, Chief—a bracelet made from lightning-struck wood and an amethyst figurine. Both are excellent for warding off evil spirits. Which one do you prefer? Oh, who am I kidding? They're both for you!",
+                "Text 17": "Chief: The staff members you've been bribing with these trinkets have already told me everything. Hand over the keys now, Luminita, and I'll let this slide for now.",
+                "Text 18": "Luminita: As expected of our Chief, so fair and impartial! The keys will be delivered shortly. Hehe, I'll be on my way then! Do take care of yourself, Chief!"
             }
         }
     },

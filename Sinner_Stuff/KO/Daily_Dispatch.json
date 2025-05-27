@@ -2870,6 +2870,58 @@
             "Reward Qty": "1.0"
         }
     },
+    "166": {
+        "Id": 1052001,
+        "Quality": "Purple",
+        "DispatchTitle": "독특한 결혼식",
+        "DispatchDescription": "신성의 어느 귀족 집안 아가씨는 독특한 취미로 이름이 높았다. 최근 약혼한 그녀는 오컬트 테마의 결혼식을 원했고, 이는 수많은 웨딩 플래너들을 난처하게 했다. 이 소식을 들은 한 수감자가 큰 흥미를 보였다.",
+        "DispatchSinners": {
+            "Sinner": "그레이브"
+        },
+        "BaseAward": {
+            "Reward Item": "오염된 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        }
+    },
+    "167": {
+        "Id": 1052002,
+        "Quality": "Green",
+        "DispatchTitle": "주택 개조",
+        "DispatchDescription": "한 부동산 업체가 여러 개의 흉가 매물을 가지고 있었는데, 아무리 노력해도 팔리지 않아 흉가 매물을 처리해 주는 사람에게 후한 보상을 주겠다고 약속했다. 이 소식을 들은 한 수감자가 적극적으로 이에 지원했다.",
+        "DispatchSinners": {
+            "Sinner": "루미니타"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "겉날개 파편",
+            "Reward Qty": "1.0"
+        }
+    },
+    "168": {
+        "Id": 1052003,
+        "Quality": "Blue",
+        "DispatchTitle": "공포 전문가",
+        "DispatchDescription": "최근 신성의 한 유명 감독이 차기 공포 영화 제작을 공식 발표했고 현재 기괴한 현상에 대해 잘 알고 있는 전문가를 급히 모집하고 있다.",
+        "DispatchSinners": {
+            "Sinner 1": "루미니타",
+            "Sinner 2": "레타"
+        },
+        "BaseAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 겉날개",
+            "Reward Qty": "1.0"
+        }
+    },
     "176": {
         "Id": 1099001,
         "Quality": "Green",

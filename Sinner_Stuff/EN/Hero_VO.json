@@ -1201,6 +1201,54 @@
         "File": "vo_moore_promotion_001",
         "Text": "The system is upgraded and your firewall is more reliable now."
     },
+    "110105100": {
+        "Sinner": "Moore",
+        "Title": "Attire Obtained",
+        "File": "vo_moore_luowangbiri_cacha_001",
+        "Text": "Let me see, who's the little mouse that has walked into my web... Heh, it's you. Don't be impatient. Once I finish what I'm doing here, I'll take my time playing with you."
+    },
+    "110105101": {
+        "Sinner": "Moore",
+        "Title": "Level Up",
+        "File": "vo_moore_luowangbiri_levelup_001",
+        "Text": "Did you hear that? Doomsday is one step closer."
+    },
+    "110105102": {
+        "Sinner": "Moore",
+        "Title": "Greeting",
+        "File": "vo_moore_luowangbiri_greeting_001",
+        "Text": "It seems you never tire of playing cat and mouse. This time, who is the hunter, and who is the prey?"
+    },
+    "110105103": {
+        "Sinner": "Moore",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_moore_luowangbiri_body_001",
+        "Text": "Enjoy the peace of DisCity while you can—it's our gift to you. However... this peaceful illusion will soon reach its end."
+    },
+    "110105104": {
+        "Sinner": "Moore",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_moore_luowangbiri_body_002",
+        "Text": "You did destroy the dark web with your own hands... Unfortunately, in the Underground, deceiving death is all too common. See? Even I have \"returned from the dead.\""
+    },
+    "110105105": {
+        "Sinner": "Moore",
+        "Title": "Idle",
+        "File": "vo_moore_luowangbiri_idle_001",
+        "Text": "It's true that staying in such a dark place makes it easy to get sleepy... Let me have another cup of coffee."
+    },
+    "110105106": {
+        "Sinner": "Moore",
+        "Title": "Annoyed",
+        "File": "vo_moore_luowangbiri_clicking_001",
+        "Text": "Heh, you're already caught in my web with no strength to struggle, yet you still approach willingly... Should I call you fearless, or simply foolish?"
+    },
+    "110105107": {
+        "Sinner": "Moore",
+        "Title": "Special Attention",
+        "File": "vo_moore_luowangbiri_specialattention_001",
+        "Text": "I like how you never learn your lesson, always charging in recklessly... Come then, no matter how many times you try, I'll be waiting for you."
+    },
     "11010601": {
         "Sinner": "Yugu",
         "Title": "Obtain the Sinner",
@@ -4285,6 +4333,66 @@
         "File": "vo_mantis_promotion_001",
         "Text": "You like it? This new, more powerful form of mine."
     },
+    "110305100": {
+        "Sinner": "Mantis",
+        "Title": "Attire Obtained",
+        "File": "vo_mantis_shenlinbangying_cacha_001",
+        "Text": "Sailing on a small boat across swamps, forests, and mists to reach an orchard of trees laden with ripe fruit—this fairy realm kissed by the fae has never been seen by human eyes... and yet, you still found me."
+    },
+    "110305101": {
+        "Sinner": "Mantis",
+        "Title": "Level Up",
+        "File": "vo_mantis_shenlinbangying_levelup_001",
+        "Text": "The heavy, ripe fruit has fallen into your embrace."
+    },
+    "110305102": {
+        "Sinner": "Mantis",
+        "Title": "Greeting",
+        "File": "vo_mantis_shenlinbangying_greeting_001",
+        "Text": "Whenever I see you, I'm reminded of that time we jumped into the rushing stream together... Care to relive that moment? Here, give me your hand, let's jump in together."
+    },
+    "110305103": {
+        "Sinner": "Mantis",
+        "Title": "Pat Head",
+        "File": "vo_mantis_shenlinbangying_head_001",
+        "Text": "How dare you touch a fae's ears? So impertinent... Ahem, I'm only blushing because my power is leaking out a little..."
+    },
+    "110305104": {
+        "Sinner": "Mantis",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_mantis_shenlinbangying_body_001",
+        "Text": "You once said that at journey's end lies crystal-clear waters, branches heavy with apples, and endless bounties of food and grapes, but... without you there, even if I reached such a paradise, all that beauty... would simply fade away..."
+    },
+    "110305105": {
+        "Sinner": "Mantis",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_mantis_shenlinbangying_body_002",
+        "Text": "This bowed apple branch heavy with fruit... is a talisman that guides humans to this place... Take it, so when you seek for me again, you won't lose your way..."
+    },
+    "110305106": {
+        "Sinner": "Mantis",
+        "Title": "Ordinary Contact 3",
+        "File": "vo_mantis_shenlinbangying_leg_001",
+        "Text": "Legend tells of a fae who ended her journey by taking an apple and sinking beneath the waters. Under her nurturing, the plump seeds sprouted and grew into towering trees, their branches budding with flowers from which countless new versions of herself were born... Such is the way of forest spirits..."
+    },
+    "110305107": {
+        "Sinner": "Mantis",
+        "Title": "Ordinary Contact 4",
+        "File": "vo_mantis_shenlinbangying_arm_001",
+        "Text": "Living freely in the forest like a fae... So that's your wish? Well then... hold me tight and don't let go, I'll take you for a flight!"
+    },
+    "110305108": {
+        "Sinner": "Mantis",
+        "Title": "Idle",
+        "File": "vo_mantis_shenlinbangying_idle_001",
+        "Text": "The sound of wings fluttering through the trees, accompanied by flowing streams and frog songs... Sleep peacefully, and may the forest grant you sweet dreams..."
+    },
+    "110305109": {
+        "Sinner": "Mantis",
+        "Title": "Special Attention",
+        "File": "vo_mantis_shenlinbangying_specialattention_001",
+        "Text": "There's no one else here, just our silhouettes reflected in the water... and... the two of us, in each other's eyes..."
+    },
     "11030601": {
         "Sinner": "Angell",
         "Title": "Obtain the Sinner",
@@ -4778,6 +4886,192 @@
         "Title": "Special Attention",
         "File": "vo_zero_yidumonv_specialattention_001",
         "Text": "Now that you've entered the Pythoness's dimension, you must be prepared to stay with me forever, right? Not a word? Cool, I will take it as a yes."
+    },
+    "11030901": {
+        "Sinner": "Graves",
+        "Title": "Obtain the Sinner",
+        "File": "vo_graves_cacha_001",
+        "Text": "The vow has been made. From now on, we are partners... Does this mean I can stay here in this new home with you? We'll share meals, dance together, count the stars, and enjoy all the little joys of life? Never to be apart again?"
+    },
+    "11030902": {
+        "Sinner": "Graves",
+        "Title": "Raise to Phase 1",
+        "File": "vo_graves_promotion_001",
+        "Text": "I will cherish your blessing dearly, for our eternal bond."
+    },
+    "11030903": {
+        "Sinner": "Graves",
+        "Title": "Raise to Phase 3",
+        "File": "vo_graves_promotion2_001",
+        "Text": "I make this vow, to love and cherish you always, for better, for worse, for richer, for poorer, in sickness and in health, in joy and in sadness, in good times and bad."
+    },
+    "11030904": {
+        "Sinner": "Graves",
+        "Title": "Level Start",
+        "File": "vo_graves_battlebegin_001",
+        "Text": "Let us gather to witness this grand wedding."
+    },
+    "11030905": {
+        "Sinner": "Graves",
+        "Title": "Victory",
+        "File": "vo_graves_battlewin_001",
+        "Text": "Will you stay next to me like this forever? I want to be the one to support and protect you as well."
+    },
+    "11030906": {
+        "Sinner": "Graves",
+        "Title": "Lose Battles",
+        "File": "vo_graves_battlelose_001",
+        "Text": "So even promises wither away..."
+    },
+    "11030907": {
+        "Sinner": "Graves",
+        "Title": "Ultimate Skill",
+        "File": "bt_graves_uniqueskill_001",
+        "Text": "Love and pain are intertwined."
+    },
+    "11030908": {
+        "Sinner": "Graves",
+        "Title": "Die in Battles",
+        "File": "bt_graves_dead_001",
+        "Text": "Till death... do us part..."
+    },
+    "11030909": {
+        "Sinner": "Graves",
+        "Title": "Greeting",
+        "File": "vo_graves_greeting_001",
+        "Text": "I adore this little ritual... welcoming a loved one home with the softest, most devoted gaze. If only you could look at me that way too..."
+    },
+    "11030910": {
+        "Sinner": "Graves",
+        "Title": "Conversation 1",
+        "File": "vo_graves_talk1_001",
+        "Text": "Why do you think people exchange rings? I guess perhaps it's to make promises tangible. That way... they won't easily disappear."
+    },
+    "11030911": {
+        "Sinner": "Graves",
+        "Title": "Conversation 2",
+        "File": "vo_graves_talk1_002",
+        "Text": "What's the world like outside this castle? I used to hear guests say that in Eastside, the air smells like money and the streets are paved with gold, and even cats and dogs can sing... Is all of that true?"
+    },
+    "11030912": {
+        "Sinner": "Graves",
+        "Title": "Conversation 3",
+        "File": "vo_graves_talk1_003",
+        "Text": "I wonder what happened to all those newlyweds joined in matrimony before the god of love? They all made their vows with such sincerity and affection... Surely they must all have lived happily ever after, right?"
+    },
+    "11030913": {
+        "Sinner": "Graves",
+        "Title": "Special Conversation 1",
+        "File": "vo_graves_talk2_001",
+        "Text": "There used to be a large pipe organ in the castle. The organist taught me how to play and I would help out at weddings when he was away... That's how I participated in the most important moments of some people's lives. It didn't matter that no one saw me or thanked me. I was just happy to help in my own small way."
+    },
+    "11030914": {
+        "Sinner": "Graves",
+        "Title": "Special Conversation 2",
+        "File": "vo_graves_talk2_002",
+        "Text": "The bride's bouquet toss represents blessings and new beginnings. They say whoever catches it will soon find their own happiness. Though I was never welcome at weddings, I always hid behind the door and watched the delighted faces of those who caught the flowers. I couldn't help but smile along... I can barely imagine how wonderful it would feel if I could catch one myself just once."
+    },
+    "11030915": {
+        "Sinner": "Graves",
+        "Title": "Special Conversation 3",
+        "File": "vo_graves_talk2_003",
+        "Text": "I've never actually tried it, but maybe... I could make a decent wedding officiant? I mean, I'm familiar with DisCity's wedding ceremonies, and even the Outland ones. Have you... ever imagined what kind of wedding you'd have?"
+    },
+    "11030916": {
+        "Sinner": "Graves",
+        "Title": "Full Compliance",
+        "File": "vo_graves_obeyfull_001",
+        "Text": "I once believed that simply by wearing this wedding dress, I could find true love and happiness, just like those other brides. But with you here, I'm beginning to understand that true happiness doesn't come from wedding dresses or ceremonies. It's something deeper from within... I still can't grasp it fully yet. Would you be willing to teach me more?"
+    },
+    "11030917": {
+        "Sinner": "Graves",
+        "Title": "Idle",
+        "File": "vo_graves_idle_001",
+        "Text": "From the grave she rises, frost upon her wedding dress. The vows have decayed, her beloved eternally in rest..."
+    },
+    "11030918": {
+        "Sinner": "Graves",
+        "Title": "Annoyed",
+        "File": "vo_graves_clicking_001",
+        "Text": "Your hand is so warm. Is this the warmth lovers feel when they touch each other?"
+    },
+    "11030919": {
+        "Sinner": "Graves",
+        "Title": "Special Attention",
+        "File": "vo_graves_specialattention_001",
+        "Text": "I always thought such a tender gaze was reserved only for the exchange of wedding vows... Only you look at me this way, as if I were a normal person and not some terrifying monster."
+    },
+    "11030920": {
+        "Sinner": "Graves",
+        "Title": "Dispatch",
+        "File": "vo_graves_dispatch_001",
+        "Text": "One must never be late for a wedding. Not a single precious moment should be missed."
+    },
+    "11030921": {
+        "Sinner": "Graves",
+        "Title": "Dispatch Complete",
+        "File": "vo_graves_dispatch2_001",
+        "Text": "Here, this is a wedding favor I brought back from the ceremony... It symbolizes the most beautiful blessings. Take it please, will you?"
+    },
+    "11030922": {
+        "Sinner": "Graves",
+        "Title": "Level Up",
+        "File": "vo_graves_levelup_002",
+        "Text": "Is this your pledge to me?"
+    },
+    "11030923": {
+        "Sinner": "Graves",
+        "Title": "Pat Head",
+        "File": "vo_graves_head_001",
+        "Text": "You lifted my veil and saw how hideous I am... B-but even so, would you still be willing to give me a kiss?"
+    },
+    "11030924": {
+        "Sinner": "Graves",
+        "Title": "Join Team",
+        "File": "bt_graves_jointeam_001",
+        "Text": "The music has started. Dear guests, please proceed to your seats."
+    },
+    "11030925": {
+        "Sinner": "Graves",
+        "Title": "Danger!",
+        "File": "bt_graves_danger_001",
+        "Text": "N/A"
+    },
+    "11030926": {
+        "Sinner": "Graves",
+        "Title": "Received Order",
+        "File": "bt_graves_getorder_001",
+        "Text": "N/A"
+    },
+    "11030927": {
+        "Sinner": "Graves",
+        "Title": "Attacked",
+        "File": "bt_graves_gethit_001_1",
+        "Text": "N/A"
+    },
+    "11030928": {
+        "Sinner": "Graves",
+        "Title": "Normal Attack",
+        "File": "bt_graves_skill_001_1",
+        "Text": "N/A"
+    },
+    "11030929": {
+        "Sinner": "Graves",
+        "Title": "Doubt",
+        "File": "vo_graves_doubt_001",
+        "Text": "N/A"
+    },
+    "11030930": {
+        "Sinner": "Graves",
+        "Title": "Shock",
+        "File": "vo_graves_shock_001",
+        "Text": "N/A"
+    },
+    "11030931": {
+        "Sinner": "Graves",
+        "Title": "Upgrade Skill",
+        "File": "vo_graves_promotion_001",
+        "Text": "I will cherish your blessing dearly, for our eternal bond."
     },
     "11040101": {
         "Sinner": "Summer",
@@ -6904,6 +7198,54 @@
         "Title": "Upgrade Skill",
         "File": "vo_korryn_promotion_001",
         "Text": "Fair and square? You must be kidding. This is a \"duel\", y'know what I'm saying?"
+    },
+    "110408100": {
+        "Sinner": "Korryn",
+        "Title": "Attire Obtained",
+        "File": "vo_korryn_huangjinku_cacha_001",
+        "Text": "Not bad, finding this place. You've got some skill. Just thirty seconds ago, this was a WhiteSands bandit treasure den. Now—it's Tuco territory."
+    },
+    "110408101": {
+        "Sinner": "Korryn",
+        "Title": "Level Up",
+        "File": "vo_korryn_huangjinku_levelup_001",
+        "Text": "The best things always fall right into my lap."
+    },
+    "110408102": {
+        "Sinner": "Korryn",
+        "Title": "Greeting",
+        "File": "vo_korryn_huangjinku_greeting_001",
+        "Text": "Oh? How surprising... the winds of this underground cavern rarely drag in such a distinguished guest. Tell me, Chief—are you here to be my big, juicy prize, or to become my partner in crime?"
+    },
+    "110408103": {
+        "Sinner": "Korryn",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_korryn_huangjinku_body_001",
+        "Text": "Those petty desert bandits... risking their lives for treasure only to hide it away, letting it waste away in the sands. What a shame... Fortunately, these precious things found their way to me. I'd say they've finally found a proper home."
+    },
+    "110408104": {
+        "Sinner": "Korryn",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_korryn_huangjinku_body_002",
+        "Text": "Not to brag, but with this big fella and my furs, just sitting here is enough to keep every desert bandit and outlaw at bay... Oh, and don't forget to keep your MBCC badge out on your jacket."
+    },
+    "110408105": {
+        "Sinner": "Korryn",
+        "Title": "Idle",
+        "File": "vo_korryn_huangjinku_idle_001",
+        "Text": "Hey Sheriff, before these gold coins get confiscated, let me get you fitted with a gold chain. Then you'll be the most dazzling lizard in all of WhiteSands!"
+    },
+    "110408106": {
+        "Sinner": "Korryn",
+        "Title": "Annoyed",
+        "File": "vo_korryn_huangjinku_clicking_001",
+        "Text": "Darling, according to the rules, before you get handsy with me, you have to say \"Please, Boss Korryn, I'm begging you.\" Hmm? Since when is that a rule? Since I made it up just now!"
+    },
+    "110408107": {
+        "Sinner": "Korryn",
+        "Title": "Special Attention",
+        "File": "vo_korryn_huangjinku_specialattention_001",
+        "Text": "Oho, you're so forward darling! Did you want to have a heart-to-heart with me, or maybe—something more adult? I'm talking about splitting these treasures, of course. What on earth did you think I meant?"
     },
     "11050101": {
         "Sinner": "Eirene",
@@ -13012,6 +13354,186 @@
         "Title": "Upgrade Skill",
         "File": "vo_dove_promotion_001",
         "Text": "These letters carry everyone's wishes... I'll do my best to deliver them as quickly as I can."
+    },
+    "11111001": {
+        "Sinner": "Luminita",
+        "Title": "Obtain the Sinner",
+        "File": "vo_luminita_cacha_001",
+        "Text": "Wow, a studio with an open layout and excellent property management... Sounds amazing! Interested in selling? Renting perhaps? Oops... property transactions aren't allowed in detention areas?"
+    },
+    "11111002": {
+        "Sinner": "Luminita",
+        "Title": "Raise to Phase 1",
+        "File": "vo_luminita_promotion_001",
+        "Text": "Sign here, make it official, and another property deal is in the books!"
+    },
+    "11111003": {
+        "Sinner": "Luminita",
+        "Title": "Raise to Phase 3",
+        "File": "vo_luminita_promotion2_001",
+        "Text": "What's so scary about a haunted house? Even ghosts got homes, while the living are left homeless—isn't that the real horror?"
+    },
+    "11111004": {
+        "Sinner": "Luminita",
+        "Title": "Level Start",
+        "File": "vo_luminita_battlebegin_001",
+        "Text": "Follow me! Don't worry, we won't run into any ghosts this time."
+    },
+    "11111005": {
+        "Sinner": "Luminita",
+        "Title": "Victory",
+        "File": "vo_luminita_battlewin_001",
+        "Text": "That's a wrap! Deals always go smoothly when I take you with me."
+    },
+    "11111006": {
+        "Sinner": "Luminita",
+        "Title": "Lose Battles",
+        "File": "vo_luminita_battlelose_001",
+        "Text": "I won't let you... take away the place where I belong again..."
+    },
+    "11111007": {
+        "Sinner": "Luminita",
+        "Title": "Ultimate Skill",
+        "File": "bt_luminita_uniqueskill_001",
+        "Text": "Stay put unless I tell you otherwise!"
+    },
+    "11111008": {
+        "Sinner": "Luminita",
+        "Title": "Die in Battles",
+        "File": "bt_luminita_dead_001",
+        "Text": "I wanna... go home..."
+    },
+    "11111009": {
+        "Sinner": "Luminita",
+        "Title": "Greeting",
+        "File": "vo_luminita_greeting_001",
+        "Text": "A rare, limited-time deal! One single house will satisfy all your thrilling fantasies. Chief, why be scared when you can be excited? Open your checkbook and seize the moment! Don't miss the chance!"
+    },
+    "11111010": {
+        "Sinner": "Luminita",
+        "Title": "Conversation 1",
+        "File": "vo_luminita_talk1_001",
+        "Text": "Can't sell an old, noisy house? No problem, let me help you rephrase that—well-established amenities, vibrant neighborhood, ultra-convenient lifestyle! Hey, how's that a lie? It's called sprucing up your pitch!"
+    },
+    "11111011": {
+        "Sinner": "Luminita",
+        "Title": "Conversation 2",
+        "File": "vo_luminita_talk1_002",
+        "Text": "Chief, your roommates say you keep the AC too cold at night. They all caught colds standing by your bed last night... No way! Don't tell me you didn't know about them?"
+    },
+    "11111012": {
+        "Sinner": "Luminita",
+        "Title": "Conversation 3",
+        "File": "vo_luminita_talk1_003",
+        "Text": "I've lived in many places. If I had to rank them... Hmm... That spot under the bridge was pretty nice. Excellent natural lighting, panoramic street views, and the city patrol woke me up every morning. Never had to worry about being late for work... Hahaha! I'm just kidding! You didn't actually believe that, did you?"
+    },
+    "11111013": {
+        "Sinner": "Luminita",
+        "Title": "Special Conversation 1",
+        "File": "vo_luminita_talk2_001",
+        "Text": "Those so-called haunted houses out there are mostly only marketing gimmicks. At worst, they're just old and in disrepair. But once a house falls into my hands... well, that's another story entirely."
+    },
+    "11111014": {
+        "Sinner": "Luminita",
+        "Title": "Special Conversation 2",
+        "File": "vo_luminita_talk2_002",
+        "Text": "Try to avoid the old neighborhoods if you want to buy a property. Where I lived, they argued for years about installing an elevator, and there was this huge hole in the building that nobody ever fixed. Eventually, that hole became home to some stray cats. They even had kittens there, all of them fed so well by the neighbors they grew up round and chubby. And after that... well, there's nothing more to tell. The building was demolished."
+    },
+    "11111015": {
+        "Sinner": "Luminita",
+        "Title": "Special Conversation 3",
+        "File": "vo_luminita_talk2_003",
+        "Text": "I love hearing the jingling of keys. When I open doors, walk down the street, or hand them over to clients, a whole bunch of keys shaking and jingling, never stopping. It sounds like... a loud, warm *welcome home*."
+    },
+    "11111016": {
+        "Sinner": "Luminita",
+        "Title": "Full Compliance",
+        "File": "vo_luminita_obeyfull_001",
+        "Text": "With you, a home becomes more than just a roof and a key... You are that sense of security I've lost for so long, making me dare to believe again that I have somewhere to return to. Make a deal with me! Stay by my side, so I can keep this peace of mind for a long, long time!"
+    },
+    "11111017": {
+        "Sinner": "Luminita",
+        "Title": "Idle",
+        "File": "vo_luminita_idle_001",
+        "Text": "Today's fortune: *Risk of losing money. Avoid going out*... That can't be right. How can a businesswoman like me buy into this kind of superstitious stuff? Let me try a different app."
+    },
+    "11111018": {
+        "Sinner": "Luminita",
+        "Title": "Annoyed",
+        "File": "vo_luminita_clicking_001",
+        "Text": "Hmm? All these keys in my coat belong to different houses. This one's owner got sick and died suddenly. This one has shadows lurking in the mirrors. That one has dismembered body parts hidden in... Hey, hey, let me finish!"
+    },
+    "11111019": {
+        "Sinner": "Luminita",
+        "Title": "Special Attention",
+        "File": "vo_luminita_specialattention_001",
+        "Text": "Need a talisman to keep your home safe and repel evil spirits? You're in luck! Check this out! Ugh... don't give me that look, I can't make it any cheaper. This is already the best deal I can offer."
+    },
+    "11111020": {
+        "Sinner": "Luminita",
+        "Title": "Dispatch",
+        "File": "vo_luminita_dispatch_001",
+        "Text": "Only interested in this one location? Don't you want to check out the other properties in the area?"
+    },
+    "11111021": {
+        "Sinner": "Luminita",
+        "Title": "Dispatch Complete",
+        "File": "vo_luminita_dispatch2_001",
+        "Text": "I'm back! Here's the financial breakdown for you. Much cheaper than before, isn't it?"
+    },
+    "11111022": {
+        "Sinner": "Luminita",
+        "Title": "Level Up",
+        "File": "vo_luminita_levelup_002",
+        "Text": "Great, leave this house to me!"
+    },
+    "11111023": {
+        "Sinner": "Luminita",
+        "Title": "Join Team",
+        "File": "bt_luminita_jointeam_001",
+        "Text": "Quick question: This thing I'm about to tie up, can I use it to spook up another house?"
+    },
+    "11111024": {
+        "Sinner": "Luminita",
+        "Title": "Danger!",
+        "File": "bt_luminita_danger_001",
+        "Text": "Be careful!"
+    },
+    "11111025": {
+        "Sinner": "Luminita",
+        "Title": "Received Order",
+        "File": "bt_luminita_getorder_001",
+        "Text": "I got this."
+    },
+    "11111026": {
+        "Sinner": "Luminita",
+        "Title": "Attacked",
+        "File": "bt_luminita_gethit_001_1",
+        "Text": "...Hngh!"
+    },
+    "11111027": {
+        "Sinner": "Luminita",
+        "Title": "Normal Attack",
+        "File": "bt_luminita_skill_001_1",
+        "Text": "...Hngh!"
+    },
+    "11111028": {
+        "Sinner": "Luminita",
+        "Title": "Doubt",
+        "File": "vo_luminita_doubt_001",
+        "Text": "Huh?"
+    },
+    "11111029": {
+        "Sinner": "Luminita",
+        "Title": "Be surprised",
+        "File": "vo_luminita_shock_001",
+        "Text": "Eh!"
+    },
+    "11111030": {
+        "Sinner": "Luminita",
+        "Title": "Upgrade Skill",
+        "File": "vo_luminita_promotion_001",
+        "Text": "Sign here, make it official, and another property deal is in the books!"
     },
     "11120101": {
         "Sinner": "Ninety-Nine",
@@ -20370,6 +20892,54 @@
         "Title": "Upgrade Skill",
         "File": "vo_olivier_promotion_001",
         "Text": "Rewards are only for good kids, right?"
+    },
+    "111505100": {
+        "Sinner": "Oliver",
+        "Title": "Attire Obtained",
+        "File": "vo_olivier_shiyuyuyin_cacha_001",
+        "Text": "I will cleanse everyone's sins with my singing. Oliver will purify your souls, and you'll all become happy, grateful little lambs, obedient and content!"
+    },
+    "111505101": {
+        "Sinner": "Oliver",
+        "Title": "Level Up",
+        "File": "vo_olivier_shiyuyuyin_levelup_001",
+        "Text": "Even the doves love the hymns I sing!"
+    },
+    "111505102": {
+        "Sinner": "Oliver",
+        "Title": "Greeting",
+        "File": "vo_olivier_shiyuyuyin_greeting_001",
+        "Text": "Did you come all this way because you heard Oliver was performing on stage, Chief? Don't worry, the character I'm playing is a sweet and obedient choir kid just like Oliver! You're going to love it!"
+    },
+    "111505103": {
+        "Sinner": "Oliver",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_olivier_shiyuyuyin_body_001",
+        "Text": "I didn't even want to play this role—they all insisted Oliver was perfect for it! How could I say no and let everyone down? So I agreed! Isn't Oliver such a good child?"
+    },
+    "111505104": {
+        "Sinner": "Oliver",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_olivier_shiyuyuyin_body_002",
+        "Text": "\"I will follow that person, no matter where they go. I will stay by their side forever, nothing can keep me away.\" Hehe, it was good, right? Oliver was thinking about you while performing, Chief! Everyone said my performance was packed with emotion!"
+    },
+    "111505105": {
+        "Sinner": "Oliver",
+        "Title": "Idle",
+        "File": "vo_olivier_shiyuyuyin_idle_001",
+        "Text": "That flight arc you just did wasn't very graceful. Let's go again. This is Oliver's grand entrance we're talking about! You're good children—you wouldn't ruin it, would you?"
+    },
+    "111505106": {
+        "Sinner": "Oliver",
+        "Title": "Annoyed",
+        "File": "vo_olivier_shiyuyuyin_clicking_001",
+        "Text": "Oh my! Chief, why are you always tugging on Oliver's ribbons? What are you, a little schoolkid pulling on someone's pigtails because you like them?"
+    },
+    "111505107": {
+        "Sinner": "Oliver",
+        "Title": "Special Attention",
+        "File": "vo_olivier_shiyuyuyin_specialattention_001",
+        "Text": "One minute, two minutes... Chief, you've been staring at Oliver for so long. Ah, I get it, you want to keep admiring my performance!"
     },
     "11150601": {
         "Sinner": "Lamia",

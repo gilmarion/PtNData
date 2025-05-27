@@ -2870,6 +2870,58 @@
             "Reward Qty": "1.0"
         }
     },
+    "166": {
+        "Id": 1052001,
+        "Quality": "Purple",
+        "DispatchTitle": "ニッチな結婚式",
+        "DispatchDescription": "ニューシティのとある名家の令嬢は、ニッチな趣味を持つことで知られている。彼女は最近婚約したばかりで、幽霊をテーマにした結婚式を希望しており、多くのウェディングプランナーが尻込みしている。その噂が管理局に届くと、あるコンビクトが強い関心を示した。",
+        "DispatchSinners": {
+            "Sinner": "グレイヴ"
+        },
+        "BaseAward": {
+            "Reward Item": "感染鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "167": {
+        "Id": 1052002,
+        "Quality": "Green",
+        "DispatchTitle": "住宅改造",
+        "DispatchDescription": "ある不動産会社が、なかなか売れない事故物件を複数抱えており、高額な報酬で対応できる人材を探している。それを聞いたあるコンビクトが積極的に参加を申し出た。",
+        "DispatchSinners": {
+            "Sinner": "ルミニタ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "鞘翅の破片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "168": {
+        "Id": 1052003,
+        "Quality": "Blue",
+        "DispatchTitle": "戦慄の映画製作",
+        "DispatchDescription": "最近、ニューシティのとある有名監督の最新ホラー映画が準備段階の初期に入ったと発表された。現在、撮影協力として霊的分野の専門アドバイザーを多数急募している。",
+        "DispatchSinners": {
+            "Sinner 1": "ルミニタ",
+            "Sinner 2": "レタ"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
     "176": {
         "Id": 1099001,
         "Quality": "Green",

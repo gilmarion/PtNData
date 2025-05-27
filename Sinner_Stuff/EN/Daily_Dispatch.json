@@ -2870,6 +2870,58 @@
             "Reward Qty": "1.0"
         }
     },
+    "166": {
+        "Id": 1052001,
+        "Quality": "Purple",
+        "DispatchTitle": "Unconventional Wedding",
+        "DispatchDescription": "A rich heiress from Eastside known for her unconventional hobbies has recently gotten engaged and is planning a paranormal-themed wedding. This has caused many wedding planners to back away from the project. When the news reaches the Bureau, a certain Sinner seems very intrigued.",
+        "DispatchSinners": {
+            "Sinner": "Graves"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        }
+    },
+    "167": {
+        "Id": 1052002,
+        "Quality": "Green",
+        "DispatchTitle": "Home Makeover",
+        "DispatchDescription": "A real estate company has several haunted houses they simply can't sell off, no matter what they try. They're willing to pay a high price for someone to help resolve this desperate situation. Upon hearing this, a certain Sinner eagerly volunteers.",
+        "DispatchSinners": {
+            "Sinner": "Luminita"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Elytra Shard",
+            "Reward Qty": "1.0"
+        }
+    },
+    "168": {
+        "Id": 1052003,
+        "Quality": "Blue",
+        "DispatchTitle": "Dis Haunt",
+        "DispatchDescription": "A prominent Eastside director has just announced a new horror film project. They are now urgently recruiting consultants savvy in paranormal phenomena to join the crew.",
+        "DispatchSinners": {
+            "Sinner 1": "Luminita",
+            "Sinner 2": "Letta"
+        },
+        "BaseAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Elytra",
+            "Reward Qty": "1.0"
+        }
+    },
     "176": {
         "Id": 1099001,
         "Quality": "Green",

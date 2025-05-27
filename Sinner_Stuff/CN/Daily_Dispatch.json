@@ -2870,6 +2870,58 @@
             "Reward Qty": "1.0"
         }
     },
+    "166": {
+        "Id": 1052001,
+        "Quality": "Purple",
+        "DispatchTitle": "小众婚礼",
+        "DispatchDescription": "新城某贵族千金以爱好小众而闻名，她刚刚订婚，计划为自己办一场灵异主题的婚礼，这叫许多婚礼策划人望而却步。消息传到管理局，某位禁闭者表现出了不小的兴趣。",
+        "DispatchSinners": {
+            "Sinner": "格芮芙"
+        },
+        "BaseAward": {
+            "Reward Item": "感染鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
+    "167": {
+        "Id": 1052002,
+        "Quality": "Green",
+        "DispatchTitle": "房屋改造",
+        "DispatchDescription": "某房地产公司手头有好几间凶宅，无论如何也抛售不出，希望有人能为他们解决燃眉之急，奖金丰厚。某禁闭者听说后积极要求参与。",
+        "DispatchSinners": {
+            "Sinner": "卢米尼塔"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "鞘翅残片",
+            "Reward Qty": "1.0"
+        }
+    },
+    "168": {
+        "Id": 1052003,
+        "Quality": "Blue",
+        "DispatchTitle": "月光光心慌慌",
+        "DispatchDescription": "近日，新城某知名导演的最新恐怖大片宣布进入早期筹备阶段，现正急招多名灵异方面的专业顾问协助拍摄。",
+        "DispatchSinners": {
+            "Sinner 1": "卢米尼塔",
+            "Sinner 2": "莱塔"
+        },
+        "BaseAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生鞘翅",
+            "Reward Qty": "1.0"
+        }
+    },
     "176": {
         "Id": 1099001,
         "Quality": "Green",

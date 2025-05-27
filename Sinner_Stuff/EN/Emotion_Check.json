@@ -534,6 +534,42 @@
             ]
         }
     },
+    "Graves": {
+        "Emotion Check 1": {
+            "Open": "[Graves is browsing through some videos, trying to pick something to watch.]",
+            "Graves Question": "I can watch all of these? There are so many... I don't know what I should choose. Do you have any recommendations, Chief?",
+            "Chief Question 1": "How about horror movies?",
+            "Graves Response 1": "Thrilling suspense, close-ups of internal organs... I wouldn't mind watching those, as long as you're there with me.",
+            "Emoji 1": [
+                "😫",
+                "😖"
+            ],
+            "Chief Question 2": "How about romance movies?",
+            "Graves Response 2": "According to the synopsis, the protagonist's love story begins with a fateful encounter. It's a bit like us, isn't it?",
+            "Emoji 2": [
+                "😘",
+                "😘"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Melodious pipe organ music flows from Graves's room.]",
+            "Graves Question": "I've played this wedding march many times before at the church, but this is my first time playing it here... I hope I didn't disturb you.",
+            "Chief Question 1": "I'd like to hear it again.",
+            "Graves Response 1": "Of course. This is a song that brings happiness to people. I'm glad you like it too.",
+            "Emoji 1": [
+                "😉",
+                "😉",
+                "😉"
+            ],
+            "Chief Question 2": "Can you teach me how to play?",
+            "Graves Response 2": "I-If you don't mind, please have a seat. I can guide your hands as you play.",
+            "Emoji 2": [
+                "😘",
+                "😘",
+                "😘"
+            ]
+        }
+    },
     "Summer": {
         "Emotion Check 1": {
             "Open": "[Summer hands you a mechanical arm, brimming with anticipation.]",
@@ -1416,6 +1452,42 @@
                 "😖",
                 "😖",
                 "😖"
+            ]
+        }
+    },
+    "Luminita": {
+        "Emotion Check 1": {
+            "Open": "[While you're searching for your keys, Luminita suddenly pops her head out from behind you.]",
+            "Luminita Question": "Ahem, Chief—did you drop this golden key to a luxury condo, or this silver key to a second-hand house with the perfect floor plan?",
+            "Chief Question 1": "I didn't drop either of them.",
+            "Luminita Response 1": "You're impossible... Well, to reward your honesty, here's your key back. Try not to forget it in the meeting room next time.",
+            "Emoji 1": [
+                "😖",
+                "😖",
+                "😖"
+            ],
+            "Chief Question 2": "I'll take both!",
+            "Luminita Response 2": "That's the spirit! So decisive! Well then, shall we find a place to discuss the price?",
+            "Emoji 2": [
+                "😉",
+                "😏"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Luminita is adjusting her beret in front of a mirror.]",
+            "Luminita Question": "Quick, take a look. Is it straight? Am I wearing it right?",
+            "Chief Question 1": "It suits you perfectly, you look very cute.",
+            "Luminita Response 1": "I know, right? I've perfected this exact angle. My sales success rate skyrockets when I wear it like this!",
+            "Emoji 1": [
+                "😉",
+                "😉"
+            ],
+            "Chief Question 2": "It looks a bit crooked...",
+            "Luminita Response 2": "Where, where? Is it the back? I can't see it clearly in the mirror. Chief, help me fix it, won't you?",
+            "Emoji 2": [
+                "😫",
+                "😫",
+                "😫"
             ]
         }
     },
