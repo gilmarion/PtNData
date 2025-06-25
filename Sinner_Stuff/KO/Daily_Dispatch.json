@@ -2922,7 +2922,59 @@
             "Reward Qty": "1.0"
         }
     },
-    "176": {
+    "169": {
+        "Id": 1053001,
+        "Quality": "Purple",
+        "DispatchTitle": "학술 교류",
+        "DispatchDescription": "최근 학계의 최신 정보를 얻기 위해 관리국은 내부 과학 교류회를 열기로 했고, 특별히 한 수감자를 초청했다.",
+        "DispatchSinners": {
+            "Sinner": "히파티아"
+        },
+        "BaseAward": {
+            "Reward Item": "독모래 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "170": {
+        "Id": 1053002,
+        "Quality": "Green",
+        "DispatchTitle": "도굴 장인",
+        "DispatchDescription": "순찰대가 디스시티 외곽을 순찰하던 중, 의문스러운 구덩이 하나를 발견했다. 관리국에서 관련 작업 경험이 있는 수감자를 파견해 조사 작업을 도와야 한다.",
+        "DispatchSinners": {
+            "Sinner": "리산드라"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "171": {
+        "Id": 1053003,
+        "Quality": "Blue",
+        "DispatchTitle": "디스 보물 감정",
+        "DispatchDescription": "치안국은 최근 암시장에서 변이에 오염된 고대 예술품을 압수했고, 그중에는 위조품도 섞여 있어 즉시 폐기 조치가 필요하다. 이에 따라 유물 및 예술품 감정에 능숙한 수감자 몇 명의 협조가 필요하다.",
+        "DispatchSinners": {
+            "Sinner 1": "리산드라",
+            "Sinner 2": "맥퀸"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 독모래 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "172": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "꿈의 해석",

@@ -804,6 +804,44 @@
             ]
         }
     },
+    "Hypatia": {
+        "Emotion Check 1": {
+            "Open": "[Hypatia approaches you pushing a tea cart.]",
+            "Hypatia Question": "Chief, would you like a cup of Campbell vanilla tea? I brewed it myself. The flavor should be acceptable even to someone from DisCity.",
+            "Chief Question 1": "Thank you.",
+            "Hypatia Response 1": "Vanilla tea helps calm the mind and promotes restful sleep. Pleasant dreams, Chief.",
+            "Emoji 1": [
+                "😘",
+                "😘",
+                "😘"
+            ],
+            "Chief Question 2": "The flavor is certainly... unique.",
+            "Hypatia Response 2": "I'm so glad you like it! It's excellent for calming nerves and promoting sleep. Please, drink more.",
+            "Emoji 2": [
+                "😘",
+                "😘",
+                "😘"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Hypatia seems to have become fascinated with DisCity travelogues.]",
+            "Hypatia Question": "Chief, I know a scholar shouldn't spend so much time on these books. Please stop me...",
+            "Chief Question 1": "Finish this one, then call it quits.",
+            "Hypatia Response 1": "But it's only the first book in the series!",
+            "Emoji 1": [
+                "😖",
+                "😖",
+                "😖"
+            ],
+            "Chief Question 2": "Try putting it down and get back to work.",
+            "Hypatia Response 2": "Yes... I can certainly resist temptation...",
+            "Emoji 2": [
+                "😖",
+                "😖",
+                "😖"
+            ]
+        }
+    },
     "Eirene": {
         "Emotion Check 1": {
             "Open": "[Eirene sets up the chess board and beckons to you.]",
@@ -1766,6 +1804,36 @@
                 "😏",
                 "😏"
             ]
+        }
+    },
+    "Lysandra": {
+        "Emotion Check 1": {
+            "Open": "[Lysandra seems to have something to discuss with you.]",
+            "Lysandra Question": "Chief, why are you giving me this toolkit out of nowhere? Need me to do some underground work for you?",
+            "Chief Question 1": "It's a gift. I thought you might find it useful.",
+            "Lysandra Response 1": "A gift? You mean I can just take it without owing you anything?... Okay then, I suppose I should say, thank you?",
+            "Emoji 1": [
+                "😖",
+                "😖",
+                "😖"
+            ],
+            "Chief Question 2": "This toolkit has been sitting unused for a while. I thought you'd make better use of it.",
+            "Lysandra Response 2": "I could definitely use it, but are you sure you don't want something in exchange?",
+            "Emoji 2": [
+                "😐",
+                "😐",
+                "😐"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Lysandra has applied to help in the kitchen for a day.]",
+            "Lysandra Question": "Chief, have you noticed any improvement in the texture of the dishes since I refined my cutting techniques?",
+            "Chief Question 1": "It tastes better now.",
+            "Lysandra Response 1": "It seems my skills have their uses in the kitchen as well.",
+            "Emoji 1": "😏",
+            "Chief Question 2": "Did you cook it yourself?",
+            "Lysandra Response 2": "I didn't actually cook. I just imbued the kitchen knives with master-level cutting attributes.",
+            "Emoji 2": "😏"
         }
     },
     "Iron": {

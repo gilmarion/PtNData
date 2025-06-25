@@ -2922,7 +2922,59 @@
             "Reward Qty": "1.0"
         }
     },
-    "176": {
+    "169": {
+        "Id": 1053001,
+        "Quality": "Purple",
+        "DispatchTitle": "学术交流",
+        "DispatchDescription": "近日，管理局计划组织一次内部科学交流会，分享学界的前沿资讯，特别邀请了某位禁闭者参加。",
+        "DispatchSinners": {
+            "Sinner": "伊帕希娅"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "170": {
+        "Id": 1053002,
+        "Quality": "Green",
+        "DispatchTitle": "倒斗匠人",
+        "DispatchDescription": "巡逻队于狄斯城外围巡查时发现一处可疑深坑，现需管理局派出一名有相关作业经验的禁闭者协助探查工作。",
+        "DispatchSinners": {
+            "Sinner": "黎莎洛"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "171": {
+        "Id": 1053003,
+        "Quality": "Blue",
+        "DispatchTitle": "狄斯鉴宝",
+        "DispatchDescription": "治安局近日在黑市缴获一批受狂厄污染的古代艺术品，其中混有赝品，需直接销毁，现需几名擅长文物及艺术品鉴定的禁闭者协助工作。",
+        "DispatchSinners": {
+            "Sinner 1": "黎莎洛",
+            "Sinner 2": "麦昆"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "172": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "梦的解析",

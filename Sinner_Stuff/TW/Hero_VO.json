@@ -7247,6 +7247,192 @@
         "File": "vo_korryn_huangjinku_specialattention_001",
         "Text": "喲，這麼主動？是想跟我談談人生，還是——更成人的東西？我說的當然是這些財寶的分帳，你以為呢？"
     },
+    "11040901": {
+        "Sinner": "伊帕希婭",
+        "Title": "獲得禁閉者",
+        "File": "vo_hypatia_cacha_001",
+        "Text": "費沙研究所成員，伊帕希婭·坎貝爾。此行來訪，旨在交流天災防禦技術，探求共存可能……希望我們能合作順利，局長閣下。"
+    },
+    "11040902": {
+        "Sinner": "伊帕希婭",
+        "Title": "升至1階",
+        "File": "vo_hypatia_promotion_001",
+        "Text": "不被限制的力量，只會帶來毀滅。"
+    },
+    "11040903": {
+        "Sinner": "伊帕希婭",
+        "Title": "升至3階",
+        "File": "vo_hypatia_promotion2_001",
+        "Text": "既然已經做下決定……那就不要後悔，不要回頭。"
+    },
+    "11040904": {
+        "Sinner": "伊帕希婭",
+        "Title": "關卡開始",
+        "File": "vo_hypatia_battlebegin_001",
+        "Text": "低調行事，速戰速決。"
+    },
+    "11040905": {
+        "Sinner": "伊帕希婭",
+        "Title": "戰鬥勝利",
+        "File": "vo_hypatia_battlewin_001",
+        "Text": "一切，如你所願。"
+    },
+    "11040906": {
+        "Sinner": "伊帕希婭",
+        "Title": "戰鬥失敗",
+        "File": "vo_hypatia_battlelose_001",
+        "Text": "再來一次，我們可以做得更好。"
+    },
+    "11040907": {
+        "Sinner": "伊帕希婭",
+        "Title": "必殺技",
+        "File": "bt_hypatia_uniqueskill_001",
+        "Text": "玫瑰，於眼中盛放。"
+    },
+    "11040908": {
+        "Sinner": "伊帕希婭",
+        "Title": "戰鬥中死亡",
+        "File": "bt_hypatia_dead_001",
+        "Text": "我應當…就此停手的…"
+    },
+    "11040909": {
+        "Sinner": "伊帕希婭",
+        "Title": "問候",
+        "File": "vo_hypatia_greeting_001",
+        "Text": "你好，局長閣下。在今日的工作開始前，要先來一杯坎貝爾的香草茶嗎？"
+    },
+    "11040910": {
+        "Sinner": "伊帕希婭",
+        "Title": "交談1",
+        "File": "vo_hypatia_talk1_001",
+        "Text": "用狂厄煉化金屬，讓物質分解、轉移、重組，直至完美——駕馭灰燼結晶，我們將獲得對抗天災的力量。"
+    },
+    "11040911": {
+        "Sinner": "伊帕希婭",
+        "Title": "交談2",
+        "File": "vo_hypatia_talk1_002",
+        "Text": "釋放枷鎖、束縛狂厄、吞噬黑環，所有坎貝爾求而不得的技術，竟然都彙集到了同一個人身上。到底是怎樣殘酷的過去，才構成了今日的你呢？"
+    },
+    "11040912": {
+        "Sinner": "伊帕希婭",
+        "Title": "交談3",
+        "File": "vo_hypatia_talk1_003",
+        "Text": "之前有個狄斯的小姑娘，吵著讓我給你捎些東西。幾封書信、少許紀念品，還有一疊……寫著你名字的欠條？"
+    },
+    "11040913": {
+        "Sinner": "伊帕希婭",
+        "Title": "特殊交談1",
+        "File": "vo_hypatia_talk2_001",
+        "Text": "坎貝爾家族的每個成員都會在成年禮上獲得一朵屬於自己的黃金玫瑰。它是榮耀，更是責任。"
+    },
+    "11040914": {
+        "Sinner": "伊帕希婭",
+        "Title": "特殊交談2",
+        "File": "vo_hypatia_talk2_002",
+        "Text": "點石成金並不困難。只是為此付出的「代價」，往往比成果更加昂貴。"
+    },
+    "11040915": {
+        "Sinner": "伊帕希婭",
+        "Title": "特殊交談3",
+        "File": "vo_hypatia_talk2_003",
+        "Text": "我聽見那些失去家園、前來投奔的人的哭聲，可他們被黃金做的大門攔在外面，直到風沙吹散了所有聲音……局長，請告訴我，這樣的未來真的正確嗎？我……找不到答案。"
+    },
+    "11040916": {
+        "Sinner": "伊帕希婭",
+        "Title": "服從度升滿",
+        "File": "vo_hypatia_obeyfull_001",
+        "Text": "希望某天我也能像你一樣勇敢，能夠顛覆規則，自由而堅定地選擇自己的道路。在那一天到來前，請你一直陪在我的身邊，成為我勇氣的來源。"
+    },
+    "11040917": {
+        "Sinner": "伊帕希婭",
+        "Title": "閒置",
+        "File": "vo_hypatia_idle_001",
+        "Text": "只要解明原理，就能逆向推導本質，從而將其復現。但你不一樣，你身上的謎團太過複雜……解析，或許還需要一段時間……"
+    },
+    "11040918": {
+        "Sinner": "伊帕希婭",
+        "Title": "煩躁",
+        "File": "vo_hypatia_clicking_001",
+        "Text": "狄斯的待客之道，未免也太無禮了。"
+    },
+    "11040919": {
+        "Sinner": "伊帕希婭",
+        "Title": "特別關注",
+        "File": "vo_hypatia_specialattention_001",
+        "Text": "有時，眼神傳遞出的資訊會比文字更加明顯，比如……你注視我的時候，是在想念我嗎？"
+    },
+    "11040920": {
+        "Sinner": "伊帕希婭",
+        "Title": "派遣",
+        "File": "vo_hypatia_dispatch_001",
+        "Text": "要誰親自動手？"
+    },
+    "11040921": {
+        "Sinner": "伊帕希婭",
+        "Title": "派遣完成",
+        "File": "vo_hypatia_dispatch2_001",
+        "Text": "嗯？只要這些就夠了嗎？"
+    },
+    "11040922": {
+        "Sinner": "伊帕希婭",
+        "Title": "升級",
+        "File": "vo_hypatia_levelup_002",
+        "Text": "你的支持對我很有幫助，多謝。"
+    },
+    "11040923": {
+        "Sinner": "伊帕希婭",
+        "Title": "摸頭",
+        "File": "vo_hypatia_head_001",
+        "Text": "複雜的髮型會影響行動，但……維護外表也是貴族的義務。"
+    },
+    "11040924": {
+        "Sinner": "伊帕希婭",
+        "Title": "加入隊伍",
+        "File": "bt_hypatia_jointeam_001",
+        "Text": "按理說，我不該牽扯進狄斯的糾紛。"
+    },
+    "11040925": {
+        "Sinner": "伊帕希婭",
+        "Title": "危險",
+        "File": "bt_hypatia_danger_001",
+        "Text": "小心！"
+    },
+    "11040926": {
+        "Sinner": "伊帕希婭",
+        "Title": "收到指令",
+        "File": "bt_hypatia_getorder_001",
+        "Text": "我會在你身邊。"
+    },
+    "11040927": {
+        "Sinner": "伊帕希婭",
+        "Title": "受擊",
+        "File": "bt_hypatia_gethit_001_1",
+        "Text": "（被打到了，忍痛悶哼）"
+    },
+    "11040928": {
+        "Sinner": "伊帕希婭",
+        "Title": "小技能",
+        "File": "bt_hypatia_skill_001_2",
+        "Text": "交給我吧。"
+    },
+    "11040929": {
+        "Sinner": "伊帕希婭",
+        "Title": "疑惑",
+        "File": "vo_hypatia_doubt_001",
+        "Text": "嗯？"
+    },
+    "11040930": {
+        "Sinner": "伊帕希婭",
+        "Title": "驚訝",
+        "File": "vo_hypatia_shock_001",
+        "Text": "呀！"
+    },
+    "11040931": {
+        "Sinner": "伊帕希婭",
+        "Title": "升技",
+        "File": "vo_hypatia_promotion_001",
+        "Text": "不被限制的力量，只會帶來毀滅。"
+    },
     "11050101": {
         "Sinner": "伊琳娜",
         "Title": "獲得禁閉者",
@@ -9076,6 +9262,66 @@
         "Title": "升技",
         "File": "vo_vautour_promotion_001",
         "Text": "上了我的渡船，可沒有回頭的選擇。"
+    },
+    "110508100": {
+        "Sinner": "藍鷲",
+        "Title": "獲得套裝",
+        "File": "vo_vautour_yiqingmian_cacha_001",
+        "Text": "這些綾羅珍寶都是商隊從東洲捎回來的，你有看上的隨便帶走就好，我對在乎的人向來很大方。"
+    },
+    "110508101": {
+        "Sinner": "藍鷲",
+        "Title": "升級",
+        "File": "vo_vautour_yiqingmian_levelup_001",
+        "Text": "你的心意，比這些花鳥瓷器更投我所好。"
+    },
+    "110508102": {
+        "Sinner": "藍鷲",
+        "Title": "問候",
+        "File": "vo_vautour_yiqingmian_greeting_001",
+        "Text": "身上的絲帛還沒捂暖，我午睡的好夢就被你擾亂了，說吧，要怎麼賠我呢？"
+    },
+    "110508103": {
+        "Sinner": "藍鷲",
+        "Title": "摸頭",
+        "File": "vo_vautour_yiqingmian_head_001",
+        "Text": "連香爐裡的煙見了我都繞著走，也只有你……敢這麼不安分。"
+    },
+    "110508104": {
+        "Sinner": "藍鷲",
+        "Title": "普通觸摸1",
+        "File": "vo_vautour_yiqingmian_body_001",
+        "Text": "那幾隻小傢伙又在嘰嘰喳喳地吵架了，聽說它們是什麼祥瑞之鳥。不過是包裝給買家聽的漂亮話，你要是感興趣我也可以編給你聽，這些給人希望的謠言我這裡要多少有多少，幾天幾夜也說不完。"
+    },
+    "110508105": {
+        "Sinner": "藍鷲",
+        "Title": "普通觸摸2",
+        "File": "vo_vautour_yiqingmian_body_002",
+        "Text": "這裡的每一樣藏品都有自己的故事，它們身上的雕花、彩繪、指紋甚至裂痕都構成了故事的一部分，只是可惜啊……沒有一個故事擁有好的結局。"
+    },
+    "110508106": {
+        "Sinner": "藍鷲",
+        "Title": "普通觸摸3",
+        "File": "vo_vautour_yiqingmian_righthand_001",
+        "Text": "我喜歡那些東方人的用詞，愁煙、紫霧、相思草……只用文字就能永遠留住屬於故土的氣質與回憶，真叫人羨慕。"
+    },
+    "110508107": {
+        "Sinner": "藍鷲",
+        "Title": "普通觸摸4",
+        "File": "vo_vautour_yiqingmian_leg_001",
+        "Text": "你在盯什麼呢？是這東洲絲綢的光澤，還是……它包裹的東西？看不出來我們小局長還挺貪心的？"
+    },
+    "110508108": {
+        "Sinner": "藍鷲",
+        "Title": "閒置",
+        "File": "vo_vautour_yiqingmian_idle_001",
+        "Text": "這麼好的陽光，你一定也睏了，榻上還有位置，過來一起吧。"
+    },
+    "110508109": {
+        "Sinner": "藍鷲",
+        "Title": "特別關注",
+        "File": "vo_vautour_yiqingmian_specialattention_001",
+        "Text": "按商道的規矩，來了藍鷲的地盤都得留下些什麼，可你既不懂工筆也不會茶藝……不如就做個美人花瓶，留下來陪我小憩一會。"
     },
     "11050901": {
         "Sinner": "縈縈",
@@ -15738,6 +15984,186 @@
         "Title": "升技",
         "File": "vo_mira_promotion_001",
         "Text": "房費已收到，入住愉快。"
+    },
+    "11121201": {
+        "Sinner": "黎莎洛",
+        "Title": "獲得禁閉者",
+        "File": "vo_lysandra_cacha_001",
+        "Text": "我在砂海行走的時候並沒有刻意隱藏過身分，MBCC根據這些資訊推演出我的行蹤，這是既定機率，不是命運。"
+    },
+    "11121202": {
+        "Sinner": "黎莎洛",
+        "Title": "升至1階",
+        "File": "vo_lysandra_promotion_001",
+        "Text": "能前往更深的地方了。"
+    },
+    "11121203": {
+        "Sinner": "黎莎洛",
+        "Title": "升至3階",
+        "File": "vo_lysandra_promotion2_001",
+        "Text": "命運的邏輯徹底拆解完畢，以後的結局僅取決於我。"
+    },
+    "11121204": {
+        "Sinner": "黎莎洛",
+        "Title": "關卡開始",
+        "File": "vo_lysandra_battlebegin_001",
+        "Text": "別亂動。看好形勢，爭取一舉拿下。"
+    },
+    "11121205": {
+        "Sinner": "黎莎洛",
+        "Title": "戰鬥勝利",
+        "File": "vo_lysandra_battlewin_001",
+        "Text": "勝利不是偶然，是周密計畫後的必然。"
+    },
+    "11121206": {
+        "Sinner": "黎莎洛",
+        "Title": "戰鬥失敗",
+        "File": "vo_lysandra_battlelose_001",
+        "Text": "冷靜一點，情況還沒那麼糟糕，慌亂才會讓你送命。"
+    },
+    "11121207": {
+        "Sinner": "黎莎洛",
+        "Title": "必殺技",
+        "File": "bt_lysandra_uniqueskill_001",
+        "Text": "結局由我來定！"
+    },
+    "11121208": {
+        "Sinner": "黎莎洛",
+        "Title": "戰鬥中死亡",
+        "File": "bt_lysandra_dead_001",
+        "Text": "向前走，別管我……"
+    },
+    "11121209": {
+        "Sinner": "黎莎洛",
+        "Title": "問候",
+        "File": "vo_lysandra_greeting_001",
+        "Text": "你好，還活著？活著挺好……嗯，我不太擅長打招呼。"
+    },
+    "11121210": {
+        "Sinner": "黎莎洛",
+        "Title": "交談1",
+        "File": "vo_lysandra_talk1_001",
+        "Text": "在墓洞裡盲目相信直覺和運氣的人，大多都和墓洞的主人一樣永遠躺在了那裡。"
+    },
+    "11121211": {
+        "Sinner": "黎莎洛",
+        "Title": "交談2",
+        "File": "vo_lysandra_talk1_002",
+        "Text": "我去過很多墓洞，如果被困時只知道呼喊求救，那麼能回應你的只有絕望的回聲。"
+    },
+    "11121212": {
+        "Sinner": "黎莎洛",
+        "Title": "交談3",
+        "File": "vo_lysandra_talk1_003",
+        "Text": "無底窟是關竅最多的墓穴，但如果你想去，我能帶你殺個三進三出。鬼打牆的傳言都是幌子，有我帶著，鬼神也要給我們讓路。"
+    },
+    "11121213": {
+        "Sinner": "黎莎洛",
+        "Title": "特殊交談1",
+        "File": "vo_lysandra_talk2_001",
+        "Text": "如果你需要幫助，可以直接說。你說了，我就會做。"
+    },
+    "11121214": {
+        "Sinner": "黎莎洛",
+        "Title": "特殊交談2",
+        "File": "vo_lysandra_talk2_002",
+        "Text": "和以前在墓洞裡相比，我在MBCC的入睡時間變長了，夜晚驚醒的次數也在減少……按我的經驗判斷，可能是床品品質變好的原因。"
+    },
+    "11121215": {
+        "Sinner": "黎莎洛",
+        "Title": "特殊交談3",
+        "File": "vo_lysandra_talk2_003",
+        "Text": "我從來都不相信命運。如果拋硬幣就能接收命運的指引，那攥緊它就是把命運握在自己的手裡。"
+    },
+    "11121216": {
+        "Sinner": "黎莎洛",
+        "Title": "服從度升滿",
+        "File": "vo_lysandra_obeyfull_001",
+        "Text": "「命運」是被精心包裝過的謊言，用來攪亂人心、製造恐懼。而你總是能用理性破局，在同樣的困局中掌控一切——這就是你比「它」更強大的地方。"
+    },
+    "11121217": {
+        "Sinner": "黎莎洛",
+        "Title": "閒置",
+        "File": "vo_lysandra_idle_001",
+        "Text": "我看你在忙，所以自己找了點事情幹，你有事叫我。"
+    },
+    "11121218": {
+        "Sinner": "黎莎洛",
+        "Title": "煩躁",
+        "File": "vo_lysandra_clicking_001",
+        "Text": "無聊了？嗯……別無聊。"
+    },
+    "11121219": {
+        "Sinner": "黎莎洛",
+        "Title": "特別關注",
+        "File": "vo_lysandra_specialattention_001",
+        "Text": "只要看著我就可以了嗎？並不是太理解，但我會照做的。"
+    },
+    "11121220": {
+        "Sinner": "黎莎洛",
+        "Title": "派遣",
+        "File": "vo_lysandra_dispatch_001",
+        "Text": "這次的任務比較麻煩，我會先行勘探。"
+    },
+    "11121221": {
+        "Sinner": "黎莎洛",
+        "Title": "派遣完成",
+        "File": "vo_lysandra_dispatch2_001",
+        "Text": "任務完成。目標地點結構複雜，我整理了路線手冊，下次可以用。"
+    },
+    "11121222": {
+        "Sinner": "黎莎洛",
+        "Title": "升級",
+        "File": "vo_lysandra_levelup_002",
+        "Text": "阻礙清除，繼續深入。"
+    },
+    "11121223": {
+        "Sinner": "黎莎洛",
+        "Title": "加入隊伍",
+        "File": "bt_lysandra_jointeam_001",
+        "Text": "檢查裝備，帶足工具和繩索，五分鐘後出發。"
+    },
+    "11121224": {
+        "Sinner": "黎莎洛",
+        "Title": "危險",
+        "File": "bt_lysandra_danger_001",
+        "Text": "（悶哼）"
+    },
+    "11121225": {
+        "Sinner": "黎莎洛",
+        "Title": "收到指令",
+        "File": "bt_lysandra_getorder_001",
+        "Text": "好。"
+    },
+    "11121226": {
+        "Sinner": "黎莎洛",
+        "Title": "受擊",
+        "File": "bt_lysandra_gethit_001_1",
+        "Text": "（吸氣聲）"
+    },
+    "11121227": {
+        "Sinner": "黎莎洛",
+        "Title": "小技能",
+        "File": "bt_lysandra_skill_001_1",
+        "Text": "哼。"
+    },
+    "11121228": {
+        "Sinner": "黎莎洛",
+        "Title": "疑惑",
+        "File": "vo_lysandra_doubt_001",
+        "Text": "嗯？"
+    },
+    "11121229": {
+        "Sinner": "黎莎洛",
+        "Title": "震驚",
+        "File": "vo_lysandra_shock_001",
+        "Text": "啊！"
+    },
+    "11121230": {
+        "Sinner": "黎莎洛",
+        "Title": "升技",
+        "File": "vo_lysandra_promotion_001",
+        "Text": "能前往更深的地方了。"
     },
     "11130101": {
         "Sinner": "艾恩",
@@ -23527,6 +23953,56 @@
         "File": "vo_shawn_promotion_001",
         "Text": "對我抱有期待？那我盡力活得像樣一些吧。"
     },
+    "111608100": {
+        "Sinner": "肖恩",
+        "Title": "獲得套裝",
+        "File": "vo_shawn_weiliantuisong_cacha_001",
+        "Text": "我上傳的照片裡有那麼多花裡胡哨的貼紙，但撥開它們走到我面前的，只有你一人……所以親愛的，要和我一起創造一些「刻骨銘心」嗎？"
+    },
+    "111608101": {
+        "Sinner": "肖恩",
+        "Title": "升級",
+        "File": "vo_shawn_weiliantuisong_levelup_001",
+        "Text": "哇，好多點讚。"
+    },
+    "111608102": {
+        "Sinner": "肖恩",
+        "Title": "問候",
+        "File": "vo_shawn_weiliantuisong_greeting_001",
+        "Text": "嗯，地上氣球的顏色飽和度剛剛好，電梯間的構圖也很合適……就差一個完美的你來跟我合影了。"
+    },
+    "111608103": {
+        "Sinner": "肖恩",
+        "Title": "普通觸摸1",
+        "File": "vo_shawn_weiliantuisong_talk_001",
+        "Text": "這個世代的人，大多迷失在了虛幻的網路中。再多的濾鏡，也粉飾不了蒼白的人生……我們真正想要的，或許只是真實鮮活的感情，或者說，一段不會褪色的記憶吧。"
+    },
+    "111608104": {
+        "Sinner": "肖恩",
+        "Title": "普通觸摸2",
+        "File": "vo_shawn_weiliantuisong_talk_002",
+        "Text": "說起來，你要不要考慮也開一個帳號？你長得這麼好看，一定很輕鬆就能吸到很多粉絲，到時候我們兩個大網紅還能順便炒作個情侶人設什麼的……開玩笑的開玩笑的。"
+    },
+    "111608105": {
+        "Sinner": "肖恩",
+        "Title": "閒置",
+        "File": "vo_shawn_weiliantuisong_idle_001",
+        "Text": "最近帳號漲了不少粉絲啊……但你什麼時候才會來關注我呢？"
+    },
+    "111608106": {
+        "Sinner": "肖恩",
+        "Title": "煩躁",
+        "File": "vo_shawn_weiliantuisong_clicking_001",
+        "Text": "嗯，就是這樣，再貼近一點也沒關係哦。"
+    },
+    "111608107": {
+        "Sinner": "肖恩",
+        "Title": "特別關注",
+        "File": "vo_shawn_weiliantuisong_specialattention_001",
+        "Text": "先別動，保持住一直看著我的動作……嗯，不錯不錯，就發它了。嗯……配什麼文案呢……「和他在一起的每一個瞬間，都在閃閃發光。」",
+        "File 2": "vo_shawn_weiliantuisong_specialattention_001",
+        "Text 2": "先別動，保持住一直看著我的動作……嗯，不錯不錯，就發它了。嗯……配什麼文案呢……「和她在一起的每一個瞬間，都在閃閃發光。」"
+    },
     "11160901": {
         "Sinner": "澤斐爾",
         "Title": "獲得禁閉者",
@@ -24570,6 +25046,54 @@
         "Title": "特別關注",
         "File": "vo_hella_hongxinnvwang_specialattention_001",
         "Text": "咳咳，為了維持我們之間的平等關係，我以皇后的名義命令你……喂！你這傢伙又在用枷鎖做奇怪的事！"
+    },
+    "112201120": {
+        "Sinner": "海拉",
+        "Title": "獲得套裝",
+        "File": "vo_hella_shahaiqilv_cacha_001",
+        "Text": "指針朝向正北，目標砂海中心！都給讓讓道，海拉大人的偉大冒險就要啟航啦——"
+    },
+    "112201121": {
+        "Sinner": "海拉",
+        "Title": "升級",
+        "File": "vo_hella_shahaiqilv_levelup_001",
+        "Text": "哇，冒險經費？再來點再來點！"
+    },
+    "112201122": {
+        "Sinner": "海拉",
+        "Title": "問候",
+        "File": "vo_hella_shahaiqilv_greeting_001",
+        "Text": "嘿！趁著陽光正好，趕緊上路，寶藏還在前頭等著咱們呢！"
+    },
+    "112201123": {
+        "Sinner": "海拉",
+        "Title": "普通觸摸1",
+        "File": "vo_hella_shahaiqilv_talk_001",
+        "Text": "之前路上遇到了好幾個收保護費的壞蛋，我直接就是一棍子上去，揍得他們*文明狄斯*滾*文明狄斯*流嗷嗷大叫，一個人把他們都幹翻了！怎麼樣，是不是超厲害？"
+    },
+    "112201124": {
+        "Sinner": "海拉",
+        "Title": "普通觸摸2",
+        "File": "vo_hella_shahaiqilv_talk_002",
+        "Text": "我在赫卡蒂的話本裡看過一個故事：傳說在沙漠的最深處有一個被傳奇砂盜什麼什麼巴巴藏起來的山洞，裡面堆滿了好東西，夠全狄斯的人花一輩子也花不完！咳咳，剛好我趁出門歷練順路去看看，萬一……這故事是真的呢？嘿嘿……"
+    },
+    "112201125": {
+        "Sinner": "海拉",
+        "Title": "閒置",
+        "File": "vo_hella_shahaiqilv_idle_001",
+        "Text": "還好我臨走前偷偷從局長口袋裡「預支」了幾個月零用錢，沒想到外面錢這麼不禁花……唉，不知道笨蛋局長和赫卡蒂現在在幹嘛呢……"
+    },
+    "112201126": {
+        "Sinner": "海拉",
+        "Title": "煩躁",
+        "File": "vo_hella_shahaiqilv_clicking_001",
+        "Text": "幹嘛？想跟傳奇冒險家海拉大人握手？兩百一次，先付再握啊。"
+    },
+    "112201127": {
+        "Sinner": "海拉",
+        "Title": "特別關注",
+        "File": "vo_hella_shahaiqilv_specialattention_001",
+        "Text": "我的冒險可比那些童話本子裡的精彩多了！我把它們都寫在日誌裡，等回去讓你們挨個傳閱——先說好，這次不許挑錯字！"
     },
     "11220201": {
         "Sinner": "澈",

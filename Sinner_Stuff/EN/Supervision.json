@@ -4014,6 +4014,151 @@
             }
         }
     },
+    "1040901": {
+        "ID Num": 1040901,
+        "Event Title": "'++* ⚠ Stargazing",
+        "Event Desc": "Hypatia has sent you a request.",
+        "Sinner": "Hypatia",
+        "Text": {
+            "Text 1": "Hypatia would like to simulate a starry sky.",
+            "Choice 2": "Approve"
+        }
+    },
+    "1040902": {
+        "ID Num": 1040902,
+        "Event Title": "'++* ⚠ World Travels",
+        "Event Desc": "When Fraser meets Eastia.",
+        "Sinner": "Yugu",
+        "Text": {
+            "Text 1": "Hypatia is interested in Yugu's stories about Eastia, and the two have arranged to meet up in the library.",
+            "Choice 2": "Observe",
+            "Text 3": "Hypatia repeatedly questioned the authenticity of Yugu's stories. After several such challenges, Yugu excused herself saying she needed to drink tea to soothe her throat, and never returned."
+        }
+    },
+    "1040911": {
+        "ID Num": 1040911,
+        "Event Title": "'++* ⚠⚠ Scientific Dispute",
+        "Event Desc": "You just missed a collision of scientific minds.",
+        "Sinner": "Summer",
+        "Text": {
+            "Text 1": "While passing by the Energy Furnace, you spot Hypatia and sense Mania Flux.",
+            "Choice 2": "Approach and ask",
+            "Text 3": "Chief: Feeling overworked?",
+            "Text 4": "Hypatia: I'm fine, thank you for your concern, Chief.",
+            "Text 5": "Hypatia: Oh, by the way, there was a young girl with pink hair and glasses who came by earlier. What was her name?",
+            "Choice 6": "Summer?",
+            "Text 7": "Chief: That would be Summer. What did she want?",
+            "Text 8": "Hypatia takes a deep breath, and you can tell she's struggling to contain her emotions.",
+            "Text 9": "Hypatia: While I was working, she stood beside me watching for quite some time. I thought she was interested, so I started explaining the principles behind my work.",
+            "Text 10": "Hypatia: ...But then she asked if my experiment was just playing make-believe.",
+            "Choice 11": "Comfort her",
+            "Text 12": "Chief: Ah... don't be upset. Summer is also a scientist with her own strong convictions.",
+            "Text 13": "Chief: Perhaps we could approach this in a more scientific manner? Let's treat it as a challenge from a fellow scientist.",
+            "Text 14": "Hypatia: Hmm... you make a valid point.",
+            "Text 15": "Hypatia: I'll start writing a paper tonight to refute her biased perspective.",
+            "Text 16": "With her composure restored, Hypatia returns to her work."
+        }
+    },
+    "1040912": {
+        "ID Num": 1040912,
+        "Event Title": "'++* ⚠⚠ Unfettered",
+        "Event Desc": "True scientists are unfettered by trivial matters.",
+        "Sinner": "Hypatia",
+        "Text": {
+            "Text 1": "You encounter Hypatia in the hallway and, while greeting her, notice her robe is hopelessly wrinkled.",
+            "Choice 2": "Mention her wrinkled robe",
+            "Text 3": "Chief: Is the iron in your room working properly?",
+            "Text 4": "Chief: If it's not working, you can request a replacement.",
+            "Text 5": "Hearing your question, Hypatia looks puzzled.",
+            "Text 6": "Hypatia: The iron in my room is working perfectly. I use it every night.",
+            "Text 7": "Hypatia: If I may ask, Chief, why do you inquire about this?",
+            "Text 8": "Chief: You use it every night... Oh, um, I see.",
+            "Text 9": "Hypatia seems perplexed by your tone. Following your gaze, she looks down at herself, then awkwardly tugs at her severely wrinkled robe.",
+            "Text 10": "Hypatia: ...But I just ironed this last night.",
+            "Choice 11": "Offer assistance",
+            "Text 12": "Chief: There are several Sinners here who are skilled with household chores. You could ask them for help if you need it.",
+            "Text 13": "Hypatia: No! That won't be necessary. I was reading until very late last night and rushed through everything, so I wasn't as meticulous as usual.",
+            "Text 14": "Hypatia: How embarrassing. I'll go and rectify this right away.",
+            "Text 15": "Chief: Hmm...",
+            "Text 16": "An awkward silence falls between you two as your eyes briefly meet. You decide it's best to take your leave.",
+            "Text 17": "Later that day, you spot Hypatia with her robe draped conspicuously over her arm, drawing more attention to what she's trying to hide. Without a word, you hand her a note you've prepared with Mira and Jelena's room numbers."
+        }
+    },
+    "1040921": {
+        "ID Num": 1040921,
+        "Event Title": "'++* ⚠⚠⚠ Dry Humor",
+        "Event Desc": "Rumor has it that Hypatia's notebook is filled not with formulas, but with dry jokes.",
+        "Sinner": "Hypatia",
+        "Text": {
+            "Text 1": "While passing through the Recreation Area, you notice Hypatia clutching a notebook as she sits among a group of Sinners. Despite the setting, the atmosphere is strangely solemn.",
+            "Choice 2": "Approach and ask",
+            "Text 3": "Chief: Why are you all so quiet? Is everything alright?",
+            "Text 4": "Hypatia glances at you, embarrassed.",
+            "Text 5": "Hypatia: Nothing's the matter. Thank you for your concern.",
+            "Text 6": "Hypatia: If you have a moment to spare, Chief, would you like to hear a bit of my wordplay?",
+            "Choice 7": "All Ears",
+            "Text 8": "Chief: I'm quite fond of wordplay myself. I'm all ears.",
+            "Text 9": "Hypatia: I'm on a seafood diet.",
+            "Text 10": "Hypatia: Every time I see food, I eat it.",
+            "Text 11": "Hypatia: ...",
+            "Text 12": "Hypatia: That's my joke.",
+            "Path 1": {
+                "Choice 13": "Burst into laughter",
+                "Text 14": "Chief: Haha, that's hilarious!",
+                "Text 15": "Hypatia: ...You don't have to pretend.",
+                "Text 16": "Chief: I wasn't pretending...",
+                "Text 17": "Hypatia sighs and crosses something out in her notebook.",
+                "Text 18": "Hypatia: It seems this won't work."
+            },
+            "Path 2": {
+                "Choice 19": "Let me tell you one too",
+                "Text 20": "Chief: A swimming expert jumps into the sea, but ends up dying. Why is that?",
+                "Text 21": "Chief: Because he jumped into DisSea.",
+                "Text 22": "After you finish speaking, the room falls silent. Some Sinners can't help but roll their eyes. Hypatia, however, smiles.",
+                "Text 23": "Hypatia: That's a good joke. It seems we are kindred spirits.",
+                "Text 24": "Chief: ...Are we really on the same level when it comes to jokes?",
+                "Text 25": "Hypatia is too busy to answer you, focused on jotting down your joke in her notebook."
+            }
+        }
+    },
+    "1040922": {
+        "ID Num": 1040922,
+        "Event Title": "'++* ⚠⚠⚠ Equivalent Exchange",
+        "Event Desc": "Hypatia would like to provide additional assistance to the cafeteria.",
+        "Sinner": "Hypatia",
+        "Text": {
+            "Text 1": "Passing by the greenhouse, you're surprised to find Hypatia—who absolutely cannot cook—busily working in the kitchen.",
+            "Choice 2": "Go up and check",
+            "Text 3": "Chief: What are you doing?",
+            "Text 4": "Hypatia: Good afternoon, Chief.",
+            "Text 5": "Hypatia: Since that incident concluded, I've been reflecting on my approach. I shouldn't conduct research in an ivory tower, but rather I should apply my studies to improving people's daily lives.",
+            "Text 6": "Hypatia: So when I heard about the recent meat price increases and procurement difficulties, I realized my abilities might be able to help.",
+            "Text 7": "Chief: How does your ability have anything to do with meat?",
+            "Text 8": "Hypatia: By decomposing and reconstructing matter, I can produce meat.",
+            "Text 9": "Hypatia: For instance, I could decompose this spoon and then reconstruct it into beef.",
+            "Text 10": "Hypatia: This way, we wouldn't have to worry about food prices anymore.",
+            "Choice 11": "Sounds too good to be true",
+            "Text 12": "Chief: Won't there be any consequences from doing this?",
+            "Text 13": "Hypatia: The primary concern would be inflation, of course, but the quantity of meat we need shouldn't be enough to impact the market.",
+            "Text 14": "Hypatia: Secondly, I cannot create matter out of nothing, so we would need to purchase large quantities of other materials for equivalent exchange.",
+            "Text 15": "Chief: ...I was actually asking about food safety.",
+            "Text 16": "Hypatia: Well, this would actually be my first time using my abilities to create something for people to consume. All outcomes remain unknown variables.",
+            "Text 17": "Hypatia: Would you let me try it?",
+            "Path 1": {
+                "Choice 18": "Let her experiment",
+                "Text 19": "Hypatia: As I expected, you truly are full of courage. I'll bring some beef stew to your office shortly.",
+                "Text 20": "Chief: Wait, your \"try\" means I'm the one trying it?",
+                "Text 21": "Half an hour later, Hypatia delivers the beef dish to your office as promised. It looks remarkably appetizing. Despite your misgivings, you decide to give it a try.",
+                "Text 22": "That night, you spend endless hours attached to the toilet bowl in the bathroom, followed by three full days confined to bed. After finally recovering, you immediately shut down this experiment."
+            },
+            "Path 2": {
+                "Choice 23": "Tell her to forget about it",
+                "Text 24": "Chief: It doesn't seem particularly safe. Besides, we're not quite desperate enough to start eating our silverware yet.",
+                "Text 25": "Chief: If you'd like to help out, perhaps you could ask if they need assistance at the Secret Chamber?",
+                "Text 26": "After careful consideration, Hypatia accepts your suggestion."
+            }
+        }
+    },
     "1050101": {
         "ID Num": 1050101,
         "Event Title": "'++* ⚠ Professional Suggestion",
@@ -8517,6 +8662,146 @@
                 "Text 22": "Chief: The more innocently you deny it, the more I feel that there's something happening behind the scenes...",
                 "Text 23": "Mira: No need to be so suspicious, Chief. You understand better than anyone the limits of a humble motel owner like me. Like you mentioned, it's merely a survival tactic.",
                 "Text 24": "Chief: Give me a moment... I'm trying to recall if I've unintentionally disclosed any of my sources to you..."
+            }
+        }
+    },
+    "1121201": {
+        "ID Num": 1121201,
+        "Event Title": "'++* ⚠ Tomb Raider",
+        "Event Desc": "Suspicious items are circulating in large quantities on the black market.",
+        "Sinner": "Lysandra",
+        "Text": {
+            "Text 1": "Recent investigation has confirmed that the suspicious items circulating in large quantities on the black market are all relics from tombs.",
+            "Choice 2": "Summon Lysandra",
+            "Text 3": "You reprimanded Lysandra and strictly forbade her from repeating the offense."
+        }
+    },
+    "1121202": {
+        "ID Num": 1121202,
+        "Event Title": "'++* ⚠ Under Construction",
+        "Event Desc": "The birth of new inventions is always heralded by explosions.",
+        "Sinner": "Eureka",
+        "Text": {
+            "Text 1": "Some Sinners have reported that the Training Room door has been deliberately damaged.",
+            "Choice 2": "Go and take a look",
+            "Text 3": "While testing a new locking mechanism, Eureka accidentally locked herself inside the room. When Lysandra failed to pick the lock, she improvised explosives using nearby materials and blew the door open."
+        }
+    },
+    "1121203": {
+        "ID Num": 1121203,
+        "Event Title": "'++* ⚠ Peak Test Path",
+        "Event Desc": "Lysandra has sent you a request.",
+        "Sinner": "Lysandra",
+        "Text": {
+            "Text 1": "Lysandra would like to install rock climbing equipment in the Outdoor Activity Area.",
+            "Choice 2": "Approve"
+        }
+    },
+    "1121211": {
+        "ID Num": 1121211,
+        "Event Title": "'++* ⚠⚠ WhiteSands Roulette",
+        "Event Desc": "The rules of WhiteSands Roulette are rather unusual.",
+        "Sinner": "Roulecca",
+        "Text": {
+            "Text 1": "As you pass by the Recreation Room, you overhear Lysandra and Roulecca talking.",
+            "Choice 2": "Approach curiously",
+            "Text 3": "Roulecca: So now you understand the rules of roulette?",
+            "Text 4": "Roulecca: Hehe, then let's get started. Since it's your first time, I'll be nice and give you an advantage. You can go first.",
+            "Text 5": "Roulecca hands the revolver to Lysandra.",
+            "Text 6": "You aren't concerned, as the Bureau only permits Roulecca to use a toy gun loaded with rubber bullets.",
+            "Text 7": "Lysandra: So I just need to fire the gun, and if the bullet doesn't hit me, I win?",
+            "Text 8": "No sooner had she finished speaking than she aimed the gun directly at Roulecca and fired several shots in rapid succession.",
+            "Text 9": "The revolver emitted a soft click. Lysandra turned the barrel and fired the final shot at the wall.",
+            "Text 10": "The smirk on Roulecca's face freezes. Both you and Roulecca stare in disbelief at the bullet now lying on the floor.",
+            "Text 11": "Roulecca: Hey! What are you doing?!",
+            "Text 12": "Lysandra: I did exactly what you told me to do.",
+            "Text 13": "Roulecca: I never said that! You're cheating!",
+            "Choice 14": "Restrain Roulecca as she lunges forward",
+            "Text 15": "Lysandra: Didn't you say to accept the outcome of a bet?",
+            "Text 16": "Roulecca: That wasn't even Russian roulette! Did you understand the rules at all?!",
+            "Text 17": "Lysandra: I never trust rules set by others anyway.",
+            "Text 18": "Lysandra: See? Luck alone won't get you very far.",
+            "Text 19": "Roulecca stares at the bullet on the ground, her nose making sniffling sounds.",
+            "Text 20": "Lysandra: ...Alright, don't cry. I admit defeat.",
+            "Text 21": "Roulecca: I'm not crying!",
+            "Text 22": "Lysandra awkwardly fiddles with the gun. She keeps glancing at you, her eyes betraying a hint of guilt.",
+            "Choice 23": "Find something to comfort Roulecca",
+            "Text 24": "Catching Lysandra's silent plea for help, you quickly rummage through your coat pocket and find an uneaten dessert from lunch. You offer it to Roulecca.",
+            "Text 25": "Roulecca takes it with a pout, then triumphantly waves it at Lysandra before skipping away with childish glee.",
+            "Text 26": "Lysandra: I'm really not equipped to handle this kind of situation. Thanks, you're quite good with children.",
+            "Text 27": "Chief: No problem. Though your child-handling skills could use some work.",
+            "Text 28": "Lysandra: I wasn't trying to pacify anyone. I only engaged with her out of curiosity."
+        }
+    },
+    "1121212": {
+        "ID Num": 1121212,
+        "Event Title": "'++* ⚠⚠ Nocturnal Animal",
+        "Event Desc": "Lysandra never turns on the lights in her room.",
+        "Sinner": "Lysandra",
+        "Text": {
+            "Text 1": "Supervision System:\nThe lights in the room of Sinner Lysandra have been detected off for 72 hours. Go and take a look?",
+            "Choice 2": "Yes",
+            "Text 3": "You enter Lysandra's room. It is pitch-black inside.",
+            "Choice 4": "Look around",
+            "Text 5": "You barely take a step before feeling a grip tighten around your neck. In an instant, you're thrown to the ground.",
+            "Text 6": "Lysandra: What are you sneaking around for in my room?",
+            "Text 7": "Chief: Cough... cough cough... I noticed you haven't turned on your lights for days, so I came to check if you're alright.",
+            "Text 8": "Lysandra: I don't like using lights. Darkness helps me think clearly.",
+            "Text 9": "Chief: Is it because I'm used to tombs? If these electric lights are too harsh, they could be replaced with something softer.",
+            "Text 10": "Chief: We should still have some light. It's so dark in here, I can't even see your face.",
+            "Text 11": "Lysandra: You want to see my face? That's easy enough, I have light.",
+            "Text 12": "Chief: Yes?",
+            "Text 13": "The moment she finishes speaking, a blinding white light flashes in front of you. You immediately shield your eyes.",
+            "Text 14": "After a few seconds, you manage to squint your eyes open. Lysandra is pointing a high-powered flashlight at her own face, staring at you with a ghostly pale complexion.",
+            "Text 15": "Chief: What the—!",
+            "Text 16": "Lysandra: Clear enough for you now?",
+            "Text 17": "Chief: Crystal clear. Though the brightness is making my eyes water.",
+            "Text 18": "Lysandra: That's easy to fix too. I have medicine. Wait here.",
+            "Text 19": "Lysandra turns off the flashlight at your suggestion. In the darkness, you hear the rustling sounds of her rummaging through her belongings.",
+            "Text 20": "Chief: What kind of medicine do you have?",
+            "Text 21": "Lysandra: A Fraser folk remedy. Made from dried sandworms ground into powder. Works much better than anything from your DisCity.",
+            "Text 22": "Chief: ...Thanks! My eyes suddenly don't hurt anymore!"
+        }
+    },
+    "1121221": {
+        "ID Num": 1121221,
+        "Event Title": "'++* ⚠⚠⚠ Wasted Eloquence",
+        "Event Desc": "You attempted to explain the artistry of language to Lysandra.",
+        "Sinner": "Lysandra",
+        "Text": {
+            "Text 1": "As you pass through the Outdoor Activity Area, you notice Lysandra standing in the center, gazing thoughtfully at the simulated night sky.",
+            "Choice 2": "Go and try to talk to her",
+            "Text 3": "Chief: It's a beautiful sky of stars, isn't it?",
+            "Text 4": "Lysandra: Your simulation is wrong. Scorpio and Orion can't appear in the sky at the same time.",
+            "Text 5": "Chief: You know astronomy?",
+            "Text 6": "Lysandra: It's one of the essential skills for wilderness survival.",
+            "Text 7": "Lysandra: Aren't you going to report this error?",
+            "Text 8": "Chief: I already talked to the staff about it. They said such errors don't matter since people just use it as a place to channel their feelings of longing.",
+            "Text 9": "Chief: Maybe it's because I went in the evening and they were just eager to clock out...",
+            "Text 10": "Lysandra: What do you mean by \"a place to channel feelings of longing\"?",
+            "Text 11": "Chief: It means people use the scenery to reminisce about people or things that are important to them.",
+            "Text 12": "Chief: For example, Hypatia has loved observing the night sky since she was little, so when she sees this, it reminds her of her days at home.",
+            "Text 13": "Lysandra: Why? Did her house not have a roof?",
+            "Text 14": "Chief: ...",
+            "Path 1": {
+                "Choice 15": "Encourage her to see things differently",
+                "Text 16": "Chief: Let me give you another example. You've always lived in WhiteSands where all you can see is desert, but this place is different.",
+                "Text 17": "Chief: If someday you saw sand again after a long time away, wouldn't you feel nostalgic for your days in WhiteSands?",
+                "Text 18": "Lysandra: There's nothing about that place I'd feel nostalgic for.",
+                "Text 19": "Chief: ...I'm sorry, that was insensitive of me.",
+                "Text 20": "Lysandra: But I did think of some things that matter to me.",
+                "Text 21": "Chief: Oh? What are they?",
+                "Text 22": "Lysandra: Sand, tombs, money.",
+                "Text 23": "Chief: ...If those are the things that matter most to you, that's perfectly fine."
+            },
+            "Path 2": {
+                "Choice 24": "Ask for her suggestion",
+                "Text 25": "Chief: So in your opinion, what would be the best way to comfort a homesick Sinner?",
+                "Text 26": "Lysandra: If Hypatia is homesick, why don't you just simulate her home and family?",
+                "Text 27": "Chief: Wouldn't that be a bit creepy? Walking in to find fake people just staring at you.",
+                "Text 28": "Lysandra: Is it? When I explored tombs, I routinely walked in to find non-living things staring back at me.",
+                "Text 29": "Lysandra: Hmm, come to think of it, I do miss those days sometimes.",
+                "Text 30": "Chief: I'm not quite sure how our conversation ended up here... but this is exactly what I meant by association of ideas."
             }
         }
     },

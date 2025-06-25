@@ -7247,6 +7247,192 @@
         "File": "vo_korryn_huangjinku_specialattention_001",
         "Text": "Oho, you're so forward darling! Did you want to have a heart-to-heart with me, or maybe—something more adult? I'm talking about splitting these treasures, of course. What on earth did you think I meant?"
     },
+    "11040901": {
+        "Sinner": "Hypatia",
+        "Title": "Obtain the Sinner",
+        "File": "vo_hypatia_cacha_001",
+        "Text": "Hypatia Campbell, Fraser researcher. The purpose of my visit is to exchange disaster defense technologies and explore possibilities of coexistence... I hope our collaboration will be fruitful, Chief."
+    },
+    "11040902": {
+        "Sinner": "Hypatia",
+        "Title": "Raise to Phase 1",
+        "File": "vo_hypatia_promotion_001",
+        "Text": "Unchecked power will only lead to destruction."
+    },
+    "11040903": {
+        "Sinner": "Hypatia",
+        "Title": "Raise to Phase 3",
+        "File": "vo_hypatia_promotion2_001",
+        "Text": "If the decision's already made... then don't regret it, and don't look back."
+    },
+    "11040904": {
+        "Sinner": "Hypatia",
+        "Title": "Level Start",
+        "File": "vo_hypatia_battlebegin_001",
+        "Text": "Keep a low profile, and don't drag your feet."
+    },
+    "11040905": {
+        "Sinner": "Hypatia",
+        "Title": "Victory",
+        "File": "vo_hypatia_battlewin_001",
+        "Text": "Everything shall be as you wish."
+    },
+    "11040906": {
+        "Sinner": "Hypatia",
+        "Title": "Lose Battles",
+        "File": "vo_hypatia_battlelose_001",
+        "Text": "If we try again, we can do better."
+    },
+    "11040907": {
+        "Sinner": "Hypatia",
+        "Title": "Ultimate Skill",
+        "File": "bt_hypatia_uniqueskill_001",
+        "Text": "Roses bloom in sight."
+    },
+    "11040908": {
+        "Sinner": "Hypatia",
+        "Title": "Die in Battles",
+        "File": "bt_hypatia_dead_001",
+        "Text": "I should have... stopped while I had the chance..."
+    },
+    "11040909": {
+        "Sinner": "Hypatia",
+        "Title": "Greeting",
+        "File": "vo_hypatia_greeting_001",
+        "Text": "Greetings, Chief. Before we begin today's work, would you care for a cup of Campbell herbal tea?"
+    },
+    "11040910": {
+        "Sinner": "Hypatia",
+        "Title": "Conversation 1",
+        "File": "vo_hypatia_talk1_001",
+        "Text": "Using Mania to transmute metals, we can decompose, transfer, and rebuild matter until it's perfect. By mastering Ash Crystals, we will gain the power to resist disasters."
+    },
+    "11040911": {
+        "Sinner": "Hypatia",
+        "Title": "Conversation 2",
+        "File": "vo_hypatia_talk1_002",
+        "Text": "The use of shackles, constraining Mania, and devouring Black Rings, all these technologies the Campbells seek but have never obtained somehow converged in a single person. What cruel past forged you into who you are today?"
+    },
+    "11040912": {
+        "Sinner": "Hypatia",
+        "Title": "Conversation 3",
+        "File": "vo_hypatia_talk1_003",
+        "Text": "There was a young girl from DisCity who insisted I bring you some things. A few letters, some mementos, and a stack of... IOUs with your name on them?"
+    },
+    "11040913": {
+        "Sinner": "Hypatia",
+        "Title": "Special Conversation 1",
+        "File": "vo_hypatia_talk2_001",
+        "Text": "Every member of the Campbell family receives their own golden rose at their coming-of-age ceremony. It represents honor, but more importantly, obligation."
+    },
+    "11040914": {
+        "Sinner": "Hypatia",
+        "Title": "Special Conversation 2",
+        "File": "vo_hypatia_talk2_002",
+        "Text": "Turning stone into gold isn't difficult. It's the price that's typically more expensive than the result."
+    },
+    "11040915": {
+        "Sinner": "Hypatia",
+        "Title": "Special Conversation 3",
+        "File": "vo_hypatia_talk2_003",
+        "Text": "I hear the cries of those who've lost their homes and come seeking shelter, yet they're barred by gilded gates until the winds erase all their voices... Chief, tell me, is this truly the right path forward? I... I can't find the answer."
+    },
+    "11040916": {
+        "Sinner": "Hypatia",
+        "Title": "Full Compliance",
+        "File": "vo_hypatia_obeyfull_001",
+        "Text": "I hope one day I can be as brave as you, defying rules and choosing your own path freely and adamantly. Until that day comes, please stay by my side and be my source of courage."
+    },
+    "11040917": {
+        "Sinner": "Hypatia",
+        "Title": "Idle",
+        "File": "vo_hypatia_idle_001",
+        "Text": "Once the principles are understood, one can reverse-engineer a substance and reproduce it. But you're different. The mysteries around you are far too complex... Analysis might take time..."
+    },
+    "11040918": {
+        "Sinner": "Hypatia",
+        "Title": "Annoyed",
+        "File": "vo_hypatia_clicking_001",
+        "Text": "DisCity's idea of hospitality leaves much to be desired."
+    },
+    "11040919": {
+        "Sinner": "Hypatia",
+        "Title": "Special Attention",
+        "File": "vo_hypatia_specialattention_001",
+        "Text": "Sometimes, a gaze conveys more than words ever could. For instance... when you look at me, are you thinking of me?"
+    },
+    "11040920": {
+        "Sinner": "Hypatia",
+        "Title": "Dispatch",
+        "File": "vo_hypatia_dispatch_001",
+        "Text": "Who will do the deed?"
+    },
+    "11040921": {
+        "Sinner": "Hypatia",
+        "Title": "Dispatch Complete",
+        "File": "vo_hypatia_dispatch2_001",
+        "Text": "Hmm? Is this really all we need?"
+    },
+    "11040922": {
+        "Sinner": "Hypatia",
+        "Title": "Level Up",
+        "File": "vo_hypatia_levelup_002",
+        "Text": "Your support has been most valuable to me. Thank you."
+    },
+    "11040923": {
+        "Sinner": "Hypatia",
+        "Title": "Pat Head",
+        "File": "vo_hypatia_head_001",
+        "Text": "Elaborate hairstyles can hinder movement, but... maintaining one's appearance is also a noble's obligation."
+    },
+    "11040924": {
+        "Sinner": "Hypatia",
+        "Title": "Join Team",
+        "File": "bt_hypatia_jointeam_001",
+        "Text": "By all rights, I shouldn't be involved in DisCity's conflicts."
+    },
+    "11040925": {
+        "Sinner": "Hypatia",
+        "Title": "Danger!",
+        "File": "bt_hypatia_danger_001",
+        "Text": "Watch out!"
+    },
+    "11040926": {
+        "Sinner": "Hypatia",
+        "Title": "Received Order",
+        "File": "bt_hypatia_getorder_001",
+        "Text": "I'll stay by your side."
+    },
+    "11040927": {
+        "Sinner": "Hypatia",
+        "Title": "Attacked",
+        "File": "bt_hypatia_gethit_001_1",
+        "Text": "(Gets hit and suppresses a groan of pain)"
+    },
+    "11040928": {
+        "Sinner": "Hypatia",
+        "Title": "Normal Attack",
+        "File": "bt_hypatia_skill_001_2",
+        "Text": "Leave it to me."
+    },
+    "11040929": {
+        "Sinner": "Hypatia",
+        "Title": "Doubt",
+        "File": "vo_hypatia_doubt_001",
+        "Text": "Yes?"
+    },
+    "11040930": {
+        "Sinner": "Hypatia",
+        "Title": "Be surprised",
+        "File": "vo_hypatia_shock_001",
+        "Text": "Ah!"
+    },
+    "11040931": {
+        "Sinner": "Hypatia",
+        "Title": "Upgrade Skill",
+        "File": "vo_hypatia_promotion_001",
+        "Text": "Unchecked power will only lead to destruction."
+    },
     "11050101": {
         "Sinner": "Eirene",
         "Title": "Obtain the Sinner",
@@ -9076,6 +9262,66 @@
         "Title": "Upgrade Skill",
         "File": "vo_vautour_promotion_001",
         "Text": "Once you board my caravan, there's no turning back."
+    },
+    "110508100": {
+        "Sinner": "Vautour Bleu",
+        "Title": "Attire Obtained",
+        "File": "vo_vautour_yiqingmian_cacha_001",
+        "Text": "This silk and these treasures were all brought back by my caravan from Eastia. If anything catches your eye, feel free to take it. I've always been generous to those close to my heart."
+    },
+    "110508101": {
+        "Sinner": "Vautour Bleu",
+        "Title": "Level Up",
+        "File": "vo_vautour_yiqingmian_levelup_001",
+        "Text": "Your thoughtfulness means more to me than all this fine porcelain."
+    },
+    "110508102": {
+        "Sinner": "Vautour Bleu",
+        "Title": "Greeting",
+        "File": "vo_vautour_yiqingmian_greeting_001",
+        "Text": "I haven't even warmed up this silk gown yet, and you've already disturbed my lovely afternoon nap. Tell me, how do you plan to make it up to me?"
+    },
+    "110508103": {
+        "Sinner": "Vautour Bleu",
+        "Title": "Pat Head",
+        "File": "vo_vautour_yiqingmian_head_001",
+        "Text": "Even the smoke from the incense burner knows to drift away from me, yet you... only you dare to be so bold."
+    },
+    "110508104": {
+        "Sinner": "Vautour Bleu",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_vautour_yiqingmian_body_001",
+        "Text": "Those little creatures are chirping and squabbling again. I hear these birds are supposed to be an auspicious sign. Just a marketing gimmick. If you're interested, I could spin similar tales for you. I have an endless supply of these hope-inspiring rumors, so many we could talk for days and nights without running out."
+    },
+    "110508105": {
+        "Sinner": "Vautour Bleu",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_vautour_yiqingmian_body_002",
+        "Text": "Each artifact here has its own story. The carvings, drawings, fingerprints, even the cracks, they all form part of that narrative. It's just a shame... not a single one of these stories has a happy ending."
+    },
+    "110508106": {
+        "Sinner": "Vautour Bleu",
+        "Title": "Ordinary Contact 3",
+        "File": "vo_vautour_yiqingmian_righthand_001",
+        "Text": "I love those Eastians' way with words: sorrow smoke, purple haze, pining herb... With words alone, they can forever preserve the essence and memories of their homeland. It's truly enviable."
+    },
+    "110508107": {
+        "Sinner": "Vautour Bleu",
+        "Title": "Ordinary Contact 4",
+        "File": "vo_vautour_yiqingmian_leg_001",
+        "Text": "What are you staring at? Is it the luster of this Eastian silk, or... what it's covering? Who would have thought our little Chief could get so greedy?"
+    },
+    "110508108": {
+        "Sinner": "Vautour Bleu",
+        "Title": "Idle",
+        "File": "vo_vautour_yiqingmian_idle_001",
+        "Text": "The sun feels so nice, bet you're feeling like a nap too. There's still room on the daybed, come, join me."
+    },
+    "110508109": {
+        "Sinner": "Vautour Bleu",
+        "Title": "Special Attention",
+        "File": "vo_vautour_yiqingmian_specialattention_001",
+        "Text": "By merchant customs, anyone who visits Vautour Bleu's territory must leave something behind. But since you're skilled in neither fine brushwork nor the art of tea... Why not serve as my prized trophy instead? Here, keep me company while I rest."
     },
     "11050901": {
         "Sinner": "Yingying",
@@ -15738,6 +15984,186 @@
         "Title": "Upgrade Skill",
         "File": "vo_mira_promotion_001",
         "Text": "Payment received. Enjoy your stay!"
+    },
+    "11121201": {
+        "Sinner": "Lysandra",
+        "Title": "Obtain the Sinner",
+        "File": "vo_lysandra_cacha_001",
+        "Text": "I never make any effort to conceal my identity while traversing WhiteSands. The fact that the MBCC's tracked my movements based on this intel was simply a statistical inevitability, not fate."
+    },
+    "11121202": {
+        "Sinner": "Lysandra",
+        "Title": "Raise to Phase 1",
+        "File": "vo_lysandra_promotion_001",
+        "Text": "Let's proceed to the deeper sections now."
+    },
+    "11121203": {
+        "Sinner": "Lysandra",
+        "Title": "Raise to Phase 3",
+        "File": "vo_lysandra_promotion2_001",
+        "Text": "The logic behind fate has been completely dismantled. Any future outcome depends solely on my own decisions."
+    },
+    "11121204": {
+        "Sinner": "Lysandra",
+        "Title": "Level Start",
+        "File": "vo_lysandra_battlebegin_001",
+        "Text": "Hold still. Assess the situation carefully and we'll take it down in one clean strike."
+    },
+    "11121205": {
+        "Sinner": "Lysandra",
+        "Title": "Victory",
+        "File": "vo_lysandra_battlewin_001",
+        "Text": "Victory is never an accident, but the inevitable result of meticulous planning."
+    },
+    "11121206": {
+        "Sinner": "Lysandra",
+        "Title": "Lose Battles",
+        "File": "vo_lysandra_battlelose_001",
+        "Text": "Keep it together. The situation isn't that dire. It's panic that will get you killed."
+    },
+    "11121207": {
+        "Sinner": "Lysandra",
+        "Title": "Ultimate Skill",
+        "File": "bt_lysandra_uniqueskill_001",
+        "Text": "I will determine my own fate!"
+    },
+    "11121208": {
+        "Sinner": "Lysandra",
+        "Title": "Die in Battles",
+        "File": "bt_lysandra_dead_001",
+        "Text": "Keep going, don't worry about me..."
+    },
+    "11121209": {
+        "Sinner": "Lysandra",
+        "Title": "Greeting",
+        "File": "vo_lysandra_greeting_001",
+        "Text": "Hey. Still alive? That's... good. Um, I'm not great at small talk."
+    },
+    "11121210": {
+        "Sinner": "Lysandra",
+        "Title": "Conversation 1",
+        "File": "vo_lysandra_talk1_001",
+        "Text": "Those who blindly trust intuition and luck in tombs usually end up permanent residents, just like the original occupants."
+    },
+    "11121211": {
+        "Sinner": "Lysandra",
+        "Title": "Conversation 2",
+        "File": "vo_lysandra_talk1_002",
+        "Text": "I've explored countless tombs before. If the only thing you do when trapped is cry for help, the only response you'll get is the same desperate echo."
+    },
+    "11121212": {
+        "Sinner": "Lysandra",
+        "Title": "Conversation 3",
+        "File": "vo_lysandra_talk1_003",
+        "Text": "The Bottomless Pit is the most treacherous tomb there is, but if you want to go, I can take you on a tour without breaking a sweat. All those supernatural rumors are just smokescreens. With me leading the way, even the spirits will step aside."
+    },
+    "11121213": {
+        "Sinner": "Lysandra",
+        "Title": "Special Conversation 1",
+        "File": "vo_lysandra_talk2_001",
+        "Text": "If you need help, just say so. I'll get you what you ask for."
+    },
+    "11121214": {
+        "Sinner": "Lysandra",
+        "Title": "Special Conversation 2",
+        "File": "vo_lysandra_talk2_002",
+        "Text": "Compared to when I was in the tombs, I sleep longer at the MBCC and have fewer nightmares... Based on my experience, it's probably due to the higher quality bedding."
+    },
+    "11121215": {
+        "Sinner": "Lysandra",
+        "Title": "Special Conversation 3",
+        "File": "vo_lysandra_talk2_003",
+        "Text": "I've never believed in fate. If flipping the coin can grant me fate's guidance, then gripping it means holding fate in my own hands."
+    },
+    "11121216": {
+        "Sinner": "Lysandra",
+        "Title": "Full Compliance",
+        "File": "vo_lysandra_obeyfull_001",
+        "Text": "*Fate* is nothing but an elaborately packaged lie designed to sow chaos and breed fear. Yet you consistently break through these situations with pure rationality, maintaining control when others would falter—that's what makes you more powerful than it could ever be."
+    },
+    "11121217": {
+        "Sinner": "Lysandra",
+        "Title": "Idle",
+        "File": "vo_lysandra_idle_001",
+        "Text": "I noticed you're busy, so I found something to keep myself occupied. Just call if you need me."
+    },
+    "11121218": {
+        "Sinner": "Lysandra",
+        "Title": "Annoyed",
+        "File": "vo_lysandra_clicking_001",
+        "Text": "Bored? Hmm... Don't be."
+    },
+    "11121219": {
+        "Sinner": "Lysandra",
+        "Title": "Special Attention",
+        "File": "vo_lysandra_specialattention_001",
+        "Text": "You just want to watch me? I don't quite understand why, but whatever you say."
+    },
+    "11121220": {
+        "Sinner": "Lysandra",
+        "Title": "Dispatch",
+        "File": "vo_lysandra_dispatch_001",
+        "Text": "This mission is rather complicated. I'll scout ahead first."
+    },
+    "11121221": {
+        "Sinner": "Lysandra",
+        "Title": "Dispatch Complete",
+        "File": "vo_lysandra_dispatch2_001",
+        "Text": "Mission complete. The target location has a complex structure, so I've compiled a route guide we can use for future operations."
+    },
+    "11121222": {
+        "Sinner": "Lysandra",
+        "Title": "Level Up",
+        "File": "vo_lysandra_levelup_002",
+        "Text": "Obstacle eliminated. Proceeding deeper."
+    },
+    "11121223": {
+        "Sinner": "Lysandra",
+        "Title": "Join Team",
+        "File": "bt_lysandra_jointeam_001",
+        "Text": "Check your gear. Bring sufficient tools and ropes. We depart in five minutes."
+    },
+    "11121224": {
+        "Sinner": "Lysandra",
+        "Title": "Danger!",
+        "File": "bt_lysandra_danger_001",
+        "Text": "Ha."
+    },
+    "11121225": {
+        "Sinner": "Lysandra",
+        "Title": "Received Order",
+        "File": "bt_lysandra_getorder_001",
+        "Text": "OK."
+    },
+    "11121226": {
+        "Sinner": "Lysandra",
+        "Title": "Attacked",
+        "File": "bt_lysandra_gethit_001_1",
+        "Text": "(Gasps)"
+    },
+    "11121227": {
+        "Sinner": "Lysandra",
+        "Title": "Normal Attack",
+        "File": "bt_lysandra_skill_001_1",
+        "Text": "Hmph."
+    },
+    "11121228": {
+        "Sinner": "Lysandra",
+        "Title": "Doubt",
+        "File": "vo_lysandra_doubt_001",
+        "Text": "Yes?"
+    },
+    "11121229": {
+        "Sinner": "Lysandra",
+        "Title": "Shock",
+        "File": "vo_lysandra_shock_001",
+        "Text": "Ah!"
+    },
+    "11121230": {
+        "Sinner": "Lysandra",
+        "Title": "Upgrade Skill",
+        "File": "vo_lysandra_promotion_001",
+        "Text": "Let's proceed to the deeper sections now."
     },
     "11130101": {
         "Sinner": "Iron",
@@ -23527,6 +23953,56 @@
         "File": "vo_shawn_promotion_001",
         "Text": "You have expectations of me? All right, I'll try my best to live up to them."
     },
+    "111608100": {
+        "Sinner": "Shawn",
+        "Title": "Attire Obtained",
+        "File": "vo_shawn_weiliantuisong_cacha_001",
+        "Text": "I've plastered my photos with all sorts of fancy stickers, yet you're the only one who pushed past them to find the real me... So darling, shall we create some *unforgettable memories* together?"
+    },
+    "111608101": {
+        "Sinner": "Shawn",
+        "Title": "Level Up",
+        "File": "vo_shawn_weiliantuisong_levelup_001",
+        "Text": "Wow! So many likes."
+    },
+    "111608102": {
+        "Sinner": "Shawn",
+        "Title": "Greeting",
+        "File": "vo_shawn_weiliantuisong_greeting_001",
+        "Text": "Hmm, the color saturation of these balloons on the floor is just right, and the composition of this elevator space is impeccable... All that's missing in this picture is someone as flawless as you next to me."
+    },
+    "111608103": {
+        "Sinner": "Shawn",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_shawn_weiliantuisong_talk_001",
+        "Text": "Most people of this generation are lost in the virtual internet. No matter how many filters we apply, they can't disguise the emptiness of our lives... What we truly want, perhaps, is just genuine, vibrant emotion—or should I say, memories that won't fade with time."
+    },
+    "111608104": {
+        "Sinner": "Shawn",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_shawn_weiliantuisong_talk_002",
+        "Text": "By the way, have you ever thought about starting your own account? Someone as attractive as you would easily rack up a ton of followers. Dating rumors about us as two huge influencers must make the news... Just kidding, just kidding."
+    },
+    "111608105": {
+        "Sinner": "Shawn",
+        "Title": "Idle",
+        "File": "vo_shawn_weiliantuisong_idle_001",
+        "Text": "My account's been gaining quite a few followers lately... But when will you finally follow me?"
+    },
+    "111608106": {
+        "Sinner": "Shawn",
+        "Title": "Annoyed",
+        "File": "vo_shawn_weiliantuisong_clicking_001",
+        "Text": "Mmm, that's it. Come a little closer, I don't mind it at all."
+    },
+    "111608107": {
+        "Sinner": "Shawn",
+        "Title": "Special Attention",
+        "File": "vo_shawn_weiliantuisong_specialattention_001",
+        "Text": "Stay still. Keep looking at me... Hmm, perfect. I'm posting this one. Now for a caption... \"Every moment with you sparkles brightly.\"",
+        "File 2": "vo_shawn_weiliantuisong_specialattention_001",
+        "Text 2": "Stay still. Keep looking at me... Hmm, perfect. I'm posting this one. Now for a caption... \"Every moment with you sparkles brightly.\""
+    },
     "11160901": {
         "Sinner": "Zephyr",
         "Title": "Obtain the Sinner",
@@ -24570,6 +25046,54 @@
         "Title": "Special Attention",
         "File": "vo_hella_hongxinnvwang_specialattention_001",
         "Text": "Ahem, to keep our relationship fair and equal, as the Queen, I order you to... Hey! You're trying some funny business with the shackles again!?"
+    },
+    "112201120": {
+        "Sinner": "Hella",
+        "Title": "Attire Obtained",
+        "File": "vo_hella_shahaiqilv_cacha_001",
+        "Text": "Compass pointing due north, destination: the heart of WhiteSands! Make way, everyone! Hella is about to set sail on the grandest adventure!"
+    },
+    "112201121": {
+        "Sinner": "Hella",
+        "Title": "Level Up",
+        "File": "vo_hella_shahaiqilv_levelup_001",
+        "Text": "Wow, adventure funds? More, give me more!"
+    },
+    "112201122": {
+        "Sinner": "Hella",
+        "Title": "Greeting",
+        "File": "vo_hella_shahaiqilv_greeting_001",
+        "Text": "Hey! The sun's perfect right now. Let's hit the road! Treasure's waiting for us up ahead!"
+    },
+    "112201123": {
+        "Sinner": "Hella",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_hella_shahaiqilv_talk_001",
+        "Text": "Earlier I ran into a bunch of thugs trying to threaten me for money. I went straight at them with my pipe and beat them till they were ******* writhing and howling in pain! Took them all down by myself! Hehe, aren't I the coolest?"
+    },
+    "112201124": {
+        "Sinner": "Hella",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_hella_shahaiqilv_talk_002",
+        "Text": "I read this story in Hecate's book: Legend says deep in the desert, there's a cave hidden by some legendary desert bandit called Bali...baba? or something. It's filled with so much treasure that the whole DisCity couldn't spend it all in a lifetime! Ahem, so I figured while I'm out exploring, I might as well check it out. I mean... what if the story is true? Hehe..."
+    },
+    "112201125": {
+        "Sinner": "Hella",
+        "Title": "Idle",
+        "File": "vo_hella_shahaiqilv_idle_001",
+        "Text": "Good thing I *advanced* myself a few months of allowance from Chief's pocket before I set out. Never thought money would run out so quickly out here... Hmm, wonder what that dummy Chief and Hecate are up to right now..."
+    },
+    "112201126": {
+        "Sinner": "Hella",
+        "Title": "Annoyed",
+        "File": "vo_hella_shahaiqilv_clicking_001",
+        "Text": "What? Want to shake hands with the legendary adventurer Hella? Two hundred up front per shake, got it?"
+    },
+    "112201127": {
+        "Sinner": "Hella",
+        "Title": "Special Attention",
+        "File": "vo_hella_shahaiqilv_specialattention_001",
+        "Text": "My adventures are way more exciting than those stupid fairy tales! I've written everything down in my journal. You can all take turns reading it when I get back. But just so we're clear—no pointing out spelling mistakes this time!"
     },
     "11220201": {
         "Sinner": "Che",

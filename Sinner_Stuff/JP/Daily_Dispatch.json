@@ -2922,7 +2922,59 @@
             "Reward Qty": "1.0"
         }
     },
-    "176": {
+    "169": {
+        "Id": 1053001,
+        "Quality": "Purple",
+        "DispatchTitle": "学術交流",
+        "DispatchDescription": "最近、学界の第一線の情報を共有するため、管理局は内部科学交流会の開催を計画しており、特別にとあるコンビクトを招待した。",
+        "DispatchSinners": {
+            "Sinner": "ヒパティア"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "170": {
+        "Id": 1053002,
+        "Quality": "Green",
+        "DispatchTitle": "盗掘職人",
+        "DispatchDescription": "パトロール隊がディスシティの外周を巡回中、不審な深い穴を発見した。管理局は現在、調査に協力するため、関連作業の経験を持つコンビクトを派遣する必要がある。",
+        "DispatchSinners": {
+            "Sinner": "リサロ"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "171": {
+        "Id": 1053003,
+        "Quality": "Blue",
+        "DispatchTitle": "ディス宝物鑑定",
+        "DispatchDescription": "最近、治安局は闇市で狂瞳病に汚染された古代美術品を押収した。その中には贋作も混じっており、直接破棄する必要がある。美術品や古代遺物の鑑定に長けたコンビクト数名の協力が必要だ。",
+        "DispatchSinners": {
+            "Sinner 1": "リサロ",
+            "Sinner 2": "マックイーン"
+        },
+        "BaseAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "毒砂の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "172": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "夢の解析",

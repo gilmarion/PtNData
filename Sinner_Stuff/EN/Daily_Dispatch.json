@@ -2922,7 +2922,59 @@
             "Reward Qty": "1.0"
         }
     },
-    "176": {
+    "169": {
+        "Id": 1053001,
+        "Quality": "Purple",
+        "DispatchTitle": "Academic Exchange",
+        "DispatchDescription": "The Bureau is planning to organize an internal scientific conference to share cutting-edge developments from the scientific community, and has extended a special invitation to a particular Sinner.",
+        "DispatchSinners": {
+            "Sinner": "Hypatia"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "170": {
+        "Id": 1053002,
+        "Quality": "Green",
+        "DispatchTitle": "Tomb Raiding Professional",
+        "DispatchDescription": "While patrolling the outskirts of DisCity, the patrol discovered a suspicious pit. The Bureau now needs to send a Sinner with relevant excavation experience to assist with the investigation.",
+        "DispatchSinners": {
+            "Sinner": "Lysandra"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "171": {
+        "Id": 1053003,
+        "Quality": "Blue",
+        "DispatchTitle": "DisCity Appraisal",
+        "DispatchDescription": "The Public Security Bureau recently confiscated a collection of ancient artifacts contaminated with Mania from the black market. Some fakes are mixed among them, which must be destroyed immediately. They require assistance of several Sinners skilled in artifact and artwork appraisal.",
+        "DispatchSinners": {
+            "Sinner 1": "Lysandra",
+            "Sinner 2": "McQueen"
+        },
+        "BaseAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Arsenopyrite Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "172": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "Dream Interpretation",
