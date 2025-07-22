@@ -2975,6 +2975,75 @@
         }
     },
     "172": {
+        "Id": 1054001,
+        "Quality": "Purple",
+        "DispatchTitle": "든든한 친구",
+        "DispatchDescription": "정보원에 따르면 신성의 어느 한 부자가 암암리에 변이 무기 밀수 조직을 지원한다고 한다. 이에 따라 관리국은 작전 요원을 해당 인물의 사교계에 잠입시켜 조사를 진행할 예정이며, 현재 상류층 내에서 명망 있는 인물의 소개가 필요한 상황이다.",
+        "DispatchSinners": {
+            "Sinner": "파르·페"
+        },
+        "BaseAward": {
+            "Reward Item": "감염된 낭포",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "원시적 낭포",
+            "Reward Qty": "1.0"
+        }
+    },
+    "173": {
+        "Id": 1054002,
+        "Quality": "Purple",
+        "DispatchTitle": "죽음의 무도회",
+        "DispatchDescription": "최근 신성에서 무용 대회를 개최하고 있다. 대회 시작 이후 경기장 내 M 수치가 지속적으로 비정상적인 파동을 보이고 있다. 이에 FAC는 관리국에 무용에 능한 수감자를 파견해 작전 요원과 함께 잠입 조사를 해달라고 요청했다.",
+        "DispatchSinners": {
+            "Sinner": "자스민"
+        },
+        "BaseAward": {
+            "Reward Item": "얼음 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "174": {
+        "Id": 1054003,
+        "Quality": "Green",
+        "DispatchTitle": "비인기 여행지",
+        "DispatchDescription": "신성 치안 관리 기관에 대한 주민들의 이해를 높이기 위해 치안국에서 최근 일일 견학 프로그램을 기획했으나, 신청 인원이 매우 저조한 상황이다. 이에 따라 본 프로그램의 홍보를 맡아줄 인기 인플루언서의 도움이 필요하다.",
+        "DispatchSinners": {
+            "Sinner": "탈리아"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "175": {
+        "Id": 1054004,
+        "Quality": "Blue",
+        "DispatchTitle": "인플루언서 TOP 100",
+        "DispatchDescription": "최근, 신성의 여러 유명 블로거가 업계 모임에 초청받은 후 실종되었다. 관리국에서 신속히 인플루언서 업계에서 유명한 수감자를 파견해 잠복 조사를 진행해야 한다.",
+        "DispatchSinners": {
+            "Sinner 1": "탈리아",
+            "Sinner 2": "니노"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 얼음석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "176": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "꿈의 해석",

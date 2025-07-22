@@ -2975,6 +2975,75 @@
         }
     },
     "172": {
+        "Id": 1054001,
+        "Quality": "Purple",
+        "DispatchTitle": "Friends in High Places",
+        "DispatchDescription": "According to intelligence reports, an Eastside tycoon is covertly financing a Mania weapons smuggling ring. The Bureau will dispatch undercover agents to infiltrate their network for further investigation. To gain access, an introduction from a high-society insider will be required.",
+        "DispatchSinners": {
+            "Sinner": "Parfait"
+        },
+        "BaseAward": {
+            "Reward Item": "Infected Cyst",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Organic Cyst",
+            "Reward Qty": "1.0"
+        }
+    },
+    "173": {
+        "Id": 1054002,
+        "Quality": "Purple",
+        "DispatchTitle": "Deadly Dance Party",
+        "DispatchDescription": "Eastside is currently hosting a dance competition. Since the event began, M-values within the venue have been fluctuating abnormally. FAC has requested that the Bureau deploy a Sinner skilled in dance to accompany operatives for undercover investigation.",
+        "DispatchSinners": {
+            "Sinner": "Jasmine"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "174": {
+        "Id": 1054003,
+        "Quality": "Green",
+        "DispatchTitle": "Hidden Attraction",
+        "DispatchDescription": "To raise residents' awareness of Eastside's public security institutions, the Public Security Bureau recently organized a one-day tour event. However, participation has been low, and a popular influencer is now needed to boost engagement.",
+        "DispatchSinners": {
+            "Sinner": "Thalia"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "175": {
+        "Id": 1054004,
+        "Quality": "Blue",
+        "DispatchTitle": "Top Influencer",
+        "DispatchDescription": "Recently, several online influencers in Eastside have mysteriously disappeared after attending industry gatherings. The Bureau urgently needs to deploy a Sinner with established recognition in the influencer community for undercover investigation.",
+        "DispatchSinners": {
+            "Sinner 1": "Thalia",
+            "Sinner 2": "Nino"
+        },
+        "BaseAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Ice Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "176": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "Dream Interpretation",

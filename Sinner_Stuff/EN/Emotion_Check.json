@@ -295,6 +295,42 @@
             "Emoji 2": "😦"
         }
     },
+    "Jasmine": {
+        "Emotion Check 1": {
+            "Open": "[Jasmine is hiding something in her palm.]",
+            "Jasmine Question": "You came to see me... Jasmine just happens to have something wonderful that I'd like to give you.",
+            "Chief Question 1": "Thank you, but you've already given me so much lately. You don't need to keep giving me things.",
+            "Jasmine Response 1": "For you, Chief, no amount of wonderful gifts could ever be too much!",
+            "Emoji 1": [
+                "😘",
+                "😘",
+                "😘"
+            ],
+            "Chief Question 2": "The security cameras caught you wandering the hallway for quite a while earlier. What were you up to?",
+            "Jasmine Response 2": "Mmm, I found this beautiful ball of yarn in a corner! Jasmine wanted to give it to you, but... but Jasmine couldn't help playing with it for a little while first.",
+            "Emoji 2": [
+                "😖",
+                "😖"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Jasmine looks at you with concern.]",
+            "Jasmine Question": "You sneezed twice yesterday and four times today. Are you feeling unwell?",
+            "Chief Question 1": "Probably not. It's likely just dust mites and mold causing it.",
+            "Jasmine Response 1": "Then you should hold me! Jasmine is fragrant and refreshing, I can give you a comfortable work environment!",
+            "Emoji 1": [
+                "😘",
+                "😘",
+                "😘"
+            ],
+            "Chief Question 2": "I've been working overtime a lot lately. I might be coming down with something.",
+            "Jasmine Response 2": "I understand. Jasmine will do a dance to bless you right away. Please, you must stay healthy...",
+            "Emoji 2": [
+                "😫",
+                "😫"
+            ]
+        }
+    },
     "Bai Yi": {
         "Emotion Check 1": {
             "Open": "[Someone kicks open your office door.]",
@@ -1264,6 +1300,41 @@
             "Chief Question 2": "I still have work to do.",
             "Jelena Response 2": "If you're willing to trust me, I can assist with some of these tasks. That way you can get some much-needed rest.",
             "Emoji 2": "😖"
+        }
+    },
+    "Parfait": {
+        "Emotion Check 1": {
+            "Open": "[Parfait sits with her coffee cup, listening to the day's financial reports in quiet contentment.]",
+            "Parfait Question": "Oh, my dear friend, please sit! Come listen to today's breaking news with me! I also have some freshly imported beans, here, try this—",
+            "Chief Question 1": "Is this coffee? Why does it taste sweet and sour...",
+            "Parfait Response 1": "Delicious, isn't it? I added some special coffee creamer that an Eastian gave me. All good flavors deserve to be enjoyed—it's such a waste to let them go unused!",
+            "Emoji 1": [
+                "😏",
+                "😏"
+            ],
+            "Chief Question 2": "You've been listening for so long, did you gain anything from it?",
+            "Parfait Response 2": "Peaceful moments, wonderful drinks, and you coming to my side, that's the greatest gain of all.",
+            "Emoji 2": [
+                "😘",
+                "😘",
+                "😘"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Parfait invites you to appreciate an unfamiliar sonata.]",
+            "Parfait Question": "Listen—the crisp rhythms reveal the composer's clarity of mind, while the unconventional melodies are bold yet harmonious, reflecting an interesting and unique artistic spirit. Truly a masterpiece!",
+            "Chief Question 1": "Who's the maestro who composed this piece? Do you know them?",
+            "Parfait Response 1": "Aha! Such excellent taste! It's by an emerging composer I recently discovered. How about we broadcast this heavenly piece at the Bureau? Let's give everyone a bit of cultural enrichment!",
+            "Emoji 1": [
+                "😉",
+                "😉"
+            ],
+            "Chief Question 2": "It's alright, I guess. I can't really tell what makes it so unique...",
+            "Parfait Response 2": "That's rather disappointing, my friend. This is a new composer's debut work, but I have faith that she'll eventually create pieces everyone can truly appreciate!",
+            "Emoji 2": [
+                "😫",
+                "😫"
+            ]
         }
     },
     "Countess Chelsea": {
@@ -2275,6 +2346,41 @@
             "Chief Question 2": "Why not try sandwiches? They're quick to make and easy to eat.",
             "Pine Response 2": "Not a bad idea. I can also take some with me when I'm out. I'll give it a shot next time.",
             "Emoji 2": "😏"
+        }
+    },
+    "Thalia": {
+        "Emotion Check 1": {
+            "Open": "[Thalia wants to ask you to help set up her streaming equipment.]",
+            "Thalia Question": "Tonight's stream is crucial, and I need everything to be perfect. Come on, little assistant, lend me a hand.",
+            "Chief Question 1": "What kind of important stream is it? Let me see if I can rearrange my current workload.",
+            "Thalia Response 1": "I just secured an amazing deal with an instant noodle brand, buy one, get ten free! Oh, and does anyone at the Bureau want to stock up on instant noodles? Make sure to bring them to my stream!",
+            "Emoji 1": [
+                "😘",
+                "😘"
+            ],
+            "Chief Question 2": "Sure. Besides setting up the equipment, is there anything else I can help you with?",
+            "Thalia Response 2": "Just shout \"Smells amazing!\" and \"So good!\" whenever I ask my viewers if something smells good or tastes delicious. Here, take these throat lozenges.",
+            "Emoji 2": [
+                "😉",
+                "😉"
+            ]
+        },
+        "Emotion Check 2": {
+            "Open": "[Thalia holds up her camera, filming content inside the Bureau.]",
+            "Thalia Question": "Today I'm filming Thalia's daily life vlog at the Bureau. Chief, look at the camera and say hello to everyone!",
+            "Chief Question 1": "Any footage filmed inside the Bureau is for your personal viewing only. It cannot be released publicly.",
+            "Thalia Response 1": "Oh! So it's exclusive content! I'll save it then, and when I'm allowed to release it someday, I'll be the first to broadcast it and rake in massive views!",
+            "Emoji 1": [
+                "😉",
+                "😉"
+            ],
+            "Chief Question 2": "If you want to film vlogs, it'd probably be better to go outside.",
+            "Thalia Response 2": "That's perfect! While we're at it, you can come with me to a few events. After a day like that, I'll definitely have tons of content material!",
+            "Emoji 2": [
+                "😏",
+                "😏",
+                "😏"
+            ]
         }
     },
     "Victoria": {

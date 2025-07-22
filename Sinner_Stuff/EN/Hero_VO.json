@@ -2049,6 +2049,144 @@
         "File": "vo_nuokesi_poxiaozhian_specialattention_001",
         "Text": "Prayers don't bring miracles, nor can they elicit mercy out of demons... Only fighting can grant us the right to live... Chosen one, I will be the sharp blade in your hands and I shall bring the last hope to you and all who struggle to survive!"
     },
+    "110202120": {
+        "Sinner": "NOX",
+        "Title": "Attire Obtained",
+        "File": "vo_nuokesi_huazhongchenxi_cacha_001",
+        "Text": "I dreamed of a gentle sunrise on a hillside, a blanket of flowers covering the slope, and a girl... holding a bouquet of flowers in full bloom. It left an impression on me... so I tried to draw it. Would you... like to see?"
+    },
+    "110202121": {
+        "Sinner": "NOX",
+        "Title": "Level Up",
+        "File": "vo_nuokesi_huazhongchenxi_levelup_001",
+        "Text": "I can feel it... the warm sunlight."
+    },
+    "110202122": {
+        "Sinner": "NOX",
+        "Title": "Greeting",
+        "File": "vo_nuokesi_huazhongchenxi_greeting_001",
+        "Text": "Just a little longer—the painting needs more time to dry in the sun... You'll stay with me until it's finished, won't you?"
+    },
+    "110202123": {
+        "Sinner": "NOX",
+        "Title": "Pat Head",
+        "File": "vo_nuokesi_huazhongchenxi_head_001",
+        "Text": "Does this make you happy? Hmm... then I feel the same way."
+    },
+    "110202124": {
+        "Sinner": "NOX",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_nuokesi_huazhongchenxi_talk_001",
+        "Text": "I seem to see so many long-lost memories in this painting. I'm truly grateful I can still remember them... that I haven't lost them..."
+    },
+    "110202125": {
+        "Sinner": "NOX",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_nuokesi_huazhongchenxi_talk_002",
+        "Text": "Being away from death, separated from the constant cries of suffering and distress, being able to enjoy peace and sunlight... even if just for a moment, this feeling, it's... wonderful."
+    },
+    "110202126": {
+        "Sinner": "NOX",
+        "Title": "Ordinary Contact 3",
+        "File": "vo_nuokesi_huazhongchenxi_lefthand_001",
+        "Text": "Sunlight streams through the window and falls on us... I think I've always been waiting for a moment like this. Finally, we can bask in the sunlight together."
+    },
+    "110202127": {
+        "Sinner": "NOX",
+        "Title": "Ordinary Contact 4",
+        "File": "vo_nuokesi_huazhongchenxi_righthand_001",
+        "Text": "Dawn follows after the darkness of night, and flowers bloom among forgotten ruins... Can those who have crossed through death also find rebirth? Yes... I'm sure they can."
+    },
+    "110202128": {
+        "Sinner": "NOX",
+        "Title": "Idle",
+        "File": "vo_nuokesi_huazhongchenxi_idle_001",
+        "Text": "I saw it. The golden dawn... it's beautiful."
+    },
+    "110202129": {
+        "Sinner": "NOX",
+        "Title": "Annoyed",
+        "File": "vo_nuokesi_huazhongchenxi_clicking_001",
+        "Text": "Your hands... vibrant and soft... like flower petals in the morning light. I... really like them."
+    },
+    "110202130": {
+        "Sinner": "NOX",
+        "Title": "Special Attention",
+        "File": "vo_nuokesi_huazhongchenxi_specialattention_001",
+        "Text": "Thank you... for staying with me... to complete this painting together."
+    },
+    "110202131": {
+        "Sinner": "NOX",
+        "Title": "Join Team",
+        "File": "bt_nuokesi_huazhongchenxi_jointeam_001",
+        "Text": "I'll face it with you."
+    },
+    "110202132": {
+        "Sinner": "NOX",
+        "Title": "Level Start",
+        "File": "vo_nuokesi_huazhongchenxi_battlebegin_001",
+        "Text": "Where shall I go?"
+    },
+    "110202133": {
+        "Sinner": "NOX",
+        "Title": "Victory",
+        "File": "vo_nuokesi_huazhongchenxi_battlewin_001",
+        "Text": "The morning sun will dispel fear's shadows."
+    },
+    "110202134": {
+        "Sinner": "NOX",
+        "Title": "Lose Battles",
+        "File": "vo_nuokesi_huazhongchenxi_battlelose_001",
+        "Text": "It's alright, we can always draw a new one."
+    },
+    "110202135": {
+        "Sinner": "NOX",
+        "Title": "Ultimate Skill",
+        "File": "bt_nuokesi_huazhongchenxi_uniqueskill_001",
+        "Text": "Welcoming... the dawn."
+    },
+    "110202136": {
+        "Sinner": "NOX",
+        "Title": "Die in Battles",
+        "File": "bt_nuokesi_huazhongchenxi_dead_001",
+        "Text": "The scenery in the painting... has faded away..."
+    },
+    "110202137": {
+        "Sinner": "NOX",
+        "Title": "Interaction 1",
+        "File": "vo_nuokesi_huazhongchenxi_drag_001",
+        "Text": "There we go! You can open your eyes now!"
+    },
+    "110202138": {
+        "Sinner": "NOX",
+        "Title": "Interaction 2",
+        "File": "vo_nuokesi_huazhongchenxi_dragback_001",
+        "Text": "Hmm? Is something wrong with my hair?"
+    },
+    "110202139": {
+        "Sinner": "NOX",
+        "Title": "Interaction 3",
+        "File": "vo_nuokesi_huazhongchenxi_dragbody_001",
+        "Text": "Look! I'm holding the sun in my hands."
+    },
+    "110202140": {
+        "Sinner": "NOX",
+        "Title": "Interaction 4",
+        "File": "vo_nuokesi_huazhongchenxi_draghand_001",
+        "Text": "Is this... for me?"
+    },
+    "110202141": {
+        "Sinner": "NOX",
+        "Title": "Interaction 5",
+        "File": "vo_nuokesi_huazhongchenxi_dragleg_001",
+        "Text": "...It's the sound of the wind."
+    },
+    "110202142": {
+        "Sinner": "NOX",
+        "Title": "Exit Interaction",
+        "File": "vo_nuokesi_huazhongchenxi_dragreturn_001",
+        "Text": "The sun will rise again tomorrow, and I'll be right here waiting for you."
+    },
     "11020301": {
         "Sinner": "Deren",
         "Title": "Obtain the Sinner",
@@ -2527,6 +2665,68 @@
         "File": "vo_don_promotion_001",
         "Text": "Is the situation that bleak? You must put even me under special training?"
     },
+    "110204100": {
+        "Sinner": "Donald",
+        "Title": "Attire Obtained",
+        "File": "vo_don_fenghuazhengmao_cacha_001",
+        "Text": "Huh, a new face... Hahaha, relax buddy, relax. Here in Rustfire, as long as you're willing to fight for the future of the West District, you're already one of us. Hey, everyone! Come meet our newbie. From now on, we're all brothers in arms."
+    },
+    "110204101": {
+        "Sinner": "Donald",
+        "Title": "Level Up",
+        "File": "vo_don_fenghuazhengmao_levelup_001",
+        "Text": "See? I always said the future would be better."
+    },
+    "110204102": {
+        "Sinner": "Donald",
+        "Title": "Greeting",
+        "File": "vo_don_fenghuazhengmao_greeting_001",
+        "Text": "Hey! Come over here, come on! No need to act like we're strangers, we're buddies now, aren't we? Get close and huddle up with everyone. That's right! Now we actually look like a team."
+    },
+    "110204103": {
+        "Sinner": "Donald",
+        "Title": "Pat Head",
+        "File": "vo_don_fenghuazhengmao_head_001",
+        "Text": "You brat! We've barely met and you're already getting handsy... My aunt went all out on my hair for today, you know. Mess it up and you'll owe me!",
+        "File 2": "vo_don_fenghuazhengmao_head_001m",
+        "Text 2": "You brat! We've barely met and you're already getting handsy... My aunt went all out on my hair for today, you know. Mess it up and you'll owe me!"
+    },
+    "110204104": {
+        "Sinner": "Donald",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_don_fenghuazhengmao_body_001",
+        "Text": "I swear this outfit is uncomfortable everywhere. The tag on the back keeps scratching me, and the armpits are so tight... If Julien hadn't insisted on formal wear today, I wouldn't be caught dead in this. Ugh, I wonder how those pretentious Nirvana folks manage to stand wearing this stuff every day."
+    },
+    "110204105": {
+        "Sinner": "Donald",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_don_fenghuazhengmao_body_002",
+        "Text": "Well, since you're a newbie, I should be giving you the whole spiel about Rustfire's philosophy, our ideals and all that. But today's a good day, so let's just skip all the formalities. Just enjoy the moment!"
+    },
+    "110204106": {
+        "Sinner": "Donald",
+        "Title": "Ordinary Contact 3",
+        "File": "vo_don_fenghuazhengmao_hand_001",
+        "Text": "Here, let me introduce you to everyone. This is Samuel, my good brother in Rustfire who keeps saving my ass on the battlefield. This is Lavina, Rustfire's instructor and Samuel's beautiful wife. The one in the wheelchair is Julien, our architect, who also holds the positions of number one Donald critic and resident cynic in Rustfire... Hehe, but of course, he's also my dear friend."
+    },
+    "110204107": {
+        "Sinner": "Donald",
+        "Title": "Ordinary Contact 4",
+        "File": "vo_don_fenghuazhengmao_background_001",
+        "Text": "By the time we finish up here, it'll be dark, and that's when the night market in the back alleys opens. How about we all go grab a bite together? Don't worry, it's on me!"
+    },
+    "110204108": {
+        "Sinner": "Donald",
+        "Title": "Idle",
+        "File": "vo_don_fenghuazhengmao_idle_001",
+        "Text": "Doves, ribbons, clear blue skies... Everyone's gathered together, celebrating our victory. It's just like a dream... Heh, if this is a dream, I hope I don't wake up too soon."
+    },
+    "110204109": {
+        "Sinner": "Donald",
+        "Title": "Special Attention",
+        "File": "vo_don_fenghuazhengmao_specialattention_001",
+        "Text": "Come on, come on, snap a picture of us! Make sure you capture yours truly in all my magnificent glory, the kind you see once every hundred years! Hey you guys, come on! Hurry up! Look at the camera too! Ready, one, two, three, cheese—"
+    },
     "11020501": {
         "Sinner": "Yao",
         "Title": "Obtain the Sinner",
@@ -2958,6 +3158,240 @@
         "Title": "Upgrade Skill",
         "File": "vo_pylgia_promotion_001",
         "Text": "As long as the environment keeps changing... evolution will never cease..."
+    },
+    "110206100": {
+        "Sinner": "Pylgia",
+        "Title": "Attire Obtained",
+        "File": "vo_pylgia_shuixingzhiguan_cacha_001",
+        "Text": "In the cerulean glow of the abyss, I was born; adrift in confluents and frothy tides, I wandered... And now, here I am, bereft of self, all but a showing piece awaiting the demise of my sanity. What, pray tell, makes you linger?"
+    },
+    "110206101": {
+        "Sinner": "Pylgia",
+        "Title": "Level Up",
+        "File": "vo_pylgia_shuixingzhiguan_levelup_001",
+        "Text": "Might it... enable me to traverse the barrier and stand by your side?"
+    },
+    "110206102": {
+        "Sinner": "Pylgia",
+        "Title": "Greeting",
+        "File": "vo_pylgia_shuixingzhiguan_greeting_001",
+        "Text": "This is... an abyssal trench tainted by darkness—where water halts and time slows.... Only you, can bring hope and change to this cage of vast voids..."
+    },
+    "110206103": {
+        "Sinner": "Pylgia",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_pylgia_shuixingzhiguan_talk_001",
+        "Text": "Those who visit here, they merely glance my way. They just... stand aloof, like deep-sea creatures that shy away from getting close. But you—you are different... Pardon me, I don't disdain it. I'm just feeling... bewildered."
+    },
+    "110206104": {
+        "Sinner": "Pylgia",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_pylgia_shuixingzhiguan_talk_002",
+        "Text": "Once I viewed the human world from afar, weaving through the oceanic vessels, in want of the starlight gleaming at harbors... Always mesmerized by those things, untouchable yet captivating, much as now I anticipate the light in your eyes."
+    },
+    "110206105": {
+        "Sinner": "Pylgia",
+        "Title": "Idle",
+        "File": "vo_pylgia_shuixingzhiguan_idle_001",
+        "Text": "Hark... the sound of water striking this glass, isn't it... so much like the currents caressing the beach rocks? They'll both drift you into dreams..."
+    },
+    "110206106": {
+        "Sinner": "Pylgia",
+        "Title": "Annoyed",
+        "File": "vo_pylgia_shuixingzhiguan_clicking_001",
+        "Text": "This translucent wall does us part... I can sense you across this thalassic vast, yet I could not reach you, for we are worlds apart."
+    },
+    "110206107": {
+        "Sinner": "Pylgia",
+        "Title": "Special Attention",
+        "File": "vo_pylgia_shuixingzhiguan_specialattention_001",
+        "Text": "These viewers... They come and go, surveying the exhibits, selecting what they adore, while we too observe them... How wondrous it is, then, that we chose each other. Perhaps this is what humanity deems a \"soul match.\""
+    },
+    "11020801": {
+        "Sinner": "Jasmine",
+        "Title": "Obtain the Sinner",
+        "File": "vo_jasmine_cacha_001",
+        "Text": "You are... the famous Chief of DisCity? Just as I imagined, such a kind, noble figure. To think you went through all this trouble just to summon me here... Would you like me to perform an Outland dance for you?"
+    },
+    "11020802": {
+        "Sinner": "Jasmine",
+        "Title": "Raise to Phase 1",
+        "File": "vo_jasmine_promotion_001",
+        "Text": "Such a generous offer... How could I ever repay your kindness, I wonder?"
+    },
+    "11020803": {
+        "Sinner": "Jasmine",
+        "Title": "Raise to Phase 3",
+        "File": "vo_jasmine_promotion2_001",
+        "Text": "A beautiful dancer, a caged pet... I'll be anything for you, even... the deadliest weapon in your hands."
+    },
+    "11020804": {
+        "Sinner": "Jasmine",
+        "Title": "Level Start",
+        "File": "vo_jasmine_battlebegin_001",
+        "Text": "You'll want to keep your eyes on me for this dance!"
+    },
+    "11020805": {
+        "Sinner": "Jasmine",
+        "Title": "Victory",
+        "File": "vo_jasmine_battlewin_001",
+        "Text": "This crimson staining the floor... is the most beautiful reward for a dancer's performance."
+    },
+    "11020806": {
+        "Sinner": "Jasmine",
+        "Title": "Lose Battles",
+        "File": "vo_jasmine_battlelose_001",
+        "Text": "Have I... disappointed you?"
+    },
+    "11020807": {
+        "Sinner": "Jasmine",
+        "Title": "Ultimate Skill",
+        "File": "bt_jasmine_uniqueskijasmine_001",
+        "Text": "Come, dance with me!"
+    },
+    "11020808": {
+        "Sinner": "Jasmine",
+        "Title": "Die in Battles",
+        "File": "bt_jasmine_dead_001",
+        "Text": "At last... I'm returning home..."
+    },
+    "11020809": {
+        "Sinner": "Jasmine",
+        "Title": "Greeting",
+        "File": "vo_jasmine_greeting_001",
+        "Text": "Have you come seeking my company, Chief, or would you like a dance for your entertainment?"
+    },
+    "11020810": {
+        "Sinner": "Jasmine",
+        "Title": "Conversation 1",
+        "File": "vo_jasmine_talk1_001",
+        "Text": "The faster my blades spin, the louder the audience cheers. They throw flowers and jewels, pleading for more thrilling moves... Hehe, do they even realize? The prettier the dance, the deadlier it becomes..."
+    },
+    "11020811": {
+        "Sinner": "Jasmine",
+        "Title": "Conversation 2",
+        "File": "vo_jasmine_talk1_002",
+        "Text": "This is a blessing dance, passed down through generations in my homeland... but now, I'm the only one left who remembers it. Normally, I'd never share it with outsiders—none of them are worthy of it. But you... you're different."
+    },
+    "11020812": {
+        "Sinner": "Jasmine",
+        "Title": "Conversation 3",
+        "File": "vo_jasmine_talk1_003",
+        "Text": "In my homeland, everyone loved jasmine flowers, as they symbolize purity and happiness. That's why I was given this name. Chief, do you think someone like me... still deserves it?"
+    },
+    "11020813": {
+        "Sinner": "Jasmine",
+        "Title": "Special Conversation 1",
+        "File": "vo_jasmine_talk2_001",
+        "Text": "This place is so much nicer than anywhere I've lived before—shacks, tents... I've even slept in haystacks! But the thing I remember most? A little golden cage, gleaming so bright. I'd dance in it by day, sleep in it by night... It was so small, though. We'd have to hold each other very close to fit inside."
+    },
+    "11020814": {
+        "Sinner": "Jasmine",
+        "Title": "Special Conversation 2",
+        "File": "vo_jasmine_talk2_002",
+        "Text": "These circular blades aren't just for show, Chief... Every night, they whisper in my ear, reminding me to harvest every last devil who took everything from me!"
+    },
+    "11020815": {
+        "Sinner": "Jasmine",
+        "Title": "Special Conversation 3",
+        "File": "vo_jasmine_talk2_003",
+        "Text": "I can tell it's not safe around you... Cold, dangerous eyes hiding in every shadow. But don't be afraid. Take my hand, I'm right here. I'll tear your enemies apart for you... No one will ever make you their prey!"
+    },
+    "11020816": {
+        "Sinner": "Jasmine",
+        "Title": "Full Compliance",
+        "File": "vo_jasmine_obeyfull_001",
+        "Text": "I'm not used to the way others look at me, like hungry beasts, fangs bared, all wanting a taste... But you're different. The look in your eyes is gentle. Reminds me of the breeze in my homeland. If you'd allow it, I would love to nestle close, just listening to your voice. No pain, no harm... only quiet moments, together."
+    },
+    "11020817": {
+        "Sinner": "Jasmine",
+        "Title": "Idle",
+        "File": "vo_jasmine_idle_001",
+        "Text": "Oh? Why are you curled up sleeping like this... Are you cold? Here, let me warm you up..."
+    },
+    "11020818": {
+        "Sinner": "Jasmine",
+        "Title": "Annoyed",
+        "File": "vo_jasmine_clicking_001",
+        "Text": "They say my scars are like flowers... blooming in flesh and blood. Some even begged to touch them, haha, as if that would bring them happiness. Would you like to try, too?"
+    },
+    "11020819": {
+        "Sinner": "Jasmine",
+        "Title": "Special Attention",
+        "File": "vo_jasmine_specialattention_001",
+        "Text": "I love the way you watch me so intently... As long as I have your full attention, I'd dance for you without ever stopping."
+    },
+    "11020820": {
+        "Sinner": "Jasmine",
+        "Title": "Dispatch",
+        "File": "vo_jasmine_dispatch_001",
+        "Text": "Where would you like me to perform?"
+    },
+    "11020821": {
+        "Sinner": "Jasmine",
+        "Title": "Dispatch Complete",
+        "File": "vo_jasmine_dispatch2_001",
+        "Text": "Look what I found on my guest! My, it got a little dirty. No matter, just a quick wipe, and it'll be good as new."
+    },
+    "11020822": {
+        "Sinner": "Jasmine",
+        "Title": "Level Up",
+        "File": "vo_jasmine_levelup_002",
+        "Text": "Thank you for your generosity. I love it all!"
+    },
+    "11020823": {
+        "Sinner": "Jasmine",
+        "Title": "Pat Head",
+        "File": "vo_jasmine_head_001",
+        "Text": "Your hands are so warm... Just a little longer, okay? Consider it... a reward for my beautiful dance."
+    },
+    "11020824": {
+        "Sinner": "Jasmine",
+        "Title": "Join Team",
+        "File": "bt_jasmine_jointeam_001",
+        "Text": "Ah, all these eyes on me... how exciting!"
+    },
+    "11020825": {
+        "Sinner": "Jasmine",
+        "Title": "Danger!",
+        "File": "bt_jasmine_danger_001",
+        "Text": "Oh my!"
+    },
+    "11020826": {
+        "Sinner": "Jasmine",
+        "Title": "Received Order",
+        "File": "bt_jasmine_getorder_001",
+        "Text": "Whatever you say."
+    },
+    "11020827": {
+        "Sinner": "Jasmine",
+        "Title": "Attacked",
+        "File": "bt_jasmine_gethit_001_1",
+        "Text": "Ouch..."
+    },
+    "11020828": {
+        "Sinner": "Jasmine",
+        "Title": "Normal Attack",
+        "File": "bt_jasmine_skill_001_1",
+        "Text": "(gleeful yet unsettling laughter)"
+    },
+    "11020829": {
+        "Sinner": "Jasmine",
+        "Title": "Doubt",
+        "File": "vo_jasmine_doubt_001",
+        "Text": "Huh?"
+    },
+    "11020830": {
+        "Sinner": "Jasmine",
+        "Title": "Shock",
+        "File": "vo_jasmine_shock_001",
+        "Text": "Exclamation"
+    },
+    "11020831": {
+        "Sinner": "Jasmine",
+        "Title": "Upgrade Skill",
+        "File": "vo_jasmine_promotion_001",
+        "Text": "Such a generous offer... How could I ever repay your kindness, I wonder?"
     },
     "11030101": {
         "Sinner": "Bai Yi",
@@ -11711,6 +12145,194 @@
         "File": "vo_jelena_promotion_001",
         "Text": "If that is your desire, I will see to it that every single request is met."
     },
+    "11060901": {
+        "Sinner": "Parfait",
+        "Title": "Obtain the Sinner",
+        "File": "vo_parfait_cacha_001",
+        "Text": "Oh, esteemed Chief, I believe there must be some misunderstanding. In case you're unaware, I am Parfait, a financier and philanthropist, by no means involved in any illegal activities. I have connections throughout every industry in DisCity, and they can all vouch for me... Wait, please let me finish what I'm saying—"
+    },
+    "11060902": {
+        "Sinner": "Parfait",
+        "Title": "Raise to Phase 1",
+        "File": "vo_parfait_promotion_001",
+        "Text": "Thank you for your trust. The \"Parfait\" concept stock is precisely one that repeatedly hits the ceiling and doubles in value."
+    },
+    "11060903": {
+        "Sinner": "Parfait",
+        "Title": "Raise to Phase 3",
+        "File": "vo_parfait_promotion2_001",
+        "Text": "No need to worry too much. Compared to DisCity, the greatest bubble of them all, my talent for fabrication is really just a... harmless little trick. Wouldn't you agree?"
+    },
+    "11060904": {
+        "Sinner": "Parfait",
+        "Title": "Level Start",
+        "File": "vo_parfait_battlebegin_001",
+        "Text": "Do you have a project you'd like me to evaluate? No problem, consider it thoroughly vetted."
+    },
+    "11060905": {
+        "Sinner": "Parfait",
+        "Title": "Victory",
+        "File": "vo_parfait_battlewin_001",
+        "Text": "Winner takes all! Picking you is the best investment I've ever made."
+    },
+    "11060906": {
+        "Sinner": "Parfait",
+        "Title": "Lose Battles",
+        "File": "vo_parfait_battlelose_001",
+        "Text": "No illusion, no matter how dazzling, is anything more than a bubble. And bubbles always pop."
+    },
+    "11060907": {
+        "Sinner": "Parfait",
+        "Title": "Ultimate Skill",
+        "File": "bt_parfait_uniqueskill_001",
+        "Text": "Across-the-board limit up!"
+    },
+    "11060908": {
+        "Sinner": "Parfait",
+        "Title": "Die in Battles",
+        "File": "bt_parfait_dead_001",
+        "Text": "In the end... it was all for nothing..."
+    },
+    "11060909": {
+        "Sinner": "Parfait",
+        "Title": "Greeting",
+        "File": "vo_parfait_greeting_001",
+        "Text": "What a lucky start to my day. The first person I run into is you, my esteemed friend! I'm sure the rest of the day will be absolutely delightful."
+    },
+    "11060910": {
+        "Sinner": "Parfait",
+        "Title": "Conversation 1",
+        "File": "vo_parfait_talk1_001",
+        "Text": "Oh, the so-called \"dinner with Parfait\"—really just a clever disguise for people seeking investment advice... or my checkbook. But for such a pleasant occasion as dinner, I'd much rather be with someone who has stories worth savoring... someone like you, my esteemed friend. So, would you honor me with your company tonight?"
+    },
+    "11060911": {
+        "Sinner": "Parfait",
+        "Title": "Conversation 2",
+        "File": "vo_parfait_talk1_002",
+        "Text": "Oh my goodness, I nearly forgot about the art exhibition today! I must call the gallery at once... I do hope they'll set aside a few masterpieces for me, considering I'm such a loyal patron."
+    },
+    "11060912": {
+        "Sinner": "Parfait",
+        "Title": "Conversation 3",
+        "File": "vo_parfait_talk1_003",
+        "Text": "I don't actually understand \"money printing,\" and my knowledge about specific papers, watermarks, and such is rudimentary at best... But here's the thing: currency's real value has always come from people's trust in it. And since people seem to trust me... well, let's just say no one's ever stopped to question the money I handle."
+    },
+    "11060913": {
+        "Sinner": "Parfait",
+        "Title": "Special Conversation 1",
+        "File": "vo_parfait_talk2_001",
+        "Text": "That Supply Office head of yours—Miss Faye, the one with the purple hair—she's quite the character. Silver-tongued, of course, but she's also got this knack for making people walk away with her little trinkets. We hit it off splendidly... And would you believe it? We even share the \"feɪ\" in our names! Maybe we're long-lost relatives."
+    },
+    "11060914": {
+        "Sinner": "Parfait",
+        "Title": "Special Conversation 2",
+        "File": "vo_parfait_talk2_002",
+        "Text": "This city is simply teeming with my dearest friends. They've gifted me everything from material comforts to the most exquisite intellectual diversions... and so, of course, I must return the favor! Fine dining, art, globe-trotting... if it brings joy, and I possess it, why hoard it? All must be shared with these utterly delightful companions."
+    },
+    "11060915": {
+        "Sinner": "Parfait",
+        "Title": "Special Conversation 3",
+        "File": "vo_parfait_talk2_003",
+        "Text": "Hey, my friend, would you like to join me for a concert at the Eastside Theatre tomorrow? And forget about those meaningless concerns about status or expenses. Enjoying wonderful things is a universal right. Only those with abysmal taste—and dreadfully empty souls—cling to their gilded barriers, pathetically convinced that exclusion equals elegance."
+    },
+    "11060916": {
+        "Sinner": "Parfait",
+        "Title": "Full Compliance",
+        "File": "vo_parfait_obeyfull_001",
+        "Text": "My business ventures are quite extensive, and yes, they do come with some \"slight\" risks. In recent years, I've increasingly felt the need for a... partner. This person's background matters not, but they must be intelligent, brave, and kind-hearted. Most importantly... I hope they can trust me. And I'd like to share some genuine secrets with them. You are the perfect candidate in my eyes, my esteemed friend. What do you say, would this arrangement interest you?",
+        "File 2": "vo_parfait_obeyfull_001f",
+        "Text 2": "My business ventures are quite extensive, and yes, they do come with some \"slight\" risks. In recent years, I've increasingly felt the need for a... partner. This person's background matters not, but they must be intelligent, brave, and kind-hearted. Most importantly... I hope they can trust me. And I'd like to share some genuine secrets with them. You are the perfect candidate in my eyes, my esteemed friend. What do you say, would this arrangement interest you?"
+    },
+    "11060917": {
+        "Sinner": "Parfait",
+        "Title": "Idle",
+        "File": "vo_parfait_idle_001",
+        "Text": "Falling asleep on me? Sweet dreams, my friend. After all, they're the one luxury even money can't buy."
+    },
+    "11060918": {
+        "Sinner": "Parfait",
+        "Title": "Annoyed",
+        "File": "vo_parfait_clicking_001",
+        "Text": "Like my outfits and accessories? Don't worry, no knockoffs here. When I say I \"create wealth,\" I mean enough to afford the real deal!"
+    },
+    "11060919": {
+        "Sinner": "Parfait",
+        "Title": "Special Attention",
+        "File": "vo_parfait_specialattention_001",
+        "Text": "Oh, my dear friend! Now that you're here, do stay and chat with me. Those thrilling stories of yours are utterly fascinating."
+    },
+    "11060920": {
+        "Sinner": "Parfait",
+        "Title": "Dispatch",
+        "File": "vo_parfait_dispatch_001",
+        "Text": "Are we going to a theatre? Or perhaps an art exhibition? I'm as familiar with such places as I am with my own backyard."
+    },
+    "11060921": {
+        "Sinner": "Parfait",
+        "Title": "Dispatch Complete",
+        "File": "vo_parfait_dispatch2_001",
+        "Text": "I ran into several financial journalists on my way here... That was close! Lucky for me, I'm light on my feet, otherwise I'd never have made it back."
+    },
+    "11060922": {
+        "Sinner": "Parfait",
+        "Title": "Level Up",
+        "File": "vo_parfait_levelup_002",
+        "Text": "Oh? An investment in my expertise? It appears your recent earnings have been quite substantial, my esteemed friend."
+    },
+    "11060923": {
+        "Sinner": "Parfait",
+        "Title": "Pat Head",
+        "File": "vo_parfait_head_001",
+        "Text": "Excellent taste. This hairstyle is the look in Paradeisos right now—takes a certain flair to carry it off. Should I put in a word with my stylist?"
+    },
+    "11060924": {
+        "Sinner": "Parfait",
+        "Title": "Join Team",
+        "File": "bt_parfait_jointeam_001",
+        "Text": "Your trust means everything, my esteemed friend. And let me tell you, this investment is going to make you very happy."
+    },
+    "11060925": {
+        "Sinner": "Parfait",
+        "Title": "Danger!",
+        "File": "bt_parfait_danger_001",
+        "Text": "Careful now."
+    },
+    "11060926": {
+        "Sinner": "Parfait",
+        "Title": "Received Order",
+        "File": "bt_parfait_getorder_001",
+        "Text": "Understood."
+    },
+    "11060927": {
+        "Sinner": "Parfait",
+        "Title": "Attacked",
+        "File": "bt_parfait_gethit_001_1",
+        "Text": "(Grunts)"
+    },
+    "11060928": {
+        "Sinner": "Parfait",
+        "Title": "Normal Attack",
+        "File": "bt_parfait_skill_001_1",
+        "Text": "(Bellows)"
+    },
+    "11060929": {
+        "Sinner": "Parfait",
+        "Title": "Doubt",
+        "File": "vo_parfait_doubt_001",
+        "Text": "Huh?"
+    },
+    "11060930": {
+        "Sinner": "Parfait",
+        "Title": "Shock",
+        "File": "vo_parfait_shock_001",
+        "Text": "Ah!"
+    },
+    "11060931": {
+        "Sinner": "Parfait",
+        "Title": "Upgrade Skill",
+        "File": "vo_parfait_promotion_001",
+        "Text": "Thank you for your trust. The \"Parfait\" concept stock is precisely one that repeatedly hits the ceiling and doubles in value."
+    },
     "11110101": {
         "Sinner": "Countess Chelsea",
         "Title": "Obtain the Sinner",
@@ -14759,6 +15381,54 @@
         "File": "vo_duoli_promotion_001",
         "Text": "Such strong power... if only I could control it."
     },
+    "111204100": {
+        "Sinner": "Dolly",
+        "Title": "Attire Obtained",
+        "File": "vo_duoli_riluohuiji_cacha_001",
+        "Text": "Chief, this is my secret training hideout for baseball practice. Pretty cool, right?"
+    },
+    "111204101": {
+        "Sinner": "Dolly",
+        "Title": "Level Up",
+        "File": "vo_duoli_riluohuiji_levelup_001",
+        "Text": "Nice hit!"
+    },
+    "111204102": {
+        "Sinner": "Dolly",
+        "Title": "Greeting",
+        "File": "vo_duoli_riluohuiji_greeting_001",
+        "Text": "I was wondering why those sparrows were chirping all over the place, so it was you! Hehe, I knew you'd love this place."
+    },
+    "111204103": {
+        "Sinner": "Dolly",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_duoli_riluohuiji_body_001",
+        "Text": "This place is huge—I can go all out without worrying about beaning someone with a foul ball. Oh, and... you'll keep my practice sessions here a secret, right Chief? Hehe, in exchange, you get a free pass to relax here anytime you want."
+    },
+    "111204104": {
+        "Sinner": "Dolly",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_duoli_riluohuiji_body_002",
+        "Text": "There aren't many rules here. Just don't get hit by the ball. When you're tired, sit down and look at the sky, watch the sparrows, or head to the factory for a vending machine...\nThough none of them work anymore. I accidentally smashed one during practice last time, but I think there are still some sodas left inside. Wanna...?"
+    },
+    "111204105": {
+        "Sinner": "Dolly",
+        "Title": "Idle",
+        "File": "vo_duoli_riluohuiji_idle_001",
+        "Text": "Counting sparrows helps me relax... One... Two... Three sparrows are ah... ah-ACHOO! Ugh, now they're all gone..."
+    },
+    "111204106": {
+        "Sinner": "Dolly",
+        "Title": "Annoyed",
+        "File": "vo_duoli_riluohuiji_clicking_001",
+        "Text": "What? This is a batting stance I just invented, it saves energy when fighting Corruptors. Don't believe me? Try it yourself!"
+    },
+    "111204107": {
+        "Sinner": "Dolly",
+        "Title": "Special Attention",
+        "File": "vo_duoli_riluohuiji_specialattention_001",
+        "Text": "Look, isn't the view beautiful here? Every day after practicing until I'm completely exhausted, I wipe off my sweat, feel the evening breeze, and look up at the sunset, it never fails to make me happy. Hey, don't just stare at me! The sun is about to disappear!"
+    },
     "11120501": {
         "Sinner": "Horo",
         "Title": "Obtain the Sinner",
@@ -15804,6 +16474,66 @@
         "Title": "Upgrade Skill",
         "File": "vo_rise_promotion_001",
         "Text": "We have achieved milestones in our work."
+    },
+    "111209100": {
+        "Sinner": "Rise",
+        "Title": "Attire Obtained",
+        "File": "vo_rise_xingjieshouwang_cacha_001",
+        "Text": "Across thousands of galaxies and tens of thousands of planets, my lightsaber has guided me here. Throughout this long journey, you are the only one that I have been drawn to by destiny's pull. I ask of you, are you my companion?"
+    },
+    "111209101": {
+        "Sinner": "Rise",
+        "Title": "Level Up",
+        "File": "vo_rise_xingjieshouwang_levelup_002",
+        "Text": "This radiant glow grows ever brighter because of you."
+    },
+    "111209102": {
+        "Sinner": "Rise",
+        "Title": "Greeting",
+        "File": "vo_rise_xingjieshouwang_greeting_001",
+        "Text": "May the light of justice be with you."
+    },
+    "111209103": {
+        "Sinner": "Rise",
+        "Title": "Pat Head",
+        "File": "vo_rise_xingjieshouwang_head_001",
+        "Text": "Do you sense it too? The mysterious force that exists between all things. A vast and omnipresent energy. Heroes use it to uphold justice, while villains bend it to their will for their own purposes... It dwells within all of us."
+    },
+    "111209104": {
+        "Sinner": "Rise",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_rise_xingjieshouwang_talk1_001",
+        "Text": "I've traveled through the universe, witnessing brilliant worlds consumed by darkness and tyrannical hells overthrown and shattered. No matter what, I swear never to stand idle as justice and light fade away."
+    },
+    "111209105": {
+        "Sinner": "Rise",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_rise_xingjieshouwang_talk1_002",
+        "Text": "The chosen one who will defeat all evil? Surely you don't believe in that so-called prophecy, do you? Personally, I believe that if everyone could act with integrity, the world wouldn't fall into darkness and chaos, and we wouldn't need a messiah at all."
+    },
+    "111209106": {
+        "Sinner": "Rise",
+        "Title": "Ordinary Contact 3",
+        "File": "vo_rise_xingjieshouwang_hand_001",
+        "Text": "This lightsaber gives meaning to my existence as a warrior. It grants me the power to punish the wicked and uplift righteousness, it reminds me of my duty to protect justice, and it guided me to... you."
+    },
+    "111209107": {
+        "Sinner": "Rise",
+        "Title": "Ordinary Contact 4",
+        "File": "vo_rise_xingjieshouwang_shoulder_001",
+        "Text": "Do not falter before the darkness. As long as we fight side by side, we will surely cleanse and vanquish these evils. I believe light and hope will ultimately triumph through our hands."
+    },
+    "111209108": {
+        "Sinner": "Rise",
+        "Title": "Idle",
+        "File": "vo_rise_xingjieshouwang_idle_001",
+        "Text": "This radiant sky of iridescent stars is truly captivating, but I believe the shining virtues residing in people's hearts are equally worthy of our reverence."
+    },
+    "111209109": {
+        "Sinner": "Rise",
+        "Title": "Special Attention",
+        "File": "vo_rise_xingjieshouwang_specialattention_001",
+        "Text": "We will always walk together on the path of justice. You are never alone."
     },
     "11121001": {
         "Sinner": "Mira",
@@ -19974,6 +20704,188 @@
         "Title": "Upgrade Skill",
         "File": "vo_pine_promotion_001",
         "Text": "Thanks, they'll come in handy for restocking my launcher's ammo. These gadgets are pretty much gone once used."
+    },
+    "11140901": {
+        "Sinner": "Thalia",
+        "Title": "Obtain the Sinner",
+        "File": "vo_thalia_cacha_001",
+        "Text": "Hello, I'm Thalia Ellington. You've seen my channel, I assume? I have to say, this place of yours has some character to it. We could film a nice MBCC tour vlog here with some product placements... Hmm? MBCC doesn't need promotion?"
+    },
+    "11140902": {
+        "Sinner": "Thalia",
+        "Title": "Raise to Phase 1",
+        "File": "vo_thalia_promotion_001",
+        "Text": "Sponsorships? The more, the merrier."
+    },
+    "11140903": {
+        "Sinner": "Thalia",
+        "Title": "Raise to Phase 3",
+        "File": "vo_thalia_promotion2_001",
+        "Text": "Fame and glory are just fleeting illusions. The only things that matter are what you can hold in your hands."
+    },
+    "11140904": {
+        "Sinner": "Thalia",
+        "Title": "Level Start",
+        "File": "vo_thalia_battlebegin_001",
+        "Text": "Wrap this up quick. I've got a major livestream to catch."
+    },
+    "11140905": {
+        "Sinner": "Thalia",
+        "Title": "Victory",
+        "File": "vo_thalia_battlewin_001",
+        "Text": "Honestly? This is what you needed me for?"
+    },
+    "11140906": {
+        "Sinner": "Thalia",
+        "Title": "Lose Battles",
+        "File": "vo_thalia_battlelose_001",
+        "Text": "End the stream now, or we'll lose everything!"
+    },
+    "11140907": {
+        "Sinner": "Thalia",
+        "Title": "Ultimate Skill",
+        "File": "bt_thalia_uniqueskill_001",
+        "Text": "Shop like you mean it!"
+    },
+    "11140908": {
+        "Sinner": "Thalia",
+        "Title": "Die in Battles",
+        "File": "bt_thalia_dead_001",
+        "Text": "Is there still a chance... to start over..."
+    },
+    "11140909": {
+        "Sinner": "Thalia",
+        "Title": "Greeting",
+        "File": "vo_thalia_greeting_001",
+        "Text": "Hello, lovelies! Whether you had a good day or not yesterday, you're always welcome in Thalia's stream. Today I've invited a very special guest who'll be sharing their exclusive must-have favorites... Chief, the spotlight is yours!",
+        "File 2": "vo_thalia_greeting_001",
+        "Text 2": "Hello, lovelies! Whether you had a good day or not yesterday, you're always welcome in Thalia's stream. Today I've invited a very special guest who'll be sharing their exclusive must-have favorites... Chief, the spotlight is yours!"
+    },
+    "11140910": {
+        "Sinner": "Thalia",
+        "Title": "Conversation 1",
+        "File": "vo_thalia_talk1_001",
+        "Text": "From handcrafted haute couture to rare Outland artifacts—even bulk packs of instant noodles for the whole family—my stream has it all. Whatever you desire, consider it yours."
+    },
+    "11140911": {
+        "Sinner": "Thalia",
+        "Title": "Conversation 2",
+        "File": "vo_thalia_talk1_002",
+        "Text": "Chief, you don't look so good. Those fine lines around your eyes are really showing... How about this—I can recommend a night cream that I've personally tested with excellent results. It's budget-friendly, and if you use my promo code, it's three for the price of two. Pretty sweet deal, isn't it?"
+    },
+    "11140912": {
+        "Sinner": "Thalia",
+        "Title": "Conversation 3",
+        "File": "vo_thalia_talk1_003",
+        "Text": "Being an influencer isn't as easy as it looks. I wake up at five every day, filming all morning, editing six different versions of product reviews during lunch, attending events in the afternoon, streaming past midnight, and still squeezing in more work—all on four hours of sleep... Not everyone can keep up with a schedule like this."
+    },
+    "11140913": {
+        "Sinner": "Thalia",
+        "Title": "Special Conversation 1",
+        "File": "vo_thalia_talk2_001",
+        "Text": "People follow me for different reasons—some want the latest trends, some crave a peek into a lifestyle they don't have, some take inspiration from my \"success story,\" and some are just bored. I play along with all of them. But you... you don't seem to fit any of those boxes."
+    },
+    "11140914": {
+        "Sinner": "Thalia",
+        "Title": "Special Conversation 2",
+        "File": "vo_thalia_talk2_002",
+        "Text": "When my family went bankrupt, I asked relatives and acquaintances for help, only to be turned away like some stray. That's when I swore I'd never leave my dignity at someone else's doorstep again... Later, I became successful, and those people suddenly came crawling back. But don't worry, I'm nothing if not generous. I made sure to give them a few extra discount coupons."
+    },
+    "11140915": {
+        "Sinner": "Thalia",
+        "Title": "Special Conversation 3",
+        "File": "vo_thalia_talk2_003",
+        "Text": "The Ellington family crest bears a hummingbird, meant to symbolize diligence and prosperity. Funny how those were the two things my family never quite mastered. Turns out, they just skipped a generation. After all, who clawed her way back to wealth? That would be me."
+    },
+    "11140916": {
+        "Sinner": "Thalia",
+        "Title": "Full Compliance",
+        "File": "vo_thalia_obeyfull_001",
+        "Text": "When I was at my lowest, one thought kept me going—that tomorrow is a new day, and that new day will surely be better than today. You know that feeling, don't you? I can see it in you—the same refusal to bow to fate... That's why I want to invite you to join me. Together, let's welcome every new day."
+    },
+    "11140917": {
+        "Sinner": "Thalia",
+        "Title": "Idle",
+        "File": "vo_thalia_idle_001",
+        "Text": "Hey, snap out of it! If you've got nothing better to do, why not come with me to an event? I could use an assistant."
+    },
+    "11140918": {
+        "Sinner": "Thalia",
+        "Title": "Annoyed",
+        "File": "vo_thalia_clicking_001",
+        "Text": "You like this? Good taste! It's our latest featured product. If you want one, I can give you an exclusive deal."
+    },
+    "11140919": {
+        "Sinner": "Thalia",
+        "Title": "Special Attention",
+        "File": "vo_thalia_specialattention_001",
+        "Text": "Since you seem to enjoy looking at me so much, why not become my photographer? That way, you can admire me from every angle—with a perfectly legitimate excuse."
+    },
+    "11140920": {
+        "Sinner": "Thalia",
+        "Title": "Dispatch",
+        "File": "vo_thalia_dispatch_001",
+        "Text": "So, which brand had the good taste to invite me?"
+    },
+    "11140921": {
+        "Sinner": "Thalia",
+        "Title": "Dispatch Complete",
+        "File": "vo_thalia_dispatch2_001",
+        "Text": "A client sent me some gifts. Here, you can take them."
+    },
+    "11140922": {
+        "Sinner": "Thalia",
+        "Title": "Level Up",
+        "File": "vo_thalia_levelup_002",
+        "Text": "The sales from this stream actually held up quite well."
+    },
+    "11140923": {
+        "Sinner": "Thalia",
+        "Title": "Join Team",
+        "File": "bt_thalia_jointeam_001",
+        "Text": "This place isn't exactly ideal for content... Fine, I'll just have to make it work."
+    },
+    "11140924": {
+        "Sinner": "Thalia",
+        "Title": "Danger!",
+        "File": "bt_thalia_danger_001",
+        "Text": "Be careful!"
+    },
+    "11140925": {
+        "Sinner": "Thalia",
+        "Title": "Received Order",
+        "File": "bt_thalia_getorder_001",
+        "Text": "Aight na."
+    },
+    "11140926": {
+        "Sinner": "Thalia",
+        "Title": "Attacked",
+        "File": "bt_thalia_gethit_001_1",
+        "Text": "Exclamation"
+    },
+    "11140927": {
+        "Sinner": "Thalia",
+        "Title": "Normal Attack",
+        "File": "bt_thalia_skill_001_1",
+        "Text": "Pistol shot"
+    },
+    "11140928": {
+        "Sinner": "Thalia",
+        "Title": "Doubt",
+        "File": "vo_thalia_doubt_001",
+        "Text": "Yes?"
+    },
+    "11140929": {
+        "Sinner": "Thalia",
+        "Title": "Shock",
+        "File": "vo_thalia_shock_001",
+        "Text": "Mmph!"
+    },
+    "11140930": {
+        "Sinner": "Thalia",
+        "Title": "Upgrade Skill",
+        "File": "vo_thalia_promotion_001",
+        "Text": "Sponsorships? The more, the merrier."
     },
     "11150101": {
         "Sinner": "Victoria",

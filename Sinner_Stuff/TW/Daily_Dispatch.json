@@ -1973,7 +1973,7 @@
         "Id": 1035003,
         "Quality": "Blue",
         "DispatchTitle": "偽裝貴族",
-        "DispatchDescription": "新城治安局因故需派出警員裝扮成貴族小姐進行潛入搜查，需要精通服裝搭配和香氛鑒賞的禁閉者支援。",
+        "DispatchDescription": "新城治安局因故需派出警員裝扮成貴族小姐進行潛入搜查，需要精通服裝搭配和香氛鑑賞的禁閉者支援。",
         "DispatchSinners": {
             "Sinner 1": "卡西婭",
             "Sinner 2": "加洛法諾"
@@ -2975,6 +2975,75 @@
         }
     },
     "172": {
+        "Id": 1054001,
+        "Quality": "Purple",
+        "DispatchTitle": "出門靠朋友",
+        "DispatchDescription": "據線報稱，新城某富豪暗中資助狂厄武器走私組織，管理局將派出行動人員潛伏進入其社交圈進行調查，現需上流階層有名望的人士為其引薦。",
+        "DispatchSinners": {
+            "Sinner": "芭·菲"
+        },
+        "BaseAward": {
+            "Reward Item": "感染囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "173": {
+        "Id": 1054002,
+        "Quality": "Purple",
+        "DispatchTitle": "奪命舞會",
+        "DispatchDescription": "新城近日正在舉辦舞蹈大會，自開賽以來，場館內M值一直波動異常，FAC向管理局申請派出一位擅長舞蹈的禁閉者隨行動人員潛入調查。",
+        "DispatchSinners": {
+            "Sinner": "茉莉"
+        },
+        "BaseAward": {
+            "Reward Item": "冰晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石精礦",
+            "Reward Qty": "1.0"
+        }
+    },
+    "174": {
+        "Id": 1054003,
+        "Quality": "Green",
+        "DispatchTitle": "冷門景點",
+        "DispatchDescription": "為提升居民對新城治安管理機構的瞭解，治安局近期開展了一日參觀活動，但報名者寥寥，現需一名人氣網紅為活動進行宣傳。",
+        "DispatchSinners": {
+            "Sinner": "塔利婭"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石精礦",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石粗礦",
+            "Reward Qty": "1.0"
+        }
+    },
+    "175": {
+        "Id": 1054004,
+        "Quality": "Blue",
+        "DispatchTitle": "百大網紅",
+        "DispatchDescription": "近期，新城多名網紅在受邀參與業內聚會後神秘失蹤，急需管理局派出在網紅界小有名氣的禁閉者臥底調查。",
+        "DispatchSinners": {
+            "Sinner 1": "塔利婭",
+            "Sinner 2": "妮諾"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石精礦",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石精礦",
+            "Reward Qty": "1.0"
+        }
+    },
+    "176": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "夢的解析",

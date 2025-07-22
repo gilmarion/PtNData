@@ -2975,6 +2975,75 @@
         }
     },
     "172": {
+        "Id": 1054001,
+        "Quality": "Purple",
+        "DispatchTitle": "社会で頼れるのは友",
+        "DispatchDescription": "情報筋の話によると、ニューシティのとある富豪が狂瞳武器の密輸組織に密かに資金提供をしているという。管理局はその社交圏に作戦メンバーを潜入させる予定で、現在その富豪を紹介してくれる上流階級の名士を探している。",
+        "DispatchSinners": {
+            "Sinner": "パフェ"
+        },
+        "BaseAward": {
+            "Reward Item": "感染された嚢胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生嚢胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "173": {
+        "Id": 1054002,
+        "Quality": "Purple",
+        "DispatchTitle": "死を招くダンス大会",
+        "DispatchDescription": "ニューシティでは最近ダンス大会が開催されているが、大会開始以来、会場内のM値が異常な波動を見せ続けている。FACは管理局に対し、ダンスに長けたコンビクトを作戦メンバーと共に潜入調査へ派遣するよう要請した。",
+        "DispatchSinners": {
+            "Sinner": "ジャスミン"
+        },
+        "BaseAward": {
+            "Reward Item": "氷晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "174": {
+        "Id": 1054003,
+        "Quality": "Green",
+        "DispatchTitle": "不人気スポット",
+        "DispatchDescription": "ニューシティの治安管理機関に対する市民の理解を深めるため、治安局は最近一日見学イベントの開催を発表した。しかし応募者が少ないため、現在イベントの宣伝を担当する人気インフルエンサーを求めている。",
+        "DispatchSinners": {
+            "Sinner": "タリア"
+        },
+        "BaseAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "175": {
+        "Id": 1054004,
+        "Quality": "Blue",
+        "DispatchTitle": "トップ100インフルエンサー",
+        "DispatchDescription": "最近、ニューシティでは業界の集まりに招待された複数のインフルエンサーが謎の失踪を遂げる事件が相次いでいる。管理局は、インフルエンサー界隈である程度の知名度を持つコンビクトを潜入調査に派遣する必要がある。",
+        "DispatchSinners": {
+            "Sinner 1": "タリア",
+            "Sinner 2": "ニノ"
+        },
+        "BaseAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "氷の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "176": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "夢の解析",

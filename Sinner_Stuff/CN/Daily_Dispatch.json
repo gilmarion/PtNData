@@ -2975,6 +2975,75 @@
         }
     },
     "172": {
+        "Id": 1054001,
+        "Quality": "Purple",
+        "DispatchTitle": "出门靠朋友",
+        "DispatchDescription": "据线报称，新城某富豪暗中资助狂厄武器走私组织，管理局将派出行动人员潜伏进入其社交圈进行调查，现需上流阶层有名望的人士为其引荐。",
+        "DispatchSinners": {
+            "Sinner": "芭·菲"
+        },
+        "BaseAward": {
+            "Reward Item": "感染囊胞",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "原生囊胞",
+            "Reward Qty": "1.0"
+        }
+    },
+    "173": {
+        "Id": 1054002,
+        "Quality": "Purple",
+        "DispatchTitle": "夺命舞会",
+        "DispatchDescription": "新城近日正在举办舞蹈大会，自开赛以来，场馆内M值一直波动异常，FAC向管理局申请派出一位擅长舞蹈的禁闭者随行动人员潜入调查。",
+        "DispatchSinners": {
+            "Sinner": "茉莉"
+        },
+        "BaseAward": {
+            "Reward Item": "冰晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "174": {
+        "Id": 1054003,
+        "Quality": "Green",
+        "DispatchTitle": "冷门景点",
+        "DispatchDescription": "为提升居民对新城治安管理机构的了解，治安局近期开展了一日参观活动，但报名者寥寥，现需一名人气博主为活动进行宣传。",
+        "DispatchSinners": {
+            "Sinner": "塔利娅"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石粗矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "175": {
+        "Id": 1054004,
+        "Quality": "Blue",
+        "DispatchTitle": "百大博主",
+        "DispatchDescription": "近期，新城多名网络博主在受邀参与业内聚会后神秘失踪，急需管理局派出在网红界小有名气的禁闭者卧底调查。",
+        "DispatchSinners": {
+            "Sinner 1": "塔利娅",
+            "Sinner 2": "妮诺"
+        },
+        "BaseAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "冰石精矿",
+            "Reward Qty": "1.0"
+        }
+    },
+    "176": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "梦的解析",
