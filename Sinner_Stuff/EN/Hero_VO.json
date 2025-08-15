@@ -87,13 +87,13 @@
         "Sinner": "Demon",
         "Title": "Special Conversation 3",
         "File": "vo_dimeng_talk2_003",
-        "Text": "Fighting alongside you might be the only sensible choice I've made my whole life."
+        "Text": "Fighting alongside you might be the only sensible choice I've made in my whole life."
     },
     "11010116": {
         "Sinner": "Demon",
         "Title": "Full Compliance",
         "File": "vo_dimeng_obeyfull_001",
-        "Text": "Those whom I could call friends are all gone now. Try to... stay alive a bit longer. Don't die in front of me."
+        "Text": "Those whom I could call my friends are all gone now. Try to... stay alive a bit longer. Don't die in front of me."
     },
     "11010117": {
         "Sinner": "Demon",
@@ -111,7 +111,7 @@
         "Sinner": "Demon",
         "Title": "Special Attention",
         "File": "vo_dimeng_specialattention_001",
-        "Text": "Are you monitoring me? Or... do you need someone to protect your safety?"
+        "Text": "Are you monitoring me? Or... do you need someone to keep you safe?"
     },
     "11010120": {
         "Sinner": "Demon",
@@ -4581,6 +4581,54 @@
         "File": "vo_adela_talouzhuguang_specialattention_001",
         "Text": "I can see the earnestness in your eyes. If your request is for me to leave the tower with you, then I will. But before we do that, I hope you can stay here for a while longer, to take a break and relax."
     },
+    "110304110": {
+        "Sinner": "Adela",
+        "Title": "Attire Obtained",
+        "File": "vo_adela_linzhongke_cacha_001",
+        "Text": "Your troubles, I have scried them in the eyes of the envoy guiding you on your path... Troubled souls burned by mist. Before the banquet begins, allow me to cut away those tresses of distressing memories from your mind."
+    },
+    "110304111": {
+        "Sinner": "Adela",
+        "Title": "Level Up",
+        "File": "vo_adela_linzhongke_levelup_001",
+        "Text": "Fly high and far, to guide those who would drown in their sorrows."
+    },
+    "110304112": {
+        "Sinner": "Adela",
+        "Title": "Greeting",
+        "File": "vo_adela_linzhongke_greeting_001",
+        "Text": "Here, let me remove this leaf from your hair... There's no need to be hasty, the banquet hasn't begun yet."
+    },
+    "110304113": {
+        "Sinner": "Adela",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_adela_linzhongke_body_001",
+        "Text": "Don't be afraid. The swallow-tailed kite is my eyes and my companion. See how its forked tail scissors, slicing through the locks of dark mist to guide you, ripping through the curtains of the banquet, bringing you to my side so that we could meet..."
+    },
+    "110304114": {
+        "Sinner": "Adela",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_adela_linzhongke_body_002",
+        "Text": "The bells of the banquet will soon ring, but the path is steeped with crawling branches. You need a clean, wide road where you can run freely. Please, allow me to stay by your side and trim them away for you. I would be delighted to be of service."
+    },
+    "110304115": {
+        "Sinner": "Adela",
+        "Title": "Idle",
+        "File": "vo_adela_linzhongke_idle_001",
+        "Text": "Shh... Lower your voice. The prey always steps into the boundary between light and darkness of its own volition..."
+    },
+    "110304116": {
+        "Sinner": "Adela",
+        "Title": "Annoyed",
+        "File": "vo_adela_linzhongke_clicking_001",
+        "Text": "The swallow-tailed kite's feathers are soft, but its talons are sharp as scissors."
+    },
+    "110304117": {
+        "Sinner": "Adela",
+        "Title": "Special Attention",
+        "File": "vo_adela_linzhongke_specialattention_001",
+        "Text": "Thank you for coming in such fine attire. Before you take my arm and escort me into the hall, please allow me to make one final adjustment to your hair."
+    },
     "11030501": {
         "Sinner": "Mantis",
         "Title": "Obtain the Sinner",
@@ -5565,7 +5613,7 @@
         "Sinner": "Summer",
         "Title": "Conversation 1",
         "File": "vo_xiayin_talk1_001",
-        "Text": "Watch closely. This is the *Ring Weapon*, not a *Mania weapon*. They are fundamentally different. Give me a break. How could I possibly make an inferior product like that?"
+        "Text": "Watch closely. This is the *Ring Weapon*, not a *Corruptor weapon*. They are fundamentally different. Give me a break. How could I possibly make an inferior product like that?"
     },
     "11040111": {
         "Sinner": "Summer",
@@ -11217,6 +11265,54 @@
         "File": "vo_coquelicot_shengfang_specialattention_001",
         "Text": "The new garden has many rare flowering plants that can't be found even in DisCity, like purple water lilies, dancing-lady orchids... Hmm? You only want to see poppies? Well, in that case, you can just look at me."
     },
+    "110604110": {
+        "Sinner": "Coquelic",
+        "Title": "Attire Obtained",
+        "File": "vo_coquelicot_feisemilin_cacha_001",
+        "Text": "Oh? Another morsel walking straight into my lair... I don't mind your company, but a predator's forest is far more dangerous than you can imagine. The banquet has already begun, so I'll be watching with anticipation—let's see if you can take what you desire from this feast without becoming part of it."
+    },
+    "110604111": {
+        "Sinner": "Coquelic",
+        "Title": "Level Up",
+        "File": "vo_coquelicot_feisemilin_levelup_001",
+        "Text": "I see you understand the etiquette of a feast. Very good."
+    },
+    "110604112": {
+        "Sinner": "Coquelic",
+        "Title": "Greeting",
+        "File": "vo_coquelicot_feisemilin_greeting_001",
+        "Text": "Coming to see me every day... Are you enchanted by the gentle forest night, or perhaps you crave the delicacies laid upon the table? Or could it be... my lie-laced wine that has you so addicted?"
+    },
+    "110604113": {
+        "Sinner": "Coquelic",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_coquelicot_feisemilin_talk_001",
+        "Text": "Deep in the forest stands an ancient castle, without light, devoid of life, a place even the guests of the banquet refuse to visit. Yet murky shadows stir restlessly behind its unpolished windows as midnight approaches. Some whisper that it's a slumbering vampire, waiting for the next grand ball..."
+    },
+    "110604114": {
+        "Sinner": "Coquelic",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_coquelicot_feisemilin_talk_002",
+        "Text": "The rules of the forest banquet aren't complicated at all—just like hide and seek. Those who catch their prey feast gloriously, while those who fail to hide become dessert... Don't worry, tonight's desserts are quite enough. I wouldn't want you to become an after-dinner plaything for my little kitty so soon."
+    },
+    "110604115": {
+        "Sinner": "Coquelic",
+        "Title": "Idle",
+        "File": "vo_coquelicot_feisemilin_idle_001",
+        "Text": "Then let's stay like this a little longer. After all, the banquet isn't over yet, and this forest... has always been delighted to entertain guests like you."
+    },
+    "110604116": {
+        "Sinner": "Coquelic",
+        "Title": "Annoyed",
+        "File": "vo_coquelicot_feisemilin_clicking_001",
+        "Text": "Perhaps my drink needs some new ingredients, like those prying fingers of yours."
+    },
+    "110604117": {
+        "Sinner": "Coquelic",
+        "Title": "Special Attention",
+        "File": "vo_coquelicot_feisemilin_specialattention_001",
+        "Text": "Hm... I like the look in your eyes. Raw, honest, brimming with the desire to survive, to triumph, to conquer... The outside world has so many conceited rules, but here in the depths of the dense forest, there are no such constraints. If you wish to dance, then dance."
+    },
     "11060501": {
         "Sinner": "Eve",
         "Title": "Obtain the Sinner",
@@ -11464,6 +11560,54 @@
         "Title": "Special Attention",
         "File": "vo_eve_xinghuizhiye_specialattention_001",
         "Text": "Why do you gaze at me so? If there is worse news, please, do tell. Nothing could be more dreadful than the endless, empty days of imprisonment within that crystal ball."
+    },
+    "110605110": {
+        "Sinner": "Eve",
+        "Title": "Attire Obtained",
+        "File": "vo_eve_cangjimilin_cacha_001",
+        "Text": "Over the years, this forsaken garden has gradually fallen to the encroaching frost, yet it now welcomes an unexpected visitor... Since you cannot leave for the time being, why not stay and join the final feast before all of nature slumbers?"
+    },
+    "110605111": {
+        "Sinner": "Eve",
+        "Title": "Level Up",
+        "File": "vo_eve_cangjimilin_levelup_001",
+        "Text": "Little bear, little bear, grow up fast, grow up soon..."
+    },
+    "110605112": {
+        "Sinner": "Eve",
+        "Title": "Greeting",
+        "File": "vo_eve_cangjimilin_greeting_001",
+        "Text": "The snowy forest is treacherous to traverse. Please, sit beside me and have a cup of hot tea. If you would... tell me about the world beyond this frozen realm. What is it like now?"
+    },
+    "110605113": {
+        "Sinner": "Eve",
+        "Title": "Ordinary Contact 1",
+        "File": "vo_eve_cangjimilin_talk1_001",
+        "Text": "This feast has always had only two attendees. Myself and my little bear. We've kept each other company and shared warmth amidst the icy rime, until... you joined us."
+    },
+    "110605114": {
+        "Sinner": "Eve",
+        "Title": "Ordinary Contact 2",
+        "File": "vo_eve_cangjimilin_talk1_002",
+        "Text": "This place is silent, cold, pale, and monotonous, yet they speak of it as if it were a fairy tale winter wonderland... If I am truly the protagonist of a fairy tale, then it must be a tale of heartless tragedy."
+    },
+    "110605115": {
+        "Sinner": "Eve",
+        "Title": "Idle",
+        "File": "vo_eve_cangjimilin_idle_001",
+        "Text": "Listen, that's the sound of the frigid winds caressing the treetops... a lullaby for sweet winter dreams."
+    },
+    "110605116": {
+        "Sinner": "Eve",
+        "Title": "Annoyed",
+        "File": "vo_eve_cangjimilin_clicking_001",
+        "Text": "Though my little bear is still but a cub, it already possesses enough strength to serve as my loyal guardian."
+    },
+    "110605117": {
+        "Sinner": "Eve",
+        "Title": "Special Attention",
+        "File": "vo_eve_cangjimilin_specialattention_001",
+        "Text": "The feast is not yet over, and I shall not depart so easily. But perhaps next spring, someone will take my hand and lead me out of this timeworn blanket of ice and snow."
     },
     "11060601": {
         "Sinner": "Du Ruo",
