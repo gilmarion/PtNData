@@ -6812,6 +6812,147 @@
             }
         }
     },
+    "1061001": {
+        "ID Num": 1061001,
+        "Event Title": "++* ⚠ Ocean Think Tank",
+        "Event Desc": "//Shin has sent you a request.//",
+        "Sinner": "Shin",
+        "Text": {
+            "Text 1": "Shin proposes the establishment of a think tank that would provide DisSea intelligence to the Bureau's researchers.",
+            "Choice 2": "Reject",
+            "Text 3": "To prevent Shin's contaminated knowledge from spreading, you rejected her proposal to establish a think tank and demanded that she share the intelligence with you privately instead."
+        }
+    },
+    "1061002": {
+        "ID Num": 1061002,
+        "Event Title": "++* ⚠ Educational Illustrations",
+        "Event Desc": "//You discover some interesting things in Shin's room.//",
+        "Sinner": "Shin",
+        "Text": {
+            "Text 1": "You discover some hand-drawn pictures on Shin's desk.",
+            "Choice 2": "Pick up",
+            "Text 3": "They are all sketches of Mania creatures."
+        }
+    },
+    "1061011": {
+        "ID Num": 1061011,
+        "Event Title": "++* ⚠⚠ Times Have Changed",
+        "Event Desc": "//Shin wants to catch up with you.//",
+        "Sinner": "Shin",
+        "Text": {
+            "Text 1": "After completing a mission, you visit Shin's room to check on her condition.",
+            "Text 2": "Shin: It's been a while since we last met. Come, sit down and talk with me.",
+            "Choice 3": "Sit down",
+            "Text 4": "As soon as you sit down, Shin leans in closer, takes a deep breath, and then smiles.",
+            "Text 5": "Shin: I smell a familiar... \"friend's\" scent on you.",
+            "Text 6": "Chief: \"Friends\"? I didn't expect you to have people you'd consider friends.",
+            "Text 7": "Shin: Isn't that the word \"you people\" love to use most? I remember her name is Pylgia, right? She's here too.",
+            "Text 8": "Chief: Yes, we just got back from completing a mission together.",
+            "Text 9": "Shin: How wonderful. It reminds me of the old days.",
+            "Text 10": "Shin: If it's not too much to ask, I'd like to see her too.",
+            "Text 11": "Chief: But she doesn't remember you anymore. I'm afraid you won't be able to catch up on old times.",
+            "Text 12": "Shin: I'm just curious about what she's become now. After all, she's also a special being like me.",
+            "Text 13": "Chief: If that's the case, then I definitely can't let you two meet.",
+            "Text 14": "Shin: Hehe, what a touching \"friendship.\"",
+            "Text 15": "Shin: Well then, let's talk about something else, my child."
+        }
+    },
+    "1061012": {
+        "ID Num": 1061012,
+        "Event Title": "++* ⚠⚠ Mental Contamination",
+        "Event Desc": "//Shin's hypnosis therapy session went wrong.//",
+        "Sinner": "Shin",
+        "Text": {
+            "Text 1": "Supervision System:\nIncident detected during the hypnosis treatment of the Sinner Shin. Go investigate?",
+            "Choice 2": "Go immediately",
+            "Text 3": "You rush to the hypnosis room, and before you can even enter, you hear bouts of screaming and sobbing coming from behind the door.",
+            "Choice 4": "Break down the door",
+            "Text 5": "The one wailing on the floor isn't Shin, but the hypnotist. Shin herself is gently comforting her own doctor.",
+            "Text 6": "You immediately arrange for other staff members to take the hypnotist to the medical room for treatment.",
+            "Text 7": "Chief: What did you do to him?",
+            "Text 8": "Shin: He wanted to understand me on a deeper level, so I granted his request and revealed to him a glimpse of... the truth about the world.",
+            "Text 9": "Shin: Sure enough, human minds are all too fragile.",
+            "Text 10": "Shin: But... I know you're different. If you're willing, we can continue discussing what I didn't get to say earlier.",
+            "Text 11": "Chief: I don't think that's necessary.",
+            "Text 12": "Shin: Hehe, very well then. As you wish.",
+            "Text 13": "With the help of medical staff, the hypnotist finally regained his sanity after several days.",
+            "Text 14": "After the incident concluded, you canceled the rest of Shin's hypnotherapy sessions."
+        }
+    },
+    "1061021": {
+        "ID Num": 1061021,
+        "Event Title": "++* ⚠⚠⚠ Your Choice",
+        "Event Desc": "//You are currently conducting one-on-one simulated training with Shin.//",
+        "Sinner": "Shin",
+        "Text": {
+            "Text 1": "While you and Shin were conducting simulated training, you suddenly felt waves of pain in your wrist.",
+            "Choice 2": "View",
+            "Text 3": "You discover a fairly deep cut on the back of your left hand, though you have no idea when it happened.",
+            "Choice 4": "Conceal",
+            "Text 5": "You try to slip your hand inside your sleeve, but Shin seems to have already noticed.",
+            "Text 6": "Shin: Are you hurt?",
+            "Text 7": "Chief: Looks like it's just a scratch.",
+            "Text 8": "Shin: Let me take a look.",
+            "Text 9": "Before you can refuse, Shin has already lifted your hand and begun examining it carefully.",
+            "Text 10": "Shin: This wound is quite deep. It should be treated as soon as possible. Let me help you.",
+            "Text 11": "Chief: Wait a minute...",
+            "Text 12": "You instinctively want to pull your hand back. Shin doesn't react, simply watching you and quietly waiting for you to decide.",
+            "Path 1": {
+                "Choice 13": "Accept Shin's help",
+                "Text 14": "Chief: Please go ahead then.",
+                "Text 15": "Shin smiles faintly and pulls bandages from her personal bag.",
+                "Text 16": "To your surprise, she simply treats your wound using standard first aid procedures.",
+                "Text 17": "Chief: ...Thank you.",
+                "Text 18": "Shin: Hehe, did you think I was going to use some special treatment methods?",
+                "Text 19": "Shin: There's no need to apologize. I'm delighted. You clearly had doubts, yet you still chose to trust me—that's precisely what makes you so special."
+            },
+            "Path 2": {
+                "Choice 20": "Refuse Shin's help",
+                "Text 21": "You're not sure whether Shin's \"help\" is the kind that humans can safely endure. After thinking it over, you decide to politely decline her offer.",
+                "Text 22": "Chief: No need to trouble yourself. I'll head to the medical room right now to get it treated. Just wait here for me.",
+                "Text 23": "Shin makes no attempt to stop you, merely standing in place with a smile as she watches you leave.",
+                "Text 24": "Shin: Very well. I'll accept whatever you choose."
+            }
+        }
+    },
+    "1061022": {
+        "ID Num": 1061022,
+        "Event Title": "++* ⚠⚠⚠ Call of Darkness",
+        "Event Desc": "//Shin has been alone in the Confinement Cell for a long time.//",
+        "Sinner": "Shin",
+        "Text": {
+            "Text 1": "Supervision System:\nSinner Shin has been in the confinement cell for dozens of hours. Go check the supervision footage?",
+            "Choice 2": "Yes",
+            "Text 3": "Video Playing\n...",
+            "Text 4": "The footage shows Shin entering the Confinement Cell alone, turning off the lights, and staying inside without ever coming out.",
+            "Choice 5": "Head to the Confinement Cell",
+            "Text 6": "Chief: Shin? Are you alright?",
+            "Text 7": "Shin's drowsy, half-conscious voice drifts out from within the Confinement Cell.",
+            "Text 8": "Shin: I'm fine... I'm listening to Its teachings.",
+            "Text 9": "Chief: Good.",
+            "Text 10": "Shin: Hehe, are you worried about me?",
+            "Text 11": "Chief: Some Sinners in the past couldn't handle the dark confinement room and passed out. I was worried the same thing had happened to you.",
+            "Text 12": "Chief: I didn't expect you to be so fond of it.",
+            "Text 13": "Shin: Like it? No, it's not that kind of feeling.",
+            "Text 14": "Shin: But I know that I belong to the darkness. You do too. In darkness, your true self manifests.",
+            "Text 15": "Shin: Would you like to come and try it with me?",
+            "Path 1": {
+                "Choice 16": "Stay",
+                "Text 17": "The fanaticism and obsession in Shin's voice are deeply unsettling. But perhaps this will help you understand her a little better.",
+                "Text 18": "Chief: Alright, I'll give it a try.",
+                "Text 19": "You step into the confinement room, sit down beside Shin, and close your eyes in the darkness.",
+                "Text 20": "You have a pure black, indescribable dream.",
+                "Text 21": "When you wake up again, you find yourself lying on the couch in your office. You have no idea who brought you back."
+            },
+            "Path 2": {
+                "Choice 22": "Leave",
+                "Text 23": "Even though you are inside the Bureau, Shin's power is still dangerous.",
+                "Text 24": "Chief: No, I have my own methods to study the darkness.",
+                "Text 25": "Chief: But I'll stay out here with you, just in case.",
+                "Text 26": "Shin: Hehe, suit yourself."
+            }
+        }
+    },
     "1110101": {
         "ID Num": 1110101,
         "Event Title": "++* ⚠ Forever Loser",
@@ -9844,7 +9985,7 @@
             "Text 5": "Chief: Time machine... you mean this gadget here? Eureka, you're the brain behind this?",
             "Text 6": "Eureka: Yep! It's been a hit this year! Used so much that it's starting to show wear and tear. Thought I'd drop by for a bit of tinkering and maybe tweak a few things.",
             "Text 7": "Eureka: Perfect timing, Chief. I need your input... It's got massage and music features already. What do you think—should I go for a shaking option, or maybe an eject feature?",
-            "Choice 8": "Ask for more details.",
+            "Choice 8": "Ask for more details",
             "Text 8": "Chief: I haven't had a chance to try this machine out, so I can't really say. Eureka, how does this thing actually work? Does it genuinely travel through time?",
             "Text 9": "Eureka: Absolutely. The first time I tested it, it kicked into gear before I knew what was happening... and when I opened my eyes again, it was the next day! It's pretty amazing...",
             "Text 10": "Eureka: Others who've tried it have zipped a few hours into the future at least, and one even jumped a full day.",
@@ -9861,12 +10002,12 @@
         "Sinner": "Eureka",
         "Text": {
             "Text 1": "Attention, attention! We've got a bunch of sketchy repair tickets cropping up in the Recreation Area. Please investigate soon.",
-            "Choice 2": "Verify this alert.",
+            "Choice 2": "Verify this alert",
             "Text 2": "Chief: Why am I getting these maintenance requests, and with an alarm, no less? Isn't this Faye's turf to handle?",
             "Text 3": "Supervision System: It is presumed that some of the repair orders have been submitted repeatedly for several times in the past month, which triggered the system's anti-false reporting and quality control protocols.",
             "Text 4": "Chief: So, these facilities have been breaking down a lot recently? Makes me wonder whether they're being mishandled, or if the repair team's skills are lacking... I hope Faye isn't skimping on the job again.",
             "Text 5": "Eureka: It's obviously working fine... So why are there repair requests? That's bizarre...",
-            "Choice 6": "Check with Eureka.",
+            "Choice 6": "Check with Eureka",
             "Text 6": "Chief: Eureka? Why are you here? Wait, are you the one fixing all the gear in the rec area?",
             "Text 7": "Eureka: Yep, that's me. I've been working on the karaoke machine, the photo booth, and even the library door—all at Miss Faye's request.",
             "Text 8": "Eureka: I've repaired them all, but people keep sending in repair requests, so I had to come and see for myself. But Chief, you see it too, right? Everything's functioning perfectly...",
@@ -9884,13 +10025,13 @@
         "Sinner": "Christina",
         "Text": {
             "Text 1": "Eureka: Blueprints... Where are those blueprints...",
-            "Choice 2": "Call out to Eureka.",
+            "Choice 2": "Call out to Eureka",
             "Text 2": "Chief: Eureka, can't find your blueprints? Need a hand searching for them?",
             "Text 3": "Eureka: Oh, would you? That'd be awesome, thanks... It'd be a big help if Chief could join the search too. I put a lot of effort into those designs...",
             "Text 4": "You and Eureka take different paths, each scouring a separate direction. It's not long before you spot Christina, lost in thought over a sheet of paper.",
             "Text 5": "Chief: Christina? What's up? Hey, if you've got a moment, could you give a hand...",
             "Text 6": "Christina: Hey, assistant! You're just in time! I've stumbled upon a wicked plot targeting our Bureau! Come on, let's team up and solve this mystery, bust these crooks!",
-            "Choice 7": "Ask for more details.",
+            "Choice 7": "Ask for more details",
             "Text 7": "Chief: A conspiracy against our Bureau? What's going on?",
             "Text 8": "Christina: Check out this sheet. The design here looks like it's mapping out our Bureau! The blue zone on the left marks the safe areas with checkpoints, and these red zones on the right are under surveillance...",
             "Text 9": "Christina: See this line? That's the path the crooks figured out for sneaking in! This sheet? It's the map they dropped after scouting the place! Well, what do you think? My detective work is pretty airtight, right?",
@@ -10149,6 +10290,134 @@
                 "Text 29": "Shrooma: Impossible. Chief, you must be lying to me.",
                 "Text 30": "Shrooma: Impossible. That's absolutely impossible.",
                 "Text 31": "Chief: ..."
+            }
+        }
+    },
+    "1131101": {
+        "ID Num": 1131101,
+        "Event Title": "++* ⚠ Self-Heating Lunch Box",
+        "Event Desc": "//You discover that the office microwave is broken.//",
+        "Sinner": "Poffy",
+        "Text": {
+            "Text 1": "Your office microwave broke down, and when Poffy learned about this, she heated up your lunch box with her bare hands.",
+            "Choice 2": "Express gratitude"
+        }
+    },
+    "1131102": {
+        "ID Num": 1131102,
+        "Event Title": "++* ⚠ Caretaker",
+        "Event Desc": "//Poffy is very concerned about the other Sinners' appetites.//",
+        "Sinner": "Ninety-Nine",
+        "Text": {
+            "Text 1": "You encounter Poffy and Ninety-Nine in the cafeteria.",
+            "Choice 2": "Observe",
+            "Text 3": "Poffy is feeding rice balls to Ninety-Nine, who silently eats them one after another."
+        }
+    },
+    "1131103": {
+        "ID Num": 1131103,
+        "Event Title": "++* ⚠ Treacherous Banquet",
+        "Event Desc": "//Poffy received a dinner invitation.//",
+        "Sinner": "Cabernet",
+        "Text": {
+            "Text 1": "Poffy excitedly tells you that she received a dinner invitation from Cabernet.",
+            "Choice 2": "Dissuade her"
+        }
+    },
+    "1131111": {
+        "ID Num": 1131111,
+        "Event Title": "++* ⚠⚠ Precious Grain",
+        "Event Desc": "//You're lucky enough to become Poffy's meal buddy.//",
+        "Sinner": "Poffy",
+        "Text": {
+            "Text 1": "When you pass by the cafeteria, you see Poffy sitting alone at a table.",
+            "Choice 2": "Greet her",
+            "Text 3": "Chief: Poffy, are you eating alone today?",
+            "Text 4": "Poffy: Oh, Chief! I haven't been able to find any meal buddies lately... Come eat with me!",
+            "Choice 5": "Join Poffy",
+            "Text 6": "Poffy: Yay! Food tastes so much better when everyone eats together!",
+            "Text 7": "Chief: Today's rice smells so good... Hmm? But is there only rice?",
+            "Text 8": "Poffy: Exactly! Rice is the most delicious thing in the world. Well-cooked rice should be enjoyed plain. That's my dining philosophy!",
+            "Text 9": "You try to finish the rice Poffy served you, a veritable mountain of white, but you simply can't manage it.",
+            "Choice 10": "Put down the rice bowl",
+            "Text 11": "Poffy: Huh? Chief, aren't you eating anymore?",
+            "Text 12": "Chief: I can't... You served me way too much.",
+            "Text 13": "Poffy: No, no, you absolutely must finish it! You absolutely, absolutely cannot waste rice!",
+            "Text 14": "Chief: Poffy, is it because you always serve people so much food that everyone's too scared to eat with you...",
+            "Text 15": "Seeing your troubled expression and refusal to pick up your chopsticks again, Poffy's eyes dart around, as if she's thought of some brilliant idea, and she can't help but smirk to herself.",
+            "Text 16": "Poffy puts on an expression of deep anguish.",
+            "Text 17": "Poffy: Chief, think about it, the cafeteria staff worked so hard to cook this fragrant rice, and if they saw you doing this... sob...",
+            "Text 18": "Chief: Cough cough... Speaking of which, Poffy, didn't you get gastroenteritis a few days ago from eating too much rice? Hmm, I think the medical staff worked very hard too...",
+            "Text 19": "Poffy: Eh? No, no...",
+            "Text 20": "Your question completely short-circuits Poffy's brain. While she's calculating with her fingers, desperately trying to work through the logic, you quietly set down your bowl and slip away."
+        }
+    },
+    "1131112": {
+        "ID Num": 1131112,
+        "Event Title": "++* ⚠⚠ Broadcast Mishap",
+        "Event Desc": "//You participated in a dream collaboration in the streaming world.//",
+        "Sinner": "Thalia",
+        "Text": {
+            "Text 1": "Thalia told you in advance that she would be doing a mukbang stream with Poffy today. But when it was time for the stream to start, you didn't receive any notifications.",
+            "Choice 2": "Go and take a look",
+            "Text 3": "At the streaming location, you find Thalia crouched in deep thought in front of a pile of products, with Poffy looking dejected beside her.",
+            "Text 4": "Chief: Hasn't the stream started yet?",
+            "Text 5": "Thalia waves her hand, motioning for you to crouch down beside her.",
+            "Text 6": "You discover the ground is covered with snack packages, each one bearing obvious bite marks, with the food inside vanished without a trace.",
+            "Text 7": "Chief: Why do all these snacks look like they've been gnawed on? Don't tell me the Bureau has a cockroach problem?!",
+            "Text 8": "Poffy: I'm not a cockroach! I'm a seal!",
+            "Text 9": "Thalia: Oh, so those are baby seal's teeth marks.",
+            "Text 10": "Chief: Poffy, you cleaned out everything here? I thought the Bureau was feeding you properly.",
+            "Text 11": "Poffy: Thalia gave me a sample to try, but it smelled so good that I kept eating and eating, and by the time I came to my senses...",
+            "Text 12": "Chief: So you ate up all our inventory?",
+            "Text 13": "Thalia reaches into the pile of debris and rummages around, pulling out a relatively intact package and waving it at you.",
+            "Text 14": "Thalia: One final pack. Would you like to try some?",
+            "Text 15": "Chief: ...Thank you. Will these need to be compensated for?",
+            "Text 16": "Thalia: No worries about the compensation; I'll cover it. The most urgent thing is our coming livestream, but look at what we have now...",
+            "Text 17": "Poffy: Sob... I messed up, I'll definitely find a way to make up for it!",
+            "Text 18": "Chief: Here's what we'll do. I'll go ask Faye if there are any extra snacks in the Depot. They won't be the specialty snacks we originally planned to feature, but I think Poffy's eating style alone will be entertaining enough to draw plenty of viewers.",
+            "Text 19": "Poffy: Yeah! I'll do my best! I'm actually something of a mukbanger now!",
+            "Text 20": "Poffy: I, I can also heat up food with my bare hands! That'll definitely draw in lots of viewers!",
+            "Text 21": "Thalia: Sounds... feasible. Now you two get ready. We don't have much time. Live in fifteen minutes!",
+            "Text 22": "Chief: \"You two\"...? I get to join in too?!"
+        }
+    },
+    "1131121": {
+        "ID Num": 1131121,
+        "Event Title": "++* ⚠⚠⚠ Healthy Diet",
+        "Event Desc": "//Poffy received her medical examination report.//",
+        "Sinner": "Poffy",
+        "Text": {
+            "Text 1": "Today is the semi-annual medical examination day. You encounter Poffy outside the medical room, looking utterly dejected.",
+            "Choice 2": "Approach and ask",
+            "Text 3": "Chief: Is something wrong?",
+            "Text 4": "Poffy: Sob... I just got my medical examination report. The doctor said my eating habits are too unhealthy and wants me to adjust my diet...",
+            "Text 5": "Chief: Have you been eating too many sweets lately?",
+            "Text 6": "Poffy: I only had two boxes of donuts today. That's not really a lot, is it?",
+            "Text 7": "Chief: Two boxes...?",
+            "Text 8": "Poffy: Hmm, is it a lot...? But if you can't even eat sweets, what's the point in living!",
+            "Text 9": "Chief: You're absolutely right about that. But if you look after your body properly, you'll be able to enjoy even more delicious food in the future.",
+            "Text 10": "Poffy: That does make sense... So Chief, what should I eat?",
+            "Text 11": "Poffy: When I try to think about it myself, all I can think of is donuts, lollipops, and rice...",
+            "Text 12": "Chief: Alright, let me think for a moment—",
+            "Path 1": {
+                "Choice 13": "Eat more vegetables.",
+                "Text 14": "Chief: Try eating a bit more vegetables.",
+                "Text 15": "Chief: I can ask the cafeteria staff to prepare more stir-fried vegetables and salads.",
+                "Text 16": "Poffy: Salad? I love eating salad!",
+                "Text 17": "Chief: Huh, really?",
+                "Text 18": "Poffy: That's right! Vegetables with lots and lots of salad dressing. It's sweet and cool, and it's so appetizing!",
+                "Text 19": "Poffy: Chief, could you also have the cafeteria prepare more salad dressing for me?",
+                "Text 20": "Chief: In that case, it probably won't be very effective..."
+            },
+            "Path 2": {
+                "Choice 21": "Eat smaller, more frequent meals.",
+                "Text 22": "Chief: I heard that if you eat a little less per meal, but have several more meals throughout the day, it's better for digestion.",
+                "Text 23": "Poffy: What? I can actually have more meals?",
+                "Text 24": "Chief: It's not really eating more...",
+                "Text 25": "Poffy: Yay! I'm going to tell the cafeteria staff right now that the Chief finally said I can have extra meals!",
+                "Text 26": "Before you can say anything, Poffy has already started skipping toward the cafeteria.",
+                "Text 27": "Chief: I don't think she heard the \"smaller portions\" part..."
             }
         }
     },

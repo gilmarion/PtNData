@@ -1337,6 +1337,28 @@
             ]
         }
     },
+    "源津": {
+        "Emotion Check 1": {
+            "Open": "[源津又一次因为违规使用能力而被限制行动。]",
+            "源津 Question": "局长，你难道不想知道这些触手的极限在哪里吗？",
+            "Chief Question 1": "不想知道。",
+            "源津 Response 1": "真可惜，但总有一天，你会再次顺服于祂的力量。",
+            "Emoji 1": "😏",
+            "Chief Question 2": "这不是你违规的借口。",
+            "源津 Response 2": "我只是在满足那些求知者的好奇心而已。",
+            "Emoji 2": "😏"
+        },
+        "Emotion Check 2": {
+            "Open": "[你见到源津正在速写本上作画。]",
+            "源津 Question": "局长好奇吗？想要来看看吗？",
+            "Chief Question 1": "你在画什么？",
+            "源津 Response 1": "画下所见的一切，这大概是作为生物学者改不掉的习惯吧。",
+            "Emoji 1": "😉",
+            "Chief Question 2": "你会画画？",
+            "源津 Response 2": "嗯，这也是我曾经培养的爱好之一。",
+            "Emoji 2": "😉"
+        }
+    },
     "切尔西伯爵": {
         "Emotion Check 1": {
             "Open": "[切尔西将一枚宝石递到你的面前]",
@@ -2148,6 +2170,28 @@
                 "😏",
                 "😏"
             ]
+        }
+    },
+    "啵啡": {
+        "Emotion Check 1": {
+            "Open": "[气喘吁吁的啵啡突然出现！]",
+            "啵啡 Question": "局长局长！快看镜头！",
+            "Chief Question 1": "……？",
+            "啵啡 Response 1": "嘿嘿，呆呆的局长也很可爱，MBCC食堂测评封面就用这张啦！",
+            "Emoji 1": "😉",
+            "Chief Question 2": "耶？",
+            "啵啡 Response 2": "完美！MBCC食堂测评封面就用这张啦！",
+            "Emoji 2": "😘"
+        },
+        "Emotion Check 2": {
+            "Open": "[啵啡打算把外出带回的珍贵甜品分享给你。]",
+            "啵啡 Question": "局长，你更喜欢吃甜口的小面包，还是咸口的呢？",
+            "Chief Question 1": "你先选。",
+            "啵啡 Response 1": "那我们两种口味都一人一半吧！",
+            "Emoji 1": "😏",
+            "Chief Question 2": "都可以。",
+            "啵啡 Response 2": "局长和我一样！那我们……一人一半分着吃吧！",
+            "Emoji 2": "😏"
         }
     },
     "普希拉": {

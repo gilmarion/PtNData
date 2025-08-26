@@ -3044,6 +3044,58 @@
         }
     },
     "176": {
+        "Id": 1055001,
+        "Quality": "Purple",
+        "DispatchTitle": "해양학자",
+        "DispatchDescription": "최근 신성 해양관에서 해양 생물이 연이어 의문사했으며, 사인은 변이 오염과 관련된 것으로 추정한다. 이에 해양관 측은 관리국에 해양 생물을 잘 알고 있는 수감자의 파견을 요청하여 조사 지원을 받고자 한다.",
+        "DispatchSinners": {
+            "Sinner": "원진"
+        },
+        "BaseAward": {
+            "Reward Item": "노을 결정",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "177": {
+        "Id": 1055002,
+        "Quality": "Green",
+        "DispatchTitle": "디저트 축제",
+        "DispatchDescription": "신메뉴 디저트를 무료로 무제한 맛볼 수 있는 신성 디저트 축제의 광고가 연일 쏟아졌다. 관련 광고를 벌써 열 번이나 본 어느 수감자는 결국 유혹을 이기지 못해 관리국에 외출을 신청했다.",
+        "DispatchSinners": {
+            "Sinner": "뽀삐"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "거친 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "178": {
+        "Id": 1055003,
+        "Quality": "Blue",
+        "DispatchTitle": "가게 탐방",
+        "DispatchDescription": "최근 한 신흥 디저트 가게가 온라인에서 대대적인 홍보를 진행하며 여러 인플루언서를 초청했다. 초대를 받은 뽀삐와 이그니스 모두 큰 관심을 보였다.",
+        "DispatchSinners": {
+            "Sinner 1": "뽀삐",
+            "Sinner 2": "이그니스"
+        },
+        "BaseAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "정교한 노을석 광석",
+            "Reward Qty": "1.0"
+        }
+    },
+    "179": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "꿈의 해석",

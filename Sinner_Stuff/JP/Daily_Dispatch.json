@@ -3044,6 +3044,58 @@
         }
     },
     "176": {
+        "Id": 1055001,
+        "Quality": "Purple",
+        "DispatchTitle": "海洋学者",
+        "DispatchDescription": "最近、ニューシティの水族館で海洋生物が相次いで不審死している。死因は恐らく狂瞳病の汚染だ。海洋生物研究の実績があるコンビクトを研究協力のため派遣をするよう、管理局に申請が届いた。",
+        "DispatchSinners": {
+            "Sinner": "シズ"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝結晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "177": {
+        "Id": 1055002,
+        "Quality": "Green",
+        "DispatchTitle": "スイーツフェス",
+        "DispatchDescription": "現在、ニューシティでスイーツフェスが大々的に宣伝されている。なんと新作スイーツが全て無料で試食し放題だという。あるコンビクトは広告を見た回数が10回目に達した時、とうとう我慢できずに管理局に外出申請を出した。",
+        "DispatchSinners": {
+            "Sinner": "ポフィー"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の原鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "178": {
+        "Id": 1055003,
+        "Quality": "Blue",
+        "DispatchTitle": "試食トレンド",
+        "DispatchDescription": "最近、ある新しいスイーツ店がネット上で大規模なプロモーションを展開し、多くのインフルエンサーに試食の招待を送っている。招待を受けたポフィーとイグニはどちらも強い興味を示した。",
+        "DispatchSinners": {
+            "Sinner 1": "ポフィー",
+            "Sinner 2": "イグニ"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石の精鉱",
+            "Reward Qty": "1.0"
+        }
+    },
+    "179": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "夢の解析",

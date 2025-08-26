@@ -1337,6 +1337,28 @@
             ]
         }
     },
+    "Shin": {
+        "Emotion Check 1": {
+            "Open": "[Once again, Shin has had her movements restricted for unauthorized use of her abilities.]",
+            "Shin Question": "Chief, surely you want to know what these tentacles are truly capable of?",
+            "Chief Question 1": "I don't want to know.",
+            "Shin Response 1": "What a pity, but someday you will submit to Its power once more.",
+            "Emoji 1": "😏",
+            "Chief Question 2": "That's no excuse for breaking the rules.",
+            "Shin Response 2": "I'm simply satisfying the curiosity of those who seek knowledge.",
+            "Emoji 2": "😏"
+        },
+        "Emotion Check 2": {
+            "Open": "[You see Shin drawing in a sketchbook.]",
+            "Shin Question": "Are you curious, Chief? Would you like to come take a look?",
+            "Chief Question 1": "What are you drawing?",
+            "Shin Response 1": "Drawing everything I observe. I suppose it's an old habit from my days as a biologist that I just can't seem to shake.",
+            "Emoji 1": "😉",
+            "Chief Question 2": "You can draw?",
+            "Shin Response 2": "Yes, it's one of the hobbies I cultivated in the past.",
+            "Emoji 2": "😉"
+        }
+    },
     "Countess Chelsea": {
         "Emotion Check 1": {
             "Open": "[Chelsea hands you a gem.]",
@@ -2148,6 +2170,28 @@
                 "😏",
                 "😏"
             ]
+        }
+    },
+    "Poffy": {
+        "Emotion Check 1": {
+            "Open": "[A breathless Poffy suddenly appears!]",
+            "Poffy Question": "Chief! Chief! Look at the camera!",
+            "Chief Question 1": "...?",
+            "Poffy Response 1": "Hehe, our adorably confused Chief is so cute! I'll use this shot for the cover of my MBCC cafeteria review!",
+            "Emoji 1": "😉",
+            "Chief Question 2": "Cheese?",
+            "Poffy Response 2": "Perfect! I'll use this shot for the cover of my MBCC cafeteria review!",
+            "Emoji 2": "😘"
+        },
+        "Emotion Check 2": {
+            "Open": "[Poffy intends to share some precious sweets she brought back from her outing with you.]",
+            "Poffy Question": "Chief, do you prefer sweet bread or savory bread?",
+            "Chief Question 1": "You pick first.",
+            "Poffy Response 1": "Then let's split them in half!",
+            "Emoji 1": "😏",
+            "Chief Question 2": "Either is fine.",
+            "Poffy Response 2": "Chief is just like me! Then let's... split them in half and share!",
+            "Emoji 2": "😏"
         }
     },
     "Pricilla": {

@@ -3044,6 +3044,58 @@
         }
     },
     "176": {
+        "Id": 1055001,
+        "Quality": "Purple",
+        "DispatchTitle": "Oceanographer",
+        "DispatchDescription": "Recently, marine animals at the Eastside Aquarium have been dying unnaturally and Mania contamination is suspected to be the cause. The Bureau has been requested to send a Sinner with significant contributions in the marine biology field to assist with the investigation.",
+        "DispatchSinners": {
+            "Sinner": "Shin"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Crystal",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "177": {
+        "Id": 1055002,
+        "Quality": "Green",
+        "DispatchTitle": "Dessert Festival",
+        "DispatchDescription": "Ads about the Eastside Dessert Festival are everywhere, claiming to offer unlimited free samples of new desserts! After getting the same ad for the tenth time, a certain Sinner finally gives in and submits an outing application.",
+        "DispatchSinners": {
+            "Sinner": "Poffy"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Raw Ore",
+            "Reward Qty": "1.0"
+        }
+    },
+    "178": {
+        "Id": 1055003,
+        "Quality": "Blue",
+        "DispatchTitle": "Tasty Visit",
+        "DispatchDescription": "A new dessert parlor has recently launched a major online promotional campaign, inviting influencers to sample their products. Having received the invite, both Poffy and Ignis are eager about the tempting offer.",
+        "DispatchSinners": {
+            "Sinner 1": "Poffy",
+            "Sinner 2": "Ignis"
+        },
+        "BaseAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "Twilight Stone Concentrate",
+            "Reward Qty": "1.0"
+        }
+    },
+    "179": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "Dream Interpretation",

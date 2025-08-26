@@ -3044,6 +3044,58 @@
         }
     },
     "176": {
+        "Id": 1055001,
+        "Quality": "Purple",
+        "DispatchTitle": "海洋學家",
+        "DispatchDescription": "近日，新城海洋館的海洋生物接連離奇死亡，死因疑似涉及狂厄汙染。現特向管理局申請派遣一位對海洋生物研究頗有成果的禁閉者前往協助研究。",
+        "DispatchSinners": {
+            "Sinner": "源津"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝晶",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石精礦",
+            "Reward Qty": "1.0"
+        }
+    },
+    "177": {
+        "Id": 1055002,
+        "Quality": "Green",
+        "DispatchTitle": "甜點節",
+        "DispatchDescription": "新城甜點節火熱宣傳中，所有新式甜點免費試吃到飽！第十次看到相關宣傳廣告，某位禁閉者終於按捺不住，向管理局提出了外出申請。",
+        "DispatchSinners": {
+            "Sinner": "啵啡"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石精礦",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石粗礦",
+            "Reward Qty": "1.0"
+        }
+    },
+    "178": {
+        "Id": 1055003,
+        "Quality": "Blue",
+        "DispatchTitle": "探店潮流",
+        "DispatchDescription": "近期，某新興甜點店在網路進行大規模推廣，並邀請各路網紅前往店家試吃。收到邀請的啵啡和伊格尼都表現出了極大的興趣。",
+        "DispatchSinners": {
+            "Sinner 1": "啵啡",
+            "Sinner 2": "伊格尼"
+        },
+        "BaseAward": {
+            "Reward Item": "暮輝石精礦",
+            "Reward Qty": "1.0"
+        },
+        "AdditionalAward": {
+            "Reward Item": "暮輝石精礦",
+            "Reward Qty": "1.0"
+        }
+    },
+    "179": {
         "Id": 1099001,
         "Quality": "Green",
         "DispatchTitle": "夢的解析",
