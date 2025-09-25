@@ -6697,6 +6697,66 @@
     "File": "vo_dreya_huanyumimeng_specialattention_001",
     "Text": "Are you looking upon this sea of stars... or are you looking... at me?"
   },
+  "110404110": {
+    "Sinner": "Dreya",
+    "Title": "Attire Obtained",
+    "File": "vo_dreya_hanhaixingmang_cacha_001",
+    "Text": "I feel like it's been so long... since I've seen the sea this gentle... But a sea like this is indeed perfect for a walk together."
+  },
+  "110404111": {
+    "Sinner": "Dreya",
+    "Title": "Upgrade",
+    "File": "vo_dreya_hanhaixingmang_levelup_001",
+    "Text": "The sea breeze carries new secrets to shore."
+  },
+  "110404112": {
+    "Sinner": "Dreya",
+    "Title": "Greeting",
+    "File": "vo_dreya_hanhaixingmang_greeting_001",
+    "Text": "Sit down... hear and feel... The waves are whispering, the stars are watching, they're waiting for someone to understand them... or swallow them."
+  },
+  "110404113": {
+    "Sinner": "Dreya",
+    "Title": "Pat Head",
+    "File": "vo_dreya_hanhaixingmang_head_001",
+    "Text": "It's not starlight glowing upon my head. It's the hair ornament you gave me."
+  },
+  "110404114": {
+    "Sinner": "Dreya",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_dreya_hanhaixingmang_body_001",
+    "Text": "Gravity pulls at the tides, just as it pulls at light and time... The stars softly call to the ocean, and the ocean... will it answer them?"
+  },
+  "110404115": {
+    "Sinner": "Dreya",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_dreya_hanhaixingmang_body_002",
+    "Text": "Human emotions in the vast universe are like distant lights upon the sea... Their presence may be faint, yet they shine with such clarity."
+  },
+  "110404116": {
+    "Sinner": "Dreya",
+    "Title": "Ordinary Contact 3",
+    "File": "vo_dreya_hanhaixingmang_sky_001",
+    "Text": "On a clear summer night, if you find yourself lost and adrift at sea, look to the stars above, they will guide your way."
+  },
+  "110404117": {
+    "Sinner": "Dreya",
+    "Title": "Ordinary Contact 4",
+    "File": "vo_dreya_hanhaixingmang_sea_001",
+    "Text": "Plankton emit a soft glow as they drift, creating what you call a phosphorescent sea, like celestial waters... Perhaps... the ocean itself is a starry sky too."
+  },
+  "110404118": {
+    "Sinner": "Dreya",
+    "Title": "Idle",
+    "File": "vo_dreya_hanhaixingmang_idle_001",
+    "Text": "Where shall we go next? Whether it's to the depths of the ocean or the distant cosmic seas, I am willing to journey with you."
+  },
+  "110404119": {
+    "Sinner": "Dreya",
+    "Title": "Special Attention",
+    "File": "vo_dreya_hanhaixingmang_specialattention_001",
+    "Text": "Night sky, tides, flowing starlight... Humans express their fondness through their gaze... Is that what I see in your eyes as you look at me?"
+  },
   "11040501": {
     "Sinner": "Shalom",
     "Title": "Obtain the Sinner",
@@ -10057,6 +10117,194 @@
     "Sinner": "Yingying",
     "Title": "Upgrade Skill",
     "File": "vo_yingying_promotion_001",
+    "Text": "In my homeland, people often say this you see—when you truly care for someone, you can't help but save all the best things for them."
+  },
+  "11051001": {
+    "Sinner": "Milly",
+    "Title": "Obtain the Sinner",
+    "File": "vo_milly_cacha_001",
+    "Text": "Oh! I... I'm not ready yet! There's no spotlight, no wine or roses... this isn't how I pictured it at all. I've always wanted our first meeting to be something truly special."
+  },
+  "11051002": {
+    "Sinner": "Milly",
+    "Title": "Raise to Phase 1",
+    "File": "vo_milly_promotion_001",
+    "Text": "Does this count as special treatment, just for me? That makes me so happy."
+  },
+  "11051003": {
+    "Sinner": "Milly",
+    "Title": "Raise to Phase 3",
+    "File": "vo_milly_promotion2_001",
+    "Text": "When you're by my side, I want you to feel nothing but wonder, taste nothing but sweet joy. Bask in happiness and delight, until the morning comes."
+  },
+  "11051004": {
+    "Sinner": "Milly",
+    "Title": "Level Start",
+    "File": "vo_milly_battlebegin_001",
+    "Text": "Alright Milly, don't be nervous. Time to put on your best show!",
+    "File 2": "vo_milly_battlebegin_001",
+    "Text 2": "Alright Milly, don't be nervous. Time to put on your best show!"
+  },
+  "11051005": {
+    "Sinner": "Milly",
+    "Title": "Victory",
+    "File": "vo_milly_battlewin_001",
+    "Text": "A grand finale! Chief, did you enjoy the show? Did it fill you with happiness?"
+  },
+  "11051006": {
+    "Sinner": "Milly",
+    "Title": "Lose Battles",
+    "File": "vo_milly_battlelose_001",
+    "Text": "Ugh... don't look, it's too embarrassing. Of all people, I never wanted to fail in front of you..."
+  },
+  "11051007": {
+    "Sinner": "Milly",
+    "Title": "Ultimate Skill",
+    "File": "bt_milly_uniqueskill_001",
+    "Text": "My sincerest love... for you!"
+  },
+  "11051008": {
+    "Sinner": "Milly",
+    "Title": "Die in Battles",
+    "File": "bt_milly_dead_001",
+    "Text": "The one I'm waiting for... won't be coming..."
+  },
+  "11051009": {
+    "Sinner": "Milly",
+    "Title": "Greeting",
+    "File": "vo_milly_greeting_001",
+    "Text": "Won't you come here and hold me? My arms are open for a sweet hug."
+  },
+  "11051010": {
+    "Sinner": "Milly",
+    "Title": "Conversation 1",
+    "File": "vo_milly_talk1_001",
+    "Text": "I love listening to other people's love stories. Especially at night, when confessions turn into the sweetest honey. Can you tell me... what kind of person would you fall in love with? And what kind of person... do you wish to fall in love with you?"
+  },
+  "11051011": {
+    "Sinner": "Milly",
+    "Title": "Conversation 2",
+    "File": "vo_milly_talk1_002",
+    "Text": "Everyone says they'll never fall in love. But who knows? Love is like fate; it's never ours to control."
+  },
+  "11051012": {
+    "Sinner": "Milly",
+    "Title": "Conversation 3",
+    "File": "vo_milly_talk1_003",
+    "Text": "I read in a book that \"to love someone is to hold only them in your heart and eyes.\" If that's true, then my heart has no room for anyone else... Come closer, let me look at you. Let me see who is reflected in your eyes. There's only one person there... right?"
+  },
+  "11051013": {
+    "Sinner": "Milly",
+    "Title": "Special Conversation 1",
+    "File": "vo_milly_talk2_001",
+    "Text": "True love is like a candy wrapped in cellophane. You can't see it clearly until you peel it open. But some people won't unwrap it themselves. Others peel back the wrapper, but pretend they don't like what's inside. They wait until no one's looking to sneak a bite... only to find the candy has already gone bad."
+  },
+  "11051014": {
+    "Sinner": "Milly",
+    "Title": "Special Conversation 2",
+    "File": "vo_milly_talk2_002",
+    "Text": "Even though bees know stinging will rip out their insides, they never hesitate to strike if it's for the sake of their beloved. I think I can relate to that."
+  },
+  "11051015": {
+    "Sinner": "Milly",
+    "Title": "Special Conversation 3",
+    "File": "vo_milly_talk2_003",
+    "Text": "Love is the brightest spark in life, like a star in the darkest night. It's the only thing that shines, the only thing that's gentle... Just by looking at that star, I can find the courage to keep going. Hehe, don't call me silly. I finally caught up to it, you see. Now, I'm reunited with my star."
+  },
+  "11051016": {
+    "Sinner": "Milly",
+    "Title": "Full Compliance",
+    "File": "vo_milly_obeyfull_001",
+    "Text": "I love you, not because of what you've done, but because you make me want to become a better person. I know I'm not as smart or perfect as others, but I'm trying. I'm running toward the light with you... Please, believe me. All the love I give you is real."
+  },
+  "11051017": {
+    "Sinner": "Milly",
+    "Title": "Idle",
+    "File": "vo_milly_idle_001",
+    "Text": "I'm very good at waiting. It's not that hard. Waiting alone while thinking of you... believing that someday, you'll appear..."
+  },
+  "11051018": {
+    "Sinner": "Milly",
+    "Title": "Annoyed",
+    "File": "vo_milly_clicking_001",
+    "Text": "Haha, I know! This is one of those little games that lovers play, isn't it?"
+  },
+  "11051019": {
+    "Sinner": "Milly",
+    "Title": "Special Attention",
+    "File": "vo_milly_specialattention_001",
+    "Text": "So... this is what it feels like to look into your eyes. Please... until the night is over, keep looking at me like this, won't you?"
+  },
+  "11051020": {
+    "Sinner": "Milly",
+    "Title": "Dispatch",
+    "File": "vo_milly_dispatch_001",
+    "Text": "It's been so long since I left the island. I'm a little nervous. Can I stay... a little closer to you?"
+  },
+  "11051021": {
+    "Sinner": "Milly",
+    "Title": "Dispatch Complete",
+    "File": "vo_milly_dispatch2_001",
+    "Text": "I've heard so many stories of love, received so many gifts... I want you to have all of them."
+  },
+  "11051022": {
+    "Sinner": "Milly",
+    "Title": "Upgrade",
+    "File": "vo_milly_levelup_002",
+    "Text": "Anything you give me is the best gift in the world."
+  },
+  "11051023": {
+    "Sinner": "Milly",
+    "Title": "Pat Head",
+    "File": "vo_milly_head_001",
+    "Text": "You like my hair too? I'm glad! A lot of people like it... but none of them are as gentle as you."
+  },
+  "11051024": {
+    "Sinner": "Milly",
+    "Title": "Join Team",
+    "File": "bt_milly_jointeam_001",
+    "Text": "I'm so happy you came to watch my performance."
+  },
+  "11051025": {
+    "Sinner": "Milly",
+    "Title": "Danger!",
+    "File": "bt_milly_danger_001",
+    "Text": "Careful now!"
+  },
+  "11051026": {
+    "Sinner": "Milly",
+    "Title": "Received Order",
+    "File": "bt_milly_getorder_001",
+    "Text": "O-kay!"
+  },
+  "11051027": {
+    "Sinner": "Milly",
+    "Title": "Attacked",
+    "File": "bt_milly_gethit_001_1",
+    "Text": "Ouch."
+  },
+  "11051028": {
+    "Sinner": "Milly",
+    "Title": "Normal Attack",
+    "File": "bt_milly_skill_001_1",
+    "Text": "Mmph!"
+  },
+  "11051029": {
+    "Sinner": "Milly",
+    "Title": "Confused",
+    "File": "vo_milly_doubt_001",
+    "Text": "Oh?"
+  },
+  "11051030": {
+    "Sinner": "Milly",
+    "Title": "Shock",
+    "File": "vo_milly_shock_001",
+    "Text": "Ohhh my!"
+  },
+  "11051031": {
+    "Sinner": "Milly",
+    "Title": "Upgrade Skill",
+    "File": "vo_milly_promotion_001",
     "Text": "In my homeland, people often say this you see—when you truly care for someone, you can't help but save all the best things for them."
   },
   "11060101": {
@@ -21251,6 +21499,54 @@
     "File": "vo_jane_promotion_001",
     "Text": "If I become stronger, will I get a raise? (Pause) If not, I may have to make another trip to the vault."
   },
+  "111407100": {
+    "Sinner": "Jane",
+    "Title": "Attire Obtained",
+    "File": "vo_jane_bianzhuanghuwei_cacha_001",
+    "Text": "Pool security deployment complete. Next, I'll continue to provide security services by your side as an undercover guard, using the pretext of hanging laundry to maintain my cover."
+  },
+  "111407101": {
+    "Sinner": "Jane",
+    "Title": "Upgrade",
+    "File": "vo_jane_bianzhuanghuwei_levelup_001",
+    "Text": "For sure, that’s a pretty solid piece of work experience."
+  },
+  "111407102": {
+    "Sinner": "Jane",
+    "Title": "Greeting",
+    "File": "vo_jane_bianzhuanghuwei_greeting_001",
+    "Text": "Patrol complete. No security concerns detected. You're free to enjoy the party to your heart's content."
+  },
+  "111407103": {
+    "Sinner": "Jane",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_jane_bianzhuanghuwei_body_001",
+    "Text": "The best disguise is to fully embrace your cover identity. Besides serving as your bodyguard, Chief, I've also taken on a swimsuit photography job for the Supply Office and a pool cleaning assignment at the hotel. If I can complete them all simultaneously, it should help pay off a significant portion of my previous debts."
+  },
+  "111407104": {
+    "Sinner": "Jane",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_jane_bianzhuanghuwei_body_002",
+    "Text": "The hotel repair costs amount to 350,000 DisCoins, and ammunition expenses total 50,000 DisCoins. So my payment for this operation is only... 500 DisCoins? Understood. I'll be more careful next time."
+  },
+  "111407105": {
+    "Sinner": "Jane",
+    "Title": "Idle",
+    "File": "vo_jane_bianzhuanghuwei_idle_001",
+    "Text": "Good, another one taken care of... Hmm? I mean, another job completed."
+  },
+  "111407106": {
+    "Sinner": "Jane",
+    "Title": "Annoyed",
+    "File": "vo_jane_bianzhuanghuwei_clicking_001",
+    "Text": "Even though going on vacation is relaxing, please... don't do that sort of thing when I'm trying to concentrate..."
+  },
+  "111407107": {
+    "Sinner": "Jane",
+    "Title": "Special Attention",
+    "File": "vo_jane_bianzhuanghuwei_specialattention_001",
+    "Text": "Chief, would you like to take a photo together? ...Any photos with you won't be sent to the Supply Office. I'll save them just for you."
+  },
   "11140801": {
     "Sinner": "Pine",
     "Title": "Obtain the Sinner",
@@ -23232,6 +23528,54 @@
     "Title": "Special Attention",
     "File": "vo_lamia_chaoximiyu_specialattention_001",
     "Text": "Please don't... don't stare at my legs like that. I've just got them, and they are still fragile. But I think they will become strong enough very soon, provided that there's enough love... and nourishment."
+  },
+  "111506110": {
+    "Sinner": "Lamia",
+    "Title": "Attire Obtained",
+    "File": "vo_lamia_fangkehou_cacha_001",
+    "Text": "Y-you there! I'm trapped by the plants at the bottom of the pool... Ugh! Could you help me... I think I'm... I'm about to drown..."
+  },
+  "111506111": {
+    "Sinner": "Lamia",
+    "Title": "Upgrade",
+    "File": "vo_lamia_fangkehou_levelup_001",
+    "Text": "Hmm... Thank you for resuscitating me."
+  },
+  "111506112": {
+    "Sinner": "Lamia",
+    "Title": "Greeting",
+    "File": "vo_lamia_fangkehou_greeting_001",
+    "Text": "...Kind friend, please come closer. I've been trapped for so long, and I'm so cold..."
+  },
+  "111506113": {
+    "Sinner": "Lamia",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_lamia_fangkehou_body_001",
+    "Text": "Cleaning this abandoned pool is such thankless, back-breaking work. Whenever it's time for cleaning duty, everyone else finds a way to avoid it... Well, someone has to do it, and I'm willing to take on the job myself. Though I do tend to get hurt when I'm working alone... Fortunately, this time, you were here for me."
+  },
+  "111506114": {
+    "Sinner": "Lamia",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_lamia_fangkehou_body_002",
+    "Text": "You see... those shadows at the bottom of the pool... once, they were just like you, a student who wanted to save me."
+  },
+  "111506115": {
+    "Sinner": "Lamia",
+    "Title": "Idle",
+    "File": "vo_lamia_fangkehou_idle_001",
+    "Text": "Little fishies, don't be so eager. In this empty campus after school, we've got all the time in the world..."
+  },
+  "111506116": {
+    "Sinner": "Lamia",
+    "Title": "Annoyed",
+    "File": "vo_lamia_fangkehou_clicking_001",
+    "Text": "So this is your scent... it's mouth-watering—Oh, I mean, the soap fragrance on you. It smells... so refreshing."
+  },
+  "111506117": {
+    "Sinner": "Lamia",
+    "Title": "Special Attention",
+    "File": "vo_lamia_fangkehou_specialattention_001",
+    "Text": "Why are you looking at me so suspiciously? Could it be... you've seen through me already? If that's the case, then stay here with me forever... my delicious darling..."
   },
   "11150701": {
     "Sinner": "Echo",
@@ -25820,6 +26164,186 @@
     "Title": "Upgrade Skill",
     "File": "vo_zephyr_promotion_001",
     "Text": "I'm feeling so great I could fly a plane upside-down for three miles!"
+  },
+  "11161001": {
+    "Sinner": "Cassian",
+    "Title": "Obtain the Sinner",
+    "File": "vo_cassian_cacha_001",
+    "Text": "Since I've followed you here, my services are yours to command. Brandy offers a smooth finish, tequila a searing fire... whatever sensation you seek, you shall find it at my lounge."
+  },
+  "11161002": {
+    "Sinner": "Cassian",
+    "Title": "Raise to Phase 1",
+    "File": "vo_cassian_promotion_001",
+    "Text": "The weak have no claim to vengeance... I refuse to fail again."
+  },
+  "11161003": {
+    "Sinner": "Cassian",
+    "Title": "Raise to Phase 3",
+    "File": "vo_cassian_promotion2_001",
+    "Text": "I witnessed my family's glory, and with them, I fell into the abyss. But not anymore. I won't stand and watch as everything crumbles again. It may take time, I may stumble along the way. But I swear, I'll find the man who trampled my family's honor... and drag him to hell with my own hands."
+  },
+  "11161004": {
+    "Sinner": "Cassian",
+    "Title": "Level Start",
+    "File": "vo_cassian_battlebegin_001",
+    "Text": "The haze has lifted. Time to get to work."
+  },
+  "11161005": {
+    "Sinner": "Cassian",
+    "Title": "Victory",
+    "File": "vo_cassian_battlewin_001",
+    "Text": "Next time, I hope it's *those* people lying at my feet."
+  },
+  "11161006": {
+    "Sinner": "Cassian",
+    "Title": "Lose Battles",
+    "File": "vo_cassian_battlelose_001",
+    "Text": "Not the first time I've failed... Once the pain passes, I'll stand again."
+  },
+  "11161007": {
+    "Sinner": "Cassian",
+    "Title": "Ultimate Skill",
+    "File": "bt_cassian_uniqueskill_001",
+    "Text": "A life for a life!"
+  },
+  "11161008": {
+    "Sinner": "Cassian",
+    "Title": "Die in Battles",
+    "File": "bt_cassian_dead_001",
+    "Text": "Again... all for nothing. Heh... perhaps it's for the best."
+  },
+  "11161009": {
+    "Sinner": "Cassian",
+    "Title": "Greeting",
+    "File": "vo_cassian_greeting_001",
+    "Text": "It's been too quiet in here. For a moment, I thought you'd never come... Please, have a seat. Let me fix you a drink."
+  },
+  "11161010": {
+    "Sinner": "Cassian",
+    "Title": "Conversation 1",
+    "File": "vo_cassian_talk1_001",
+    "Text": "It doesn't matter what lies beneath a polished façade. Once the liquor takes hold, everything is laid bare. Alcohol can be a remarkable instrument, at times."
+  },
+  "11161011": {
+    "Sinner": "Cassian",
+    "Title": "Conversation 2",
+    "File": "vo_cassian_talk1_002",
+    "Text": "These hands once played melodies that won my family honor and praise... Now all that remains are ugly scars and cold metal."
+  },
+  "11161012": {
+    "Sinner": "Cassian",
+    "Title": "Conversation 3",
+    "File": "vo_cassian_talk1_003",
+    "Text": "...The scars on my face? They're... nothing worth speaking of. It's hardly an exciting story, and certainly not one worth your time."
+  },
+  "11161013": {
+    "Sinner": "Cassian",
+    "Title": "Special Conversation 1",
+    "File": "vo_cassian_talk2_001",
+    "Text": "There's no great secret to bartending. If you want a drink to taste a certain way, you simply add the right ingredients. People are no different. Give them something sweet enough, and they'll become whoever you wish them to be."
+  },
+  "11161014": {
+    "Sinner": "Cassian",
+    "Title": "Special Conversation 2",
+    "File": "vo_cassian_talk2_002",
+    "Text": "This brooch... is the only memento I have left of my family. It's worthless to anyone else, but to me... it's worth more than any fortune. After all, it's the only thing that's still truly mine."
+  },
+  "11161015": {
+    "Sinner": "Cassian",
+    "Title": "Special Conversation 3",
+    "File": "vo_cassian_talk2_003",
+    "Text": "...I just had a dream. I was a boy again, in our family garden. I fell and scraped my knee. My mother rushed over to help, reaching out her hand. But when I reached out to take it, the dream ended. All I could touch was a cold glass bottle."
+  },
+  "11161016": {
+    "Sinner": "Cassian",
+    "Title": "Full Compliance",
+    "File": "vo_cassian_obeyfull_001",
+    "Text": "For the longest time, I believed myself to be a scapegoat chosen by fate, destined for sacrifice, left behind like some crude, pathetic joke... But then, it seemed fate let a single drop of redemption slip through its fingers. It let me find you. You who led me out of the abyss, and showed me how to go on."
+  },
+  "11161017": {
+    "Sinner": "Cassian",
+    "Title": "Idle",
+    "File": "vo_cassian_idle_001",
+    "Text": "Every day, I polish these glasses until they're spotless... just like how I once tried so hard to polish my life to perfection. Laughable, isn't it?"
+  },
+  "11161018": {
+    "Sinner": "Cassian",
+    "Title": "Annoyed",
+    "File": "vo_cassian_clicking_001",
+    "Text": "These gestures... are quite unnecessary. If you have a clear intention, I would prefer you state it plainly."
+  },
+  "11161019": {
+    "Sinner": "Cassian",
+    "Title": "Special Attention",
+    "File": "vo_cassian_specialattention_001",
+    "Text": "I'm accustomed to being looked at. With scorn, greed, or amusement... But your eyes hold none of that. When you look at me, I'm not an item on display, but an equal person."
+  },
+  "11161020": {
+    "Sinner": "Cassian",
+    "Title": "Dispatch",
+    "File": "vo_cassian_dispatch_001",
+    "Text": "It's fine. I've done this kind of work before."
+  },
+  "11161021": {
+    "Sinner": "Cassian",
+    "Title": "Dispatch Complete",
+    "File": "vo_cassian_dispatch2_001",
+    "Text": "They seem to think all I can do is mix drinks. Quite the underestimation, wouldn't you say?"
+  },
+  "11161022": {
+    "Sinner": "Cassian",
+    "Title": "Upgrade",
+    "File": "vo_cassian_levelup_002",
+    "Text": "I do need strength. Thank you."
+  },
+  "11161023": {
+    "Sinner": "Cassian",
+    "Title": "Join Team",
+    "File": "bt_cassian_jointeam_001",
+    "Text": "Here, let me craft something special for you."
+  },
+  "11161024": {
+    "Sinner": "Cassian",
+    "Title": "Danger!",
+    "File": "bt_cassian_danger_001",
+    "Text": "Be careful."
+  },
+  "11161025": {
+    "Sinner": "Cassian",
+    "Title": "Received Order",
+    "File": "bt_cassian_getorder_001",
+    "Text": "...Understood."
+  },
+  "11161026": {
+    "Sinner": "Cassian",
+    "Title": "Attacked",
+    "File": "bt_cassian_gethit_001_1",
+    "Text": "(Grunts)"
+  },
+  "11161027": {
+    "Sinner": "Cassian",
+    "Title": "Normal Attack",
+    "File": "bt_cassian_skill_001_1",
+    "Text": "test"
+  },
+  "11161028": {
+    "Sinner": "Cassian",
+    "Title": "Confused",
+    "File": "vo_cassian_doubt_001",
+    "Text": "What?"
+  },
+  "11161029": {
+    "Sinner": "Cassian",
+    "Title": "Shock",
+    "File": "vo_cassian_shock_001",
+    "Text": "(Gasps)"
+  },
+  "11161030": {
+    "Sinner": "Cassian",
+    "Title": "Upgrade Skill",
+    "File": "vo_cassian_promotion_001",
+    "Text": "The weak have no claim to vengeance... I refuse to fail again."
   },
   "11210101": {
     "Sinner": "K.K.",
