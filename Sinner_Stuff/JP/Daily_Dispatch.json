@@ -3150,8 +3150,8 @@
   "182": {
     "Id": 1057001,
     "Quality": "Purple",
-    "DispatchTitle": "###",
-    "DispatchDescription": "###",
+    "DispatchTitle": "サーカスの疑惑",
+    "DispatchDescription": "最近、ニューシティの有名なサーカス団に虐待スキャンダルが持ち上がった。潜入調査を行うため、治安局は実力が高く、風変わりな外見のコンビクトを一名緊急募集している。",
     "DispatchSinners": {
       "Sinner": "シニックス"
     },
@@ -3167,10 +3167,10 @@
   "183": {
     "Id": 1057002,
     "Quality": "Green",
-    "DispatchTitle": "###",
-    "DispatchDescription": "###",
+    "DispatchTitle": "広場の清掃",
+    "DispatchDescription": "祝賀行事の期間中は出かける人が多すぎるため、広場の清掃を担当する清掃部門の人手が不足する。雑務に長けたコンビクトを作業に参加させることが急務だ。",
     "DispatchSinners": {
-      "Sinner": "###"
+      "Sinner": "サニー"
     },
     "BaseAward": {
       "Reward Item": "ディスコイン",
@@ -3184,10 +3184,10 @@
   "184": {
     "Id": 1057003,
     "Quality": "Blue",
-    "DispatchTitle": "###",
-    "DispatchDescription": "###",
+    "DispatchTitle": "変装して潜入",
+    "DispatchDescription": "最新の情報によると、ニューシティのとあるホテルで人質事件が発生したという。人質の安全を確保するため、コンビクト二名を緊急手配し、従業員に変装させて現場に潜入させる必要がある。",
     "DispatchSinners": {
-      "Sinner 1": "###",
+      "Sinner 1": "サニー",
       "Sinner 2": "ミラ"
     },
     "BaseAward": {
@@ -3200,6 +3200,127 @@
     }
   },
   "185": {
+    "Id": 1058001,
+    "Quality": "Purple",
+    "DispatchTitle": "戦術統括",
+    "DispatchDescription": "錆の川地帯では近頃、死瞳が急増し緊迫した状況だ。直ちに全体的な統括と実戦指揮の経験を持つコンビクトを派遣し、臨時の作戦総指揮として作戦全体を調整する必要がある。",
+    "DispatchSinners": {
+      "Sinner": "アウグスタ"
+    },
+    "BaseAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "186": {
+    "Id": 1058002,
+    "Quality": "Purple",
+    "DispatchTitle": "拳に理あり",
+    "DispatchDescription": "シンジケートの一角で悪党が平民を虐げる事案が頻発している。近頃は子供が負傷する事件も発生し、市民の怒りを買っている状況だ。これを聞いて激怒したあるコンビクトが、正義を守り弱者の安全を保護するために出撃を強く求めた。",
+    "DispatchSinners": {
+      "Sinner": "幽冠・ヘラ"
+    },
+    "BaseAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "187": {
+    "Id": 1058003,
+    "Quality": "Green",
+    "DispatchTitle": "通信切断危機",
+    "DispatchDescription": "ニューシティの複数の電波塔が人為的に破壊され、地域の通信が切断されてしまった。治安局は管理局に緊急要請を行い、電波塔の構造や通信機構に精通したコンビクトを派遣し、設備の修復および犯人の調査に協力することを求めている。",
+    "DispatchSinners": {
+      "Sinner": "ジークリンデ"
+    },
+    "BaseAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "2400.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "800.0"
+    }
+  },
+  "188": {
+    "Id": 1058004,
+    "Quality": "Blue",
+    "DispatchTitle": "商業エリアのブレークポイント",
+    "DispatchDescription": "ニューシティの二大企業が通りに面した区画計画を巡って対立しており、その衝突が協力会社や近隣住民区にまで及んでいる。管理局は調停に長けた人員を現地に派遣し、交渉に介入して事態のさらなる拡大を防ぐことを決定した。",
+    "DispatchSinners": {
+      "Sinner 1": "ジークリンデ",
+      "Sinner 2": "Mr.Fox"
+    },
+    "BaseAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "4000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "1000.0"
+    }
+  },
+  "189": {
+    "Id": 1059001,
+    "Quality": "Purple",
+    "DispatchTitle": "嵐襲来",
+    "DispatchDescription": "辺境が特級の嵐に襲われ、緊急輸送する必要のある希少物資が一部足止めされている。護送を支援し、極端な気象下で物資の安全を確保するため、嵐の環境下での作戦経験があるコンビクトを募集している。",
+    "DispatchSinners": {
+      "Sinner": "セト"
+    },
+    "BaseAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "190": {
+    "Id": 1059002,
+    "Quality": "Green",
+    "DispatchTitle": "砂航船の強盗",
+    "DispatchDescription": "砂の海で、強盗によるディスの砂航船ハイジャック事件が発生した。犯人は治安局に対して、人質と引き換えに8時間以内に仲間を釈放することを要求している。現在、秘密裏に潜入して人質を安全に救出するため、砂航船の内部構造に精通し、単独での戦闘および臨機応変に対応できるコンビクトが1名緊急に必要だ。",
+    "DispatchSinners": {
+      "Sinner": "アーク"
+    },
+    "BaseAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "2400.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "800.0"
+    }
+  },
+  "191": {
+    "Id": 1059003,
+    "Quality": "Blue",
+    "DispatchTitle": "難民の再定住",
+    "DispatchDescription": "ディスの越境審査機関に砂の海の難民が多数留まっている。方言が多岐に渡るため深刻な意思疎通障害が発生し、武力衝突にまで発展している状況だ。誘導と再定住の支援業務に従事してもらうため、砂の海各地の方言に精通し、難民に共感して接することのできるコンビクトを2名緊急に募集している。",
+    "DispatchSinners": {
+      "Sinner 1": "アーク",
+      "Sinner 2": "ミラ"
+    },
+    "BaseAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "4000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "1000.0"
+    }
+  },
+  "192": {
     "Id": 1099001,
     "Quality": "Green",
     "DispatchTitle": "夢の解析",

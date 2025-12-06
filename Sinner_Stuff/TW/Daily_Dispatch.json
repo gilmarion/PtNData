@@ -3200,6 +3200,127 @@
     }
   },
   "185": {
+    "Id": 1058001,
+    "Quality": "Purple",
+    "DispatchTitle": "戰術統籌",
+    "DispatchDescription": "鏽河地帶近日死役激增，局勢緊張，當下急需一位具備全局統籌與實戰指揮經驗的禁閉者前往，臨時擔任作戰總指揮，協調整體行動。",
+    "DispatchSinners": {
+      "Sinner": "奧古斯特"
+    },
+    "BaseAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "186": {
+    "Id": 1058002,
+    "Quality": "Purple",
+    "DispatchTitle": "出拳有理",
+    "DispatchDescription": "辛迪加一街區頻傳惡徒欺壓平民之事，近日更有孩童受傷事件引發民憤。某禁閉者得知消息後怒不可遏，強烈要求出手維護正義，保護弱者安全。",
+    "DispatchSinners": {
+      "Sinner": "幽冕·海拉"
+    },
+    "BaseAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "187": {
+    "Id": 1058003,
+    "Quality": "Green",
+    "DispatchTitle": "斷訊危機",
+    "DispatchDescription": "新城的多座訊號塔遭到人為破壞，造成片區通訊中斷。治安局向管理局提出緊急申請，需派遣一位對訊號塔結構與通訊機制有深入瞭解的禁閉者，協助搶修設備、調查元凶。",
+    "DispatchSinners": {
+      "Sinner": "希格林德"
+    },
+    "BaseAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "2400.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "800.0"
+    }
+  },
+  "188": {
+    "Id": 1058004,
+    "Quality": "Blue",
+    "DispatchTitle": "商圈斷點",
+    "DispatchDescription": "新城兩家大型企業因臨街地塊規劃發生衝突，矛盾已蔓延至合作商與附近住宅區。管理局決定派擅長協調交涉的人員前往現場，介入調解，防止事態進一步升級。",
+    "DispatchSinners": {
+      "Sinner 1": "希格林德",
+      "Sinner 2": "Mr.Fox"
+    },
+    "BaseAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "4000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "1000.0"
+    }
+  },
+  "189": {
+    "Id": 1059001,
+    "Quality": "Purple",
+    "DispatchTitle": "風暴侵襲",
+    "DispatchDescription": "邊境遭特級風暴侵襲，一批急需運入境內的珍稀物資滯留。現需招募具有風暴環境作戰經驗的禁閉者協助押運，保障物資在極端天氣下的安全。",
+    "DispatchSinners": {
+      "Sinner": "賽托"
+    },
+    "BaseAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "190": {
+    "Id": 1059002,
+    "Quality": "Green",
+    "DispatchTitle": "砂船劫匪",
+    "DispatchDescription": "砂海發生職業劫匪劫持狄斯砂船事件，匪徒要求治安局8小時內釋放其同夥以交換人質。現急需一名熟悉砂船內部結構、具備獨立作戰與應變能力的禁閉者，秘密潛入並安全解救人質。",
+    "DispatchSinners": {
+      "Sinner": "雅可"
+    },
+    "BaseAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "2400.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "800.0"
+    }
+  },
+  "191": {
+    "Id": 1059003,
+    "Quality": "Blue",
+    "DispatchTitle": "流民安置",
+    "DispatchDescription": "狄斯入境檢查機構滯留大批砂海流民，因口音複雜，引發嚴重溝通障礙並升級至武力衝突。現緊急招募兩名精通砂海各地方言、且對流民抱有同理心的禁閉者，參與疏導與安頓工作。",
+    "DispatchSinners": {
+      "Sinner 1": "雅可",
+      "Sinner 2": "米拉"
+    },
+    "BaseAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "4000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "1000.0"
+    }
+  },
+  "192": {
     "Id": 1099001,
     "Quality": "Green",
     "DispatchTitle": "夢的解析",

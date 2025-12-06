@@ -2978,7 +2978,7 @@
     "Id": 1054001,
     "Quality": "Purple",
     "DispatchTitle": "든든한 친구",
-    "DispatchDescription": "정보원에 따르면 신성의 어느 한 부자가 암암리에 변이 무기 밀수 조직을 지원한다고 한다. 이에 따라 관리국은 작전 요원을 해당 인물의 사교계에 잠입시켜 조사를 진행할 예정이며, 현재 상류층 내에서 명망 있는 인물의 소개가 필요한 상황이다.",
+    "DispatchDescription": "정보원에 따르면 신성의 어느 한 부자가 암암리에 변이 무기 밀수 조직을 지원한다고 한다. 이에 따라 관리국은 작전요원을 해당 인물의 사교계에 잠입시켜 조사를 진행할 예정이며, 현재 상류층 내에서 명망 있는 인물의 소개가 필요한 상황이다.",
     "DispatchSinners": {
       "Sinner": "파르·페"
     },
@@ -2995,7 +2995,7 @@
     "Id": 1054002,
     "Quality": "Purple",
     "DispatchTitle": "죽음의 무도회",
-    "DispatchDescription": "최근 신성에서 무용 대회를 개최하고 있다. 대회 시작 이후 경기장 내 M 수치가 지속적으로 비정상적인 파동을 보이고 있다. 이에 FAC는 관리국에 무용에 능한 수감자를 파견해 작전 요원과 함께 잠입 조사를 해달라고 요청했다.",
+    "DispatchDescription": "최근 신성에서 무용 대회를 개최하고 있다. 대회 시작 이후 경기장 내 M 수치가 지속적으로 비정상적인 파동을 보이고 있다. 이에 FAC는 관리국에 무용에 능한 수감자를 파견해 작전요원과 함께 잠입 조사를 해달라고 요청했다.",
     "DispatchSinners": {
       "Sinner": "자스민"
     },
@@ -3150,8 +3150,8 @@
   "182": {
     "Id": 1057001,
     "Quality": "Purple",
-    "DispatchTitle": "###",
-    "DispatchDescription": "###",
+    "DispatchTitle": "서커스단 의문점",
+    "DispatchDescription": "최근 신성의 한 유명 서커스단에서 학대 스캔들이 터져 나왔다. 치안국에서 실력이 강하고, 외모가 평범하지 않은 수감자가 지원해 잠입 조사를 도와주기를 기다리고 있다.",
     "DispatchSinners": {
       "Sinner": "시넥스"
     },
@@ -3167,8 +3167,8 @@
   "183": {
     "Id": 1057002,
     "Quality": "Green",
-    "DispatchTitle": "###",
-    "DispatchDescription": "###",
+    "DispatchTitle": "광장 청소",
+    "DispatchDescription": "축제 기간, 찾아오는 사람이 너무 많아져서, 광장 청소를 맡은 환경미화 부서의 일손이 부족해졌다. 환경미화 부서를 돕기 위해 잡일에 능한 수감자를 파견해야 한다.",
     "DispatchSinners": {
       "Sinner": "사니"
     },
@@ -3184,8 +3184,8 @@
   "184": {
     "Id": 1057003,
     "Quality": "Blue",
-    "DispatchTitle": "###",
-    "DispatchDescription": "###",
+    "DispatchTitle": "위장 잠입",
+    "DispatchDescription": "최신 소식에 따르면 신성의 한 호텔에서 인질극이 발생했다고 한다. 인질을 보호하기 위해, 수감자 두 명을 긴급하게 파견해 종업원으로 위장해 현장에 잠입시켜야 한다.",
     "DispatchSinners": {
       "Sinner 1": "사니",
       "Sinner 2": "미라"
@@ -3200,6 +3200,127 @@
     }
   },
   "185": {
+    "Id": 1058001,
+    "Quality": "Purple",
+    "DispatchTitle": "전술 총괄",
+    "DispatchDescription": "러스트 리버 지대에서 최근 괴변체가 급증하여 상황이 긴박해졌다. 현재 급히 전반적인 상황을 통솔하고 실전 지휘가 풍부한 수감자를 파견해 작전 총지휘를 맡기고 전체 작전을 조율해야 한다.",
+    "DispatchSinners": {
+      "Sinner": "아우구스트"
+    },
+    "BaseAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "186": {
+    "Id": 1058002,
+    "Quality": "Purple",
+    "DispatchTitle": "정당한 주먹",
+    "DispatchDescription": "신디케이트의 어느 디스트릭트에서 악당들이 일반인을 괴롭힌다는 제보가 잇따르고 있고, 최근에는 아이가 다치는 사건까지 발생해 민중들의 공분을 사게 됐다. 소식을 들은 어느 수감자는 매우 분노하며, 정의를 지키고 약자를 보호하겠다고 강력하게 주장했다.",
+    "DispatchSinners": {
+      "Sinner": "유혼·엘라"
+    },
+    "BaseAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "187": {
+    "Id": 1058003,
+    "Quality": "Green",
+    "DispatchTitle": "통신 두절 위기",
+    "DispatchDescription": "신성의 여러 통신 탑이 파괴되어, 일부 지역의 통신이 두절되었다. 치안국은 관리국에 통신 탑의 구조와 통신 메커니즘에 대해 깊은 이해도를 갖춘 수감자를 파견하여 범인을 찾고 장비를 복구할 수 있도록 도움을 요청했다.",
+    "DispatchSinners": {
+      "Sinner": "시글린데"
+    },
+    "BaseAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "2400.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "800.0"
+    }
+  },
+  "188": {
+    "Id": 1058004,
+    "Quality": "Blue",
+    "DispatchTitle": "상권 분리 지점",
+    "DispatchDescription": "신성의 두 대기업이 도로 접경지의 개발로 인해 충돌하면서, 이들의 갈등은 협력업체와 주변 주거 구역까지 확산했다. 관리국에서는 협상에 능한 인원을 현장에 파견하여, 사태 확산을 막기 위해 중재하기로 했다.",
+    "DispatchSinners": {
+      "Sinner 1": "시글린데",
+      "Sinner 2": "Mr.Fox"
+    },
+    "BaseAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "4000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "1000.0"
+    }
+  },
+  "189": {
+    "Id": 1059001,
+    "Quality": "Purple",
+    "DispatchTitle": "폭풍의 습격",
+    "DispatchDescription": "국경이 특급 폭풍의 습격을 받아, 국경 안으로 긴급히 운반해야 할 희귀 물자가 멈췄다. 현재 폭풍이 부는 환경에서의 작전 경험을 가진 수감자를 모집해 물자 운송을 돕고, 극한 기상 조건에서 물자의 안전을 보장해야 한다.",
+    "DispatchSinners": {
+      "Sinner": "세토"
+    },
+    "BaseAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "190": {
+    "Id": 1059002,
+    "Quality": "Green",
+    "DispatchTitle": "사막 납치범",
+    "DispatchDescription": "화이트 샌드의 전문 납치 조직이 디스의 사막 함선을 납치했다. 납치범들은 치안국에 8시간 내에 동료들을 석방하는 조건으로 인질을 교환할 것을 요구했다. 현재 사막 함선의 내부 구조를 잘 알고, 독립 작전과 임기응변에 능한 수감자를 파견해 인질을 안전하게 구출해야 한다.",
+    "DispatchSinners": {
+      "Sinner": "아크"
+    },
+    "BaseAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "2400.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "800.0"
+    }
+  },
+  "191": {
+    "Id": 1059003,
+    "Quality": "Blue",
+    "DispatchTitle": "유랑민 정착",
+    "DispatchDescription": "디스 입국 관리 기관에서 대량의 화이트 샌드 유랑민이 체류하고 있다. 방언으로 인해 발생한 소통 장애가 무력 충돌로 발전하려고 한다. 현재 화이트 샌드 각 지역의 방언에 능숙하고, 유랑민의 입장을 이해할 수 있는 수감자 2명을 파견해 사태를 수습하고 난민들을 진정시켜야 한다.",
+    "DispatchSinners": {
+      "Sinner 1": "아크",
+      "Sinner 2": "미라"
+    },
+    "BaseAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "4000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "1000.0"
+    }
+  },
+  "192": {
     "Id": 1099001,
     "Quality": "Green",
     "DispatchTitle": "꿈의 해석",

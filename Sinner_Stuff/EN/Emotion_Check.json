@@ -185,13 +185,13 @@
       "Emoji 2": "😖"
     },
     "Emotion Check 3": {
-      "Open": "###",
-      "Zoya Question": "###",
-      "Chief Question 1": "###",
-      "Zoya Response 1": "###",
+      "Open": "[You find Zoya, who remains detached from the festive atmosphere, having just completed her routine strength training.]",
+      "Zoya Question": "Your inauguration ceremony is only two days away. Why are you here instead of at the rehearsal? ...Want me to attend it with you?",
+      "Chief Question 1": "Yes, I'd like you to witness that.",
+      "Zoya Response 1": "Since you've asked, I'll definitely be there.",
       "Emoji 1": "😉",
-      "Chief Question 2": "###",
-      "Zoya Response 2": "###",
+      "Chief Question 2": "Then it's settled. I'll come pick you up when it's time.",
+      "Zoya Response 2": "I'll be waiting. Don't be late.",
       "Emoji 2": "😏"
     }
   },
@@ -339,6 +339,31 @@
         "😫",
         "😫"
       ]
+    }
+  },
+  "Synex": {
+    "Emotion Check 1": {
+      "Open": "[Synex places a bowl of food in front of you.]",
+      "Synex Question": "The cafeteria food is way too salty. It's made a patch of my tail go bald.",
+      "Chief Question 1": "I'll have the cafeteria adjust their seasoning.",
+      "Synex Response 1": "Haha, be sure you do. Well then, this is all yours now. Enjoy your meal!",
+      "Emoji 1": "😉",
+      "Chief Question 2": "Really? Show me where your tail went bald.",
+      "Synex Response 2": "Hmm? You sure are an oddball, but I like that. Here, take a look. But you'd better not touch it.",
+      "Emoji 2": [
+        "😐",
+        "😏"
+      ]
+    },
+    "Emotion Check 2": {
+      "Open": "[Synex has caught a mouse and is toying with it.]",
+      "Synex Question": "Hey, wanna join in the fun?",
+      "Chief Question 1": "Please don't torment small animals like that.",
+      "Synex Response 1": "Oh, don't be so dramatic. I'm simply teaching it a lesson of survival. Real animals are far more cruel than I am.",
+      "Emoji 1": "😉",
+      "Chief Question 2": "What would it take for you to let it go?",
+      "Synex Response 2": "Oh? Playing the hero today? Well then... how about you take its place instead?",
+      "Emoji 2": "😏"
     }
   },
   "Bai Yi": {
@@ -580,17 +605,17 @@
       ]
     },
     "Emotion Check 6": {
-      "Open": "###",
-      "000 Question": "###",
-      "Chief Question 1": "###",
-      "000 Response 1": "###",
+      "Open": "[An intense electric guitar solo blares from the activity room.]",
+      "000 Question": "Wasn't that awesome? Did you love it? Wanna hear more?! You over there. Yes, you, Chief! Let me hear you scream!",
+      "Chief Question 1": "[Applaud]",
+      "000 Response 1": "Looks like someone in the audience is still holding back, huh? No worries! On the day of the real show, I'll have you cheering for me from the bottom of your heart!",
       "Emoji 1": [
         "😘",
         "😘",
         "😘"
       ],
-      "Chief Question 2": "###",
-      "000 Response 2": "###",
+      "Chief Question 2": "It's break time. Remember to adjust your speaker volume.",
+      "000 Response 2": "Oh please, I'll tame even those who're filing complaints with my amazing performance. After all, this is a show specially prepared for the celebration!",
       "Emoji 2": [
         "😏",
         "😏",
@@ -632,6 +657,58 @@
         "😘",
         "😘"
       ]
+    }
+  },
+  "Necresta·Hella": {
+    "Emotion Check 1": {
+      "Open": "[Hella is scribbling furiously in a notebook.]",
+      "Necresta·Hella Question": "Is this how you spell this word...? Whatever, I'll just put it down anyway!",
+      "Chief Question 1": "What are you writing?",
+      "Necresta·Hella Response 1": "Hehehe, I'm gonna write down all my heroic adventures in WhiteSands and show it to everyone in the Bureau!",
+      "Emoji 1": [
+        "😉",
+        "😉",
+        "😉"
+      ],
+      "Chief Question 2": "You spelled this word wrong.",
+      "Necresta·Hella Response 2": "Hmph, help me correct it, then!",
+      "Emoji 2": "😖"
+    },
+    "Emotion Check 2": {
+      "Open": "[Hella stands in the hallway, clutching a pillow.]",
+      "Necresta·Hella Question": "Hmm... Whose room should I sleep in?",
+      "Chief Question 1": "What are you doing here?",
+      "Necresta·Hella Response 1": "I... I'm gonna hang out with Ninety-Nine and the others tonight... It's NOT because I had a nightmare and can't fall asleep alone, by the way!",
+      "Emoji 1": [
+        "😖",
+        "😖",
+        "😖"
+      ],
+      "Chief Question 2": "If you're afraid to sleep alone, I can stay with you until you fall asleep.",
+      "Necresta·Hella Response 2": "O-okay, but you're not allowed to leave!",
+      "Emoji 2": "😘"
+    }
+  },
+  "Ceto": {
+    "Emotion Check 1": {
+      "Open": "[Ceto sits at the desk quietly, focused on crafting a lighthouse model.]",
+      "Ceto Question": "\"How much longer are you planning to watch me?\"",
+      "Chief Question 1": "Sorry! Am I disturbing you?",
+      "Ceto Response 1": "...Not really. If you were actually bothering me, I'd have kicked you out already.",
+      "Emoji 1": "😐",
+      "Chief Question 2": "Need a hand?",
+      "Ceto Response 2": "If you don't find it too dull, you can help me tighten these screws.",
+      "Emoji 2": "😏"
+    },
+    "Emotion Check 2": {
+      "Open": "[Ceto has brought out an antique phonograph from somewhere and is listening to music.]",
+      "Ceto Question": "\"...Have you heard this song before?\"",
+      "Chief Question 1": "Yes, it's a classic DisCity oldie.",
+      "Ceto Response 1": "...I've heard it too. Back when I was at the lighthouse, there was this guy who always played it. Said it was his favorite song.",
+      "Emoji 1": "😉",
+      "Chief Question 2": "No, but it sounds beautiful.",
+      "Ceto Response 2": "Then come sit with me. Let's listen to it from the beginning.",
+      "Emoji 2": "😏"
     }
   },
   "Summer": {
@@ -688,13 +765,13 @@
       "Emoji 2": "😘"
     },
     "Emotion Check 3": {
-      "Open": "###",
-      "Langley Question": "###",
-      "Chief Question 1": "###",
-      "Langley Response 1": "###",
+      "Open": "[You discover Langley's message on the performance review board.]",
+      "Langley Question": "I've reviewed your report. Well done, Chief of Minos. You're now capable enough to live up to your title. I should prepare a congratulatory gift for you. It'll be presented at your upcoming inauguration ceremony.",
+      "Chief Question 1": "Thank you, I'm looking forward to it.",
+      "Langley Response 1": "See you at the celebration.",
       "Emoji 1": "😏",
-      "Chief Question 2": "###",
-      "Langley Response 2": "###",
+      "Chief Question 2": "So, do I get to pick my gift?",
+      "Langley Response 2": "Heh, looks like you've gotten bolder too. But that's fine. I like it when you take the lead.",
       "Emoji 2": "😏"
     }
   },
@@ -764,13 +841,13 @@
       "Emoji 2": "😉"
     },
     "Emotion Check 3": {
-      "Open": "###",
-      "Shalom Question": "###",
-      "Chief Question 1": "###",
-      "Shalom Response 1": "###",
+      "Open": "[You receive some irises from Shalom.]",
+      "Shalom Question": "Chief, to celebrate this special occasion, I've brought you some irises I've grown myself. Do you like them?",
+      "Chief Question 1": "Thank you, these flowers are beautiful.",
+      "Shalom Response 1": "Mmm... Because this is a reward for behaving.",
       "Emoji 1": "😘",
-      "Chief Question 2": "###",
-      "Shalom Response 2": "###",
+      "Chief Question 2": "Did you grow these flowers yourself?",
+      "Shalom Response 2": "I visit the greenhouse every day, but I suppose other Sinners help me look after them too. They're all so lovely.",
       "Emoji 2": "😘"
     }
   },
@@ -924,6 +1001,38 @@
         "😖",
         "😖"
       ]
+    }
+  },
+  "Augustus": {
+    "Emotion Check 1": {
+      "Open": "[Augustus spins a car key around her fingertip.]",
+      "Augustus Question": "Care to go for a ride with me?",
+      "Chief Question 1": "Sure, I could use an outdoor break.",
+      "Augustus Response 1": "Come on, let's go have some fun.",
+      "Emoji 1": "😘",
+      "Chief Question 2": "Are you trying to make me play hooky?",
+      "Augustus Response 2": "That's right. Should I kidnap you and make you my subordinate instead?",
+      "Emoji 2": "😉"
+    },
+    "Emotion Check 2": {
+      "Open": "[Augustus is inspecting the Training Room.]",
+      "Augustus Question": "Is that all? Your training facilities could use some improvements.",
+      "Chief Question 1": "I think it's adequate. The Bureau isn't the military.",
+      "Augustus Response 1": "You're far too lenient with your subordinates.",
+      "Emoji 1": "😐",
+      "Chief Question 2": "Then are you offering to fund said improvements?",
+      "Augustus Response 2": "No problem, I've got plenty of weapons to spare.",
+      "Emoji 2": "😉"
+    },
+    "Emotion Check 3": {
+      "Open": "[Augustus personally delivers your medal of honor.]",
+      "Augustus Question": "For a rookie, Chief, your performance has been quite impressive. So, will you come with me willingly, or should I have my people take you? Though I suppose staying for your own celebration wouldn't be such a bad idea.",
+      "Chief Question 1": "So, care to join the celebration with me?",
+      "Augustus Response 1": "I was hoping you'd ask. Give me your hand.",
+      "Emoji 1": "😘",
+      "Chief Question 2": "Thank you for the recognition, but let's enjoy the celebration first before you get other ideas.",
+      "Augustus Response 2": "What a shame, but what I want will ultimately be mine. For now, accept this honor I've prepared especially for you.",
+      "Emoji 2": "😏"
     }
   },
   "Eirene": {
@@ -1138,13 +1247,13 @@
       ]
     },
     "Emotion Check 3": {
-      "Open": "###",
-      "Yingying Question": "###",
-      "Chief Question 1": "###",
-      "Yingying Response 1": "###",
+      "Open": "[A potted plant with an unusual fragrance has appeared beside your desk. Upon closer inspection, its newly sprouted branches look strangely familiar.]",
+      "Yingying Question": "Other than at the Wisteria Fete, the Wisteria Fairy will grant a wish to the first person who finds her on this special day. Who will be the lucky one?",
+      "Chief Question 1": "[Pretend not to hear]",
+      "Yingying Response 1": "Don't go, Chief! Seeing as you're the only person here, this wish is all yours. What would you like?",
       "Emoji 1": "😫",
-      "Chief Question 2": "###",
-      "Yingying Response 2": "###",
+      "Chief Question 2": "Who could it be?",
+      "Yingying Response 2": "It's you, of course! Tell me, Chief, on the first special day we're spending together, what would you wish for?",
       "Emoji 2": "😘"
     }
   },
@@ -1208,13 +1317,13 @@
       ]
     },
     "Emotion Check 3": {
-      "Open": "###",
-      "Hamel Question": "###",
-      "Chief Question 1": "###",
-      "Hamel Response 1": "###",
+      "Open": "[You receive an exclusive ball invitation from Hamel.]",
+      "Hamel Question": "Chief, I've choreographed a new dance to celebrate this special day. I'm delighted you've agreed to come and watch me perform it.",
+      "Chief Question 1": "Just the two of us?",
+      "Hamel Response 1": "Of course, this is your special day, so I hope that within this illusion, my dance can fulfill all your wishes.",
       "Emoji 1": "😘",
-      "Chief Question 2": "###",
-      "Hamel Response 2": "###",
+      "Chief Question 2": "Thank you for everything you prepared.",
+      "Hamel Response 2": "Before sunrise, just surrender your body completely to the music.",
       "Emoji 2": "😏"
     }
   },
@@ -1716,6 +1825,28 @@
       ]
     }
   },
+  "Siglinde": {
+    "Emotion Check 1": {
+      "Open": "[Siglinde adjusts her cassette device.]",
+      "Siglinde Question": "DisCity has quite a few interesting radio channels...",
+      "Chief Question 1": "Which radio channels do you like to listen to?",
+      "Siglinde Response 1": "The pop music channels are quite good, and certain private channels are quite intriguing as well.",
+      "Emoji 1": "😘",
+      "Chief Question 2": "Oh, so you can listen to the radio with it too.",
+      "Siglinde Response 2": "Of course, it can pick up any signal I want it to.",
+      "Emoji 2": "😉"
+    },
+    "Emotion Check 2": {
+      "Open": "[Siglinde walks by carrying a towering stack of cardboard boxes.]",
+      "Siglinde Question": "Just some printed battle reports that need to be destroyed. I'm taking them to the processing station.",
+      "Chief Question 1": "Let me help you carry some of those.",
+      "Siglinde Response 1": "Thank you. You can just take the box on top. That one's light.",
+      "Emoji 1": "😘",
+      "Chief Question 2": "Can you really carry all of them?",
+      "Siglinde Response 2": "Oh, this is nothing to me.",
+      "Emoji 2": "😉"
+    }
+  },
   "Ninety-Nine": {
     "Emotion Check 1": {
       "Open": "[Ninety-Nine keeps striking her blade at the floor.]",
@@ -2021,6 +2152,32 @@
       "Chief Question 2": "Did you cook it yourself?",
       "Lysandra Response 2": "I didn't actually cook. I just imbued the kitchen knives with master-level cutting attributes.",
       "Emoji 2": "😏"
+    }
+  },
+  "Ark": {
+    "Emotion Check 1": {
+      "Open": "[You see Ark holding a video game console, controlling a battleship in naval combat against its enemies.]",
+      "Ark Question": "\"Haaaa! Charge! Take this cannonball!\"",
+      "Chief Question 1": "Wow, you won! Way to go!",
+      "Ark Response 1": "Hehe, of course! All these years commanding my sand ship weren't for nothing!",
+      "Emoji 1": "😉",
+      "Chief Question 2": "You... lost?",
+      "Ark Response 2": "I'm done with this! This is nothing like a real battle!",
+      "Emoji 2": "😖"
+    },
+    "Emotion Check 2": {
+      "Open": "[Ark beams at you as she presses a colorful string of beads into your hand.]",
+      "Ark Question": "\"Here, a gift for you.\"",
+      "Chief Question 1": "What's this?",
+      "Ark Response 1": "A beaded charm that symbolizes blessings. It's a WhiteSands tradition. Take it with you anywhere you go!",
+      "Emoji 1": "😉",
+      "Chief Question 2": "Thank you!",
+      "Ark Response 2": "Zulu Zulu! I made it myself! I knew you'd like it!",
+      "Emoji 2": [
+        "😘",
+        "😘",
+        "😘"
+      ]
     }
   },
   "Iron": {
@@ -2645,23 +2802,23 @@
       "Emoji 2": "😦"
     },
     "Emotion Check 3": {
-      "Open": "###",
-      "Hecate Question": "###",
-      "Chief Question 1": "###",
-      "Hecate Response 1": "###",
+      "Open": "[Hecate seems surprised and uneasy at your unexpected visit.]",
+      "Hecate Question": "Chief, the path ahead is blocked. Let me show you another way.",
+      "Chief Question 1": "Why is it blocked?",
+      "Hecate Response 1": "Because... because there are surprises Chief can't know about yet.",
       "Emoji 1": "😫",
-      "Chief Question 2": "###",
-      "Hecate Response 2": "###",
+      "Chief Question 2": "Don't let them do anything dangerous, okay?",
+      "Hecate Response 2": "Yes, we've discussed it. They're all low-risk surprises, Chief, don't worry.",
       "Emoji 2": "😘"
     },
     "Emotion Check 4": {
-      "Open": "###",
-      "Hecate Question": "###",
-      "Chief Question 1": "jojo",
-      "Hecate Response 1": "###",
+      "Open": "[Having fallen asleep unconsciously, you awaken to find Hecate, who's been keeping watch over you for some time.]",
+      "Hecate Question": "Chief, you're finally back. Everyone has missed you while you were away...",
+      "Chief Question 1": "I'm back.",
+      "Hecate Response 1": "Welcome home.",
       "Emoji 1": "😘",
-      "Chief Question 2": "###",
-      "Hecate Response 2": "###",
+      "Chief Question 2": "It's been a while. How has everyone been doing?",
+      "Hecate Response 2": "We've all been taking good care of ourselves, but... we were all hoping you'd come back soon, Chief. Everyone is waiting for you.",
       "Emoji 2": "😘"
     }
   },
@@ -2796,6 +2953,43 @@
         "😉",
         "😉",
         "😉"
+      ]
+    }
+  },
+  "Thani": {
+    "Emotion Check 1": {
+      "Open": "[Thani approaches you, humming a tune with a broom in hand.]",
+      "Thani Question": "Chief, need someone to clean your office?",
+      "Chief Question 1": "Great, I'll be counting on you then.",
+      "Thani Response 1": "Leave it to me! I'll make everything spotless. Your satisfaction is guaranteed!",
+      "Emoji 1": [
+        "😘",
+        "😘",
+        "😘"
+      ],
+      "Chief Question 2": "My office is actually quite clean right now.",
+      "Thani Response 2": "Hmm... then I'll go find somewhere else to clean! Hey, Faye!",
+      "Emoji 2": [
+        "😐",
+        "😘"
+      ]
+    },
+    "Emotion Check 2": {
+      "Open": "[Thani shows you an object of indiscernible shape.]",
+      "Thani Question": "Look! This is my latest invention, made from Eureka's blueprints!",
+      "Chief Question 1": "It definitely has both your unique styles!",
+      "Thani Response 1": "Hehe, looks like my invention skills are improving! Here, it's yours now!",
+      "Emoji 1": [
+        "😘",
+        "😘",
+        "😘"
+      ],
+      "Chief Question 2": "What does this do?",
+      "Thani Response 2": "Uh... hmm... I think it's a mini fan? Look, if you flip this switch here... Waaah! Why did it explode?!",
+      "Emoji 2": [
+        "😦",
+        "😖",
+        "😫"
       ]
     }
   },
@@ -3172,13 +3366,13 @@
       ]
     },
     "Emotion Check 3": {
-      "Open": "###",
-      "Hella Question": "###",
-      "Chief Question 1": "###",
-      "Hella Response 1": "###",
+      "Open": "[You find a voicemail from Hella in your inbox.]",
+      "Hella Question": "Hey, dummy! Guess where I am right now?",
+      "Chief Question 1": "[Add new contact: Hella Device No.3]",
+      "Hella Response 1": "Forget it, you wouldn't know where it is anyway. Don't tell Hecate, but I'll be back in three days!",
       "Emoji 1": "😉",
-      "Chief Question 2": "###",
-      "Hella Response 2": "###",
+      "Chief Question 2": "[Add to favorites]",
+      "Hella Response 2": "I'm in WhiteSands! After leaving Tuco, I've run into many strange things. Once I sort everything out, I'll come back to see you! Wait for me, okay?",
       "Emoji 2": "😘"
     }
   },

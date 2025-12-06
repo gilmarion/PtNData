@@ -781,6 +781,66 @@
     "File": "vo_rahu_qingkongmixing_specialattention_001",
     "Text": "在其他人就位之前，你都打算这样看着我吗？遵循人设？好吧……需要我做出回应的话，就告诉我。"
   },
+  "110103110": {
+    "Sinner": "罗睺",
+    "Title": "获得装束",
+    "File": "vo_rahu_rongguangqishi_cacha_001",
+    "Text": "我对我的主君宣誓，向你献上我一生的忠诚与守护——从今往后，我们将荣辱与共，永不背弃。"
+  },
+  "110103111": {
+    "Sinner": "罗睺",
+    "Title": "升级",
+    "File": "vo_rahu_rongguangqishi_levelup_002",
+    "Text": "我不会辜负你的期望。"
+  },
+  "110103112": {
+    "Sinner": "罗睺",
+    "Title": "问候",
+    "File": "vo_rahu_rongguangqishi_greeting_001",
+    "Text": "庄园已巡视完毕，一切安全。今天有什么外出事务需要我陪同护送吗？"
+  },
+  "110103113": {
+    "Sinner": "罗睺",
+    "Title": "摸头",
+    "File": "vo_rahu_rongguangqishi_head_001",
+    "Text": "请别乱碰，骑士的仪表同样也代表了你的体面，所以我希望能保持发型的整齐庄重。"
+  },
+  "110103114": {
+    "Sinner": "罗睺",
+    "Title": "普通触摸1",
+    "File": "vo_rahu_rongguangqishi_talk1_001",
+    "Text": "那些被广为赞颂的骑士精神，真正能全部做到的人又有多少？……你认为我就是？好吧，谢谢你，我会继续保持。"
+  },
+  "110103115": {
+    "Sinner": "罗睺",
+    "Title": "普通触摸2",
+    "File": "vo_rahu_rongguangqishi_talk1_002",
+    "Text": "骑士效忠后会得到来自主君的信物，那是被青睐和承认的证明；而你所给予的信任，对我来说就是最好的奖赏。"
+  },
+  "110103116": {
+    "Sinner": "罗睺",
+    "Title": "普通触摸3",
+    "File": "vo_rahu_rongguangqishi_hand_001",
+    "Text": "想做什么就去做吧，我会永远站在你的身侧。无论是什么人想要威胁你的安危，我都绝不会让他们找到任何可乘之机。"
+  },
+  "110103117": {
+    "Sinner": "罗睺",
+    "Title": "普通触摸4",
+    "File": "vo_rahu_rongguangqishi_weapon_001",
+    "Text": "我的武器和力量只为守护而生，它们捍卫你的荣誉，贯彻你的意志，也为你所践行的道路扫除一切阻碍。"
+  },
+  "110103118": {
+    "Sinner": "罗睺",
+    "Title": "闲置",
+    "File": "vo_rahu_rongguangqishi_idle_001",
+    "Text": "现在阳光正好，不如去楼下的花园庭院里小坐，喝杯红茶？"
+  },
+  "110103119": {
+    "Sinner": "罗睺",
+    "Title": "特别关注",
+    "File": "vo_rahu_rongguangqishi_specialattention_001",
+    "Text": "贴身守护也是骑士的职责之一。既然我已经朝你宣誓，那就不必担心我会离你而去。"
+  },
   "11010401": {
     "Sinner": "瓦尼菈",
     "Title": "获得禁闭者",
@@ -2155,31 +2215,41 @@
     "Sinner": "诺克斯",
     "Title": "互动1",
     "File": "vo_nuokesi_huazhongchenxi_drag_001",
-    "Text": "好啦~可以睁开眼睛了~！"
+    "4_Star_Text 1": "好啦~可以睁开眼睛了~！",
+    "4_Star_Text 2": "……安柏，是你吗？",
+    "4_Star_Text 3": "是呀，我们不是说好要一起看朝阳的吗？你看，所有的花儿都被镀上一层金色，特别漂亮~谢谢你带我来。"
   },
   "110202138": {
     "Sinner": "诺克斯",
     "Title": "互动2",
     "File": "vo_nuokesi_huazhongchenxi_dragback_001",
-    "Text": "嗯？我的头发怎么了吗？"
+    "4_Star_Text 1": "嗯？我的头发怎么了吗？",
+    "4_Star_Text 2": "看起来适合再戴一朵花儿。",
+    "4_Star_Text 3": "那我就要被花儿淹没了，不过……我很开心！"
   },
   "110202139": {
     "Sinner": "诺克斯",
     "Title": "互动3",
     "File": "vo_nuokesi_huazhongchenxi_dragbody_001",
-    "Text": "你看~太阳被我捧在手心了。"
+    "4_Star_Text 1": "你看~太阳被我捧在手心了。",
+    "4_Star_Text 2": "哇~你在偷偷拍我？让我看看~",
+    "4_Star_Text 3": "好吧~就留给你作为珍藏，要好好保存哦！"
   },
   "110202140": {
     "Sinner": "诺克斯",
     "Title": "互动4",
     "File": "vo_nuokesi_huazhongchenxi_draghand_001",
-    "Text": "这是……给我的吗？"
+    "4_Star_Text 1": "这是……给我的吗？",
+    "4_Star_Text 2": "很适合你。",
+    "4_Star_Text 3": "嗯，我会把它一直留在身边的。"
   },
   "110202141": {
     "Sinner": "诺克斯",
     "Title": "互动5",
     "File": "vo_nuokesi_huazhongchenxi_dragleg_001",
-    "Text": "……是风的声音。"
+    "4_Star_Text 1": "……是风的声音。",
+    "4_Star_Text 2": "嗯。",
+    "4_Star_Text 3": "呼~"
   },
   "110202142": {
     "Sinner": "诺克斯",
@@ -3393,6 +3463,192 @@
     "File": "vo_jasmine_promotion_001",
     "Text": "真是一份贵重的心意呀……您说，茉莉该如何报答您呢？"
   },
+  "11020901": {
+    "Sinner": "西涅克斯",
+    "Title": "获得禁闭者",
+    "File": "vo_synex_cacha_001",
+    "Text": "嘶，枷锁绑得这么紧，是怕我又挣脱逃走吗？放心吧，你是我的新“主人”了——至少现在还是。"
+  },
+  "11020902": {
+    "Sinner": "西涅克斯",
+    "Title": "升至1阶",
+    "File": "vo_synex_promotion_001",
+    "Text": "我都这么努力了，不该多给我些奖励吗？"
+  },
+  "11020903": {
+    "Sinner": "西涅克斯",
+    "Title": "升至3阶",
+    "File": "vo_synex_promotion2_001",
+    "Text": "扯碎镣铐，在这具身躯彻底损毁前，来跟我大闹一场吧！"
+  },
+  "11020904": {
+    "Sinner": "西涅克斯",
+    "Title": "关卡开始",
+    "File": "vo_synex_battlebegin_001",
+    "Text": "我看见了，猎物在发抖呢~"
+  },
+  "11020905": {
+    "Sinner": "西涅克斯",
+    "Title": "战斗胜利",
+    "File": "vo_synex_battlewin_001",
+    "Text": "哎呀，游戏结束得太快，我还没玩尽兴呢。"
+  },
+  "11020906": {
+    "Sinner": "西涅克斯",
+    "Title": "战斗失败",
+    "File": "vo_synex_battlelose_001",
+    "Text": "真可惜，明明只差半步就能咬住他们的喉咙……"
+  },
+  "11020907": {
+    "Sinner": "西涅克斯",
+    "Title": "必杀技",
+    "File": "bt_synex_uniqueskill_001",
+    "Text": "哈哈，抓到你了！"
+  },
+  "11020908": {
+    "Sinner": "西涅克斯",
+    "Title": "战斗中死亡",
+    "File": "bt_synex_dead_001",
+    "Text": "我们都在……一步步走向毁灭……"
+  },
+  "11020909": {
+    "Sinner": "西涅克斯",
+    "Title": "问候",
+    "File": "vo_synex_greeting_001",
+    "Text": "要给我指派什么任务？混乱总是让人兴奋，今天我们要去搅哪滩混水？"
+  },
+  "11020910": {
+    "Sinner": "西涅克斯",
+    "Title": "交谈1",
+    "File": "vo_synex_talk1_001",
+    "Text": "坎贝尔暗卫的工作跟你那可爱小副官也没什么区别。端茶送水，处理杂物，偶尔来点娱乐，顺便也帮上面处理些小小的“麻烦”。"
+  },
+  "11020911": {
+    "Sinner": "西涅克斯",
+    "Title": "交谈2",
+    "File": "vo_synex_talk1_002",
+    "Text": "猎人与猎物只差一线之隔。你说，我们之间……到底谁才是被盯上的那一个呢？"
+  },
+  "11020912": {
+    "Sinner": "西涅克斯",
+    "Title": "交谈3",
+    "File": "vo_synex_talk1_003",
+    "Text": "我闻到了同类的味道，那种在黑暗中诞生的，非人非兽的怪物……嘿，看来你们狄斯的管理局也藏着不少东西呢。"
+  },
+  "11020913": {
+    "Sinner": "西涅克斯",
+    "Title": "特殊交谈1",
+    "File": "vo_synex_talk2_001",
+    "Text": "狩猎的秘诀是不要心急，屏住呼吸慢慢靠近，然后——咔嚓！别怕，我还没试过真咬人脖子呢。你要来当第一个吗？"
+  },
+  "11020914": {
+    "Sinner": "西涅克斯",
+    "Title": "特殊交谈2",
+    "File": "vo_synex_talk2_002",
+    "Text": "秘金的锁链收紧，在皮肤上烙下痕迹……没错，只要这颗心脏仍在跳动、血液仍在沸腾，疼痛就永远不会结束……"
+  },
+  "11020915": {
+    "Sinner": "西涅克斯",
+    "Title": "特殊交谈3",
+    "File": "vo_synex_talk2_003",
+    "Text": "再正直不屈的家伙，被逼到不得不扔下所有原则道义、彻底变为野兽时，你就会发现……其实，每个人……都是怪物！哈哈哈哈！"
+  },
+  "11020916": {
+    "Sinner": "西涅克斯",
+    "Title": "服从度升满",
+    "File": "vo_synex_obeyfull_001",
+    "Text": "我愿意为你献上忠诚，成为你游走在阴影中的利爪，为你撕裂一切。但如果哪天，你也变得像那些贵族老爷一样无趣……那被套上锁链的恶犬，或许也会将獠牙噬向主人。来吧，扯紧你手上的枷锁，尽情使用我吧。"
+  },
+  "11020917": {
+    "Sinner": "西涅克斯",
+    "Title": "闲置",
+    "File": "vo_synex_idle_001",
+    "Text": "咔哒、咔哒，这么多脚步声走来走去，却没听到最期待的那个。亲爱的局长，你什么时候才能走向我呢？"
+  },
+  "11020918": {
+    "Sinner": "西涅克斯",
+    "Title": "烦躁",
+    "File": "vo_synex_clicking_001",
+    "Text": "别相信野兽示弱的样子，说不定他们下一秒，就会扑上来咬断猎物的脖子。"
+  },
+  "11020919": {
+    "Sinner": "西涅克斯",
+    "Title": "特别关注",
+    "File": "vo_synex_specialattention_001",
+    "Text": "哎呀，终于发现我了？我明明在这里看你看了那么久……当然，如果你想，我可以再走近一点，继续看着你。"
+  },
+  "11020920": {
+    "Sinner": "西涅克斯",
+    "Title": "派遣",
+    "File": "vo_synex_dispatch_001",
+    "Text": "为你效劳，我的荣幸。"
+  },
+  "11020921": {
+    "Sinner": "西涅克斯",
+    "Title": "派遣完成",
+    "File": "vo_synex_dispatch2_001",
+    "Text": "锵锵~喜欢我给你带回来的礼物吗？"
+  },
+  "11020922": {
+    "Sinner": "西涅克斯",
+    "Title": "升级",
+    "File": "vo_synex_levelup_002",
+    "Text": "嗯？对我这么好呀？"
+  },
+  "11020923": {
+    "Sinner": "西涅克斯",
+    "Title": "摸头",
+    "File": "vo_synex_head_001",
+    "Text": "新项圈？那可要好好给我带上，别碰到什么不该碰的地方……"
+  },
+  "11020924": {
+    "Sinner": "西涅克斯",
+    "Title": "加入队伍",
+    "File": "bt_synex_jointeam_001",
+    "Text": "藏好点小老鼠们，可别被我抓住了哦？"
+  },
+  "11020925": {
+    "Sinner": "西涅克斯",
+    "Title": "危险",
+    "File": "bt_synex_danger_001",
+    "Text": "N/A"
+  },
+  "11020926": {
+    "Sinner": "西涅克斯",
+    "Title": "收到指令",
+    "File": "bt_synex_getorder_001",
+    "Text": "N/A"
+  },
+  "11020927": {
+    "Sinner": "西涅克斯",
+    "Title": "受击",
+    "File": "bt_synex_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11020928": {
+    "Sinner": "西涅克斯",
+    "Title": "小技能",
+    "File": "bt_synex_skill_001_1",
+    "Text": "N/A"
+  },
+  "11020929": {
+    "Sinner": "西涅克斯",
+    "Title": "疑惑",
+    "File": "vo_synex_doubt_001",
+    "Text": "N/A"
+  },
+  "11020930": {
+    "Sinner": "西涅克斯",
+    "Title": "震惊",
+    "File": "vo_synex_shock_001",
+    "Text": "N/A"
+  },
+  "11020931": {
+    "Sinner": "西涅克斯",
+    "Title": "升技",
+    "File": "vo_synex_promotion_001",
+    "Text": "N/A"
+  },
   "11030101": {
     "Sinner": "白逸",
     "Title": "获得禁闭者",
@@ -4040,6 +4296,54 @@
     "Title": "特别关注",
     "File": "vo_crache_fanxinghuanshi_specialattention_001",
     "Text": "星星已经给你了，还看着我做什么？不如好好想想，你拥有的那些“宝贝”还够你交换几次……想清楚了，以后出来玩就别到处乱跑了。"
+  },
+  "110302120": {
+    "Sinner": "科希",
+    "Title": "获得装束",
+    "File": "vo_crache_anlv_cacha_001",
+    "Text": "明明警告过那帮小鬼别跟来，怎么还是溜到台下了......是你又心软了吧？算了，别给我在下面尖叫喊我的名字就行。"
+  },
+  "110302121": {
+    "Sinner": "科希",
+    "Title": "升级",
+    "File": "vo_crache_anlv_levelup_001",
+    "Text": "贝斯的低音够扎实，才能撑起整首曲子。"
+  },
+  "110302122": {
+    "Sinner": "科希",
+    "Title": "问候",
+    "File": "vo_crache_anlv_greeting_001",
+    "Text": "一会儿我们会有演出，你……也要过来看看吗？"
+  },
+  "110302123": {
+    "Sinner": "科希",
+    "Title": "普通触摸1",
+    "File": "vo_crache_anlv_talk1_001",
+    "Text": "从台上看下去，那片荧光一浪接一浪地晃动着，就像潮水一样……有点壮观，也有点不真实。没想到有一天，我会站在这样的地方。"
+  },
+  "110302124": {
+    "Sinner": "科希",
+    "Title": "普通触摸2",
+    "File": "vo_crache_anlv_talk1_002",
+    "Text": "贝斯的声音……低沉、稳重，就像心跳一样。明明是头一次接触，却意外地……挺合我胃口。"
+  },
+  "110302125": {
+    "Sinner": "科希",
+    "Title": "闲置",
+    "File": "vo_crache_anlv_idle_001",
+    "Text": "聊天互动这种环节交给那几个喜欢说话的人就好，让我一个人在这里安静一会儿吧。"
+  },
+  "110302126": {
+    "Sinner": "科希",
+    "Title": "烦躁",
+    "File": "vo_crache_anlv_clicking_001",
+    "Text": "啧，不要乱动我的琴，刚刚调准的弦，你们这些大人就是喜欢搞破坏。"
+  },
+  "110302127": {
+    "Sinner": "科希",
+    "Title": "特别关注",
+    "File": "vo_crache_anlv_specialattention_001",
+    "Text": "贝斯手的存在不张扬，他们就像影子一样藏在旋律的缝隙里，大多数人都不会去注意……但你看到了我。嗯，你的目光和鼓励，我都收到了。"
   },
   "11030301": {
     "Sinner": "娜恰",
@@ -5121,6 +5425,54 @@
     "File": "vo_angel_gujianjinghe_specialattention_001",
     "Text": "我们这一行，脸不能轻易被人记住，上一个这么盯着我看的人的下场……你不会想知道的。你会把认得我的事烂进肚子里，对吗？毕竟我很喜欢你的院子，希望下次来的时候，还能再见到你。"
   },
+  "110306110": {
+    "Sinner": "安吉尔",
+    "Title": "获得装束",
+    "File": "vo_angel_chenxiang_cacha_001",
+    "Text": "节目单里有一首我很喜欢的歌，所以我答应她们加入进来。和带着耳机听相比，自己演奏，会有很不一样的感觉。"
+  },
+  "110306111": {
+    "Sinner": "安吉尔",
+    "Title": "升级",
+    "File": "vo_angel_chenxiang_levelup_001",
+    "Text": "找到手感了。"
+  },
+  "110306112": {
+    "Sinner": "安吉尔",
+    "Title": "问候",
+    "File": "vo_angel_chenxiang_greeting_001",
+    "Text": "各种各样的委托我接过不少，但像这样和人并肩合作……好像还是头一回。嗯，有队友在身边的感觉，其实还不赖。"
+  },
+  "110306113": {
+    "Sinner": "安吉尔",
+    "Title": "普通触摸1",
+    "File": "vo_angel_chenxiang_talk1_001",
+    "Text": "打鼓和用刀倒是也有共通之处，两者都讲究极致的精确性——需要找准时机，正中要害。"
+  },
+  "110306114": {
+    "Sinner": "安吉尔",
+    "Title": "普通触摸2",
+    "File": "vo_angel_chenxiang_talk1_002",
+    "Text": "以前的生活里没有“节奏”，执行任务时最好也别发出声音。而这次却要把声音清晰地传递出去，挺新鲜的。"
+  },
+  "110306115": {
+    "Sinner": "安吉尔",
+    "Title": "闲置",
+    "File": "vo_angel_chenxiang_idle_001",
+    "Text": "……不用管我，随便敲敲打打而已。比起处理委托目标的时候，现在这种敲法温和多了。"
+  },
+  "110306116": {
+    "Sinner": "安吉尔",
+    "Title": "烦躁",
+    "File": "vo_angel_chenxiang_clicking_001",
+    "Text": "你也想来试试么？但要控制好力道，这些鼓不太结实，之前排练的时候已经被我不小心弄坏好几套了。"
+  },
+  "110306117": {
+    "Sinner": "安吉尔",
+    "Title": "特别关注",
+    "File": "vo_angel_chenxiang_specialattention_001",
+    "Text": "我很少这么直接暴露在灯光之下——但我知道，你就在观众席上看着我，所以我能冷静下来，完成演出，以回应你的期待。"
+  },
   "11030801": {
     "Sinner": "000",
     "Title": "获得禁闭者",
@@ -5369,6 +5721,54 @@
     "File": "vo_zero_yidumonv_specialattention_001",
     "Text": "既然来到魔女的维度，一定做好永远留下的觉悟了吧？那就一直陪着我吧，不说话的话就当你是答应咯。"
   },
+  "110308110": {
+    "Sinner": "000",
+    "Title": "获得装束",
+    "File": "vo_zero_chaopinkuangchao_cacha_001",
+    "Text": "000号“吉他英雄”模块，启动完毕！今天向你传输的不只是数据，还是能让你心跳超频的超级偶像哦~来，第一首歌就献给你啦！"
+  },
+  "110308111": {
+    "Sinner": "000",
+    "Title": "升级",
+    "File": "vo_zero_chaopinkuangchao_levelup_001",
+    "Text": "升级完毕！现在连休止符都挡不住我的攻势咯。"
+  },
+  "110308112": {
+    "Sinner": "000",
+    "Title": "问候",
+    "File": "vo_zero_chaopinkuangchao_greeting_001",
+    "Text": "噔噔——欢迎来到管理局Livehouse！你的设备、网络、耳朵都准备好了吗？这次的LIVE，可是特地为你加载的专属演出呢！"
+  },
+  "110308113": {
+    "Sinner": "000",
+    "Title": "普通触摸1",
+    "File": "vo_zero_chaopinkuangchao_talk1_001",
+    "Text": "说说嘛，你喜欢什么风格的音乐？无论多冷门、多难弹，我都能演奏！今天我是有求必应的天才吉他手~嘿嘿，其实是读取了乐谱数据啦~"
+  },
+  "110308114": {
+    "Sinner": "000",
+    "Title": "普通触摸2",
+    "File": "vo_zero_chaopinkuangchao_talk1_002",
+    "Text": "——接住我的拨片了吗？特意瞄准你的方向扔的哦！我看别的摇滚明星演出时都是这么干的……你要像对待定情信物一样把它收好才行。"
+  },
+  "110308115": {
+    "Sinner": "000",
+    "Title": "闲置",
+    "File": "vo_zero_chaopinkuangchao_idle_001",
+    "Text": "哈罗哈罗，怎么没声啦？是掉线了还是你的输入设备坏了？我还在等你喊“安可”让我返场呢，别让我一个人对着后台界面发呆嘛~"
+  },
+  "110308116": {
+    "Sinner": "000",
+    "Title": "烦躁",
+    "File": "vo_zero_chaopinkuangchao_clicking_001",
+    "Text": "哎呀~这么热烈的应援我都要害羞啦……作为回礼，我也送你一个【000的终极心动观众】称号怎么样？要好好珍惜这个专属于你的隐藏款称号哦。"
+  },
+  "110308117": {
+    "Sinner": "000",
+    "Title": "特别关注",
+    "File": "vo_zero_chaopinkuangchao_specialattention_001",
+    "Text": "叮——！检测到幸运观众一名！没错没错，就是你啦！别害羞呀，快到舞台上和我站在一起吧！聚光灯都为你准备好咯！"
+  },
   "11030901": {
     "Sinner": "格芮芙",
     "Title": "获得禁闭者",
@@ -5554,6 +5954,438 @@
     "Title": "升技",
     "File": "vo_graves_promotion_001",
     "Text": "我会好好珍藏来自于你的祝福，为了我们的永恒。"
+  },
+  "110309100": {
+    "Sinner": "格芮芙",
+    "Title": "获得装束",
+    "File": "vo_graves_youtingmeiying_cacha_001",
+    "Text": "仙女曾告诉我，好好睡吧，不用害怕，因为有一天会有一位勇士跋山涉水，披荆斩棘来唤醒我。早安，我的勇者。"
+  },
+  "110309101": {
+    "Sinner": "格芮芙",
+    "Title": "升级",
+    "File": "vo_graves_youtingmeiying_levelup_001",
+    "Text": "谢谢你的祝福~这下我可不怕纺锤啦！"
+  },
+  "110309102": {
+    "Sinner": "格芮芙",
+    "Title": "问候",
+    "File": "vo_graves_youtingmeiying_greeting_001",
+    "Text": "一醒来就能看见你，我的勇者，世上没有比这更幸福的事情了。"
+  },
+  "110309103": {
+    "Sinner": "格芮芙",
+    "Title": "摸头",
+    "File": "vo_graves_youtingmeiying_head_001",
+    "Text": "故事书里说，大人们都是这样哄孩子睡觉的，原来就是这样的感觉，唔……请不要停下来，我很喜欢……"
+  },
+  "110309104": {
+    "Sinner": "格芮芙",
+    "Title": "普通触摸1",
+    "File": "vo_graves_youtingmeiying_body_001",
+    "Text": "是什么样的世界，才能创造出像你这样善良勇敢的人呢？可以的话……我也想去看看~"
+  },
+  "110309105": {
+    "Sinner": "格芮芙",
+    "Title": "普通触摸2",
+    "File": "vo_graves_youtingmeiying_body_002",
+    "Text": "我做过无数次一样的梦：我和我的勇者靠在一起，听风把花瓣吹落的声音。呀，现在的我们和梦里一模一样！该不会……我还在梦里吧？"
+  },
+  "110309106": {
+    "Sinner": "格芮芙",
+    "Title": "普通触摸3",
+    "File": "vo_graves_youtingmeiying_leg_001",
+    "Text": "我平时睡觉很安分的，只是今天在梦里，我看到了你正往这里走，想要跑过来迎接你……"
+  },
+  "110309107": {
+    "Sinner": "格芮芙",
+    "Title": "普通触摸4",
+    "File": "vo_graves_youtingmeiying_background_001",
+    "Text": "我很喜欢这张床！温暖，柔软，能让我睡很久很久……但现在，我更想睡在你的怀里……"
+  },
+  "110309108": {
+    "Sinner": "格芮芙",
+    "Title": "闲置",
+    "File": "vo_graves_youtingmeiying_idle_001",
+    "Text": "哈……微风轻轻，阳光正好，我好像又有点困了……不过，你就在我的身边陪着我，我可舍不得闭上眼睛……"
+  },
+  "110309109": {
+    "Sinner": "格芮芙",
+    "Title": "特别关注",
+    "File": "vo_graves_youtingmeiying_specialattention_001",
+    "Text": "我相信，你的目光会保护我，让我免受诅咒的侵扰……一直看着我吧，勇者。"
+  },
+  "11031001": {
+    "Sinner": "幽冕·海拉",
+    "Title": "获得禁闭者",
+    "File": "vo_hellasp_cacha_001",
+    "Text": "哼哼，这么久不见，想我了吗？有没有偷偷哭鼻子呀？好啦，我回来了。"
+  },
+  "11031002": {
+    "Sinner": "幽冕·海拉",
+    "Title": "升至1阶",
+    "File": "vo_hellasp_promotion_001",
+    "Text": "躁动的灵魂……他们好像安静下来了。"
+  },
+  "11031003": {
+    "Sinner": "幽冕·海拉",
+    "Title": "升至3阶",
+    "File": "vo_hellasp_promotion2_001",
+    "Text": "我不会辜负那些帮我离开深渊的人们。我要带着他们的意志一起，坚定地走下去！"
+  },
+  "11031004": {
+    "Sinner": "幽冕·海拉",
+    "Title": "关卡开始",
+    "File": "vo_hellasp_battlebegin_001",
+    "Text": "待在我身后，这次换我来保护你们。"
+  },
+  "11031005": {
+    "Sinner": "幽冕·海拉",
+    "Title": "战斗胜利",
+    "File": "vo_hellasp_battlewin_001",
+    "Text": "这些对我来说已经是小意思啦，轻轻松松！"
+  },
+  "11031006": {
+    "Sinner": "幽冕·海拉",
+    "Title": "战斗失败",
+    "File": "vo_hellasp_battlelose_001",
+    "Text": "再来一次，肯定能把他们揍得渣都不剩！"
+  },
+  "11031007": {
+    "Sinner": "幽冕·海拉",
+    "Title": "必杀技",
+    "File": "bt_hellasp_uniqueskill_001",
+    "Text": "去击垮他们！"
+  },
+  "11031008": {
+    "Sinner": "幽冕·海拉",
+    "Title": "战斗中死亡",
+    "File": "bt_hellasp_dead_001",
+    "Text": "我要……保护大家……"
+  },
+  "11031009": {
+    "Sinner": "幽冕·海拉",
+    "Title": "问候",
+    "File": "vo_hellasp_greeting_001",
+    "Text": "我在黑暗中听见他们徘徊在我身边低语，说……亲爱的局长大人，什么时候才能给海拉新的零花钱呀？"
+  },
+  "11031010": {
+    "Sinner": "幽冕·海拉",
+    "Title": "交谈1",
+    "File": "vo_hellasp_talk1_001",
+    "Text": "本来这趟出去给你们写了很多信，带了很多礼物的，可惜后来都没了……呃，欠条？这啥啊我不知道啊哈哈哈哈……"
+  },
+  "11031011": {
+    "Sinner": "幽冕·海拉",
+    "Title": "交谈2",
+    "File": "vo_hellasp_talk1_002",
+    "Text": "虽然水管弄丢了，但我现在有了新装备新家伙。打得够快、揍得够远，就是有点难控制——这下你们可不能再说我手短了！"
+  },
+  "11031012": {
+    "Sinner": "幽冕·海拉",
+    "Title": "交谈3",
+    "File": "vo_hellasp_talk1_003",
+    "Text": "身上的伤？哎呀不疼，我早习惯了。而且大家不是老说，“疤痕是勇敢的徽章”什么的吗？我也有自己的徽章啦。"
+  },
+  "11031013": {
+    "Sinner": "幽冕·海拉",
+    "Title": "特殊交谈1",
+    "File": "vo_hellasp_talk2_001",
+    "Text": "在跟那个破黑环打架的时候，我做了好多梦，里面有你，有赫卡蒂、九十九，还有很多很多人。你们说不要害怕，不要放弃……你们会一直等我回来……"
+  },
+  "11031014": {
+    "Sinner": "幽冕·海拉",
+    "Title": "特殊交谈2",
+    "File": "vo_hellasp_talk2_002",
+    "Text": "我在外面见到了很多厉害的家伙。他们很强，即使面对无法解决的困境也绝不退缩，即使痛苦难过也会擦干眼泪，去直面难题！这才是真正的强大……我也得继续磨练才行。"
+  },
+  "11031015": {
+    "Sinner": "幽冕·海拉",
+    "Title": "特殊交谈3",
+    "File": "vo_hellasp_talk2_003",
+    "Text": "其实，我还是不太喜欢战斗，不喜欢打架也不喜欢痛，但我更不想只能眼睁睁看着你们受伤。我已经有了足够的力量，这次，该换我站在你们前面了！"
+  },
+  "11031016": {
+    "Sinner": "幽冕·海拉",
+    "Title": "服从度升满",
+    "File": "vo_hellasp_obeyfull_001",
+    "Text": "有钱有朋友，我最初的愿望好像都已经实现了。但我还有点贪心，想要冒险，想要认识更多朋友，想变得更强更厉害，以后罩着你们所有人！当然，要实现这些肯定会很难，但我不怕，因为……你们肯定会一直在我身边~"
+  },
+  "11031017": {
+    "Sinner": "幽冕·海拉",
+    "Title": "闲置",
+    "File": "vo_hellasp_idle_001",
+    "Text": "果然一回来就容易犯困……不行，快把大家都叫过来，还没跟你们说我的传奇冒险呢！"
+  },
+  "11031018": {
+    "Sinner": "幽冕·海拉",
+    "Title": "烦躁",
+    "File": "vo_hellasp_clicking_001",
+    "Text": "不是，都这么久了，你这臭毛病怎么还是改不掉？"
+  },
+  "11031019": {
+    "Sinner": "幽冕·海拉",
+    "Title": "特别关注",
+    "File": "vo_hellasp_specialattention_001",
+    "Text": "好啦，知道你肯定特别想我。喏，这回不要钱，让你好好看个够。"
+  },
+  "11031020": {
+    "Sinner": "幽冕·海拉",
+    "Title": "派遣",
+    "File": "vo_hellasp_dispatch_001",
+    "Text": "快快快，让我给你们秀一把新技术！"
+  },
+  "11031021": {
+    "Sinner": "幽冕·海拉",
+    "Title": "派遣完成",
+    "File": "vo_hellasp_dispatch2_001",
+    "Text": "完美结束！怎么样，是不是做得比原来好多了？"
+  },
+  "11031022": {
+    "Sinner": "幽冕·海拉",
+    "Title": "升级",
+    "File": "vo_hellasp_levelup_002",
+    "Text": "对我这么好呀？"
+  },
+  "11031023": {
+    "Sinner": "幽冕·海拉",
+    "Title": "摸头",
+    "File": "vo_hellasp_head_001",
+    "Text": "研究院的家伙说这是什么污染结晶，去不掉，但好在摸起来没什么感觉——嘶，有点扎手。"
+  },
+  "11031024": {
+    "Sinner": "幽冕·海拉",
+    "Title": "加入队伍",
+    "File": "bt_hellasp_jointeam_001",
+    "Text": "走，跟我去揍趴他们。"
+  },
+  "11031025": {
+    "Sinner": "幽冕·海拉",
+    "Title": "危险",
+    "File": "bt_hellasp_danger_001",
+    "Text": "看着点。"
+  },
+  "11031026": {
+    "Sinner": "幽冕·海拉",
+    "Title": "收到指令",
+    "File": "bt_hellasp_getorder_001",
+    "Text": "知道啦"
+  },
+  "11031027": {
+    "Sinner": "幽冕·海拉",
+    "Title": "受击",
+    "File": "bt_hellasp_gethit_001_1",
+    "Text": "【闷哼】"
+  },
+  "11031028": {
+    "Sinner": "幽冕·海拉",
+    "Title": "小技能",
+    "File": "bt_hellasp_skill_001_1",
+    "Text": "【低声呐喊】"
+  },
+  "11031029": {
+    "Sinner": "幽冕·海拉",
+    "Title": "疑惑",
+    "File": "vo_hellasp_doubt_001",
+    "Text": "诶？"
+  },
+  "11031030": {
+    "Sinner": "幽冕·海拉",
+    "Title": "震惊",
+    "File": "vo_hellasp_shock_001",
+    "Text": "我ci——"
+  },
+  "11031031": {
+    "Sinner": "幽冕·海拉",
+    "Title": "升技",
+    "File": "vo_hellasp_promotion_001",
+    "Text": "躁动的灵魂……他们好像安静下来了。"
+  },
+  "11031101": {
+    "Sinner": "赛托",
+    "Title": "获得禁闭者",
+    "File": "vo_ceto_cacha_001",
+    "Text": "真新鲜，你把我从风暴中拖出来，就是为了扔进下一个战场？哼……好啊，那我也顺便看看你这位新长官，有没有活到最后的本事。"
+  },
+  "11031102": {
+    "Sinner": "赛托",
+    "Title": "升至1阶",
+    "File": "vo_ceto_promotion_001",
+    "Text": "只有命够硬，心够狠，才能从黑潮里活下来。"
+  },
+  "11031103": {
+    "Sinner": "赛托",
+    "Title": "升至3阶",
+    "File": "vo_ceto_promotion2_001",
+    "Text": "我是最后的守塔人，我所站的地方，即是灯塔最后一道防线。"
+  },
+  "11031104": {
+    "Sinner": "赛托",
+    "Title": "关卡开始",
+    "File": "vo_ceto_battlebegin_001",
+    "Text": "做好心理准备，风暴后的海是最脏的。"
+  },
+  "11031105": {
+    "Sinner": "赛托",
+    "Title": "战斗胜利",
+    "File": "vo_ceto_battlewin_001",
+    "Text": "啧，这点货色也配让我动刀？"
+  },
+  "11031106": {
+    "Sinner": "赛托",
+    "Title": "战斗失败",
+    "File": "vo_ceto_battlelose_001",
+    "Text": "算那些畜生走运。"
+  },
+  "11031107": {
+    "Sinner": "赛托",
+    "Title": "必杀技",
+    "File": "bt_ceto_uniqueskill_001",
+    "Text": "风暴已至！"
+  },
+  "11031108": {
+    "Sinner": "赛托",
+    "Title": "战斗中死亡",
+    "File": "bt_ceto_dead_001",
+    "Text": "退潮了……终于，能归队了……"
+  },
+  "11031109": {
+    "Sinner": "赛托",
+    "Title": "问候",
+    "File": "vo_ceto_greeting_001",
+    "Text": "听脚步声就知道是你。这地方连海鸟都不敢落脚，只有不怕死的疯子会靠近……你算一个。"
+  },
+  "11031110": {
+    "Sinner": "赛托",
+    "Title": "交谈1",
+    "File": "vo_ceto_talk1_001",
+    "Text": "在黑潮里生活可比这儿简单得多，不排班，不轮岗，天亮休息，天黑赌命。「一天」和「一年」对守塔人来说没有差别。"
+  },
+  "11031111": {
+    "Sinner": "赛托",
+    "Title": "交谈2",
+    "File": "vo_ceto_talk1_002",
+    "Text": "磁带和海景不是消耗品，我可以分你一点，不用谢我，我很大方。"
+  },
+  "11031112": {
+    "Sinner": "赛托",
+    "Title": "交谈3",
+    "File": "vo_ceto_talk1_003",
+    "Text": "海浪听久了会有节奏，像呼吸，也像倒计时……等浪的节奏乱了，怪物就要上岸了。"
+  },
+  "11031113": {
+    "Sinner": "赛托",
+    "Title": "特殊交谈1",
+    "File": "vo_ceto_talk2_001",
+    "Text": "生、死、冷、热，对我来说不过都是些参数和风险等级，你总想在这堆无聊的军务里塞点“人情味”，打乱我的生活……啧，算了，反正你已经打乱了。"
+  },
+  "11031114": {
+    "Sinner": "赛托",
+    "Title": "特殊交谈2",
+    "File": "vo_ceto_talk2_002",
+    "Text": "岛上风浪最大的时候，怪物会从西边崖口顺水冲上来。我守着崖口，一脚下去踩到的不是烂泥就是骨头。到后来我都分不清脚下的是敌是友，是昨天的我，还是明天的我。"
+  },
+  "11031115": {
+    "Sinner": "赛托",
+    "Title": "特殊交谈3",
+    "File": "vo_ceto_talk2_003",
+    "Text": "我以为自己是最熟悉灯塔的人，你不过是个迷路误闯进来的累赘……但现在想想，或许你比我更清楚什么才是真正的灯塔。你找到信标了，我却还在路上。"
+  },
+  "11031116": {
+    "Sinner": "赛托",
+    "Title": "服从度升满",
+    "File": "vo_ceto_obeyfull_001",
+    "Text": "战友的铭牌我一直随身带着，就好像我还在守塔人的队伍中。至于我自己的铭牌……我会放在07号灯塔的塔顶。如果我不在了，你来取走它吧。不是留念，是交接。"
+  },
+  "11031117": {
+    "Sinner": "赛托",
+    "Title": "闲置",
+    "File": "vo_ceto_idle_001",
+    "Text": "安静地自娱自乐是孤岛生存第一课，恭喜你，总算学会了。"
+  },
+  "11031118": {
+    "Sinner": "赛托",
+    "Title": "烦躁",
+    "File": "vo_ceto_clicking_001",
+    "Text": "觉得冷就自己找个炉子，还没到需要抱团取暖的时候。"
+  },
+  "11031119": {
+    "Sinner": "赛托",
+    "Title": "特别关注",
+    "File": "vo_ceto_specialattention_001",
+    "Text": "想陪我？可以，但别站那儿发呆。海风不养闲人。"
+  },
+  "11031120": {
+    "Sinner": "赛托",
+    "Title": "派遣",
+    "File": "vo_ceto_dispatch_001",
+    "Text": "啰嗦。我知道要带什么，饿不死你的。"
+  },
+  "11031121": {
+    "Sinner": "赛托",
+    "Title": "派遣完成",
+    "File": "vo_ceto_dispatch2_001",
+    "Text": "补给到了，够撑一阵。"
+  },
+  "11031122": {
+    "Sinner": "赛托",
+    "Title": "升级",
+    "File": "vo_ceto_levelup_002",
+    "Text": "刀习惯了沾血，我也是。"
+  },
+  "11031123": {
+    "Sinner": "赛托",
+    "Title": "摸头",
+    "File": "vo_ceto_head_001",
+    "Text": "手不想要了就直说。"
+  },
+  "11031124": {
+    "Sinner": "赛托",
+    "Title": "加入队伍",
+    "File": "bt_ceto_jointeam_001",
+    "Text": "速战速决，灯塔离不了人。"
+  },
+  "11031125": {
+    "Sinner": "赛托",
+    "Title": "危险",
+    "File": "bt_ceto_danger_001",
+    "Text": "N/A"
+  },
+  "11031126": {
+    "Sinner": "赛托",
+    "Title": "收到指令",
+    "File": "bt_ceto_getorder_001",
+    "Text": "N/A"
+  },
+  "11031127": {
+    "Sinner": "赛托",
+    "Title": "受击",
+    "File": "bt_ceto_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11031128": {
+    "Sinner": "赛托",
+    "Title": "小技能",
+    "File": "bt_ceto_skill_001_1",
+    "Text": "N/A"
+  },
+  "11031129": {
+    "Sinner": "赛托",
+    "Title": "疑惑",
+    "File": "vo_ceto_doubt_001",
+    "Text": "N/A"
+  },
+  "11031130": {
+    "Sinner": "赛托",
+    "Title": "震惊",
+    "File": "vo_ceto_shock_001",
+    "Text": "N/A"
+  },
+  "11031131": {
+    "Sinner": "赛托",
+    "Title": "升技",
+    "File": "vo_ceto_promotion_001",
+    "Text": "只有命够硬，心够狠，才能从黑潮里活下来。"
   },
   "11040101": {
     "Sinner": "夏音",
@@ -7555,6 +8387,54 @@
     "File": "vo_bianca_pingguoxiaojiedetoutiao_specialattention_001",
     "Text": "哇，是镜头欸！来，全都看向我，就让全狄斯最伟大的新闻记者毕安卡，为大家带来今日晚宴的头版头条！"
   },
+  "110407110": {
+    "Sinner": "毕安卡",
+    "Title": "获得装束",
+    "File": "vo_bianca_tantiaotuokata_cacha_001",
+    "Text": "让我瞧瞧……哇！人山人海，观众席都快挤爆啦！哼哼，大记者毕安卡不仅要在台上用键盘炸翻全场，还得亲自记录这场音乐盛宴，绝对的独家报道！"
+  },
+  "110407111": {
+    "Sinner": "毕安卡",
+    "Title": "升级",
+    "File": "vo_bianca_tantiaotuokata_levelup_001",
+    "Text": "新城最耀眼的跨界音乐人闪亮登场！"
+  },
+  "110407112": {
+    "Sinner": "毕安卡",
+    "Title": "问候",
+    "File": "vo_bianca_tantiaotuokata_greeting_001",
+    "Text": "嗨呀，你来得正好！我刚编了一首新曲子——《苹果小姐正义之心俱乐部》，快来一起听一下！"
+  },
+  "110407113": {
+    "Sinner": "毕安卡",
+    "Title": "普通触摸1",
+    "File": "vo_bianca_tantiaotuokata_talk1_001",
+    "Text": "伟大的记者呢，就是要前线敢闯，舞台敢上，镜头扛得稳，键盘弹得响~"
+  },
+  "110407114": {
+    "Sinner": "毕安卡",
+    "Title": "普通触摸2",
+    "File": "vo_bianca_tantiaotuokata_talk1_002",
+    "Text": "这气氛，这尖叫，这灯光！太燃啦！我的血液里现在全是音乐的电流！演出后的庆功宴一定要开最大瓶的！不喝个痛快都对不起这沸腾的夜晚！"
+  },
+  "110407115": {
+    "Sinner": "毕安卡",
+    "Title": "闲置",
+    "File": "vo_bianca_tantiaotuokata_idle_001",
+    "Text": "……这一段副歌配什么和弦会比较合适呢？"
+  },
+  "110407116": {
+    "Sinner": "毕安卡",
+    "Title": "烦躁",
+    "File": "vo_bianca_tantiaotuokata_clicking_001",
+    "Text": "这位观众！请不要再干扰乐手演出了，要是弹错solo可就大事不妙啦！"
+  },
+  "110407117": {
+    "Sinner": "毕安卡",
+    "Title": "特别关注",
+    "File": "vo_bianca_tantiaotuokata_specialattention_001",
+    "Text": "嘿嘿，厉害吧？惊喜吧？是不是对我刮目相看啦？不过先别急着震惊，一会儿有的是让你瞠目结舌的时刻！我和“闪电小白琴”可还没拿出真正的绝活呢——准备好大开眼界吧！"
+  },
   "11040801": {
     "Sinner": "柯琳",
     "Title": "获得禁闭者",
@@ -7975,6 +8855,192 @@
     "File": "vo_hypatia_promotion_001",
     "Text": "不被限制的力量，只会带来毁灭。"
   },
+  "11041001": {
+    "Sinner": "奥古斯特",
+    "Title": "获得禁闭者",
+    "File": "vo_augustus_cacha_001",
+    "Text": "你可真难抓，我的人忙活了几个月都没能把你绑回去，所以我只能自己来了。局长，你是跟我走呢，还是请我留下，在你家里扎个营？"
+  },
+  "11041002": {
+    "Sinner": "奥古斯特",
+    "Title": "升至1阶",
+    "File": "vo_augustus_promotion_001",
+    "Text": "我发现在追求力量这件事上，你比我狂热多了。真不错。"
+  },
+  "11041003": {
+    "Sinner": "奥古斯特",
+    "Title": "升至3阶",
+    "File": "vo_augustus_promotion2_001",
+    "Text": "这把剑曾把人推上顶峰，也把他们砍下王座。即使如此，你也愿意把后背交给它么？"
+  },
+  "11041004": {
+    "Sinner": "奥古斯特",
+    "Title": "关卡开始",
+    "File": "vo_augustus_battlebegin_001",
+    "Text": "精英小队，秘密行动，这就是管理局的风格对吗？"
+  },
+  "11041005": {
+    "Sinner": "奥古斯特",
+    "Title": "战斗胜利",
+    "File": "vo_augustus_battlewin_001",
+    "Text": "赢一场就这么高兴啊？真可爱。走吧，以后你还会赢一千场一万场，早点习惯。"
+  },
+  "11041006": {
+    "Sinner": "奥古斯特",
+    "Title": "战斗失败",
+    "File": "vo_augustus_battlelose_001",
+    "Text": "战术性撤退，别急，这场仗还没完，胜利女神只是迟到一会儿，但总会来到你身边。"
+  },
+  "11041007": {
+    "Sinner": "奥古斯特",
+    "Title": "必杀技",
+    "File": "bt_augustus_uniqueskill_001",
+    "Text": "荡平他们！"
+  },
+  "11041008": {
+    "Sinner": "奥古斯特",
+    "Title": "战斗中死亡",
+    "File": "bt_augustus_dead_001",
+    "Text": "死得其所……"
+  },
+  "11041009": {
+    "Sinner": "奥古斯特",
+    "Title": "问候",
+    "File": "vo_augustus_greeting_001",
+    "Text": "能在这儿见到局长，看来又是和平的一天，无聊的一天……想出去走走吗？宴会或是战场，我都能找点刺激。"
+  },
+  "11041010": {
+    "Sinner": "奥古斯特",
+    "Title": "交谈1",
+    "File": "vo_augustus_talk1_001",
+    "Text": "现在还有人提起“狄斯军队”吗？不是FAC那群废物，是敢对人举枪、杀穿无数战场的真正的士兵。呵，究竟是忘记了，还是不敢提起呢……见我回来，他们该不会害怕了吧。"
+  },
+  "11041011": {
+    "Sinner": "奥古斯特",
+    "Title": "交谈2",
+    "File": "vo_augustus_talk1_002",
+    "Text": "以前，城邦部队里也不全是战争狂人狄斯信徒，还有很多“精明人”。那么庞大的军费，随便腾挪一下都够养好几个家族。对，我们安多哈尔家也在其中，看得出来吗？我也来自腐朽豪门。"
+  },
+  "11041012": {
+    "Sinner": "奥古斯特",
+    "Title": "交谈3",
+    "File": "vo_augustus_talk1_003",
+    "Text": "听说战争结束后，最勇猛的士兵如果没迎接光荣的牺牲，就会变成活着的亡灵。他们被和平放逐，受困于杀戮的战场，变成兵器……我所驾驭的，正是这样一群最强刀刃。"
+  },
+  "11041013": {
+    "Sinner": "奥古斯特",
+    "Title": "特殊交谈1",
+    "File": "vo_augustus_talk2_001",
+    "Text": "入夜前有一幅名画，描绘某将军骑马翻山的景象，威风极了。可惜我四处征战也没找到一匹活马，狄斯城就更不用说。儿时的英雄梦想不知不觉就碎掉了，唉。"
+  },
+  "11041014": {
+    "Sinner": "奥古斯特",
+    "Title": "特殊交谈2",
+    "File": "vo_augustus_talk2_002",
+    "Text": "想听听总司令年轻时的糗事吗？或者你那位特务长官的秘闻？反正闲着，多聊聊。作为交换，你可以谈谈……在你背后那几个上庭人，说说他们有多器重你。我很想听。"
+  },
+  "11041015": {
+    "Sinner": "奥古斯特",
+    "Title": "特殊交谈3",
+    "File": "vo_augustus_talk2_003",
+    "Text": "我观摩过很多葬礼，积累经验，终于给自己设计了最完美的方案，执行人就选定你了。嗯？你当然会比我活得长。有我在，绝不会让你死在我前面。"
+  },
+  "11041016": {
+    "Sinner": "奥古斯特",
+    "Title": "服从度升满",
+    "File": "vo_augustus_obeyfull_001",
+    "Text": "我从未脱离过战争，也没想象过战争结束的样子。只是在遇到你后，那画面才逐渐清晰起来——大概就是眼前有你在的光景吧，好像也很值得期待。那以后我们得更努力才行，努力结束这场仗，还有，努力活着，别死了。"
+  },
+  "11041017": {
+    "Sinner": "奥古斯特",
+    "Title": "闲置",
+    "File": "vo_augustus_idle_001",
+    "Text": "离我这么近，还敢走神，放松警惕……局长，你太没戒心了，真不怕我做些什么吗？"
+  },
+  "11041018": {
+    "Sinner": "奥古斯特",
+    "Title": "烦躁",
+    "File": "vo_augustus_clicking_001",
+    "Text": "嗬——我穿礼裙时不见你动手动脚，现在倒挺来劲。怎么，你只好制服这口么？"
+  },
+  "11041019": {
+    "Sinner": "奥古斯特",
+    "Title": "特别关注",
+    "File": "vo_augustus_specialattention_001",
+    "Text": "又有大人物要你多盯着我吗？哈哈放心，我对不敢冒头的懦夫脑袋没有兴趣。我是来见你的，现在这样就很好。"
+  },
+  "11041020": {
+    "Sinner": "奥古斯特",
+    "Title": "派遣",
+    "File": "vo_augustus_dispatch_001",
+    "Text": "行动要求0伤亡，很有挑战。"
+  },
+  "11041021": {
+    "Sinner": "奥古斯特",
+    "Title": "派遣完成",
+    "File": "vo_augustus_dispatch2_001",
+    "Text": "任务完成，局长该来表彰我的功勋了。"
+  },
+  "11041022": {
+    "Sinner": "奥古斯特",
+    "Title": "升级",
+    "File": "vo_augustus_levelup_002",
+    "Text": "不错，又找回些当年的感觉。"
+  },
+  "11041023": {
+    "Sinner": "奥古斯特",
+    "Title": "摸头",
+    "File": "vo_augustus_head_001",
+    "Text": "帽子上是原狄斯军队的徽记，已经很少见了。要摘下来，换成你MBCC的logo吗？"
+  },
+  "11041024": {
+    "Sinner": "奥古斯特",
+    "Title": "加入队伍",
+    "File": "bt_augustus_jointeam_001",
+    "Text": "这次由你来指挥啊……我很期待。"
+  },
+  "11041025": {
+    "Sinner": "奥古斯特",
+    "Title": "危险",
+    "File": "bt_augustus_danger_001",
+    "Text": "N/A"
+  },
+  "11041026": {
+    "Sinner": "奥古斯特",
+    "Title": "收到指令",
+    "File": "bt_augustus_getorder_001",
+    "Text": "N/A"
+  },
+  "11041027": {
+    "Sinner": "奥古斯特",
+    "Title": "受击",
+    "File": "bt_augustus_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11041028": {
+    "Sinner": "奥古斯特",
+    "Title": "小技能",
+    "File": "bt_augustus_skill_001_1",
+    "Text": "N/A"
+  },
+  "11041029": {
+    "Sinner": "奥古斯特",
+    "Title": "疑惑",
+    "File": "vo_augustus_doubt_001",
+    "Text": "N/A"
+  },
+  "11041030": {
+    "Sinner": "奥古斯特",
+    "Title": "震惊",
+    "File": "vo_augustus_shock_001",
+    "Text": "N/A"
+  },
+  "11041031": {
+    "Sinner": "奥古斯特",
+    "Title": "升技",
+    "File": "vo_augustus_promotion_001",
+    "Text": "我发现在追求力量这件事上，你比我狂热多了。真不错。"
+  },
   "11050101": {
     "Sinner": "伊琳娜",
     "Title": "获得禁闭者",
@@ -8268,6 +9334,54 @@
     "Title": "特别关注",
     "File": "vo_heli_feishazhinv_specialattention_001",
     "Text": "好，先待在我身边吧，我会慢慢告诉你详细计划的。"
+  },
+  "110501120": {
+    "Sinner": "伊琳娜",
+    "Title": "获得装束",
+    "File": "vo_heli_yanseweisheng_cacha_001",
+    "Text": "别被烟火和香槟迷惑了，所谓宴会不过是另一种形式的角斗场。每一次交杯，每一声谈笑，都藏着杀意和机遇——你准备好和我并肩入局了吗？"
+  },
+  "110501121": {
+    "Sinner": "伊琳娜",
+    "Title": "升级",
+    "File": "vo_heli_yanseweisheng_levelup_001",
+    "Text": "明智的投资，cheers。"
+  },
+  "110501122": {
+    "Sinner": "伊琳娜",
+    "Title": "问候",
+    "File": "vo_heli_yanseweisheng_greeting_001",
+    "Text": "这是一场为胜者加冕的晚宴，欢迎你来见证，我的贵客。"
+  },
+  "110501123": {
+    "Sinner": "伊琳娜",
+    "Title": "普通触摸1",
+    "File": "vo_heli_yanseweisheng_talk_001",
+    "Text": "挑选礼服也是一项重要谈判技巧，精巧的装扮能帮我吸引目光、抓住破绽。就比如刚刚……你的视线在我身上停留了多久？"
+  },
+  "110501124": {
+    "Sinner": "伊琳娜",
+    "Title": "普通触摸2",
+    "File": "vo_heli_yanseweisheng_talk_002",
+    "Text": "如果你是我，会怎么利用今晚这场盛宴？驯服一条忠犬？收编一个家族？还是，策反一位对手？"
+  },
+  "110501125": {
+    "Sinner": "伊琳娜",
+    "Title": "闲置",
+    "File": "vo_heli_yanseweisheng_idle_001",
+    "Text": "热闹的晚宴里唯独你安静得像个局外人。没关系，我一向愿意给聪明人多一点思考的空间。"
+  },
+  "110501126": {
+    "Sinner": "伊琳娜",
+    "Title": "烦躁",
+    "File": "vo_heli_yanseweisheng_clicking_001",
+    "Text": "我并不讨厌身体接触，只是希望它发生在双方都清楚后果的时候，那么局长——你想清楚了吗？"
+  },
+  "110501127": {
+    "Sinner": "伊琳娜",
+    "Title": "特别关注",
+    "File": "vo_heli_yanseweisheng_specialattention_001",
+    "Text": "只盯着我是没法好好享受这场宴会的，不如多关注一下舞池，那里有更多的“猎物”。"
   },
   "11050301": {
     "Sinner": "观星者",
@@ -9679,6 +10793,54 @@
     "File": "vo_hestia_qiandengyinyuan_specialattention_001",
     "Text": "你的视线，比这盏灯笼还要灼热……像篝火，像火炬……像那些来自凡俗，却让仙人们都忍不住眷恋的火种……"
   },
+  "111309110": {
+    "Sinner": "赫斯提亚",
+    "Title": "获得装束",
+    "File": "vo_hestia_yehuohuanghun_cacha_001",
+    "Text": "我是灶神的圣女，负责守护神庙的灶火。来，把你迷失的愿望交给我吧，我会借用神圣的火光，为它照亮前进的道路。"
+  },
+  "111309111": {
+    "Sinner": "赫斯提亚",
+    "Title": "升级",
+    "File": "vo_hestia_yehuohuanghun_levelup_001",
+    "Text": "愿祂的意志照彻此地。"
+  },
+  "111309112": {
+    "Sinner": "赫斯提亚",
+    "Title": "问候",
+    "File": "vo_hestia_yehuohuanghun_greeting_001",
+    "Text": "你一靠近，我就会听到火炬里传来“刺啦刺啦”的声音，是火花在开心地跳动呢。说明灶神的圣火喜欢你来这儿……我也是。"
+  },
+  "111309113": {
+    "Sinner": "赫斯提亚",
+    "Title": "普通触摸1",
+    "File": "vo_hestia_yehuohuanghun_talk_001",
+    "Text": "我会守在神殿，日夜祈祷，祈祷那个传说中的世界能早日重现——一个不让孩子担惊受怕、不逼孩子在绝境中鼓起勇气的世界，一个大人保护孩子、让他们安心长大的世界！"
+  },
+  "111309114": {
+    "Sinner": "赫斯提亚",
+    "Title": "普通触摸2",
+    "File": "vo_hestia_yehuohuanghun_talk_002",
+    "Text": "其实我看不清圣火的样子，但我能感觉到它的温度，我猜……它和太阳一样是金灿灿的。说不定圣火还会变成金色的小人，帮我把灶神的福祉传递下去呢。"
+  },
+  "111309115": {
+    "Sinner": "赫斯提亚",
+    "Title": "闲置",
+    "File": "vo_hestia_yehuohuanghun_idle_001",
+    "Text": "怎么没有声音，是睡着了吗？……不知道你的梦里有没有出现一位庄严又伟岸的圣女大人呢？"
+  },
+  "111309116": {
+    "Sinner": "赫斯提亚",
+    "Title": "烦躁",
+    "File": "vo_hestia_yehuohuanghun_clicking_001",
+    "Text": "这这这这可是……供奉神明的手！不能随便碰的……呀！"
+  },
+  "111309117": {
+    "Sinner": "赫斯提亚",
+    "Title": "特别关注",
+    "File": "vo_hestia_yehuohuanghun_specialattention_001",
+    "Text": "长廊里响起了脚步声……你是不是站在我身边？不出声的话，我就当你是想在太阳落山后，悄悄留下来陪我了。"
+  },
   "11050801": {
     "Sinner": "蓝鹫",
     "Title": "获得禁闭者",
@@ -10118,6 +11280,76 @@
     "Title": "升技",
     "File": "vo_yingying_promotion_001",
     "Text": "在我们那儿有种说法。只有喜欢一人，才会想着法儿把好东西都留给她。"
+  },
+  "110509100": {
+    "Sinner": "萦萦",
+    "Title": "获得装束",
+    "File": "vo_yingying_xiaoxianchushang_cacha_001",
+    "Text": "风过船舷，月照琵琶……小郎君，今晚这首曲子，是专门为你而奏的。若是听得情痴了，心乱了……那要记住都是因我而起哦～",
+    "File 2": "vo_yingying_xiaoxianchushang_cacha_001f",
+    "Text 2": "风过船舷，月照琵琶……小女娘，今晚这首曲子，是专门为你而奏的。若是听得情痴了，心乱了……那要记住都是因我而起哦～"
+  },
+  "110509101": {
+    "Sinner": "萦萦",
+    "Title": "升级",
+    "File": "vo_yingying_xiaoxianchushang_levelup_001",
+    "Text": "你听，这曲子是不是比从前更动人了？"
+  },
+  "110509102": {
+    "Sinner": "萦萦",
+    "Title": "问候",
+    "File": "vo_yingying_xiaoxianchushang_greeting_001",
+    "Text": "小郎君~今夜的风儿里都带着花香呢，你可闻到了？我刚刚还在想，若是你来了，便为你弹一曲新学的调子，让你也尝尝这荷花下的甜。",
+    "File 2": "vo_yingying_xiaoxianchushang_greeting_001f",
+    "Text 2": "小女娘~今夜的风儿里都带着花香呢，你可闻到了？我刚刚还在想，若是你来了，便为你弹一曲新学的调子，让你也尝尝这荷花下的甜。"
+  },
+  "110509103": {
+    "Sinner": "萦萦",
+    "Title": "摸头",
+    "File": "vo_yingying_xiaoxianchushang_head_001",
+    "Text": "哎呀呀，簪子都被你碰歪了，这可是我为了今天的表演精心佩戴好的呢。"
+  },
+  "110509104": {
+    "Sinner": "萦萦",
+    "Title": "普通触摸1",
+    "File": "vo_yingying_xiaoxianchushang_body_001",
+    "Text": "看来小郎君真的很喜欢听我弹琵琶呢……你听过东洲“高山流水遇知音”的故事吗？真没想到我的知音，原来就在眼前啊。",
+    "File 2": "vo_yingying_xiaoxianchushang_body_001f",
+    "Text 2": "看来小女娘真的很喜欢听我弹琵琶呢……你听过东洲“高山流水遇知音”的故事吗？真没想到我的知音，原来就在眼前啊。"
+  },
+  "110509105": {
+    "Sinner": "萦萦",
+    "Title": "普通触摸2",
+    "File": "vo_yingying_xiaoxianchushang_body_002",
+    "Text": "任何手艺啊，都是台上一分钟，台下十年功。当年教我弹琵琶的姐姐们，才是真的厉害——手指一拨，连风都跟着她们的节奏跳舞，边上茶楼里说书的都要歇一歇，偷听几句呢。"
+  },
+  "110509106": {
+    "Sinner": "萦萦",
+    "Title": "普通触摸3",
+    "File": "vo_yingying_xiaoxianchushang_hand_001",
+    "Text": "嗯~你是听得高兴了，可我拨弦拨的手都酸啦，小郎君，快来帮我揉揉嘛！",
+    "File 2": "vo_yingying_xiaoxianchushang_hand_001f",
+    "Text 2": "嗯~你是听得高兴了，可我拨弦拨的手都酸啦，小女娘，快来帮我揉揉嘛！"
+  },
+  "110509107": {
+    "Sinner": "萦萦",
+    "Title": "普通触摸4",
+    "File": "vo_yingying_xiaoxianchushang_background_001",
+    "Text": "这种船呀，叫画舫。过去在东洲，每逢华灯初上时，舫上的琉璃灯映着河水，就像把星星都揉碎了洒在水面上一样……当年我在岸边看姐姐们弹琵琶，总觉得她们是坐在月亮船里呢。"
+  },
+  "110509108": {
+    "Sinner": "萦萦",
+    "Title": "闲置",
+    "File": "vo_yingying_xiaoxianchushang_idle_001",
+    "Text": "这画舫上静悄悄的，像是连风都屏住了呼吸……有时候啊，无声无曲，反倒比琴音更动人——因为，身边有心爱的人在呢。"
+  },
+  "110509109": {
+    "Sinner": "萦萦",
+    "Title": "特别关注",
+    "File": "vo_yingying_xiaoxianchushang_specialattention_001",
+    "Text": "我的这身打扮是照着古画里的样式来的，可还入得小郎君的眼？嗯？怎么光顾着看都不说话？莫不是被我迷了魂，连夸一句都忘了？若真是这样，可得盯紧我些，不然我说不定就回到画里去啦！",
+    "File 2": "vo_yingying_xiaoxianchushang_specialattention_001f",
+    "Text 2": "我的这身打扮是照着古画里的样式来的，可还入得小女娘的眼？嗯？怎么光顾着看都不说话？莫不是被我迷了魂，连夸一句都忘了？若真是这样，可得盯紧我些，不然我说不定就回到画里去啦！"
   },
   "11051001": {
     "Sinner": "蜜莉",
@@ -10719,7 +11951,9 @@
     "Sinner": "哈梅尔",
     "Title": "互动1",
     "File": "vo_hameier_yiweilianyi_drag_001",
-    "Text": "从来没人能踏进这片清泉，只有你得到精灵的邀请。大家都很喜欢你呢。"
+    "4_Star_Text 1": "从来没人能踏进这片清泉，只有你得到精灵的邀请。大家都很喜欢你呢。",
+    "4_Star_Text 2": "包括你吗？",
+    "4_Star_Text 3": "是的，我很高兴你愿意走近，来我身边。"
   },
   "110601138": {
     "Sinner": "哈梅尔",
@@ -10731,7 +11965,9 @@
     "Sinner": "哈梅尔",
     "Title": "互动3",
     "File": "vo_hameier_yiweilianyi_dragbody_001",
-    "Text": "这么躺着不舒服吗？"
+    "4_Star_Text 1": "这么躺着不舒服吗？",
+    "4_Star_Text 2": "有些不好意思。",
+    "4_Star_Text 3": "那就当一场梦吧。舞者希望带给你美梦。"
   },
   "110601140": {
     "Sinner": "哈梅尔",
@@ -12162,6 +13398,66 @@
     "Title": "特别关注",
     "File": "vo_duruo_jingyechangxi_specialattention_001",
     "Text": "月亮已经传达了你的祈愿，神明会对忠实的信使降下她的奖励。你可以登上这艘桂舟，聆听来自神明的口谕。"
+  },
+  "110606110": {
+    "Sinner": "杜若",
+    "Title": "获得装束",
+    "File": "vo_duruo_qingfengruhuai_cacha_001",
+    "Text": "早起见这烟绕鹤颈，是贵客临门之象，我便铺陈茶席，静候佳音，果然你来了……呵呵，不枉我换了这身罗缎行头，备了老树春芽。"
+  },
+  "110606111": {
+    "Sinner": "杜若",
+    "Title": "升级",
+    "File": "vo_duruo_qingfengruhuai_levelup_001",
+    "Text": "唔~汤色透亮，正是最妙时。"
+  },
+  "110606112": {
+    "Sinner": "杜若",
+    "Title": "问候",
+    "File": "vo_duruo_qingfengruhuai_greeting_001",
+    "Text": "香自清风动，茶与旧事浓。我知晓局长公务繁忙，可来都来了，何不入席，共品一盏香茗，听我讲讲，这东洲茶里的门道？"
+  },
+  "110606113": {
+    "Sinner": "杜若",
+    "Title": "摸头",
+    "File": "vo_duruo_qingfengruhuai_head_001",
+    "Text": "茶汤尚且未凉，你倒先不安分了？再等等吧，心急，可品不了这茶中妙意~"
+  },
+  "110606114": {
+    "Sinner": "杜若",
+    "Title": "普通触摸1",
+    "File": "vo_duruo_qingfengruhuai_body_001",
+    "Text": "这身衣裳是旧样新制的，过去我也一度觉得它过时，可事到如今，却又觉得，有时传统这东西确实就像茗茶，陈年旧物，也有陈年旧物的韵味。"
+  },
+  "110606115": {
+    "Sinner": "杜若",
+    "Title": "普通触摸2",
+    "File": "vo_duruo_qingfengruhuai_body_002",
+    "Text": "东洲人爱茶，东洲也有许多名茶，什么银针、瓜片、碧螺春，名字一个比一个风雅，声名一个比一个响亮。可品茶时若是只品风月，不品背后的山路与柴火，就落了下乘。"
+  },
+  "110606116": {
+    "Sinner": "杜若",
+    "Title": "普通触摸3",
+    "File": "vo_duruo_qingfengruhuai_hand_001",
+    "Text": "别小瞧这一只茶盅，东洲茶艺里，它可颇有些讲究。得入手温，砂质细，四季各有样式……春牛目、夏栗子、秋荷叶、冬仰钟——不过，可不是谁来，我都换得这么细致的。"
+  },
+  "110606117": {
+    "Sinner": "杜若",
+    "Title": "普通触摸4",
+    "File": "vo_duruo_qingfengruhuai_background_001",
+    "Text": "喜欢窗外那些竹？呵呵，竹坚而静，虚心高节，我倒也喜欢它这种卓然清峻的样子……与你有几分像。"
+  },
+  "110606118": {
+    "Sinner": "杜若",
+    "Title": "闲置",
+    "File": "vo_duruo_qingfengruhuai_idle_001",
+    "Text": "好茶对景，本是极妙的时刻……可若无人对谈一句，总觉得少了什么。"
+  },
+  "110606119": {
+    "Sinner": "杜若",
+    "Title": "特别关注",
+    "File": "vo_duruo_qingfengruhuai_specialattention_001",
+    "Text": "哎呀，怎么水还没热，茶盏就先温了？该不会是某些人的眼神，有点太过火了吧？"
   },
   "11060701": {
     "Sinner": "L.L.",
@@ -15101,6 +16397,186 @@
     "File": "vo_luminita_promotion_001",
     "Text": "签字盖章，房屋买卖契约书再添一份！"
   },
+  "11111101": {
+    "Sinner": "希格林德",
+    "Title": "获得禁闭者",
+    "File": "vo_siglinde_cacha_001",
+    "Text": "你好，MBCC的局长，我是来自旧狄斯军的战时高级联络官希格林德。在统一战线期间，请把我视为你的下属，我将尽心协助你的工作，以达成双方合作的顺利推进。"
+  },
+  "11111102": {
+    "Sinner": "希格林德",
+    "Title": "升至1阶",
+    "File": "vo_siglinde_promotion_001",
+    "Text": "感谢你的信任，我会确保前线通讯线路畅通无阻。"
+  },
+  "11111103": {
+    "Sinner": "希格林德",
+    "Title": "升至3阶",
+    "File": "vo_siglinde_promotion2_001",
+    "Text": "荣誉，理想，生命……无论身处什么立场，有些事物都应该被誓死捍卫。"
+  },
+  "11111104": {
+    "Sinner": "希格林德",
+    "Title": "关卡开始",
+    "File": "vo_siglinde_battlebegin_001",
+    "Text": "信号源展开，进入战斗模式。"
+  },
+  "11111105": {
+    "Sinner": "希格林德",
+    "Title": "战斗胜利",
+    "File": "vo_siglinde_battlewin_001",
+    "Text": "值得庆贺的胜利，看来我们拥有并肩作战的默契。"
+  },
+  "11111106": {
+    "Sinner": "希格林德",
+    "Title": "战斗失败",
+    "File": "vo_siglinde_battlelose_001",
+    "Text": "战术失误，立即撤退！"
+  },
+  "11111107": {
+    "Sinner": "希格林德",
+    "Title": "必杀技",
+    "File": "bt_siglinde_uniqueskill_001",
+    "Text": "脉冲辐射启动！"
+  },
+  "11111108": {
+    "Sinner": "希格林德",
+    "Title": "战斗中死亡",
+    "File": "bt_siglinde_dead_001",
+    "Text": "战死……也是属于军人的荣耀……"
+  },
+  "11111109": {
+    "Sinner": "希格林德",
+    "Title": "问候",
+    "File": "vo_siglinde_greeting_001",
+    "Text": "联络官希格林德已就位，听凭长官调遣。哪怕是局长想接通敌方指挥官的私人通信，我也会安排妥当。"
+  },
+  "11111110": {
+    "Sinner": "希格林德",
+    "Title": "交谈1",
+    "File": "vo_siglinde_talk1_001",
+    "Text": "我一直戴着耳机是在听什么？哦，只是为了方便接收针对FAC的秘密指令而已……说笑的，其实是些能让人保持专注的白噪音，局长也可以听听看。"
+  },
+  "11111111": {
+    "Sinner": "希格林德",
+    "Title": "交谈2",
+    "File": "vo_siglinde_talk1_002",
+    "Text": "请相信我的专业素养，就算身陷黑环，我也能保障通讯的流畅与安全，绝不会让情报被死役拦截……嗯，局长不理解我的幽默？"
+  },
+  "11111112": {
+    "Sinner": "希格林德",
+    "Title": "交谈3",
+    "File": "vo_siglinde_talk1_003",
+    "Text": "战场局势瞬息万变，但并非无法操控。调动资源，改进战术，预知危险……只要冷静分析，信号和情报能指引我实现一切目的。"
+  },
+  "11111113": {
+    "Sinner": "希格林德",
+    "Title": "特殊交谈1",
+    "File": "vo_siglinde_talk2_001",
+    "Text": "许多人将我看作不值得信任的“间谍”，但这种误解我并不放在心上。只要我们仍是友军，我就会忠诚地履行我的职责，维护双方共同的利益。"
+  },
+  "11111114": {
+    "Sinner": "希格林德",
+    "Title": "特殊交谈2",
+    "File": "vo_siglinde_talk2_002",
+    "Text": "也许这种暴戾的武器在你们看来危险难驯，但于我而言，这是父母留给我唯一的念想，也是一种传承的荣誉，或者说……是某种必须背负的责任。"
+  },
+  "11111115": {
+    "Sinner": "希格林德",
+    "Title": "特殊交谈3",
+    "File": "vo_siglinde_talk2_003",
+    "Text": "FAC在战场上的表现十分英勇，我无法否认，他们同样是值得敬佩的军人，我过往的某些看法的确失之偏颇。别误会，我依然坚定原本的立场，只不过意识到自己应该换一种更客观的眼光。"
+  },
+  "11111116": {
+    "Sinner": "希格林德",
+    "Title": "服从度升满",
+    "File": "vo_siglinde_obeyfull_001",
+    "Text": "跟随你的这段时间，我从你的视角下经历了许多事，这让我开始思考，自己曾坚持的认知是否正确——杀戮扩张和牺牲守护，究竟哪个才更能代表军人的荣誉？在找到这个答案之前，局长……你能否带我去亲眼见证更多的道路和真相？"
+  },
+  "11111117": {
+    "Sinner": "希格林德",
+    "Title": "闲置",
+    "File": "vo_siglinde_idle_001",
+    "Text": "居然毫无防备地在我面前入睡……你的信任就是这样能随意挥霍的吗？"
+  },
+  "11111118": {
+    "Sinner": "希格林德",
+    "Title": "烦躁",
+    "File": "vo_siglinde_clicking_001",
+    "Text": "这样的举止可不符合礼仪……还是说，这就是管理局的局长亲近下属的方式？"
+  },
+  "11111119": {
+    "Sinner": "希格林德",
+    "Title": "特别关注",
+    "File": "vo_siglinde_specialattention_001",
+    "Text": "我完全能理解你对我仍然心怀警惕——毕竟你一直用这么专注的目光看着我，我无法不多想呢。"
+  },
+  "11111120": {
+    "Sinner": "希格林德",
+    "Title": "派遣",
+    "File": "vo_siglinde_dispatch_001",
+    "Text": "请放心，外勤任务我也能胜任。"
+  },
+  "11111121": {
+    "Sinner": "希格林德",
+    "Title": "派遣完成",
+    "File": "vo_siglinde_dispatch2_001",
+    "Text": "任务完成，幸不辱命。"
+  },
+  "11111122": {
+    "Sinner": "希格林德",
+    "Title": "升级",
+    "File": "vo_siglinde_levelup_002",
+    "Text": "愿意同我分享这么多情报，局长果然如传闻中一样慷慨。"
+  },
+  "11111123": {
+    "Sinner": "希格林德",
+    "Title": "加入队伍",
+    "File": "bt_siglinde_jointeam_001",
+    "Text": "虽然我不怎么上前线，但合格的军人面对战斗绝不会退缩。"
+  },
+  "11111124": {
+    "Sinner": "希格林德",
+    "Title": "危险",
+    "File": "bt_siglinde_danger_001",
+    "Text": "N/A"
+  },
+  "11111125": {
+    "Sinner": "希格林德",
+    "Title": "收到指令",
+    "File": "bt_siglinde_getorder_001",
+    "Text": "N/A"
+  },
+  "11111126": {
+    "Sinner": "希格林德",
+    "Title": "受击",
+    "File": "bt_siglinde_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11111127": {
+    "Sinner": "希格林德",
+    "Title": "小技能",
+    "File": "bt_siglinde_skill_001_1",
+    "Text": "N/A"
+  },
+  "11111128": {
+    "Sinner": "希格林德",
+    "Title": "疑惑",
+    "File": "vo_siglinde_doubt_001",
+    "Text": "N/A"
+  },
+  "11111129": {
+    "Sinner": "希格林德",
+    "Title": "惊讶",
+    "File": "vo_siglinde_shock_001",
+    "Text": "N/A"
+  },
+  "11111130": {
+    "Sinner": "希格林德",
+    "Title": "升技",
+    "File": "vo_siglinde_promotion_001",
+    "Text": "感谢你的信任，我会确保前线通讯线路畅通无阻。"
+  },
   "11120101": {
     "Sinner": "九十九",
     "Title": "获得禁闭者",
@@ -17640,6 +19116,186 @@
     "Title": "升技",
     "File": "vo_lysandra_promotion_001",
     "Text": "能前往更深的地方了。"
+  },
+  "11121301": {
+    "Sinner": "雅可",
+    "Title": "获得禁闭者",
+    "File": "vo_ark_cacha_001",
+    "Text": "缺什么坦白说就好啦，不用担心，只要船上有的，都可以分给你！……嗯？你说我们非法占据公有财产？你要的是方舟号？我懂了，那你就收下这颗炮弹吧！"
+  },
+  "11121302": {
+    "Sinner": "雅可",
+    "Title": "升至1阶",
+    "File": "vo_ark_promotion_001",
+    "Text": "机械臂改造？是上次那块羊绒毯的回礼吗？Zulu Zulu，谢啦！"
+  },
+  "11121303": {
+    "Sinner": "雅可",
+    "Title": "升至3阶",
+    "File": "vo_ark_promotion2_001",
+    "Text": "这是我的船，我的家，我们的方舟聚落！每个想动它的人，都得先跟我的炮口谈谈！"
+  },
+  "11121304": {
+    "Sinner": "雅可",
+    "Title": "关卡开始",
+    "File": "vo_ark_battlebegin_001",
+    "Text": "方舟号的炮门已经迫不及待了！"
+  },
+  "11121305": {
+    "Sinner": "雅可",
+    "Title": "战斗胜利",
+    "File": "vo_ark_battlewin_001",
+    "Text": "我看谁还敢打我家里人的主意！"
+  },
+  "11121306": {
+    "Sinner": "雅可",
+    "Title": "战斗失败",
+    "File": "vo_ark_battlelose_001",
+    "Text": "转舵启航，全速撤退！别担心，我不会恋战的，没有什么比你们的安全更重要！"
+  },
+  "11121307": {
+    "Sinner": "雅可",
+    "Title": "必杀技",
+    "File": "bt_ark_uniqueskill_001",
+    "Text": "主炮齐射！"
+  },
+  "11121308": {
+    "Sinner": "雅可",
+    "Title": "战斗中死亡",
+    "File": "bt_ark_dead_001",
+    "Text": "别怕……方舟号会带你去安全的地方……"
+  },
+  "11121309": {
+    "Sinner": "雅可",
+    "Title": "问候",
+    "File": "vo_ark_greeting_001",
+    "Text": "Zulu Zulu，欢迎来我家做客！这垫子虽然是姨妈们拿破帆布拆出来的线编的，但可软了！快坐下喝点奶奶在甲板上晒的沙果茶吧，你的黑眼圈太重了，比在桅杆上吊了一晚上的瞭望员还吓人！"
+  },
+  "11121310": {
+    "Sinner": "雅可",
+    "Title": "交谈1",
+    "File": "vo_ark_talk1_001",
+    "Text": "诶，你可别把我当危险分子啊！又不是我喜欢打架，是在砂海里，打赢了之后才有资格谈别的。谁让不成规矩的地方，火力就是规矩呢？"
+  },
+  "11121311": {
+    "Sinner": "雅可",
+    "Title": "交谈2",
+    "File": "vo_ark_talk1_002",
+    "Text": "小时候爸妈教我Bravo Zulu是船上最高级最正式的夸人方式，于是我成天在甲板上乱窜，见谁都用，大家明明听不懂却都挺高兴~后来这句话成了方舟号的通用语，你要不也试试？Zulu Zulu！"
+  },
+  "11121312": {
+    "Sinner": "雅可",
+    "Title": "交谈3",
+    "File": "vo_ark_talk1_003",
+    "Text": "平常，咱们聚落确实挺乱的，南腔北调、杂七杂八，大伙儿的生活习惯都不一样，还成天要我去劝架，可不省心了！可船一开动，所有人就都往一个方向看了。这就是我的家人，我爱他们每一个。"
+  },
+  "11121313": {
+    "Sinner": "雅可",
+    "Title": "特殊交谈1",
+    "File": "vo_ark_talk2_001",
+    "Text": "在砂海很难睡个好觉，每天沙子乱飞火花四溅的。可偶尔安静时，整艘船会像是浮在空中，呼吸和脚步、震动和嗡鸣都很清晰，让我意识到，生活也可以很平稳。可惜，这样的时间实在是太少了。"
+  },
+  "11121314": {
+    "Sinner": "雅可",
+    "Title": "特殊交谈2",
+    "File": "vo_ark_talk2_002",
+    "Text": "有很多人说我就是方舟号，是它的化身，是砂船的灵。听起来很傻吧？可是听多了，我也开始想，也许要是我真的是它，是兵器，就不会再害怕保护不了家人们，再在开完炮的夜里睡不着觉了。Zulu Zulu，也许，我也一样傻。"
+  },
+  "11121315": {
+    "Sinner": "雅可",
+    "Title": "特殊交谈3",
+    "File": "vo_ark_talk2_003",
+    "Text": "如果这世上真的有个地方，不用开炮就能守住我们的家，那我想和你一起去。但你也别唬我，我知道这航程可长了，在到那儿之前，你可要好好保护好你自己啊！实在不行，我会挡在你前面，把拦路的统统撞飞！"
+  },
+  "11121316": {
+    "Sinner": "雅可",
+    "Title": "服从度升满",
+    "File": "vo_ark_obeyfull_001",
+    "Text": "方舟号因为火力才能自保，也因为火力才被垂涎，这是我和家人们逃不出去的怪圈，就像无垠的砂海包围着我们。我必须一直开船，一直开炮，找不到岸，停不下来……可你来了。谢谢你，愿意做雅可的岸。"
+  },
+  "11121317": {
+    "Sinner": "雅可",
+    "Title": "闲置",
+    "File": "vo_ark_idle_001",
+    "Text": "哇，局长真睡着啦……那我不打扰你咯。"
+  },
+  "11121318": {
+    "Sinner": "雅可",
+    "Title": "烦躁",
+    "File": "vo_ark_clicking_001",
+    "Text": "Zulu Zulu，我在这里，没事的……姨妈说我也有这样的坏习惯，总是忍不住摸摸你，直到确认你在身边，才能安心。"
+  },
+  "11121319": {
+    "Sinner": "雅可",
+    "Title": "特别关注",
+    "File": "vo_ark_specialattention_001",
+    "Text": "只是出海而已，不用这么紧张我！我明白家人出事会有多心痛，才不会让你吃那种苦呢！"
+  },
+  "11121320": {
+    "Sinner": "雅可",
+    "Title": "派遣",
+    "File": "vo_ark_dispatch_001",
+    "Text": "物资这块儿我最熟啦，看我给你露一手管家的本事！方舟号上上下下大大小小，可都是靠我呢！"
+  },
+  "11121321": {
+    "Sinner": "雅可",
+    "Title": "派遣完成",
+    "File": "vo_ark_dispatch2_001",
+    "Text": "我回来啦！能过船的路不多，我绕了点远路，还给你带了特产，看，满满一甲板！"
+  },
+  "11121322": {
+    "Sinner": "雅可",
+    "Title": "升级",
+    "File": "vo_ark_levelup_002",
+    "Text": "Zulu Zulu！这样你就不会晕船了！"
+  },
+  "11121323": {
+    "Sinner": "雅可",
+    "Title": "加入队伍",
+    "File": "bt_ark_jointeam_001",
+    "Text": "还有不长眼的敢盯上我们？别怕，我会把他们……全都轰成渣！"
+  },
+  "11121324": {
+    "Sinner": "雅可",
+    "Title": "危险",
+    "File": "bt_ark_danger_001",
+    "Text": "N/A"
+  },
+  "11121325": {
+    "Sinner": "雅可",
+    "Title": "收到指令",
+    "File": "bt_ark_getorder_001",
+    "Text": "N/A"
+  },
+  "11121326": {
+    "Sinner": "雅可",
+    "Title": "受击",
+    "File": "bt_ark_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11121327": {
+    "Sinner": "雅可",
+    "Title": "小技能",
+    "File": "bt_ark_skill_001_1",
+    "Text": "N/A"
+  },
+  "11121328": {
+    "Sinner": "雅可",
+    "Title": "疑惑",
+    "File": "vo_ark_doubt_001",
+    "Text": "N/A"
+  },
+  "11121329": {
+    "Sinner": "雅可",
+    "Title": "震惊",
+    "File": "vo_ark_shock_001",
+    "Text": "N/A"
+  },
+  "11121330": {
+    "Sinner": "雅可",
+    "Title": "升技",
+    "File": "vo_ark_promotion_001",
+    "Text": "机械臂改造？是上次那块羊绒毯的回礼吗？Zulu Zulu，谢啦！"
   },
   "11130101": {
     "Sinner": "艾恩",
@@ -22009,7 +23665,7 @@
     "Sinner": "维多利亚",
     "Title": "闲置",
     "File": "vo_bai_idle_001",
-    "Text": "一只蝴蝶停留在窗边\n一朵玫瑰枯萎在花园\n父亲的相片变成了碎片\n只剩一人坐床前"
+    "Text": "一只蝴蝶停留在窗边<br/>一朵玫瑰枯萎在花园<br/>父亲的相片变成了碎片<br/>只剩一人坐床前"
   },
   "11150118": {
     "Sinner": "维多利亚",
@@ -23936,6 +25592,186 @@
     "Title": "升技",
     "File": "vo_wuhuanzi_promotion_001",
     "Text": "我把先前那个方子改良了，不仅对症……味道也没那么怪了，应该。"
+  },
+  "11151001": {
+    "Sinner": "萨妮",
+    "Title": "获得禁闭者",
+    "File": "vo_thani_cacha_001",
+    "Text": "你们是来招人的？我我我，我勤杂工作我很拿手的！啊？有家政机器人了……？那……那我还会其他的！比如……耳听八方！反应很快！还有……喂你别走呀！"
+  },
+  "11151002": {
+    "Sinner": "萨妮",
+    "Title": "升至1阶",
+    "File": "vo_thani_promotion_001",
+    "Text": "诶？秘金的副作用好像变弱了好多，好耶！"
+  },
+  "11151003": {
+    "Sinner": "萨妮",
+    "Title": "升至3阶",
+    "File": "vo_thani_promotion2_001",
+    "Text": "变强肯定是好事，但要是变太强也不是什么好事……我现在好像已经能闻到空气中怪怪的味道了，要是再变强下去……那就戴防毒面具？你是魔鬼吗！"
+  },
+  "11151004": {
+    "Sinner": "萨妮",
+    "Title": "关卡开始",
+    "File": "vo_thani_battlebegin_001",
+    "Text": "现在就出发？我……我再准备一下！"
+  },
+  "11151005": {
+    "Sinner": "萨妮",
+    "Title": "战斗胜利",
+    "File": "vo_thani_battlewin_001",
+    "Text": "赢了赢了！我就知道我们是最棒的！回去之后一起庆祝一下吧！我来准备零食！"
+  },
+  "11151006": {
+    "Sinner": "萨妮",
+    "Title": "战斗失败",
+    "File": "vo_thani_battlelose_001",
+    "Text": "别愣着啦快跑！谁跑得慢谁就危险啦！"
+  },
+  "11151007": {
+    "Sinner": "萨妮",
+    "Title": "必杀技",
+    "File": "bt_thani_uniqueskill_001",
+    "Text": "看我的！嘿——！"
+  },
+  "11151008": {
+    "Sinner": "萨妮",
+    "Title": "战斗中死亡",
+    "File": "bt_thani_dead_001",
+    "Text": "我……果然还是做不到……"
+  },
+  "11151009": {
+    "Sinner": "萨妮",
+    "Title": "问候",
+    "File": "vo_thani_greeting_001",
+    "Text": "哦！局长今天精神特别好呢！连步伐都比平时听上去要轻快一点~是因为想要来见我吗？"
+  },
+  "11151010": {
+    "Sinner": "萨妮",
+    "Title": "交谈1",
+    "File": "vo_thani_talk1_001",
+    "Text": "哎呀……怎么说呢嘿嘿……我就是不小心听到输入密码的声音，然后根据声音试了几次就把金库大门给打开了……不过我真的真的就是想试试，谁知道警报咚地一下就全亮起来了……"
+  },
+  "11151011": {
+    "Sinner": "萨妮",
+    "Title": "交谈2",
+    "File": "vo_thani_talk1_002",
+    "Text": "局长，有一个好消息和一个坏消息！好消息是玻璃被我擦得超级干净！坏消息是……那瓶看起来就很贵的清洁剂是不是不能用在玻璃上呀……"
+  },
+  "11151012": {
+    "Sinner": "萨妮",
+    "Title": "交谈3",
+    "File": "vo_thani_talk1_003",
+    "Text": "你是说……因为枷锁的缘故，我能知道你的想法，你也能知道我的想法？虽然现在出现的只是一些只是零碎的感觉，但……这也太奇怪了吧？我以后要是想要偷吃零食什么的不都会被你发现吗？！"
+  },
+  "11151013": {
+    "Sinner": "萨妮",
+    "Title": "特殊交谈1",
+    "File": "vo_thani_talk2_001",
+    "Text": "你是不知道费沙那边的实验室有多过分！只要进到那里面就不允许回家，而且还要被偷偷拉去做实验！还是这里好，没有奇奇怪怪的限制，而且还能有机会回去看看大家！"
+  },
+  "11151014": {
+    "Sinner": "萨妮",
+    "Title": "特殊交谈2",
+    "File": "vo_thani_talk2_002",
+    "Text": "唔……看不出来，你这枷锁居然还有这种功能……困扰了我这么久的副作用被你这么简单就解决了，反而让我有些不适应，总之先谢谢……不对！你怎么又来共感我的想法了！"
+  },
+  "11151015": {
+    "Sinner": "萨妮",
+    "Title": "特殊交谈3",
+    "File": "vo_thani_talk2_003",
+    "Text": "其实，也不是完全不能接受……毕竟有时候，这样交流确实方便不少……但你别在脑子里回忆我昨天摔倒的画面！……你还笑？！我要用烧瓶丢你了！！"
+  },
+  "11151016": {
+    "Sinner": "萨妮",
+    "Title": "服从度升满",
+    "File": "vo_thani_obeyfull_001",
+    "Text": "有时候想一想，能窥见你的一点想法，也是种莫名的安心呢。不仅是因为更懂你了，而是我发现，你会有为难、有犹豫、有不安的时候……虽然我没有其他人那么那么厉害，但以后要是有什么烦恼，也让我帮你分担一点吧？毕竟能这么理解彼此的，也只有“家人”了吧？"
+  },
+  "11151017": {
+    "Sinner": "萨妮",
+    "Title": "闲置",
+    "File": "vo_thani_idle_001",
+    "Text": "唔……办公室通风扇的声音好好听……只是听着就……ZZZZ……"
+  },
+  "11151018": {
+    "Sinner": "萨妮",
+    "Title": "烦躁",
+    "File": "vo_thani_clicking_001",
+    "Text": "哇啊！别戳别戳！是治好了副作用没错啦！但你这样……也很痒的……"
+  },
+  "11151019": {
+    "Sinner": "萨妮",
+    "Title": "特别关注",
+    "File": "vo_thani_specialattention_001",
+    "Text": "局长，我怎么……怎么感觉除了你之外，还有好多眼睛在看着我呢……真的只有你一个吗？你确定？"
+  },
+  "11151020": {
+    "Sinner": "萨妮",
+    "Title": "派遣",
+    "File": "vo_thani_dispatch_001",
+    "Text": "哎呀我们是一家人，什么任不任务的，我帮你去做就是啦！"
+  },
+  "11151021": {
+    "Sinner": "萨妮",
+    "Title": "派遣完成",
+    "File": "vo_thani_dispatch2_001",
+    "Text": "完成了完成了！怎么样，还不赖吧~"
+  },
+  "11151022": {
+    "Sinner": "萨妮",
+    "Title": "升级",
+    "File": "vo_thani_levelup_002",
+    "Text": "啊哈！感觉反应好像又变快了一点点？"
+  },
+  "11151023": {
+    "Sinner": "萨妮",
+    "Title": "加入队伍",
+    "File": "bt_thani_jointeam_001",
+    "Text": "啊？要打架？那记得把我放后面点啊！我负责预警还有……呃，远程支援！"
+  },
+  "11151024": {
+    "Sinner": "萨妮",
+    "Title": "危险",
+    "File": "bt_thani_danger_001",
+    "Text": "N/A"
+  },
+  "11151025": {
+    "Sinner": "萨妮",
+    "Title": "收到指令",
+    "File": "bt_thani_getorder_001",
+    "Text": "N/A"
+  },
+  "11151026": {
+    "Sinner": "萨妮",
+    "Title": "受击",
+    "File": "bt_thani_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11151027": {
+    "Sinner": "萨妮",
+    "Title": "小技能",
+    "File": "bt_thani_skill_001_1",
+    "Text": "N/A"
+  },
+  "11151028": {
+    "Sinner": "萨妮",
+    "Title": "疑惑",
+    "File": "vo_thani_doubt_001",
+    "Text": "N/A"
+  },
+  "11151029": {
+    "Sinner": "萨妮",
+    "Title": "震惊",
+    "File": "vo_thani_shock_001",
+    "Text": "N/A"
+  },
+  "11151030": {
+    "Sinner": "萨妮",
+    "Title": "升技",
+    "File": "vo_thani_promotion_001",
+    "Text": "N/A"
   },
   "11160101": {
     "Sinner": "艾瑞尔",
@@ -26980,6 +28816,54 @@
     "Title": "升技",
     "File": "vo_qiao_promotion_001",
     "Text": "新歌的灵感！"
+  },
+  "112104100": {
+    "Sinner": "佩姬",
+    "Title": "获得装束",
+    "File": "vo_qiao_jifeiyinlang_cacha_001",
+    "Text": "What's up？你们的巨星AKA说唱天王·佩姬强势归来——说佩姬凉了的，赶快睁开眼睛看看，谁才是狄斯说唱的天、花、板！"
+  },
+  "112104101": {
+    "Sinner": "佩姬",
+    "Title": "升级",
+    "File": "vo_qiao_jifeiyinlang_levelup_001",
+    "Text": "调高音量！我要听尖叫声把场子炸穿——"
+  },
+  "112104102": {
+    "Sinner": "佩姬",
+    "Title": "问候",
+    "File": "vo_qiao_jifeiyinlang_greeting_001",
+    "Text": "后排的朋友还在等什么？赶紧跟上佩姬的flow，让我看到你最强劲的节奏——"
+  },
+  "112104103": {
+    "Sinner": "佩姬",
+    "Title": "普通触摸1",
+    "File": "vo_qiao_jifeiyinlang_body_001",
+    "Text": "许多人说我做了条子的狗，但他们懂个*？要在舞台上浴血重生，得跟现实抗争、先死一次才行，还是那句话，keep real，音乐替我说话！"
+  },
+  "112104104": {
+    "Sinner": "佩姬",
+    "Title": "普通触摸2",
+    "File": "vo_qiao_jifeiyinlang_body_002",
+    "Text": "辛迪加教会我的生存法则，让我从那个肮脏的圈子爬了回来，重生就在此刻！记住，在你们谈论传说的时候，佩姬，永远在风暴的中心——！"
+  },
+  "112104105": {
+    "Sinner": "佩姬",
+    "Title": "闲置",
+    "File": "vo_qiao_jifeiyinlang_idle_001",
+    "Text": "虽然离开了辛迪加，但我还是遇上不少臭味相投的朋友，那些人不为现实屈服，一次又一次挣扎着重生，我挺喜欢这群叛逆的疯子，他们够真实！够嘻哈！"
+  },
+  "112104106": {
+    "Sinner": "佩姬",
+    "Title": "烦躁",
+    "File": "vo_qiao_jifeiyinlang_clicking_001",
+    "Text": "还不尽兴？还没嗨够？那就再疯点，跟我一起跳进人海里，让人浪推着我们冲回舞台——够不够刺激？！"
+  },
+  "112104107": {
+    "Sinner": "佩姬",
+    "Title": "特别关注",
+    "File": "vo_qiao_jifeiyinlang_specialattention_001",
+    "Text": "喂，特邀席上的那位，就准备这样一直盯着我看？不上来露两手？"
   },
   "11220101": {
     "Sinner": "海拉",

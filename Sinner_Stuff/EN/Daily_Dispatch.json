@@ -3200,6 +3200,127 @@
     }
   },
   "185": {
+    "Id": 1058001,
+    "Quality": "Purple",
+    "DispatchTitle": "Strategic Coordination",
+    "DispatchDescription": "There has been a recent surge of Corruptors near the Rust and the situation is dire. We urgently need a Sinner with experience in strategic planning and battlefield command to serve as the Acting Commander and coordinate the operations.",
+    "DispatchSinners": {
+      "Sinner": "Augustus"
+    },
+    "BaseAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "186": {
+    "Id": 1058002,
+    "Quality": "Purple",
+    "DispatchTitle": "Justified Force",
+    "DispatchDescription": "Reports of thugs terrorizing civilians have become frequent in a certain neighborhood in Syndicate. A recent incident involving injured children has even sparked public outrage. The news has rendered a certain Sinner furious, who insists on intervening to uphold justice and protect vulnerable individuals.",
+    "DispatchSinners": {
+      "Sinner": "Necresta·Hella"
+    },
+    "BaseAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "187": {
+    "Id": 1058003,
+    "Quality": "Green",
+    "DispatchTitle": "Communication Blackout Crisis",
+    "DispatchDescription": "Multiple signal towers in Eastside have been deliberately sabotaged, causing a communication blackout in the area. The Public Security Bureau has submitted an urgent request to the MBCC to dispatch a Sinner with extensive knowledge of signal tower structures and communication systems to assist with emergency repairs and apprehend the perpetrators.",
+    "DispatchSinners": {
+      "Sinner": "Siglinde"
+    },
+    "BaseAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "2400.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "800.0"
+    }
+  },
+  "188": {
+    "Id": 1058004,
+    "Quality": "Blue",
+    "DispatchTitle": "Commercial Mediation",
+    "DispatchDescription": "Two major corporations in Eastside are in conflict over the planning of a certain urban area, affecting business partners and nearby residential areas. The Bureau has decided to send someone skilled in negotiation to mediate on-site, preventing the situation from escalating further.",
+    "DispatchSinners": {
+      "Sinner 1": "Siglinde",
+      "Sinner 2": "Mr. Fox"
+    },
+    "BaseAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "4000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "1000.0"
+    }
+  },
+  "189": {
+    "Id": 1059001,
+    "Quality": "Purple",
+    "DispatchTitle": "Stormy Invasion",
+    "DispatchDescription": "A massive storm has struck the border, stranding a shipment of urgently needed rare supplies. We need to recruit a Sinner with experience operating under storms to help escort the cargo and ensure its safety through these extreme weather conditions.",
+    "DispatchSinners": {
+      "Sinner": "Ceto"
+    },
+    "BaseAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "190": {
+    "Id": 1059002,
+    "Quality": "Green",
+    "DispatchTitle": "Sand Ship Hijacker",
+    "DispatchDescription": "Some highly skilled bandits have seized a DisCity sand ship in WhiteSands, demanding that the Public Security Bureau release their accomplices within 8 hours in exchange for the hostages. We urgently need to recruit a Sinner familiar with sand ship layouts who can handle solo combats and react to situations quickly to secretly infiltrate the vessel and safely rescue the hostages.",
+    "DispatchSinners": {
+      "Sinner": "Ark"
+    },
+    "BaseAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "2400.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "800.0"
+    }
+  },
+  "191": {
+    "Id": 1059003,
+    "Quality": "Blue",
+    "DispatchTitle": "Refugee Resettlement",
+    "DispatchDescription": "DisCity's border control has detained numerous WhiteSands refugees. The language barrier has led to severe communication problems that have escalated to violent confrontations. We urgently need to recruit two Sinners who are fluent in various WhiteSands dialects and empathetic toward refugees to assist with liaison and resettlement.",
+    "DispatchSinners": {
+      "Sinner 1": "Ark",
+      "Sinner 2": "Mira"
+    },
+    "BaseAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "4000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "1000.0"
+    }
+  },
+  "192": {
     "Id": 1099001,
     "Quality": "Green",
     "DispatchTitle": "Dream Interpretation",
