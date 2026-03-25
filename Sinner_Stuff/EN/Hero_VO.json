@@ -1497,6 +1497,254 @@
     "File": "vo_yugu_promotion_001",
     "Text": "I am deeply honored by your kind generosity."
   },
+  "110106100": {
+    "Sinner": "Yugu",
+    "Title": "Attire Obtained",
+    "File": "vo_yugu_wenjiyaotai_cacha_001",
+    "Text": "To tread the Dao's crest, to chase boundless rest, to clutch immortality, with endless quest—Mortals ascend my Kunlun Peak all for nothing more than these cliches. Yet you, I sense, seem unusual. Heh, intriguing…"
+  },
+  "110106101": {
+    "Sinner": "Yugu",
+    "Title": "Level Up",
+    "File": "vo_yugu_wenjiyaotai_levelup_001",
+    "Text": "Upon the bamboo slips, fresh omens bloom…"
+  },
+  "110106102": {
+    "Sinner": "Yugu",
+    "Title": "Greeting",
+    "File": "vo_yugu_wenjiyaotai_greeting_001",
+    "Text": "You came timely, or untimely I'd say, as the peach blossoms have just scattered, the Jade Pool Banquet about to begin. The celestial fruit you crave requires millennia more to wait... Why not stay by my side, to while away our timeless hours?"
+  },
+  "110106103": {
+    "Sinner": "Yugu",
+    "Title": "Pat Head",
+    "File": "vo_yugu_wenjiyaotai_head_001",
+    "Text": "To dare draw so close, taking such liberties... Have you heard of those mortal fables, that make you seek to be my presumptuous guest?"
+  },
+  "110106104": {
+    "Sinner": "Yugu",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_yugu_wenjiyaotai_body_001",
+    "Text": "For aeons, countless greedy souls, lured by the tales of eternal life, have trecked westward to pay me homage. Some perish on the way, others squander their fortunes, all becoming mere anecdotes in bizarre tales. Tell me, isn't their ebb and flow all but preordained?"
+  },
+  "110106105": {
+    "Sinner": "Yugu",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_yugu_wenjiyaotai_body_002",
+    "Text": "Mortals craving immortality, maidens stealing karmic threads, all believe my mercy breaks their bonds of fate. Heh, yet fate disposes—the longer their threads, the more knots they'd withstand..."
+  },
+  "110106106": {
+    "Sinner": "Yugu",
+    "Title": "Ordinary Contact 3",
+    "File": "vo_yugu_wenjiyaotai_hand_001",
+    "Text": "These scrolls hold all; greed, anger, twisted destinies, ruined splendors, all laid bare. Peer if you dare, but take heed, lest you lose your way… becoming just another stroke in these lurid lines."
+  },
+  "110106107": {
+    "Sinner": "Yugu",
+    "Title": "Ordinary Contact 4",
+    "File": "vo_yugu_wenjiyaotai_background_001",
+    "Text": "Mortals, bold in ignorance, dare to consume the flesh of divinities, to inherit Kunlun's eternity. Heh, these self-crowned lords of all, arrogant, but not without charm. I would like to witness, what shall remain of them in the end?"
+  },
+  "110106108": {
+    "Sinner": "Yugu",
+    "Title": "Idle",
+    "File": "vo_yugu_wenjiyaotai_idle_001",
+    "Text": "A day atop Kunlun peaks, a year down on mortal lands—Heh, when you return, seas shall rise as glen. Isn't that yet another form of immortality?"
+  },
+  "110106109": {
+    "Sinner": "Yugu",
+    "Title": "Special Attention",
+    "File": "vo_yugu_wenjiyaotai_specialattention_001",
+    "Text": "I wear no true form but only echoes of your minds. Tell me, do the death and calamity you spy... hold a haunting beauty in your eye?"
+  },
+  "11010701": {
+    "Sinner": "Rust",
+    "Title": "Obtain the Sinner",
+    "File": "vo_rust_cacha_001",
+    "Text": "The celebrated Hero of the West District, in the flesh... No? Does the title not suit you? My apologies. What name would you prefer to wear?"
+  },
+  "11010702": {
+    "Sinner": "Rust",
+    "Title": "Raise to Phase 1",
+    "File": "vo_rust_promotion_001",
+    "Text": "This reminds me of... my days in the Black Ring."
+  },
+  "11010703": {
+    "Sinner": "Rust",
+    "Title": "Raise to Phase 3",
+    "File": "vo_rust_promotion2_001",
+    "Text": "Flesh and memory are fleeting things, so easily borrowed or lost. But consciousness? That's the ultimate survivor... When the light pierces through, which shard of me is the real one looking back...?"
+  },
+  "11010704": {
+    "Sinner": "Rust",
+    "Title": "Level Start",
+    "File": "vo_rust_battlebegin_001",
+    "Text": "Let the performance begin."
+  },
+  "11010705": {
+    "Sinner": "Rust",
+    "Title": "Victory",
+    "File": "vo_rust_battlewin_001",
+    "Text": "Target's down. I could use a drink after that. Care to join?"
+  },
+  "11010706": {
+    "Sinner": "Rust",
+    "Title": "Lose Battles",
+    "File": "vo_rust_battlelose_001",
+    "Text": "Seems like we’ll have to take a detour to complete our mission."
+  },
+  "11010707": {
+    "Sinner": "Rust",
+    "Title": "Ultimate Skill",
+    "File": "bt_rust_uniqueskill_001",
+    "Text": "Hold still, my friend."
+  },
+  "11010708": {
+    "Sinner": "Rust",
+    "Title": "Die in Battles",
+    "File": "bt_rust_dead_001",
+    "Text": "Finally... an end that is truly my own."
+  },
+  "11010709": {
+    "Sinner": "Rust",
+    "Title": "Greeting",
+    "File": "vo_rust_greeting_001",
+    "Text": "Well, well... seems my target of the day has got their eyes on me already. Feeling sharp, I see. Perfect.",
+    "File 2": "vo_rust_greeting_001",
+    "Text 2": "Well, well... seems my target of the day has got their eyes on me already. Feeling sharp, I see. Perfect."
+  },
+  "11010710": {
+    "Sinner": "Rust",
+    "Title": "Conversation 1",
+    "File": "vo_rust_talk1_001",
+    "Text": "A bullet can make the most compelling point, if one doesn't mind the vulgar noise."
+  },
+  "11010711": {
+    "Sinner": "Rust",
+    "Title": "Conversation 2",
+    "File": "vo_rust_talk1_002",
+    "Text": "Fate is a story written for someone else. I, however, am in the business of editing the manuscript."
+  },
+  "11010712": {
+    "Sinner": "Rust",
+    "Title": "Conversation 3",
+    "File": "vo_rust_talk1_003",
+    "Text": "I caught a glimpse of you once, from afar. It left me wondering what kind of soul could hold such sway over that Legion leader. Now that you're here... the mystery is far more compelling up close. Shall we solve it together?"
+  },
+  "11010713": {
+    "Sinner": "Rust",
+    "Title": "Special Conversation 1",
+    "File": "vo_rust_talk2_001",
+    "Text": "Surviving the Black Ring? Heh, that was the easy part. The true trial begins after... when you must look in the mirror and learn to live with the stranger staring back."
+  },
+  "11010714": {
+    "Sinner": "Rust",
+    "Title": "Special Conversation 2",
+    "File": "vo_rust_talk2_002",
+    "Text": "The \"Ring\" stripped away my flesh, shattered my bones, and forced me to devour the bodies of others just to survive... So now, I live in a body that is both mine and not my own. Only my heartbeat reminds me that something of me still remains."
+  },
+  "11010715": {
+    "Sinner": "Rust",
+    "Title": "Special Conversation 3",
+    "File": "vo_rust_talk2_003",
+    "Text": "A foe like the Black Ring... I'm profoundly glad I don't have to face it alone. And having you here... makes all the difference."
+  },
+  "11010716": {
+    "Sinner": "Rust",
+    "Title": "Full Compliance",
+    "File": "vo_rust_obeyfull_001",
+    "Text": "I've built this persona from a chaos of other people's pasts—a useful tool, I admit. But you... you make me want to build something real. A memory that is genuinely mine, to hold every moment I never want to lose with you."
+  },
+  "11010717": {
+    "Sinner": "Rust",
+    "Title": "Idle",
+    "File": "vo_rust_idle_001",
+    "Text": "Do take your time. I'll happily wait with a good book or a martini."
+  },
+  "11010718": {
+    "Sinner": "Rust",
+    "Title": "Annoyed",
+    "File": "vo_rust_clicking_001",
+    "Text": "To have such... dedicated attention from you is an honor I scarcely deserve."
+  },
+  "11010719": {
+    "Sinner": "Rust",
+    "Title": "Special Attention",
+    "File": "vo_rust_specialattention_001",
+    "Text": "My friend, your gaze is a poor leash for a man like me. If you wish to keep me close, you'll need to use something far more tangible. Flesh, bones, or... your shackles."
+  },
+  "11010720": {
+    "Sinner": "Rust",
+    "Title": "Dispatch",
+    "File": "vo_rust_dispatch_001",
+    "Text": "As you wish."
+  },
+  "11010721": {
+    "Sinner": "Rust",
+    "Title": "Dispatch Complete",
+    "File": "vo_rust_dispatch2_001",
+    "Text": "Well? Does that satisfy you?"
+  },
+  "11010722": {
+    "Sinner": "Rust",
+    "Title": "Level Up",
+    "File": "vo_rust_levelup_002",
+    "Text": "Power. I know its touch well."
+  },
+  "11010723": {
+    "Sinner": "Rust",
+    "Title": "Pat Head",
+    "File": "vo_rust_head_001",
+    "Text": "A gentleman's hairstyle is his crown. I'm flattered by your attention, but let's keep it a visual appreciation."
+  },
+  "11010724": {
+    "Sinner": "Rust",
+    "Title": "Join Team",
+    "File": "bt_rust_jointeam_001",
+    "Text": "A bit of theatricality in battle? It's practically second nature."
+  },
+  "11010725": {
+    "Sinner": "Rust",
+    "Title": "Danger!",
+    "File": "bt_shin_danger_001",
+    "Text": "N/A"
+  },
+  "11010726": {
+    "Sinner": "Rust",
+    "Title": "Received Order",
+    "File": "bt_shin_getorder_001",
+    "Text": "N/A"
+  },
+  "11010727": {
+    "Sinner": "Rust",
+    "Title": "Attacked",
+    "File": "bt_shin_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11010728": {
+    "Sinner": "Rust",
+    "Title": "Normal Attack",
+    "File": "bt_shin_skill_001_1",
+    "Text": "N/A"
+  },
+  "11010729": {
+    "Sinner": "Rust",
+    "Title": "Confused",
+    "File": "vo_shin_doubt_001",
+    "Text": "N/A"
+  },
+  "11010730": {
+    "Sinner": "Rust",
+    "Title": "Shock",
+    "File": "vo_shin_shock_001",
+    "Text": "N/A"
+  },
+  "11010731": {
+    "Sinner": "Rust",
+    "Title": "Upgrade Skill",
+    "File": "vo_rust_promotion_001",
+    "Text": "This reminds me of... my days in the Black Ring."
+  },
   "11020101": {
     "Sinner": "Zoya",
     "Title": "Obtain the Sinner",
@@ -1802,6 +2050,156 @@
     "Title": "Special Attention",
     "File": "vo_zoya_zhigaojiaoshe_specialattention_001",
     "Text": "This outfit is not bad for a negotiation meeting, but I'm not going to move as freely in this if things get physical... Sigh...Well, it's a nice gift from you guys, after all."
+  },
+  "110201120": {
+    "Sinner": "Zoya",
+    "Title": "Attire Obtained",
+    "File": "vo_zoya_bingfengwangzuo_cacha_001",
+    "Text": "Before the moon dons its blood-red veil, the snow wolves sense footsteps across the ice. Come and witness the final change upon those frozen plains."
+  },
+  "110201121": {
+    "Sinner": "Zoya",
+    "Title": "Level Up",
+    "File": "vo_zoya_bingfengwangzuo_levelup_001",
+    "Text": "With you here, the snowstorm holds no fear."
+  },
+  "110201122": {
+    "Sinner": "Zoya",
+    "Title": "Greeting",
+    "File": "vo_zoya_bingfengwangzuo_greeting_001",
+    "Text": "Stand by my side, stay sharp. We'll be here for a while, until everything is settled..."
+  },
+  "110201123": {
+    "Sinner": "Zoya",
+    "Title": "Pat Head",
+    "File": "vo_zoya_bingfengwangzuo_head_001",
+    "Text": "Heh, I've always admired those with courage. So tell me, is this really as far as your ambition can take you?"
+  },
+  "110201124": {
+    "Sinner": "Zoya",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_zoya_bingfengwangzuo_talk_001",
+    "Text": "The wind sweeping across glaciers sounds different to everyone. Some hear the blessings of the departed, while others hear... the growl of death."
+  },
+  "110201125": {
+    "Sinner": "Zoya",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_zoya_bingfengwangzuo_talk_002",
+    "Text": "I've carved the names of everyone I've lost into the glaciers. They deserve to be remembered. Unless, of course, the ice melts in millennia. But by then, I suppose all of us will have been forgotten in time anyway."
+  },
+  "110201126": {
+    "Sinner": "Zoya",
+    "Title": "Ordinary Contact 3",
+    "File": "vo_zoya_bingfengwangzuo_lefthand_001",
+    "Text": "These snow plains have endured countless wars. Pristine snow was trampled. Glaciers were melted. Even the moon was stained with blood... But fortunately, we now possess the power to bring stability and peace to these frozen lands."
+  },
+  "110201127": {
+    "Sinner": "Zoya",
+    "Title": "Ordinary Contact 4",
+    "File": "vo_zoya_bingfengwangzuo_righthand_001",
+    "Text": "Snow wolves are the most loyal of creatures. They never betray their pack or their mates, and will forever protect and trust those they've chosen."
+  },
+  "110201128": {
+    "Sinner": "Zoya",
+    "Title": "Idle",
+    "File": "vo_zoya_bingfengwangzuo_idle_001",
+    "Text": "After tonight, the dawn that everyone has been longing for will surely rise."
+  },
+  "110201129": {
+    "Sinner": "Zoya",
+    "Title": "Annoyed",
+    "File": "vo_zoya_bingfengwangzuo_clicking_001",
+    "Text": "This better be just an accidental pat. You've got that big fluffy thing there for petting purposes, haven't you?"
+  },
+  "110201130": {
+    "Sinner": "Zoya",
+    "Title": "Special Attention",
+    "File": "vo_zoya_bingfengwangzuo_specialattention_001",
+    "Text": "No need to look so surprised. I'll rule over these snow plains, or did you expect less?"
+  },
+  "110201131": {
+    "Sinner": "Zoya",
+    "Title": "Join Team",
+    "File": "bt_zoya_bingfengwangzuo_jointeam_001",
+    "Text": "The snow has stopped. Now it's our turn."
+  },
+  "110201132": {
+    "Sinner": "Zoya",
+    "Title": "Level Start",
+    "File": "vo_zoya_bingfengwangzuo_battlebegin_001",
+    "Text": "Ready? Let's fight."
+  },
+  "110201133": {
+    "Sinner": "Zoya",
+    "Title": "Victory",
+    "File": "vo_zoya_bingfengwangzuo_battlewin_001",
+    "Text": "This glory belongs to the pack."
+  },
+  "110201134": {
+    "Sinner": "Zoya",
+    "Title": "Lose Battles",
+    "File": "vo_zoya_bingfengwangzuo_battlelose_001",
+    "Text": "The blizzard... is coming..."
+  },
+  "110201135": {
+    "Sinner": "Zoya",
+    "Title": "Ultimate Skill",
+    "File": "bt_zoya_bingfengwangzuo_uniqueskill_001",
+    "Text": "I will end this darkness!"
+  },
+  "110201136": {
+    "Sinner": "Zoya",
+    "Title": "Die in Battles",
+    "File": "bt_zoya_bingfengwangzuo_dead_001",
+    "Text": "The lone wolf may die, but the pack lives on..."
+  },
+  "110201137": {
+    "Sinner": "Zoya",
+    "Title": "Interaction 1",
+    "File": "vo_zoya_bingfengwangzuo_drag_001",
+    "4_Star_Text 1": "It's no sign of danger. It only means acceptance, for both me and you.",
+    "4_Star_Text 2": "Accepted... us?",
+    "4_Star_Text 3": "Only packs acknowledged by the blood moon can safely stand beneath its light.",
+    "4_Star_Text 4": "I've earned its recognition. It lets me rule these snow plains. And I... have chosen you... So... you'll be safe."
+  },
+  "110201138": {
+    "Sinner": "Zoya",
+    "Title": "Interaction 2",
+    "File": "vo_zoya_bingfengwangzuo_dragback_001",
+    "4_Star_Text 1": "Seems like you've taken a liking to this one.",
+    "4_Star_Text 2": "Who exactly are you talking to?",
+    "4_Star_Text 3": "I know *this person* is wonderful, but right now this time is just for the two of us.",
+    "4_Star_Text 4": "So, be good for me."
+  },
+  "110201139": {
+    "Sinner": "Zoya",
+    "Title": "Interaction 3",
+    "File": "vo_zoya_bingfengwangzuo_dragbody_001",
+    "4_Star_Text 1": "Where're you looking at? Over here!",
+    "4_Star_Text 2": "Heh, grown nimble, haven't you? It seems... you're getting stronger by the day.",
+    "4_Star_Text 3": "Don't worry, at the end of the ritual, I'll put the other half of the necklace on you. Be patient, for now."
+  },
+  "110201140": {
+    "Sinner": "Zoya",
+    "Title": "Interaction 4",
+    "File": "vo_zoya_bingfengwangzuo_draghand_001",
+    "4_Star_Text 1": "Where are you going?",
+    "4_Star_Text 2": "Just a bit further back.",
+    "4_Star_Text 3": "You bring hope to these snow plains too. You're formidable enough.",
+    "4_Star_Text 4": "So, you fully deserve to stand here by my side."
+  },
+  "110201141": {
+    "Sinner": "Zoya",
+    "Title": "Interaction 5",
+    "File": "vo_zoya_bingfengwangzuo_dragleg_001",
+    "4_Star_Text 1": "I, and the one I've chosen, take this oath together.",
+    "4_Star_Text 2": "I shall always maintain peace in these snow plains, treat equally every life that comes here, and should death eventually find me, I shall pass on the spirit of these lands to those who follow."
+  },
+  "110201142": {
+    "Sinner": "Zoya",
+    "Title": "Exit Interaction",
+    "File": "vo_zoya_dragreturn_001",
+    "Text": "The ritual is complete. The blood moon will fade. And we should... head home now."
   },
   "11020201": {
     "Sinner": "NOX",
@@ -3463,6 +3861,66 @@
     "File": "vo_jasmine_promotion_001",
     "Text": "Such a generous offer... How could I ever repay your kindness, I wonder?"
   },
+  "110208100": {
+    "Sinner": "Jasmine",
+    "Title": "Attire Obtained",
+    "File": "vo_jasmine_roufengyeying_cacha_001",
+    "Text": "For a very long time, I've been waiting alone in this palace. Today, I've finally heard your footsteps... I have been waiting for you for so long."
+  },
+  "110208101": {
+    "Sinner": "Jasmine",
+    "Title": "Upgrade",
+    "File": "vo_jasmine_roufengyeying_levelup_001",
+    "Text": "Thank you very much. My body feels lighter. I can swing even higher now."
+  },
+  "110208102": {
+    "Sinner": "Jasmine",
+    "Title": "Greeting",
+    "File": "vo_jasmine_roufengyeying_greeting_001",
+    "Text": "You've come to see me to relax, haven't you? Then... please come sit with me!"
+  },
+  "110208103": {
+    "Sinner": "Jasmine",
+    "Title": "Pat Head",
+    "File": "vo_jasmine_roufengyeying_head_001",
+    "Text": "Hah... It seems like whenever I see you, my ears can't stay still!"
+  },
+  "110208104": {
+    "Sinner": "Jasmine",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_jasmine_roufengyeying_body_001",
+    "Text": "This swing may look tiny, but I really love sitting on it. Every time I swing high in the air, I feel far, far away from all my troubles and sorrows."
+  },
+  "110208105": {
+    "Sinner": "Jasmine",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_jasmine_roufengyeying_body_002",
+    "Text": "I used to play games like this with my friends. We'd take turns pushing each other, laughing and horsing around... Where are they now... leaving me all alone... But now that you're by my side, I don't feel lonely anymore."
+  },
+  "110208106": {
+    "Sinner": "Jasmine",
+    "Title": "Ordinary Contact 3",
+    "File": "vo_jasmine_roufengyeying_leg_001",
+    "Text": "Ah! I'll lose my balance and fall... But even if I do... you'll catch me, right?"
+  },
+  "110208107": {
+    "Sinner": "Jasmine",
+    "Title": "Ordinary Contact 4",
+    "File": "vo_jasmine_roufengyeying_background_001",
+    "Text": "This curtain feels nice to touch, doesn't it? It's silk, so it's light and airy. Since you came, the curtain and swing have always been swaying gently. Is it the wind blowing them...?"
+  },
+  "110208108": {
+    "Sinner": "Jasmine",
+    "Title": "Idle",
+    "File": "vo_jasmine_roufengyeying_idle_001",
+    "Text": "What's on your mind? Mm... I won't disturb you. Please let me keep you company quietly."
+  },
+  "110208109": {
+    "Sinner": "Jasmine",
+    "Title": "Special Attention",
+    "File": "vo_jasmine_roufengyeying_specialattention_001",
+    "Text": "Don't worry, I will always be on the swing here, keeping you company... You just need to come see me from time to time. I'll never leave..."
+  },
   "11020901": {
     "Sinner": "Synex",
     "Title": "Obtain the Sinner",
@@ -3647,7 +4105,67 @@
     "Sinner": "Synex",
     "Title": "Upgrade Skill",
     "File": "vo_synex_promotion_001",
-    "Text": "N/A"
+    "Text": "I've worked so hard for you. Don't I deserve a little more fun in return?"
+  },
+  "110209100": {
+    "Sinner": "Synex",
+    "Title": "Attire Obtained",
+    "File": "vo_synex_jietoueba_cacha_001",
+    "Text": "Well, well... if it isn't our Chief. Getting lonely all by yourself? Come on, the night's still young. How about I spice it up for you? Let's hit the arcade. We can battle 'til dawn. Sound like a plan?"
+  },
+  "110209101": {
+    "Sinner": "Synex",
+    "Title": "Level Up",
+    "File": "vo_synex_jietoueba_levelup_001",
+    "Text": "Ding—Thanks for the coin. So, ready for another round?"
+  },
+  "110209102": {
+    "Sinner": "Synex",
+    "Title": "Greeting",
+    "File": "vo_synex_jietoueba_greeting_001",
+    "Text": "Ooh, perfect timing. It's still early before closing time... Feel like losing a game or two?"
+  },
+  "110209103": {
+    "Sinner": "Synex",
+    "Title": "Pat Head",
+    "File": "vo_synex_jietoueba_head_001",
+    "Text": "Ah-ah-ah. No touching the opponent. Trying to cheat, little Chief? How desperate."
+  },
+  "110209104": {
+    "Sinner": "Synex",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_synex_jietoueba_body_001",
+    "Text": "Stop looking. It's just the two of us in this place today... Heh, those fools kept interrupting our game, so I had my \"little friends\" clear the place out for me!"
+  },
+  "110209105": {
+    "Sinner": "Synex",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_synex_jietoueba_body_002",
+    "Text": "\"Down, forward, down, forward, and punch.\" Heh, that's a secret trick, and I invented a new combo based on that. Faster. Deadlier. Wanna learn? Then... how about begging me for it?"
+  },
+  "110209106": {
+    "Sinner": "Synex",
+    "Title": "Ordinary Contact 3",
+    "File": "vo_synex_jietoueba_leg_001",
+    "Text": "Someone got mad that I can land a seven-hit combo with my tail, so he challenged me. What a sore loser. It's part of my body! If he could do it with his head, I wouldn't care!"
+  },
+  "110209107": {
+    "Sinner": "Synex",
+    "Title": "Ordinary Contact 4",
+    "File": "vo_synex_jietoueba_background_001",
+    "Text": "\"Aurum Secretum Monsters vs. Electronic Ghosts.\" Cool name, right? I just hit stage nine. Wanna jump in and fight the boss for me?"
+  },
+  "110209108": {
+    "Sinner": "Synex",
+    "Title": "Idle",
+    "File": "vo_synex_jietoueba_idle_001",
+    "Text": "Hey! Snap out of it! You're not going AFK on me, are you?"
+  },
+  "110209109": {
+    "Sinner": "Synex",
+    "Title": "Special Attention",
+    "File": "vo_synex_jietoueba_specialattention_001",
+    "Text": "Done staring? Finally decided to play? Here, I saved you a seat. Two-player mode, nightmare difficulty. And you're not sneaking away early tonight."
   },
   "11030101": {
     "Sinner": "Bai Yi",
@@ -6387,6 +6905,204 @@
     "File": "vo_ceto_promotion_001",
     "Text": "Only the toughest and most heartless can survive the Black Tide."
   },
+  "11031201": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Obtain the Sinner",
+    "File": "vo_hitomi_cacha_001",
+    "Text": "I'm Hitomi. I look forward to working with you!"
+  },
+  "11031202": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Raise to Phase 1",
+    "File": "vo_hitomi_promotion_001",
+    "Text": "Not by a long shot! The real show is just starting!"
+  },
+  "11031203": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Raise to Phase 3",
+    "File": "vo_hitomi_promotion2_001",
+    "Text": "I've never felt more ready! Nothing can stop us this time!"
+  },
+  "11031204": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Level Start",
+    "File": "vo_hitomi_battlebegin_001",
+    "Text": "Let's stay sharp, okay?"
+  },
+  "11031205": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Victory",
+    "File": "vo_hitomi_battlewin_001",
+    "Text": "Quite the team, aren't we?"
+  },
+  "11031206": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Lose Battles",
+    "File": "vo_hitomi_battlelose_001",
+    "Text": "It's not over... Next time, I will get it right."
+  },
+  "11031207": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Ultimate Skill",
+    "File": "bt_hitomi_uniqueskill_001",
+    "Text": "Try and keep up if you can!"
+  },
+  "11031208": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Die in Battles",
+    "File": "bt_hitomi_dead_001",
+    "Text": "Everyone... I'm so sorry..."
+  },
+  "11031209": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Greeting",
+    "File": "vo_hitomi_greeting_001",
+    "Text": "Feeling great! Nothing will slip by me now."
+  },
+  "11031210": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Conversation 1",
+    "File": "vo_hitomi_talk1_001",
+    "Text": "Someone's cheerful. Everything's going your way today?"
+  },
+  "11031211": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Conversation 2",
+    "File": "vo_hitomi_talk1_002",
+    "Text": "Quite the team, aren't we?"
+  },
+  "11031212": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Conversation 3",
+    "File": "vo_hitomi_talk1_003",
+    "Text": "You can count on me. I won't let you down!"
+  },
+  "11031213": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Special Conversation 1",
+    "File": "vo_hitomi_talk2_001",
+    "Text": "Feeling like we're in sync?"
+  },
+  "11031214": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Special Conversation 2",
+    "File": "vo_hitomi_talk2_002",
+    "Text": "There’s never a dull moment when I'm with you."
+  },
+  "11031215": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Special Conversation 3",
+    "File": "vo_hitomi_talk2_003",
+    "Text": "Let's stay sharp, okay?"
+  },
+  "11031216": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Full Compliance",
+    "File": "vo_hitomi_obeyfull_001",
+    "Text": "Have I earned a bit more of your trust now?"
+  },
+  "11031217": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Idle",
+    "File": "vo_hitomi_idle_001",
+    "Text": "It's boring just waiting around, you know."
+  },
+  "11031218": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Annoyed",
+    "File": "vo_hitomi_clicking_001",
+    "Text": "Seriously... you're so clingy!"
+  },
+  "11031219": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Special Attention",
+    "File": "vo_hitomi_specialattention_001",
+    "Text": "That means a lot. I promise, I won't let you down."
+  },
+  "11031220": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Dispatch",
+    "File": "vo_hitomi_dispatch_001",
+    "Text": "You can count on me. I won't let you down!"
+  },
+  "11031221": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Dispatch Complete",
+    "File": "vo_hitomi_dispatch2_001",
+    "Text": "I'm back! So, did I live up to your expectations?"
+  },
+  "11031222": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Level Up",
+    "File": "vo_hitomi_levelup_002",
+    "Text": "Feeling great! Nothing will slip by me now."
+  },
+  "11031223": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Pat Head",
+    "File": "vo_hitomi_head_001",
+    "Text": "Hmm? Do you need something?"
+  },
+  "11031224": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Join Team",
+    "File": "bt_hitomi_jointeam_001",
+    "Text": "Got it! I'm on the move!"
+  },
+  "11031225": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Upgrade Skill",
+    "File": "vo_hitomi_promotion_001",
+    "Text": "Not by a long shot! The real show is just starting!"
+  },
+  "110312100": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Attire Obtained",
+    "File": "vo_hitomi_yumunihong_cacha_001",
+    "Text": "Well? Does it suit me? Don't just stand there staring..."
+  },
+  "110312101": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Level Up",
+    "File": "vo_hitomi_yumunihong_levelup_001",
+    "Text": "You can place your trust in my strength."
+  },
+  "110312102": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Greeting",
+    "File": "vo_hitomi_yumunihong_greeting_001",
+    "Text": "There you are. I've been waiting. So, what's our plan for today?"
+  },
+  "110312103": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_hitomi_yumunihong_talk_001",
+    "Text": "Wow... Look at that... It takes me back. Dad used to show me beautiful views just like this."
+  },
+  "110312104": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_hitomi_yumunihong_talk_002",
+    "Text": "Hey, listen! You won't believe what happened!"
+  },
+  "110312105": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Idle",
+    "File": "vo_hitomi_yumunihong_idle_001",
+    "Text": "Hmph. And here I am, being ignored because someone is too busy."
+  },
+  "110312106": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Annoyed",
+    "File": "vo_hitomi_yumunihong_clicking_001",
+    "Text": "Sigh... You're teasing me again, aren't you?"
+  },
+  "110312107": {
+    "Sinner": "Kisugi Hitomi",
+    "Title": "Special Attention",
+    "File": "vo_hitomi_yumunihong_specialattention_001",
+    "Text": "...Thank you. You're making me blush."
+  },
   "11040101": {
     "Sinner": "Summer",
     "Title": "Obtain the Sinner",
@@ -8855,6 +9571,66 @@
     "File": "vo_hypatia_promotion_001",
     "Text": "Unchecked power will only lead to destruction."
   },
+  "110409100": {
+    "Sinner": "Hypatia",
+    "Title": "Attire Obtained",
+    "File": "vo_hypatia_yeyinjinqiang_cacha_001",
+    "Text": "\"Where the quicksilver ring glows, there the Golden Rose blooms.\" Since you solved my riddle and arrived on time... I should repay you with courage and determination. Take me with you, let's go somewhere far, far away."
+  },
+  "110409101": {
+    "Sinner": "Hypatia",
+    "Title": "Upgrade",
+    "File": "vo_hypatia_yeyinjinqiang_levelup_001",
+    "Text": "The night wind goes wherever it wants..."
+  },
+  "110409102": {
+    "Sinner": "Hypatia",
+    "Title": "Greeting",
+    "File": "vo_hypatia_yeyinjinqiang_greeting_001",
+    "Text": "I knew from the start that you'd find this place without any hints or directions. After all... this is where we first met."
+  },
+  "110409103": {
+    "Sinner": "Hypatia",
+    "Title": "Pat Head",
+    "File": "vo_hypatia_yeyinjinqiang_head_001",
+    "Text": "I've never attended a ball with my hair styled like this, but things are different now. After tonight, my hair will no longer be a tool for my family. Instead, it'll be a canvas for you and me."
+  },
+  "110409104": {
+    "Sinner": "Hypatia",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_hypatia_yeyinjinqiang_body_001",
+    "Text": "I've often wondered, why you? Why, of all people, you? The two of us are like heaven and earth, like oil and water. We shouldn't have chosen each other. But when I think of you, all the \"duties\" I was bound to fade from my mind... Perhaps that's the answer I sought all along."
+  },
+  "110409105": {
+    "Sinner": "Hypatia",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_hypatia_yeyinjinqiang_body_002",
+    "Text": "As a child, I often got lost in the mansion. I slowly realized this place wasn't made to guide people home. Yet you... always found me, leaping past walls wreathed in thorns to take my hand."
+  },
+  "110409106": {
+    "Sinner": "Hypatia",
+    "Title": "Ordinary Contact 3",
+    "File": "vo_hypatia_yeyinjinqiang_leg_001",
+    "Text": "Long dresses and high heels hinder movement, yet they symbolize status. My family never allowed me to go anywhere deemed unsuitable for such attire. I foolishly believed this was because they loved me—until I met you. Only then did I realize that a jail was not the only way to protect."
+  },
+  "110409107": {
+    "Sinner": "Hypatia",
+    "Title": "Ordinary Contact 4",
+    "File": "vo_hypatia_yeyinjinqiang_background_001",
+    "Text": "This mansion has contained my entire life. Leaving it is no easy decision for me... But you've made me believe that a rose by any other name would smell as sweet, and that even without my family, I can still fulfill my true potential."
+  },
+  "110409108": {
+    "Sinner": "Hypatia",
+    "Title": "Idle",
+    "File": "vo_hypatia_yeyinjinqiang_idle_001",
+    "Text": "The guards will be back soon. Are you sure we should just keep staring at the sky like this?"
+  },
+  "110409109": {
+    "Sinner": "Hypatia",
+    "Title": "Special Attention",
+    "File": "vo_hypatia_yeyinjinqiang_specialattention_001",
+    "Text": "The look in your eyes tells me you would protect me no matter what. If I were to leap from here, I know you would catch me in your warm embrace..."
+  },
   "11041001": {
     "Sinner": "Augustus",
     "Title": "Obtain the Sinner",
@@ -11087,6 +11863,66 @@
     "File": "vo_vautour_yiqingmian_specialattention_001",
     "Text": "By merchant customs, anyone who visits Vautour Bleu's territory must leave something behind. But since you're skilled in neither fine brushwork nor the art of tea... Why not serve as my prized trophy instead? Here, keep me company while I rest."
   },
+  "110508110": {
+    "Sinner": "Vautour Bleu",
+    "Title": "Attire Obtained",
+    "File": "vo_vautour_yeseruyun_cacha_001",
+    "Text": "I see you've been particularly compliant today. How about I reward you with a relaxing petal bath? Consider it... my unconditional favoritism toward those who behave."
+  },
+  "110508111": {
+    "Sinner": "Vautour Bleu",
+    "Title": "Upgrade",
+    "File": "vo_vautour_yeseruyun_levelup_001",
+    "Text": "You can repay me later. For now, just indulge yourself... the night is still young."
+  },
+  "110508112": {
+    "Sinner": "Vautour Bleu",
+    "Title": "Greeting",
+    "File": "vo_vautour_yeseruyun_greeting_001",
+    "Text": "The evening breeze is just blowing through the window curtains, and the other side of the river is lit up just right... You always manage to appear when my heart is at its softest."
+  },
+  "110508113": {
+    "Sinner": "Vautour Bleu",
+    "Title": "Pat Head",
+    "File": "vo_vautour_yeseruyun_head_001",
+    "Text": "Such a gesture tends to make people overthink... or was that on purpose?"
+  },
+  "110508114": {
+    "Sinner": "Vautour Bleu",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_vautour_yeseruyun_body_001",
+    "Text": "I've put quite a bit of thought into the decorations. The candles, the scenery, and the wine glasses. The only thing missing is someone next to me in the bathtub. I've tested the water for you. It's just right..."
+  },
+  "110508115": {
+    "Sinner": "Vautour Bleu",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_vautour_yeseruyun_body_002",
+    "Text": "Some call this city romantic, but when night falls, you're the only one willing to spend time with me under the stars. I should thank you for honoring the invitation. At least you prove that romance is not dead in this metropolis."
+  },
+  "110508116": {
+    "Sinner": "Vautour Bleu",
+    "Title": "Ordinary Contact 3",
+    "File": "vo_vautour_yeseruyun_cigarette_001",
+    "Text": "It's getting mistier and steamier in here. Do I look like I'm behind a veil to you now? Heh... Haziness and distance often cloud one's judgment."
+  },
+  "110508117": {
+    "Sinner": "Vautour Bleu",
+    "Title": "Ordinary Contact 4",
+    "File": "vo_vautour_yeseruyun_wineglass_001",
+    "Text": "Would you believe me if I told you it was black tea in the glass? Be wise, don't drink too much. Young ones like you can easily get *reckless* after a glass."
+  },
+  "110508118": {
+    "Sinner": "Vautour Bleu",
+    "Title": "Idle",
+    "File": "vo_vautour_yeseruyun_idle_001",
+    "Text": "What a beautiful night. So beautiful it doesn't seem real. No wonder so many work so hard just to get a glimpse of this..."
+  },
+  "110508119": {
+    "Sinner": "Vautour Bleu",
+    "Title": "Special Attention",
+    "File": "vo_vautour_yeseruyun_specialattention_001",
+    "Text": "I heard the fragrance lingers on your skin after a rose bath. Want to test if it's true with me?"
+  },
   "11050901": {
     "Sinner": "Yingying",
     "Title": "Obtain the Sinner",
@@ -11538,6 +12374,450 @@
     "Title": "Upgrade Skill",
     "File": "vo_milly_promotion_001",
     "Text": "In my homeland, people often say this you see—when you truly care for someone, you can't help but save all the best things for them."
+  },
+  "110510100": {
+    "Sinner": "Milly",
+    "Title": "Attire Obtained",
+    "File": "vo_milly_liuguanghuaying_cacha_001",
+    "Text": "So this is an Eastian photo studio, huh? It's completely different from the ones I've seen! Oh, the prettiest outfits, the rarest shoots! You'll definitely come support my DisCity debut, right, darling?"
+  },
+  "110510101": {
+    "Sinner": "Milly",
+    "Title": "Level Up",
+    "File": "vo_milly_liuguanghuaying_levelup_001",
+    "Text": "Let's take another shot! I can never have too many, just like the compliments you give me."
+  },
+  "110510102": {
+    "Sinner": "Milly",
+    "Title": "Greeting",
+    "File": "vo_milly_liuguanghuaying_greeting_001",
+    "Text": "Welcome to Milly's photo session! So many people came to visit the set today, but the only one I truly care about... is you, of course."
+  },
+  "110510103": {
+    "Sinner": "Milly",
+    "Title": "Pat Head",
+    "File": "vo_milly_liuguanghuaying_head_001",
+    "Text": "Hehe, styling check complete! Will I be the most dazzling darling in your lens tonight?"
+  },
+  "110510104": {
+    "Sinner": "Milly",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_milly_liuguanghuaying_body_001",
+    "Text": "Have you ever fixed your gaze on one person, even when surrounded by all the flashes and cameras? Hehe, I do that often... watching you!"
+  },
+  "110510105": {
+    "Sinner": "Milly",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_milly_liuguanghuaying_body_002",
+    "Text": "Ah, photos... They capture people's most beautiful moments, so even when lovers are miles apart, these images can ease their yearning... Back then, that's how I looked at you and thought of you as well... Darling, when I'm not around, do you also look at my photos with me in your thoughts?"
+  },
+  "110510106": {
+    "Sinner": "Milly",
+    "Title": "Ordinary Contact 3",
+    "File": "vo_milly_liuguanghuaying_leg_001",
+    "Text": "Does it look good? Hehe, they said this dress was brought from Eastia, a look adored by all the big celebrities! So... when I'm in this dress, do I also shine like a star in your heart?"
+  },
+  "110510107": {
+    "Sinner": "Milly",
+    "Title": "Ordinary Contact 4",
+    "File": "vo_milly_liuguanghuaying_background_001",
+    "Text": "Everything here looks like a page torn out of an old magazine. Did people in the past also wait by the phone all day like me? Waiting eagerly all the time... hoping to hear their beloved's voice someday."
+  },
+  "110510108": {
+    "Sinner": "Milly",
+    "Title": "Idle",
+    "File": "vo_milly_liuguanghuaying_idle_001",
+    "Text": "Mmm... I've struck too many poses, I'm exhausted... Hmm, would be nice if someone could come give me a hug..."
+  },
+  "110510109": {
+    "Sinner": "Milly",
+    "Title": "Special Attention",
+    "File": "vo_milly_liuguanghuaying_specialattention_001",
+    "Text": "Be patient! The shoot will be over soon, and then it'll be *private time* for just the two of us."
+  },
+  "11051101": {
+    "Sinner": "Hilda",
+    "Title": "Obtain the Sinner",
+    "File": "vo_hilda_cacha_001",
+    "Text": "Thank you for your kind reception. For me, this simply means moving from my old cage to a new one."
+  },
+  "11051102": {
+    "Sinner": "Hilda",
+    "Title": "Raise to Phase 1",
+    "File": "vo_hilda_promotion_001",
+    "Text": "If it's your request, I can accept it."
+  },
+  "11051103": {
+    "Sinner": "Hilda",
+    "Title": "Raise to Phase 3",
+    "File": "vo_hilda_promotion2_001",
+    "Text": "...So this means I can't even die, can I?"
+  },
+  "11051104": {
+    "Sinner": "Hilda",
+    "Title": "Level Start",
+    "File": "vo_hilda_battlebegin_001",
+    "Text": "I will complete the mission."
+  },
+  "11051105": {
+    "Sinner": "Hilda",
+    "Title": "Victory",
+    "File": "vo_hilda_battlewin_001",
+    "Text": "Keep solving puzzles. Keep gaining victories."
+  },
+  "11051106": {
+    "Sinner": "Hilda",
+    "Title": "Lose Battles",
+    "File": "vo_hilda_battlelose_001",
+    "Text": "Mole detected. Operation aborted."
+  },
+  "11051107": {
+    "Sinner": "Hilda",
+    "Title": "Ultimate Skill",
+    "File": "bt_hilda_uniqueskill_001",
+    "Text": "I will unveil the truth for you."
+  },
+  "11051108": {
+    "Sinner": "Hilda",
+    "Title": "Die in Battles",
+    "File": "bt_hilda_dead_001",
+    "Text": "This is the promised... death."
+  },
+  "11051109": {
+    "Sinner": "Hilda",
+    "Title": "Greeting",
+    "File": "vo_hilda_greeting_001",
+    "Text": "You seem less busy today. Is it why you've come to see me?"
+  },
+  "11051110": {
+    "Sinner": "Hilda",
+    "Title": "Conversation 1",
+    "File": "vo_hilda_talk1_001",
+    "Text": "My homeland has perished, so why should I continue to live? Can you give me an answer?"
+  },
+  "11051111": {
+    "Sinner": "Hilda",
+    "Title": "Conversation 2",
+    "File": "vo_hilda_talk1_002",
+    "Text": "I can see those radio waves drifting through the air, inscribed as epitaphs for every era."
+  },
+  "11051112": {
+    "Sinner": "Hilda",
+    "Title": "Conversation 3",
+    "File": "vo_hilda_talk1_003",
+    "Text": "When I was young, I once told my friends, \"Let's build a better country together.\" Everyone was laughing back then. We were so foolish, so naive. We still dreamed and hoped for the future."
+  },
+  "11051113": {
+    "Sinner": "Hilda",
+    "Title": "Special Conversation 1",
+    "File": "vo_hilda_talk2_001",
+    "Text": "Even if you stare at me like that, I won't tell you. That is my deepest... secret..."
+  },
+  "11051114": {
+    "Sinner": "Hilda",
+    "Title": "Special Conversation 2",
+    "File": "vo_hilda_talk2_002",
+    "Text": "I am a stubborn ghost from a bygone era. Without your help, I would never have adapted to this new world."
+  },
+  "11051115": {
+    "Sinner": "Hilda",
+    "Title": "Special Conversation 3",
+    "File": "vo_hilda_talk2_003",
+    "Text": "I miss my homeland, where cornflowers swayed in the breeze. After school, we would stroll along the field ridges under the evening star, gazing at the horizon as if peering into our distant future."
+  },
+  "11051116": {
+    "Sinner": "Hilda",
+    "Title": "Full Compliance",
+    "File": "vo_hilda_obeyfull_001",
+    "Text": "Time flies. We've been next to each other for so long... Chief, I still wish to die, but I promise you, not yet. When that time comes, I want you to be the one to... dissect my brain and my memories. Let me bare my thoughts and secrets completely before you. Let me give you my everything."
+  },
+  "11051117": {
+    "Sinner": "Hilda",
+    "Title": "Idle",
+    "File": "vo_hilda_idle_001",
+    "Text": "I had a long, long dream in the dark... until someone tapped on the glass and woke me up... Ever since then, the true cipher has not been in radio waves, but in that dream where raindrops were pattering on glass."
+  },
+  "11051118": {
+    "Sinner": "Hilda",
+    "Title": "Annoyed",
+    "File": "vo_hilda_clicking_001",
+    "Text": "I'm not used to being touched like this..."
+  },
+  "11051119": {
+    "Sinner": "Hilda",
+    "Title": "Special Attention",
+    "File": "vo_hilda_specialattention_001",
+    "Text": "Wind, clouds, rain, snow—these are all ciphers written by nature. Decode them, and you can understand the world. Gazes, pulses, breaths, heartbeats... these are the ciphers of humanity. Decode them, and you can understand a person. Yes, I am watching you. I am... trying to understand you."
+  },
+  "11051120": {
+    "Sinner": "Hilda",
+    "Title": "Dispatch",
+    "File": "vo_hilda_dispatch_001",
+    "Text": "Intelligence gathering is a basic skill for any agent... Leave it to me."
+  },
+  "11051121": {
+    "Sinner": "Hilda",
+    "Title": "Dispatch Complete",
+    "File": "vo_hilda_dispatch2_001",
+    "Text": "This should be enough."
+  },
+  "11051122": {
+    "Sinner": "Hilda",
+    "Title": "Level Up",
+    "File": "vo_hilda_levelup_002",
+    "Text": "Is it worth it... to invest so much in me?"
+  },
+  "11051123": {
+    "Sinner": "Hilda",
+    "Title": "Pat Head",
+    "File": "vo_hilda_head_001",
+    "Text": "Secrets should vanish in the wind, just as rain disappears into water."
+  },
+  "11051124": {
+    "Sinner": "Hilda",
+    "Title": "Join Team",
+    "File": "bt_hilda_jointeam_001",
+    "Text": "What should I be fighting for?"
+  },
+  "11051125": {
+    "Sinner": "Hilda",
+    "Title": "Danger!",
+    "File": "bt_hilda_danger_001",
+    "Text": "Careful."
+  },
+  "11051126": {
+    "Sinner": "Hilda",
+    "Title": "Received Order",
+    "File": "bt_hilda_getorder_001",
+    "Text": "Copy."
+  },
+  "11051127": {
+    "Sinner": "Hilda",
+    "Title": "Attacked",
+    "File": "bt_hilda_gethit_001_1",
+    "Text": "(Grunts)"
+  },
+  "11051128": {
+    "Sinner": "Hilda",
+    "Title": "Normal Attack",
+    "File": "bt_hilda_skill_001_1",
+    "Text": "The slip of paper rustles—the faint flutter of Morse code."
+  },
+  "11051129": {
+    "Sinner": "Hilda",
+    "Title": "Confused",
+    "File": "vo_hilda_doubt_001",
+    "Text": "Hmm? (Rising tone, raising eyebrows)"
+  },
+  "11051130": {
+    "Sinner": "Hilda",
+    "Title": "Shock",
+    "File": "vo_hilda_shock_001",
+    "Text": "Hmm? (Falling tone, furrowing eyebrows)"
+  },
+  "11051131": {
+    "Sinner": "Hilda",
+    "Title": "Upgrade Skill",
+    "File": "vo_hilda_promotion_001",
+    "Text": "If it's your request, I can accept it."
+  },
+  "11051201": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Obtain the Sinner",
+    "File": "vo_rui_cacha_001",
+    "Text": "I'm Rui. You've come for me at last."
+  },
+  "11051202": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Raise to Phase 1",
+    "File": "vo_rui_promotion_001",
+    "Text": "I'm beginning to see it more clearly."
+  },
+  "11051203": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Raise to Phase 3",
+    "File": "vo_rui_promotion2_001",
+    "Text": "I've got a brilliant plan. Follow my lead."
+  },
+  "11051204": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Level Start",
+    "File": "vo_rui_battlebegin_001",
+    "Text": "Don't push yourself too hard, okay?"
+  },
+  "11051205": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Victory",
+    "File": "vo_rui_battlewin_001",
+    "Text": "Well done. Is everyone alright?"
+  },
+  "11051206": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Lose Battles",
+    "File": "vo_rui_battlelose_001",
+    "Text": "What a pity. Let's go back to the drawing board."
+  },
+  "11051207": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Ultimate Skill",
+    "File": "bt_rui_uniqueskill_001",
+    "Text": "Flawless execution. Just as planned."
+  },
+  "11051208": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Die in Battles",
+    "File": "bt_rui_dead_001",
+    "Text": "See it through for me..."
+  },
+  "11051209": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Greeting",
+    "File": "vo_rui_greeting_001",
+    "Text": "I'm beginning to see it more clearly."
+  },
+  "11051210": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Conversation 1",
+    "File": "vo_rui_talk1_001",
+    "Text": "You seem to be in a good mood. Did... something good happen?"
+  },
+  "11051211": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Conversation 2",
+    "File": "vo_rui_talk1_002",
+    "Text": "I've got a brilliant plan."
+  },
+  "11051212": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Conversation 3",
+    "File": "vo_rui_talk1_003",
+    "Text": "Follow my lead."
+  },
+  "11051213": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Special Conversation 1",
+    "File": "vo_rui_talk2_001",
+    "Text": "Flawless execution."
+  },
+  "11051214": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Special Conversation 2",
+    "File": "vo_rui_talk2_002",
+    "Text": "Just as planned."
+  },
+  "11051215": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Special Conversation 3",
+    "File": "vo_rui_talk2_003",
+    "Text": "The pieces are falling into place."
+  },
+  "11051216": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Full Compliance",
+    "File": "vo_rui_obeyfull_001",
+    "Text": "Aren't you full of surprises? I appreciate the initiative."
+  },
+  "11051217": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Idle",
+    "File": "vo_rui_idle_001",
+    "Text": "You've come for me at last."
+  },
+  "11051218": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Annoyed",
+    "File": "vo_rui_clicking_001",
+    "Text": "Oh? Such persistent attention."
+  },
+  "11051219": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Special Attention",
+    "File": "vo_rui_specialattention_001",
+    "Text": "Such an honor. I'll do my best to live up to it."
+  },
+  "11051220": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Dispatch",
+    "File": "vo_rui_dispatch_001",
+    "Text": "Sure, I was getting a little bored anyway."
+  },
+  "11051221": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Dispatch Complete",
+    "File": "vo_rui_dispatch2_001",
+    "Text": "Target secured. The next move... is your call."
+  },
+  "11051222": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Level Up",
+    "File": "vo_rui_levelup_002",
+    "Text": "Hehe, the pieces are falling into place."
+  },
+  "11051223": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Pat Head",
+    "File": "vo_rui_head_001",
+    "Text": "Oh my... are you sure you've got the right person?"
+  },
+  "11051224": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Join Team",
+    "File": "bt_rui_jointeam_001",
+    "Text": "Understood. Let's go, then!"
+  },
+  "11051225": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Upgrade Skill",
+    "File": "vo_rui_promotion_001",
+    "Text": "I'm beginning to see it more clearly."
+  },
+  "110512100": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Attire Obtained",
+    "File": "vo_rui_weixunyese_cacha_001",
+    "Text": "Be honest now... do you think it fits me?"
+  },
+  "110512101": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Level Up",
+    "File": "vo_rui_weixunyese_levelup_001",
+    "Text": "You won't let me down, will you?"
+  },
+  "110512102": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Greeting",
+    "File": "vo_rui_weixunyese_greeting_001",
+    "Text": "Hehe, I'm glad you're here."
+  },
+  "110512103": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_rui_weixunyese_talk_001",
+    "Text": "Just staring at me won't get you anywhere, you know."
+  },
+  "110512104": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_rui_weixunyese_talk_002",
+    "Text": "Can you hear me? Hehe... look at you... so cute."
+  },
+  "110512105": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Idle",
+    "File": "vo_rui_weixunyese_idle_001",
+    "Text": "This night is taking a pleasant turn... Not bad at all."
+  },
+  "110512106": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Annoyed",
+    "File": "vo_rui_weixunyese_clicking_001",
+    "Text": "Hehe... Just how much of that is a joke, I wonder."
+  },
+  "110512107": {
+    "Sinner": "Kisugi Rui",
+    "Title": "Special Attention",
+    "File": "vo_rui_weixunyese_specialattention_001",
+    "Text": "We've bridged quite a distance tonight, you and I."
   },
   "11060101": {
     "Sinner": "Hamel",
@@ -12574,6 +13854,54 @@
     "Title": "Special Attention",
     "File": "vo_cab_gongzui_specialattention_001",
     "Text": "Why are you tracing my footsteps so closely? Is it out of a trust for my connoisseurship, or just a sense of duty to chaperone me throughout the night. Here, take my hand, stay by my side, and see what I am seeing..."
+  },
+  "110603120": {
+    "Sinner": "Cabernet",
+    "Title": "Attire Obtained",
+    "File": "vo_cab_yanhongxuyan_cacha_001",
+    "Text": "Tonight's feast is incomplete. We need a guest who truly knows how to savor the experience. I'm curious to know... beneath all those blooming layers of crimson, what will you taste?"
+  },
+  "110603121": {
+    "Sinner": "Cabernet",
+    "Title": "Level Up",
+    "File": "vo_cab_yanhongxuyan_levelup_001",
+    "Text": "The fuller the fruit, the more it yearns for that moment when teeth break through its ripe skin. Sweetness and pain—both are its destiny."
+  },
+  "110603122": {
+    "Sinner": "Cabernet",
+    "Title": "Greeting",
+    "File": "vo_cab_yanhongxuyan_greeting_001",
+    "Text": "The candles breathe, the juices drip, souls tremble... How wonderful. I do so love this hushed madness."
+  },
+  "110603123": {
+    "Sinner": "Cabernet",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_cab_yanhongxuyan_body_001",
+    "Text": "Even the hardest stone, even the most devout soul will crack—soak them in desire long enough, and sweet nectar will eventually spill from them. So these statues before us are nothing more than memorials of the saints' lies."
+  },
+  "110603124": {
+    "Sinner": "Cabernet",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_cab_yanhongxuyan_body_002",
+    "Text": "What an exquisite creation... Beneath that hard shell lies delightfully crystalline flesh. Only with patience and delicate precision can one cut it open to taste the sweetness that bursts forth. Hehe... How remarkably similar this process is to savoring a flawless soul."
+  },
+  "110603125": {
+    "Sinner": "Cabernet",
+    "Title": "Idle",
+    "File": "vo_cab_yanhongxuyan_idle_001",
+    "Text": "Patience is a necessary ritual before savoring the most sublime flavors..."
+  },
+  "110603126": {
+    "Sinner": "Cabernet",
+    "Title": "Annoyed",
+    "File": "vo_cab_yanhongxuyan_clicking_001",
+    "Text": "A hasty touch is the most common folly at any feast. Heh... but that's precisely what makes desire so honest."
+  },
+  "110603127": {
+    "Sinner": "Cabernet",
+    "Title": "Special Attention",
+    "File": "vo_cab_yanhongxuyan_specialattention_001",
+    "Text": "With you watching me like that, I can hardly tell—are you admiring me, or are you begging to be savored?"
   },
   "11060401": {
     "Sinner": "Coquelic",
@@ -14141,6 +15469,66 @@
     "File": "vo_parfait_promotion_001",
     "Text": "Thank you for your trust. The \"Parfait\" concept stock is precisely one that repeatedly hits the ceiling and doubles in value."
   },
+  "110609100": {
+    "Sinner": "Parfait",
+    "Title": "Attire Obtained",
+    "File": "vo_parfait_guiyishalong_cacha_001",
+    "Text": "I always feel pity for those young people who come to me with their old instruments and beliefs. If you, like them, are here to beg for my help, then rest assured—what I offer is not charity, but what you need most: appreciation."
+  },
+  "110609101": {
+    "Sinner": "Parfait",
+    "Title": "Level Up",
+    "File": "vo_parfait_guiyishalong_levelup_001",
+    "Text": "Mmm... This is true art."
+  },
+  "110609102": {
+    "Sinner": "Parfait",
+    "Title": "Greeting",
+    "File": "vo_parfait_guiyishalong_greeting_001",
+    "Text": "You're here? Please, take a seat. Don't be so restrained—whether you're holding a bill or sheet music, I'll gladly receive you. Remember, this hall and treasury are always open to souls filled with musical artistry like yours."
+  },
+  "110609103": {
+    "Sinner": "Parfait",
+    "Title": "Pat Head",
+    "File": "vo_parfait_guiyishalong_head_001",
+    "Text": "They say in high society, the higher the hairdo, the better. There was even a noblewoman who piled hers so high that a little bird perched on it and sang an entire song. Hehe, but I never expected my three-hour hairstyle would actually attract my dear lark to stay!"
+  },
+  "110609104": {
+    "Sinner": "Parfait",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_parfait_guiyishalong_body_001",
+    "Text": "These paintings hanging here aren't meant for people to stare at the zeros on their price tags. To me, the value of art has nothing to do with price. They're not luxury items, but necessities that embellish and enrich life."
+  },
+  "110609105": {
+    "Sinner": "Parfait",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_parfait_guiyishalong_body_002",
+    "Text": "I've seen too many people use wealth to build walls, keeping others out while \"selecting\" the \"correct\" people. I don't like that. Wealth should be used to pave roads, helping those with passion go further and making the beauty that should be shared by all more accessible."
+  },
+  "110609106": {
+    "Sinner": "Parfait",
+    "Title": "Ordinary Contact 3",
+    "File": "vo_parfait_guiyishalong_hand_001",
+    "Text": "Other nobles always favor perfectly uniform pearl necklaces. A good shape, pure of color, and all of the same size. I find that rather dull. Pearls, like art, shouldn't be monotonous. They're only precious when each has its own character."
+  },
+  "110609107": {
+    "Sinner": "Parfait",
+    "Title": "Ordinary Contact 4",
+    "File": "vo_parfait_guiyishalong_background_001",
+    "Text": "You noticed its satin bow and pure gold collar pendant too? This was a gift from a designer I once sponsored after they became famous. The concept is \"all life can equally enjoy decorative arts,\" quite an interesting theme."
+  },
+  "110609108": {
+    "Sinner": "Parfait",
+    "Title": "Idle",
+    "File": "vo_parfait_guiyishalong_idle_001",
+    "Text": "Sigh, I know these masterpieces in my collection always stimulate you artists, making you forget everything as your minds fill with creative ideas. There's no helping it, go on, go on. Consider this another form of sponsorship from me."
+  },
+  "110609109": {
+    "Sinner": "Parfait",
+    "Title": "Special Attention",
+    "File": "vo_parfait_guiyishalong_specialattention_001",
+    "Text": "Ah, I've seen that gaze before... It's the look an artist has when contemplating something they want to capture. If you're trying to freeze this moment of me in your own way... should I strike a more elegant pose?"
+  },
   "11061001": {
     "Sinner": "Shin",
     "Title": "Obtain the Sinner",
@@ -14326,6 +15714,438 @@
     "Title": "Upgrade Skill",
     "File": "vo_shin_promotion_001",
     "Text": "This power has shaped me."
+  },
+  "110610100": {
+    "Sinner": "Shin",
+    "Title": "Attire Obtained",
+    "File": "vo_shin_xingjizhiyong_cacha_001",
+    "Text": "Newborn star from the depths... come to me... A cosmic tempest approaches, and only in my embrace will you find warmth and sanctuary."
+  },
+  "110610101": {
+    "Sinner": "Shin",
+    "Title": "Level Up",
+    "File": "vo_shin_xingjizhiyong_levelup_001",
+    "Text": "I can feel you... coming toward me..."
+  },
+  "110610102": {
+    "Sinner": "Shin",
+    "Title": "Greeting",
+    "File": "vo_shin_xingjizhiyong_greeting_001",
+    "Text": "I've been waiting for you, my little lost star... Come into my embrace, and together we'll ignite this chaos and darkness, turning it into a glorious new galaxy. Shall we?"
+  },
+  "110610103": {
+    "Sinner": "Shin",
+    "Title": "Pat Head",
+    "File": "vo_shin_xingjizhiyong_head_001",
+    "Text": "What a greedy child you are. Very well... come into my arms."
+  },
+  "110610104": {
+    "Sinner": "Shin",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_shin_xingjizhiyong_body_001",
+    "Text": "Destruction will turn into a cradle for new hope... Just like how you appeared before me and lit up this sea of stars, the silent grave of civilizations."
+  },
+  "110610105": {
+    "Sinner": "Shin",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_shin_xingjizhiyong_body_002",
+    "Text": "This brilliant nebula... would you ever guess it had perished in heat death? Yet it was most beautiful in its dying moment... I've dreamed of witnessing that again, with you by my side..."
+  },
+  "110610106": {
+    "Sinner": "Shin",
+    "Title": "Ordinary Contact 3",
+    "File": "vo_shin_xingjizhiyong_hand_001",
+    "Text": "I've watched countless stars burn out painfully, never reaching the threshold of change... until you brought life to everything. Come, witness with me... witness this all-devouring birth!"
+  },
+  "110610107": {
+    "Sinner": "Shin",
+    "Title": "Ordinary Contact 4",
+    "File": "vo_shin_xingjizhiyong_background_001",
+    "Text": "The Big Bang will shatter and remake everything. We'll collapse into imperceptible particles in the cosmos, locked in a desperate embrace in a vaster, more perfect universe... hehe..."
+  },
+  "110610108": {
+    "Sinner": "Shin",
+    "Title": "Idle",
+    "File": "vo_shin_xingjizhiyong_idle_001",
+    "Text": "Sleep now... When the stars all fade away, my embrace will remain as your final galaxy."
+  },
+  "110610109": {
+    "Sinner": "Shin",
+    "Title": "Special Attention",
+    "File": "vo_shin_xingjizhiyong_specialattention_001",
+    "Text": "You need not cling to me, nor fear our separation... These dark stars, which are my eyes, will embrace you, pull you in, and never, ever let you go..."
+  },
+  "11061101": {
+    "Sinner": "Irrheia",
+    "Title": "Obtain the Sinner",
+    "File": "vo_irrheia_cacha_001",
+    "Text": "I'm weary of boredom and the predictable. Your arrival is far too ordinary. Why don't we... start over? I'll pretend this is our first meeting."
+  },
+  "11061102": {
+    "Sinner": "Irrheia",
+    "Title": "Raise to Phase 1",
+    "File": "vo_irrheia_promotion_001",
+    "Text": "I eagerly await the next act you'll unveil for me."
+  },
+  "11061103": {
+    "Sinner": "Irrheia",
+    "Title": "Raise to Phase 3",
+    "File": "vo_irrheia_promotion2_001",
+    "Text": "The clock hands have begun to turn, and the curtain has risen... Come, I'll be waiting for you at the story's end!"
+  },
+  "11061104": {
+    "Sinner": "Irrheia",
+    "Title": "Level Start",
+    "File": "vo_irrheia_battlebegin_001",
+    "Text": "I'm ready. Let the cycle begin."
+  },
+  "11061105": {
+    "Sinner": "Irrheia",
+    "Title": "Success",
+    "File": "vo_irrheia_battlewin_001",
+    "Text": "I hope the next round surprises me just as much."
+  },
+  "11061106": {
+    "Sinner": "Irrheia",
+    "Title": "Failed",
+    "File": "vo_irrheia_battlelose_001",
+    "Text": "Heh, I suppose that was an interesting ending."
+  },
+  "11061107": {
+    "Sinner": "Irrheia",
+    "Title": "Ultimate Skill",
+    "File": "bt_irrheia_uniqueskill_001",
+    "Text": "The end and the rebirth, all in the matter of a single breath!"
+  },
+  "11061108": {
+    "Sinner": "Irrheia",
+    "Title": "Die in Battles",
+    "File": "bt_irrheia_dead_001",
+    "Text": "At least this time... it was my own choice..."
+  },
+  "11061109": {
+    "Sinner": "Irrheia",
+    "Title": "Greeting",
+    "File": "vo_irrheia_greeting_001",
+    "Text": "Let me guess... is your visit today a predestined event, or an unexpected twist?"
+  },
+  "11061110": {
+    "Sinner": "Irrheia",
+    "Title": "Conversation 1",
+    "File": "vo_irrheia_talk1_001",
+    "Text": "When the water grows too still, I always drop in a stone. Whether it creates mere ripples or an explosion, that always depends on the fish's choice, or an act of betrayal."
+  },
+  "11061111": {
+    "Sinner": "Irrheia",
+    "Title": "Conversation 2",
+    "File": "vo_irrheia_talk1_002",
+    "Text": "Most people enter the stage with their predetermined scripts. Their backgrounds serve as the opening lines, their experiences the chapter titles. Flip through a few pages... and you can already predict their endings. So boring it makes me yawn."
+  },
+  "11061112": {
+    "Sinner": "Irrheia",
+    "Title": "Conversation 3",
+    "File": "vo_irrheia_talk1_003",
+    "Text": "My dear Chief, keep going, don't stop. I've long grown tired of those docile tales that submit to rules and tropes. Following you is the more interesting choice. You won't disappoint me, will you?"
+  },
+  "11061113": {
+    "Sinner": "Irrheia",
+    "Title": "Special Conversation 1",
+    "File": "vo_irrheia_talk2_001",
+    "Text": "On the stage I've built, some people always take the same dull path, time and time again, becoming such miserable wretches unworthy of saving... But I never expected you could lead them toward a different ending."
+  },
+  "11061114": {
+    "Sinner": "Irrheia",
+    "Title": "Special Conversation 2",
+    "File": "vo_irrheia_talk2_002",
+    "Text": "My world was once confined by red tubes and perfect graphs, as monotonous as the daily test reports... until I witnessed someone willingly tear themselves apart in defiance of rules. After that, I could no longer ignore these restraints."
+  },
+  "11061115": {
+    "Sinner": "Irrheia",
+    "Title": "Special Conversation 3",
+    "File": "vo_irrheia_talk2_003",
+    "Text": "The so-called family of mine was all about \"family tradition,\" binding me with blood relations, making me willingly sacrifice myself. How absurd... But I've already made it clear to them that, now, I am the one who makes the rules in this family."
+  },
+  "11061116": {
+    "Sinner": "Irrheia",
+    "Title": "Full Compliance",
+    "File": "vo_irrheia_obeyfull_001",
+    "Text": "I had a dream last night. In the cycle of fate, I passed countless exits. They were pitch black, bottomless voids. But in one of them, I saw you... I walked toward you without hesitation, only to die in your arms at the end. Strangely enough, when I woke up, I felt happy... I think I finally understand what kind of ending would satisfy me in this endless loop."
+  },
+  "11061117": {
+    "Sinner": "Irrheia",
+    "Title": "Idle",
+    "File": "vo_irrheia_idle_001",
+    "Text": "Spacing out like this from time to time is quite a novel experience."
+  },
+  "11061118": {
+    "Sinner": "Irrheia",
+    "Title": "Annoyed",
+    "File": "vo_irrheia_clicking_001",
+    "Text": "Your methods of probing people are so unoriginal. Care to try something more... thrilling?"
+  },
+  "11061119": {
+    "Sinner": "Irrheia",
+    "Title": "Special Attention",
+    "File": "vo_irrheia_specialattention_001",
+    "Text": "In stories, I'm the being people fear to face, yet you dare to gaze at me so boldly... Do you have a thing for witches? Crave excitement? Or perhaps you simply... like me?"
+  },
+  "11061120": {
+    "Sinner": "Irrheia",
+    "Title": "Dispatch",
+    "File": "vo_irrheia_dispatch_001",
+    "Text": "I don't take on boring assignments. Don't disappoint me."
+  },
+  "11061121": {
+    "Sinner": "Irrheia",
+    "Title": "Dispatch Complete",
+    "File": "vo_irrheia_dispatch2_001",
+    "Text": "Just some trivial things. Take them if you want. I have no interest in keeping them."
+  },
+  "11061122": {
+    "Sinner": "Irrheia",
+    "Title": "Upgrade",
+    "File": "vo_irrheia_levelup_002",
+    "Text": "Playing by the rules is so dull. Great, I happen to be craving some new variables."
+  },
+  "11061123": {
+    "Sinner": "Irrheia",
+    "Title": "Pat Head",
+    "File": "vo_irrheia_head_001",
+    "Text": "You always manage to come up with a surprising move. Fortunately, I don't mind your touch."
+  },
+  "11061124": {
+    "Sinner": "Irrheia",
+    "Title": "Joins the Team",
+    "File": "bt_irrheia_jointeam_001",
+    "Text": "I love situations in constant flux, where no one can predict what comes next..."
+  },
+  "11061125": {
+    "Sinner": "Irrheia",
+    "Title": "DANGER",
+    "File": "bt_irrheia_danger_001",
+    "Text": "N/A"
+  },
+  "11061126": {
+    "Sinner": "Irrheia",
+    "Title": "Received Order",
+    "File": "bt_irrheia_getorder_001",
+    "Text": "N/A"
+  },
+  "11061127": {
+    "Sinner": "Irrheia",
+    "Title": "Attacked",
+    "File": "bt_irrheia_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11061128": {
+    "Sinner": "Irrheia",
+    "Title": "Normal Attack",
+    "File": "bt_irrheia_skill_001_1",
+    "Text": "N/A"
+  },
+  "11061129": {
+    "Sinner": "Irrheia",
+    "Title": "Confused",
+    "File": "vo_irrheia_doubt_001",
+    "Text": "N/A"
+  },
+  "11061130": {
+    "Sinner": "Irrheia",
+    "Title": "Shock",
+    "File": "vo_irrheia_shock_001",
+    "Text": "N/A"
+  },
+  "11061131": {
+    "Sinner": "Irrheia",
+    "Title": "Upgrade Skill",
+    "File": "vo_irrheia_promotion_001",
+    "Text": "I eagerly await the next act you'll unveil for me."
+  },
+  "11061201": {
+    "Sinner": "Margaret",
+    "Title": "Obtain the Sinner",
+    "File": "vo_margaret_cacha_001",
+    "Text": "A pleasure to meet you, Chief. I assure you, my methods will bring a \"peace\" to your operations that you never thought possible."
+  },
+  "11061202": {
+    "Sinner": "Margaret",
+    "Title": "Raise to Phase 1",
+    "File": "vo_margaret_promotion_001",
+    "Text": "I pray our foes are wise enough to recognize the cliff's edge before they feel the need to test the fall."
+  },
+  "11061203": {
+    "Sinner": "Margaret",
+    "Title": "Raise to Phase 3",
+    "File": "vo_margaret_promotion2_001",
+    "Text": "I hear the joyous melodies of peace."
+  },
+  "11061204": {
+    "Sinner": "Margaret",
+    "Title": "Level Start",
+    "File": "vo_margaret_battlebegin_001",
+    "Text": "A regrettable failure of diplomacy. It seems we must now proceed to more... definitive measures."
+  },
+  "11061205": {
+    "Sinner": "Margaret",
+    "Title": "Victory",
+    "File": "vo_margaret_battlewin_001",
+    "Text": "May peace guide your path."
+  },
+  "11061206": {
+    "Sinner": "Margaret",
+    "Title": "Lose Battles",
+    "File": "vo_margaret_battlelose_001",
+    "Text": "As long as we are speaking, change remains possible."
+  },
+  "11061207": {
+    "Sinner": "Margaret",
+    "Title": "Ultimate Skill",
+    "File": "bt_margaret_uniqueskill_001",
+    "Text": "For the purest form of peace!"
+  },
+  "11061208": {
+    "Sinner": "Margaret",
+    "Title": "Die in Battles",
+    "File": "bt_margaret_dead_001",
+    "Text": "After all... to end like this..."
+  },
+  "11061209": {
+    "Sinner": "Margaret",
+    "Title": "Greeting",
+    "File": "vo_margaret_greeting_001",
+    "Text": "May your heart be at peace today. Would you like a cup of soothing herbal tea?"
+  },
+  "11061210": {
+    "Sinner": "Margaret",
+    "Title": "Conversation 1",
+    "File": "vo_margaret_talk1_001",
+    "Text": "I find myself drawn to what shines... pearls, seashells, the white of a dove's wings, the radiance of a kind soul, and... a hope that refuses to be broken."
+  },
+  "11061211": {
+    "Sinner": "Margaret",
+    "Title": "Conversation 2",
+    "File": "vo_margaret_talk1_002",
+    "Text": "Oh, I appreciate the warning. But a lady must know how to navigate a dirty world without soiling her gloves. It's a skill I've perfected."
+  },
+  "11061212": {
+    "Sinner": "Margaret",
+    "Title": "Conversation 3",
+    "File": "vo_margaret_talk1_003",
+    "Text": "My task is not to broker friendships, but to map the alignment of interests. You will find that even between opposing cliffs, there lies a common valley."
+  },
+  "11061213": {
+    "Sinner": "Margaret",
+    "Title": "Special Conversation 1",
+    "File": "vo_margaret_talk2_001",
+    "Text": "My little birds sing me all the city's secrets. Do be kind to the sparrow on your sill; one never knows what secrets it might be sharing with me."
+  },
+  "11061214": {
+    "Sinner": "Margaret",
+    "Title": "Special Conversation 2",
+    "File": "vo_margaret_talk2_002",
+    "Text": "My teacher's first lesson was on the many forms of persuasion. I was the most adept student in the class. Would you care for a demonstration?"
+  },
+  "11061215": {
+    "Sinner": "Margaret",
+    "Title": "Special Conversation 3",
+    "File": "vo_margaret_talk2_003",
+    "Text": "There is never one path to peace. The road I walk and the one you choose may seem worlds apart... yet I believe all worthy paths, however divergent, ultimately converge upon the same horizon."
+  },
+  "11061216": {
+    "Sinner": "Margaret",
+    "Title": "Full Compliance",
+    "File": "vo_margaret_obeyfull_001",
+    "Text": "I truly admire your integrity and courage. In a world so often shrouded in darkness, you shine with a warmth and brilliance that is truly rare. It's a light I feel compelled to safeguard. I sincerely hope to see it one day reach every corner of this world. And when it does, please... let me be the one standing closest to its source."
+  },
+  "11061217": {
+    "Sinner": "Margaret",
+    "Title": "Idle",
+    "File": "vo_margaret_idle_001",
+    "Text": "Rest now, in peace. The storm has finally quieted..."
+  },
+  "11061218": {
+    "Sinner": "Margaret",
+    "Title": "Annoyed",
+    "File": "vo_margaret_clicking_001",
+    "Text": "I find myself coveting these hands of yours... hands that can paint a vision for a better world, yet issue an order to end a life. Tell me, Chief, will you give them to me? Or will I have to... claim them for myself?"
+  },
+  "11061219": {
+    "Sinner": "Margaret",
+    "Title": "Special Attention",
+    "File": "vo_margaret_specialattention_001",
+    "Text": "Heh, who sent you to watch me? The 9th Agency? EDGE? Or... was this your own initiative?"
+  },
+  "11061220": {
+    "Sinner": "Margaret",
+    "Title": "Dispatch",
+    "File": "vo_margaret_dispatch_001",
+    "Text": "Very well, I shall go and make them see reason."
+  },
+  "11061221": {
+    "Sinner": "Margaret",
+    "Title": "Dispatch Complete",
+    "File": "vo_margaret_dispatch2_001",
+    "Text": "Mutual understanding is the most durable bridge to peace."
+  },
+  "11061222": {
+    "Sinner": "Margaret",
+    "Title": "Level Up",
+    "File": "vo_margaret_levelup_002",
+    "Text": "One's repertoire can never be too broad."
+  },
+  "11061223": {
+    "Sinner": "Margaret",
+    "Title": "Pat Head",
+    "File": "vo_margaret_head_001",
+    "Text": "Chief, do you need a sympathetic ear, or would a more... permanent solution be more effective?"
+  },
+  "11061224": {
+    "Sinner": "Margaret",
+    "Title": "Join Team",
+    "File": "bt_margaret_jointeam_001",
+    "Text": "The mood is so perfectly put together. Now, let's make the conversation match."
+  },
+  "11061225": {
+    "Sinner": "Margaret",
+    "Title": "Danger!",
+    "File": "bt_margaret_danger_001",
+    "Text": "N/A"
+  },
+  "11061226": {
+    "Sinner": "Margaret",
+    "Title": "Received Order",
+    "File": "bt_margaret_getorder_001",
+    "Text": "N/A"
+  },
+  "11061227": {
+    "Sinner": "Margaret",
+    "Title": "Attacked",
+    "File": "bt_margaret_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11061228": {
+    "Sinner": "Margaret",
+    "Title": "Normal Attack",
+    "File": "bt_margaret_skill_001_1",
+    "Text": "N/A"
+  },
+  "11061229": {
+    "Sinner": "Margaret",
+    "Title": "Confused",
+    "File": "vo_margaret_doubt_001",
+    "Text": "N/A"
+  },
+  "11061230": {
+    "Sinner": "Margaret",
+    "Title": "Shock",
+    "File": "vo_margaret_shock_001",
+    "Text": "N/A"
+  },
+  "11061231": {
+    "Sinner": "Margaret",
+    "Title": "Upgrade Skill",
+    "File": "vo_margaret_promotion_001",
+    "Text": "I pray our foes are wise enough to recognize the cliff's edge before they feel the need to test the fall."
   },
   "11110101": {
     "Sinner": "Countess Chelsea",
@@ -16577,6 +18397,186 @@
     "File": "vo_siglinde_promotion_001",
     "Text": "Thank you for your trust. I will ensure the frontline comms remain flawless."
   },
+  "11111201": {
+    "Sinner": "Rumina",
+    "Title": "Obtain the Sinner",
+    "File": "vo_rumina_cacha_001",
+    "Text": "Umm... Is the Bureau... also a place that cleanses people? Rumina has some candles here that can attract all voyagers who need to be \"cleansed\" for you..."
+  },
+  "11111202": {
+    "Sinner": "Rumina",
+    "Title": "Raise to Phase 1",
+    "File": "vo_rumina_promotion_001",
+    "Text": "The candlelight... burns even brighter now..."
+  },
+  "11111203": {
+    "Sinner": "Rumina",
+    "Title": "Raise to Phase 3",
+    "File": "vo_rumina_promotion2_001",
+    "Text": "Rumina's face is always cracked... and my heart too... The air seeps through the cracks, hurting Rumina so much... Oh... the hot spring bath of the inn is ready now. Could you come and help Rumina... mend these wounds?"
+  },
+  "11111204": {
+    "Sinner": "Rumina",
+    "Title": "Level Start",
+    "File": "vo_rumina_battlebegin_001",
+    "Text": "Let's see who else isn't home yet..."
+  },
+  "11111205": {
+    "Sinner": "Rumina",
+    "Title": "Success",
+    "File": "vo_rumina_battlewin_001",
+    "Text": "You're smiling. It seems Rumina has done a good job."
+  },
+  "11111206": {
+    "Sinner": "Rumina",
+    "Title": "Failed",
+    "File": "vo_rumina_battlelose_001",
+    "Text": "...Please trust Rumina. This won't happen next time..."
+  },
+  "11111207": {
+    "Sinner": "Rumina",
+    "Title": "Ultimate Skill",
+    "File": "bt_rumina_uniqueskill_001",
+    "Text": "Boiling wax makes the bath of death."
+  },
+  "11111208": {
+    "Sinner": "Rumina",
+    "Title": "Die in Battles",
+    "File": "bt_rumina_dead_001",
+    "Text": "Save me... Please..."
+  },
+  "11111209": {
+    "Sinner": "Rumina",
+    "Title": "Greeting",
+    "File": "vo_rumina_greeting_001",
+    "Text": "Hmm, you came just in time. Rumina just made some sugar-free cheese roll cake... Would you like to try it? Does it really \"taste like chewing wax\"?"
+  },
+  "11111210": {
+    "Sinner": "Rumina",
+    "Title": "Conversation 1",
+    "File": "vo_rumina_talk1_001",
+    "Text": "Rumina is \"cursed\"... The picture book Seon gave me says that if Rumina melts the \"bad guys\" in the bath, the \"curse\" will be broken, and my body won't be like this anymore..."
+  },
+  "11111211": {
+    "Sinner": "Rumina",
+    "Title": "Conversation 2",
+    "File": "vo_rumina_talk1_002",
+    "Text": "Your house is completely different from Rumina's inn, yet why does it feel so familiar? It's like... when Seon was still here... The memories in my head are missing a piece. Seon's face is missing a piece."
+  },
+  "11111212": {
+    "Sinner": "Rumina",
+    "Title": "Conversation 3",
+    "File": "vo_rumina_talk1_003",
+    "Text": "Rumina loves the darkness... Because... darkness is candlelight's best friend, making the light appear warmer and clearer... The people in picture books also come alive when the candlelight flickers ever so slightly."
+  },
+  "11111213": {
+    "Sinner": "Rumina",
+    "Title": "Special Conversation 1",
+    "File": "vo_rumina_talk2_001",
+    "Text": "What does... Chief... mean?... Oh, you own this place, so you are the \"Chief\"... Rumina is here too, does Rumina belong to you as well?"
+  },
+  "11111214": {
+    "Sinner": "Rumina",
+    "Title": "Special Conversation 2",
+    "File": "vo_rumina_talk2_002",
+    "Text": "Rumina doesn't want to be alone. If only you could spare a finger for Rumina to hold onto... or an arm for Rumina to hug... N-neither is possible?... Alright then, Rumina will think of another way."
+  },
+  "11111215": {
+    "Sinner": "Rumina",
+    "Title": "Special Conversation 3",
+    "File": "vo_rumina_talk2_003",
+    "Text": "Everyone in this house... has been so kind to Rumina, so Rumina will do as you wish. Be kind to them, and befriend more of them... All of this can happen because you're by my side. As long as you're here, Rumina won't be afraid anymore."
+  },
+  "11111216": {
+    "Sinner": "Rumina",
+    "Title": "Full Compliance",
+    "File": "vo_rumina_obeyfull_001",
+    "Text": "You've used your power to build a little house in your palm, where Rumina can stay safe... Hearing your heartbeat every day... makes Rumina so happy."
+  },
+  "11111217": {
+    "Sinner": "Rumina",
+    "Title": "Idle",
+    "File": "vo_rumina_idle_001",
+    "Text": "...If you are feeling tired, Rumina will be happy to serve you; if you are not, Rumina will be happy for you. Wishing you a pleasant day."
+  },
+  "11111218": {
+    "Sinner": "Rumina",
+    "Title": "Annoyed",
+    "File": "vo_rumina_clicking_001",
+    "Text": "...Please, can you not push Rumina away? Rumina wants to stay by your side, always close to you..."
+  },
+  "11111219": {
+    "Sinner": "Rumina",
+    "Title": "Special Attention",
+    "File": "vo_rumina_specialattention_001",
+    "Text": "Are you saying you're willing to stay with Rumina forever? How wonderful... Tonight, before bed, could you hold my hand and read me a new picture book?"
+  },
+  "11111220": {
+    "Sinner": "Rumina",
+    "Title": "Dispatch",
+    "File": "vo_rumina_dispatch_001",
+    "Text": "Sure, Rumina will go right away."
+  },
+  "11111221": {
+    "Sinner": "Rumina",
+    "Title": "Dispatch Complete",
+    "File": "vo_rumina_dispatch2_001",
+    "Text": "The \"bad guys\" are all in the hot spring bath now. Here, these are their most precious belongings. Did Rumina do well?"
+  },
+  "11111222": {
+    "Sinner": "Rumina",
+    "Title": "Upgrade",
+    "File": "vo_rumina_levelup_002",
+    "Text": "So warm... my body is melting away..."
+  },
+  "11111223": {
+    "Sinner": "Rumina",
+    "Title": "Joins the Team",
+    "File": "bt_rumina_jointeam_001",
+    "Text": "Whatever you wish, Rumina will get it done."
+  },
+  "11111224": {
+    "Sinner": "Rumina",
+    "Title": "DANGER",
+    "File": "bt_rumina_danger_001",
+    "Text": "N/A"
+  },
+  "11111225": {
+    "Sinner": "Rumina",
+    "Title": "Received Order",
+    "File": "bt_rumina_getorder_001",
+    "Text": "N/A"
+  },
+  "11111226": {
+    "Sinner": "Rumina",
+    "Title": "Attacked",
+    "File": "bt_rumina_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11111227": {
+    "Sinner": "Rumina",
+    "Title": "Normal Attack",
+    "File": "bt_rumina_skill_001_1",
+    "Text": "N/A"
+  },
+  "11111228": {
+    "Sinner": "Rumina",
+    "Title": "Confused",
+    "File": "vo_rumina_doubt_001",
+    "Text": "N/A"
+  },
+  "11111229": {
+    "Sinner": "Rumina",
+    "Title": "Shock",
+    "File": "vo_rumina_shock_001",
+    "Text": "N/A"
+  },
+  "11111230": {
+    "Sinner": "Rumina",
+    "Title": "Upgrade Skill",
+    "File": "vo_rumina_promotion_001",
+    "Text": "The candlelight... burns even brighter now..."
+  },
   "11120101": {
     "Sinner": "Ninety-Nine",
     "Title": "Obtain the Sinner",
@@ -17830,6 +19830,66 @@
     "Title": "Special Attention",
     "File": "vo_mojila_jixianyundongjihua_specialattention_001",
     "Text": "How are you supposed to work out with me dressed like that? Come on, let's head back to the Legion. I'll let them get you something comfortable."
+  },
+  "111205110": {
+    "Sinner": "Horo",
+    "Title": "Attire Obtained",
+    "File": "vo_mojila_tianyacishi_cacha_001",
+    "Text": "These past few years of escorting caravans has been quite carefree. But whenever I have a moment to rest, the memories of the past always come back to me vividly... I suppose that's just how people are—no matter how far we travel, we always want to look back."
+  },
+  "111205111": {
+    "Sinner": "Horo",
+    "Title": "Level Up",
+    "File": "vo_mojila_tianyacishi_levelup_001",
+    "Text": "A blade needs no edge when your intent is sharp."
+  },
+  "111205112": {
+    "Sinner": "Horo",
+    "Title": "Greeting",
+    "File": "vo_mojila_tianyacishi_greeting_001",
+    "Text": "I'll go prepare the campfire. We have a new client tomorrow, and if you catch a cold, we won't be able to make this escort run."
+  },
+  "111205113": {
+    "Sinner": "Horo",
+    "Title": "Pat Head",
+    "File": "vo_mojila_tianyacishi_head_001",
+    "Text": "You're treating me like a child again... Wait, why are your hands so cold? Just wait a bit longer, I'll have the fire ready soon."
+  },
+  "111205114": {
+    "Sinner": "Horo",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_mojila_tianyacishi_body_001",
+    "Text": "The people out here always judge by appearances. Remember to pack a couple outfits similar to mine for this escort job, or they'll take you for an amateur."
+  },
+  "111205115": {
+    "Sinner": "Horo",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_mojila_tianyacishi_body_002",
+    "Text": "Story books often say: \"The world offers freedom and leisure,\" but looking at it now, we're doing nothing more than living on the edge, sleeping on rough dirt under the stars."
+  },
+  "111205116": {
+    "Sinner": "Horo",
+    "Title": "Ordinary Contact 3",
+    "File": "vo_mojila_tianyacishi_wine_001",
+    "Text": "The moonlight is perfect, how about a drink? ...Fruit juice counts as having a drink too! You adults are so annoying!"
+  },
+  "111205117": {
+    "Sinner": "Horo",
+    "Title": "Ordinary Contact 4",
+    "File": "vo_mojila_tianyacishi_leg_001",
+    "Text": "Move one more time and my blade will know no mercy... Fine, seeing how you're shivering like a porcupine, I'll let it slide this time."
+  },
+  "111205118": {
+    "Sinner": "Horo",
+    "Title": "Idle",
+    "File": "vo_mojila_tianyacishi_idle_001",
+    "Text": "The sound of these reeds rustling in the night wind really does sound like the rain I used to hear as a child... Back then, I only found it disruptive to my sleep, but now it sounds like a rare moment of tranquility."
+  },
+  "111205119": {
+    "Sinner": "Horo",
+    "Title": "Special Attention",
+    "File": "vo_mojila_tianyacishi_specialattention_001",
+    "Text": "You've been staring the whole way... Once we reach the city, let's see about getting you an outfit like mine that's practical for traveling these parts."
   },
   "11120601": {
     "Sinner": "Mess",
@@ -23565,6 +25625,188 @@
     "File": "vo_thalia_promotion_001",
     "Text": "Sponsorships? The more, the merrier."
   },
+  "11141001": {
+    "Sinner": "Helga",
+    "Title": "Obtain the Sinner",
+    "File": "vo_heerjia_cacha_001",
+    "Text": "Well now, don't you look smart, kid! Another one from Fraser, I reckon? What brings you to this old woman? If you're not in a hurry, pull up a crate, and I'll get the tea on.",
+    "File 2": "vo_heerjia_cacha_001f",
+    "Text 2": "Well now, don't you look sharp, kid! Another one from Fraser, I reckon? What brings you to this old woman? If you're not in a hurry, pull up a crate, and I'll get the tea on."
+  },
+  "11141002": {
+    "Sinner": "Helga",
+    "Title": "Raise to Phase 1",
+    "File": "vo_heerjia_promotion_001",
+    "Text": "Hyenas aren't picky. Whoever needs to go down, goes down."
+  },
+  "11141003": {
+    "Sinner": "Helga",
+    "Title": "Raise to Phase 3",
+    "File": "vo_heerjia_promotion2_001",
+    "Text": "You all call me \"Granny,\" so it's my job to be out front. I dare anyone to try and hurt my family; they'll have to answer to me and my rifle!"
+  },
+  "11141004": {
+    "Sinner": "Helga",
+    "Title": "Level Start",
+    "File": "vo_heerjia_battlebegin_001",
+    "Text": "What the hyena marks, she never loses."
+  },
+  "11141005": {
+    "Sinner": "Helga",
+    "Title": "Victory",
+    "File": "vo_heerjia_battlewin_001",
+    "Text": "Target's down. If I head back now, I can still make it in time to bake treats for the kids."
+  },
+  "11141006": {
+    "Sinner": "Helga",
+    "Title": "Lose Battles",
+    "File": "vo_heerjia_battlelose_001",
+    "Text": "******* vermin. Skulking in the shadows with your dirty tricks. Mark my words, I'll put a bullet in every last one of you."
+  },
+  "11141007": {
+    "Sinner": "Helga",
+    "Title": "Ultimate Skill",
+    "File": "bt_heerjia_uniqueskill_001",
+    "Text": "On my shot!"
+  },
+  "11141008": {
+    "Sinner": "Helga",
+    "Title": "Die in Battles",
+    "File": "bt_heerjia_dead_001",
+    "Text": "Finally... I'm coming to meet you lot..."
+  },
+  "11141009": {
+    "Sinner": "Helga",
+    "Title": "Greeting",
+    "File": "vo_heerjia_greeting_001",
+    "Text": "You're back? Just in time. I've got a pot of soup going. Sit down and have a bowl before you run off again. No matter how busy you are, you can't work on an empty stomach."
+  },
+  "11141010": {
+    "Sinner": "Helga",
+    "Title": "Conversation 1",
+    "File": "vo_heerjia_talk1_001",
+    "Text": "Nothing beats the satisfaction of fixing things: an old fan, a radio, a broken toy... Spending hours tinkering until they're spinning and humming again, that's what brings me peace of mind. For old folks like us, just being able to keep moving is what matters most."
+  },
+  "11141011": {
+    "Sinner": "Helga",
+    "Title": "Conversation 2",
+    "File": "vo_heerjia_talk1_002",
+    "Text": "Honestly, when I was young, thinking just wasn't my thing. All that talk of plans and schemes? Gave me a headache. But later on, life left me no choice. I started reading, asking questions... Heh. All that stuff that used to stress me out, I ended up figuring it out the hard way."
+  },
+  "11141012": {
+    "Sinner": "Helga",
+    "Title": "Conversation 3",
+    "File": "vo_heerjia_talk1_003",
+    "Text": "Most folks stare into the distance and just see the dark. Me? I can track a target's breath, catch every twitch. In this sniper game, good aim's a given. It's the steel nerves, the sharp eyes, and the quick reflexes that separate the pros from the dead. Hesitate for half a second? Trust me, you won't be the one watching the enemy drop."
+  },
+  "11141013": {
+    "Sinner": "Helga",
+    "Title": "Special Conversation 1",
+    "File": "vo_heerjia_talk2_001",
+    "Text": "You're less of a handful than all the other brats I know, kid. At least you won't start a war over the last dinner roll... Then again, all that bickering and raising hell? That's what makes this place feel like a real family. When the chips are down, I know I can trust every single one of them with my life."
+  },
+  "11141014": {
+    "Sinner": "Helga",
+    "Title": "Special Conversation 2",
+    "File": "vo_heerjia_talk2_002",
+    "Text": "Look, I'm not the sentimental type. But I make a point to show up at their graves every year, share a drink, and catch them up. Having you here with me... well, it's like you're hearing it for them. They'd be happy about that."
+  },
+  "11141015": {
+    "Sinner": "Helga",
+    "Title": "Special Conversation 3",
+    "File": "vo_heerjia_talk2_003",
+    "Text": "You see these stickers on my toolbox and rifle? All keepsakes from the kids. But if you ever left one for me... now that'd be really special. I'd have to show it off to everyone. Can you imagine? Telling them all that even the great Chief calls me \"Granny.\""
+  },
+  "11141016": {
+    "Sinner": "Helga",
+    "Title": "Full Compliance",
+    "File": "vo_heerjia_obeyfull_001",
+    "Text": "You're a good kid. I can still see that clear as day. When I'm too old to lift my rifle or turn a wrench, you'll be the one to pick it up. You'll keep these everyday folks safe, so they can live their lives in peace... Heh. Knowing that, I'll be able to rest easy."
+  },
+  "11141017": {
+    "Sinner": "Helga",
+    "Title": "Idle",
+    "File": "vo_heerjia_idle_001",
+    "Text": "Enough dawdling. Do it clean, like a trigger pull. Once you start, there's no backing down."
+  },
+  "11141018": {
+    "Sinner": "Helga",
+    "Title": "Annoyed",
+    "File": "vo_heerjia_clicking_001",
+    "Text": "The hell are you doing? You got a lot of nerve, don't you?"
+  },
+  "11141019": {
+    "Sinner": "Helga",
+    "Title": "Special Attention",
+    "File": "vo_heerjia_specialattention_001",
+    "Text": "Don't you worry. Even in the dead of night, your Granny's got eyes on you. Nothing's gonna get past me."
+  },
+  "11141020": {
+    "Sinner": "Helga",
+    "Title": "Dispatch",
+    "File": "vo_heerjia_dispatch_001",
+    "Text": "That valve on East Street acting up again? Perfect. I'll grab my tools to fix the drip... and swat a pest."
+  },
+  "11141021": {
+    "Sinner": "Helga",
+    "Title": "Dispatch Complete",
+    "File": "vo_heerjia_dispatch2_001",
+    "Text": "Plumbing's sorted. Target's been handled. Picked up some useful intel while I was at it. All in all, a good run."
+  },
+  "11141022": {
+    "Sinner": "Helga",
+    "Title": "Level Up",
+    "File": "vo_heerjia_levelup_002",
+    "Text": "Guess these old bones aren't ready for the scrap heap just yet."
+  },
+  "11141023": {
+    "Sinner": "Helga",
+    "Title": "Join Team",
+    "File": "bt_heerjia_jointeam_001",
+    "Text": "Hyena in position."
+  },
+  "11141024": {
+    "Sinner": "Helga",
+    "Title": "Danger!",
+    "File": "bt_heerjia_danger_001",
+    "Text": "N/A"
+  },
+  "11141025": {
+    "Sinner": "Helga",
+    "Title": "Received Order",
+    "File": "bt_heerjia_getorder_001",
+    "Text": "N/A"
+  },
+  "11141026": {
+    "Sinner": "Helga",
+    "Title": "Attacked",
+    "File": "bt_heerjia_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11141027": {
+    "Sinner": "Helga",
+    "Title": "Normal Attack",
+    "File": "bt_heerjia_skill_001_1",
+    "Text": "N/A"
+  },
+  "11141028": {
+    "Sinner": "Helga",
+    "Title": "Confused",
+    "File": "vo_heerjia_doubt_001",
+    "Text": "N/A"
+  },
+  "11141029": {
+    "Sinner": "Helga",
+    "Title": "Shock",
+    "File": "vo_heerjia_shock_001",
+    "Text": "N/A"
+  },
+  "11141030": {
+    "Sinner": "Helga",
+    "Title": "Upgrade Skill",
+    "File": "vo_heerjia_promotion_001",
+    "Text": "Hyenas aren't picky. Whoever needs to go down, goes down."
+  },
   "11150101": {
     "Sinner": "Victoria",
     "Title": "Obtain the Sinner",
@@ -24725,6 +26967,54 @@
     "File": "vo_hekadi_lvrenchuanshuo_specialattention_001",
     "Text": "Where do you want to go for the mission, Chief? Just give me the order and I'll come with you."
   },
+  "111504120": {
+    "Sinner": "Hecate",
+    "Title": "Attire Obtained",
+    "File": "vo_hekadi_anyushaguang_cacha_001",
+    "Text": "Chief, every moment we've shared since our first meeting, even the harsh, painful ones... they all help me conquer my fears in my dreams."
+  },
+  "111504121": {
+    "Sinner": "Hecate",
+    "Title": "Level Up",
+    "File": "vo_hekadi_anyushaguang_levelup_001",
+    "Text": "Wings... fully fledged..."
+  },
+  "111504122": {
+    "Sinner": "Hecate",
+    "Title": "Greeting",
+    "File": "vo_hekadi_anyushaguang_greeting_001",
+    "Text": "Hmm...? Ah... it's you, Chief... No, you didn't disturb me, I was just waking up from a dream... Don't worry, it wasn't a nightmare. Dreams about you are always pleasant..."
+  },
+  "111504123": {
+    "Sinner": "Hecate",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_hekadi_anyushaguang_body_001",
+    "Text": "Chief, throughout our journey so far, I've grown strong enough that nightmares can no longer harm me... So please, don't worry..."
+  },
+  "111504124": {
+    "Sinner": "Hecate",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_hekadi_anyushaguang_body_002",
+    "Text": "Our travels have shown me that this world is filled with things that can feed Nightmare... Disasters, destruction, and countless other sufferings. Yet I've met many fearless people. The light from their souls can dissolve fear... Chief, who taught them how to be this way?"
+  },
+  "111504125": {
+    "Sinner": "Hecate",
+    "Title": "Idle",
+    "File": "vo_hekadi_anyushaguang_idle_001",
+    "Text": "Waiting... is also part of the journey... Yes, it's my expertise."
+  },
+  "111504126": {
+    "Sinner": "Hecate",
+    "Title": "Annoyed",
+    "File": "vo_hekadi_anyushaguang_clicking_001",
+    "Text": "Chief, are you curious about these wings? Just like real feathers, they're so smooth and soft..."
+  },
+  "111504127": {
+    "Sinner": "Hecate",
+    "Title": "Special Attention",
+    "File": "vo_hekadi_anyushaguang_specialattention_001",
+    "Text": "By carefully documenting every experience and thought from our journey, I can clearly recall those memories even after a long time, even in dreams. I can gain power to control my dreams...<br/>Thank you for always staying by my side, Chief."
+  },
   "11150501": {
     "Sinner": "Oliver",
     "Title": "Obtain the Sinner",
@@ -25593,6 +27883,54 @@
     "File": "vo_wuhuanzi_promotion_001",
     "Text": "I've improved the previous remedy. Not only is it effective... the taste should now be less strange. I think."
   },
+  "111509100": {
+    "Sinner": "Wuhuanzi",
+    "Title": "Attire Obtained",
+    "File": "vo_wuhuanzi_xuanhumuke_cacha_001",
+    "Text": "Eek! An evil spirit! Wait, no... a human? Phew... Thank goodness it's just a human... Ahem. I put up this barrier to keep the more powerful demons out of my herb garden. I never thought a human could find their way in. How curious..."
+  },
+  "111509101": {
+    "Sinner": "Wuhuanzi",
+    "Title": "Level Up",
+    "File": "vo_wuhuanzi_xuanhumuke_levelup_001",
+    "Text": "Soon, I'll be able to help more patients."
+  },
+  "111509102": {
+    "Sinner": "Wuhuanzi",
+    "Title": "Greeting",
+    "File": "vo_wuhuanzi_xuanhumuke_greeting_001",
+    "Text": "You've come at the perfect time. Come and sit with me. Look... the garden is thriving. Soon, I'll be able to harvest the herbs and heal the sick. When the time comes... would you care to come with me?"
+  },
+  "111509103": {
+    "Sinner": "Wuhuanzi",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_wuhuanzi_xuanhumuke_talk1_001",
+    "Text": "A sick human or a sick spirit... I treat them all the same. All beings are equal. There's no difference to me."
+  },
+  "111509104": {
+    "Sinner": "Wuhuanzi",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_wuhuanzi_xuanhumuke_talk1_002",
+    "Text": "I'm just a spirit born of herbs. Is it any wonder I'm afraid of those soul-devouring things? So... about what happened when we first met... please stop teasing me about it..."
+  },
+  "111509105": {
+    "Sinner": "Wuhuanzi",
+    "Title": "Idle",
+    "File": "vo_wuhuanzi_xuanhumuke_idle_001",
+    "Text": "They say our kinds are meant to walk different paths. But I see no difference between you and me. I feel so close to you... Are you asleep? Rest well, then."
+  },
+  "111509106": {
+    "Sinner": "Wuhuanzi",
+    "Title": "Annoyed",
+    "File": "vo_wuhuanzi_xuanhumuke_clicking_001",
+    "Text": "Though I'm a plant spirit, I have taken the human form. No matter how much you shake and rub me, you won't be able to harvest any herbs..."
+  },
+  "111509107": {
+    "Sinner": "Wuhuanzi",
+    "Title": "Special Attention",
+    "File": "vo_wuhuanzi_xuanhumuke_specialattention_001",
+    "Text": "The way you're staring at me... is there a flaw in my guise? Can you... can you tell what I really am?"
+  },
   "11151001": {
     "Sinner": "Thani",
     "Title": "Obtain the Sinner",
@@ -25771,7 +28109,7 @@
     "Sinner": "Thani",
     "Title": "Upgrade Skill",
     "File": "vo_thani_promotion_001",
-    "Text": "N/A"
+    "Text": "Huh? The Aurum Secretum's side effects are barely there now! Yaaay!"
   },
   "11160101": {
     "Sinner": "Ariel",
@@ -28181,6 +30519,198 @@
     "File": "vo_cassian_promotion_001",
     "Text": "The weak have no claim to vengeance... I refuse to fail again."
   },
+  "11161101": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Obtain the Sinner",
+    "File": "vo_ai_cacha_001",
+    "Text": "I'm Ai! If it's got wires or code, I'm your girl!"
+  },
+  "11161102": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Raise to Phase 1",
+    "File": "vo_ai_promotion_001",
+    "Text": "Alright! With these new specs, my next invention is gonna blow your mind!"
+  },
+  "11161103": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Raise to Phase 3",
+    "File": "vo_ai_promotion2_001",
+    "Text": "I'm gonna develop even cooler—no, the COOLEST weapons ever!"
+  },
+  "11161104": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Level Start",
+    "File": "vo_ai_battlebegin_001",
+    "Text": "Hmm, this place looks interesting. Are there any networks I can poke into?"
+  },
+  "11161105": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Victory",
+    "File": "vo_ai_battlewin_001",
+    "Text": "See? Told you it'd be a piece of cake!"
+  },
+  "11161106": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Lose Battles",
+    "File": "vo_ai_battlelose_001",
+    "Text": "Ugh...! I'll definitely get it right next time!"
+  },
+  "11161107": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Ultimate Skill",
+    "File": "bt_ai_uniqueskill_001",
+    "Text": "Ta-da! Behold, my latest and greatest invention!"
+  },
+  "11161108": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Die in Battles",
+    "File": "bt_ai_dead_001",
+    "Text": "Eh, it overheated?! Why?!"
+  },
+  "11161109": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Greeting",
+    "File": "vo_ai_greeting_001",
+    "Text": "Morning! C'mon, let's have breakfast."
+  },
+  "11161110": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Conversation 1",
+    "File": "vo_ai_talk1_001",
+    "Text": "You'll never guess the amazing idea I just had!"
+  },
+  "11161111": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Conversation 2",
+    "File": "vo_ai_talk1_002",
+    "Text": "My stomach's growling!! Come on, make me something!"
+  },
+  "11161112": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Conversation 3",
+    "File": "vo_ai_talk1_003",
+    "Text": "Is anything fun happening around here...?"
+  },
+  "11161113": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Special Conversation 1",
+    "File": "vo_ai_talk2_001",
+    "Text": "Hey, we make a great team!"
+  },
+  "11161114": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Special Conversation 2",
+    "File": "vo_ai_talk2_002",
+    "Text": "Hanging out with you gives me the best ideas!"
+  },
+  "11161115": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Special Conversation 3",
+    "File": "vo_ai_talk2_003",
+    "Text": "Would you mind helping me test a new gadget?"
+  },
+  "11161116": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Full Compliance",
+    "File": "vo_ai_obeyfull_001",
+    "Text": "This looks like it's going to be so much fun!"
+  },
+  "11161117": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Idle",
+    "File": "vo_ai_idle_001",
+    "Text": "Yawn... Rui scolded me again for not going to sleep."
+  },
+  "11161118": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Annoyed",
+    "File": "vo_ai_clicking_001",
+    "Text": "I'm not a little kid, you know! But... it's kinda comforting."
+  },
+  "11161119": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Special Attention",
+    "File": "vo_ai_specialattention_001",
+    "Text": "Eh, you're picking me? Welp, guess I have no choice!"
+  },
+  "11161120": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Dispatch",
+    "File": "vo_ai_dispatch_001",
+    "Text": "I'm heading out!"
+  },
+  "11161121": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Dispatch Complete",
+    "File": "vo_ai_dispatch2_001",
+    "Text": "I nailed it! That was fun!"
+  },
+  "11161122": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Level Up",
+    "File": "vo_ai_levelup_002",
+    "Text": "Alrighty! Let's do this!"
+  },
+  "11161123": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Join Team",
+    "File": "bt_ai_jointeam_001",
+    "Text": "OK! Leave it to the genius!"
+  },
+  "11161124": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Upgrade Skill",
+    "File": "vo_ai_promotion_001",
+    "Text": "Alright! With these new specs, my next invention is gonna blow your mind!"
+  },
+  "111611100": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Attire Obtained",
+    "File": "vo_ai_aiyiyinxun_cacha_001",
+    "Text": "Aha! New outfit! Gotta make sure it's not just powerful, but also stylish!"
+  },
+  "111611101": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Level Up",
+    "File": "vo_ai_aiyiyinxun_levelup_001",
+    "Text": "Alrighty! Let's go for it!"
+  },
+  "111611102": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Greeting",
+    "File": "vo_ai_aiyiyinxun_greeting_001",
+    "Text": "Morning! Let's see what kind of fun today has in store for us!"
+  },
+  "111611103": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_ai_aiyiyinxun_body_001",
+    "Text": "I'm the only one who has no memory of Dad... I really want to know him for myself."
+  },
+  "111611104": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_ai_aiyiyinxun_body_002",
+    "Text": "I've got just as much charm as my sisters, you know! ...Just kidding!"
+  },
+  "111611105": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Idle",
+    "File": "vo_ai_aiyiyinxun_idle_001",
+    "Text": "This place is so quiet and relaxing... perfect for working on my inventions!"
+  },
+  "111611106": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Annoyed",
+    "File": "vo_ai_aiyiyinxun_clicking_001",
+    "Text": "Hehe... do you care about me that much? Hmm... it doesn't feel too bad, I guess."
+  },
+  "111611107": {
+    "Sinner": "Kisugi Ai",
+    "Title": "Special Attention",
+    "File": "vo_ai_aiyiyinxun_specialattention_001",
+    "Text": "You left your work behind just for me?! You didn't have to do that... but I'm really glad!"
+  },
   "11210101": {
     "Sinner": "K.K.",
     "Title": "Obtain the Sinner",
@@ -30462,6 +32992,54 @@
     "Title": "Upgrade Skill",
     "File": "vo_fuluola_promotion_001",
     "Text": "This makes putting out fires a lot easier. You can look forward to my performance, Chief."
+  },
+  "112402100": {
+    "Sinner": "Flora",
+    "Title": "Attire Obtained",
+    "File": "vo_fuluola_fanghuoanquanxiaoketang_cacha_001",
+    "Text": "Everyone, pay attention! When using a fire extinguisher, remember the PASS method: Pull, Aim, Squeeze, Sw—Oh no... Ahem! This—this was actually a demonstration of what NOT to do! Remember, staying calm is crucial during emergencies. Now, let me show you the correct procedure!"
+  },
+  "112402101": {
+    "Sinner": "Flora",
+    "Title": "Level Up",
+    "File": "vo_fuluola_fanghuoanquanxiaoketang_levelup_001",
+    "Text": "I've memorized every word of the new fire extinguisher manual, front to back!"
+  },
+  "112402102": {
+    "Sinner": "Flora",
+    "Title": "Greeting",
+    "File": "vo_fuluola_fanghuoanquanxiaoketang_greeting_001",
+    "Text": "Hey, Chief! You came to the fire safety demonstration too? Come sit in the front row! I've already saved you a seat!"
+  },
+  "112402103": {
+    "Sinner": "Flora",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_fuluola_fanghuoanquanxiaoketang_talk1_001",
+    "Text": "Oh, I'm so sorry... I thought the nozzle was stuck, so I gave it an extra hard squeeze, and it sprayed too hard, and you were standing right there... Are you okay? Let me get you some tissues to dry your hair..."
+  },
+  "112402104": {
+    "Sinner": "Flora",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_fuluola_fanghuoanquanxiaoketang_talk1_002",
+    "Text": "Many areas with piled-up items around campus can pose serious fire hazards because these piles often contain flammable materials, like cardboard boxes, old textbooks, test papers with bad grades... Wait, what?"
+  },
+  "112402105": {
+    "Sinner": "Flora",
+    "Title": "Idle",
+    "File": "vo_fuluola_fanghuoanquanxiaoketang_idle_001",
+    "Text": "Even during breaks, I can't afford to slack off on practice! With just ten minutes, I can run through the extinguisher drill ten times!"
+  },
+  "112402106": {
+    "Sinner": "Flora",
+    "Title": "Annoyed",
+    "File": "vo_fuluola_fanghuoanquanxiaoketang_clicking_001",
+    "Text": "Hey, stop pulling on my sleeve! I can't aim properly... Wait, I didn't pull the safety pin? So that's the problem! No wonder nothing happened when I kept pressing the handle."
+  },
+  "112402107": {
+    "Sinner": "Flora",
+    "Title": "Special Attention",
+    "File": "vo_fuluola_fanghuoanquanxiaoketang_specialattention_001",
+    "Text": "Chief! I've mapped out an optimal evacuation route for fire emergencies. I will definitely get everyone safely to the field for this drill! Please watch closely!"
   },
   "11250101": {
     "Sinner": "Kelvin",
