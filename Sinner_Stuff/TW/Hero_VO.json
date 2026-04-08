@@ -233,6 +233,54 @@
     "File": "vo_dimeng_nihongzhixia_specialattention_001",
     "Text": "我會保護你安然無恙地完成任務，所以希望你不要畏首畏尾，浪費太多時間。"
   },
+  "110101110": {
+    "Sinner": "迪蒙",
+    "Title": "獲得套裝",
+    "File": "vo_dimeng_yuyetongtu_cacha_001",
+    "Text": "有些麻煩，總會趁著下雨天找上門來……我不是在說你，也不是在說這隻小貓。……你想的話，可以把牠帶回管理局。"
+  },
+  "110101111": {
+    "Sinner": "迪蒙",
+    "Title": "升級",
+    "File": "vo_dimeng_yuyetongtu_levelup_001",
+    "Text": "即使是下雨天，也不用擔心。"
+  },
+  "110101112": {
+    "Sinner": "迪蒙",
+    "Title": "問候",
+    "File": "vo_dimeng_yuyetongtu_greeting_001",
+    "Text": "牠總是四處張望，好像……一直在等你來。"
+  },
+  "110101113": {
+    "Sinner": "迪蒙",
+    "Title": "普通觸摸1",
+    "File": "vo_dimeng_yuyetongtu_body_001",
+    "Text": "這小傢伙一直響，還拿頭撞人，是什麼意思？"
+  },
+  "110101114": {
+    "Sinner": "迪蒙",
+    "Title": "普通觸摸2",
+    "File": "vo_dimeng_yuyetongtu_body_002",
+    "Text": "比起我，牠好像更親近你……可能是我身上的血腥味太重，嚇到牠了。"
+  },
+  "110101115": {
+    "Sinner": "迪蒙",
+    "Title": "閒置",
+    "File": "vo_dimeng_yuyetongtu_idle_001",
+    "Text": "別傻站著淋雨，過來。這傘……能遮得住你。"
+  },
+  "110101116": {
+    "Sinner": "迪蒙",
+    "Title": "煩躁",
+    "File": "vo_dimeng_yuyetongtu_clicking_001",
+    "Text": "這點雨算不了什麼，就算不用毛巾擦拭，也很快就會乾透。"
+  },
+  "110101117": {
+    "Sinner": "迪蒙",
+    "Title": "特別關注",
+    "File": "vo_dimeng_yuyetongtu_specialattention_001",
+    "Text": "即使是黏膩的雨天，我依舊能察覺到你的視線。說吧，只要你需要，我都會在。"
+  },
   "11010201": {
     "Sinner": "嗷嗚",
     "Title": "獲得禁閉者",
@@ -1744,6 +1792,192 @@
     "Title": "升技",
     "File": "vo_rust_promotion_001",
     "Text": "這讓我想起……在黑環裡的日子。"
+  },
+  "11010801": {
+    "Sinner": "離塵",
+    "Title": "獲得禁閉者",
+    "File": "vo_lichen_cacha_001",
+    "Text": "我自黑暗中……卜得你會在這一刻……走向我……此舉順天應人……我心甚慰……"
+  },
+  "11010802": {
+    "Sinner": "離塵",
+    "Title": "升至1階",
+    "File": "vo_lichen_promotion_001",
+    "Text": "……求死……亦求生……"
+  },
+  "11010803": {
+    "Sinner": "離塵",
+    "Title": "升至3階",
+    "File": "vo_lichen_promotion2_001",
+    "Text": "天地革，四時成，唯有以火燃盡枯枝，方能得獲新生！"
+  },
+  "11010804": {
+    "Sinner": "離塵",
+    "Title": "關卡開始",
+    "File": "vo_lichen_battlebegin_001",
+    "Text": "不利即戎，利有攸往，此戰……我們當勝。"
+  },
+  "11010805": {
+    "Sinner": "離塵",
+    "Title": "戰鬥勝利",
+    "File": "vo_lichen_battlewin_001",
+    "Text": "人能常清淨，天地悉皆歸。"
+  },
+  "11010806": {
+    "Sinner": "離塵",
+    "Title": "戰鬥失敗",
+    "File": "vo_lichen_battlelose_001",
+    "Text": "還有轉圜的餘地……"
+  },
+  "11010807": {
+    "Sinner": "離塵",
+    "Title": "必殺技",
+    "File": "bt_lichen_uniqueskill_001",
+    "Text": "剝極必復，否極必泰。"
+  },
+  "11010808": {
+    "Sinner": "離塵",
+    "Title": "戰鬥中死亡",
+    "File": "bt_lichen_dead_001",
+    "Text": "樂知天命而已矣……"
+  },
+  "11010809": {
+    "Sinner": "離塵",
+    "Title": "問候",
+    "File": "vo_lichen_greeting_001",
+    "Text": "啊……是你將吉兆引來，還是說……小友本身就為吉兆？"
+  },
+  "11010810": {
+    "Sinner": "離塵",
+    "Title": "交談1",
+    "File": "vo_lichen_talk1_001",
+    "Text": "這個葫蘆裡裝的……不是藥……是天地之意啊……"
+  },
+  "11010811": {
+    "Sinner": "離塵",
+    "Title": "交談2",
+    "File": "vo_lichen_talk1_002",
+    "Text": "無三不成幾……幫我找找……這第三枚銅錢……去哪了？"
+  },
+  "11010812": {
+    "Sinner": "離塵",
+    "Title": "交談3",
+    "File": "vo_lichen_talk1_003",
+    "Text": "我們往來所探求的，不過是斷天地之疑，引死生之間……"
+  },
+  "11010813": {
+    "Sinner": "離塵",
+    "Title": "特殊交談1",
+    "File": "vo_lichen_talk2_001",
+    "Text": "或許……長生和寂滅，不過為……人所嚮往的……不同的歸宿罷了。"
+  },
+  "11010814": {
+    "Sinner": "離塵",
+    "Title": "特殊交談2",
+    "File": "vo_lichen_talk2_002",
+    "Text": "只要……瞭解了死亡的意義……便能……不再害怕死亡。"
+  },
+  "11010815": {
+    "Sinner": "離塵",
+    "Title": "特殊交談3",
+    "File": "vo_lichen_talk2_003",
+    "Text": "肉體逝去，精神歸於自然，嚥於天地日月……我等在此不斷求索……唯盼小友能與我等一起……尋得最終意義……"
+  },
+  "11010816": {
+    "Sinner": "離塵",
+    "Title": "服從度升滿",
+    "File": "vo_lichen_obeyfull_001",
+    "Text": "撕去符條，銅鈴作響……你以生者之姿，以紅線為約，引導我們穿越死亡……若我能……回到你面前，請再次……將我們繫為一體吧……"
+  },
+  "11010817": {
+    "Sinner": "離塵",
+    "Title": "閒置",
+    "File": "vo_lichen_idle_001",
+    "Text": "道生一，一生二，二生三，三生……三生三世……也不過如此啊……"
+  },
+  "11010818": {
+    "Sinner": "離塵",
+    "Title": "煩躁",
+    "File": "vo_lichen_clicking_001",
+    "Text": "……小友此舉，甚是不妥……小心引來……殺身之禍。"
+  },
+  "11010819": {
+    "Sinner": "離塵",
+    "Title": "特別關注",
+    "File": "vo_lichen_specialattention_001",
+    "Text": "問過天地……鑑明真心……方能承住小友這樣……求索天命的眼神……"
+  },
+  "11010820": {
+    "Sinner": "離塵",
+    "Title": "派遣",
+    "File": "vo_lichen_dispatch_001",
+    "Text": "追逐天意者，當雲遊四方，品天下世人。"
+  },
+  "11010821": {
+    "Sinner": "離塵",
+    "Title": "派遣完成",
+    "File": "vo_lichen_dispatch2_001",
+    "Text": "收穫頗豐，我來……與小友分享。"
+  },
+  "11010822": {
+    "Sinner": "離塵",
+    "Title": "升級",
+    "File": "vo_lichen_levelup_002",
+    "Text": "……多謝小友，福澤無量。"
+  },
+  "11010823": {
+    "Sinner": "離塵",
+    "Title": "摸頭",
+    "File": "vo_lichen_head_001",
+    "Text": "這便是……愛人撫我頂，可否……共永生？"
+  },
+  "11010824": {
+    "Sinner": "離塵",
+    "Title": "加入隊伍",
+    "File": "bt_lichen_jointeam_001",
+    "Text": "卦象澤上於天，該……啟程了。"
+  },
+  "11010825": {
+    "Sinner": "離塵",
+    "Title": "危險",
+    "File": "bt_lichen_danger_001",
+    "Text": "N/A"
+  },
+  "11010826": {
+    "Sinner": "離塵",
+    "Title": "收到指令",
+    "File": "bt_lichen_getorder_001",
+    "Text": "N/A"
+  },
+  "11010827": {
+    "Sinner": "離塵",
+    "Title": "受擊",
+    "File": "bt_lichen_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11010828": {
+    "Sinner": "離塵",
+    "Title": "小技能",
+    "File": "bt_lichen_skill_001_1",
+    "Text": "N/A"
+  },
+  "11010829": {
+    "Sinner": "離塵",
+    "Title": "疑惑",
+    "File": "vo_lichen_doubt_001",
+    "Text": "N/A"
+  },
+  "11010830": {
+    "Sinner": "離塵",
+    "Title": "驚訝",
+    "File": "vo_lichen_shock_001",
+    "Text": "N/A"
+  },
+  "11010831": {
+    "Sinner": "離塵",
+    "Title": "升技",
+    "File": "vo_lichen_promotion_001",
+    "Text": "……求死……亦求生……"
   },
   "11020101": {
     "Sinner": "卓婭",
@@ -5697,6 +5931,54 @@
     "File": "vo_mantis_shenlinbangying_specialattention_001",
     "Text": "這裡別無他人，只有倒映在水中的兩道身影……以及……你與我相觸的目光……"
   },
+  "110305110": {
+    "Sinner": "曼緹斯",
+    "Title": "獲得套裝",
+    "File": "vo_mantis_lvyinbiji_cacha_001",
+    "Text": "這位同學，你也是來植物園研學的嗎？——欸，等等，那邊的蟲子排得真整齊，看起來像在集體遷徙。要不要過去看看？正好可以一起做觀察記錄。"
+  },
+  "110305111": {
+    "Sinner": "曼緹斯",
+    "Title": "升級",
+    "File": "vo_mantis_lvyinbiji_levelup_001",
+    "Text": "只要多給點陽光和時間，種子也能長成大樹。"
+  },
+  "110305112": {
+    "Sinner": "曼緹斯",
+    "Title": "問候",
+    "File": "vo_mantis_lvyinbiji_greeting_001",
+    "Text": "嗨，今天也來觀察植物嗎？那邊的花剛開，我想去看看它吸引來的第一批訪客是誰。"
+  },
+  "110305113": {
+    "Sinner": "曼緹斯",
+    "Title": "普通觸摸1",
+    "File": "vo_mantis_lvyinbiji_talk1_001",
+    "Text": "爸爸媽媽以前總說，只要肯蹲下身來仔細看看，世界就會變得不一樣……現在我明白了，哪怕只是一片小小葉子的底下，也藏著無數正在發生的奇蹟。"
+  },
+  "110305114": {
+    "Sinner": "曼緹斯",
+    "Title": "普通觸摸2",
+    "File": "vo_mantis_lvyinbiji_talk1_002",
+    "Text": "看，那兩株小草一直在風裡沙沙作響，也許它們正在說著什麼只有彼此才能聽得懂的話。"
+  },
+  "110305115": {
+    "Sinner": "曼緹斯",
+    "Title": "閒置",
+    "File": "vo_mantis_lvyinbiji_idle_001",
+    "Text": "光線透過葉子，顏色變成了綠的、金的，就像一場美麗的夢……再待一下子吧，我還想多看幾眼。"
+  },
+  "110305116": {
+    "Sinner": "曼緹斯",
+    "Title": "煩躁",
+    "File": "vo_mantis_lvyinbiji_clicking_001",
+    "Text": "唉呀，別搗亂啦！會嚇跑那些小蟲子的，我還在觀察牠們的行進路線呢……"
+  },
+  "110305117": {
+    "Sinner": "曼緹斯",
+    "Title": "特別關注",
+    "File": "vo_mantis_lvyinbiji_specialattention_001",
+    "Text": "你一直看著我幹嘛？連蝴蝶都不敢靠近你了……牠們大概以為你在捕獵呢。"
+  },
   "11030601": {
     "Sinner": "安吉爾",
     "Title": "獲得禁閉者",
@@ -6718,6 +7000,66 @@
     "Title": "升技",
     "File": "vo_hellasp_promotion_001",
     "Text": "躁動的靈魂……他們好像安靜下來了。"
+  },
+  "110310100": {
+    "Sinner": "幽冕·海拉",
+    "Title": "獲得套裝",
+    "File": "vo_hellasp_xingmengxixing_cacha_001",
+    "Text": "我做了一個好長的夢，和以前的夢不一樣，這次夢裡有一條閃著亮光的星河，漂亮得讓人覺得很幸福……所以，我就想讓所有我在意的人都能看到，讓他們也能感受到這樣的幸福！"
+  },
+  "110310101": {
+    "Sinner": "幽冕·海拉",
+    "Title": "升級",
+    "File": "vo_hellasp_xingmengxixing_levelup_001",
+    "Text": "嗯~！感覺擁有對抗一切黑暗的力量了！"
+  },
+  "110310102": {
+    "Sinner": "幽冕·海拉",
+    "Title": "問候",
+    "File": "vo_hellasp_xingmengxixing_greeting_001",
+    "Text": "歡迎來到：海拉大人的星河世界~！請MBCC局長支付本次的導遊費用……欸欸欸，別走啊~你要是能一直陪在海拉大人的身邊，或許海拉大人一開心就能讓你……賒帳哦！"
+  },
+  "110310103": {
+    "Sinner": "幽冕·海拉",
+    "Title": "摸頭",
+    "File": "vo_hellasp_xingmengxixing_head_001",
+    "Text": "這個花冠可是用星星的碎片裝飾起來的，怎麼樣，漂亮吧！什……什麼敲碎星星，那是我順手撿的星星碎片，才沒有一拳就把星星打碎呢！"
+  },
+  "110310104": {
+    "Sinner": "幽冕·海拉",
+    "Title": "普通觸摸1",
+    "File": "vo_hellasp_xingmengxixing_body_001",
+    "Text": "在這片星海中，我見過萬千世界、無數人的倒影，甚至也有我自己的——它們有的失敗、有的迷茫、也有依然努力著的……可唯一不會變的，是那個一直向我伸出手的笨蛋。"
+  },
+  "110310105": {
+    "Sinner": "幽冕·海拉",
+    "Title": "普通觸摸2",
+    "File": "vo_hellasp_xingmengxixing_body_002",
+    "Text": "以前我總覺得天上的那些光太遠了，就算跳起來，飛起來也碰不到。可現在我知道啦——只要一直往前走，就能慢慢地靠近它們，直到……碰到它們。"
+  },
+  "110310106": {
+    "Sinner": "幽冕·海拉",
+    "Title": "普通觸摸3",
+    "File": "vo_hellasp_xingmengxixing_leg_001",
+    "Text": "你不是常說，做事要一步一個台階、穩穩地走嘛。經歷了這麼多，我好像……有點懂你那句話的意思了。不過呢——要是我能一口氣跳三個台階的話……我才不會放過這個機會呢，嘻嘻！"
+  },
+  "110310107": {
+    "Sinner": "幽冕·海拉",
+    "Title": "普通觸摸4",
+    "File": "vo_hellasp_xingmengxixing_background_001",
+    "Text": "星光照不到的地方，也能靠我自己點亮——這就是我想成為的模樣。"
+  },
+  "110310108": {
+    "Sinner": "幽冕·海拉",
+    "Title": "閒置",
+    "File": "vo_hellasp_xingmengxixing_idle_001",
+    "Text": "嘿嘿，試聽結束了，再聽可是要買「海拉大會員」才行哦。"
+  },
+  "110310109": {
+    "Sinner": "幽冕·海拉",
+    "Title": "特別關注",
+    "File": "vo_hellasp_xingmengxixing_specialattention_001",
+    "Text": "啊，你發現我啦？不錯嘛，周圍這麼多漂亮的星星，你一眼就看到最漂亮的一顆啦！哼哼，這也算是你為數不多的優點吧！"
   },
   "11031101": {
     "Sinner": "賽托",

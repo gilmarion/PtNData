@@ -1177,6 +1177,178 @@
       }
     }
   },
+  "110108": {
+    "ID Num": 110108,
+    "Sinner": "离尘",
+    "Internal Name": "lichen",
+    "Sinner No": "MBCC-S-396",
+    "Tendency": "坚韧",
+    "Info": "擅长防守的禁闭者，可以阻挡<color=#63b4c3>2</color>个敌人。离尘<u><link=TipId=10800>灵感值</link></u>达到<color=#63b4c3>60</color>点时，可以释放必杀进入<u><link=TipId=10802>【破禁】</link></u>状态。若离尘未处于<u><link=TipId=10802>【破禁】</link></u>状态，则自动进入<u><link=TipId=10801>【禁锢】</link></u>状态。",
+    "Mania Intensify Title": "五火朝元",
+    "Mania Intensify Text": "若离尘处于<u><link=TipId=10801>【禁锢】</link></u>状态，则法抗提升<color=#63b4c3>10%</color>；若处于<u><link=TipId=10802>【破禁】</link></u>状态，则攻击提升<color=#63b4c3>5%</color>。",
+    "Primary Tags": [
+      "技能伤害辅助",
+      "燃烧",
+      "灵感值"
+    ],
+    "Secondary Tags": [
+      "法术伤害",
+      "核心伤害",
+      "技能伤害",
+      "承担伤害",
+      "进攻辅助",
+      "护盾辅助",
+      "致死免疫"
+    ],
+    "block": 2,
+    "hp": [
+      1782,
+      7662
+    ],
+    "atk": [
+      109,
+      467
+    ],
+    "def": [
+      155,
+      666
+    ],
+    "res": [
+      179,
+      769
+    ],
+    "Normal ATK": {
+      "Name": "离火",
+      "Desc": "离尘不进行普攻，而是持续摇动三清铃，每秒对技能范围内所有敌人附加<u><link=TipId=10804>【燃烧】</link></u>标记。",
+      "LVL 1": "【燃烧】标记伤害系数提升至<color=#63b4c3>50%</color>",
+      "LVL 2": "【燃烧】标记伤害系数提升至<color=#63b4c3>54%</color>",
+      "LVL 3": "【燃烧】标记伤害系数提升至<color=#63b4c3>58%</color>",
+      "LVL 4": "【燃烧】标记伤害系数提升至<color=#63b4c3>63%</color>",
+      "LVL 5": "【燃烧】标记伤害系数提升至<color=#63b4c3>68%</color>",
+      "LVL 6": "【燃烧】标记伤害系数提升至<color=#63b4c3>73%</color>",
+      "LVL 7": "【燃烧】标记伤害系数提升至<color=#63b4c3>79%</color>",
+      "LVL 8": "【燃烧】标记伤害系数提升至<color=#63b4c3>86%</color>",
+      "LVL 9": "【燃烧】标记伤害系数提升至<color=#63b4c3>93%</color>",
+      "LVL 10": "【燃烧】标记伤害系数提升至<color=#63b4c3>100%</color>",
+      "Can Crit": "No"
+    },
+    "Ultimate ATK": {
+      "Name": "焰诀",
+      "Desc": "处于<u><link=TipId=10801>【禁锢】</link></u>状态可以使用。离尘破除执念的禁锢，对技能范围内所有敌人造成1点<color=#c47d20>核心伤害</color>，并且进入<u><link=TipId=10802>【破禁】</link></u>状态，持续12秒。持续期间，离尘使技能范围内所有敌人受到技能伤害提升<color=#63b4c3>$0%</color>。",
+      "LVL 1": "受到技能伤害提升至<color=#63b4c3>15%</color>",
+      "LVL 2": "受到技能伤害提升至<color=#63b4c3>16.2%</color>",
+      "LVL 3": "受到技能伤害提升至<color=#63b4c3>17.5%</color>",
+      "LVL 4": "受到技能伤害提升至<color=#63b4c3>18.9%</color>",
+      "LVL 5": "受到技能伤害提升至<color=#63b4c3>20.4%</color>",
+      "LVL 6": "受到技能伤害提升至<color=#63b4c3>22%</color>",
+      "LVL 7": "受到技能伤害提升至<color=#63b4c3>23.8%</color>",
+      "LVL 8": "受到技能伤害提升至<color=#63b4c3>25.7%</color>",
+      "LVL 9": "受到技能伤害提升至<color=#63b4c3>27.8%</color>",
+      "LVL 10": "受到技能伤害提升至<color=#63b4c3>30%</color>",
+      "Can Crit": "No"
+    },
+    "Passive Skill 1": {
+      "Name": "火镇律令",
+      "Desc": "若处于<u><link=TipId=10801>【禁锢】</link></u>状态，则友方禁闭者附加<u><link=TipId=20530>【燃烧】</link></u>标记时，离尘使该禁闭者获得<u><link=TipId=3>护盾</link></u>，数值为离尘法抗的<color=#63b4c3>$0%</color>，但不超过该禁闭者生命的100%；<br/>若处于<u><link=TipId=10802>【破禁】</link></u>状态，则友方禁闭者附加<u><link=TipId=20530>【燃烧】</link></u>标记时，离尘使该禁闭者获得1层<u><link=TipId=10805>【火符文】</link></u>印记。",
+      "LVL 1": "护盾系数提升至<color=#63b4c3>20%</color><br/>【火符文】印记技能伤害提升至<color=#63b4c3>5%</color>",
+      "LVL 2": "护盾系数提升至<color=#63b4c3>21.6%</color><br/>【火符文】印记技能伤害提升至<color=#63b4c3>5.4%</color>",
+      "LVL 3": "护盾系数提升至<color=#63b4c3>23.3%</color><br/>【火符文】印记技能伤害提升至<color=#63b4c3>5.8%</color>",
+      "LVL 4": "护盾系数提升至<color=#63b4c3>25.2%</color><br/>【火符文】印记技能伤害提升至<color=#63b4c3>6.3%</color>",
+      "LVL 5": "护盾系数提升至<color=#63b4c3>27.2%</color><br/>【火符文】印记技能伤害提升至<color=#63b4c3>6.8%</color>",
+      "LVL 6": "护盾系数提升至<color=#63b4c3>29.4%</color><br/>【火符文】印记技能伤害提升至<color=#63b4c3>7.3%</color>",
+      "LVL 7": "护盾系数提升至<color=#63b4c3>31.7%</color><br/>【火符文】印记技能伤害提升至<color=#63b4c3>7.9%</color>",
+      "LVL 8": "护盾系数提升至<color=#63b4c3>34.3%</color><br/>【火符文】印记技能伤害提升至<color=#63b4c3>8.6%</color>",
+      "LVL 9": "护盾系数提升至<color=#63b4c3>37%</color><br/>【火符文】印记技能伤害提升至<color=#63b4c3>9.3%</color>",
+      "LVL 10": "护盾系数提升至<color=#63b4c3>40%</color><br/>【火符文】印记技能伤害提升至<color=#63b4c3>10%</color>",
+      "Can Crit": "No"
+    },
+    "Passive Skill 2": {
+      "Name": "三清振响",
+      "Desc": "进入<u><link=TipId=10802>【破禁】</link></u>状态时，离尘获得1层<u><link=TipId=10806>【帝钟】</link></u>印记。",
+      "LVL 1": "【帝钟】印记恢复系数提升至<color=#63b4c3>30%</color><br/>【帝钟】印记伤害系数提升至<color=#63b4c3>300%</color>",
+      "LVL 2": "【帝钟】印记恢复系数提升至<color=#63b4c3>32.4%</color><br/>【帝钟】印记伤害系数提升至<color=#63b4c3>324%</color>",
+      "LVL 3": "【帝钟】印记恢复系数提升至<color=#63b4c3>35%</color><br/>【帝钟】印记伤害系数提升至<color=#63b4c3>350%</color>",
+      "LVL 4": "【帝钟】印记恢复系数提升至<color=#63b4c3>37.8%</color><br/>【帝钟】印记伤害系数提升至<color=#63b4c3>378%</color>",
+      "LVL 5": "【帝钟】印记恢复系数提升至<color=#63b4c3>40.8%</color><br/>【帝钟】印记伤害系数提升至<color=#63b4c3>408%</color>",
+      "LVL 6": "【帝钟】印记恢复系数提升至<color=#63b4c3>44.1%</color><br/>【帝钟】印记伤害系数提升至<color=#63b4c3>441%</color>",
+      "LVL 7": "【帝钟】印记恢复系数提升至<color=#63b4c3>47.6%</color><br/>【帝钟】印记伤害系数提升至<color=#63b4c3>476%</color>",
+      "LVL 8": "【帝钟】印记恢复系数提升至<color=#63b4c3>51.4%</color><br/>【帝钟】印记伤害系数提升至<color=#63b4c3>514%</color>",
+      "LVL 9": "【帝钟】印记恢复系数提升至<color=#63b4c3>55.6%</color><br/>【帝钟】印记伤害系数提升至<color=#63b4c3>556%</color>",
+      "LVL 10": "【帝钟】印记恢复系数提升至<color=#63b4c3>60%</color><br/>【帝钟】印记伤害系数提升至<color=#63b4c3>600%</color>",
+      "Can Crit": "No"
+    },
+    "Exclusive Crimebrand": {
+      "Name": "天地自然",
+      "Lore": "“道法天地自然，命数却在我手。”",
+      "Desc": "进入战斗时，离尘获得<color=#63b4c3>30</color>点<u><link=TipId=10803>灵感值</link></u>。进入<u><link=TipId=10802>【破禁】</link></u>状态时，离尘额外获得1层<u><link=TipId=10806>【帝钟】</link></u>印记。",
+      "LVL 2": "进入战斗时，离尘获得<color=#63b4c3>45</color>点灵感值",
+      "LVL 3": "进入战斗时，离尘获得<color=#63b4c3>60</color>点灵感值"
+    },
+    "Shackles": {
+      "Shackle 1": {
+        "Name": "启请",
+        "Desc": "离尘进入<u><link=TipId=10802>【破禁】</link></u>状态时，所有友方禁闭者伤害提升<color=#63b4c3>20%</color>，持续<color=#63b4c3>12</color>秒。"
+      },
+      "Shackle 2": {
+        "Name": "枷锁同步Ⅰ",
+        "Desc": "法抗提升<color=#63b4c3>10%</color>。"
+      },
+      "Shackle 3": {
+        "Name": "焚秽",
+        "Desc": "<u><link=TipId=10805>【火符文】</link></u>印记效果提升<color=#63b4c3>50%</color>，持续时间延长<color=#63b4c3>4</color>秒。"
+      },
+      "Shackle 4": {
+        "Name": "炼祝",
+        "Desc": "友方禁闭者附加的<u><link=TipId=20530>【燃烧】</link></u>标记伤害系数提升至<color=#63b4c3>1.5</color>倍。"
+      },
+      "Shackle 5": {
+        "Name": "枷锁同步Ⅱ",
+        "Desc": "法抗提升<color=#63b4c3>10%</color>。"
+      }
+    },
+    "Compliance Rewards": {
+      "10%": {
+        "Stat1": {
+          "HP": "+88"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      },
+      "20%": {
+        "Stat1": {
+          "HP": "+88"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      },
+      "30%": {
+        "Stat1": {
+          "HP": "+88"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      },
+      "40%": {
+        "Stat1": {
+          "HP": "+88"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      },
+      "50%": {
+        "Stat1": {
+          "HP": "+89"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      }
+    }
+  },
   "110201": {
     "ID Num": 110201,
     "Sinner": "卓娅",
@@ -1919,7 +2091,7 @@
     "Shackles": {
       "Shackle 1": {
         "Name": "厄命",
-        "Desc": "曜吞噬友方禁闭者获得攻击的比例提升<color=#63b4c3>20%</color>。"
+        "Desc": "曜吞噬友方禁闭者获得攻击加成的比例提升<color=#63b4c3>20%</color>。"
       },
       "Shackle 2": {
         "Name": "枷锁同步Ⅰ",
@@ -9704,7 +9876,7 @@
     },
     "Passive Skill 1": {
       "Name": "安全航线",
-      "Desc": "释放必杀时，所有<u><link=TipId= 110321>【守护信标】</link></u>携带者恢复<color=#63b4c3>$0%</color>生命值。",
+      "Desc": "释放必杀时，所有<u><link=TipId=110321>【守护信标】</link></u>携带者恢复<color=#63b4c3>$0%</color>生命值。",
       "LVL 1": "治疗系数提升至<color=#63b4c3>11%</color>",
       "LVL 2": "治疗系数提升至<color=#63b4c3>11.7%</color>",
       "LVL 3": "治疗系数提升至<color=#63b4c3>12.5%</color>",
@@ -15984,7 +16156,7 @@
       },
       "Shackle 4": {
         "Name": "能量充盈",
-        "Desc": "战斗开始时，荷尔加获得<color=#63b4c3>18</color>点能量。"
+        "Desc": "进入战斗时，荷尔加获得<color=#63b4c3>18</color>点能量。"
       },
       "Shackle 5": {
         "Name": "枷锁同步Ⅲ",
@@ -16248,7 +16420,7 @@
     },
     "Passive Skill 2": {
       "Name": "失控烈焰",
-      "Desc": "<u><link=TipId=150241>【陨石】</link></u>造成伤害时，对敌人附加<u><link=TipId= 150242>【燃烧】</link></u>标记。",
+      "Desc": "<u><link=TipId=150241>【陨石】</link></u>造成伤害时，对敌人附加<u><link=TipId=150242>【燃烧】</link></u>标记。",
       "LVL 1": "【燃烧】标记伤害系数提升至<color=#63b4c3>15%</color>",
       "LVL 2": "【燃烧】标记伤害系数提升至<color=#63b4c3>16.2%</color>",
       "LVL 3": "【燃烧】标记伤害系数提升至<color=#63b4c3>17.5%</color>",

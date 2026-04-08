@@ -3321,6 +3321,161 @@
     }
   },
   "192": {
+    "Id": 1060001,
+    "Quality": "Purple",
+    "DispatchTitle": "암호화된 라디오",
+    "DispatchDescription": "도시에 갑자기 정체불명의 라디오가 나타나, 의미를 알 수 없는 숫자를 줄지어 송출하고 있다. 치안국은 이 신호가 새로운 통신 암호문일 것으로 의심하고 있으며, 잠재적 위협의 확산을 막기 위해 암호 해독 전문가 한 명의 지원을 요청했다.",
+    "DispatchSinners": {
+      "Sinner": "힐다"
+    },
+    "BaseAward": {
+      "Reward Item": "큐브",
+      "Reward Qty": "30.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "큐브",
+      "Reward Qty": "10.0"
+    }
+  },
+  "193": {
+    "Id": 1061001,
+    "Quality": "Purple",
+    "DispatchTitle": "히트작 촬영",
+    "DispatchDescription": "관리국의 일부 수감자가 자발적으로 단막극 팀을 만들었다. 현재 함께 반전과 갈등으로 가득한 이야기를 만들어 나갈 각본 작성이 특기인 수감자를 모집하는 중이다.",
+    "DispatchSinners": {
+      "Sinner": "이레이아"
+    },
+    "BaseAward": {
+      "Reward Item": "디스코인",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "디스코인",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "194": {
+    "Id": 1061002,
+    "Quality": "Green",
+    "DispatchTitle": "조명 지원",
+    "DispatchDescription": "신디케이트 구역에서 갱단 간의 충돌로 인해 일부 구역에 정전이 일어나 현지인들이 곤경에 처했다. 이에 치안국은 긴급 공지를 발표해, 관리국에서 수감자를 파견해 필수적인 조명과 생활 물자 지원을 수행해 줄 것을 요청했다.",
+    "DispatchSinners": {
+      "Sinner": "루미나"
+    },
+    "BaseAward": {
+      "Reward Item": "큐브",
+      "Reward Qty": "10.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "큐브",
+      "Reward Qty": "5.0"
+    }
+  },
+  "195": {
+    "Id": 1061003,
+    "Quality": "Blue",
+    "DispatchTitle": "안전 교육",
+    "DispatchDescription": "시민들의 안전 의식을 높이기 위해 치안국은 가정 내 화재 안전 교육을 진행할 예정이다. 관리국의 일부 수감자가 의무 참석 대상자로 지정되었으며, 인원을 일괄적으로 편성해 현장에 파견해야 한다.",
+    "DispatchSinners": {
+      "Sinner 1": "루미나",
+      "Sinner 2": "플로라"
+    },
+    "BaseAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "4000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "광란의 정수",
+      "Reward Qty": "1000.0"
+    }
+  },
+  "196": {
+    "Id": 1062001,
+    "Quality": "Purple",
+    "DispatchTitle": "자선가",
+    "DispatchDescription": "소식에 따르면, 신성에서 비밀리에 진행된 한 자선 경매에 변이 오염을 지닌 경매품이 등장했다고 한다. 관리국이 해당 경매품을 조사할 수 있도록 자선 분야에서 명망이 높은 인물이 알선 역할을 맡아야 한다.",
+    "DispatchSinners": {
+      "Sinner": "마가렛"
+    },
+    "BaseAward": {
+      "Reward Item": "디스코인",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "디스코인",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "197": {
+    "Id": 1062002,
+    "Quality": "Purple",
+    "DispatchTitle": "위험한 연구",
+    "DispatchDescription": "링 연구소가 관측 및 조사 작업을 위해 블랙링 유적 인근에 학술 단체를 파견했다. 연구 인원의 안전을 보장하기 위해 블랙링 내부에 대해 이해가 깊은 수감자의 동행이 필요하다.",
+    "DispatchSinners": {
+      "Sinner": "러스트"
+    },
+    "BaseAward": {
+      "Reward Item": "붉은 결정",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "정교한 레드 스톤 광석",
+      "Reward Qty": "1.0"
+    }
+  },
+  "198": {
+    "Id": 1062003,
+    "Quality": "Green",
+    "DispatchTitle": "정확한 저격",
+    "DispatchDescription": "신성 번화가에서 인질 납치 사건이 발생했다. 범인의 위험도가 높아 치안국은 긴급히 저격수 한 명을 소집했다. 극한 거리에서 사격할 수 있고 목표를 단 한 발로 사살할 수 있는 정확성을 겸비한 수감자를 파견해야 한다.",
+    "DispatchSinners": {
+      "Sinner": "헬가"
+    },
+    "BaseAward": {
+      "Reward Item": "정교한 눈물석 광석",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "거친 눈물석 광석",
+      "Reward Qty": "1.0"
+    }
+  },
+  "199": {
+    "Id": 1062004,
+    "Quality": "Blue",
+    "DispatchTitle": "죽음의 드론",
+    "DispatchDescription": "신성의 한 드론 배송 거점에서 핵심 기계 고장이 발생해 다수의 드론이 통제 불능 상태에 빠졌다. 안전상 위험이 매우 커, 기계 지식에 능통한 수감자 2명을 특별 파견하여 지원해야 한다.",
+    "DispatchSinners": {
+      "Sinner 1": "헬가",
+      "Sinner 2": "유레카"
+    },
+    "BaseAward": {
+      "Reward Item": "정교한 곡선형 구리 광석",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "정교한 곡선형 구리 광석",
+      "Reward Qty": "1.0"
+    }
+  },
+  "200": {
+    "Id": 1063001,
+    "Quality": "Purple",
+    "DispatchTitle": "현학 사기",
+    "DispatchDescription": "최근 신성에 동방 대륙의 현학을 내세워 사기를 치는 무리가 출몰했고, 이들의 사기 수법이 치밀해 많은 피해자가 재산을 잃었다. 현재 관리국은 동방 대륙 민속에 대해 잘 아는 전문가를 파견하여 수사를 지원해야 한다.",
+    "DispatchSinners": {
+      "Sinner": "리진"
+    },
+    "BaseAward": {
+      "Reward Item": "감염된 다리",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "원시적 다리",
+      "Reward Qty": "1.0"
+    }
+  },
+  "205": {
     "Id": 1099001,
     "Quality": "Green",
     "DispatchTitle": "꿈의 해석",

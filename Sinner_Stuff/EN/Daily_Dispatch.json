@@ -3321,6 +3321,161 @@
     }
   },
   "192": {
+    "Id": 1060001,
+    "Quality": "Purple",
+    "DispatchTitle": "Encrypted Radio",
+    "DispatchDescription": "A mysterious, unregistered radio signal has begun transmitting across the urban district, its broadcast consisting of nothing but sequences of random numbers. The Public Security Bureau fears this may be a new form of encrypted communication. To contain the potential risk, they are urgently recruiting a skilled cryptographer to aid in the decoding operation.",
+    "DispatchSinners": {
+      "Sinner": "Hilda"
+    },
+    "BaseAward": {
+      "Reward Item": "Hypercube",
+      "Reward Qty": "30.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Hypercube",
+      "Reward Qty": "10.0"
+    }
+  },
+  "193": {
+    "Id": 1061001,
+    "Quality": "Purple",
+    "DispatchTitle": "Smash Hit Series",
+    "DispatchDescription": "Some Sinners have formed a mini-series production crew in the Bureau and are now recruiting Sinners with strong writing skills to help craft scripts full of dramatic twists and intense conflicts.",
+    "DispatchSinners": {
+      "Sinner": "Irrheia"
+    },
+    "BaseAward": {
+      "Reward Item": "DisCoins",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "DisCoins",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "194": {
+    "Id": 1061002,
+    "Quality": "Green",
+    "DispatchTitle": "Illumination Needed",
+    "DispatchDescription": "Gang conflicts in Syndicate have caused a partial blackout, leaving residents in a crisis. The Public Security Bureau has issued an emergency notice requesting the Bureau to send Sinners to provide illumination and humanitarian aid.",
+    "DispatchSinners": {
+      "Sinner": "Rumina"
+    },
+    "BaseAward": {
+      "Reward Item": "Hypercube",
+      "Reward Qty": "10.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Hypercube",
+      "Reward Qty": "5.0"
+    }
+  },
+  "195": {
+    "Id": 1061003,
+    "Quality": "Blue",
+    "DispatchTitle": "Safety Seminar",
+    "DispatchDescription": "The Public Security Bureau will be hosting a household fire safety seminar to raise public safety awareness. Certain Sinners within the Bureau are required to attend and will now be selected together.",
+    "DispatchSinners": {
+      "Sinner 1": "Rumina",
+      "Sinner 2": "Flora"
+    },
+    "BaseAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "4000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Mania Essence",
+      "Reward Qty": "1000.0"
+    }
+  },
+  "196": {
+    "Id": 1062001,
+    "Quality": "Purple",
+    "DispatchTitle": "Charity Ambassador",
+    "DispatchDescription": "Reports indicate that an alleged Mania-contaminated item has appeared at a private charity auction in Eastside. A reputable figure in philanthropic circles is urgently needed to serve as an intermediary, facilitating the Bureau's investigation into the item.",
+    "DispatchSinners": {
+      "Sinner": "Margaret"
+    },
+    "BaseAward": {
+      "Reward Item": "DisCoins",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "DisCoins",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "197": {
+    "Id": 1062002,
+    "Quality": "Purple",
+    "DispatchTitle": "Dangerous Research",
+    "DispatchDescription": "The Ring Research Institute is sending an academic team to conduct observations and surveys near a Black Ring ruin. A Sinner who is knowledgeable about the interior structure of a Black Ring is required to accompany the team and ensure the researchers' safety.",
+    "DispatchSinners": {
+      "Sinner": "Rust"
+    },
+    "BaseAward": {
+      "Reward Item": "Red Crystal",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Red Stone Concentrate",
+      "Reward Qty": "1.0"
+    }
+  },
+  "198": {
+    "Id": 1062003,
+    "Quality": "Green",
+    "DispatchTitle": "Reticle Sniper",
+    "DispatchDescription": "A kidnapping case has arisen in a commercial district in Eastside. The kidnapper is highly dangerous, prompting the Public Security Bureau to urgently request a sniper. Requirements: The operative must be capable of engaging from extreme range and neutralizing the target with a single lethal shot.",
+    "DispatchSinners": {
+      "Sinner": "Helga"
+    },
+    "BaseAward": {
+      "Reward Item": "Tear Stone Concentrate",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Tear Stone Raw Ore",
+      "Reward Qty": "1.0"
+    }
+  },
+  "199": {
+    "Id": 1062004,
+    "Quality": "Blue",
+    "DispatchTitle": "Killer Drone",
+    "DispatchDescription": "A central system malfunction has occurred at a drone delivery hub in Eastside, causing numerous drones to go haywire over the city and posing a significant public safety hazard. Two Sinners with expertise in machines need to be sent to provide emergency support.",
+    "DispatchSinners": {
+      "Sinner 1": "Helga",
+      "Sinner 2": "Eureka"
+    },
+    "BaseAward": {
+      "Reward Item": "Bronze Concentrate",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Bronze Concentrate",
+      "Reward Qty": "1.0"
+    }
+  },
+  "200": {
+    "Id": 1063001,
+    "Quality": "Purple",
+    "DispatchTitle": "Mysticism Fraud Busting",
+    "DispatchDescription": "Recently, a fraud ring has emerged in Eastside, using Eastian mysticism as a front for their scams. Due to their sophisticated methods, many citizens have been swindled and lost everything. The Bureau has been requested to send an expert well-versed in Eastian folklore to assist in solving this case.",
+    "DispatchSinners": {
+      "Sinner": "Lichen"
+    },
+    "BaseAward": {
+      "Reward Item": "Infected Tentacle",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "Organic Tentacle",
+      "Reward Qty": "1.0"
+    }
+  },
+  "205": {
     "Id": 1099001,
     "Quality": "Green",
     "DispatchTitle": "Dream Interpretation",

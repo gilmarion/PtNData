@@ -1177,6 +1177,178 @@
       }
     }
   },
+  "110108": {
+    "ID Num": 110108,
+    "Sinner": "리진",
+    "Internal Name": "lichen",
+    "Sinner No": "MBCC-S-396",
+    "Tendency": "엔듀라",
+    "Info": "수비에 뛰어난 수감자, 동시에 <color=#63b4c3>2</color>명을 저지할 수 있다. 리진의 <u><link=TipId=10800>영감 수치</link></u>가 <color=#63b4c3>60</color>포인트에 도달할 시, 필살기를 시전해 <u><link=TipId=10802>[속박 해제]</link></u> 상태에 진입할 수 있다. <u><link=TipId=10802>[속박 해제]</link></u> 상태가 아닐 때, 자동으로 <u><link=TipId=10801>[속박]</link></u> 상태에 진입한다.",
+    "Mania Intensify Title": "불꽃의 기운",
+    "Mania Intensify Text": "리진이 <u><link=TipId=10801>[속박]</link></u> 상태일 시, 마법 저항력이 <color=#63b4c3>10%</color> 증가하며, <u><link=TipId=10802>[속박 해제]</link></u> 상태일 시, 공격력이 <color=#63b4c3>5%</color> 증가한다.",
+    "Primary Tags": [
+      "스킬 대미지 보조",
+      "연소",
+      "영감 수치"
+    ],
+    "Secondary Tags": [
+      "마법 대미지",
+      "코어 대미지",
+      "스킬 대미지",
+      "받는 대미지",
+      "공격 보조",
+      "실드 보조",
+      "즉사 면역"
+    ],
+    "block": 2,
+    "hp": [
+      1782,
+      7662
+    ],
+    "atk": [
+      109,
+      467
+    ],
+    "def": [
+      155,
+      666
+    ],
+    "res": [
+      179,
+      769
+    ],
+    "Normal ATK": {
+      "Name": "이괘의 불",
+      "Desc": "리진이 일반 공격을 진행하지 않고, 지속적으로 삼청령을 흔든다. 매초 스킬 범위 내 모든 적에게 <u><link=TipId=10804>[연소]</link></u> 표식을 부여한다.",
+      "LVL 1": "[연소] 표식의 대미지 계수 <color=#63b4c3>50%</color>로 증가",
+      "LVL 2": "[연소] 표식의 대미지 계수 <color=#63b4c3>54%</color>로 증가",
+      "LVL 3": "[연소] 표식의 대미지 계수 <color=#63b4c3>58%</color>로 증가",
+      "LVL 4": "[연소] 표식의 대미지 계수 <color=#63b4c3>63%</color>로 증가",
+      "LVL 5": "[연소] 표식의 대미지 계수 <color=#63b4c3>68%</color>로 증가",
+      "LVL 6": "[연소] 표식의 대미지 계수 <color=#63b4c3>73%</color>로 증가",
+      "LVL 7": "[연소] 표식의 대미지 계수 <color=#63b4c3>79%</color>로 증가",
+      "LVL 8": "[연소] 표식의 대미지 계수 <color=#63b4c3>86%</color>로 증가",
+      "LVL 9": "[연소] 표식의 대미지 계수 <color=#63b4c3>93%</color>로 증가",
+      "LVL 10": "[연소] 표식의 대미지 계수 <color=#63b4c3>100%</color>로 증가",
+      "Can Crit": "No"
+    },
+    "Ultimate ATK": {
+      "Name": "불의 주문",
+      "Desc": "<u><link=TipId=10801>[속박]</link></u> 상태일 시, 사용할 수 있다. 리진이 집념의 속박을 깨뜨려 스킬 범위 내 모든 적에게 1포인트의 <color=#c47d20>코어 대미지</color>를 입히며, 12초간 <u><link=TipId=10802>[속박 해제]</link></u> 상태에 진입한다. 지속 시간 동안 리진은 스킬 범위 내 모든 적의 받는 스킬 대미지를 <color=#63b4c3>$0%</color> 증가한다.",
+      "LVL 1": "받는 스킬 대미지 <color=#63b4c3>15%</color>로 증가",
+      "LVL 2": "받는 스킬 대미지 <color=#63b4c3>16.2%</color>로 증가",
+      "LVL 3": "받는 스킬 대미지 <color=#63b4c3>17.5%</color>로 증가",
+      "LVL 4": "받는 스킬 대미지 <color=#63b4c3>18.9%</color>로 증가",
+      "LVL 5": "받는 스킬 대미지 <color=#63b4c3>20.4%</color>로 증가",
+      "LVL 6": "받는 스킬 대미지 <color=#63b4c3>22%</color>로 증가",
+      "LVL 7": "받는 스킬 대미지 <color=#63b4c3>23.8%</color>로 증가",
+      "LVL 8": "받는 스킬 대미지 <color=#63b4c3>25.7%</color>로 증가",
+      "LVL 9": "받는 스킬 대미지 <color=#63b4c3>27.8%</color>로 증가",
+      "LVL 10": "받는 스킬 대미지 <color=#63b4c3>30%</color>로 증가",
+      "Can Crit": "No"
+    },
+    "Passive Skill 1": {
+      "Name": "화염의 율령",
+      "Desc": "<u><link=TipId=10801>[속박]</link></u> 상태일 시, 아군 수감자가 <u><link=TipId=20530>[연소]</link></u> 표식을 부여하면 리진은 해당 수감자에게 <u><link=TipId=3>실드</link></u>를 부여한다. 해당 수치는 리진 마법 저항력의 <color=#63b4c3>$0%</color>이며, 해당 수감자 HP의 100%를 초과할 수 없다.<br/><u><link=TipId=10802>[속박 해제]</link></u> 상태일 시, 아군 수감자가 <u><link=TipId=20530>[연소]</link></u> 표식을 부여하면 리진은 해당 수감자에게 1스택의 <u><link=TipId=10805>[불 부적]</link></u> 각인을 부여한다.",
+      "LVL 1": "실드 계수 <color=#63b4c3>20%</color>로 증가<br/>[불 부적] 각인의 스킬 대미지 <color=#63b4c3>5%</color>로 증가",
+      "LVL 2": "실드 계수 <color=#63b4c3>21.6%</color>로 증가<br/>[불 부적] 각인의 스킬 대미지 <color=#63b4c3>5.4%</color>로 증가",
+      "LVL 3": "실드 계수 <color=#63b4c3>23.3%</color>로 증가<br/>[불 부적] 각인의 스킬 대미지 <color=#63b4c3>5.8%</color>로 증가",
+      "LVL 4": "실드 계수 <color=#63b4c3>25.2%</color>로 증가<br/>[불 부적] 각인의 스킬 대미지 <color=#63b4c3>6.3%</color>로 증가",
+      "LVL 5": "실드 계수 <color=#63b4c3>27.2%</color>로 증가<br/>[불 부적] 각인의 스킬 대미지 <color=#63b4c3>6.8%</color>로 증가",
+      "LVL 6": "실드 계수 <color=#63b4c3>29.4%</color>로 증가<br/>[불 부적] 각인의 스킬 대미지 <color=#63b4c3>7.3%</color>로 증가",
+      "LVL 7": "실드 계수 <color=#63b4c3>31.7%</color>로 증가<br/>[불 부적] 각인의 스킬 대미지 <color=#63b4c3>7.9%</color>로 증가",
+      "LVL 8": "실드 계수 <color=#63b4c3>34.3%</color>로 증가<br/>[불 부적] 각인의 스킬 대미지 <color=#63b4c3>8.6%</color>로 증가",
+      "LVL 9": "실드 계수 <color=#63b4c3>37%</color>로 증가<br/>[불 부적] 각인의 스킬 대미지 <color=#63b4c3>9.3%</color>로 증가",
+      "LVL 10": "실드 계수 <color=#63b4c3>40%</color>로 증가<br/>[불 부적] 각인의 스킬 대미지 <color=#63b4c3>10%</color>로 증가",
+      "Can Crit": "No"
+    },
+    "Passive Skill 2": {
+      "Name": "삼청의 울림",
+      "Desc": "<u><link=TipId=10802>[속박 해제]</link></u> 상태일 시, 리진이 1스택의 <u><link=TipId=10806>[제령]</link></u> 각인을 획득한다.",
+      "LVL 1": "[제령] 각인의 회복 계수 <color=#63b4c3>30%</color>로 증가<br/>[제령] 각인의 대미지 계수 <color=#63b4c3>300%</color>로 증가",
+      "LVL 2": "[제령] 각인의 회복 계수 <color=#63b4c3>32.4%</color>로 증가<br/>[제령] 각인의 대미지 계수 <color=#63b4c3>324%</color>로 증가",
+      "LVL 3": "[제령] 각인의 회복 계수 <color=#63b4c3>35%</color>로 증가<br/>[제령] 각인의 대미지 계수 <color=#63b4c3>350%</color>로 증가",
+      "LVL 4": "[제령] 각인의 회복 계수 <color=#63b4c3>37.8%</color>로 증가<br/>[제령] 각인의 대미지 계수 <color=#63b4c3>378%</color>로 증가",
+      "LVL 5": "[제령] 각인의 회복 계수 <color=#63b4c3>40.8%</color>로 증가<br/>[제령] 각인의 대미지 계수 <color=#63b4c3>408%</color>로 증가",
+      "LVL 6": "[제령] 각인의 회복 계수 <color=#63b4c3>44.1%</color>로 증가<br/>[제령] 각인의 대미지 계수 <color=#63b4c3>441%</color>로 증가",
+      "LVL 7": "[제령] 각인의 회복 계수 <color=#63b4c3>47.6%</color>로 증가<br/>[제령] 각인의 대미지 계수 <color=#63b4c3>476%</color>로 증가",
+      "LVL 8": "[제령] 각인의 회복 계수 <color=#63b4c3>51.4%</color>로 증가<br/>[제령] 각인의 대미지 계수 <color=#63b4c3>514%</color>로 증가",
+      "LVL 9": "[제령] 각인의 회복 계수 <color=#63b4c3>55.6%</color>로 증가<br/>[제령] 각인의 대미지 계수 <color=#63b4c3>556%</color>로 증가",
+      "LVL 10": "[제령] 각인의 회복 계수 <color=#63b4c3>60%</color>로 증가<br/>[제령] 각인의 대미지 계수 <color=#63b4c3>600%</color>로 증가",
+      "Can Crit": "No"
+    },
+    "Exclusive Crimebrand": {
+      "Name": "천지자연",
+      "Lore": "'도는 천지자연을 따르나, 운명은 내 손안에 있도다.'",
+      "Desc": "전투 시작 시, 리진이 <color=#63b4c3>30</color>포인트의 <u><link=TipId=10803>영감 수치</link></u>를 획득한다. <u><link=TipId=10802>[속박 해제]</link></u> 상태 진입 시, 리진은 추가로 1스택의 <u><link=TipId=10806>[제령]</link></u> 각인을 획득한다.",
+      "LVL 2": "전투 시작 시, 리진이 <color=#63b4c3>45</color>포인트의 영감 수치 획득",
+      "LVL 3": "전투 시작 시, 리진이 <color=#63b4c3>60</color>포인트의 영감 수치 획득"
+    },
+    "Shackles": {
+      "Shackle 1": {
+        "Name": "정중한 초대",
+        "Desc": "리진이 <u><link=TipId=10802>[속박 해제]</link></u> 상태에 진입할 때, <color=#63b4c3>12</color>초간 모든 아군 수감자의 대미지가 <color=#63b4c3>20%</color> 증가한다."
+      },
+      "Shackle 2": {
+        "Name": "족쇄 동기화 I",
+        "Desc": "마법 저항력 <color=#63b4c3>10%</color> 증가"
+      },
+      "Shackle 3": {
+        "Name": "부정 소각",
+        "Desc": "<u><link=TipId=10805>[불 부적]</link></u> 각인의 효과가 <color=#63b4c3>50%</color> 증가하고, 지속 시간이 <color=#63b4c3>4</color>초 연장된다."
+      },
+      "Shackle 4": {
+        "Name": "축복 제련",
+        "Desc": "아군 수감자가 부여한 <u><link=TipId=20530>[연소]</link></u> 표식의 대미지 계수가 <color=#63b4c3>1.5</color>배로 증가한다."
+      },
+      "Shackle 5": {
+        "Name": "족쇄 동기화 II",
+        "Desc": "마법 저항력이 <color=#63b4c3>10%</color> 증가한다."
+      }
+    },
+    "Compliance Rewards": {
+      "10%": {
+        "Stat1": {
+          "HP": "+88"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      },
+      "20%": {
+        "Stat1": {
+          "HP": "+88"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      },
+      "30%": {
+        "Stat1": {
+          "HP": "+88"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      },
+      "40%": {
+        "Stat1": {
+          "HP": "+88"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      },
+      "50%": {
+        "Stat1": {
+          "HP": "+89"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      }
+    }
+  },
   "110201": {
     "ID Num": 110201,
     "Sinner": "조야",
@@ -1919,7 +2091,7 @@
     "Shackles": {
       "Shackle 1": {
         "Name": "액운의 운명",
-        "Desc": "야오가 아군 수감자를 삼키고 획득하는 공격력의 비율이 <color=#63b4c3>20%</color> 증가한다."
+        "Desc": "야오가 아군 수감자를 삼켜 획득하는 공격력의 비율이 <color=#63b4c3>20%</color> 증가한다."
       },
       "Shackle 2": {
         "Name": "족쇄 동기화 I",
@@ -15984,7 +16156,7 @@
       },
       "Shackle 4": {
         "Name": "에너지 충족",
-        "Desc": "전투 시작 시, 헬가는 <color=#63b4c3>18</color>포인트의 에너지를 획득한다."
+        "Desc": "전투 진입 시, 헬가는 <color=#63b4c3>18</color>포인트의 에너지를 획득한다."
       },
       "Shackle 5": {
         "Name": "족쇄 동기화 III",

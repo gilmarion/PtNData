@@ -233,6 +233,54 @@
     "File": "vo_dimeng_nihongzhixia_specialattention_001",
     "Text": "I'll keep you safe and sound so you can complete the mission. I hope you muster enough courage and don't waste too much time."
   },
+  "110101110": {
+    "Sinner": "Demon",
+    "Title": "Attire Obtained",
+    "File": "vo_dimeng_yuyetongtu_cacha_001",
+    "Text": "Sometimes, you find trouble waiting for you around every corner on rainy days... I'm not talking about you, nor about this little cat. ...If you want, you can bring it back to the Bureau."
+  },
+  "110101111": {
+    "Sinner": "Demon",
+    "Title": "Level Up",
+    "File": "vo_dimeng_yuyetongtu_levelup_001",
+    "Text": "Even on rainy days, you don't need to worry."
+  },
+  "110101112": {
+    "Sinner": "Demon",
+    "Title": "Greeting",
+    "File": "vo_dimeng_yuyetongtu_greeting_001",
+    "Text": "It's looking around, as if... it's been waiting for you."
+  },
+  "110101113": {
+    "Sinner": "Demon",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_dimeng_yuyetongtu_body_001",
+    "Text": "This fellow keeps mewing and headbutting people. What does it mean?"
+  },
+  "110101114": {
+    "Sinner": "Demon",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_dimeng_yuyetongtu_body_002",
+    "Text": "It seems more attached to you than me... Maybe it was frightened by the scent of blood on me."
+  },
+  "110101115": {
+    "Sinner": "Demon",
+    "Title": "Idle",
+    "File": "vo_dimeng_yuyetongtu_idle_001",
+    "Text": "Don't just stand there in the rain. Come here. This umbrella... is enough to cover you."
+  },
+  "110101116": {
+    "Sinner": "Demon",
+    "Title": "Annoyed",
+    "File": "vo_dimeng_yuyetongtu_clicking_001",
+    "Text": "A bit of rain is nothing. Even without a towel, I'll dry off soon enough."
+  },
+  "110101117": {
+    "Sinner": "Demon",
+    "Title": "Special Attention",
+    "File": "vo_dimeng_yuyetongtu_specialattention_001",
+    "Text": "Even on a humid rainy day like this, I can still sense your gaze. Speak up—as long as you need me, I'll be here."
+  },
   "11010201": {
     "Sinner": "OwO",
     "Title": "Obtain the Sinner",
@@ -1744,6 +1792,192 @@
     "Title": "Upgrade Skill",
     "File": "vo_rust_promotion_001",
     "Text": "This reminds me of... my days in the Black Ring."
+  },
+  "11010801": {
+    "Sinner": "Lichen",
+    "Title": "Obtain the Sinner",
+    "File": "vo_lichen_cacha_001",
+    "Text": "From the darkness... I have divined your arrival at this very moment... A well-destined sign... It pleases me..."
+  },
+  "11010802": {
+    "Sinner": "Lichen",
+    "Title": "Raise to Phase 1",
+    "File": "vo_lichen_promotion_001",
+    "Text": "The pursuit of death... is the pursuit of life..."
+  },
+  "11010803": {
+    "Sinner": "Lichen",
+    "Title": "Raise to Phase 3",
+    "File": "vo_lichen_promotion2_001",
+    "Text": "Heaven and earth evolve to form the four seasons. Burn away the dead branches for the rise of new life!"
+  },
+  "11010804": {
+    "Sinner": "Lichen",
+    "Title": "Level Start",
+    "File": "vo_lichen_battlebegin_001",
+    "Text": "In ill fortune, we do not wage war. When times favor us, we advance. This battle... is ours to win."
+  },
+  "11010805": {
+    "Sinner": "Lichen",
+    "Title": "Victory",
+    "File": "vo_lichen_battlewin_001",
+    "Text": "When one is always at peace within, the world shall return to harmony."
+  },
+  "11010806": {
+    "Sinner": "Lichen",
+    "Title": "Lose Battles",
+    "File": "vo_lichen_battlelose_001",
+    "Text": "There is still room for redemption..."
+  },
+  "11010807": {
+    "Sinner": "Lichen",
+    "Title": "Ultimate Skill",
+    "File": "bt_lichen_uniqueskill_001",
+    "Text": "At the end of decline, all shall rise again."
+  },
+  "11010808": {
+    "Sinner": "Lichen",
+    "Title": "Die in Battles",
+    "File": "bt_lichen_dead_001",
+    "Text": "It suffices to heed heaven's order..."
+  },
+  "11010809": {
+    "Sinner": "Lichen",
+    "Title": "Greeting",
+    "File": "vo_lichen_greeting_001",
+    "Text": "Ah... did you bring this auspicious omen, or... are you the omen, young friend?"
+  },
+  "11010810": {
+    "Sinner": "Lichen",
+    "Title": "Conversation 1",
+    "File": "vo_lichen_talk1_001",
+    "Text": "This gourd does not contain medicine... but the will of heaven and earth..."
+  },
+  "11010811": {
+    "Sinner": "Lichen",
+    "Title": "Conversation 2",
+    "File": "vo_lichen_talk1_002",
+    "Text": "The third time is the charm... Help me look... Where did that third copper coin go?"
+  },
+  "11010812": {
+    "Sinner": "Lichen",
+    "Title": "Conversation 3",
+    "File": "vo_lichen_talk1_003",
+    "Text": "What we seek, in our every return and departure, is merely to solve the mystery of this world, and to trace a line between death and life..."
+  },
+  "11010813": {
+    "Sinner": "Lichen",
+    "Title": "Special Conversation 1",
+    "File": "vo_lichen_talk2_001",
+    "Text": "Perhaps... immortality and annihilation... are just different destinations... that people long for."
+  },
+  "11010814": {
+    "Sinner": "Lichen",
+    "Title": "Special Conversation 2",
+    "File": "vo_lichen_talk2_002",
+    "Text": "Once one understands... the meaning of death... they no longer need to fear it."
+  },
+  "11010815": {
+    "Sinner": "Lichen",
+    "Title": "Special Conversation 3",
+    "File": "vo_lichen_talk2_003",
+    "Text": "When the flesh perishes, the spirit returns to nature, swallowed by heaven, earth, sun, and moon... We continue our endless search here... I only hope you might join us, young friend... in finding the ultimate meaning..."
+  },
+  "11010816": {
+    "Sinner": "Lichen",
+    "Title": "Full Compliance",
+    "File": "vo_lichen_obeyfull_001",
+    "Text": "Rip the talisman, ring the copper bell... You, the living bound by red thread, shall guide us through death... If I can return to you, please... bind us as one once more..."
+  },
+  "11010817": {
+    "Sinner": "Lichen",
+    "Title": "Idle",
+    "File": "vo_lichen_idle_001",
+    "Text": "The Way gave rise to One, One to Two, Two to Three, Three to... Three lifetimes... That's not a very long time..."
+  },
+  "11010818": {
+    "Sinner": "Lichen",
+    "Title": "Annoyed",
+    "File": "vo_lichen_clicking_001",
+    "Text": "...Young friend, this is... rather improper... Beware of... fatal disaster."
+  },
+  "11010819": {
+    "Sinner": "Lichen",
+    "Title": "Special Attention",
+    "File": "vo_lichen_specialattention_001",
+    "Text": "I have consulted heaven and earth... and asked my heart... It's the only reason I can withstand such a gaze from you, young friend... Eyes that seek to know all the divine secrets..."
+  },
+  "11010820": {
+    "Sinner": "Lichen",
+    "Title": "Dispatch",
+    "File": "vo_lichen_dispatch_001",
+    "Text": "Those who chase the divine will must wander the world and observe all lives."
+  },
+  "11010821": {
+    "Sinner": "Lichen",
+    "Title": "Dispatch Complete",
+    "File": "vo_lichen_dispatch2_001",
+    "Text": "A fruitful harvest... I've come to share it with you, young friend."
+  },
+  "11010822": {
+    "Sinner": "Lichen",
+    "Title": "Level Up",
+    "File": "vo_lichen_levelup_002",
+    "Text": "...Thank you, young friend. May boundless fortune be upon you."
+  },
+  "11010823": {
+    "Sinner": "Lichen",
+    "Title": "Pat Head",
+    "File": "vo_lichen_head_001",
+    "Text": "Ah... \"a lover's gentle touch upon thy head.\" I wonder if it really foretells... \"an eternal life together\"?"
+  },
+  "11010824": {
+    "Sinner": "Lichen",
+    "Title": "Join Team",
+    "File": "bt_lichen_jointeam_001",
+    "Text": "The hexagram of the lake rising to heaven... It is time to depart."
+  },
+  "11010825": {
+    "Sinner": "Lichen",
+    "Title": "Danger!",
+    "File": "bt_lichen_danger_001",
+    "Text": "N/A"
+  },
+  "11010826": {
+    "Sinner": "Lichen",
+    "Title": "Received Order",
+    "File": "bt_lichen_getorder_001",
+    "Text": "N/A"
+  },
+  "11010827": {
+    "Sinner": "Lichen",
+    "Title": "Attacked",
+    "File": "bt_lichen_gethit_001_1",
+    "Text": "N/A"
+  },
+  "11010828": {
+    "Sinner": "Lichen",
+    "Title": "Normal Attack",
+    "File": "bt_lichen_skill_001_1",
+    "Text": "N/A"
+  },
+  "11010829": {
+    "Sinner": "Lichen",
+    "Title": "Confused",
+    "File": "vo_lichen_doubt_001",
+    "Text": "N/A"
+  },
+  "11010830": {
+    "Sinner": "Lichen",
+    "Title": "Be surprised",
+    "File": "vo_lichen_shock_001",
+    "Text": "N/A"
+  },
+  "11010831": {
+    "Sinner": "Lichen",
+    "Title": "Upgrade Skill",
+    "File": "vo_lichen_promotion_001",
+    "Text": "The pursuit of death... is the pursuit of life..."
   },
   "11020101": {
     "Sinner": "Zoya",
@@ -5697,6 +5931,54 @@
     "File": "vo_mantis_shenlinbangying_specialattention_001",
     "Text": "There's no one else here, just our silhouettes reflected in the water... and... the two of us, in each other's eyes..."
   },
+  "110305110": {
+    "Sinner": "Mantis",
+    "Title": "Attire Obtained",
+    "File": "vo_mantis_lvyinbiji_cacha_001",
+    "Text": "Are you here for the botanical garden field trip too? Oh wait, look how neatly those insects are lined up over there. I think they're migrating. Want to go check it out? We could make observation notes together."
+  },
+  "110305111": {
+    "Sinner": "Mantis",
+    "Title": "Level Up",
+    "File": "vo_mantis_lvyinbiji_levelup_001",
+    "Text": "With enough sunlight and time, even a little seed can grow into a tall tree."
+  },
+  "110305112": {
+    "Sinner": "Mantis",
+    "Title": "Greeting",
+    "File": "vo_mantis_lvyinbiji_greeting_001",
+    "Text": "Hey, here to observe plants again today? Those flowers just bloomed over there. I want to see who their first visitors will be."
+  },
+  "110305113": {
+    "Sinner": "Mantis",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_mantis_lvyinbiji_talk1_001",
+    "Text": "Mom and Dad always said if you're willing to crouch down and look closely, you can see a different world... Now I understand. Even beneath a tiny leaf, countless miracles are happening."
+  },
+  "110305114": {
+    "Sinner": "Mantis",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_mantis_lvyinbiji_talk1_002",
+    "Text": "Look, those two little grass blades keep rustling in the wind. Could they be saying something only they can understand?"
+  },
+  "110305115": {
+    "Sinner": "Mantis",
+    "Title": "Idle",
+    "File": "vo_mantis_lvyinbiji_idle_001",
+    "Text": "Light filters through the leaves, turning green and gold, like a beautiful dream... Let's stay a little longer. I want to look a bit more."
+  },
+  "110305116": {
+    "Sinner": "Mantis",
+    "Title": "Annoyed",
+    "File": "vo_mantis_lvyinbiji_clicking_001",
+    "Text": "Hey, stop that! You'll scare away those little insects! I'm still observing their movement patterns..."
+  },
+  "110305117": {
+    "Sinner": "Mantis",
+    "Title": "Special Attention",
+    "File": "vo_mantis_lvyinbiji_specialattention_001",
+    "Text": "Why do you keep staring at me? Even the butterflies won't come near you... They probably take you for a predator."
+  },
   "11030601": {
     "Sinner": "Angell",
     "Title": "Obtain the Sinner",
@@ -6718,6 +7000,66 @@
     "Title": "Upgrade Skill",
     "File": "vo_hellasp_promotion_001",
     "Text": "The restless souls... they seem to have calmed down."
+  },
+  "110310100": {
+    "Sinner": "Necresta·Hella",
+    "Title": "Attire Obtained",
+    "File": "vo_hellasp_xingmengxixing_cacha_001",
+    "Text": "I had a long, long dream. This one is different. This time, there was a radiant galaxy, so beautiful it filled me with joy... That's why I want everyone I care about to see it too, so they can feel the same joy!"
+  },
+  "110310101": {
+    "Sinner": "Necresta·Hella",
+    "Title": "Level Up",
+    "File": "vo_hellasp_xingmengxixing_levelup_001",
+    "Text": "Mmm! I feel powerful enough to vanquish all darkness now!"
+  },
+  "110310102": {
+    "Sinner": "Necresta·Hella",
+    "Title": "Greeting",
+    "File": "vo_hellasp_xingmengxixing_greeting_001",
+    "Text": "Welcome to Queen Hella's Cosmic Realm! MBCC Chief, please pay the tour guide fee... Hey, hey, don't go yet! If you stay here with Queen Hella, who knows? I might just let you defer the payment if you keep me entertained!"
+  },
+  "110310103": {
+    "Sinner": "Necresta·Hella",
+    "Title": "Pat Head",
+    "File": "vo_hellasp_xingmengxixing_head_001",
+    "Text": "This flower crown is decorated with star fragments. Pretty, right? H-huh? I crushed a star? Those were just star fragments I picked up along the way! Of course I didn't break a star with my fist!"
+  },
+  "110310104": {
+    "Sinner": "Necresta·Hella",
+    "Title": "Ordinary Contact 1",
+    "File": "vo_hellasp_xingmengxixing_body_001",
+    "Text": "In this sea of stars, I've seen reflections of countless worlds and people, even reflections of myself. Some have failed, some are lost, and some are still striving forward... But the one that never changes is that dummy who always reaches out to me."
+  },
+  "110310105": {
+    "Sinner": "Necresta·Hella",
+    "Title": "Ordinary Contact 2",
+    "File": "vo_hellasp_xingmengxixing_body_002",
+    "Text": "I used to think those lights in the sky were too far away, that I couldn't reach them even if I jumped or flew. But now I understand. If I just keep moving forward, I'll get closer to them little by little, until... I finally touch them."
+  },
+  "110310106": {
+    "Sinner": "Necresta·Hella",
+    "Title": "Ordinary Contact 3",
+    "File": "vo_hellasp_xingmengxixing_leg_001",
+    "Text": "You always tell me to take things one step at a time, nice and steady. After everything I've been through, I think... I finally understand what you meant. But still, if I could jump up three steps at once... I wouldn't pass up that chance, hehe!"
+  },
+  "110310107": {
+    "Sinner": "Necresta·Hella",
+    "Title": "Ordinary Contact 4",
+    "File": "vo_hellasp_xingmengxixing_background_001",
+    "Text": "I want to be someone who can light up the corners the stars can't reach. That's the person I'm trying to become."
+  },
+  "110310108": {
+    "Sinner": "Necresta·Hella",
+    "Title": "Idle",
+    "File": "vo_hellasp_xingmengxixing_idle_001",
+    "Text": "Hehe, free preview's over! Subscribe to Hella Premium if you want to keep listening."
+  },
+  "110310109": {
+    "Sinner": "Necresta·Hella",
+    "Title": "Special Attention",
+    "File": "vo_hellasp_xingmengxixing_specialattention_001",
+    "Text": "Ah, you found me? Not bad! With so many beautiful stars around, you still spotted the prettiest one right away! Hmph, I guess that counts as one of your few redeeming qualities!"
   },
   "11031101": {
     "Sinner": "Ceto",

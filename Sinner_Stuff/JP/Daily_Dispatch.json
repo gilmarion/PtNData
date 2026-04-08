@@ -3321,6 +3321,161 @@
     }
   },
   "192": {
+    "Id": 1060001,
+    "Quality": "Purple",
+    "DispatchTitle": "暗号化ラジオ",
+    "DispatchDescription": "都市内で正体不明のラジオが突然現れ、意味不明な数字列を延々と放送している。治安局はこれを新型暗号通信であると疑い、潜在的脅威の拡大を防ぐため、暗号解読に精通した専門家を1名募集し、支援にあたらせるつもりだ。",
+    "DispatchSinners": {
+      "Sinner": "ヒルダ"
+    },
+    "BaseAward": {
+      "Reward Item": "イレギュラーキューブ",
+      "Reward Qty": "30.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "イレギュラーキューブ",
+      "Reward Qty": "10.0"
+    }
+  },
+  "193": {
+    "Id": 1061001,
+    "Quality": "Purple",
+    "DispatchTitle": "人気撮影",
+    "DispatchDescription": "管理局内の一部コンビクトが自主的にショートドラマ撮影チームを結成した。波乱万丈で火花が散るようなストーリー展開を作るため、現在脚本に長けたコンビクトを募集している。",
+    "DispatchSinners": {
+      "Sinner": "イレイア"
+    },
+    "BaseAward": {
+      "Reward Item": "ディスコイン",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "ディスコイン",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "194": {
+    "Id": 1061002,
+    "Quality": "Green",
+    "DispatchTitle": "照明支援",
+    "DispatchDescription": "シンジケートエリアでマフィアの抗争により局所的な停電が発生し、現地住民が窮地に陥っている。治安局は緊急通達を出し、必要な照明と生活支援を提供するため、管理局にコンビクトの派遣を要請した。",
+    "DispatchSinners": {
+      "Sinner": "ルミナ"
+    },
+    "BaseAward": {
+      "Reward Item": "イレギュラーキューブ",
+      "Reward Qty": "10.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "イレギュラーキューブ",
+      "Reward Qty": "5.0"
+    }
+  },
+  "195": {
+    "Id": 1061003,
+    "Quality": "Blue",
+    "DispatchTitle": "安全講座",
+    "DispatchDescription": "治安局は一般市民の防災意識向上のため、住宅火災の安全教育講座を開催することにした。管理局内の一部コンビクトも参加必須名簿に記載されており、人員を一斉に現地へ向かわせる必要がある。",
+    "DispatchSinners": {
+      "Sinner 1": "ルミナ",
+      "Sinner 2": "フローラ"
+    },
+    "BaseAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "4000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "ルナティックエッセンス",
+      "Reward Qty": "1000.0"
+    }
+  },
+  "196": {
+    "Id": 1062001,
+    "Quality": "Purple",
+    "DispatchTitle": "チャリティー大使",
+    "DispatchDescription": "ニューシティで行われる非公開のチャリティーオークションに、狂瞳汚染の疑いがある品が出品されているとの情報が入った。管理局が品物の調査をしやすくするため、慈善事業で高い評価のある人物による仲立ちが急ぎ求められている。",
+    "DispatchSinners": {
+      "Sinner": "マルガリータ"
+    },
+    "BaseAward": {
+      "Reward Item": "ディスコイン",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "ディスコイン",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "197": {
+    "Id": 1062002,
+    "Quality": "Purple",
+    "DispatchTitle": "危険な研究",
+    "DispatchDescription": "リング研究所が、ブラックリング遺跡周辺で観測と調査を行う学術チームを派遣することになった。それにあたり、研究員の安全を確保するため、ブラックリング内部に詳しいコンビクトの同行が必要とされている。",
+    "DispatchSinners": {
+      "Sinner": "錆"
+    },
+    "BaseAward": {
+      "Reward Item": "赤の結晶",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "赤石の精鉱",
+      "Reward Qty": "1.0"
+    }
+  },
+  "198": {
+    "Id": 1062003,
+    "Quality": "Green",
+    "DispatchTitle": "精密狙撃",
+    "DispatchDescription": "ニューシティの繁華街で人質誘拐事件が発生した。犯人は極めて危険性が高く、治安局は緊急で狙撃手を招集している。条件：超遠距離から射撃し、標的を一撃で仕留めること。",
+    "DispatchSinners": {
+      "Sinner": "ヘルガ"
+    },
+    "BaseAward": {
+      "Reward Item": "涙石の精鉱",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "涙石の原鉱",
+      "Reward Qty": "1.0"
+    }
+  },
+  "199": {
+    "Id": 1062004,
+    "Quality": "Blue",
+    "DispatchTitle": "デスドローン",
+    "DispatchDescription": "ニューシティのあるドローン配送ステーションで中枢機械が故障し、多数のドローンが都市上空で制御不能となっている。安全上のリスクが極めて高いため、機械に精通したコンビクトを2名支援に派遣することになった。",
+    "DispatchSinners": {
+      "Sinner 1": "ヘルガ",
+      "Sinner 2": "エウレカ"
+    },
+    "BaseAward": {
+      "Reward Item": "曲銅の精鉱",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "曲銅の精鉱",
+      "Reward Qty": "1.0"
+    }
+  },
+  "200": {
+    "Id": 1063001,
+    "Quality": "Purple",
+    "DispatchTitle": "玄学詐欺の摘発",
+    "DispatchDescription": "最近、ニューシティで東洲の玄学を騙り詐欺を働くグループが現れた。その巧妙な手口により多数の市民が被害に遭い、全財産を失う事態となっている。よって管理局に対し、東洲の民俗に精通した専門家を派遣し、事件解決に協力するよう申請する。",
+    "DispatchSinners": {
+      "Sinner": "離塵"
+    },
+    "BaseAward": {
+      "Reward Item": "感染された触手",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "原生触手",
+      "Reward Qty": "1.0"
+    }
+  },
+  "205": {
     "Id": 1099001,
     "Quality": "Green",
     "DispatchTitle": "夢の解析",

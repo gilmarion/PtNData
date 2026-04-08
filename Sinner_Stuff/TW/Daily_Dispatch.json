@@ -3321,6 +3321,161 @@
     }
   },
   "192": {
+    "Id": 1060001,
+    "Quality": "Purple",
+    "DispatchTitle": "加密電台",
+    "DispatchDescription": "城區內突現不明電台，持續播送成串無意義的數位廣播。治安局懷疑該訊號為新式通訊密文，為防止潛在威脅擴大，現招募一名精通密碼破譯的專家前往支援。",
+    "DispatchSinners": {
+      "Sinner": "希露妲"
+    },
+    "BaseAward": {
+      "Reward Item": "異方晶",
+      "Reward Qty": "30.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "異方晶",
+      "Reward Qty": "10.0"
+    }
+  },
+  "193": {
+    "Id": 1061001,
+    "Quality": "Purple",
+    "DispatchTitle": "爆紅拍攝",
+    "DispatchDescription": "管理局內部分禁閉者自發組建短劇劇組，現決定招募擅長編寫的禁閉者加入，協助打造情節跌宕起伏、矛盾火花四濺的劇情。",
+    "DispatchSinners": {
+      "Sinner": "伊蕾婭"
+    },
+    "BaseAward": {
+      "Reward Item": "狄斯幣",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "狄斯幣",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "194": {
+    "Id": 1061002,
+    "Quality": "Green",
+    "DispatchTitle": "照明支援",
+    "DispatchDescription": "辛迪加區域因幫派衝突引發局部停電，當地民眾陷入困境。治安局發出緊急通告，請求管理局派遣禁閉者前往，提供必要的照明與生活支援。",
+    "DispatchSinners": {
+      "Sinner": "露米娜"
+    },
+    "BaseAward": {
+      "Reward Item": "異方晶",
+      "Reward Qty": "10.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "異方晶",
+      "Reward Qty": "5.0"
+    }
+  },
+  "195": {
+    "Id": 1061003,
+    "Quality": "Blue",
+    "DispatchTitle": "安全講座",
+    "DispatchDescription": "治安局將舉辦家庭用火安全教育講座，旨在提升公眾防護意識。管理局內部分禁閉者被列入必須參加的名單，現統一安排人員前往。",
+    "DispatchSinners": {
+      "Sinner 1": "露米娜",
+      "Sinner 2": "芙洛拉"
+    },
+    "BaseAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "4000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "狂亂精粹",
+      "Reward Qty": "1000.0"
+    }
+  },
+  "196": {
+    "Id": 1062001,
+    "Quality": "Purple",
+    "DispatchTitle": "慈善大使",
+    "DispatchDescription": "有消息稱，新城一場不對外公開的慈善拍賣上疑似出現攜帶狂厄汙染的拍賣品，急需一位在慈善事業上頗有名望的人員從中斡旋牽線，方便管理局介入拍賣品的調查。",
+    "DispatchSinners": {
+      "Sinner": "瑪格麗塔"
+    },
+    "BaseAward": {
+      "Reward Item": "狄斯幣",
+      "Reward Qty": "8000.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "狄斯幣",
+      "Reward Qty": "2000.0"
+    }
+  },
+  "197": {
+    "Id": 1062002,
+    "Quality": "Purple",
+    "DispatchTitle": "危險研究",
+    "DispatchDescription": "環研究院派出學術團體在黑環遺跡附近進行觀測與考察，需要一位對黑環內部瞭解較為深入的禁閉者陪同，以確保研究人員的人身安全。",
+    "DispatchSinners": {
+      "Sinner": "鏽"
+    },
+    "BaseAward": {
+      "Reward Item": "赤晶",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "紅石精礦",
+      "Reward Qty": "1.0"
+    }
+  },
+  "198": {
+    "Id": 1062003,
+    "Quality": "Green",
+    "DispatchTitle": "精準狙擊",
+    "DispatchDescription": "新城鬧區發生一樁人質綁架案，綁匪危險性較高，治安局特此緊急徵召一名狙擊手。要求：該人員需要在極限距離下射擊，並對目標一擊斃命。",
+    "DispatchSinners": {
+      "Sinner": "荷爾加"
+    },
+    "BaseAward": {
+      "Reward Item": "淚石精礦",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "淚石粗礦",
+      "Reward Qty": "1.0"
+    }
+  },
+  "199": {
+    "Id": 1062004,
+    "Quality": "Blue",
+    "DispatchTitle": "奪命無人機",
+    "DispatchDescription": "新城某無人機快遞配送網站發生中樞機械故障，大量無人機在城市上空失控，安全隱患極大，特此派遣兩名精通機械知識的禁閉者前來支援。",
+    "DispatchSinners": {
+      "Sinner 1": "荷爾加",
+      "Sinner 2": "優利卡"
+    },
+    "BaseAward": {
+      "Reward Item": "曲銅精礦",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "曲銅精礦",
+      "Reward Qty": "1.0"
+    }
+  },
+  "200": {
+    "Id": 1063001,
+    "Quality": "Purple",
+    "DispatchTitle": "玄學打假",
+    "DispatchDescription": "近日，新城出現一夥以東洲玄學為旗號招搖撞騙的詐騙集團，因其騙術高超，致多名市民受騙血本無歸。現特向管理局申請派遣一位精通東洲民俗的專家前往協助破案。",
+    "DispatchSinners": {
+      "Sinner": "離塵"
+    },
+    "BaseAward": {
+      "Reward Item": "感染腕足",
+      "Reward Qty": "1.0"
+    },
+    "AdditionalAward": {
+      "Reward Item": "原生腕足",
+      "Reward Qty": "1.0"
+    }
+  },
+  "205": {
     "Id": 1099001,
     "Quality": "Green",
     "DispatchTitle": "夢的解析",

@@ -854,6 +854,282 @@
       }
     }
   },
+  "1010701": {
+    "ID Num": 1010701,
+    "Event Title": "++* ⚠ The Drink's Name\n",
+    "Event Desc": "//While visiting the Bureau's bar, you discover that your usual drink's recipe has changed.//",
+    "Sinner": "Rust",
+    "Text": {
+      "Text 1": "While visiting the Bureau's bar, you discover that your usual drink's recipe has changed.",
+      "Choice 2": "Inquire",
+      "Text 3": "Rust: According to the bar staff, Rust heard about the drink at an underground tavern and recommended it to them. Its nickname: *Gray Demon*."
+    }
+  },
+  "1010702": {
+    "ID Num": 1010702,
+    "Event Title": "++* ⚠ The Invisible Man\n",
+    "Event Desc": "//A novel has gotten very popular within the Bureau.//",
+    "Sinner": "Rust",
+    "Text": {
+      "Text 1": "A novel has gotten very popular within the Bureau. Written by an unknown author, it tells the story of an \"invisible man\" who commits murder discreetly.",
+      "Choice 2": "Ask Rust what he thinks of the book",
+      "Text 3": "Rust: It's not bad. Though I wish the killer had shown more reluctance at the end. The moment he fully became an \"invisible man\" and escaped was when the last trace of his \"existence\" was erased from this world. That is the deepest tragedy of all."
+    }
+  },
+  "1010711": {
+    "ID Num": 1010711,
+    "Event Title": "++* ⚠⚠ Prank Backfires\n",
+    "Event Desc": "//A young Sinner can't open a jar and comes to you for help.//",
+    "Sinner": "Rust",
+    "Text": {
+      "Text 1": "A young Sinner can't open a jar and comes to you for help.",
+      "Text 2": "Little Sinner: Can you help me open this jar? I'm not strong enough to do it.",
+      "Choice 3": "Help",
+      "Text 4": "You're reaching out to help when a familiar figure stops you. He tips his hat with a gentlemanly flourish, revealing a face you know well. It's Rust.",
+      "Text 5": "Rust: Allow me. It's my honor to be of help.",
+      "Text 6": "Rust takes the jar and pries the lid open effortlessly with a mere flick of his fingers. Halfway through, he pauses, as if suddenly remembering something.",
+      "Text 7": "Rust: Oh, I almost forgot to warn you. I hear some thugs have been lurking around here lately. Do be careful.",
+      "Text 8": "Little Sinner: Oh... yeah? Never heard of that...",
+      "Text 9": "Rust: I hear they disguise themselves as children to earn your trust. Then they ask you to help them open a jar, getting you to pry off the lid.",
+      "Text 10": "The young Sinner breaks into a cold sweat.",
+      "Text 11": "Little Sinner: I-I'll keep an eye out... Thank you, sir. And thanks for the warning...",
+      "Text 12": "Rust: Ah, but I'm not finished. In the end... the victim will open the jar, inhale the gas inside, and begin laughing uncontrollably, making a complete fool of themselves in front of the whole Bureau... Am I right?",
+      "Text 13": "Little Sinner: You...",
+      "Text 14": "Rust secures the lid and places the jar back into the young Sinner's palm.",
+      "Text 15": "Little Sinner: Wh-what?",
+      "Text 16": "A giant fake mouse suddenly springs from the jar, sending the young Sinner scrambling in a panic. Rust withdraws his hand calmly and smooths out the wrinkles on his shirt from crouching.",
+      "Text 17": "Rust: My apologies. Next time, consider picking a less dangerous target for your pranks."
+    }
+  },
+  "1010712": {
+    "ID Num": 1010712,
+    "Event Title": "++* ⚠⚠ Autopsy Expert\n",
+    "Event Desc": "//Recently, a detective TV series has taken the Bureau by storm.//",
+    "Sinner": "Christina",
+    "Text": {
+      "Text 1": "Supervision System:<br/>An assembly of Sinners is detected. They're trying to watch TV. Go and maintain order?",
+      "Choice 2": "Yes",
+      "Text 3": "This detective TV series has become a sensation in Eastside, and the Sinners at the Bureau are hooked as well. Their frequent watch parties have become a problem. To prevent them from disturbing others at night, you find yourself rushing over to keep order every time.",
+      "Text 4": "Sinner A: Whoa... A plot twist! So this guy isn't the killer after all?",
+      "Text 5": "Sinner B: So exciting! Who's gonna die in the next case?",
+      "Text 6": "Amid the crowd, you spot Christina and Rust. Unlike the others caught up in the excitement, they are having some kind of serious discussion in a corner.",
+      "Text 7": "Rust: If livor mortis is used to determine the time of death, then only one of those present had both the time and opportunity to commit the crime... But experience tells me that lividity isn't the only piece of evidence here.",
+      "Text 8": "Christina: Exactly. Many factors can delay the onset of lividity. Low temperature, for instance, or repeatedly moving and repositioning the body. All of these can interfere with the estimated time of death. Given the killer's timeline, the actual death must have occurred at least two hours earlier than determined.",
+      "Text 9": "Recently, Christina has noticed something peculiar about this Sinner called \"Rust.\" He seems remarkably well-versed in the study of corpses. He knows exactly how a corpse changes under what conditions and in what timeframe.",
+      "Text 10": "Rust: You have a point about low temperature delaying the lividity. Though... the actual feel of a body is different from what's shown on screen. The show makes it look too stiff.",
+      "Text 11": "Christina: How do you know how it feels?",
+      "Text 12": "Christina: And why do you know so much about corpses anyway, Rust? You're not a detective buff, and you certainly don't seem like an anatomist...",
+      "Text 13": "Rust: Let's just say... I've had plenty of hands-on experience. After all, the best knowledge comes straight from the scene.",
+      "Text 14": "The \"scene\"? Inspired, Christina rushes off in search of a fresh crime scene to study firsthand, but you quickly grab hold of her before she can put her newfound enthusiasm into practice.",
+      "Text 15": "Chief: Easy there. The kind of \"scene\" he's talking about... probably isn't what you have in mind."
+    }
+  },
+  "1010721": {
+    "ID Num": 1010721,
+    "Event Title": "++* ⚠⚠⚠ Winner Takes All\n",
+    "Event Desc": "//The Bureau has been cracking down on high-stakes card games recently.//",
+    "Sinner": "Rust",
+    "Text": {
+      "Text 1": "The Bureau has been cracking down on high-stakes card games recently, but the prohibition has proven futile. Unauthorized games continue to spring up everywhere. Every day, the cafeteria is filled with pitiful Sinners who've gambled away their monthly budget, left to drool at the meat dishes with their empty pockets.",
+      "Text 2": "You resolve that this time, you will put a stop to it for good. Just then, someone volunteers to help...",
+      "Text 3": "Rust: Leave this to me, Chief.",
+      "Text 4": "Chief: You have a plan?",
+      "Text 5": "Rust: Of course. Though there will be... a small price.",
+      "Text 6": "He extends his hand to you.",
+      "Text 7": "Chief: ?",
+      "Text 8": "Rust: I'll need some funds to initiate the plan, Chief.",
+      "Text 9": "Chief: How much do you need?",
+      "Text 10": "Rust: Not much. Just 100 DisCoins.",
+      "Text 11": "A little skeptically, you pull out a bill and hand it to him.",
+      "Text 12": "Over the following week, true to Rust's word, the unauthorized card games vanish without a trace. A month later, the supervision system confirms that no one has attempted to organize or participate in any gambling activities.",
+      "Choice 13": "Ask Rust",
+      "Text 14": "Rust: Gambling addiction thrives on the cycle of winning and losing. People keep chasing that chance to turn things around. The surest way to break that habit? Destroy the cycle entirely.",
+      "Text 15": "Chief: Could you be more specific?",
+      "Text 16": "Rust: To put it simply, I just made sure they kept losing.",
+      "Text 17": "Chief: ?",
+      "Text 18": "He looks at you and reaches into his coat pocket, producing a dazzling array of items, including dozens of glittering gems and gold bars, several luxury watches, keys to two sports cars... and even a deed to a property in downtown Eastside.",
+      "Text 19": "Chief: You won all of this?",
+      "Text 20": "Rust: You just need to know how to read people's faces. It's not a very special skill. But here's where it gets interesting: Should these be classified as \"evidence\" seized during an undercover operation, or \"ill-gotten gains\" I won by exploiting my position?",
+      "Path 1": {
+        "Choice 21": "Evidence",
+        "Text 22": "Chief: Evidence. These are worth a lot. Looks like the Bureau cafeteria won't be going bankrupt feeding all those gamblers who lost their food money. That's good news. How about a meal together? My treat, as thanks for your help.",
+        "Text 23": "Rust: Dining with you would be my pleasure. But are you certain you wish to be seen with a man who just wiped out every unauthorized card game? After tonight, I suspect more than a few will speculate that the esteemed MBCC Chief has handled this with some... illegitimate means.",
+        "Text 24": "Chief: Then let them speculate. Though indeed, if everyone knew I had such a capable operative working for me... it would only make your missions more difficult.",
+        "Text 25": "Rust: I'm flattered, Chief. These words alone make me happy to continue being the ace up your sleeve."
+      },
+      "Path 2": {
+        "Choice 26": "Ill-gotten gains",
+        "Text 27": "Chief: We've got witnesses and evidence, and the ill-gotten gains are all right here. I think it's time to make some arrests.",
+        "Text 28": "Rust: Every participant has been documented. If I recall correctly... the list should already be in your inbox, Chief.",
+        "Text 29": "Chief: And I haven't forgotten there's a big fish sitting right here.",
+        "Text 30": "Rust: The big fish? I believe he swam right into your net the moment he walked through your office door."
+      }
+    }
+  },
+  "1010722": {
+    "ID Num": 1010722,
+    "Event Title": "++* ⚠⚠⚠ Photoshoot Invitation\n",
+    "Event Desc": "//You receive a phone call from a magazine publisher in Eastside.//",
+    "Sinner": "Rust",
+    "Text": {
+      "Text 1": "You receive a call from the editor-in-chief of a renowned men's fashion magazine. Over the phone, you learn that the editor encountered a Mania incident while out on an assignment and was rescued by Rust, who happened to be on a mission nearby.",
+      "Text 2": "Editor-in-Chief: The courage he showed swooping in to save me! That effortless poise! Those strong, reassuring arms... Oh, his silhouette has been seared into my very soul! And I swore to myself I simply must have this gentleman grace the cover of our magazine!",
+      "Text 3": "Editor-in-Chief: That's why I'm calling to make this rather bold request. If... we could have him as our cover star this month, it would be an absolute honor...",
+      "Text 4": "Chief: Well... I believe he should be the one making the decision. Let me ask him first, and I'll get back to you.",
+      "Text 5": "You hang up the phone and turn around to find someone sitting on the sofa behind you, elegantly swirling a glass of wine. You spread your hands with a shrug.",
+      "Text 6": "Chief: So, what do you think? They provide excellent accommodations and meals during the shoot, not to mention the pay is quite generous too. Hmm, looks like it's more than my annual salary... The only catch is the long shooting schedule.",
+      "Text 7": "Rust is in no hurry to answer. He swirls the wine in his glass, his expression unreadable.",
+      "Text 8": "Rust: Do you want me to go, Chief?",
+      "Text 9": "Chief: ...Me?",
+      "Text 10": "Rust: But of course. I'm yours now, after all. Whether I go or not is entirely up to you.",
+      "Path 1": {
+        "Choice 11": "Don't let him go",
+        "Text 12": "Chief: Having your face captured in photos would be quite dangerous for an operative, wouldn't it? I think we should politely decline this invitation.",
+        "Text 13": "Rust: Oh, is that the reason? And here I thought I was witnessing your possessive streak. That you didn't want me exposed to others' attention.",
+        "Text 14": "Chief: Erm... I suppose you could put it that way? Having your face exposed is still quite risky, after all.",
+        "Text 15": "He chuckles softly, leaving you utterly baffled.",
+        "Text 16": "Rust: My thoughts exactly, Chief. It's far too dangerous out there on my own. I'd be safer right here by your side."
+      },
+      "Path 2": {
+        "Choice 17": "Let him go",
+        "Text 18": "Chief: It's your call. I have no objections.",
+        "Text 19": "Rust: My call, huh... Then I'll probably turn down this photoshoot invitation.",
+        "Text 20": "Chief: I understand completely. It's the nature of operative work, isn't it? Once your face is exposed, it might cause issues for your missions.",
+        "Text 21": "Rust: Oh, that isn't the reason.",
+        "Text 22": "Chief: Then what is the reason?",
+        "Text 23": "He smiles enigmatically.",
+        "Text 24": "Rust: Because... the shoot would take far too long. I can't guarantee I can keep the same face during those two weeks."
+      }
+    }
+  },
+  "1010801": {
+    "ID Num": 1010801,
+    "Event Title": "++* ⚠ Snack Supply\n",
+    "Event Desc": "//Every time you run into Lichen, you end up with a few snacks.//",
+    "Sinner": "Lichen",
+    "Text": {
+      "Text 1": "Every time you run into Lichen, you end up with a few snacks. You usually get apples and oranges, but sometimes it'll be nuts and preserved fruits carefully wrapped in little red pouches.",
+      "Choice 2": "These aren't... ritual offerings, are they...?"
+    }
+  },
+  "1010802": {
+    "ID Num": 1010802,
+    "Event Title": "++* ⚠ Divine Will\n",
+    "Event Desc": "//You notice something strange in the elevator lobby.//",
+    "Sinner": "Lichen",
+    "Text": {
+      "Text 1": "You notice that whenever Lichen appears in the elevator lobby, the other Sinners automatically line up behind her. The elevator she chooses is always the first to arrive.",
+      "Choice 2": "This is divine will."
+    }
+  },
+  "1010803": {
+    "ID Num": 1010803,
+    "Event Title": "++* ⚠⚠ Astrology Platform\n",
+    "Event Desc": "//Lichen requests permission to use the Bureau's Astrology Platform.//",
+    "Sinner": "Lichen",
+    "Text": {
+      "Text 1": "Lichen seeks you out and formally requests permission to use the Bureau's Astrology Platform.",
+      "Text 2": "Lichen: Young friend... from a recent divination, I saw that your fate is obscured... I fear you are to face a great calamity soon... Thus, I wish to borrow the Astrology Platform, so that I may unravel this mystery.",
+      "Choice 3": "Ask for details",
+      "Text 4": "Chief: Astrology Platform? Does the Bureau even have one of those?",
+      "Text 5": "Lichen: Hm... Utilizing an Astrology Platform requires exceptional talent, the capacity to bear celestial secrets, to be exact... I have surveyed the northeast corner of the Bureau... and located several ideal locations for stargazing, perfectly suited to my needs...",
+      "Text 6": "Lichen: If you would be willing to accompany me, young friend, that would be most ideal...",
+      "Choice 7": "Agree",
+      "Text 8": "You still have no idea what Lichen is talking about, but accompanying her is better than letting her wander around the Bureau unsupervised.",
+      "Text 9": "It isn't until Lichen stops in front of the lab's latest high-end research algorithm terminal and reaches out to touch its chassis that you finally understand what she was talking about.",
+      "Text 10": "Lichen: Just as I suspected... The spiritual energy here is pure and untainted... This is the Astrology Platform, where the forces of heaven and earth converge...",
+      "Text 11": "Chief: This is a data algorithm terminal. Uh... in other words... a computer.",
+      "Text 12": "Chief: Let me apply for access to a high-end computer for you.",
+      "Text 13": "Lichen: I am most grateful... The heaven and earth bear witness to your kindness, young friend..."
+    }
+  },
+  "1010804": {
+    "ID Num": 1010804,
+    "Event Title": "++* ⚠⚠ Eastian Mysticism Research\n",
+    "Event Desc": "//You accompany Lichen to participate in the research project titled \"The Scientific Basis of Eastian Mysticism.\"//",
+    "Sinner": "Lichen",
+    "Text": {
+      "Text 1": "Once again, you head to the research department to assist Bureau researchers with the project \"The Scientific Basis of Eastian Mysticism.\"",
+      "Text 2": "Upon entering, you find the researchers gathering around a replica of the Imperial Bell, visibly vexed.",
+      "Choice 3": "Find out what's wrong",
+      "Text 4": "Lichen: Young friend... what might it be that troubles you so? Would you care to tell me what weighs on your mind...?",
+      "Text 5": "Chief: I'm not the one troubled. Rather, the researchers want to know why their replica of the Imperial Bell—faithfully recreated down to every detail of its physical composition—doesn't seem to work as well as yours.",
+      "Text 6": "Lichen: In the Daoist arts, the chime of a bell... serves as a conduit between heaven and earth... it is a power that dispels evil and impurity... Yet, in accordance with the natural order... different cultures have emerged... Perhaps... this would prove more worthwhile...",
+      "Choice 7": "Relay her suggestion",
+      "Text 8": "You relay Lichen's words verbatim, then present the researchers with a decorative jingle bell typically used during the winter holidays. Their despair is palpable.",
+      "Text 9": "Chief: Maybe you could also try leaving some offerings for the Imperial Bell, just as they do in Eastian mysticism?",
+      "Text 10": "Researcher: But that would be completely unscientific... Is there really no other way?",
+      "Text 11": "Lichen: Perhaps science and mysticism... share the same origin after all... For which of the two is true and an illusion, only the heavens may know."
+    }
+  },
+  "1010805": {
+    "ID Num": 1010805,
+    "Event Title": "++* ⚠⚠⚠ Five-in-a-row with Skills\n",
+    "Event Desc": "//Lichen has sent you a Five-in-a-row challenge.//",
+    "Sinner": "Lichen",
+    "Text": {
+      "Text 1": "A bizarre trend has swept through the Bureau lately.",
+      "Text 2": "Every Sinner with an interest in board games has become obsessed with Five-in-a-row—worryingly so. Initially, you thought it was just a harmless revival of a classic pastime, until you walked past the Recreation Area today...",
+      "Text 3": "Sinner A: Sandstorm! Now I get to move one of your pieces—you're finished!",
+      "Text 4": "Sinner B: What?! Then I'll use Mountain Mover to reset the game! I'm black, so I go first.",
+      "Choice 5": "Approach and ask",
+      "Text 6": "Chief: What the... Is this how people play Five-in-a-row now?",
+      "Text 7": "Lichen: Young friend... The art of Five-in-a-row holds wonders of its own. How can one know its joys without indulging in the game? Come... let us play a round...",
+      "Text 8": "Chief: You mean that version of Five-in-a-row from just now?",
+      "Text 9": "Lichen: Worry not, young friend... I shall guide you through the basics... For this first game, I will not act until you play three pieces.",
+      "Path 1": {
+        "Choice 10": "Agree to play",
+        "Text 11": "Even with a lead of three pieces, you still struggle against a Five-in-a-row master like Lichen. Not to mention the absurd skills that keep getting in the way of your victory.",
+        "Text 12": "But as you finally get the hang of the rules, the head start also begins tipping the scales in your favor.",
+        "Text 13": "Chief: Four in a row. This round is mine.",
+        "Text 14": "Lichen: I believe you have a saying that goes... \"it's not over until the fat lady sings...\"",
+        "Text 15": "Lichen has already used up all her skills. She couldn't possibly have any other tricks up her sleeve. But just as you're about to close out the game, a shout rings out from behind you, followed by a game board flying through the air—landing squarely on your pieces and scattering your perfect setup.",
+        "Text 16": "Chief: Lichen... Was this part of your plan too?",
+        "Text 17": "Lichen: No... but it seems the heavens willed it..."
+      },
+      "Path 2": {
+        "Choice 18": "Keep pushing your luck",
+        "Text 19": "Chief: How about letting me place four pieces at the start?",
+        "Text 20": "You make the outrageous request as a joke, but to your surprise, Lichen nods in agreement. With four black stones to start, victory seems all but guaranteed—yet Lichen simply smiles and forms a hand seal.",
+        "Text 21": "Lichen: Yin and yang, reversed... Young friend, you now play white...",
+        "Text 22": "Chief: Huh? How's that fair?",
+        "Text 23": "Lichen: The art of exchanging turns can only be used at the opening. Young friend, you shall find that this next game is not so easy..."
+      }
+    }
+  },
+  "1010806": {
+    "ID Num": 1010806,
+    "Event Title": "++* ⚠⚠⚠ Daily Divination\n",
+    "Event Desc": "//You notice that many Sinners have developed the habit of seeking out Lichen for a daily divination.//",
+    "Sinner": "Lichen",
+    "Text": {
+      "Text 1": "You notice that lately, Sinners have developed the habit of seeking out Lichen for a divination first thing after waking up.",
+      "Text 2": "Rumor has it that Lichen has her own rules for divination. She doesn't answer specific questions, but instead offers vague instructions—from advising Sinners on whether today is suitable for exercise, to what color of clothes to wear, and other such trivial matters.",
+      "Text 3": "Everyone who receives her guidance goes on to have a smooth and pleasant day. And so, you decide to test out this mystical Eastian divination for yourself.",
+      "Text 4": "Lichen: Young friend... I have expected your arrival...",
+      "Choice 5": "Explain why you're here",
+      "Text 6": "Chief: I'd like a reading too, if you don't mind. Could you divine something for me?",
+      "Text 7": "Lichen: Hmm... I offer nothing beyond the little things of the day...",
+      "Text 8": "Lichen: However, young friend... You shall know there is no need to visit the cafeteria for your meals today.",
+      "Path 1": {
+        "Choice 9": "Press for a reason",
+        "Text 10": "Chief: Why? Is something going to happen at the cafeteria again?",
+        "Text 11": "You keep pressing, your eyes brimming with the fervor of someone determined to nip trouble in the bud. Left with little choice, Lichen relents and offers you another hint.",
+        "Text 12": "Lichen: This concerns none but you, young friend... You are favored by food on this day... Travel as you please, for fine delicacies shall find their way to you... that is all the heavens have revealed.",
+        "Text 13": "Chief: I think I understand now... So, where would you like to eat?",
+        "Text 14": "Lichen: ...The greenhouse offers a most wonderful view in the afternoon. Perhaps that will prove to be an ideal location, young friend."
+      },
+      "Path 2": {
+        "Choice 15": "Trust her advice",
+        "Text 16": "Though you have no idea what Lichen is really up to, you decide to take her word for it this time.",
+        "Text 17": "But mealtime comes and goes, yet the so-called destined meal does not find its way to you. You remain in your office, so hungry you're getting dizzy.",
+        "Text 18": "Chief: Haha, who knew even Lichen could be wrong like this?",
+        "Text 19": "Lichen: Apologies for the wait, young friend.",
+        "Text 20": "Chief: So... hungry...",
+        "Text 21": "Lichen: The heavens often reveal naught but the shape of things... Yet, the whims of the human heart leave no trace to follow. Young friend, do heed my advice and rely less on divine will... here, this Eastian cuisine should satisfy your hunger..."
+      }
+    }
+  },
   "1020101": {
     "ID Num": 1020101,
     "Event Title": "++* ⚠ Complaint Tickets\n",
@@ -3337,7 +3613,7 @@
       "Text 10": "Sinner C: Ceto, what should we do if we encounter dangerous wild animals?",
       "Text 11": "Ceto: Kill them.",
       "Text 12": "Sinner C: Umm...",
-      "Text 13": "Ceto: For the rest, ask her. She knows everything. I've taught her all I know.",
+      "Text 13": "Ceto: For the rest, ask your Chief.",
       "Text 14": "Ceto hauls you onto the podium and flees, but not before giving your shoulder a quick pat."
     }
   },
@@ -6177,6 +6453,131 @@
       }
     }
   },
+  "1051101": {
+    "ID Num": 1051101,
+    "Event Title": "++* ⚠ Challenge\n",
+    "Event Desc": "//Hilda has gotten completely hooked on crossword puzzles.//",
+    "Sinner": "Hilda",
+    "Text": {
+      "Text 1": "Every morning, she's waiting for \"DisCity Today\" to arrive. She won't even think about starting her day until she's finished with the entertainment section's crossword.",
+      "Choice 2": "She hasn't finished today's puzzle yet. Must be a tricky one.",
+      "Text 3": "Hilda's latest browser search: \"What does 'Ngl' mean?\""
+    }
+  },
+  "1051102": {
+    "ID Num": 1051102,
+    "Event Title": "++* ⚠ Old-Timer\n",
+    "Event Desc": "//An alert pops up from the monitoring system about Hilda.//",
+    "Sinner": "Hilda",
+    "Text": {
+      "Text 1": "Supervision System: Sinner Hilda is rejecting the new food formula. This could lead to nutritional deficiencies. Please intervene.",
+      "Choice 2": "Provide her with a vitamin supplement and give her time to adjust."
+    }
+  },
+  "1051111": {
+    "ID Num": 1051111,
+    "Event Title": "++* ⚠⚠ Noise-Canceling Earphones\n",
+    "Event Desc": "//The sound of thunder makes you think of Hilda.//",
+    "Sinner": "Hilda",
+    "Text": {
+      "Text 1": "Another day of thunderstorms. Remembering Hilda's severe storm anxiety, you go to check on her.",
+      "Text 2": "You find her at her desk, posture rigid. A peal of thunder rolls; her pen stutters to a stop. It's only then she seems to feel your presence, looking up.",
+      "Text 3": "Hilda: You're here, Chief... Are you worried about me?",
+      "Text 4": "Chief: How are those noise-canceling earphones working out for you?",
+      "Text 5": "Hilda: It was very thoughtful of you, Chief. Truly...",
+      "Text 6": "Hilda: But if I'm being honest, they aren't any more effective at sound isolation than my monitoring headphones. And the fit is... less than ideal. I found myself not using them.",
+      "Choice 7": "Express doubts",
+      "Text 8": "Chief: You did remember to turn on the noise-canceling mode, right?",
+      "Text 9": "Hilda: ...Noise-canceling mode?",
+      "Text 10": "Chief: Here, let me show you. Pair them, switch the mode, and then you put them on.",
+      "Text 11": "Chief: Better? The thunder should be gone now.",
+      "Text 12": "Hilda: ...It's gone. The ambient noise has been completely eliminated.",
+      "Text 13": "Hilda: It's not just blocking sound... it's like being suspended in a vacuum. It allows for an unprecedented level of mental clarity. This is... perfect. Thank you, Chief."
+    }
+  },
+  "1051112": {
+    "ID Num": 1051112,
+    "Event Title": "++* ⚠⚠ The Homebody's Focus\n",
+    "Event Desc": "//The Supervision System detects unusual behavior in Hilda.//",
+    "Sinner": "Hilda",
+    "Text": {
+      "Text 1": "Supervision System:<br/>Sinner Hilda has not left her detention area for 72 consecutive hours. Go and inspect?",
+      "Choice 2": "Yes",
+      "Text 3": "You arrive at Hilda's room to find her neatly dressed. She is quietly flipping through the Bureau's new puzzle book with a freshly brewed cup of black tea at her side.",
+      "Choice 4": "Check on her",
+      "Text 5": "Chief: I heard you haven't left your room for days?",
+      "Text 6": "Hilda: ...Has it really been that long?",
+      "Text 7": "Hilda: My apologies for the alarm. There's no need for concern. I've simply been engrossed in these new ciphers. I suppose I lost track of time.",
+      "Text 8": "Chief: Doesn't it get to you, being cooped up in here for so long?",
+      "Text 9": "Hilda: Not in the slightest. The environment is controlled, and all my needs are met. Logically speaking, I could remain here indefinitely without issue.",
+      "Text 10": "Hilda: ...Though, prolonged stillness is unhealthy. It would be logical to move now.",
+      "Text 11": "Hilda: Chief, would you like to join me for a walk?",
+      "Text 12": "Chief: Sure, let's go."
+    }
+  },
+  "1051121": {
+    "ID Num": 1051121,
+    "Event Title": "++* ⚠⚠⚠ Game Experience\n",
+    "Event Desc": "//The TRPG event returns to the Bureau.//",
+    "Sinner": "Hilda",
+    "Text": {
+      "Text 1": "Etti has thrown herself into organizing another TRPG session for the Sinners, her passion evident.",
+      "Text 2": "Etti: Chief! Your arrival is most propitious! You simply must supervise Hilda. She's treating our delightful game as if it were a matter of life and death!",
+      "Choice 3": "Agree",
+      "Text 4": "You agree and settle in to watch. You quickly notice that even though this is just a game, Hilda's concentration is absolute and her play is ruthless.<br/>There's a chilling seriousness to her, as if the fate of city-states, not points, hung in the balance.",
+      "Text 5": "Etti: And so, the narrative reaches its crescendo! Through a series of unfortunate alliances and creative interpretations of loyalty from our dear EMP, the party finds itself in utter disarray!<br/>She stands alone, shields shattered, with but a single, desperate chance for survival remaining. Hilda, the choice rests in your hands...",
+      "Text 6": "EMP: Hey! That's a totally unfair way to put it! I was just adding some narrative spice! Have a heart, save me—!",
+      "Text 7": "Hilda ignores EMP's pleas and instead turns her head, directing her gaze toward you.",
+      "Text 8": "Hilda: Should I save her, Chief? What is your judgment?",
+      "Path 1": {
+        "Choice 9": "Save her",
+        "Text 10": "Chief: Go on and save her. She did help you earlier, after all.",
+        "Text 11": "Hilda gives a silent nod.<br/>As EMP's cheers of relief fill the air, her character not only escapes death but, in a final act of grace, surrenders the crucial item that secures Hilda's victory.",
+        "Text 12": "Chief: See? A little mercy paid off in the end.",
+        "Text 13": "Hilda: ...Indeed. It seems the rules of engagement in a game are far more forgiving than those on a real battlefield."
+      },
+      "Path 2": {
+        "Choice 14": "Remain neutral",
+        "Text 15": "Chief: It's your call.",
+        "Text 16": "With an unreadable calm, Hilda eliminates EMP's character, bringing the adventure to a swift but hollow conclusion. The outcome was never in doubt, yet the victory feels empty.",
+        "Text 17": "Etti: And thus, with a single, precise spell from our mage, the dragon is felled, and our grand tale concludes...<br/>Very well! Next time, I shall craft a narrative robust enough that at least half the party might live to see the dragon's lair.",
+        "Text 18": "Hilda: My apologies. I will attempt to... moderate my approach in the future.",
+        "Text 19": "Hilda: Chief, I suspect your participation would introduce a much-needed variable to the game's logic. Shall we begin another round?",
+        "Text 20": "The other Sinners answer with a chorus of groans, hastily dispersing from the Recreation Area like startled birds."
+      }
+    }
+  },
+  "1051122": {
+    "ID Num": 1051122,
+    "Event Title": "++* ⚠⚠⚠ Beyond the Samples\n",
+    "Event Desc": "//An anonymous complaint from a disgruntled Sinner finds its way to your terminal.//",
+    "Sinner": "Hilda",
+    "Text": {
+      "Text 1": "Anonymous Email:<br/>Chief, you gotta do something about the new Sinner! She's camped out by the outing prep room like she owns the place, just staring a hole through everyone. She even made me show her my snacks! And because of her, my entire secret candy stash got found and wiped out by the others!",
+      "Text 2": "Chief: What's going on here?",
+      "Choice 3": "Go and check",
+      "Text 4": "A review of Hilda's movement logs confirms the last six hours of perfect stillness at the entrance, her vigilant gaze cataloging every soul that passed.",
+      "Text 5": "Only when she sees you does she close the notebook resting on her lap.",
+      "Text 6": "Chief: I thought today was your day to go out. Why are you posted up here?",
+      "Text 7": "Hilda: Chief... I find I prefer observing people from here to going outside myself.",
+      "Text 8": "Hilda: Everyone's clothing, their mannerisms, their personal effects... they all serve as fascinating \"samples\" of the outside world.",
+      "Text 9": "Hilda: For me, this is more interesting than participating. And safer. Even from here, I can still learn what's trending out there.",
+      "Path 1": {
+        "Choice 10": "Encourage her to go out",
+        "Text 11": "Chief: The samples others bring back can only tell you so much.",
+        "Text 12": "Chief: Wouldn't you get a much clearer picture and find what you're really looking for if you went out and saw it for yourself?",
+        "Text 13": "Hilda: ...You're right. First-hand observation is always more reliable than second-hand information.",
+        "Text 14": "Hilda: I'll take your advice, Chief."
+      },
+      "Path 2": {
+        "Choice 15": "Offer to accompany her",
+        "Text 16": "Chief: People-watching has its charms, but you can't really feel the city's pulse until you're out there walking its streets.",
+        "Text 17": "Chief: If you'd rather not go alone, I can clear some time to join you next time.",
+        "Text 18": "Hilda: ...Thank you, Chief. That's very thoughtful of you.",
+        "Text 19": "Hilda: I'll look forward to it, then."
+      }
+    }
+  },
   "1060101": {
     "ID Num": 1060101,
     "Event Title": "++* ⚠ Ice Cream\n",
@@ -7683,6 +8084,337 @@
       }
     }
   },
+  "1061101": {
+    "ID Num": 1061101,
+    "Event Title": "++* ⚠ Novelty Thrill\n",
+    "Event Desc": "//Irrheia has expanded her hobbies.//",
+    "Sinner": "Irrheia",
+    "Text": {
+      "Text 1": "Irrheia has taken up a series of extreme sports, only to lose interest in each one quickly.",
+      "Choice 2": "Support Sinners' exploration of various hobbies"
+    }
+  },
+  "1061102": {
+    "ID Num": 1061102,
+    "Event Title": "++* ⚠ Source of Inspiration\n",
+    "Event Desc": "//You receive a complaint about Irrheia.//",
+    "Sinner": "Irrheia",
+    "Text": {
+      "Text 1": "Lurking in the shadows along well-trodden paths, Irrheia makes everyone uneasy by watching them. She insists, however, that she is only searching for story inspiration.",
+      "Choice 2": "Ask her to be mindful of her facial expressions."
+    }
+  },
+  "1061111": {
+    "ID Num": 1061111,
+    "Event Title": "++* ⚠⚠ Building Blocks Resurrected\n",
+    "Event Desc": "//A new conflict emerges among the Sinners.//",
+    "Sinner": "EMP",
+    "Text": {
+      "Text 1": "EMP drags you to a spot where Irrheia sits, calmly reading a book.",
+      "Text 2": "EMP: Chief, it's a catastrophe! You gotta see this! Irrheia totally wrecked my limited-edition Hallowing building blocks! I'm, like, actually gonna die!",
+      "Choice 3": "What happened?",
+      "Text 4": "Irrheia: \"Wrecked\" is such a pedestrian critique. I just returned your forgotten props to the stage, allowing them to fulfill their true purpose.",
+      "Text 5": "You dismiss their argument and head to EMP's room to inspect the building blocks yourself.",
+      "Text 6": "Before you can turn on the light, a ghastly pale face looming behind the door startles you.<br/>In the dimness, you see that Irrheia has reassembled the once-cute ghost blocks into a deathly white portrait. The crude construction technique makes the figure in this makeshift artwork appear more terrifying than an actual ghost.",
+      "Text 7": "EMP: See?! Even Chief jumped! So you see, right? It's not just me! This isn't a \"me\" problem!",
+      "Choice 8": "You probably shouldn't do this again.",
+      "Text 9": "Irrheia: Heh. Slaving over an instruction manual is such a bore. But if this particular act fails to entertain, we can always move to the next.",
+      "Text 10": "Irrheia: Shall we craft a ghostly pale hand? Or perhaps a lamp, with a skeletal grin for a shade? The choice is yours.",
+      "Text 11": "EMP: Waaahhhh! Chief—!!"
+    }
+  },
+  "1061112": {
+    "ID Num": 1061112,
+    "Event Title": "++* ⚠⚠ Face Blindness\n",
+    "Event Desc": "//This year's Hallowing candies are very popular among the Sinners.//",
+    "Sinner": "Hella",
+    "Text": {
+      "Text 1": "You receive an email from Irrheia.",
+      "Text 2": "Irrheia: Chief, our stock of Hallowing candies has been exhausted again. I request a double supply of caramel crucibles and ghost marshmallows.",
+      "Choice 3": "Again?",
+      "Text 4": "Chief: You're saying that over a hundred Sinners lined up and took all the candy in just ten minutes?",
+      "Text 5": "Irrheia: Precisely. That's the scene as it played out. My role was simple: offer a treat to anyone who presented a name not yet in our ledger.",
+      "Choice 6": "...I'll help you distribute the candy.",
+      "Text 7": "Your arrival with Irrheia in the Outdoor Activity Area prompts most of the candy-obsessed Sinners to fall in line, though a few still dare to defy authority for the sake of sweets.",
+      "Text 8": "Hella: Hey, no fair, Chief! How come I don't get any? The name \"Hella\" hasn't been on your list even once!",
+      "Text 9": "Chief: True, \"Hella\" isn't registered. But you're the one who registered all these other names, aren't you?",
+      "Text 10": "Chief: \"Chief Dummy,\" \"Syndicate Rat Queen\"...",
+      "Text 11": "Hella: Whoa, okay, okay! I give up! No more candy for me! Jeez, it's so embarrassing when you just read them out like that!",
+      "Text 12": "Irrheia: Hehe, so you're Hella? What a delightful twist in the script. I'll be sure to remember your role from now on.",
+      "Text 13": "Chief: In that case, I'll help you get to know everyone in the Outdoor Activity Area. Once you can recognize them all, no one will be able to claim candy under false names.",
+      "Text 14": "Irrheia: A guided tour of the cast? Now that promises to be a refreshing new chapter."
+    }
+  },
+  "1061121": {
+    "ID Num": 1061121,
+    "Event Title": "++* ⚠⚠⚠ Doom Game\n",
+    "Event Desc": "//A strange notebook has found its way to you.//",
+    "Sinner": "Irrheia",
+    "Text": {
+      "Text 1": "A weathered notebook has materialized on your desk. Its pages are a mosaic of doodles and text, offering no clue to its owner or how long it has been circulating through the Bureau.",
+      "Choice 2": "Examine carefully",
+      "Text 3": "As you open it, a wave of divine knowledge reveals the immutable rules:<br/>You are now the holder, and you will be haunted by misfortune.<br/>The curse cannot be broken, only transferred.<br/>Your only path to freedom is to complete the task written by the last owner, create a new task for the next, and pass the notebook on.",
+      "Text 4": "Chief: The task I have to complete is... giving everyone at the Bureau a day off...",
+      "Text 5": "Chief: I could use a day off myself...",
+      "Text 6": "You've already guessed who's behind this prank. Now, the choice is yours.",
+      "Path 1": {
+        "Choice 7": "End this charade",
+        "Text 8": "After you contact her, Irrheia promptly arrives at your office. She flips through the notebook with delight, completely absorbed in admiring her handiwork.",
+        "Text 9": "Irrheia: What a delightful cast of characters our Bureau has... Tell me, Chief, did you call me here because you're afraid the next act of this tragedy will feature you?",
+        "Text 10": "Chief: You've gotten enough material by now, haven't you? Time to end this prank?",
+        "Text 11": "Irrheia: Oh, I suppose. It has been quite entertaining.",
+        "Text 12": "Irrheia: Now, the real question is... how should I gather material next time? Hehe."
+      },
+      "Path 2": {
+        "Choice 13": "Play along",
+        "Text 14": "After writing down a new task, you pass the notebook to Irrheia.",
+        "Text 15": "Irrheia: Chief, either you've fundamentally misunderstood the nature of this game, or you're making a deliberate, and quite fascinating, attempt to subvert its very architect. Which is it?",
+        "Text 16": "Chief: The day off is on the calendar for next week. Your new task, until then, is to make sure this \"misfortune\" doesn't come knocking at my door.",
+        "Text 17": "Irrheia: Oh, you are a clever one... Just when I think I've predicted your moves, you change the rules of the board."
+      }
+    }
+  },
+  "1061122": {
+    "ID Num": 1061122,
+    "Event Title": "++* ⚠⚠⚠ Evil Cuisine Contest\n",
+    "Event Desc": "//Irrheia has sent you an event request.//",
+    "Sinner": "Irrheia",
+    "Text": {
+      "Text 1": "Approval System Notification:<br/>Title: Evil Cuisine Contest<br/>Time: Weekend XX<br/>Location: Bureau Recreation Area<br/>Organizer: Irrheia",
+      "Text 2": "Please refer to the attached files for detailed event schedule and participation requirements.",
+      "Choice 3": "Put request on hold",
+      "Text 4": "Seeing Irrheia's eager smile before you, you can no longer hold back your growing doubts.",
+      "Text 5": "Chief: Irrheia, are you trying to destroy the Bureau?",
+      "Text 6": "Irrheia: Of course not. With you at the helm, Chief, do you truly believe a mere culinary contest could unravel this grand institution?",
+      "Path 1": {
+        "Choice 7": "Try to understand",
+        "Text 8": "Chief: Why do you want to hold an \"evil cuisine contest\"?",
+        "Text 9": "Irrheia: Traditional cooking is a cage, a mindless recitation of recipes. It binds the chef's soul to the page.<br/>But evil cuisine... it is an uncharted frontier. The one, true catalyst for culinary evolution, waiting just beyond the pale of common understanding.",
+        "Text 10": "Chief: Isn't it wasteful if the food is so unusual that no one wants to eat it?",
+        "Text 11": "Irrheia: On that point, you can rest entirely assured. I've already secured the most adventurous of Sinners as our willing taste-testers. We shall tailor the portions to their formidable appetites; not a single, revolutionary morsel will be wasted.",
+        "Text 12": "Chief: Since you've already made all the arrangements, I suppose I have no reason to stop you.",
+        "Text 13": "Irrheia: I do so wonder what fascinating expression will grace your face when you sample our creations, Chief..."
+      },
+      "Path 2": {
+        "Choice 14": "Decline politely",
+        "Text 15": "Chief: I understand you enjoy experimenting with unusual foods, but isn't holding an \"evil cuisine contest\" a bit too extreme?",
+        "Text 16": "Irrheia: An ordinary contest would simply reinforce the old walls. Only by confronting the \"extreme\" can we truly shatter the shell of culinary habit!",
+        "Text 17": "Irrheia: The Bureau is brimming with remarkable chefs, Chief. Surely you have faith in their transformative potential?",
+        "Text 18": "Chief: Okay...",
+        "Text 19": "Irrheia: I am certain this little contest will provide the necessary perspective for you to finally appreciate the exquisite worth of evil cuisine."
+      }
+    }
+  },
+  "1061201": {
+    "ID Num": 1061201,
+    "Event Title": "++* ⚠ A Brief Landing\n",
+    "Event Desc": "//Margaret has a passion for birdwatching.//",
+    "Sinner": "Margaret",
+    "Text": {
+      "Text 1": "Margaret has a passion for birdwatching. She keeps quite a collection of rare species in her conservatory, though according to her, the bird she desires most has yet to be acquired.",
+      "Choice 2": "Is it a bird that went extinct before Nightfall?",
+      "Text 3": "Margaret: The one I yearn for is a little gray pigeon. It's clever, quick-witted, and ever so cautious. It lands on my branch so gracefully, yet never stays for too long... Hehe. What an adorable little thing."
+    }
+  },
+  "1061202": {
+    "ID Num": 1061202,
+    "Event Title": "++* ⚠ Travel Mementos\n",
+    "Event Desc": "//Margaret has sent you a request.//",
+    "Sinner": "Margaret",
+    "Text": {
+      "Text 1": "Margaret is requesting a spare room to display souvenirs from her journeys in the farlands. Her collection consists of strange statues, ancient murals, a birdcage made of solid gold...",
+      "Choice 2": "Reject"
+    }
+  },
+  "1061211": {
+    "ID Num": 1061211,
+    "Event Title": "++* ⚠⚠ The Seating Challenge\n",
+    "Event Desc": "//The Bureau's gala is fast approaching, and someone seems to be fretting over the preparations...//",
+    "Sinner": "Margaret",
+    "Text": {
+      "Text 1": "On the eve of the Bureau's gala, Wynn sits surrounded by piles of name cards and seating charts, scratching her head in visible distress.",
+      "Text 2": "Chief: Running into trouble?",
+      "Text 3": "Wynn: Chief... the seating arrangement is impossible. These two Sinners had a falling out during their last mission. They'll be at each other's throats if put together. These two squads despise each other and don't get along at all. And then there are these super introverted Sinners. If we seat them together, that table won't hear a peep until the party's over...",
+      "Text 4": "Wynn: What do I do, Chief? Please help me!",
+      "Text 5": "You find yourself equally stumped. While you're mulling over the problem, a gentle voice chimes in.",
+      "Text 6": "Margaret: It seems our dear Wynn has run into trouble. If you wouldn't mind, perhaps I could give it a try? I happen to know a thing or two about our colleagues' temperaments and preferences.",
+      "Choice 7": "Leave the arrangements to her",
+      "Text 8": "Chief: Then we'll leave it to you, Ms. Margaret.",
+      "Text 9": "Margaret: Happy to be of service.",
+      "Text 10": "She takes the guest list, her fingertips gliding lightly across the paper as she makes the occasional note. Once she finishes, she hands the revised seating chart back to Wynn, then turns to you with a reassuring smile.",
+      "Text 11": "Margaret: Rest assured, Chief. The gala will proceed without a hitch.",
+      "Text 12": "On the night of the gala, the atmosphere is remarkably harmonious. Every table buzzes with lively conversation. No awkward silence, no drama. You survey the venue with satisfaction, your gaze eventually settling on the person most responsible for this success. Margaret, however, isn't seated at the head table. Instead, she's at the bar in the distance, effortlessly exchanging toasts with several guests.",
+      "Text 13": "You notice that the small group around her includes a prominent financial figure, an influential artist, and a well-known philanthropist. They're passing around an elegantly designed charity auction proposal with keen interest.",
+      "Text 14": "Guest A: The ambience tonight is exceptional. From the seating arrangements to the music and lighting. Every detail feels just right. All thanks to Chief's meticulous planning.",
+      "Text 15": "Guest B: Indeed, every detail has been so thoughtfully considered. Otherwise, we wouldn't be having such a pleasant chat. Ms. Margaret's charity proposal just now is truly moving.",
+      "Text 16": "Margaret: Oh, I should be the one thanking you... For the children still suffering, for a brighter future, my efforts alone are far from enough. I can only hope for your support, so that this glimmer of hope might reach a few more dim corners.",
+      "Text 17": "Amid the clinking of glasses, signatures fill the proposal. As you approach, she tucks away the last document, wearing a perfect, decent smile.",
+      "Text 18": "Margaret: Chief, are you pleased with how the evening has turned out?",
+      "Text 19": "Chief: Of course. Though... I guess you should be the one who's most pleased tonight? Was this table your target from the very beginning?",
+      "Text 20": "Margaret: Is it not better to accomplish several things at once? The gala's harmony is preserved, and a worthy cause finds its patrons. After all, guiding the right resources to where they're needed most has always been... an elegant art.",
+      "Text 21": "Margaret raises her glass to you in a silent toast. In the flickering light, you cannot quite make out the smile on her face."
+    }
+  },
+  "1061212": {
+    "ID Num": 1061212,
+    "Event Title": "++* ⚠⚠ In Vino Veritas\n",
+    "Event Desc": "//At the banquet, you slip outside for some fresh air, claiming you can't hold your drink.//",
+    "Sinner": "Margaret",
+    "Text": {
+      "Text 1": "There you find Margaret, who appears to have slipped out with the same excuse.",
+      "Choice 2": "Greet her",
+      "Text 3": "Chief: Hi there. Here for a quiet break too?",
+      "Text 4": "Margaret: Oh, Chief, I know you'll get me. The banquet is lively, but sometimes one just wants to admire the peaceful moonlight.",
+      "Text 5": "She settles beside you, a faint, crisp scent of wine wafting near in the night breeze. Your conversation drifts from the moonlight to the Bureau's daily affairs, from idle small talk to the worries you each carry.",
+      "Text 6": "Margaret: Sometimes, the higher one's position, the harder it is to speak one's mind, isn't it? After all, not everyone can truly understand the weight you carry...",
+      "Text 7": "Margaret: You know, sometimes I envy your decisiveness. Take that \"sensitive matter\" you handled last month, for instance. Had it been me, I fear I would have hesitated too long for fear of complications... Especially given how delicate the backgrounds of those involved were.",
+      "Text 8": "Chief: Just doing my job.",
+      "Text 9": "You don't respond, deftly steering the conversation elsewhere. You believe you've handled it well. She simply keeps you company, downing glass after glass of margarita, watching the flush creep across your cheeks and around your eyes.",
+      "Text 10": "The next morning, you wake to find a note with elegant cursive writing pinned beneath a wine glass. It outlines her thoughts and advice regarding that \"internal matter,\" and you find that they are the same as yours.",
+      "Text 11": "You finally understand her true purpose in mentioning that \"sensitive matter\" last night. Not to pry words from your lips, but to study your reactions and read your unspoken thoughts.",
+      "Text 12": "After all, it seems you were the only one who truly couldn't hold your drink."
+    }
+  },
+  "1061221": {
+    "ID Num": 1061221,
+    "Event Title": "++* ⚠⚠⚠ Broken-Winged Dove\n",
+    "Event Desc": "//You receive an SOS from Pricilla and Tetra.//",
+    "Sinner": "Tetra",
+    "Text": {
+      "Text 1": "You receive an SOS from Pricilla and Tetra. Their magic show dove has been injured and is currently being transported back to the Bureau. Upon hearing this, Margaret volunteers to help.",
+      "Text 2": "Margaret: Oh, the poor little thing. It must be in such pain and fear, badly hurt like that...",
+      "Text 3": "Margaret: Chief, please send it to me. I've raised quite a few birds at home, so I have experience caring for them. It will be in good hands, I assure you.",
+      "Text 4": "After some consideration, you entrust the dove to Margaret's care, along with a few reminders.",
+      "Text 5": "Chief: Pricilla mentioned this dove is quite clever. It can open its cage and escape on its own. Definitely keep a close eye on it.",
+      "Text 6": "Margaret: Rest assured, I'll return it to you in perfect condition.",
+      "Text 7": "A few months later, when you see the dove again alongside Pricilla and Tetra, you are nearly struck speechless by its current state.",
+      "Text 8": "The word \"dove\" no longer seems adequate to describe it. Looking at its robust frame and plump breast, you feel that \"feathered bowling ball\" would be far more fitting.",
+      "Text 9": "Chief: This is...?",
+      "Text 10": "Margaret: The same little guy that was injured. When I first brought it home, it was so tiny and pitiful-looking. Just look at how lively and healthy it is now!",
+      "Text 11": "Chief: It got this fat in just a few months?",
+      "Text 12": "Margaret: The bird feed is specially prepared by my family's butler and delivered here. Let me see... There are rare seeds air-shipped from the farlands, imported fresh fruits, Fraser-grown nuts, and competition-grade olive oil from The Great Expo...",
+      "Text 13": "Chief: ...Well, that does sound nutritious.",
+      "Text 14": "You watch as the \"feathered bowling ball\" flutters twice in its nest. Its pitiful wings, now comically disproportionate to its massive frame, fail to support its weight and droop down in defeat.",
+      "Text 15": "Margaret: This little guy was quite the troublemaker at first. It kept escaping before its injury had healed, and nearly broke another bone outside. Poor thing.",
+      "Text 16": "Margaret: Then it occurred to me. Whatever the breed, if a bird can't fly, it will never escape or get hurt again... Hehe...",
+      "Text 17": "Margaret: You see, I worked so hard to keep it from escaping.",
+      "Path 1": {
+        "Choice 18": "Praise her efforts",
+        "Text 19": "Chief: Thank you for taking such great care of the injured dove.",
+        "Text 20": "Margaret: I'm so glad you understand. After all, my sole responsibility is to ensure it stays by my side, safe, healthy, and happy. You see how content it is now? It never has to face the dangers of the outside world ever again.",
+        "Text 21": "You look at the smile on Margaret's face, then at the dove that will never fly again. Something feels wrong, but you can't put it into words. All you can do is nod along."
+      },
+      "Path 2": {
+        "Choice 22": "Feel a chill down your spine",
+        "Text 23": "You look at Margaret's smile and feel a chill run down your spine.",
+        "Text 24": "From that day on, a tacit consensus has been established throughout the Bureau: no matter how dire the circumstances, never entrust any living creature to Ms. Margaret's \"care.\""
+      }
+    }
+  },
+  "1061222": {
+    "ID Num": 1061222,
+    "Event Title": "++* ⚠⚠⚠ The Story of a Masterpiece\n",
+    "Event Desc": "//Margaret has recently acquired a famous painting at an auction and invites you to the viewing.//",
+    "Sinner": "Margaret",
+    "Text": {
+      "Text 1": "Margaret has recently acquired a famous painting from before the Nightfall at an auction and invites you to the viewing held at the Bureau.",
+      "Text 2": "Margaret: Behind the birth of this painting lies a sorrowful tale. A child was about to be executed during the war when his pet dove broke free from its cage and threw itself in front of him. The splatter of blood stained the paper the child clutched to his chest.",
+      "Text 3": "Margaret: The child's grandfather brought the bloodstained paper to the artist, who was greatly grieved by the event. With bold, sweeping strokes, he created what would become an immortal masterpiece—a dove soaring through the sky, an olive branch in its beak.",
+      "Text 4": "Margaret: This painting is both a tragedy and a warning. It exposes the brutality and violence of war. And it is precisely because we have witnessed such horrors that we find the courage to embrace warmth and peace. To the peace that shall one day be ours!",
+      "Text 5": "Margaret stands beneath the spotlight as the event's host, delivering her speech and raising her glass. The crowd erupts in applause and cheers. You clap along, genuinely moved, until Margaret's glass clinks yours crisply, drawing back your attention.",
+      "Text 6": "Chief: Congratulations on acquiring such a masterpiece, Ms. Margaret. That was a truly moving story.",
+      "Text 7": "Margaret: Thank you. In this day and age, this version of the story might sound a touch clichéd and old-fashioned... But I believe in turbulent times, people especially need this kind of peace.",
+      "Text 8": "Margaret: However, Chief, there is actually another version of this painting's origin. Would you care to hear it?",
+      "Text 9": "Chief: Please, do tell.",
+      "Text 10": "Margaret: The other story, well... it's rather underwhelming, I'm afraid. The artist took creative liberties with the death of a child who had perished in the war, fabricating that touching tale of a dove protecting its master.",
+      "Text 11": "Margaret: It was because... the artist believed a striking image was needed to ignite the anti-war sentiment among the masses. You see, Chief, sometimes the most compelling \"symbol of peace\" requires the most meticulous calculation. Wouldn't you agree?",
+      "Text 12": "Margaret: Now then, Chief, which story do you find more believable? The touching tale of a dove sacrificing itself to protect its master, or... a carefully choreographed performance, staged by an artist who wished to wake the world?",
+      "Path 1": {
+        "Choice 13": "The first story",
+        "Text 14": "Chief: I'd rather believe the dove truly sacrificed itself to protect its master.",
+        "Text 15": "Margaret: A rather naive way of thinking... But the peace I pursue needs exactly this kind of romantic naivety."
+      },
+      "Path 2": {
+        "Choice 16": "The second story",
+        "Text 17": "Chief: I'm more inclined to believe it was a carefully orchestrated performance.",
+        "Text 18": "Margaret: It seems we are kindred spirits after all, Chief. It's such a pleasure to find someone who understands the deeper meaning behind a piece of \"art.\" Perhaps, in the future, we might craft such stories together..."
+      }
+    }
+  },
+  "1061321": {
+    "ID Num": 1061321,
+    "Event Title": "++* ⚠⚠⚠ ###\n",
+    "Event Desc": "//###//",
+    "Sinner": "Yao",
+    "Text": {
+      "Text 1": "###",
+      "Text 2": "Chief: ###",
+      "Text 3": "Jichuan: ###",
+      "Text 4": "###",
+      "Text 5": "Chief: ###",
+      "Text 6": "###",
+      "Text 7": "Chief: ###",
+      "Text 8": "###",
+      "Text 9": "Jichuan: ###",
+      "Text 10": "Jichuan: ###",
+      "Text 11": "###",
+      "Text 12": "Jichuan: ###",
+      "Text 13": "###",
+      "Path 1": {
+        "Choice 14": "###",
+        "Text 14": "Chief: ###",
+        "Text 15": "Yao: ###",
+        "Text 16": "Chief: ###",
+        "Text 17": "Jichuan: ###",
+        "Text 18": "Jichuan: ###"
+      },
+      "Path 2": {
+        "Choice 19": "###",
+        "Text 19": "Chief: ###",
+        "Text 20": "Jichuan: ###",
+        "Text 21": "Jichuan: ###",
+        "Text 22": "Chief: ###",
+        "Text 23": "Jichuan: ###"
+      }
+    }
+  },
+  "1061322": {
+    "ID Num": 1061322,
+    "Event Title": "++* ⚠⚠⚠ ###\n",
+    "Event Desc": "//###//",
+    "Sinner": "Yugu",
+    "Text": {
+      "Text 1": "###",
+      "Text 2": "###",
+      "Text 3": "Yugu: ###",
+      "Text 4": "Jichuan: ###",
+      "Text 5": "Yugu: ###",
+      "Text 6": "Jichuan: ###",
+      "Text 7": "###",
+      "Text 8": "###",
+      "Text 9": "Yugu: ###",
+      "Text 10": "Chief: ###",
+      "Text 11": "Jichuan: ###",
+      "Path 1": {
+        "Choice 12": "###",
+        "Text 13": "Chief: ###",
+        "Text 14": "Yugu: ###",
+        "Text 15": "Yugu: ###",
+        "Text 16": "Jichuan: ###",
+        "Text 17": "Yugu: ###",
+        "Text 18": "###"
+      },
+      "Path 2": {
+        "Choice 19": "###",
+        "Text 20": "Yugu: ###",
+        "Text 21": "###",
+        "Text 22": "Jichuan: ###",
+        "Text 23": "Yugu: ###",
+        "Text 24": "Jichuan: ###",
+        "Text 25": "###"
+      }
+    }
+  },
   "1110101": {
     "ID Num": 1110101,
     "Event Title": "++* ⚠ Forever Loser\n",
@@ -8835,6 +9567,115 @@
         "Text 21": "Siglinde: Did it actually work? Well then, before the air conditioning is fixed, I'll visit the other rooms and help everyone cool down.",
         "Text 22": "Chief: What a torture..."
       }
+    }
+  },
+  "1111201": {
+    "ID Num": 1111201,
+    "Event Title": "++* ⚠ Heatwave\n",
+    "Event Desc": "//DisCity is experiencing a persistent heatwave.//",
+    "Sinner": "Rumina",
+    "Text": {
+      "Text 1": "Due to the persistent heatwave in DisCity, Rumina has begun to enter a semi-melted state while in public areas.",
+      "Choice 2": "We should consider installing additional air conditioning."
+    }
+  },
+  "1111202": {
+    "ID Num": 1111202,
+    "Event Title": "++* ⚠ Ghostly Nursery Rhyme\n",
+    "Event Desc": "//You receive a complaint about Rumina.//",
+    "Sinner": "Rumina",
+    "Text": {
+      "Text 1": "Rumina has been frightening employees who work overtime by singing nursery rhymes from the Bureau's dark corners at night.",
+      "Choice 2": "Please don't do this again."
+    }
+  },
+  "1111203": {
+    "ID Num": 1111203,
+    "Event Title": "++* ⚠ Human-Shaped Candle\n",
+    "Event Desc": "//You have received a gift from Rumina.//",
+    "Sinner": "Rumina",
+    "Text": {
+      "Text 1": "After another late night at work, you notice two aromatic candles on your desk, promising focus and calm.",
+      "Choice 2": "The gesture would be sweet, if not for the fact it came from human-shaped candles."
+    }
+  },
+  "1111211": {
+    "ID Num": 1111211,
+    "Event Title": "++* ⚠⚠ Organizing Training\n",
+    "Event Desc": "//It's time to have a talk with Rumina.//",
+    "Sinner": "Rumina",
+    "Text": {
+      "Text 1": "Lately, your belongings have a habit of vanishing, only to reappear in the strangest places.",
+      "Text 2": "After finally discovering your missing ID card tucked inside a picture frame, you let out a sigh. The sound draws Rumina from the shadows where she has been observing you.",
+      "Text 3": "Rumina: Chief... are you upset? ...Did Rumina do something to displease you?",
+      "Choice 4": "Explain the situation",
+      "Text 5": "Chief: Rumina, thank you for helping organize my things. But it's frustrating when I can't find what I need. I think I should handle it myself next time.",
+      "Text 6": "Rumina: Hmm, but why must this card, which bears your likeness, be forbidden a place in a frame?",
+      "Text 7": "Chief: Because it's not just a photo; it's my work badge that I need to carry with me.",
+      "Text 8": "Rumina: So, can't chopsticks be kept with spoons either?",
+      "Text 9": "Rumina pulls open a utensil compartment in the dessert cart, and you finally find your favorite pen inside.",
+      "Text 10": "Chief: That's not a chopstick; it's a pen...",
+      "Text 11": "Rumina: Hmm, so many rules to learn... Chief, could you give Rumina another chance?",
+      "Text 12": "Chief: Okay..."
+    }
+  },
+  "1111212": {
+    "ID Num": 1111212,
+    "Event Title": "++* ⚠⚠ Helper\n",
+    "Event Desc": "//After a long day, Rumina has a surprise for you.//",
+    "Sinner": "Rumina",
+    "Text": {
+      "Text 1": "After a day of exhausting work, you collapse into your office chair.",
+      "Text 2": "Rumina: You seem exhausted, Chief. If you'd like, Rumina can massage your shoulders. Brother used to love when Rumina massaged his shoulders...",
+      "Text 3": "Before you can answer, Rumina rolls up her sleeves and eagerly positions herself behind you.<br/>Her fingertips apply the perfect pressure, drawing an involuntary yawn from you.",
+      "Choice 4": "Express thanks",
+      "Text 5": "Chief: Thank you, that feels good.",
+      "Text 6": "Rumina: Rumina is glad... that you enjoy it.",
+      "Text 7": "Encouraged by your praise, Rumina works with renewed vigor. Yet a strange sensation grows, and you realize with a start that there are three hands on your shoulders...",
+      "Choice 8": "Rumina...?",
+      "Text 9": "Rumina: Chief, are there any further requests? You've broken out in a sweat. Is it from heat or chills?",
+      "Text 10": "Chief: Hands... three hands...",
+      "Text 11": "Rumina: Oh, it's just Seon coming to help... Please don't be nervous, Chief. He's very good at taking care of people..."
+    }
+  },
+  "1111221": {
+    "ID Num": 1111221,
+    "Event Title": "++* ⚠⚠⚠ Horror Wax Museum\n",
+    "Event Desc": "//Rumina seems to be secretly preparing something.//",
+    "Sinner": "Rumina",
+    "Text": {
+      "Text 1": "Rumina peers into your office, evidently with something on her mind.",
+      "Choice 2": "Let her in",
+      "Text 3": "Chief: Rumina, what can I do for you?",
+      "Text 4": "Rumina: Chief... do you have a little time to go somewhere with Rumina? Rumina made something for you. A surprise. I hope you'll like it...",
+      "Choice 5": "Agree to go",
+      "Text 6": "You find yourself unable to refuse Rumina. Holding her hand, you approach the entrance to a pitch-black room. Inside, it seems filled with people, all staring at you in an eerie, complete silence.",
+      "Text 7": "Chief: This is...?",
+      "Text 8": "Rumina ignores your concerns, eagerly pulling you into the center of the crowd. The lights flash on, illuminating the eerie, smiling faces of strange figures. After a moment, you spot your own wax replica and finally breathe a sigh of relief.",
+      "Text 9": "Rumina: Look, Chief. I made all these wax figures for you... Faye said the Bureau's Supply Office is having money troubles. If we showed them to people, do you think... it could help the Bureau make money?",
+      "Path 1": {
+        "Choice 10": "Explain the situation",
+        "Text 11": "Chief: You don't need to worry about that. The Bureau will be just fine.",
+        "Text 12": "Rumina: But... Faye said...",
+        "Text 13": "Chief: Anyway, thank you for making these. It was very thoughtful."
+      },
+      "Path 2": {
+        "Choice 14": "Thank Rumina",
+        "Text 15": "Chief: Thank you for making these for the Bureau. As for the money, that's for us adults to handle.",
+        "Text 16": "Chief: If you'd like, I can help you apply to hold a wax figure exhibition.",
+        "Text 17": "Rumina: R-really? Thank you, Chief..."
+      }
+    }
+  },
+  "1111302": {
+    "ID Num": 1111302,
+    "Event Title": "++* ⚠ ###\n",
+    "Event Desc": "//###//",
+    "Sinner": "Mess",
+    "Text": {
+      "Text 1": "###",
+      "Choice 2": "Discipline and punish",
+      "Text 3": "Chief: ###"
     }
   },
   "1120101": {
@@ -12349,6 +13190,134 @@
         "Text 29": "Chief: I see... Actually, I haven't played it either. It's just that for a while, people kept asking me every day if I was selling turnips.",
         "Text 30": "Thalia: Then why don't you buy a game cartridge and try it? Just use my promo code. If you don't like it, you can return it within fourteen days, no questions asked.",
         "Text 31": "Chief: ...How did I end up being the one getting pitched to?"
+      }
+    }
+  },
+  "1141001": {
+    "ID Num": 1141001,
+    "Event Title": "++* ⚠ Vanished\n",
+    "Event Desc": "//Raw meat keeps disappearing from the kitchen.//",
+    "Sinner": "Helga",
+    "Text": {
+      "Text 1": "Raw meat keeps disappearing from the kitchen, and the greedy thief is still at large... until the day Bai Yi's chili-marinated beef goes missing. When Helga's hyenas are spotted panting in the hallway with their tongues lolling out, the culprits are finally exposed.",
+      "Choice 2": "Scold them"
+    }
+  },
+  "1141002": {
+    "ID Num": 1141002,
+    "Event Title": "++* ⚠ Location Tracker\n",
+    "Event Desc": "//Helga handcrafts a pendant for each of the young Sinners.//",
+    "Sinner": "Helga",
+    "Text": {
+      "Text 1": "Helga handcrafts a pendant with a built-in mini-tracker for each of the young Sinners. No more worrying about these little rascals wandering off and getting lost.",
+      "Choice 2": "Access the location tracker",
+      "Text 3": "Chief: Let's see which little troublemaker is running around past bedtime!"
+    }
+  },
+  "1141003": {
+    "ID Num": 1141003,
+    "Event Title": "++* ⚠ Medals and Dust\n",
+    "Event Desc": "//You pick up a few pieces of scrap metal in the Recreation Area.//",
+    "Sinner": "Helga",
+    "Text": {
+      "Text 1": "You pick up a few pieces of scrap metal in the Recreation Area. Someone says Helga was just using them to play marbles with the kids. You take a closer look and realize these are actually Helga's old service medals.",
+      "Choice 2": "Ask Helga about them",
+      "Text 3": "Helga: Oh, those little trinkets. They're bothersome around the neck and get dusty in the drawer. Figured it's better to use them to make the kids happy than let them rot in some box."
+    }
+  },
+  "1141011": {
+    "ID Num": 1141011,
+    "Event Title": "++* ⚠⚠ Woman with the Sunglasses\n",
+    "Event Desc": "//You encounter a glum-looking Helga in the hallway.//",
+    "Sinner": "Helga",
+    "Text": {
+      "Text 1": "You encounter a glum-looking Helga in the hallway.",
+      "Choice 2": "Inquire",
+      "Text 3": "Chief: What's the matter?",
+      "Text 4": "Helga: Ah, it's you, kid. Good timing. I was hoping to have a word. Lately, I always get the feeling someone's watching me. Take right now, for instance. Three o'clock, there's a kid pushing a cart, sneaking glances my way. I don't think I'm imagining it.",
+      "Text 5": "You steal a glance out of the corner of your eye. Indeed, the person at three o'clock is looking in your direction. She didn't imagine it.",
+      "Text 6": "Chief: It's true. That person is definitely watching you.",
+      "Text 7": "Helga: Hmm... And it's not just the staring. Plenty of folks have been avoiding me, too. Last week, a kid practically jumped out of her seat just to get out of my way. Do I really look that unapproachable to the younger generation? ...Surely not?",
+      "Text 8": "Helga removes her sunglasses and gazes into the distance with a heartbroken look. Gasps erupt around you. Everyone witnessing this scene has their jaw on the floor.",
+      "Text 9": "Staff A: Helga... you can see?!",
+      "Text 10": "Staff B: Oh my goodness, we've never seen you with your eyes open, or without those shades. We all thought you were blind...",
+      "Text 11": "You exchange a glance with Helga, spotting the amusement in each other's eyes.",
+      "Text 12": "Chief: So... They're all keeping an eye on you in case you need help, avoiding you so they won't bump into you, and giving up their seats in the cafeteria so you can have somewhere to sit?",
+      "Text 13": "Helga: I wear these shades indoors only to protect my eyes. Never thought I'd be mistaken for a blind person... Guess I need a more obvious sign to clear that up.",
+      "Text 14": "A few days later, you run into Helga in the corridor again. She's still wearing the sunglasses, but this time, no one's confused. Perched conspicuously above the frames is a sign that reads: *I CAN SEE*."
+    }
+  },
+  "1141012": {
+    "ID Num": 1141012,
+    "Event Title": "++* ⚠⚠ Sharpshooter\n",
+    "Event Desc": "//You hear a commotion coming from the Outdoor Activity Area.//",
+    "Sinner": "Helga",
+    "Text": {
+      "Text 1": "Supervision System:<br/>A brawl has been detected in the Outdoor Activity Area. Go and check?",
+      "Choice 2": "Yes",
+      "Text 3": "The moment you step into the Outdoor Activity Area, you spot Helga grabbing the shoulders of two grubby children, cracking jokes to ease the tension between them.",
+      "Text 4": "Helga: Come on now, what's there to fight about? It's just a little shooting game...",
+      "Text 5": "Young Sinner A: It's not that simple! Just now... if he hadn't pushed me, I would've won that plushie!",
+      "Text 6": "Young Sinner B: I-I already said I didn't do it on purpose...",
+      "Text 7": "Young Sinner A: But I only have three tries left. This target moves! It's so hard to hit! I almost had it just now...!",
+      "Text 8": "So it's a squabble over a shooting game prize. Helga gives both children a reassuring squeeze on the shoulders, then picks up the gun.",
+      "Text 9": "Helga: Easy now. Three shots are more than enough.",
+      "Text 10": "Bang. Bang. And now each child clutches a giant plushie, running off while squealing with delight. Helga stays where she is, leisurely wiping down the gun before turning to you, the quiet spectator.",
+      "Text 11": "Helga: So, what do you think, kid?",
+      "Text 12": "You give her a heartfelt round of applause.",
+      "Text 13": "Chief: Incredible marksmanship. All bullseyes.",
+      "Text 14": "Helga: Ha! That's not what I was asking. What do you think of those plushies?",
+      "Text 15": "Chief: ...The plushies?",
+      "Text 16": "Helga: I've got one shot left. Want me to win you one too?",
+      "Text 17": "Chief: Me...? No, I'll pass. I'm not a kid anymore. I don't need prizes.",
+      "Text 18": "Helga: If I say you're a kid, then you're a kid. After a long day's work, you deserve a little something. That's my rule.",
+      "Text 19": "Chief: Umm...",
+      "Text 20": "Helga: What's there to be shy about? If anyone asks, just tell them your granny insisted.",
+      "Text 21": "She raises the rifle, aims, and fires with practiced ease. The balloon pops instantly, the pellet piercing right through the bullseye.",
+      "Text 22": "Helga gives the plushie a casual toss, and a quirky-looking hyena lands squarely in your arms. You look down at it, then back up at Helga."
+    }
+  },
+  "1141021": {
+    "ID Num": 1141021,
+    "Event Title": "++* ⚠⚠⚠ Wellness Boot Camp\n",
+    "Event Desc": "//The supervision system runs an assessment of your physical health.//",
+    "Sinner": "Helga",
+    "Text": {
+      "Text 1": "Supervision System:<br/>Data indicates your physical condition has remained suboptimal for two months. It is recommended that you adjust your daily routine promptly to maintain good health.",
+      "Text 2": "Chief: ...I mean, sure, but does anyone at the Bureau actually go to bed early, eat clean, and exercise 365 days a year without fail?",
+      "Text 3": "Supervision System:<br/>Request received. A matching individual has been found: Sinner Helga.",
+      "Text 4": "Chief: Seriously?",
+      "Text 5": "Supervision System:<br/>It is recommended that you follow Sinner Helga's daily schedule starting tomorrow to improve your physical condition as soon as possible.",
+      "Text 6": "Chief: ...Fine, I guess.",
+      "Text 7": "You decide to accept the challenge. After all, you refuse to be outdone by someone decades your senior. What follows, however, is a day of \"health management\" that completely redefines your understanding of the word \"wellness.\"",
+      "Text 8": "7:00 a.m.",
+      "Text 9": "The alarm drags you out of bed. After a hasty ten-minute wash, you rush to the Outdoor Activity Area, only to find Helga already jogging in the morning light, a thin sheen of sweat glistening on her brow.",
+      "Text 10": "Helga: Morning, kiddo! Here to work out? Wanna join me?",
+      "Text 11": "Chief: Sure... Just let me know if you get tired. I'll pace myself to match you.",
+      "Text 12": "Helga: Oh, don't you worry about me. You set the pace. I'll keep up just fine.",
+      "Text 13": "07:30 a.m.",
+      "Text 14": "Chief: G-Granny... slow down, please... I really... can't keep up...",
+      "Text 15": "You can barely breathe, while Helga has already breezed through ten kilometers and moved on to a set of vigorous military calisthenics. She cheers you on without missing a beat, her voice strong and steady.",
+      "Text 16": "A sinking feeling settles in your gut, but this grueling day has only just begun.",
+      "Text 17": "12:00 p.m.",
+      "Text 18": "Helga: You put in some good work this morning, kid. Here, herb-steamed beef, pan-seared shrimp, grilled chicken breast, and five whole wheat rolls...",
+      "Text 19": "02:00 p.m.",
+      "Text 20": "Helga: Still hungry? Come on, have some of Granny's special green smoothie! It's packed with all the nutrition you need!",
+      "Text 21": "04:00 p.m.",
+      "Text 22": "Helga: Done resting? Time to work those arms. First time? No problem. We'll start slow with the ten-kilo weights.",
+      "Text 23": "09:00 p.m.",
+      "Text 24": "The final drill ends. You collapse to the ground.",
+      "Text 25": "Chief: I... can't go on...",
+      "Text 26": "Helga: You gotta work harder, kiddo. But these things can't be rushed. One step at a time.",
+      "Text 27": "Helga: Want me to bring you along again tomorrow?",
+      "Path 1": {
+        "Choice 28": "Agree",
+        "Text 29": "Chief: Please do!",
+        "Text 30": "Helga: That's the spirit! See you tomorrow morning in the Outdoor Activity Area then."
+      },
+      "Path 2": {
+        "Choice 31": "Reject",
+        "Text 32": "Chief: Um, no, that won't be necessary!"
       }
     }
   },

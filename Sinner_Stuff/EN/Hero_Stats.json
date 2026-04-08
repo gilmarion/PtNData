@@ -1177,6 +1177,178 @@
       }
     }
   },
+  "110108": {
+    "ID Num": 110108,
+    "Sinner": "Lichen",
+    "Internal Name": "lichen",
+    "Sinner No": "MBCC-S-396",
+    "Tendency": "Endura",
+    "Info": "A Sinner adept at defense. Can block <color=#63b4c3>2</color> enemies. When Lichen's <u><link=TipId=10800>Spirituality</link></u> reaches <color=#63b4c3>60</color>, she can cast her Ultimate to enter <u><link=TipId=10802>[Unfettered]</link></u> state. When Lichen is not in <u><link=TipId=10802>[Unfettered]</link></u> state, she automatically enters <u><link=TipId=10801>[Fettered]</link></u> state.",
+    "Mania Intensify Title": "Five Fires Convergence",
+    "Mania Intensify Text": "When Lichen is in <u><link=TipId=10801>[Fettered]</link></u> state, Magic Resistance increases by <color=#63b4c3>10%</color>. When in <u><link=TipId=10802>[Unfettered]</link></u> state, Attack increases by <color=#63b4c3>5%</color>.",
+    "Primary Tags": [
+      "Skill DMG Support",
+      "Burn",
+      "Spirituality"
+    ],
+    "Secondary Tags": [
+      "Magic DMG",
+      "Core DMG",
+      "Skill DMG",
+      "DMG Absorption",
+      "Attack Support",
+      "Shield Support",
+      "Lethality Immunity"
+    ],
+    "block": 2,
+    "hp": [
+      1782,
+      7662
+    ],
+    "atk": [
+      109,
+      467
+    ],
+    "def": [
+      155,
+      666
+    ],
+    "res": [
+      179,
+      769
+    ],
+    "Normal ATK": {
+      "Name": "Pellucid Fire",
+      "Desc": "Lichen does not perform normal attacks. Instead, she continuously rings the Pellucid Bell, inflicting <u><link=TipId=10804>[Burn]</link></u> mark on all enemies within skill range every second.",
+      "LVL 1": "[Burn] mark's Damage Coefficient increases to <color=#63b4c3>50%</color>.",
+      "LVL 2": "[Burn] mark's Damage Coefficient increases to <color=#63b4c3>54%</color>.",
+      "LVL 3": "[Burn] mark's Damage Coefficient increases to <color=#63b4c3>58%</color>.",
+      "LVL 4": "[Burn] mark's Damage Coefficient increases to <color=#63b4c3>63%</color>.",
+      "LVL 5": "[Burn] mark's Damage Coefficient increases to <color=#63b4c3>68%</color>.",
+      "LVL 6": "[Burn] mark's Damage Coefficient increases to <color=#63b4c3>73%</color>.",
+      "LVL 7": "[Burn] mark's Damage Coefficient increases to <color=#63b4c3>79%</color>.",
+      "LVL 8": "[Burn] mark's Damage Coefficient increases to <color=#63b4c3>86%</color>.",
+      "LVL 9": "[Burn] mark's Damage Coefficient increases to <color=#63b4c3>93%</color>.",
+      "LVL 10": "[Burn] mark's Damage Coefficient increases to <color=#63b4c3>100%</color>.",
+      "Can Crit": "No"
+    },
+    "Ultimate ATK": {
+      "Name": "Flame Mantra",
+      "Desc": "Can be used while in <u><link=TipId=10801>[Fettered]</link></u> state. Lichen breaks free from her obsessions, dealing 1 <color=#c47d20>Core Damage</color> to all enemies within skill range and entering <u><link=TipId=10802>[Unfettered]</link></u> state for 12 seconds. While this lasts, Lichen increases skill damage taken by all enemies within skill range by <color=#63b4c3>$0%</color>.",
+      "LVL 1": "Skill Damage taken increases to <color=#63b4c3>15%</color>.",
+      "LVL 2": "Skill Damage taken increases to <color=#63b4c3>16.2%</color>.",
+      "LVL 3": "Skill Damage taken increases to <color=#63b4c3>17.5%</color>.",
+      "LVL 4": "Skill Damage taken increases to <color=#63b4c3>18.9%</color>.",
+      "LVL 5": "Skill Damage taken increases to <color=#63b4c3>20.4%</color>.",
+      "LVL 6": "Skill Damage taken increases to <color=#63b4c3>22%</color>.",
+      "LVL 7": "Skill Damage taken increases to <color=#63b4c3>23.8%</color>.",
+      "LVL 8": "Skill Damage taken increases to <color=#63b4c3>25.7%</color>.",
+      "LVL 9": "Skill Damage taken increases to <color=#63b4c3>27.8%</color>.",
+      "LVL 10": "Skill Damage taken increases to <color=#63b4c3>30%</color>.",
+      "Can Crit": "No"
+    },
+    "Passive Skill 1": {
+      "Name": "Edict of Fire",
+      "Desc": "While in <u><link=TipId=10801>[Fettered]</link></u> state, when an allied Sinner inflicts <u><link=TipId=20530>[Burn]</link></u> mark, Lichen grants that Sinner a (Lichen's Magic Resistance *<color=#63b4c3>$0%</color>) <u><link=TipId=3>Shield</link></u>, up to 100% of that Sinner's HP.<br/>While in <u><link=TipId=10802>[Unfettered]</link></u> state, when an allied Sinner inflicts <u><link=TipId=20530>[Burn]</link></u> mark, Lichen grants that Sinner 1 stack of <u><link=TipId=10805>[Fire Rune]</link></u> mark.",
+      "LVL 1": "Shield coefficient increases to <color=#63b4c3>20%</color>. [Fire Rune] mark's Skill Damage increases to <color=#63b4c3>5%</color>.",
+      "LVL 2": "Shield coefficient increases to <color=#63b4c3>21.6%</color>. [Fire Rune] mark's Skill Damage increases to <color=#63b4c3>5.4%</color>.",
+      "LVL 3": "Shield coefficient increases to <color=#63b4c3>23.3%</color>. [Fire Rune] mark's Skill Damage increases to <color=#63b4c3>5.8%</color>.",
+      "LVL 4": "Shield coefficient increases to <color=#63b4c3>25.2%</color>. [Fire Rune] mark's Skill Damage increases to <color=#63b4c3>6.3%</color>.",
+      "LVL 5": "Shield coefficient increases to <color=#63b4c3>27.2%</color>. [Fire Rune] mark's Skill Damage increases to <color=#63b4c3>6.8%</color>.",
+      "LVL 6": "Shield coefficient increases to <color=#63b4c3>29.4%</color>. [Fire Rune] mark's Skill Damage increases to <color=#63b4c3>7.3%</color>.",
+      "LVL 7": "Shield coefficient increases to <color=#63b4c3>31.7%</color>. [Fire Rune] mark's Skill Damage increases to <color=#63b4c3>7.9%</color>.",
+      "LVL 8": "Shield coefficient increases to <color=#63b4c3>34.3%</color>. [Fire Rune] mark's Skill Damage increases to <color=#63b4c3>8.6%</color>.",
+      "LVL 9": "Shield coefficient increases to <color=#63b4c3>37%</color>. [Fire Rune] mark's Skill Damage increases to <color=#63b4c3>9.3%</color>.",
+      "LVL 10": "Shield coefficient increases to <color=#63b4c3>40%</color>. [Fire Rune] mark's Skill Damage increases to <color=#63b4c3>10%</color>.",
+      "Can Crit": "No"
+    },
+    "Passive Skill 2": {
+      "Name": "Pellucid Resonance",
+      "Desc": "When entering <u><link=TipId=10802>[Unfettered]</link></u> state, Lichen gains 1 stack of <u><link=TipId=10806>[Imperial Bell]</link></u> mark.",
+      "LVL 1": "[Imperial Bell] mark's Healing Coefficient increases to <color=#63b4c3>30%</color>.<br/>[Imperial Bell] mark's Damage Coefficient increases to <color=#63b4c3>300%</color>.",
+      "LVL 2": "[Imperial Bell] mark's Healing Coefficient increases to <color=#63b4c3>32.4%</color>.<br/>[Imperial Bell] mark's Damage Coefficient increases to <color=#63b4c3>324%</color>.",
+      "LVL 3": "[Imperial Bell] mark's Healing Coefficient increases to <color=#63b4c3>35%</color>.<br/>[Imperial Bell] mark's Damage Coefficient increases to <color=#63b4c3>350%</color>.",
+      "LVL 4": "[Imperial Bell] mark's Healing Coefficient increases to <color=#63b4c3>37.8%</color>.<br/>[Imperial Bell] mark's Damage Coefficient increases to <color=#63b4c3>378%</color>.",
+      "LVL 5": "[Imperial Bell] mark's Healing Coefficient increases to <color=#63b4c3>40.8%</color>.<br/>[Imperial Bell] mark's Damage Coefficient increases to <color=#63b4c3>408%</color>.",
+      "LVL 6": "[Imperial Bell] mark's Healing Coefficient increases to <color=#63b4c3>44.1%</color>.<br/>[Imperial Bell] mark's Damage Coefficient increases to <color=#63b4c3>441%</color>.",
+      "LVL 7": "[Imperial Bell] mark's Healing Coefficient increases to <color=#63b4c3>47.6%</color>.<br/>[Imperial Bell] mark's Damage Coefficient increases to <color=#63b4c3>476%</color>.",
+      "LVL 8": "[Imperial Bell] mark's Healing Coefficient increases to <color=#63b4c3>51.4%</color>.<br/>[Imperial Bell] mark's Damage Coefficient increases to <color=#63b4c3>514%</color>.",
+      "LVL 9": "[Imperial Bell] mark's Healing Coefficient increases to <color=#63b4c3>55.6%</color>.<br/>[Imperial Bell] mark's Damage Coefficient increases to <color=#63b4c3>556%</color>.",
+      "LVL 10": "[Imperial Bell] mark's Healing Coefficient increases to <color=#63b4c3>60%</color>.<br/>[Imperial Bell] mark's Damage Coefficient increases to <color=#63b4c3>600%</color>.",
+      "Can Crit": "No"
+    },
+    "Exclusive Crimebrand": {
+      "Name": "Heaven and Earth",
+      "Lore": "\"The Way obeys the order of nature, yet fate rests in my hands.\"",
+      "Desc": "When entering battle, Lichen gains <color=#63b4c3>30</color> <u><link=TipId=10803>Spirituality</link></u>. When entering <u><link=TipId=10802>[Unfettered]</link></u> state, Lichen gains 1 additional stack of <u><link=TipId=10806>[Imperial Bell]</link></u> mark.",
+      "LVL 2": "When entering battle, Lichen gains <color=#63b4c3>45</color> Spirituality.",
+      "LVL 3": "When entering battle, Lichen gains <color=#63b4c3>60</color> Spirituality."
+    },
+    "Shackles": {
+      "Shackle 1": {
+        "Name": "Invocation",
+        "Desc": "When Lichen enters <u><link=TipId=10802>[Unfettered]</link></u> state, all allied Sinners' damage increases by <color=#63b4c3>20%</color> for <color=#63b4c3>12</color> seconds."
+      },
+      "Shackle 2": {
+        "Name": "Shackles Sync I",
+        "Desc": "Magic Resistance increases by <color=#63b4c3>10%</color>."
+      },
+      "Shackle 3": {
+        "Name": "Cleansing Flame",
+        "Desc": "The effects of <u><link=TipId=10805>[Fire Rune]</link></u> mark are enhanced by <color=#63b4c3>50%</color> and last <color=#63b4c3>4</color> seconds longer."
+      },
+      "Shackle 4": {
+        "Name": "Blessing Heat",
+        "Desc": "The damage coefficient of <u><link=TipId=20530>[Burn]</link></u> mark inflicted by allied Sinners increases to <color=#63b4c3>1.5</color> times."
+      },
+      "Shackle 5": {
+        "Name": "Shackles Sync II",
+        "Desc": "Magic Resistance increases by <color=#63b4c3>10%</color>."
+      }
+    },
+    "Compliance Rewards": {
+      "10%": {
+        "Stat1": {
+          "HP": "+88"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      },
+      "20%": {
+        "Stat1": {
+          "HP": "+88"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      },
+      "30%": {
+        "Stat1": {
+          "HP": "+88"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      },
+      "40%": {
+        "Stat1": {
+          "HP": "+88"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      },
+      "50%": {
+        "Stat1": {
+          "HP": "+89"
+        },
+        "Stat2": {
+          "RES": "+9"
+        }
+      }
+    }
+  },
   "110201": {
     "ID Num": 110201,
     "Sinner": "Zoya",
@@ -1919,7 +2091,7 @@
     "Shackles": {
       "Shackle 1": {
         "Name": "Catastrophic Fate",
-        "Desc": "The Attack percentage Yao gains from swallowing allied Sinners increases by <color=#63b4c3>20%</color>."
+        "Desc": "The Attack bonus Yao gains from swallowing allied Sinners increases by <color=#63b4c3>20%</color>."
       },
       "Shackle 2": {
         "Name": "Shackles Sync I",
@@ -9704,7 +9876,7 @@
     },
     "Passive Skill 1": {
       "Name": "Safe Route",
-      "Desc": "When casting Ultimate, all <u><link=TipId= 110321>[Protective Beacon]</link></u> bearers recover <color=#63b4c3>$0%</color> HP.",
+      "Desc": "When casting Ultimate, all <u><link=TipId=110321>[Protective Beacon]</link></u> bearers recover <color=#63b4c3>$0%</color> HP.",
       "LVL 1": "Healing Coefficient increases to <color=#63b4c3>11%</color>.",
       "LVL 2": "Healing Coefficient increases to <color=#63b4c3>11.7%</color>.",
       "LVL 3": "Healing Coefficient increases to <color=#63b4c3>12.5%</color>.",
@@ -15984,7 +16156,7 @@
       },
       "Shackle 4": {
         "Name": "Energy Overflowing",
-        "Desc": "When battle starts, Helga gains <color=#63b4c3>18</color> Energy."
+        "Desc": "When entering battle, Helga gains <color=#63b4c3>18</color> Energy."
       },
       "Shackle 5": {
         "Name": "Shackles Sync III",
@@ -16248,7 +16420,7 @@
     },
     "Passive Skill 2": {
       "Name": "Uncontrollable Blaze",
-      "Desc": "When <u><link=TipId=150241>[Meteorite]</link></u> deals damage, it inflicts the <u><link=TipId= 150242>[Burn]</link></u> mark on enemies.",
+      "Desc": "When <u><link=TipId=150241>[Meteorite]</link></u> deals damage, it inflicts the <u><link=TipId=150242>[Burn]</link></u> mark on enemies.",
       "LVL 1": "[Burn] mark Damage Coefficient increases to <color=#63b4c3>15%</color>.",
       "LVL 2": "[Burn] mark Damage Coefficient increases to <color=#63b4c3>16.2%</color>.",
       "LVL 3": "[Burn] mark Damage Coefficient increases to <color=#63b4c3>17.5%</color>.",
